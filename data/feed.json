@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:30.806Z",
- "totalGuides": 51,
+ "updatedAt": "2026-10-03T21:09:30.950Z",
+ "totalGuides": 52,
  "items": [
+  {
+   "fullName": "SHORiN-KiWATA/linuxqq-wayland-fix",
+   "owner": "SHORiN-KiWATA",
+   "name": "linuxqq-wayland-fix",
+   "url": "https://github.com/SHORiN-KiWATA/linuxqq-wayland-fix",
+   "avatar": "https://avatars.githubusercontent.com/u/161345689?v=4",
+   "description": "修复 Linux QQ 在 Wayland 下的屏幕共享、截图和剪贴板问题",
+   "language": "C",
+   "topics": [],
+   "license": "MIT",
+   "stars": 49,
+   "forks": 8,
+   "createdAt": "2026-10-01T10:57:52Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T21:09:30.949Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/SHORiN-KiWATA/linuxqq-wayland-fix?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/SHORiN-KiWATA/linuxqq-wayland-fix",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/SHORiN-KiWATA/linuxqq-wayland-fix/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/SHORiN-KiWATA/linuxqq-wayland-fix.git\ncd linuxqq-wayland-fix",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/SHORiN-KiWATA/linuxqq-wayland-fix\nWhat it says it does: \"修复 Linux QQ 在 Wayland 下的屏幕共享、截图和剪贴板问题\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T21:09:30.949Z"
+  },
   {
    "fullName": "saawant12/orbit-store-ps5",
    "owner": "saawant12",
@@ -3279,9 +3336,9 @@
   }
  ],
  "levels": {
+  "heavy": 10,
   "read": 6,
   "account": 30,
-  "heavy": 9,
   "instant": 6
  }
 }

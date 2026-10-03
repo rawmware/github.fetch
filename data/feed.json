@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:57:00.353Z",
- "totalGuides": 18,
+ "updatedAt": "2026-10-03T20:57:00.506Z",
+ "totalGuides": 19,
  "items": [
+  {
+   "fullName": "adityajha2005/yc-outreach",
+   "owner": "adityajha2005",
+   "name": "yc-outreach",
+   "url": "https://github.com/adityajha2005/yc-outreach",
+   "avatar": "https://avatars.githubusercontent.com/u/147301021?v=4",
+   "description": "Pick a YC batch, get founders and likely emails, write personalised cold emails from one template. Free, stdlib Python + one HTML file, deploys on Vercel.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 101,
+   "forks": 31,
+   "createdAt": "2026-10-03T06:19:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:57:00.505Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/adityajha2005/yc-outreach/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/adityajha2005/yc-outreach?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/adityajha2005/yc-outreach",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/adityajha2005/yc-outreach/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/adityajha2005/yc-outreach.git\ncd yc-outreach",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/adityajha2005/yc-outreach\nWhat it says it does: \"Pick a YC batch, get founders and likely emails, write personalised cold emails from one template. Free, stdlib Python + one HTML file, deploys on Vercel.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:57:00.505Z"
+  },
   {
    "fullName": "Remocn/remocn-studio",
    "owner": "Remocn",
@@ -1206,7 +1268,7 @@
   }
  ],
  "levels": {
-  "account": 7,
+  "account": 8,
   "read": 2,
   "heavy": 5,
   "instant": 4

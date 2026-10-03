@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_43 guides written so far · last update 2026-10-03 21:09 UTC_
+_44 guides written so far · last update 2026-10-03 21:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [unclejobs-ai/motion-video-skill](https://github.com/unclejobs-ai/motion-video-skill) | Python project | Runs in the browser with a free account | [guide](guides/unclejobs-ai/motion-video-skill.md) |
 | [Zhou-Yujing114514/deepseek-harness-linux](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) | Vite app | Runs in the browser with a free account | [guide](guides/zhou-yujing114514/deepseek-harness-linux.md) |
 | [Burrowtheamend/adobe-illustrator-download-new-fft](https://github.com/Burrowtheamend/adobe-illustrator-download-new-fft) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/burrowtheamend/adobe-illustrator-download-new-fft.md) |
 | [Soulringen/aegis-claude](https://github.com/Soulringen/aegis-claude) | PowerShell project | Runs in the browser with a free account | [guide](guides/soulringen/aegis-claude.md) |
@@ -38,7 +39,6 @@ _43 guides written so far · last update 2026-10-03 21:09 UTC_
 | [QuartzCabinDawn/DiscordFix-Setup](https://github.com/QuartzCabinDawn/DiscordFix-Setup) | Batchfile project | Runs in the browser with a free account | [guide](guides/quartzcabindawn/discordfix-setup.md) |
 | [nailuj05/framemate](https://github.com/nailuj05/framemate) | Rust project | Runs in the browser with a free account | [guide](guides/nailuj05/framemate.md) |
 | [heise3/academic-deai](https://github.com/heise3/academic-deai) | Python project | Runs in the browser with a free account | [guide](guides/heise3/academic-deai.md) |
-| [mkdir700/wx-ime-sdk](https://github.com/mkdir700/wx-ime-sdk) | Rust project | Runs in the browser with a free account | [guide](guides/mkdir700/wx-ime-sdk.md) |
 <!-- latest:end -->
 
 ## How it works

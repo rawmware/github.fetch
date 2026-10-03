@@ -1,8 +1,76 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:56:58.226Z",
- "totalGuides": 6,
+ "updatedAt": "2026-10-03T20:56:58.337Z",
+ "totalGuides": 7,
  "items": [
+  {
+   "fullName": "BootLoops-ai/bootloops",
+   "owner": "BootLoops-ai",
+   "name": "bootloops",
+   "url": "https://github.com/BootLoops-ai/bootloops",
+   "avatar": "https://avatars.githubusercontent.com/u/334378754?v=4",
+   "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+   "language": "Python",
+   "topics": [
+    "bootloops",
+    "feynman-integrals",
+    "llm-agents",
+    "physics",
+    "scientific-computing"
+   ],
+   "license": "MIT",
+   "stars": 202,
+   "forks": 42,
+   "createdAt": "2026-10-01T15:29:28Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:56:58.337Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/BootLoops-ai/bootloops/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/BootLoops-ai/bootloops?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/BootLoops-ai/bootloops",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/BootLoops-ai/bootloops/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/BootLoops-ai/bootloops.git\ncd bootloops",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/BootLoops-ai/bootloops\nWhat it says it does: \"BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:56:58.337Z"
+  },
   {
    "fullName": "StayLameBro/backburner",
    "owner": "StayLameBro",
@@ -436,7 +504,7 @@
   }
  ],
  "levels": {
-  "account": 3,
+  "account": 4,
   "heavy": 2,
   "instant": 1
  }

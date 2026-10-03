@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_34 guides written so far · last update 2026-10-03 20:57 UTC_
+_35 guides written so far · last update 2026-10-03 20:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [QuartzCabinDawn/DiscordFix-Setup](https://github.com/QuartzCabinDawn/DiscordFix-Setup) | Batchfile project | Runs in the browser with a free account | [guide](guides/quartzcabindawn/discordfix-setup.md) |
 | [nailuj05/framemate](https://github.com/nailuj05/framemate) | Rust project | Runs in the browser with a free account | [guide](guides/nailuj05/framemate.md) |
 | [heise3/academic-deai](https://github.com/heise3/academic-deai) | Python project | Runs in the browser with a free account | [guide](guides/heise3/academic-deai.md) |
 | [mkdir700/wx-ime-sdk](https://github.com/mkdir700/wx-ime-sdk) | Rust project | Runs in the browser with a free account | [guide](guides/mkdir700/wx-ime-sdk.md) |
@@ -38,7 +39,6 @@ _34 guides written so far · last update 2026-10-03 20:57 UTC_
 | [gillesgoetsch/omacvm](https://github.com/gillesgoetsch/omacvm) | Shell project | Runs in the browser with a free account | [guide](guides/gillesgoetsch/omacvm.md) |
 | [zoolapp/aime](https://github.com/zoolapp/aime) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zoolapp/aime.md) |
 | [jarrodwatts/claude-image-view](https://github.com/jarrodwatts/claude-image-view) | TypeScript project | Runs in the browser with a free account | [guide](guides/jarrodwatts/claude-image-view.md) |
-| [egmalt/house-planner](https://github.com/egmalt/house-planner) | Vite app | Runs in a browser tab, no account needed | [guide](guides/egmalt/house-planner.md) |
 <!-- latest:end -->
 
 ## How it works

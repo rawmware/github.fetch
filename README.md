@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_40 guides written so far · last update 2026-10-03 20:57 UTC_
+_41 guides written so far · last update 2026-10-03 21:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Soulringen/aegis-claude](https://github.com/Soulringen/aegis-claude) | PowerShell project | Runs in the browser with a free account | [guide](guides/soulringen/aegis-claude.md) |
 | [Sleepy-Avacado/FigGenie-paper-diagram-skill](https://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill) | Python project | Runs in the browser with a free account | [guide](guides/sleepy-avacado/figgenie-paper-diagram-skill.md) |
 | [bangtutorial/bang-story](https://github.com/bangtutorial/bang-story) | Vite app | Runs in the browser with a free account | [guide](guides/bangtutorial/bang-story.md) |
 | [feiyuaq/zcfsrf](https://github.com/feiyuaq/zcfsrf) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feiyuaq/zcfsrf.md) |
@@ -38,7 +39,6 @@ _40 guides written so far · last update 2026-10-03 20:57 UTC_
 | [mkdir700/wx-ime-sdk](https://github.com/mkdir700/wx-ime-sdk) | Rust project | Runs in the browser with a free account | [guide](guides/mkdir700/wx-ime-sdk.md) |
 | [Dominic-DK/harness-map](https://github.com/Dominic-DK/harness-map) | HTML project | Runs in the browser with a free account | [guide](guides/dominic-dk/harness-map.md) |
 | [henrydennis/petal](https://github.com/henrydennis/petal) | JavaScript project | Runs in the browser with a free account | [guide](guides/henrydennis/petal.md) |
-| [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) | JavaScript project | Runs in the browser with a free account | [guide](guides/jarrodwatts/intermission.md) |
 <!-- latest:end -->
 
 ## How it works

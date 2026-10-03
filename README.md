@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_38 guides written so far · last update 2026-10-03 20:57 UTC_
+_39 guides written so far · last update 2026-10-03 20:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [bangtutorial/bang-story](https://github.com/bangtutorial/bang-story) | Vite app | Runs in the browser with a free account | [guide](guides/bangtutorial/bang-story.md) |
 | [feiyuaq/zcfsrf](https://github.com/feiyuaq/zcfsrf) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feiyuaq/zcfsrf.md) |
 | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zeldawwhdrecomp/zeldawwhdrecomp.md) |
 | [kindlingai/kindling-spark-os](https://github.com/kindlingai/kindling-spark-os) | Docker app | Runs in the browser with a free account | [guide](guides/kindlingai/kindling-spark-os.md) |
@@ -38,7 +39,6 @@ _38 guides written so far · last update 2026-10-03 20:57 UTC_
 | [henrydennis/petal](https://github.com/henrydennis/petal) | JavaScript project | Runs in the browser with a free account | [guide](guides/henrydennis/petal.md) |
 | [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) | JavaScript project | Runs in the browser with a free account | [guide](guides/jarrodwatts/intermission.md) |
 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/replica-skill.md) |
-| [OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant) | Fortran project | Runs in the browser with a free account | [guide](guides/opencourant/opencourant.md) |
 <!-- latest:end -->
 
 ## How it works

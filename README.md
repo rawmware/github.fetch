@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_28 guides written so far · last update 2026-10-03 20:57 UTC_
+_29 guides written so far · last update 2026-10-03 20:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) | JavaScript project | Runs in the browser with a free account | [guide](guides/jarrodwatts/intermission.md) |
 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/replica-skill.md) |
 | [OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant) | Fortran project | Runs in the browser with a free account | [guide](guides/opencourant/opencourant.md) |
 | [gillesgoetsch/omacvm](https://github.com/gillesgoetsch/omacvm) | Shell project | Runs in the browser with a free account | [guide](guides/gillesgoetsch/omacvm.md) |
@@ -38,7 +39,6 @@ _28 guides written so far · last update 2026-10-03 20:57 UTC_
 | [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) | JavaScript project | Runs in the browser with a free account | [guide](guides/lxj5820/dsh-boot-animation.md) |
 | [adityajha2005/yc-outreach](https://github.com/adityajha2005/yc-outreach) | Python project | Runs in the browser with a free account | [guide](guides/adityajha2005/yc-outreach.md) |
 | [Remocn/remocn-studio](https://github.com/Remocn/remocn-studio) | Next.js app | Runs in the browser with a free account | [guide](guides/remocn/remocn-studio.md) |
-| [KODAMA-TECHNOLOGY/Chat_UI](https://github.com/KODAMA-TECHNOLOGY/Chat_UI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kodama-technology/chat_ui.md) |
 <!-- latest:end -->
 
 ## How it works

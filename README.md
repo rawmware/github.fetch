@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_58 guides written so far · last update 2026-10-03 21:09 UTC_
+_59 guides written so far · last update 2026-10-03 21:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [vedantdhande04/tweetytweets](https://github.com/vedantdhande04/tweetytweets) | Python project | Runs in the browser with a free account | [guide](guides/vedantdhande04/tweetytweets.md) |
 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | Python project | Runs in the browser with a free account | [guide](guides/facebookresearch/swe-sweep.md) |
 | [xop01/ai_goodpractice](https://github.com/xop01/ai_goodpractice) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/xop01/ai_goodpractice.md) |
 | [chen-006/meow-ai-arena](https://github.com/chen-006/meow-ai-arena) | HTML project | Runs in the browser with a free account | [guide](guides/chen-006/meow-ai-arena.md) |
@@ -38,7 +39,6 @@ _58 guides written so far · last update 2026-10-03 21:09 UTC_
 | [real-simple-labs/ai-creative-strategist-blueprint-ii](https://github.com/real-simple-labs/ai-creative-strategist-blueprint-ii) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/real-simple-labs/ai-creative-strategist-blueprint-ii.md) |
 | [Tuskira/ai-agent-gateway](https://github.com/Tuskira/ai-agent-gateway) | Go project | Runs in the browser with a free account | [guide](guides/tuskira/ai-agent-gateway.md) |
 | [DozenTwelve/Papermorph](https://github.com/DozenTwelve/Papermorph) | HTML project | Runs in the browser with a free account | [guide](guides/dozentwelve/papermorph.md) |
-| [flaviocopes/factorylog](https://github.com/flaviocopes/factorylog) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/flaviocopes/factorylog.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:30.339Z",
- "totalGuides": 47,
+ "updatedAt": "2026-10-03T21:09:30.434Z",
+ "totalGuides": 48,
  "items": [
+  {
+   "fullName": "DozenTwelve/Papermorph",
+   "owner": "DozenTwelve",
+   "name": "Papermorph",
+   "url": "https://github.com/DozenTwelve/Papermorph",
+   "avatar": "https://avatars.githubusercontent.com/u/26440117?v=4",
+   "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+   "language": "HTML",
+   "topics": [],
+   "license": "MIT",
+   "stars": 55,
+   "forks": 3,
+   "createdAt": "2026-10-03T01:38:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T21:09:30.434Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/DozenTwelve/Papermorph?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/DozenTwelve/Papermorph",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/DozenTwelve/Papermorph/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/DozenTwelve/Papermorph.git\ncd Papermorph",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/DozenTwelve/Papermorph\nWhat it says it does: \"An AI skill that turns books into animated, narrated, interactive web experiences\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T21:09:30.434Z"
+  },
   {
    "fullName": "flaviocopes/factorylog",
    "owner": "flaviocopes",
@@ -3067,9 +3122,9 @@
   }
  ],
  "levels": {
+  "account": 29,
   "heavy": 9,
   "instant": 6,
-  "account": 28,
   "read": 4
  }
 }

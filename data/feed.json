@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:56:59.961Z",
- "totalGuides": 16,
+ "updatedAt": "2026-10-03T20:57:00.086Z",
+ "totalGuides": 17,
  "items": [
+  {
+   "fullName": "KODAMA-TECHNOLOGY/Chat_UI",
+   "owner": "KODAMA-TECHNOLOGY",
+   "name": "Chat_UI",
+   "url": "https://github.com/KODAMA-TECHNOLOGY/Chat_UI",
+   "avatar": "https://avatars.githubusercontent.com/u/171581471?v=4",
+   "description": "The fastest and litest LLM chating ui with 2 fields, less than 100 kb and completely no dependent.",
+   "language": null,
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 109,
+   "forks": 15,
+   "createdAt": "2026-10-02T15:31:16Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:57:00.085Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/KODAMA-TECHNOLOGY/Chat_UI",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/KODAMA-TECHNOLOGY/Chat_UI/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/KODAMA-TECHNOLOGY/Chat_UI\nWhat it says it does: \"The fastest and litest LLM chating ui with 2 fields, less than 100 kb and completely no dependent.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:57:00.085Z"
+  },
   {
    "fullName": "rbrown101010/bluey-by-riley",
    "owner": "rbrown101010",
@@ -1079,9 +1127,9 @@
   }
  ],
  "levels": {
+  "read": 2,
   "heavy": 5,
   "account": 6,
-  "read": 1,
   "instant": 4
  }
 }

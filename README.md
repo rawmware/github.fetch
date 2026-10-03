@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_16 guides written so far · last update 2026-10-03 20:56 UTC_
+_17 guides written so far · last update 2026-10-03 20:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [KODAMA-TECHNOLOGY/Chat_UI](https://github.com/KODAMA-TECHNOLOGY/Chat_UI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kodama-technology/chat_ui.md) |
 | [rbrown101010/bluey-by-riley](https://github.com/rbrown101010/bluey-by-riley) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rbrown101010/bluey-by-riley.md) |
 | [zzzz7788990213-ops/EvoVLM](https://github.com/zzzz7788990213-ops/EvoVLM) | Python project | Runs in the browser with a free account | [guide](guides/zzzz7788990213-ops/evovlm.md) |
 | [Kutuyyy/Leaked-System-Prompt-AI](https://github.com/Kutuyyy/Leaked-System-Prompt-AI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kutuyyy/leaked-system-prompt-ai.md) |
@@ -38,7 +39,6 @@ _16 guides written so far · last update 2026-10-03 20:56 UTC_
 | [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) | React app | Runs in a browser tab, no account needed | [guide](guides/mizorewww/x_gift_bot.md) |
 | [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops) | Python project | Runs in the browser with a free account | [guide](guides/bootloops-ai/bootloops.md) |
 | [StayLameBro/backburner](https://github.com/StayLameBro/backburner) | Python project | Runs in the browser with a free account | [guide](guides/staylamebro/backburner.md) |
-| [whirlchat/whirl](https://github.com/whirlchat/whirl) | JavaScript project | Runs in the browser with a free account | [guide](guides/whirlchat/whirl.md) |
 <!-- latest:end -->
 
 ## How it works

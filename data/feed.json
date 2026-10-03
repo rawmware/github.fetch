@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:30.434Z",
- "totalGuides": 48,
+ "updatedAt": "2026-10-03T21:09:30.546Z",
+ "totalGuides": 49,
  "items": [
+  {
+   "fullName": "Tuskira/ai-agent-gateway",
+   "owner": "Tuskira",
+   "name": "ai-agent-gateway",
+   "url": "https://github.com/Tuskira/ai-agent-gateway",
+   "avatar": "https://avatars.githubusercontent.com/u/222668097?v=4",
+   "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+   "language": "Go",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 54,
+   "forks": 8,
+   "createdAt": "2026-10-01T11:32:10Z",
+   "branch": "main",
+   "homepage": "https://tuskira.ai",
+   "addedAt": "2026-10-03T21:09:30.545Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Tuskira/ai-agent-gateway?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Tuskira/ai-agent-gateway",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Tuskira/ai-agent-gateway/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Tuskira/ai-agent-gateway.git\ncd ai-agent-gateway\ngo build ./...",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Tuskira/ai-agent-gateway\nWhat it says it does: \"AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T21:09:30.545Z"
+  },
   {
    "fullName": "DozenTwelve/Papermorph",
    "owner": "DozenTwelve",
@@ -3122,7 +3177,7 @@
   }
  ],
  "levels": {
-  "account": 29,
+  "account": 30,
   "heavy": 9,
   "instant": 6,
   "read": 4

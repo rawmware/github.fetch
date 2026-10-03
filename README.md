@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_48 guides written so far · last update 2026-10-03 21:09 UTC_
+_49 guides written so far · last update 2026-10-03 21:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Tuskira/ai-agent-gateway](https://github.com/Tuskira/ai-agent-gateway) | Go project | Runs in the browser with a free account | [guide](guides/tuskira/ai-agent-gateway.md) |
 | [DozenTwelve/Papermorph](https://github.com/DozenTwelve/Papermorph) | HTML project | Runs in the browser with a free account | [guide](guides/dozentwelve/papermorph.md) |
 | [flaviocopes/factorylog](https://github.com/flaviocopes/factorylog) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/flaviocopes/factorylog.md) |
 | [Itz-Anya/Image-Size-Reducer](https://github.com/Itz-Anya/Image-Size-Reducer) | SvelteKit app | Runs in a browser tab, no account needed | [guide](guides/itz-anya/image-size-reducer.md) |
@@ -38,7 +39,6 @@ _48 guides written so far · last update 2026-10-03 21:09 UTC_
 | [Sleepy-Avacado/FigGenie-paper-diagram-skill](https://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill) | Python project | Runs in the browser with a free account | [guide](guides/sleepy-avacado/figgenie-paper-diagram-skill.md) |
 | [bangtutorial/bang-story](https://github.com/bangtutorial/bang-story) | Vite app | Runs in the browser with a free account | [guide](guides/bangtutorial/bang-story.md) |
 | [feiyuaq/zcfsrf](https://github.com/feiyuaq/zcfsrf) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feiyuaq/zcfsrf.md) |
-| [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zeldawwhdrecomp/zeldawwhdrecomp.md) |
 <!-- latest:end -->
 
 ## How it works

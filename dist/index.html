@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0a0a0b">
+<meta name="description" content="Day 5 of 365 Days of Showing Up: the newest GitHub repos people are starring, each with the simplest one-line install. Updated daily.">
+<meta name="gf-remote-data" content="https://raw.githubusercontent.com/rawmware/github.fetch/main/dist/data/repos.json">
+<title>github.fetch — Fresh Repos, One-Line Installs</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#results" data-jump="results">Skip to repos</a>
+
+<header class="topbar">
+  <button type="button" class="brand" data-jump="top" aria-label="github.fetch — back to top">
+    <svg class="brand-mark" viewBox="0 0 64 64" width="28" height="28" aria-hidden="true" focusable="false">
+      <rect width="64" height="64" rx="14" fill="#0a0a0b"/>
+      <circle cx="22" cy="11" r="3" fill="#fff"/><circle cx="32" cy="8" r="3" fill="#fff"/><circle cx="42" cy="11" r="3" fill="#fff"/>
+      <path d="M12 19h40L37 37v13l-10 5V37z" fill="#fff"/>
+    </svg>
+    <span class="brand-text">github.fetch <small>RAWMWARE · DAY 005 / 365</small></span>
+  </button>
+  <a class="top-link" href="https://github.com/rawmware/github.fetch" target="_blank" rel="noopener noreferrer">Source ↗</a>
+</header>
+
+<main id="top" tabindex="-1">
+  <section class="hero" aria-labelledby="hero-title">
+    <p class="eyebrow">Day 5 · 365 Days of Showing Up</p>
+    <h1 id="hero-title">The newest GitHub repos worth a star — and the one line to install each.</h1>
+    <p class="lede">Every morning a robot searches GitHub for fresh repositories people are starring, figures out the simplest way to install each one, and publishes the list here.</p>
+    <p class="status" id="status">Updated daily · last run <time id="last-run">…</time></p>
+    <p class="stale" id="stale" hidden></p>
+  </section>
+
+  <section class="stats" aria-label="Snapshot stats">
+    <div class="tile"><b id="stat-total">—</b><span>repos tracked</span></div>
+    <div class="tile"><b id="stat-langs">—</b><span>languages</span></div>
+    <div class="tile"><b id="stat-oneliner">—</b><span>with a one-line install</span></div>
+    <div class="tile tile--riser"><b id="stat-riser">—</b><span id="stat-riser-label">fastest riser</span></div>
+  </section>
+
+  <form class="controls" role="search" id="controls" aria-label="Filter repos">
+    <fieldset class="windows">
+      <legend>Created in</legend>
+      <div class="seg" id="window-group">
+        <label><input type="radio" name="w" value="24h"><span>24h <em data-count="24h"></em></span></label>
+        <label><input type="radio" name="w" value="7d"><span>7 days <em data-count="7d"></em></span></label>
+        <label><input type="radio" name="w" value="30d"><span>30 days <em data-count="30d"></em></span></label>
+        <label><input type="radio" name="w" value="all"><span>All <em data-count="all"></em></span></label>
+      </div>
+    </fieldset>
+    <div class="field">
+      <label for="f-lang">Language</label>
+      <select id="f-lang" name="lang"><option value="">All languages</option></select>
+    </div>
+    <div class="field">
+      <label for="f-m">Install</label>
+      <select id="f-m" name="m"></select>
+    </div>
+    <div class="field field--grow">
+      <label for="f-q">Search</label>
+      <input id="f-q" name="q" type="search" placeholder="name, description or topic" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="field">
+      <label for="f-sort">Sort</label>
+      <select id="f-sort" name="sort">
+        <option value="stars">Stars</option>
+        <option value="newest">Newest</option>
+        <option value="velocity">Stars/day</option>
+        <option value="gained">Gained today</option>
+      </select>
+    </div>
+    <div class="field field--btn">
+      <button type="button" class="btn" id="reset">Reset</button>
+    </div>
+    <p class="count" id="count" aria-live="polite"></p>
+  </form>
+
+  <section id="results" class="results" tabindex="-1" aria-label="Repositories" aria-busy="true">
+    <div class="panel" id="error" hidden>
+      <p>Couldn’t load today’s repos.</p>
+      <button type="button" class="btn" id="retry">Retry</button>
+    </div>
+    <div class="panel" id="empty" hidden>
+      <p id="empty-text">No repos match these filters.</p>
+      <button type="button" class="btn" id="empty-reset">Reset filters</button>
+    </div>
+    <ol class="grid" id="grid"></ol>
+    <div class="more-wrap"><button type="button" class="btn" id="more" hidden>Show 30 more</button></div>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <p>Data: GitHub Search API · refreshed daily at 06:17 UTC by GitHub Actions</p>
+  <p>Commands are shown, never run — read before you paste.</p>
+  <p><a href="data/repos.json">data/repos.json</a> · <a href="https://github.com/rawmware/github.fetch" target="_blank" rel="noopener noreferrer">Source on GitHub</a></p>
+  <p>A Rawmware project · Day 5 of 365</p>
+</footer>
+
+<div class="sr" id="announce" aria-live="polite"></div>
+<noscript><p class="noscript">github.fetch needs JavaScript to render the list. The raw data is at <a href="data/repos.json">data/repos.json</a>.</p></noscript>
+</body>
+</html>

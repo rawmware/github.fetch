@@ -1,0 +1,34 @@
+name: daily-update
+on:
+  schedule:
+    - cron: "17 6 * * *"        # 06:17 UTC daily
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with: { node-version: 22 }
+      - name: Fetch repos
+        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
+        run: node scripts/fetch-repos.mjs
+      - name: Validate
+        run: node scripts/validate-data.mjs
+      - name: Test
+        run: node --test scripts/test.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "chore(data): daily snapshot $(date -u +%F)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

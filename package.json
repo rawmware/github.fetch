@@ -1,0 +1,13 @@
+{
+  "name": "github-fetch",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node scripts/fetch-repos.mjs",
+    "seed": "node scripts/fetch-repos.mjs --seed scripts/fixtures/seed-search.json",
+    "validate": "node scripts/validate-data.mjs",
+    "test": "node --test scripts/test.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

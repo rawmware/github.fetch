@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_33 guides written so far · last update 2026-10-03 20:57 UTC_
+_34 guides written so far · last update 2026-10-03 20:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [nailuj05/framemate](https://github.com/nailuj05/framemate) | Rust project | Runs in the browser with a free account | [guide](guides/nailuj05/framemate.md) |
 | [heise3/academic-deai](https://github.com/heise3/academic-deai) | Python project | Runs in the browser with a free account | [guide](guides/heise3/academic-deai.md) |
 | [mkdir700/wx-ime-sdk](https://github.com/mkdir700/wx-ime-sdk) | Rust project | Runs in the browser with a free account | [guide](guides/mkdir700/wx-ime-sdk.md) |
 | [Dominic-DK/harness-map](https://github.com/Dominic-DK/harness-map) | HTML project | Runs in the browser with a free account | [guide](guides/dominic-dk/harness-map.md) |
@@ -38,7 +39,6 @@ _33 guides written so far · last update 2026-10-03 20:57 UTC_
 | [zoolapp/aime](https://github.com/zoolapp/aime) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zoolapp/aime.md) |
 | [jarrodwatts/claude-image-view](https://github.com/jarrodwatts/claude-image-view) | TypeScript project | Runs in the browser with a free account | [guide](guides/jarrodwatts/claude-image-view.md) |
 | [egmalt/house-planner](https://github.com/egmalt/house-planner) | Vite app | Runs in a browser tab, no account needed | [guide](guides/egmalt/house-planner.md) |
-| [ACoci86/terrahour](https://github.com/ACoci86/terrahour) | Python project | Runs in the browser with a free account | [guide](guides/acoci86/terrahour.md) |
 <!-- latest:end -->
 
 ## How it works

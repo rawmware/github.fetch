@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:30.546Z",
- "totalGuides": 49,
+ "updatedAt": "2026-10-03T21:09:30.663Z",
+ "totalGuides": 50,
  "items": [
+  {
+   "fullName": "real-simple-labs/ai-creative-strategist-blueprint-ii",
+   "owner": "real-simple-labs",
+   "name": "ai-creative-strategist-blueprint-ii",
+   "url": "https://github.com/real-simple-labs/ai-creative-strategist-blueprint-ii",
+   "avatar": "https://avatars.githubusercontent.com/u/99052049?v=4",
+   "description": "Public archive for AI Creative Strategist Blueprint II: session transcripts, recordings, slides, and course resources.",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 53,
+   "forks": 10,
+   "createdAt": "2026-10-02T00:29:53Z",
+   "branch": "main",
+   "homepage": "https://heyparker.ai",
+   "addedAt": "2026-10-03T21:09:30.662Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/real-simple-labs/ai-creative-strategist-blueprint-ii",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/real-simple-labs/ai-creative-strategist-blueprint-ii/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/real-simple-labs/ai-creative-strategist-blueprint-ii\nWhat it says it does: \"Public archive for AI Creative Strategist Blueprint II: session transcripts, recordings, slides, and course resources.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T21:09:30.662Z"
+  },
   {
    "fullName": "Tuskira/ai-agent-gateway",
    "owner": "Tuskira",
@@ -3177,9 +3225,9 @@
   }
  ],
  "levels": {
+  "read": 5,
   "account": 30,
   "heavy": 9,
-  "instant": 6,
-  "read": 4
+  "instant": 6
  }
 }

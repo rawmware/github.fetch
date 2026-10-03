@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_26 guides written so far · last update 2026-10-03 20:57 UTC_
+_27 guides written so far · last update 2026-10-03 20:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant) | Fortran project | Runs in the browser with a free account | [guide](guides/opencourant/opencourant.md) |
 | [gillesgoetsch/omacvm](https://github.com/gillesgoetsch/omacvm) | Shell project | Runs in the browser with a free account | [guide](guides/gillesgoetsch/omacvm.md) |
 | [zoolapp/aime](https://github.com/zoolapp/aime) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zoolapp/aime.md) |
 | [jarrodwatts/claude-image-view](https://github.com/jarrodwatts/claude-image-view) | TypeScript project | Runs in the browser with a free account | [guide](guides/jarrodwatts/claude-image-view.md) |
@@ -38,7 +39,6 @@ _26 guides written so far · last update 2026-10-03 20:57 UTC_
 | [Remocn/remocn-studio](https://github.com/Remocn/remocn-studio) | Next.js app | Runs in the browser with a free account | [guide](guides/remocn/remocn-studio.md) |
 | [KODAMA-TECHNOLOGY/Chat_UI](https://github.com/KODAMA-TECHNOLOGY/Chat_UI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kodama-technology/chat_ui.md) |
 | [rbrown101010/bluey-by-riley](https://github.com/rbrown101010/bluey-by-riley) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rbrown101010/bluey-by-riley.md) |
-| [zzzz7788990213-ops/EvoVLM](https://github.com/zzzz7788990213-ops/EvoVLM) | Python project | Runs in the browser with a free account | [guide](guides/zzzz7788990213-ops/evovlm.md) |
 <!-- latest:end -->
 
 ## How it works

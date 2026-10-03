@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:56:59.855Z",
- "totalGuides": 15,
+ "updatedAt": "2026-10-03T20:56:59.961Z",
+ "totalGuides": 16,
  "items": [
+  {
+   "fullName": "rbrown101010/bluey-by-riley",
+   "owner": "rbrown101010",
+   "name": "bluey-by-riley",
+   "url": "https://github.com/rbrown101010/bluey-by-riley",
+   "avatar": "https://avatars.githubusercontent.com/u/176113762?v=4",
+   "description": "Googly Eyes: a blueberry character on iPhone that points and acts on your Mac (Mac menu bar app + iOS app)",
+   "language": "Swift",
+   "topics": [],
+   "license": null,
+   "stars": 119,
+   "forks": 26,
+   "createdAt": "2026-10-02T16:12:02Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:56:59.960Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/rbrown101010/bluey-by-riley?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/rbrown101010/bluey-by-riley",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/rbrown101010/bluey-by-riley/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/rbrown101010/bluey-by-riley.git\ncd bluey-by-riley",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/rbrown101010/bluey-by-riley\nWhat it says it does: \"Googly Eyes: a blueberry character on iPhone that points and acts on your Mac (Mac menu bar app + iOS app)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:56:59.960Z"
+  },
   {
    "fullName": "zzzz7788990213-ops/EvoVLM",
    "owner": "zzzz7788990213-ops",
@@ -1022,9 +1079,9 @@
   }
  ],
  "levels": {
+  "heavy": 5,
   "account": 6,
   "read": 1,
-  "heavy": 4,
   "instant": 4
  }
 }

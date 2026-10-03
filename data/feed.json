@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:57:54.669Z",
- "totalGuides": 36,
+ "updatedAt": "2026-10-03T20:57:54.855Z",
+ "totalGuides": 37,
  "items": [
+  {
+   "fullName": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+   "owner": "ZeldaWWHDRecomp",
+   "name": "ZeldaWWHDRecomp",
+   "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+   "avatar": "https://avatars.githubusercontent.com/u/336516811?v=4",
+   "description": "Zelda Wind Waker HD Recomp",
+   "language": "C++",
+   "topics": [],
+   "license": "MPL-2.0",
+   "stars": 64,
+   "forks": 6,
+   "createdAt": "2026-10-01T12:28:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:57:54.854Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ZeldaWWHDRecomp/ZeldaWWHDRecomp?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp.git\ncd ZeldaWWHDRecomp",
+   "licenseNote": "MPL-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp\nWhat it says it does: \"Zelda Wind Waker HD Recomp\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:57:54.854Z"
+  },
   {
    "fullName": "kindlingai/kindling-spark-os",
    "owner": "kindlingai",
@@ -2367,8 +2424,8 @@
   }
  ],
  "levels": {
+  "heavy": 7,
   "account": 23,
-  "heavy": 6,
   "instant": 5,
   "read": 2
  }

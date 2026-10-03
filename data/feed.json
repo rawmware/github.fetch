@@ -1,8 +1,73 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:57:52.708Z",
- "totalGuides": 24,
+ "updatedAt": "2026-10-03T20:57:52.865Z",
+ "totalGuides": 25,
  "items": [
+  {
+   "fullName": "zoolapp/aime",
+   "owner": "zoolapp",
+   "name": "aime",
+   "url": "https://github.com/zoolapp/aime",
+   "avatar": "https://avatars.githubusercontent.com/u/336227434?v=4",
+   "description": "艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI.",
+   "language": "Swift",
+   "topics": [
+    "chinese",
+    "input-method",
+    "librime",
+    "macos",
+    "pinyin",
+    "rime",
+    "swift"
+   ],
+   "license": "MIT",
+   "stars": 90,
+   "forks": 6,
+   "createdAt": "2026-10-01T03:51:36Z",
+   "branch": "main",
+   "homepage": "https://aime.zool.app",
+   "addedAt": "2026-10-03T20:57:52.865Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zoolapp/aime?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zoolapp/aime",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zoolapp/aime/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/zoolapp/aime.git\ncd aime",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zoolapp/aime\nWhat it says it does: \"艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:57:52.865Z"
+  },
   {
    "fullName": "jarrodwatts/claude-image-view",
    "owner": "jarrodwatts",
@@ -1619,9 +1684,9 @@
   }
  ],
  "levels": {
+  "heavy": 6,
   "account": 12,
   "instant": 5,
-  "read": 2,
-  "heavy": 5
+  "read": 2
  }
 }

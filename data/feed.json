@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:56:57.730Z",
- "totalGuides": 3,
+ "updatedAt": "2026-10-03T20:56:57.871Z",
+ "totalGuides": 4,
  "items": [
+  {
+   "fullName": "youcci/playport",
+   "owner": "youcci",
+   "name": "playport",
+   "url": "https://github.com/youcci/playport",
+   "avatar": "https://avatars.githubusercontent.com/u/13952789?v=4",
+   "description": "Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.",
+   "language": "Kotlin",
+   "topics": [
+    "airplay",
+    "browser",
+    "carplay",
+    "head-unit",
+    "kotlin",
+    "ktor",
+    "macos",
+    "webcodecs"
+   ],
+   "license": "GPL-3.0",
+   "stars": 235,
+   "forks": 14,
+   "createdAt": "2026-10-01T08:25:23Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:56:57.871Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/youcci/playport?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/youcci/playport",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/youcci/playport/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/youcci/playport.git\ncd playport",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/youcci/playport\nWhat it says it does: \"Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:56:57.871Z"
+  },
   {
    "fullName": "QingYunA/answer-me-with-html",
    "owner": "QingYunA",
@@ -218,8 +284,8 @@
   }
  ],
  "levels": {
+  "heavy": 2,
   "account": 1,
-  "instant": 1,
-  "heavy": 1
+  "instant": 1
  }
 }

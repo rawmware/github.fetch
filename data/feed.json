@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T23:21:57.054Z",
- "totalGuides": 62,
+ "updatedAt": "2026-10-03T23:21:57.241Z",
+ "totalGuides": 63,
  "items": [
+  {
+   "fullName": "hamzafer/claude-code-mods",
+   "owner": "hamzafer",
+   "name": "claude-code-mods",
+   "url": "https://github.com/hamzafer/claude-code-mods",
+   "avatar": "https://avatars.githubusercontent.com/u/45764331?v=4",
+   "description": "Live view of what your Claude Code agent reads and writes, plus more mods.",
+   "language": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-mods",
+    "claude-code-plugins",
+    "developer-tools",
+    "terminal"
+   ],
+   "license": "MIT",
+   "stars": 46,
+   "forks": 2,
+   "createdAt": "2026-10-02T13:15:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T23:21:57.240Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/hamzafer/claude-code-mods?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/hamzafer/claude-code-mods",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/hamzafer/claude-code-mods/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/hamzafer/claude-code-mods.git\ncd claude-code-mods",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/hamzafer/claude-code-mods\nWhat it says it does: \"Live view of what your Claude Code agent reads and writes, plus more mods.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T23:21:57.240Z"
+  },
   {
    "fullName": "bhouston/three-dlss-nr",
    "owner": "bhouston",
@@ -3977,7 +4041,7 @@
   }
  ],
  "levels": {
-  "account": 36,
+  "account": 37,
   "instant": 7,
   "read": 8,
   "heavy": 11

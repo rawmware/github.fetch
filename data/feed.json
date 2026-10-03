@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:31.374Z",
- "totalGuides": 54,
+ "updatedAt": "2026-10-03T21:09:31.486Z",
+ "totalGuides": 55,
  "items": [
+  {
+   "fullName": "chenjin-cmd/wechat-graphic-monetization",
+   "owner": "chenjin-cmd",
+   "name": "wechat-graphic-monetization",
+   "url": "https://github.com/chenjin-cmd/wechat-graphic-monetization",
+   "avatar": "https://avatars.githubusercontent.com/u/284923258?v=4",
+   "description": "wechat-graphic-monetization",
+   "language": null,
+   "topics": [],
+   "license": "MIT",
+   "stars": 49,
+   "forks": 6,
+   "createdAt": "2026-10-03T00:11:44Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T21:09:31.485Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/chenjin-cmd/wechat-graphic-monetization",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/chenjin-cmd/wechat-graphic-monetization/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/chenjin-cmd/wechat-graphic-monetization\nWhat it says it does: \"wechat-graphic-monetization\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T21:09:31.485Z"
+  },
   {
    "fullName": "ZiZc3/XPSemu",
    "owner": "ZiZc3",
@@ -3469,9 +3517,9 @@
   }
  ],
  "levels": {
+  "read": 7,
   "heavy": 11,
   "account": 31,
-  "read": 6,
   "instant": 6
  }
 }

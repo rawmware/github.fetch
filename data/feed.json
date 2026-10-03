@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:56:59.609Z",
- "totalGuides": 13,
+ "updatedAt": "2026-10-03T20:56:59.728Z",
+ "totalGuides": 14,
  "items": [
+  {
+   "fullName": "Kutuyyy/Leaked-System-Prompt-AI",
+   "owner": "Kutuyyy",
+   "name": "Leaked-System-Prompt-AI",
+   "url": "https://github.com/Kutuyyy/Leaked-System-Prompt-AI",
+   "avatar": "https://avatars.githubusercontent.com/u/178476867?v=4",
+   "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 125,
+   "forks": 30,
+   "createdAt": "2026-10-02T12:48:52Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:56:59.727Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Kutuyyy/Leaked-System-Prompt-AI",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Kutuyyy/Leaked-System-Prompt-AI/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Kutuyyy/Leaked-System-Prompt-AI\nWhat it says it does: \"LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:56:59.727Z"
+  },
   {
    "fullName": "luki-1/ArkWeb",
    "owner": "luki-1",
@@ -912,6 +960,7 @@
   }
  ],
  "levels": {
+  "read": 1,
   "heavy": 4,
   "instant": 4,
   "account": 5

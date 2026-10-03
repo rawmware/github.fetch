@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_45 guides written so far · last update 2026-10-03 21:09 UTC_
+_46 guides written so far · last update 2026-10-03 21:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Itz-Anya/Image-Size-Reducer](https://github.com/Itz-Anya/Image-Size-Reducer) | SvelteKit app | Runs in a browser tab, no account needed | [guide](guides/itz-anya/image-size-reducer.md) |
 | [hugelton/Felucca](https://github.com/hugelton/Felucca) | C project | Needs a real machine (or a GPU) to run | [guide](guides/hugelton/felucca.md) |
 | [unclejobs-ai/motion-video-skill](https://github.com/unclejobs-ai/motion-video-skill) | Python project | Runs in the browser with a free account | [guide](guides/unclejobs-ai/motion-video-skill.md) |
 | [Zhou-Yujing114514/deepseek-harness-linux](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) | Vite app | Runs in the browser with a free account | [guide](guides/zhou-yujing114514/deepseek-harness-linux.md) |
@@ -38,7 +39,6 @@ _45 guides written so far · last update 2026-10-03 21:09 UTC_
 | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zeldawwhdrecomp/zeldawwhdrecomp.md) |
 | [kindlingai/kindling-spark-os](https://github.com/kindlingai/kindling-spark-os) | Docker app | Runs in the browser with a free account | [guide](guides/kindlingai/kindling-spark-os.md) |
 | [QuartzCabinDawn/DiscordFix-Setup](https://github.com/QuartzCabinDawn/DiscordFix-Setup) | Batchfile project | Runs in the browser with a free account | [guide](guides/quartzcabindawn/discordfix-setup.md) |
-| [nailuj05/framemate](https://github.com/nailuj05/framemate) | Rust project | Runs in the browser with a free account | [guide](guides/nailuj05/framemate.md) |
 <!-- latest:end -->
 
 ## How it works

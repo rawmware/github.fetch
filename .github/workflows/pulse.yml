@@ -1,0 +1,61 @@
+name: pulse
+
+# Every 15 minutes: find fresh GitHub repos, write a "run it in your browser" guide for each,
+# one commit per guide. scripts/pulse.mjs paces the commits so each UTC day gets at least
+# DAILY_TARGET (default 64, never below 60), and catches up on its own if GitHub skips runs.
+on:
+  schedule:
+    - cron: "4,19,34,49 * * * *"
+  workflow_dispatch:
+    inputs:
+      commits:
+        description: "Make this many guide commits right now (0 = normal pacing)"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pulse
+  cancel-in-progress: false
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 400
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test
+        run: node --test scripts/test.mjs
+
+      # Commits are authored as the repo owner (their GitHub no-reply address), so they count
+      # on the owner's contribution graph. Override with repo variables CONTRIB_NAME / CONTRIB_EMAIL.
+      - name: Commit as the repo owner
+        env:
+          NAME: ${{ vars.CONTRIB_NAME || github.repository_owner }}
+          EMAIL: ${{ vars.CONTRIB_EMAIL || format('{0}+{1}@users.noreply.github.com', github.repository_owner_id, github.repository_owner) }}
+        run: |
+          git config user.name "$NAME"
+          git config user.email "$EMAIL"
+
+      - name: Scout and commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DAILY_TARGET: ${{ vars.DAILY_TARGET || '64' }}
+          FORCE_COMMITS: ${{ inputs.commits || '0' }}
+        run: node scripts/pulse.mjs
+
+      - name: Push
+        run: |
+          for i in 1 2 3; do
+            git pull --rebase --quiet origin "${GITHUB_REF_NAME}" && git push --quiet origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((i * 5))
+          done
+          exit 1

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_50 guides written so far · last update 2026-10-03 21:09 UTC_
+_51 guides written so far · last update 2026-10-03 21:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [saawant12/orbit-store-ps5](https://github.com/saawant12/orbit-store-ps5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/saawant12/orbit-store-ps5.md) |
 | [real-simple-labs/ai-creative-strategist-blueprint-ii](https://github.com/real-simple-labs/ai-creative-strategist-blueprint-ii) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/real-simple-labs/ai-creative-strategist-blueprint-ii.md) |
 | [Tuskira/ai-agent-gateway](https://github.com/Tuskira/ai-agent-gateway) | Go project | Runs in the browser with a free account | [guide](guides/tuskira/ai-agent-gateway.md) |
 | [DozenTwelve/Papermorph](https://github.com/DozenTwelve/Papermorph) | HTML project | Runs in the browser with a free account | [guide](guides/dozentwelve/papermorph.md) |
@@ -38,7 +39,6 @@ _50 guides written so far · last update 2026-10-03 21:09 UTC_
 | [Burrowtheamend/adobe-illustrator-download-new-fft](https://github.com/Burrowtheamend/adobe-illustrator-download-new-fft) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/burrowtheamend/adobe-illustrator-download-new-fft.md) |
 | [Soulringen/aegis-claude](https://github.com/Soulringen/aegis-claude) | PowerShell project | Runs in the browser with a free account | [guide](guides/soulringen/aegis-claude.md) |
 | [Sleepy-Avacado/FigGenie-paper-diagram-skill](https://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill) | Python project | Runs in the browser with a free account | [guide](guides/sleepy-avacado/figgenie-paper-diagram-skill.md) |
-| [bangtutorial/bang-story](https://github.com/bangtutorial/bang-story) | Vite app | Runs in the browser with a free account | [guide](guides/bangtutorial/bang-story.md) |
 <!-- latest:end -->
 
 ## How it works

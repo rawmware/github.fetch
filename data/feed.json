@@ -1,8 +1,62 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:30.663Z",
- "totalGuides": 50,
+ "updatedAt": "2026-10-03T21:09:30.806Z",
+ "totalGuides": 51,
  "items": [
+  {
+   "fullName": "saawant12/orbit-store-ps5",
+   "owner": "saawant12",
+   "name": "orbit-store-ps5",
+   "url": "https://github.com/saawant12/orbit-store-ps5",
+   "avatar": "https://avatars.githubusercontent.com/u/148706913?v=4",
+   "description": "A modern PS5 download manager with resumable downloads and phone controls",
+   "language": null,
+   "topics": [
+    "download-manager",
+    "homebrew",
+    "payload",
+    "playstation5",
+    "ps5"
+   ],
+   "license": null,
+   "stars": 52,
+   "forks": 2,
+   "createdAt": "2026-10-02T22:53:42Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T21:09:30.806Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/saawant12/orbit-store-ps5",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/saawant12/orbit-store-ps5/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/saawant12/orbit-store-ps5\nWhat it says it does: \"A modern PS5 download manager with resumable downloads and phone controls\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T21:09:30.806Z"
+  },
   {
    "fullName": "real-simple-labs/ai-creative-strategist-blueprint-ii",
    "owner": "real-simple-labs",
@@ -3225,7 +3279,7 @@
   }
  ],
  "levels": {
-  "read": 5,
+  "read": 6,
   "account": 30,
   "heavy": 9,
   "instant": 6

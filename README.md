@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_42 guides written so far · last update 2026-10-03 21:09 UTC_
+_43 guides written so far · last update 2026-10-03 21:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Zhou-Yujing114514/deepseek-harness-linux](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) | Vite app | Runs in the browser with a free account | [guide](guides/zhou-yujing114514/deepseek-harness-linux.md) |
 | [Burrowtheamend/adobe-illustrator-download-new-fft](https://github.com/Burrowtheamend/adobe-illustrator-download-new-fft) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/burrowtheamend/adobe-illustrator-download-new-fft.md) |
 | [Soulringen/aegis-claude](https://github.com/Soulringen/aegis-claude) | PowerShell project | Runs in the browser with a free account | [guide](guides/soulringen/aegis-claude.md) |
 | [Sleepy-Avacado/FigGenie-paper-diagram-skill](https://github.com/Sleepy-Avacado/FigGenie-paper-diagram-skill) | Python project | Runs in the browser with a free account | [guide](guides/sleepy-avacado/figgenie-paper-diagram-skill.md) |
@@ -38,7 +39,6 @@ _42 guides written so far · last update 2026-10-03 21:09 UTC_
 | [nailuj05/framemate](https://github.com/nailuj05/framemate) | Rust project | Runs in the browser with a free account | [guide](guides/nailuj05/framemate.md) |
 | [heise3/academic-deai](https://github.com/heise3/academic-deai) | Python project | Runs in the browser with a free account | [guide](guides/heise3/academic-deai.md) |
 | [mkdir700/wx-ime-sdk](https://github.com/mkdir700/wx-ime-sdk) | Rust project | Runs in the browser with a free account | [guide](guides/mkdir700/wx-ime-sdk.md) |
-| [Dominic-DK/harness-map](https://github.com/Dominic-DK/harness-map) | HTML project | Runs in the browser with a free account | [guide](guides/dominic-dk/harness-map.md) |
 <!-- latest:end -->
 
 ## How it works

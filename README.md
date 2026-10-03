@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_53 guides written so far · last update 2026-10-03 21:09 UTC_
+_54 guides written so far · last update 2026-10-03 21:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ZiZc3/XPSemu](https://github.com/ZiZc3/XPSemu) | C project | Needs a real machine (or a GPU) to run | [guide](guides/zizc3/xpsemu.md) |
 | [Roylyl/WinPlay](https://github.com/Roylyl/WinPlay) | JavaScript project | Runs in the browser with a free account | [guide](guides/roylyl/winplay.md) |
 | [SHORiN-KiWATA/linuxqq-wayland-fix](https://github.com/SHORiN-KiWATA/linuxqq-wayland-fix) | C project | Needs a real machine (or a GPU) to run | [guide](guides/shorin-kiwata/linuxqq-wayland-fix.md) |
 | [saawant12/orbit-store-ps5](https://github.com/saawant12/orbit-store-ps5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/saawant12/orbit-store-ps5.md) |
@@ -38,7 +39,6 @@ _53 guides written so far · last update 2026-10-03 21:09 UTC_
 | [hugelton/Felucca](https://github.com/hugelton/Felucca) | C project | Needs a real machine (or a GPU) to run | [guide](guides/hugelton/felucca.md) |
 | [unclejobs-ai/motion-video-skill](https://github.com/unclejobs-ai/motion-video-skill) | Python project | Runs in the browser with a free account | [guide](guides/unclejobs-ai/motion-video-skill.md) |
 | [Zhou-Yujing114514/deepseek-harness-linux](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) | Vite app | Runs in the browser with a free account | [guide](guides/zhou-yujing114514/deepseek-harness-linux.md) |
-| [Burrowtheamend/adobe-illustrator-download-new-fft](https://github.com/Burrowtheamend/adobe-illustrator-download-new-fft) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/burrowtheamend/adobe-illustrator-download-new-fft.md) |
 <!-- latest:end -->
 
 ## How it works

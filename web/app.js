@@ -1,3 +1,4 @@
+import { descriptions } from './descriptions.js';
 const REPO = "rawmware/github.fetch";
 const FEED_URL = `https://raw.githubusercontent.com/${REPO}/main/data/feed.json`;
 const COMMITS_URL = `https://api.github.com/repos/${REPO}/commits?sha=main&per_page=100`;
@@ -54,7 +55,14 @@ function createCard(repo) {
   avatar.alt = `${repo.owner || "Repository"} avatar`;
   $(".repo-owner", card).textContent = repo.owner || "unknown owner";
   $(".repo-name", card).textContent = repo.name || repo.fullName || "Untitled repository";
-  $(".repo-description", card).textContent = repo.description || "No description supplied by the repository author.";
+  const summary = descriptions[repo.fullName];
+  const needsTranslation = /[\u3400-\u9fff\uac00-\ud7af\u0400-\u04ff]/u.test(repo.description || '');
+  $(".repo-description", card).textContent = summary || (needsTranslation
+    ? 'An English explanation is not available yet. Open the original description below to learn more.'
+    : repo.description || 'The author has not described this project yet.');
+  const original = document.createElement('p');
+  original.textContent = `Author’s original description: ${repo.description || 'Not supplied'}`;
+  $(".details-body", card).prepend(original);
 
   const tags = $(".repo-tags", card);
   [repo.language, repo.stack?.label, ...(repo.topics || []).slice(0, 2)].filter(Boolean).forEach((value) => {
@@ -93,7 +101,7 @@ function filteredItems() {
   const output = state.items.filter((repo) => {
     if (state.level !== "all" && repo.level !== state.level) return false;
     if (!phrase) return true;
-    return [repo.fullName, repo.description, repo.language, repo.stack?.label, ...(repo.topics || [])]
+    return [repo.fullName, descriptions[repo.fullName], repo.description, repo.language, repo.stack?.label, ...(repo.topics || [])]
       .filter(Boolean).join(" ").toLowerCase().includes(phrase);
   });
   if (state.sort === "stars") output.sort((a, b) => (b.stars || 0) - (a.stars || 0));

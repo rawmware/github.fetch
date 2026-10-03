@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_22 guides written so far · last update 2026-10-03 20:57 UTC_
+_23 guides written so far · last update 2026-10-03 20:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [egmalt/house-planner](https://github.com/egmalt/house-planner) | Vite app | Runs in a browser tab, no account needed | [guide](guides/egmalt/house-planner.md) |
 | [ACoci86/terrahour](https://github.com/ACoci86/terrahour) | Python project | Runs in the browser with a free account | [guide](guides/acoci86/terrahour.md) |
 | [telepath-computer/television](https://github.com/telepath-computer/television) | Vite app | Runs in the browser with a free account | [guide](guides/telepath-computer/television.md) |
 | [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) | JavaScript project | Runs in the browser with a free account | [guide](guides/lxj5820/dsh-boot-animation.md) |
@@ -38,7 +39,6 @@ _22 guides written so far · last update 2026-10-03 20:57 UTC_
 | [Kutuyyy/Leaked-System-Prompt-AI](https://github.com/Kutuyyy/Leaked-System-Prompt-AI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kutuyyy/leaked-system-prompt-ai.md) |
 | [luki-1/ArkWeb](https://github.com/luki-1/ArkWeb) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/luki-1/arkweb.md) |
 | [NuvexNetwork/nuvex-web](https://github.com/NuvexNetwork/nuvex-web) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nuvexnetwork/nuvex-web.md) |
-| [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/idlerunner00/procedural-pixel-creatures.md) |
 <!-- latest:end -->
 
 ## How it works

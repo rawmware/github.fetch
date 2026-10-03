@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:32.400Z",
- "totalGuides": 60,
+ "updatedAt": "2026-10-03T23:21:56.755Z",
+ "totalGuides": 61,
  "items": [
+  {
+   "fullName": "pi-pod/pipod",
+   "owner": "pi-pod",
+   "name": "pipod",
+   "url": "https://github.com/pi-pod/pipod",
+   "avatar": "https://avatars.githubusercontent.com/u/300550229?v=4",
+   "description": "pi pod: run pi coding-agent sessions in remote sandboxes, on a server you run yourself",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 51,
+   "forks": 1,
+   "createdAt": "2026-10-01T18:44:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T23:21:56.744Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/pi-pod/pipod?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/pi-pod/pipod",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/pi-pod/pipod/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/pi-pod/pipod.git\ncd pipod",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/pi-pod/pipod\nWhat it says it does: \"pi pod: run pi coding-agent sessions in remote sandboxes, on a server you run yourself\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T23:21:56.744Z"
+  },
   {
    "fullName": "Stxqq/self-driving-car",
    "owner": "Stxqq",
@@ -3849,8 +3904,8 @@
   }
  ],
  "levels": {
+  "account": 35,
   "instant": 7,
-  "account": 34,
   "read": 8,
   "heavy": 11
  }

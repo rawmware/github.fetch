@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_60 guides written so far · last update 2026-10-03 21:09 UTC_
+_61 guides written so far · last update 2026-10-03 23:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pi-pod/pipod](https://github.com/pi-pod/pipod) | TypeScript project | Runs in the browser with a free account | [guide](guides/pi-pod/pipod.md) |
 | [Stxqq/self-driving-car](https://github.com/Stxqq/self-driving-car) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/stxqq/self-driving-car.md) |
 | [vedantdhande04/tweetytweets](https://github.com/vedantdhande04/tweetytweets) | Python project | Runs in the browser with a free account | [guide](guides/vedantdhande04/tweetytweets.md) |
 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | Python project | Runs in the browser with a free account | [guide](guides/facebookresearch/swe-sweep.md) |
@@ -38,7 +39,6 @@ _60 guides written so far · last update 2026-10-03 21:09 UTC_
 | [SHORiN-KiWATA/linuxqq-wayland-fix](https://github.com/SHORiN-KiWATA/linuxqq-wayland-fix) | C project | Needs a real machine (or a GPU) to run | [guide](guides/shorin-kiwata/linuxqq-wayland-fix.md) |
 | [saawant12/orbit-store-ps5](https://github.com/saawant12/orbit-store-ps5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/saawant12/orbit-store-ps5.md) |
 | [real-simple-labs/ai-creative-strategist-blueprint-ii](https://github.com/real-simple-labs/ai-creative-strategist-blueprint-ii) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/real-simple-labs/ai-creative-strategist-blueprint-ii.md) |
-| [Tuskira/ai-agent-gateway](https://github.com/Tuskira/ai-agent-gateway) | Go project | Runs in the browser with a free account | [guide](guides/tuskira/ai-agent-gateway.md) |
 <!-- latest:end -->
 
 ## How it works

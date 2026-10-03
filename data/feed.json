@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:57:52.112Z",
- "totalGuides": 21,
+ "updatedAt": "2026-10-03T20:57:52.321Z",
+ "totalGuides": 22,
  "items": [
+  {
+   "fullName": "ACoci86/terrahour",
+   "owner": "ACoci86",
+   "name": "terrahour",
+   "url": "https://github.com/ACoci86/terrahour",
+   "avatar": "https://avatars.githubusercontent.com/u/181754564?v=4",
+   "description": "A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zones.",
+   "language": "Python",
+   "topics": [
+    "braille",
+    "cli",
+    "daylight-saving-time",
+    "python",
+    "terminal",
+    "time-zones",
+    "timezone",
+    "tmux"
+   ],
+   "license": null,
+   "stars": 96,
+   "forks": 3,
+   "createdAt": "2026-10-01T11:05:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:57:52.319Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/ACoci86/terrahour/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ACoci86/terrahour?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ACoci86/terrahour",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ACoci86/terrahour/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ACoci86/terrahour.git\ncd terrahour\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ACoci86/terrahour\nWhat it says it does: \"A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zones.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:57:52.319Z"
+  },
   {
    "fullName": "telepath-computer/television",
    "owner": "telepath-computer",
@@ -1412,7 +1483,7 @@
   }
  ],
  "levels": {
-  "account": 10,
+  "account": 11,
   "read": 2,
   "heavy": 5,
   "instant": 4

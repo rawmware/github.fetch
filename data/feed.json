@@ -1,8 +1,86 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:32.194Z",
- "totalGuides": 59,
+ "updatedAt": "2026-10-03T21:09:32.400Z",
+ "totalGuides": 60,
  "items": [
+  {
+   "fullName": "Stxqq/self-driving-car",
+   "owner": "Stxqq",
+   "name": "self-driving-car",
+   "url": "https://github.com/Stxqq/self-driving-car",
+   "avatar": "https://avatars.githubusercontent.com/u/247887540?v=4",
+   "description": "Self-driving car in plain JavaScript: a neural network evolved by a genetic algorithm drives highway traffic",
+   "language": "JavaScript",
+   "topics": [
+    "autonomous-driving",
+    "canvas",
+    "evolutionary-algorithms",
+    "genetic-algorithm",
+    "javascript",
+    "machine-learning",
+    "neural-network",
+    "neuroevolution"
+   ],
+   "license": "MIT",
+   "stars": 46,
+   "forks": 0,
+   "createdAt": "2026-10-01T17:01:57Z",
+   "branch": "main",
+   "homepage": "https://stxqq.github.io/self-driving-car/",
+   "addedAt": "2026-10-03T21:09:32.400Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Stxqq/self-driving-car",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run serve`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Stxqq/self-driving-car",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Stxqq/self-driving-car?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Stxqq/self-driving-car",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Stxqq/self-driving-car/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run serve",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Stxqq/self-driving-car.git\ncd self-driving-car\nnpm install\nnpm run serve",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Stxqq/self-driving-car\nWhat it says it does: \"Self-driving car in plain JavaScript: a neural network evolved by a genetic algorithm drives highway traffic\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T21:09:32.400Z"
+  },
   {
    "fullName": "vedantdhande04/tweetytweets",
    "owner": "vedantdhande04",
@@ -3771,9 +3849,9 @@
   }
  ],
  "levels": {
+  "instant": 7,
   "account": 34,
   "read": 8,
-  "heavy": 11,
-  "instant": 6
+  "heavy": 11
  }
 }

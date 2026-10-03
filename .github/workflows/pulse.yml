@@ -53,9 +53,22 @@ jobs:
         run: node scripts/pulse.mjs
 
       - name: Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DAILY_TARGET: ${{ vars.DAILY_TARGET || '64' }}
+          FORCE_COMMITS: ${{ inputs.commits || '0' }}
         run: |
           for i in 1 2 3; do
-            git pull --rebase --quiet origin "${GITHUB_REF_NAME}" && git push --quiet origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            if git pull --rebase --quiet origin "${GITHUB_REF_NAME}"; then
+              git push --quiet origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            else
+              # A just-finished pulse may have generated the same guides from a stale checkout.
+              # Start again from the real remote tip, then scout replacement repos before retrying.
+              git rebase --abort || true
+              git fetch --quiet origin "${GITHUB_REF_NAME}"
+              git reset --hard "origin/${GITHUB_REF_NAME}"
+              node scripts/pulse.mjs
+            fi
             sleep $((i * 5))
           done
           exit 1

@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Fresh GitHub projects, translated into the fastest safe way to open, understand, fork, and build on them.">
+  <meta name="theme-color" content="#080b0d">
+  <title>github.fetch — find it, open it, make it yours</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" type="module"></script>
+</head>
+<body>
+  <a class="skip-link" href="#repo-feed">Skip to repository feed</a>
+  <div class="noise" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="github.fetch home"><span aria-hidden="true">↳</span> github.fetch</a>
+    <nav aria-label="Primary navigation">
+      <a href="#repo-feed">fresh finds</a>
+      <a href="#how-it-works">how it works</a>
+      <a href="https://github.com/rawmware/github.fetch" target="_blank" rel="noopener">source ↗</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="kicker">RAWMWARE · DAY 005 / 365</p>
+        <h1 id="hero-title">Stop searching.<br><em>Start building.</em></h1>
+        <p class="lede">A living feed of new open-source projects, translated into the fastest route from “that looks interesting” to “I have it running.”</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#repo-feed">Browse fresh repos <span>↓</span></a>
+          <a class="button" href="https://github.com/rawmware/github.fetch/fork" target="_blank" rel="noopener">Fork this project ↗</a>
+        </div>
+      </div>
+
+      <aside class="pulse-panel" aria-label="Live automation status">
+        <div class="panel-head">
+          <span class="live-dot" aria-hidden="true"></span>
+          <span>LIVE PULSE</span>
+          <span class="panel-time" id="utc-clock">--:-- UTC</span>
+        </div>
+        <div class="pulse-number"><strong id="commit-count">—</strong><span>/ 60</span></div>
+        <p class="pulse-label">verified scout commits today</p>
+        <div class="meter" aria-hidden="true"><span id="commit-meter"></span></div>
+        <p class="pulse-state" id="pulse-state" role="status">Checking GitHub’s default branch…</p>
+        <dl class="pulse-facts">
+          <div><dt>Schedule</dt><dd>Every 15 min</dd></div>
+          <div><dt>Branch</dt><dd>main</dd></div>
+          <div><dt>Target</dt><dd>60+ / UTC day</dd></div>
+        </dl>
+        <a class="proof-link" href="https://github.com/rawmware/github.fetch/commits/main" target="_blank" rel="noopener">Inspect every commit ↗</a>
+      </aside>
+    </section>
+
+    <section class="signal-strip" aria-label="Feed summary">
+      <div><span id="guide-total">—</span><small>guides written</small></div>
+      <div><span id="instant-total">—</span><small>open instantly</small></div>
+      <div><span id="language-total">—</span><small>languages found</small></div>
+      <div><span id="feed-age">—</span><small>last pulse</small></div>
+    </section>
+
+    <section class="feed-section" id="repo-feed" aria-labelledby="feed-title">
+      <div class="section-head">
+        <div>
+          <p class="kicker">THE INCOMING SIGNAL</p>
+          <h2 id="feed-title">Fresh repositories</h2>
+        </div>
+        <button class="refresh" id="refresh-button" type="button">↻ Refresh live data</button>
+      </div>
+
+      <form class="controls" id="filters" role="search">
+        <label class="search-field">
+          <span>Search</span>
+          <input id="search" type="search" autocomplete="off" placeholder="repo, language, framework…">
+        </label>
+        <fieldset>
+          <legend>Browser access</legend>
+          <div class="segmented" id="level-filter">
+            <button type="button" class="active" data-level="all">All</button>
+            <button type="button" data-level="instant">Instant</button>
+            <button type="button" data-level="account">Free account</button>
+            <button type="button" data-level="read">Read</button>
+            <button type="button" data-level="heavy">Heavy</button>
+          </div>
+        </fieldset>
+        <label class="sort-field">Sort
+          <select id="sort">
+            <option value="newest">Newest found</option>
+            <option value="stars">Most starred</option>
+            <option value="fresh">Newest created</option>
+          </select>
+        </label>
+      </form>
+
+      <div class="feed-meta">
+        <p id="result-count" role="status">Loading the live feed…</p>
+        <p id="data-source">Source: github.com/rawmware/github.fetch</p>
+      </div>
+      <div class="repo-grid" id="repo-grid" aria-live="polite"></div>
+      <div class="empty-state" id="empty-state" hidden>
+        <strong>No matching signal.</strong>
+        <p>Try a different phrase or browser-access filter.</p>
+      </div>
+    </section>
+
+    <section class="how" id="how-it-works" aria-labelledby="how-title">
+      <div>
+        <p class="kicker">AUTOMATION, NOT THEATER</p>
+        <h2 id="how-title">Every guide is a real commit.</h2>
+      </div>
+      <ol>
+        <li><span>01</span><strong>Scout</strong><p>GitHub Actions searches for new public repositories people are paying attention to.</p></li>
+        <li><span>02</span><strong>Inspect</strong><p>The pulse reads the project shape, detects its stack, and checks how it can run.</p></li>
+        <li><span>03</span><strong>Translate</strong><p>It writes plain-English browser launch steps, local commands, licensing context, and a make-it-yours prompt.</p></li>
+        <li><span>04</span><strong>Commit</strong><p>Each guide lands as its own authored commit on <code>main</code>, paced to at least 60 every UTC day.</p></li>
+      </ol>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built by <a href="https://rawmware.com">RawmWare</a> for Day 5 of <a href="https://rawmware.com/365-days">365 Days of Showing Up</a>.</p>
+    <p>Repository data belongs to its authors. Check each license before reusing code.</p>
+  </footer>
+
+  <template id="repo-template">
+    <article class="repo-card">
+      <div class="card-top">
+        <span class="access-badge"></span>
+        <span class="repo-stars"></span>
+      </div>
+      <div class="repo-identity">
+        <img class="repo-avatar" alt="" width="40" height="40" loading="lazy">
+        <div><p class="repo-owner"></p><h3 class="repo-name"></h3></div>
+      </div>
+      <p class="repo-description"></p>
+      <div class="repo-tags"></div>
+      <div class="command" hidden>
+        <code></code>
+        <button type="button" class="copy-command">Copy</button>
+      </div>
+      <div class="card-actions">
+        <a class="button button-primary launch-link" target="_blank" rel="noopener"></a>
+        <a class="source-link" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+      <details>
+        <summary>What it needs + make it yours</summary>
+        <div class="details-body">
+          <p class="access-note"></p>
+          <p class="license-note"></p>
+          <button type="button" class="copy-prompt">Copy make-it-yours prompt</button>
+        </div>
+      </details>
+    </article>
+  </template>
+</body>
+</html>

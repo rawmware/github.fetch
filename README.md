@@ -1,7 +1,7 @@
 # github.fetch
 An automated GitHub discovery and sync tool. Find, update, and fork public open-source repositories faster. Spend less time searching and more time shipping by effortlessly building on top of great foundations.
 
-**Live page:** https://www.aictuallyhelp.com/repos.html
+**Live application:** https://rawmware.com/365-days/projects/day-005
 
 Every 15 minutes a GitHub Actions job looks for brand-new repositories people are starring, works out how to run each one **in a web browser** (no download, no install), and writes a guide for it. Every guide is its own commit, at least 60 a day, around the clock, with no computer of yours switched on.
 
@@ -86,5 +86,11 @@ GITHUB_TOKEN=… node scripts/pulse.mjs --commits 5   # 5 real guide commits
 ```
 
 Node 20+ and no dependencies.
+
+## The application
+
+The portable static frontend is in [`web/`](web/). It reads this repository's live feed and public commit history, so its 60-a-day meter is evidence rather than a hard-coded claim. Search, browser-access filters, launch links, setup commands, licensing context and make-it-yours prompts all run without a backend or API key.
+
+`vercel.json` serves `web/` as the root when this repository gets its own Vercel project. Until then, the same files are published inside RawmWare's Day 5 route.
 
 `BUILD.md` is the earlier Day 5 spec (install one-liners). This version replaces it with browser-first guides.

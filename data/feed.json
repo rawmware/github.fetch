@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:57:53.786Z",
- "totalGuides": 30,
+ "updatedAt": "2026-10-03T20:57:53.905Z",
+ "totalGuides": 31,
  "items": [
+  {
+   "fullName": "Dominic-DK/harness-map",
+   "owner": "Dominic-DK",
+   "name": "harness-map",
+   "url": "https://github.com/Dominic-DK/harness-map",
+   "avatar": "https://avatars.githubusercontent.com/u/37243943?v=4",
+   "description": "Claude Code 하네스(지시 파일·기억·도구·권한·훅)를 폴더별·스폰 방식별 조립도로 보여 주는 도구",
+   "language": "HTML",
+   "topics": [],
+   "license": "MIT",
+   "stars": 74,
+   "forks": 4,
+   "createdAt": "2026-10-02T07:22:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:57:53.905Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Dominic-DK/harness-map?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Dominic-DK/harness-map",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Dominic-DK/harness-map/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Dominic-DK/harness-map.git\ncd harness-map",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Dominic-DK/harness-map\nWhat it says it does: \"Claude Code 하네스(지시 파일·기억·도구·권한·훅)를 폴더별·스폰 방식별 조립도로 보여 주는 도구\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:57:53.905Z"
+  },
   {
    "fullName": "henrydennis/petal",
    "owner": "henrydennis",
@@ -2019,7 +2074,7 @@
   }
  ],
  "levels": {
-  "account": 17,
+  "account": 18,
   "heavy": 6,
   "instant": 5,
   "read": 2

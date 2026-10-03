@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_5 guides written so far · last update 2026-10-03 20:56 UTC_
+_6 guides written so far · last update 2026-10-03 20:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StayLameBro/backburner](https://github.com/StayLameBro/backburner) | Python project | Runs in the browser with a free account | [guide](guides/staylamebro/backburner.md) |
 | [whirlchat/whirl](https://github.com/whirlchat/whirl) | JavaScript project | Runs in the browser with a free account | [guide](guides/whirlchat/whirl.md) |
 | [youcci/playport](https://github.com/youcci/playport) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/youcci/playport.md) |
 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Node command-line tool | Runs in the browser with a free account | [guide](guides/qingyuna/answer-me-with-html.md) |

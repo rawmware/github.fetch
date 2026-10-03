@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_14 guides written so far · last update 2026-10-03 20:56 UTC_
+_15 guides written so far · last update 2026-10-03 20:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zzzz7788990213-ops/EvoVLM](https://github.com/zzzz7788990213-ops/EvoVLM) | Python project | Runs in the browser with a free account | [guide](guides/zzzz7788990213-ops/evovlm.md) |
 | [Kutuyyy/Leaked-System-Prompt-AI](https://github.com/Kutuyyy/Leaked-System-Prompt-AI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kutuyyy/leaked-system-prompt-ai.md) |
 | [luki-1/ArkWeb](https://github.com/luki-1/ArkWeb) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/luki-1/arkweb.md) |
 | [NuvexNetwork/nuvex-web](https://github.com/NuvexNetwork/nuvex-web) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nuvexnetwork/nuvex-web.md) |
@@ -38,7 +39,6 @@ _14 guides written so far · last update 2026-10-03 20:56 UTC_
 | [StayLameBro/backburner](https://github.com/StayLameBro/backburner) | Python project | Runs in the browser with a free account | [guide](guides/staylamebro/backburner.md) |
 | [whirlchat/whirl](https://github.com/whirlchat/whirl) | JavaScript project | Runs in the browser with a free account | [guide](guides/whirlchat/whirl.md) |
 | [youcci/playport](https://github.com/youcci/playport) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/youcci/playport.md) |
-| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Node command-line tool | Runs in the browser with a free account | [guide](guides/qingyuna/answer-me-with-html.md) |
 <!-- latest:end -->
 
 ## How it works

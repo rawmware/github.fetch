@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:57:52.574Z",
- "totalGuides": 23,
+ "updatedAt": "2026-10-03T20:57:52.708Z",
+ "totalGuides": 24,
  "items": [
+  {
+   "fullName": "jarrodwatts/claude-image-view",
+   "owner": "jarrodwatts",
+   "name": "claude-image-view",
+   "url": "https://github.com/jarrodwatts/claude-image-view",
+   "avatar": "https://avatars.githubusercontent.com/u/35651410?v=4",
+   "description": "See the images you paste into Claude Code: thumbnails above the prompt instead of bare [Image #1] tags",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 91,
+   "forks": 7,
+   "createdAt": "2026-10-02T22:29:27Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:57:52.707Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/jarrodwatts/claude-image-view?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/jarrodwatts/claude-image-view",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/jarrodwatts/claude-image-view/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/jarrodwatts/claude-image-view.git\ncd claude-image-view",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/jarrodwatts/claude-image-view\nWhat it says it does: \"See the images you paste into Claude Code: thumbnails above the prompt instead of bare [Image #1] tags\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:57:52.707Z"
+  },
   {
    "fullName": "egmalt/house-planner",
    "owner": "egmalt",
@@ -1564,8 +1619,8 @@
   }
  ],
  "levels": {
+  "account": 12,
   "instant": 5,
-  "account": 11,
   "read": 2,
   "heavy": 5
  }

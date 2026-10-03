@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_23 guides written so far · last update 2026-10-03 20:57 UTC_
+_24 guides written so far · last update 2026-10-03 20:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jarrodwatts/claude-image-view](https://github.com/jarrodwatts/claude-image-view) | TypeScript project | Runs in the browser with a free account | [guide](guides/jarrodwatts/claude-image-view.md) |
 | [egmalt/house-planner](https://github.com/egmalt/house-planner) | Vite app | Runs in a browser tab, no account needed | [guide](guides/egmalt/house-planner.md) |
 | [ACoci86/terrahour](https://github.com/ACoci86/terrahour) | Python project | Runs in the browser with a free account | [guide](guides/acoci86/terrahour.md) |
 | [telepath-computer/television](https://github.com/telepath-computer/television) | Vite app | Runs in the browser with a free account | [guide](guides/telepath-computer/television.md) |
@@ -38,7 +39,6 @@ _23 guides written so far · last update 2026-10-03 20:57 UTC_
 | [zzzz7788990213-ops/EvoVLM](https://github.com/zzzz7788990213-ops/EvoVLM) | Python project | Runs in the browser with a free account | [guide](guides/zzzz7788990213-ops/evovlm.md) |
 | [Kutuyyy/Leaked-System-Prompt-AI](https://github.com/Kutuyyy/Leaked-System-Prompt-AI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kutuyyy/leaked-system-prompt-ai.md) |
 | [luki-1/ArkWeb](https://github.com/luki-1/ArkWeb) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/luki-1/arkweb.md) |
-| [NuvexNetwork/nuvex-web](https://github.com/NuvexNetwork/nuvex-web) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nuvexnetwork/nuvex-web.md) |
 <!-- latest:end -->
 
 ## How it works

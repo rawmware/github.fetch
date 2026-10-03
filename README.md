@@ -23,7 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_No guides yet. The first ones arrive within 15 minutes of this landing on `main`._
+_1 guides written so far · last update 2026-10-03 20:56 UTC_
+
+| Repo | What it is | In the browser | |
+|---|---|---|---|
+| [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | C project | Needs a real machine (or a GPU) to run | [guide](guides/facebookincubator/muse-gadget-sdk.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T21:09:31.632Z",
- "totalGuides": 56,
+ "updatedAt": "2026-10-03T21:09:31.766Z",
+ "totalGuides": 57,
  "items": [
+  {
+   "fullName": "xop01/ai_goodpractice",
+   "owner": "xop01",
+   "name": "ai_goodpractice",
+   "url": "https://github.com/xop01/ai_goodpractice",
+   "avatar": "https://avatars.githubusercontent.com/u/73129829?v=4",
+   "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+   "language": null,
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-coding",
+    "ai-model",
+    "ai-safety",
+    "ai-tools",
+    "guide"
+   ],
+   "license": null,
+   "stars": 49,
+   "forks": 0,
+   "createdAt": "2026-10-02T11:01:25Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T21:09:31.765Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/xop01/ai_goodpractice",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/xop01/ai_goodpractice/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/xop01/ai_goodpractice\nWhat it says it does: \"full guide to help you integrate AI in your workflow, for both beginners and experienced users\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T21:09:31.765Z"
+  },
   {
    "fullName": "chen-006/meow-ai-arena",
    "owner": "chen-006",
@@ -3572,8 +3629,8 @@
   }
  ],
  "levels": {
+  "read": 8,
   "account": 32,
-  "read": 7,
   "heavy": 11,
   "instant": 6
  }

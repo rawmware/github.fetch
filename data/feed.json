@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:56:59.127Z",
- "totalGuides": 10,
+ "updatedAt": "2026-10-03T20:56:59.242Z",
+ "totalGuides": 11,
  "items": [
+  {
+   "fullName": "idlerunner00/procedural-pixel-creatures",
+   "owner": "idlerunner00",
+   "name": "procedural-pixel-creatures",
+   "url": "https://github.com/idlerunner00/procedural-pixel-creatures",
+   "avatar": "https://avatars.githubusercontent.com/u/212867395?v=4",
+   "description": "Godot Tool to create procedural pixel creatures",
+   "language": "C#",
+   "topics": [],
+   "license": "MIT",
+   "stars": 136,
+   "forks": 18,
+   "createdAt": "2026-10-01T18:39:44Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:56:59.241Z",
+   "stack": {
+    "kind": "native",
+    "label": "C# project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/idlerunner00/procedural-pixel-creatures?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/idlerunner00/procedural-pixel-creatures",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/idlerunner00/procedural-pixel-creatures/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/idlerunner00/procedural-pixel-creatures.git\ncd procedural-pixel-creatures",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/idlerunner00/procedural-pixel-creatures\nWhat it says it does: \"Godot Tool to create procedural pixel creatures\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:56:59.241Z"
+  },
   {
    "fullName": "NuvexNetwork/nuvex",
    "owner": "NuvexNetwork",
@@ -726,8 +783,8 @@
   }
  ],
  "levels": {
+  "heavy": 3,
   "account": 5,
-  "instant": 3,
-  "heavy": 2
+  "instant": 3
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_10 guides written so far · last update 2026-10-03 20:56 UTC_
+_11 guides written so far · last update 2026-10-03 20:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/idlerunner00/procedural-pixel-creatures.md) |
 | [NuvexNetwork/nuvex](https://github.com/NuvexNetwork/nuvex) | JavaScript project | Runs in the browser with a free account | [guide](guides/nuvexnetwork/nuvex.md) |
 | [NuvexNetwork/nuvex-docs](https://github.com/NuvexNetwork/nuvex-docs) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nuvexnetwork/nuvex-docs.md) |
 | [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) | React app | Runs in a browser tab, no account needed | [guide](guides/mizorewww/x_gift_bot.md) |

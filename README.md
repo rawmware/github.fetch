@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_8 guides written so far · last update 2026-10-03 20:56 UTC_
+_9 guides written so far · last update 2026-10-03 20:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NuvexNetwork/nuvex-docs](https://github.com/NuvexNetwork/nuvex-docs) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nuvexnetwork/nuvex-docs.md) |
 | [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) | React app | Runs in a browser tab, no account needed | [guide](guides/mizorewww/x_gift_bot.md) |
 | [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops) | Python project | Runs in the browser with a free account | [guide](guides/bootloops-ai/bootloops.md) |
 | [StayLameBro/backburner](https://github.com/StayLameBro/backburner) | Python project | Runs in the browser with a free account | [guide](guides/staylamebro/backburner.md) |

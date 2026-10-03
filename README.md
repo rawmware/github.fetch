@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_12 guides written so far · last update 2026-10-03 20:56 UTC_
+_13 guides written so far · last update 2026-10-03 20:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [luki-1/ArkWeb](https://github.com/luki-1/ArkWeb) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/luki-1/arkweb.md) |
 | [NuvexNetwork/nuvex-web](https://github.com/NuvexNetwork/nuvex-web) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nuvexnetwork/nuvex-web.md) |
 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/idlerunner00/procedural-pixel-creatures.md) |
 | [NuvexNetwork/nuvex](https://github.com/NuvexNetwork/nuvex) | JavaScript project | Runs in the browser with a free account | [guide](guides/nuvexnetwork/nuvex.md) |
@@ -38,7 +39,6 @@ _12 guides written so far · last update 2026-10-03 20:56 UTC_
 | [youcci/playport](https://github.com/youcci/playport) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/youcci/playport.md) |
 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Node command-line tool | Runs in the browser with a free account | [guide](guides/qingyuna/answer-me-with-html.md) |
 | [sganggs/Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol) | Preact app | Runs in a browser tab, no account needed | [guide](guides/sganggs/stronghold-protocol.md) |
-| [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | C project | Needs a real machine (or a GPU) to run | [guide](guides/facebookincubator/muse-gadget-sdk.md) |
 <!-- latest:end -->
 
 ## How it works

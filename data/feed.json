@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T20:57:52.865Z",
- "totalGuides": 25,
+ "updatedAt": "2026-10-03T20:57:53.016Z",
+ "totalGuides": 26,
  "items": [
+  {
+   "fullName": "gillesgoetsch/omacvm",
+   "owner": "gillesgoetsch",
+   "name": "omacvm",
+   "url": "https://github.com/gillesgoetsch/omacvm",
+   "avatar": "https://avatars.githubusercontent.com/u/2161918?v=4",
+   "description": "Omarchy in a VM on your Mac (Parallels or UTM), feeling native: Omarchy's bar beside the notch, trackpad gestures, macOS-like scrolling, the Mac's Wi-Fi, audio and keys in Omarchy. One command to build and switch features.",
+   "language": "Shell",
+   "topics": [
+    "apple-silicon",
+    "arch-linux-arm",
+    "hyprland",
+    "macos",
+    "omanotch",
+    "omarchy",
+    "parallels",
+    "parallels-desktop"
+   ],
+   "license": "MIT",
+   "stars": 84,
+   "forks": 5,
+   "createdAt": "2026-10-01T13:15:46Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-03T20:57:53.016Z",
+   "stack": {
+    "kind": "other",
+    "label": "Shell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/gillesgoetsch/omacvm?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/gillesgoetsch/omacvm",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/gillesgoetsch/omacvm/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/gillesgoetsch/omacvm.git\ncd omacvm",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/gillesgoetsch/omacvm\nWhat it says it does: \"Omarchy in a VM on your Mac (Parallels or UTM), feeling native: Omarchy's bar beside the notch, trackpad gestures, macOS-like scrolling, the Mac's Wi-Fi, audio and keys in Omarchy. One command to build and switch features.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-03T20:57:53.016Z"
+  },
   {
    "fullName": "zoolapp/aime",
    "owner": "zoolapp",
@@ -1684,8 +1748,8 @@
   }
  ],
  "levels": {
+  "account": 13,
   "heavy": 6,
-  "account": 12,
   "instant": 5,
   "read": 2
  }

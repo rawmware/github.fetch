@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_75 guides written so far · last update 2026-10-04 02:50 UTC_
+_76 guides written so far · last update 2026-10-04 02:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [M3hmetSa1t/pegasus-ps4-collection-catalog](https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/m3hmetsa1t/pegasus-ps4-collection-catalog.md) |
 | [YusufAbdulah/Auto-Mining-ATF-Dashboard](https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yusufabdulah/auto-mining-atf-dashboard.md) |
 | [viticci/muse-pocket](https://github.com/viticci/muse-pocket) | C project | Needs a real machine (or a GPU) to run | [guide](guides/viticci/muse-pocket.md) |
 | [joeseesun/qiaomu-clipper](https://github.com/joeseesun/qiaomu-clipper) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-clipper.md) |
@@ -38,7 +39,6 @@ _75 guides written so far · last update 2026-10-04 02:50 UTC_
 | [OverkillLabs2/SoS-PS5](https://github.com/OverkillLabs2/SoS-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs2/sos-ps5.md) |
 | [hyj-STAR/voiceshell-muse-bridge](https://github.com/hyj-STAR/voiceshell-muse-bridge) | Python project | Runs in the browser with a free account | [guide](guides/hyj-star/voiceshell-muse-bridge.md) |
 | [ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill) | HTML project | Runs in the browser with a free account | [guide](guides/ythx-101/live-panel-skill.md) |
-| [tgwsproxy-windows/tgwsproxy-windows.github.io](https://github.com/tgwsproxy-windows/tgwsproxy-windows.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tgwsproxy-windows/tgwsproxy-windows.github.io.md) |
 <!-- latest:end -->
 
 ## How it works

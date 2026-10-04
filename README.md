@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_80 guides written so far · last update 2026-10-04 09:37 UTC_
+_81 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MilliRoninPipe/AIDA-64-Extreme](https://github.com/MilliRoninPipe/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/millironinpipe/aida-64-extreme.md) |
 | [RhythmFlamingoOutfit/pc-optimizer](https://github.com/RhythmFlamingoOutfit/pc-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rhythmflamingooutfit/pc-optimizer.md) |
 | [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/shinshin86/mesh-avatar-studio.md) |
 | [MatinSenPai/Gemini-Config-Checker](https://github.com/MatinSenPai/Gemini-Config-Checker) | Go project | Runs in the browser with a free account | [guide](guides/matinsenpai/gemini-config-checker.md) |
@@ -38,7 +39,6 @@ _80 guides written so far · last update 2026-10-04 09:37 UTC_
 | [ARYANK-08/agentic-dev-kit](https://github.com/ARYANK-08/agentic-dev-kit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aryank-08/agentic-dev-kit.md) |
 | [Almosst-DEV/Navi48-MacOS](https://github.com/Almosst-DEV/Navi48-MacOS) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/almosst-dev/navi48-macos.md) |
 | [HomeRiz/hats](https://github.com/HomeRiz/hats) | Vite app | Runs in a browser tab, no account needed | [guide](guides/homeriz/hats.md) |
-| [thaw-app/Floe](https://github.com/thaw-app/Floe) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/thaw-app/floe.md) |
 <!-- latest:end -->
 
 ## How it works

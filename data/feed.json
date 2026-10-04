@@ -1,8 +1,60 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T18:36:12.184Z",
- "totalGuides": 114,
+ "updatedAt": "2026-10-04T18:36:12.335Z",
+ "totalGuides": 115,
  "items": [
+  {
+   "fullName": "CommanderWar/Adobe-Audition",
+   "owner": "CommanderWar",
+   "name": "Adobe-Audition",
+   "url": "https://github.com/CommanderWar/Adobe-Audition",
+   "avatar": "https://avatars.githubusercontent.com/u/296662129?v=4",
+   "description": "Adobe Audition optimizes professional audio editing tasks with a comprehensive desktop software utility configuration that streamlines multitrack...",
+   "language": null,
+   "topics": [
+    "acrobat",
+    "acrobat-pro-dc",
+    "adobe-audition"
+   ],
+   "license": null,
+   "stars": 305,
+   "forks": 0,
+   "createdAt": "2026-10-02T19:54:49Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T18:36:12.335Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/CommanderWar/Adobe-Audition",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/CommanderWar/Adobe-Audition/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/CommanderWar/Adobe-Audition\nWhat it says it does: \"Adobe Audition optimizes professional audio editing tasks with a comprehensive desktop software utility configuration that streamlines multitrack...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T18:36:12.335Z"
+  },
   {
    "fullName": "ApexPythonHost/Canva-Pro",
    "owner": "ApexPythonHost",
@@ -7025,7 +7077,7 @@
   }
  ],
  "levels": {
-  "read": 46,
+  "read": 47,
   "instant": 12,
   "account": 40,
   "heavy": 16

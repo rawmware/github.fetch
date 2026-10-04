@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_125 guides written so far · last update 2026-10-04 21:59 UTC_
+_126 guides written so far · last update 2026-10-04 21:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Gateapregister/Uttorent](https://github.com/Gateapregister/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gateapregister/uttorent.md) |
 | [portioncommanderedge/Ozone-12-Advanced](https://github.com/portioncommanderedge/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portioncommanderedge/ozone-12-advanced.md) |
 | [Driftdispeed/SlideShow-Video-Maker](https://github.com/Driftdispeed/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftdispeed/slideshow-video-maker.md) |
 | [Clutchbrorank/PH-Downloader](https://github.com/Clutchbrorank/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clutchbrorank/ph-downloader.md) |
@@ -38,7 +39,6 @@ _125 guides written so far · last update 2026-10-04 21:59 UTC_
 | [OilBureaucrat94/Adobe-InDesign](https://github.com/OilBureaucrat94/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oilbureaucrat94/adobe-indesign.md) |
 | [pegasusashcable/Adobe-Substance-3d](https://github.com/pegasusashcable/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pegasusashcable/adobe-substance-3d.md) |
 | [CommanderWar/Adobe-Audition](https://github.com/CommanderWar/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commanderwar/adobe-audition.md) |
-| [ApexPythonHost/Canva-Pro](https://github.com/ApexPythonHost/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexpythonhost/canva-pro.md) |
 <!-- latest:end -->
 
 ## How it works

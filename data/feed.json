@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T09:37:36.089Z",
- "totalGuides": 79,
+ "updatedAt": "2026-10-04T09:37:36.245Z",
+ "totalGuides": 80,
  "items": [
+  {
+   "fullName": "RhythmFlamingoOutfit/pc-optimizer",
+   "owner": "RhythmFlamingoOutfit",
+   "name": "pc-optimizer",
+   "url": "https://github.com/RhythmFlamingoOutfit/pc-optimizer",
+   "avatar": "https://avatars.githubusercontent.com/u/312952848?v=4",
+   "description": "Advanced Windows performance booster, registry cleaner, and RAM optimizer designed to maximize system speed and game FPS.",
+   "language": null,
+   "topics": [],
+   "license": "MIT",
+   "stars": 50,
+   "forks": 0,
+   "createdAt": "2026-10-04T07:51:56Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T09:37:36.244Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/RhythmFlamingoOutfit/pc-optimizer",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/RhythmFlamingoOutfit/pc-optimizer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/RhythmFlamingoOutfit/pc-optimizer\nWhat it says it does: \"Advanced Windows performance booster, registry cleaner, and RAM optimizer designed to maximize system speed and game FPS.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T09:37:36.244Z"
+  },
   {
    "fullName": "shinshin86/mesh-avatar-studio",
    "owner": "shinshin86",
@@ -5044,9 +5092,9 @@
   }
  ],
  "levels": {
+  "read": 12,
   "instant": 12,
   "account": 40,
-  "read": 11,
   "heavy": 16
  }
 }

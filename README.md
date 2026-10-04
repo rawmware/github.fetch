@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_79 guides written so far · last update 2026-10-04 09:37 UTC_
+_80 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RhythmFlamingoOutfit/pc-optimizer](https://github.com/RhythmFlamingoOutfit/pc-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rhythmflamingooutfit/pc-optimizer.md) |
 | [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/shinshin86/mesh-avatar-studio.md) |
 | [MatinSenPai/Gemini-Config-Checker](https://github.com/MatinSenPai/Gemini-Config-Checker) | Go project | Runs in the browser with a free account | [guide](guides/matinsenpai/gemini-config-checker.md) |
 | [krystalqiye-lj/VRS-Desktop-Pet](https://github.com/krystalqiye-lj/VRS-Desktop-Pet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/krystalqiye-lj/vrs-desktop-pet.md) |
@@ -38,7 +39,6 @@ _79 guides written so far · last update 2026-10-04 09:37 UTC_
 | [Almosst-DEV/Navi48-MacOS](https://github.com/Almosst-DEV/Navi48-MacOS) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/almosst-dev/navi48-macos.md) |
 | [HomeRiz/hats](https://github.com/HomeRiz/hats) | Vite app | Runs in a browser tab, no account needed | [guide](guides/homeriz/hats.md) |
 | [thaw-app/Floe](https://github.com/thaw-app/Floe) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/thaw-app/floe.md) |
-| [sinfiltros/AnyPad-PS5](https://github.com/sinfiltros/AnyPad-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sinfiltros/anypad-ps5.md) |
 <!-- latest:end -->
 
 ## How it works

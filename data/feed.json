@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T09:37:35.690Z",
- "totalGuides": 77,
+ "updatedAt": "2026-10-04T09:37:35.859Z",
+ "totalGuides": 78,
  "items": [
+  {
+   "fullName": "MatinSenPai/Gemini-Config-Checker",
+   "owner": "MatinSenPai",
+   "name": "Gemini-Config-Checker",
+   "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+   "avatar": "https://avatars.githubusercontent.com/u/99926753?v=4",
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "language": "Go",
+   "topics": [],
+   "license": "MIT",
+   "stars": 55,
+   "forks": 0,
+   "createdAt": "2026-10-03T15:08:10Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T09:37:35.858Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/MatinSenPai/Gemini-Config-Checker?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/MatinSenPai/Gemini-Config-Checker",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/MatinSenPai/Gemini-Config-Checker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": "go run .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/MatinSenPai/Gemini-Config-Checker.git\ncd Gemini-Config-Checker\ngo build ./...\ngo run .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/MatinSenPai/Gemini-Config-Checker\nWhat it says it does: \"Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T09:37:35.858Z"
+  },
   {
    "fullName": "krystalqiye-lj/VRS-Desktop-Pet",
    "owner": "krystalqiye-lj",
@@ -4909,9 +4964,9 @@
   }
  ],
  "levels": {
+  "account": 40,
   "read": 11,
   "instant": 11,
-  "heavy": 16,
-  "account": 39
+  "heavy": 16
  }
 }

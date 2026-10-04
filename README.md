@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_77 guides written so far · last update 2026-10-04 09:37 UTC_
+_78 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MatinSenPai/Gemini-Config-Checker](https://github.com/MatinSenPai/Gemini-Config-Checker) | Go project | Runs in the browser with a free account | [guide](guides/matinsenpai/gemini-config-checker.md) |
 | [krystalqiye-lj/VRS-Desktop-Pet](https://github.com/krystalqiye-lj/VRS-Desktop-Pet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/krystalqiye-lj/vrs-desktop-pet.md) |
 | [M3hmetSa1t/pegasus-ps4-collection-catalog](https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/m3hmetsa1t/pegasus-ps4-collection-catalog.md) |
 | [YusufAbdulah/Auto-Mining-ATF-Dashboard](https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yusufabdulah/auto-mining-atf-dashboard.md) |
@@ -38,7 +39,6 @@ _77 guides written so far · last update 2026-10-04 09:37 UTC_
 | [thaw-app/Floe](https://github.com/thaw-app/Floe) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/thaw-app/floe.md) |
 | [sinfiltros/AnyPad-PS5](https://github.com/sinfiltros/AnyPad-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sinfiltros/anypad-ps5.md) |
 | [OverkillLabs2/SoS-PS5](https://github.com/OverkillLabs2/SoS-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs2/sos-ps5.md) |
-| [hyj-STAR/voiceshell-muse-bridge](https://github.com/hyj-STAR/voiceshell-muse-bridge) | Python project | Runs in the browser with a free account | [guide](guides/hyj-star/voiceshell-muse-bridge.md) |
 <!-- latest:end -->
 
 ## How it works

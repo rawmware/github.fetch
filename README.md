@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_116 guides written so far · last update 2026-10-04 18:36 UTC_
+_117 guides written so far · last update 2026-10-04 18:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [OilBureaucrat94/Adobe-InDesign](https://github.com/OilBureaucrat94/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oilbureaucrat94/adobe-indesign.md) |
 | [pegasusashcable/Adobe-Substance-3d](https://github.com/pegasusashcable/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pegasusashcable/adobe-substance-3d.md) |
 | [CommanderWar/Adobe-Audition](https://github.com/CommanderWar/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commanderwar/adobe-audition.md) |
 | [ApexPythonHost/Canva-Pro](https://github.com/ApexPythonHost/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexpythonhost/canva-pro.md) |
@@ -38,7 +39,6 @@ _116 guides written so far · last update 2026-10-04 18:36 UTC_
 | [ConsciousnessGrub/Serato-DJ-Pro](https://github.com/ConsciousnessGrub/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/consciousnessgrub/serato-dj-pro.md) |
 | [AxeEradicate/Fps-Booster-for-Windows](https://github.com/AxeEradicate/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/axeeradicate/fps-booster-for-windows.md) |
 | [CavernDeckhand50/Total-Commander](https://github.com/CavernDeckhand50/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caverndeckhand50/total-commander.md) |
-| [Meshtredominate/Wondshare-Recoverit](https://github.com/Meshtredominate/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshtredominate/wondshare-recoverit.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T21:59:07.887Z",
- "totalGuides": 123,
+ "updatedAt": "2026-10-04T21:59:08.056Z",
+ "totalGuides": 124,
  "items": [
+  {
+   "fullName": "Driftdispeed/SlideShow-Video-Maker",
+   "owner": "Driftdispeed",
+   "name": "SlideShow-Video-Maker",
+   "url": "https://github.com/Driftdispeed/SlideShow-Video-Maker",
+   "avatar": "https://avatars.githubusercontent.com/u/296661585?v=4",
+   "description": "Slideshow Video Maker is a professional plugin solution enabling seamless video editing, screen recording and visual effects post-production on GitHub.",
+   "language": null,
+   "topics": [
+    "beat-creator",
+    "beginner-daw",
+    "loop-music-maker",
+    "magix-free",
+    "magix-github",
+    "magix-music-maker",
+    "magix-setup",
+    "music-maker-premium"
+   ],
+   "license": null,
+   "stars": 209,
+   "forks": 0,
+   "createdAt": "2026-10-02T20:07:23Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T21:59:08.055Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Driftdispeed/SlideShow-Video-Maker",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Driftdispeed/SlideShow-Video-Maker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Driftdispeed/SlideShow-Video-Maker\nWhat it says it does: \"Slideshow Video Maker is a professional plugin solution enabling seamless video editing, screen recording and visual effects post-production on GitHub.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T21:59:08.055Z"
+  },
   {
    "fullName": "Clutchbrorank/PH-Downloader",
    "owner": "Clutchbrorank",
@@ -7553,7 +7610,7 @@
   }
  ],
  "levels": {
-  "read": 54,
+  "read": 55,
   "account": 41,
   "instant": 12,
   "heavy": 16

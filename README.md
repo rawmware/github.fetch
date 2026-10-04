@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_123 guides written so far · last update 2026-10-04 21:59 UTC_
+_124 guides written so far · last update 2026-10-04 21:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Driftdispeed/SlideShow-Video-Maker](https://github.com/Driftdispeed/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftdispeed/slideshow-video-maker.md) |
 | [Clutchbrorank/PH-Downloader](https://github.com/Clutchbrorank/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clutchbrorank/ph-downloader.md) |
 | [Lowflaindicate/RX-11-Audio-Editor](https://github.com/Lowflaindicate/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lowflaindicate/rx-11-audio-editor.md) |
 | [StampEconomicRavine/SketchUp-Pro](https://github.com/StampEconomicRavine/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stampeconomicravine/sketchup-pro.md) |
@@ -38,7 +39,6 @@ _123 guides written so far · last update 2026-10-04 21:59 UTC_
 | [CommanderWar/Adobe-Audition](https://github.com/CommanderWar/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commanderwar/adobe-audition.md) |
 | [ApexPythonHost/Canva-Pro](https://github.com/ApexPythonHost/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexpythonhost/canva-pro.md) |
 | [SystemRuminate86/Better-Discord](https://github.com/SystemRuminate86/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/systemruminate86/better-discord.md) |
-| [RivetWayCalculate/ExitLag](https://github.com/RivetWayCalculate/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetwaycalculate/exitlag.md) |
 <!-- latest:end -->
 
 ## How it works

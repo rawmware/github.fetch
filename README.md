@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_126 guides written so far · last update 2026-10-04 21:59 UTC_
+_127 guides written so far · last update 2026-10-04 21:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CopperForeman4/Microsoft-Visio](https://github.com/CopperForeman4/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/copperforeman4/microsoft-visio.md) |
 | [Gateapregister/Uttorent](https://github.com/Gateapregister/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gateapregister/uttorent.md) |
 | [portioncommanderedge/Ozone-12-Advanced](https://github.com/portioncommanderedge/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portioncommanderedge/ozone-12-advanced.md) |
 | [Driftdispeed/SlideShow-Video-Maker](https://github.com/Driftdispeed/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftdispeed/slideshow-video-maker.md) |
@@ -38,7 +39,6 @@ _126 guides written so far · last update 2026-10-04 21:59 UTC_
 | [Heartfledisplay/Adobe-Acrobat-Pro](https://github.com/Heartfledisplay/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heartfledisplay/adobe-acrobat-pro.md) |
 | [OilBureaucrat94/Adobe-InDesign](https://github.com/OilBureaucrat94/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oilbureaucrat94/adobe-indesign.md) |
 | [pegasusashcable/Adobe-Substance-3d](https://github.com/pegasusashcable/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pegasusashcable/adobe-substance-3d.md) |
-| [CommanderWar/Adobe-Audition](https://github.com/CommanderWar/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commanderwar/adobe-audition.md) |
 <!-- latest:end -->
 
 ## How it works

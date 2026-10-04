@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_82 guides written so far · last update 2026-10-04 09:37 UTC_
+_83 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [fiercealbatrosssaw/CorelDraw](https://github.com/fiercealbatrosssaw/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fiercealbatrosssaw/coreldraw.md) |
 | [LegislatorCool/CCleaner-Pro](https://github.com/LegislatorCool/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/legislatorcool/ccleaner-pro.md) |
 | [MilliRoninPipe/AIDA-64-Extreme](https://github.com/MilliRoninPipe/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/millironinpipe/aida-64-extreme.md) |
 | [RhythmFlamingoOutfit/pc-optimizer](https://github.com/RhythmFlamingoOutfit/pc-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rhythmflamingooutfit/pc-optimizer.md) |
@@ -38,7 +39,6 @@ _82 guides written so far · last update 2026-10-04 09:37 UTC_
 | [viticci/muse-pocket](https://github.com/viticci/muse-pocket) | C project | Needs a real machine (or a GPU) to run | [guide](guides/viticci/muse-pocket.md) |
 | [joeseesun/qiaomu-clipper](https://github.com/joeseesun/qiaomu-clipper) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-clipper.md) |
 | [ARYANK-08/agentic-dev-kit](https://github.com/ARYANK-08/agentic-dev-kit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aryank-08/agentic-dev-kit.md) |
-| [Almosst-DEV/Navi48-MacOS](https://github.com/Almosst-DEV/Navi48-MacOS) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/almosst-dev/navi48-macos.md) |
 <!-- latest:end -->
 
 ## How it works

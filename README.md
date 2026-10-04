@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_67 guides written so far · last update 2026-10-04 02:50 UTC_
+_68 guides written so far · last update 2026-10-04 02:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sinfiltros/AnyPad-PS5](https://github.com/sinfiltros/AnyPad-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sinfiltros/anypad-ps5.md) |
 | [OverkillLabs2/SoS-PS5](https://github.com/OverkillLabs2/SoS-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs2/sos-ps5.md) |
 | [hyj-STAR/voiceshell-muse-bridge](https://github.com/hyj-STAR/voiceshell-muse-bridge) | Python project | Runs in the browser with a free account | [guide](guides/hyj-star/voiceshell-muse-bridge.md) |
 | [ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill) | HTML project | Runs in the browser with a free account | [guide](guides/ythx-101/live-panel-skill.md) |
@@ -38,7 +39,6 @@ _67 guides written so far · last update 2026-10-04 02:50 UTC_
 | [vedantdhande04/tweetytweets](https://github.com/vedantdhande04/tweetytweets) | Python project | Runs in the browser with a free account | [guide](guides/vedantdhande04/tweetytweets.md) |
 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | Python project | Runs in the browser with a free account | [guide](guides/facebookresearch/swe-sweep.md) |
 | [xop01/ai_goodpractice](https://github.com/xop01/ai_goodpractice) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/xop01/ai_goodpractice.md) |
-| [chen-006/meow-ai-arena](https://github.com/chen-006/meow-ai-arena) | HTML project | Runs in the browser with a free account | [guide](guides/chen-006/meow-ai-arena.md) |
 <!-- latest:end -->
 
 ## How it works

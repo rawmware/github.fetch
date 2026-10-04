@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_108 guides written so far · last update 2026-10-04 14:59 UTC_
+_109 guides written so far · last update 2026-10-04 18:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Inneruiarbor/IOBIT-Driver-Booster](https://github.com/Inneruiarbor/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inneruiarbor/iobit-driver-booster.md) |
 | [ConsciousnessGrub/Serato-DJ-Pro](https://github.com/ConsciousnessGrub/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/consciousnessgrub/serato-dj-pro.md) |
 | [AxeEradicate/Fps-Booster-for-Windows](https://github.com/AxeEradicate/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/axeeradicate/fps-booster-for-windows.md) |
 | [CavernDeckhand50/Total-Commander](https://github.com/CavernDeckhand50/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caverndeckhand50/total-commander.md) |
@@ -38,7 +39,6 @@ _108 guides written so far · last update 2026-10-04 14:59 UTC_
 | [Blockadezoshack/Microsoft-Project](https://github.com/Blockadezoshack/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blockadezoshack/microsoft-project.md) |
 | [Ceilingmoreminisce/Discord-Server-Raider](https://github.com/Ceilingmoreminisce/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilingmoreminisce/discord-server-raider.md) |
 | [ScreenEvaluate/KMS-Pico](https://github.com/ScreenEvaluate/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/screenevaluate/kms-pico.md) |
-| [GreenSorcererShears/SolidWorks-CAD](https://github.com/GreenSorcererShears/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greensorcerershears/solidworks-cad.md) |
 <!-- latest:end -->
 
 ## How it works

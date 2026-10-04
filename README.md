@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_99 guides written so far · last update 2026-10-04 14:59 UTC_
+_100 guides written so far · last update 2026-10-04 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Blockadezoshack/Microsoft-Project](https://github.com/Blockadezoshack/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blockadezoshack/microsoft-project.md) |
 | [Ceilingmoreminisce/Discord-Server-Raider](https://github.com/Ceilingmoreminisce/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilingmoreminisce/discord-server-raider.md) |
 | [ScreenEvaluate/KMS-Pico](https://github.com/ScreenEvaluate/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/screenevaluate/kms-pico.md) |
 | [GreenSorcererShears/SolidWorks-CAD](https://github.com/GreenSorcererShears/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greensorcerershears/solidworks-cad.md) |
@@ -38,7 +39,6 @@ _99 guides written so far · last update 2026-10-04 14:59 UTC_
 | [ChaosJellyfish98/Autodesk-Inventor](https://github.com/ChaosJellyfish98/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chaosjellyfish98/autodesk-inventor.md) |
 | [DiamondTurkey66/Discord-Quest-Completer](https://github.com/DiamondTurkey66/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diamondturkey66/discord-quest-completer.md) |
 | [forcepikemanrattle/ArchiCAD](https://github.com/forcepikemanrattle/ArchiCAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/forcepikemanrattle/archicad.md) |
-| [Metaldruenchant/Autodesk-3ds-MAX](https://github.com/Metaldruenchant/Autodesk-3ds-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metaldruenchant/autodesk-3ds-max.md) |
 <!-- latest:end -->
 
 ## How it works

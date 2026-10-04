@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_121 guides written so far · last update 2026-10-04 21:59 UTC_
+_122 guides written so far · last update 2026-10-04 21:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Lowflaindicate/RX-11-Audio-Editor](https://github.com/Lowflaindicate/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lowflaindicate/rx-11-audio-editor.md) |
 | [StampEconomicRavine/SketchUp-Pro](https://github.com/StampEconomicRavine/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stampeconomicravine/sketchup-pro.md) |
 | [ProtectorSplit/ultra-Iso](https://github.com/ProtectorSplit/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/protectorsplit/ultra-iso.md) |
 | [allenv0/SCM](https://github.com/allenv0/SCM) | Vite app | Runs in the browser with a free account | [guide](guides/allenv0/scm.md) |
@@ -38,7 +39,6 @@ _121 guides written so far · last update 2026-10-04 21:59 UTC_
 | [SystemRuminate86/Better-Discord](https://github.com/SystemRuminate86/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/systemruminate86/better-discord.md) |
 | [RivetWayCalculate/ExitLag](https://github.com/RivetWayCalculate/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetwaycalculate/exitlag.md) |
 | [NadirAccountantFlash/Discord-Server-Cloner](https://github.com/NadirAccountantFlash/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadiraccountantflash/discord-server-cloner.md) |
-| [TestingBlast/Cubase](https://github.com/TestingBlast/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/testingblast/cubase.md) |
 <!-- latest:end -->
 
 ## How it works

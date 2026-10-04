@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_101 guides written so far · last update 2026-10-04 14:59 UTC_
+_102 guides written so far · last update 2026-10-04 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ColonyBiomancerCall/StartAll-Back](https://github.com/ColonyBiomancerCall/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/colonybiomancercall/startall-back.md) |
 | [BladesmanSound/DVD-Creator](https://github.com/BladesmanSound/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bladesmansound/dvd-creator.md) |
 | [Blockadezoshack/Microsoft-Project](https://github.com/Blockadezoshack/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blockadezoshack/microsoft-project.md) |
 | [Ceilingmoreminisce/Discord-Server-Raider](https://github.com/Ceilingmoreminisce/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilingmoreminisce/discord-server-raider.md) |
@@ -38,7 +39,6 @@ _101 guides written so far · last update 2026-10-04 14:59 UTC_
 | [SealAssociateDeliver/Acronis](https://github.com/SealAssociateDeliver/Acronis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sealassociatedeliver/acronis.md) |
 | [PurserUncover/Cellebrite-UFED](https://github.com/PurserUncover/Cellebrite-UFED) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purseruncover/cellebrite-ufed.md) |
 | [ChaosJellyfish98/Autodesk-Inventor](https://github.com/ChaosJellyfish98/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chaosjellyfish98/autodesk-inventor.md) |
-| [DiamondTurkey66/Discord-Quest-Completer](https://github.com/DiamondTurkey66/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diamondturkey66/discord-quest-completer.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_84 guides written so far · last update 2026-10-04 09:37 UTC_
+_85 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TopFireman96/Ableton-Live-12](https://github.com/TopFireman96/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/topfireman96/ableton-live-12.md) |
 | [PrismGiraffe/Cinema-4d](https://github.com/PrismGiraffe/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismgiraffe/cinema-4d.md) |
 | [fiercealbatrosssaw/CorelDraw](https://github.com/fiercealbatrosssaw/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fiercealbatrosssaw/coreldraw.md) |
 | [LegislatorCool/CCleaner-Pro](https://github.com/LegislatorCool/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/legislatorcool/ccleaner-pro.md) |
@@ -38,7 +39,6 @@ _84 guides written so far · last update 2026-10-04 09:37 UTC_
 | [M3hmetSa1t/pegasus-ps4-collection-catalog](https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/m3hmetsa1t/pegasus-ps4-collection-catalog.md) |
 | [YusufAbdulah/Auto-Mining-ATF-Dashboard](https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yusufabdulah/auto-mining-atf-dashboard.md) |
 | [viticci/muse-pocket](https://github.com/viticci/muse-pocket) | C project | Needs a real machine (or a GPU) to run | [guide](guides/viticci/muse-pocket.md) |
-| [joeseesun/qiaomu-clipper](https://github.com/joeseesun/qiaomu-clipper) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-clipper.md) |
 <!-- latest:end -->
 
 ## How it works

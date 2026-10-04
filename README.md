@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_73 guides written so far · last update 2026-10-04 02:50 UTC_
+_74 guides written so far · last update 2026-10-04 02:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [viticci/muse-pocket](https://github.com/viticci/muse-pocket) | C project | Needs a real machine (or a GPU) to run | [guide](guides/viticci/muse-pocket.md) |
 | [joeseesun/qiaomu-clipper](https://github.com/joeseesun/qiaomu-clipper) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-clipper.md) |
 | [ARYANK-08/agentic-dev-kit](https://github.com/ARYANK-08/agentic-dev-kit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aryank-08/agentic-dev-kit.md) |
 | [Almosst-DEV/Navi48-MacOS](https://github.com/Almosst-DEV/Navi48-MacOS) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/almosst-dev/navi48-macos.md) |
@@ -38,7 +39,6 @@ _73 guides written so far · last update 2026-10-04 02:50 UTC_
 | [ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill) | HTML project | Runs in the browser with a free account | [guide](guides/ythx-101/live-panel-skill.md) |
 | [tgwsproxy-windows/tgwsproxy-windows.github.io](https://github.com/tgwsproxy-windows/tgwsproxy-windows.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tgwsproxy-windows/tgwsproxy-windows.github.io.md) |
 | [hamzafer/claude-code-mods](https://github.com/hamzafer/claude-code-mods) | TypeScript project | Runs in the browser with a free account | [guide](guides/hamzafer/claude-code-mods.md) |
-| [bhouston/three-dlss-nr](https://github.com/bhouston/three-dlss-nr) | Vite app | Runs in the browser with a free account | [guide](guides/bhouston/three-dlss-nr.md) |
 <!-- latest:end -->
 
 ## How it works

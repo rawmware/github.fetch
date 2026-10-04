@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_91 guides written so far · last update 2026-10-04 09:37 UTC_
+_92 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PurserUncover/Cellebrite-UFED](https://github.com/PurserUncover/Cellebrite-UFED) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purseruncover/cellebrite-ufed.md) |
 | [ChaosJellyfish98/Autodesk-Inventor](https://github.com/ChaosJellyfish98/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chaosjellyfish98/autodesk-inventor.md) |
 | [DiamondTurkey66/Discord-Quest-Completer](https://github.com/DiamondTurkey66/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diamondturkey66/discord-quest-completer.md) |
 | [forcepikemanrattle/ArchiCAD](https://github.com/forcepikemanrattle/ArchiCAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/forcepikemanrattle/archicad.md) |
@@ -38,7 +39,6 @@ _91 guides written so far · last update 2026-10-04 09:37 UTC_
 | [fiercealbatrosssaw/CorelDraw](https://github.com/fiercealbatrosssaw/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fiercealbatrosssaw/coreldraw.md) |
 | [LegislatorCool/CCleaner-Pro](https://github.com/LegislatorCool/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/legislatorcool/ccleaner-pro.md) |
 | [MilliRoninPipe/AIDA-64-Extreme](https://github.com/MilliRoninPipe/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/millironinpipe/aida-64-extreme.md) |
-| [RhythmFlamingoOutfit/pc-optimizer](https://github.com/RhythmFlamingoOutfit/pc-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rhythmflamingooutfit/pc-optimizer.md) |
 <!-- latest:end -->
 
 ## How it works

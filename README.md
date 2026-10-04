@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_68 guides written so far · last update 2026-10-04 02:50 UTC_
+_69 guides written so far · last update 2026-10-04 02:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [thaw-app/Floe](https://github.com/thaw-app/Floe) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/thaw-app/floe.md) |
 | [sinfiltros/AnyPad-PS5](https://github.com/sinfiltros/AnyPad-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sinfiltros/anypad-ps5.md) |
 | [OverkillLabs2/SoS-PS5](https://github.com/OverkillLabs2/SoS-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs2/sos-ps5.md) |
 | [hyj-STAR/voiceshell-muse-bridge](https://github.com/hyj-STAR/voiceshell-muse-bridge) | Python project | Runs in the browser with a free account | [guide](guides/hyj-star/voiceshell-muse-bridge.md) |
@@ -38,7 +39,6 @@ _68 guides written so far · last update 2026-10-04 02:50 UTC_
 | [Stxqq/self-driving-car](https://github.com/Stxqq/self-driving-car) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/stxqq/self-driving-car.md) |
 | [vedantdhande04/tweetytweets](https://github.com/vedantdhande04/tweetytweets) | Python project | Runs in the browser with a free account | [guide](guides/vedantdhande04/tweetytweets.md) |
 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | Python project | Runs in the browser with a free account | [guide](guides/facebookresearch/swe-sweep.md) |
-| [xop01/ai_goodpractice](https://github.com/xop01/ai_goodpractice) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/xop01/ai_goodpractice.md) |
 <!-- latest:end -->
 
 ## How it works

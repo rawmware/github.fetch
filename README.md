@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_95 guides written so far · last update 2026-10-04 14:59 UTC_
+_96 guides written so far · last update 2026-10-04 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [purpleproviderclip/Windows-Optimizer](https://github.com/purpleproviderclip/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purpleproviderclip/windows-optimizer.md) |
 | [BlackCrewmanFringe/AutoCad](https://github.com/BlackCrewmanFringe/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blackcrewmanfringe/autocad.md) |
 | [SheikhSurvive/Ads-Blocker](https://github.com/SheikhSurvive/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sheikhsurvive/ads-blocker.md) |
 | [SealAssociateDeliver/Acronis](https://github.com/SealAssociateDeliver/Acronis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sealassociatedeliver/acronis.md) |
@@ -38,7 +39,6 @@ _95 guides written so far · last update 2026-10-04 14:59 UTC_
 | [StarAssemblyCutter/Display-Fusion](https://github.com/StarAssemblyCutter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starassemblycutter/display-fusion.md) |
 | [AvalancheTradesman/Designcenter-NX](https://github.com/AvalancheTradesman/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/avalanchetradesman/designcenter-nx.md) |
 | [TopFireman96/Ableton-Live-12](https://github.com/TopFireman96/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/topfireman96/ableton-live-12.md) |
-| [PrismGiraffe/Cinema-4d](https://github.com/PrismGiraffe/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismgiraffe/cinema-4d.md) |
 <!-- latest:end -->
 
 ## How it works

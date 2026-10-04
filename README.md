@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_111 guides written so far · last update 2026-10-04 18:36 UTC_
+_112 guides written so far · last update 2026-10-04 18:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RivetWayCalculate/ExitLag](https://github.com/RivetWayCalculate/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetwaycalculate/exitlag.md) |
 | [NadirAccountantFlash/Discord-Server-Cloner](https://github.com/NadirAccountantFlash/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadiraccountantflash/discord-server-cloner.md) |
 | [TestingBlast/Cubase](https://github.com/TestingBlast/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/testingblast/cubase.md) |
 | [Inneruiarbor/IOBIT-Driver-Booster](https://github.com/Inneruiarbor/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inneruiarbor/iobit-driver-booster.md) |
@@ -38,7 +39,6 @@ _111 guides written so far · last update 2026-10-04 18:36 UTC_
 | [GateMultiply/Adobe-After-Effects](https://github.com/GateMultiply/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gatemultiply/adobe-after-effects.md) |
 | [ColonyBiomancerCall/StartAll-Back](https://github.com/ColonyBiomancerCall/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/colonybiomancercall/startall-back.md) |
 | [BladesmanSound/DVD-Creator](https://github.com/BladesmanSound/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bladesmansound/dvd-creator.md) |
-| [Blockadezoshack/Microsoft-Project](https://github.com/Blockadezoshack/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blockadezoshack/microsoft-project.md) |
 <!-- latest:end -->
 
 ## How it works

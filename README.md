@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_122 guides written so far · last update 2026-10-04 21:59 UTC_
+_123 guides written so far · last update 2026-10-04 21:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Clutchbrorank/PH-Downloader](https://github.com/Clutchbrorank/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clutchbrorank/ph-downloader.md) |
 | [Lowflaindicate/RX-11-Audio-Editor](https://github.com/Lowflaindicate/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lowflaindicate/rx-11-audio-editor.md) |
 | [StampEconomicRavine/SketchUp-Pro](https://github.com/StampEconomicRavine/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stampeconomicravine/sketchup-pro.md) |
 | [ProtectorSplit/ultra-Iso](https://github.com/ProtectorSplit/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/protectorsplit/ultra-iso.md) |
@@ -38,7 +39,6 @@ _122 guides written so far · last update 2026-10-04 21:59 UTC_
 | [ApexPythonHost/Canva-Pro](https://github.com/ApexPythonHost/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexpythonhost/canva-pro.md) |
 | [SystemRuminate86/Better-Discord](https://github.com/SystemRuminate86/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/systemruminate86/better-discord.md) |
 | [RivetWayCalculate/ExitLag](https://github.com/RivetWayCalculate/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetwaycalculate/exitlag.md) |
-| [NadirAccountantFlash/Discord-Server-Cloner](https://github.com/NadirAccountantFlash/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadiraccountantflash/discord-server-cloner.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T02:50:09.198Z",
- "totalGuides": 74,
+ "updatedAt": "2026-10-04T02:50:09.477Z",
+ "totalGuides": 75,
  "items": [
+  {
+   "fullName": "YusufAbdulah/Auto-Mining-ATF-Dashboard",
+   "owner": "YusufAbdulah",
+   "name": "Auto-Mining-ATF-Dashboard",
+   "url": "https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard",
+   "avatar": "https://avatars.githubusercontent.com/u/228737441?v=4",
+   "description": "Bot Node.js untuk berinteraksi dengan ATF Telegram Mini App menggunakan file session Telethon with Dashboard",
+   "language": "JavaScript",
+   "topics": [],
+   "license": null,
+   "stars": 39,
+   "forks": 0,
+   "createdAt": "2026-10-02T03:27:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T02:50:09.476Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/YusufAbdulah/Auto-Mining-ATF-Dashboard",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm start`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/YusufAbdulah/Auto-Mining-ATF-Dashboard",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/YusufAbdulah/Auto-Mining-ATF-Dashboard?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/YusufAbdulah/Auto-Mining-ATF-Dashboard",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm start",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard.git\ncd Auto-Mining-ATF-Dashboard\nnpm install\nnpm start",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard\nWhat it says it does: \"Bot Node.js untuk berinteraksi dengan ATF Telegram Mini App menggunakan file session Telethon with Dashboard\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T02:50:09.476Z"
+  },
   {
    "fullName": "viticci/muse-pocket",
    "owner": "viticci",
@@ -4744,8 +4813,8 @@
   }
  ],
  "levels": {
+  "instant": 11,
   "heavy": 16,
-  "instant": 10,
   "read": 9,
   "account": 39
  }

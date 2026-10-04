@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_74 guides written so far · last update 2026-10-04 02:50 UTC_
+_75 guides written so far · last update 2026-10-04 02:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [YusufAbdulah/Auto-Mining-ATF-Dashboard](https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yusufabdulah/auto-mining-atf-dashboard.md) |
 | [viticci/muse-pocket](https://github.com/viticci/muse-pocket) | C project | Needs a real machine (or a GPU) to run | [guide](guides/viticci/muse-pocket.md) |
 | [joeseesun/qiaomu-clipper](https://github.com/joeseesun/qiaomu-clipper) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-clipper.md) |
 | [ARYANK-08/agentic-dev-kit](https://github.com/ARYANK-08/agentic-dev-kit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aryank-08/agentic-dev-kit.md) |
@@ -38,7 +39,6 @@ _74 guides written so far · last update 2026-10-04 02:50 UTC_
 | [hyj-STAR/voiceshell-muse-bridge](https://github.com/hyj-STAR/voiceshell-muse-bridge) | Python project | Runs in the browser with a free account | [guide](guides/hyj-star/voiceshell-muse-bridge.md) |
 | [ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill) | HTML project | Runs in the browser with a free account | [guide](guides/ythx-101/live-panel-skill.md) |
 | [tgwsproxy-windows/tgwsproxy-windows.github.io](https://github.com/tgwsproxy-windows/tgwsproxy-windows.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tgwsproxy-windows/tgwsproxy-windows.github.io.md) |
-| [hamzafer/claude-code-mods](https://github.com/hamzafer/claude-code-mods) | TypeScript project | Runs in the browser with a free account | [guide](guides/hamzafer/claude-code-mods.md) |
 <!-- latest:end -->
 
 ## How it works

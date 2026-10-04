@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_97 guides written so far · last update 2026-10-04 14:59 UTC_
+_98 guides written so far · last update 2026-10-04 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ScreenEvaluate/KMS-Pico](https://github.com/ScreenEvaluate/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/screenevaluate/kms-pico.md) |
 | [GreenSorcererShears/SolidWorks-CAD](https://github.com/GreenSorcererShears/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greensorcerershears/solidworks-cad.md) |
 | [purpleproviderclip/Windows-Optimizer](https://github.com/purpleproviderclip/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purpleproviderclip/windows-optimizer.md) |
 | [BlackCrewmanFringe/AutoCad](https://github.com/BlackCrewmanFringe/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blackcrewmanfringe/autocad.md) |
@@ -38,7 +39,6 @@ _97 guides written so far · last update 2026-10-04 14:59 UTC_
 | [forcepikemanrattle/ArchiCAD](https://github.com/forcepikemanrattle/ArchiCAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/forcepikemanrattle/archicad.md) |
 | [Metaldruenchant/Autodesk-3ds-MAX](https://github.com/Metaldruenchant/Autodesk-3ds-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metaldruenchant/autodesk-3ds-max.md) |
 | [StarAssemblyCutter/Display-Fusion](https://github.com/StarAssemblyCutter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starassemblycutter/display-fusion.md) |
-| [AvalancheTradesman/Designcenter-NX](https://github.com/AvalancheTradesman/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/avalanchetradesman/designcenter-nx.md) |
 <!-- latest:end -->
 
 ## How it works

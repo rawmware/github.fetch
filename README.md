@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_78 guides written so far · last update 2026-10-04 09:37 UTC_
+_79 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/shinshin86/mesh-avatar-studio.md) |
 | [MatinSenPai/Gemini-Config-Checker](https://github.com/MatinSenPai/Gemini-Config-Checker) | Go project | Runs in the browser with a free account | [guide](guides/matinsenpai/gemini-config-checker.md) |
 | [krystalqiye-lj/VRS-Desktop-Pet](https://github.com/krystalqiye-lj/VRS-Desktop-Pet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/krystalqiye-lj/vrs-desktop-pet.md) |
 | [M3hmetSa1t/pegasus-ps4-collection-catalog](https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/m3hmetsa1t/pegasus-ps4-collection-catalog.md) |
@@ -38,7 +39,6 @@ _78 guides written so far · last update 2026-10-04 09:37 UTC_
 | [HomeRiz/hats](https://github.com/HomeRiz/hats) | Vite app | Runs in a browser tab, no account needed | [guide](guides/homeriz/hats.md) |
 | [thaw-app/Floe](https://github.com/thaw-app/Floe) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/thaw-app/floe.md) |
 | [sinfiltros/AnyPad-PS5](https://github.com/sinfiltros/AnyPad-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sinfiltros/anypad-ps5.md) |
-| [OverkillLabs2/SoS-PS5](https://github.com/OverkillLabs2/SoS-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs2/sos-ps5.md) |
 <!-- latest:end -->
 
 ## How it works

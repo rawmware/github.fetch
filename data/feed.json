@@ -1,8 +1,88 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T09:37:35.859Z",
- "totalGuides": 78,
+ "updatedAt": "2026-10-04T09:37:36.089Z",
+ "totalGuides": 79,
  "items": [
+  {
+   "fullName": "shinshin86/mesh-avatar-studio",
+   "owner": "shinshin86",
+   "name": "mesh-avatar-studio",
+   "url": "https://github.com/shinshin86/mesh-avatar-studio",
+   "avatar": "https://avatars.githubusercontent.com/u/8216064?v=4",
+   "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+   "language": "TypeScript",
+   "topics": [
+    "2d-animation",
+    "avatar",
+    "claude-code",
+    "codex",
+    "mesh-deformation",
+    "vtuber",
+    "webgl"
+   ],
+   "license": "MIT",
+   "stars": 51,
+   "forks": 0,
+   "createdAt": "2026-10-04T03:33:57Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T09:37:36.088Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/shinshin86/mesh-avatar-studio",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/shinshin86/mesh-avatar-studio",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/shinshin86/mesh-avatar-studio?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/shinshin86/mesh-avatar-studio",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/shinshin86/mesh-avatar-studio/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/shinshin86/mesh-avatar-studio.git\ncd mesh-avatar-studio\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/shinshin86/mesh-avatar-studio\nWhat it says it does: \"Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T09:37:36.088Z"
+  },
   {
    "fullName": "MatinSenPai/Gemini-Config-Checker",
    "owner": "MatinSenPai",
@@ -4964,9 +5044,9 @@
   }
  ],
  "levels": {
+  "instant": 12,
   "account": 40,
   "read": 11,
-  "instant": 11,
   "heavy": 16
  }
 }

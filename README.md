@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_87 guides written so far · last update 2026-10-04 09:37 UTC_
+_88 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Metaldruenchant/Autodesk-3ds-MAX](https://github.com/Metaldruenchant/Autodesk-3ds-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metaldruenchant/autodesk-3ds-max.md) |
 | [StarAssemblyCutter/Display-Fusion](https://github.com/StarAssemblyCutter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starassemblycutter/display-fusion.md) |
 | [AvalancheTradesman/Designcenter-NX](https://github.com/AvalancheTradesman/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/avalanchetradesman/designcenter-nx.md) |
 | [TopFireman96/Ableton-Live-12](https://github.com/TopFireman96/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/topfireman96/ableton-live-12.md) |
@@ -38,7 +39,6 @@ _87 guides written so far · last update 2026-10-04 09:37 UTC_
 | [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/shinshin86/mesh-avatar-studio.md) |
 | [MatinSenPai/Gemini-Config-Checker](https://github.com/MatinSenPai/Gemini-Config-Checker) | Go project | Runs in the browser with a free account | [guide](guides/matinsenpai/gemini-config-checker.md) |
 | [krystalqiye-lj/VRS-Desktop-Pet](https://github.com/krystalqiye-lj/VRS-Desktop-Pet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/krystalqiye-lj/vrs-desktop-pet.md) |
-| [M3hmetSa1t/pegasus-ps4-collection-catalog](https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/m3hmetsa1t/pegasus-ps4-collection-catalog.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T09:37:37.308Z",
- "totalGuides": 87,
+ "updatedAt": "2026-10-04T09:37:37.425Z",
+ "totalGuides": 88,
  "items": [
+  {
+   "fullName": "Metaldruenchant/Autodesk-3ds-MAX",
+   "owner": "Metaldruenchant",
+   "name": "Autodesk-3ds-MAX",
+   "url": "https://github.com/Metaldruenchant/Autodesk-3ds-MAX",
+   "avatar": "https://avatars.githubusercontent.com/u/296659278?v=4",
+   "description": "Enhance your professional desktop software utility configurations with Autodesk 3Ds Max's robust and streamlined setup process that enables efficient...",
+   "language": null,
+   "topics": [
+    "3ds-max-2026",
+    "3ds-max-app",
+    "3ds-max-exploit",
+    "3ds-max-installer",
+    "autodesk-3ds-max-app",
+    "autodesk-3ds-max-exploit",
+    "autodesk-3ds-max-guide",
+    "autodesk-3ds-max-installer"
+   ],
+   "license": null,
+   "stars": 50,
+   "forks": 0,
+   "createdAt": "2026-10-02T19:57:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T09:37:37.424Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Metaldruenchant/Autodesk-3ds-MAX",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Metaldruenchant/Autodesk-3ds-MAX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Metaldruenchant/Autodesk-3ds-MAX\nWhat it says it does: \"Enhance your professional desktop software utility configurations with Autodesk 3Ds Max's robust and streamlined setup process that enables efficient...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T09:37:37.424Z"
+  },
   {
    "fullName": "StarAssemblyCutter/Display-Fusion",
    "owner": "StarAssemblyCutter",
@@ -5491,7 +5548,7 @@
   }
  ],
  "levels": {
-  "read": 19,
+  "read": 20,
   "instant": 12,
   "account": 40,
   "heavy": 16

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_89 guides written so far · last update 2026-10-04 09:37 UTC_
+_90 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DiamondTurkey66/Discord-Quest-Completer](https://github.com/DiamondTurkey66/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diamondturkey66/discord-quest-completer.md) |
 | [forcepikemanrattle/ArchiCAD](https://github.com/forcepikemanrattle/ArchiCAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/forcepikemanrattle/archicad.md) |
 | [Metaldruenchant/Autodesk-3ds-MAX](https://github.com/Metaldruenchant/Autodesk-3ds-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metaldruenchant/autodesk-3ds-max.md) |
 | [StarAssemblyCutter/Display-Fusion](https://github.com/StarAssemblyCutter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starassemblycutter/display-fusion.md) |
@@ -38,7 +39,6 @@ _89 guides written so far · last update 2026-10-04 09:37 UTC_
 | [MilliRoninPipe/AIDA-64-Extreme](https://github.com/MilliRoninPipe/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/millironinpipe/aida-64-extreme.md) |
 | [RhythmFlamingoOutfit/pc-optimizer](https://github.com/RhythmFlamingoOutfit/pc-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rhythmflamingooutfit/pc-optimizer.md) |
 | [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/shinshin86/mesh-avatar-studio.md) |
-| [MatinSenPai/Gemini-Config-Checker](https://github.com/MatinSenPai/Gemini-Config-Checker) | Go project | Runs in the browser with a free account | [guide](guides/matinsenpai/gemini-config-checker.md) |
 <!-- latest:end -->
 
 ## How it works

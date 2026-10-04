@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_70 guides written so far · last update 2026-10-04 02:50 UTC_
+_71 guides written so far · last update 2026-10-04 02:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Almosst-DEV/Navi48-MacOS](https://github.com/Almosst-DEV/Navi48-MacOS) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/almosst-dev/navi48-macos.md) |
 | [HomeRiz/hats](https://github.com/HomeRiz/hats) | Vite app | Runs in a browser tab, no account needed | [guide](guides/homeriz/hats.md) |
 | [thaw-app/Floe](https://github.com/thaw-app/Floe) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/thaw-app/floe.md) |
 | [sinfiltros/AnyPad-PS5](https://github.com/sinfiltros/AnyPad-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sinfiltros/anypad-ps5.md) |
@@ -38,7 +39,6 @@ _70 guides written so far · last update 2026-10-04 02:50 UTC_
 | [bhouston/three-dlss-nr](https://github.com/bhouston/three-dlss-nr) | Vite app | Runs in the browser with a free account | [guide](guides/bhouston/three-dlss-nr.md) |
 | [pi-pod/pipod](https://github.com/pi-pod/pipod) | TypeScript project | Runs in the browser with a free account | [guide](guides/pi-pod/pipod.md) |
 | [Stxqq/self-driving-car](https://github.com/Stxqq/self-driving-car) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/stxqq/self-driving-car.md) |
-| [vedantdhande04/tweetytweets](https://github.com/vedantdhande04/tweetytweets) | Python project | Runs in the browser with a free account | [guide](guides/vedantdhande04/tweetytweets.md) |
 <!-- latest:end -->
 
 ## How it works

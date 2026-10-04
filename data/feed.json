@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T02:50:08.477Z",
- "totalGuides": 70,
+ "updatedAt": "2026-10-04T02:50:08.641Z",
+ "totalGuides": 71,
  "items": [
+  {
+   "fullName": "Almosst-DEV/Navi48-MacOS",
+   "owner": "Almosst-DEV",
+   "name": "Navi48-MacOS",
+   "url": "https://github.com/Almosst-DEV/Navi48-MacOS",
+   "avatar": "https://avatars.githubusercontent.com/u/59485435?v=4",
+   "description": "Proof-of-concept native macOS support for the AMD RX 9070 XT (Navi 48): bring-up kext, RADV Darwin port, Metal-on-Vulkan bundle",
+   "language": "C++",
+   "topics": [],
+   "license": "MIT",
+   "stars": 41,
+   "forks": 4,
+   "createdAt": "2026-10-02T23:26:41Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T02:50:08.640Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Almosst-DEV/Navi48-MacOS?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Almosst-DEV/Navi48-MacOS",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Almosst-DEV/Navi48-MacOS/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Almosst-DEV/Navi48-MacOS.git\ncd Navi48-MacOS",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Almosst-DEV/Navi48-MacOS\nWhat it says it does: \"Proof-of-concept native macOS support for the AMD RX 9070 XT (Navi 48): bring-up kext, RADV Darwin port, Metal-on-Vulkan bundle\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T02:50:08.640Z"
+  },
   {
    "fullName": "HomeRiz/hats",
    "owner": "HomeRiz",
@@ -4504,8 +4561,8 @@
   }
  ],
  "levels": {
+  "heavy": 15,
   "instant": 9,
-  "heavy": 14,
   "account": 39,
   "read": 8
  }

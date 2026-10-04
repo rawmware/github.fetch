@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-03T23:21:57.402Z",
- "totalGuides": 64,
+ "updatedAt": "2026-10-04T02:50:07.599Z",
+ "totalGuides": 65,
  "items": [
+  {
+   "fullName": "ythx-101/live-panel-skill",
+   "owner": "ythx-101",
+   "name": "live-panel-skill",
+   "url": "https://github.com/ythx-101/live-panel-skill",
+   "avatar": "https://avatars.githubusercontent.com/u/226337373?v=4",
+   "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
+   "language": "HTML",
+   "topics": [],
+   "license": null,
+   "stars": 81,
+   "forks": 10,
+   "createdAt": "2026-10-03T16:53:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T02:50:07.585Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ythx-101/live-panel-skill?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ythx-101/live-panel-skill",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ythx-101/live-panel-skill/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ythx-101/live-panel-skill.git\ncd live-panel-skill",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ythx-101/live-panel-skill\nWhat it says it does: \"Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T02:50:07.585Z"
+  },
   {
    "fullName": "tgwsproxy-windows/tgwsproxy-windows.github.io",
    "owner": "tgwsproxy-windows",
@@ -4117,8 +4172,8 @@
   }
  ],
  "levels": {
+  "account": 38,
   "instant": 8,
-  "account": 37,
   "read": 8,
   "heavy": 11
  }

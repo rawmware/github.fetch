@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_86 guides written so far · last update 2026-10-04 09:37 UTC_
+_87 guides written so far · last update 2026-10-04 09:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StarAssemblyCutter/Display-Fusion](https://github.com/StarAssemblyCutter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starassemblycutter/display-fusion.md) |
 | [AvalancheTradesman/Designcenter-NX](https://github.com/AvalancheTradesman/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/avalanchetradesman/designcenter-nx.md) |
 | [TopFireman96/Ableton-Live-12](https://github.com/TopFireman96/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/topfireman96/ableton-live-12.md) |
 | [PrismGiraffe/Cinema-4d](https://github.com/PrismGiraffe/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismgiraffe/cinema-4d.md) |
@@ -38,7 +39,6 @@ _86 guides written so far · last update 2026-10-04 09:37 UTC_
 | [MatinSenPai/Gemini-Config-Checker](https://github.com/MatinSenPai/Gemini-Config-Checker) | Go project | Runs in the browser with a free account | [guide](guides/matinsenpai/gemini-config-checker.md) |
 | [krystalqiye-lj/VRS-Desktop-Pet](https://github.com/krystalqiye-lj/VRS-Desktop-Pet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/krystalqiye-lj/vrs-desktop-pet.md) |
 | [M3hmetSa1t/pegasus-ps4-collection-catalog](https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/m3hmetsa1t/pegasus-ps4-collection-catalog.md) |
-| [YusufAbdulah/Auto-Mining-ATF-Dashboard](https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yusufabdulah/auto-mining-atf-dashboard.md) |
 <!-- latest:end -->
 
 ## How it works

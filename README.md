@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_104 guides written so far · last update 2026-10-04 14:59 UTC_
+_105 guides written so far · last update 2026-10-04 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Meshtredominate/Wondshare-Recoverit](https://github.com/Meshtredominate/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshtredominate/wondshare-recoverit.md) |
 | [Laserlyagather/Actual-Multiplie-Monitors](https://github.com/Laserlyagather/Actual-Multiplie-Monitors) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/laserlyagather/actual-multiplie-monitors.md) |
 | [GateMultiply/Adobe-After-Effects](https://github.com/GateMultiply/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gatemultiply/adobe-after-effects.md) |
 | [ColonyBiomancerCall/StartAll-Back](https://github.com/ColonyBiomancerCall/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/colonybiomancercall/startall-back.md) |
@@ -38,7 +39,6 @@ _104 guides written so far · last update 2026-10-04 14:59 UTC_
 | [purpleproviderclip/Windows-Optimizer](https://github.com/purpleproviderclip/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purpleproviderclip/windows-optimizer.md) |
 | [BlackCrewmanFringe/AutoCad](https://github.com/BlackCrewmanFringe/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blackcrewmanfringe/autocad.md) |
 | [SheikhSurvive/Ads-Blocker](https://github.com/SheikhSurvive/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sheikhsurvive/ads-blocker.md) |
-| [SealAssociateDeliver/Acronis](https://github.com/SealAssociateDeliver/Acronis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sealassociatedeliver/acronis.md) |
 <!-- latest:end -->
 
 ## How it works

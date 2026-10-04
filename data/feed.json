@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T14:59:46.922Z",
- "totalGuides": 104,
+ "updatedAt": "2026-10-04T14:59:47.053Z",
+ "totalGuides": 105,
  "items": [
+  {
+   "fullName": "Meshtredominate/Wondshare-Recoverit",
+   "owner": "Meshtredominate",
+   "name": "Wondshare-Recoverit",
+   "url": "https://github.com/Meshtredominate/Wondshare-Recoverit",
+   "avatar": "https://avatars.githubusercontent.com/u/296658114?v=4",
+   "description": "Efficiently restores lost or deleted files to your computer with precision.",
+   "language": null,
+   "topics": [
+    "android-data-recovery-software-fonelab",
+    "data-recovery",
+    "data-recovery-software",
+    "data-recovery-tool",
+    "file-recovery",
+    "lost-data-recovery",
+    "pc-file-recovery-windows",
+    "photo-recovery"
+   ],
+   "license": null,
+   "stars": 318,
+   "forks": 0,
+   "createdAt": "2026-10-02T20:09:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T14:59:47.052Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Meshtredominate/Wondshare-Recoverit",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Meshtredominate/Wondshare-Recoverit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Meshtredominate/Wondshare-Recoverit\nWhat it says it does: \"Efficiently restores lost or deleted files to your computer with precision.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T14:59:47.052Z"
+  },
   {
    "fullName": "Laserlyagather/Actual-Multiplie-Monitors",
    "owner": "Laserlyagather",
@@ -6455,7 +6512,7 @@
   }
  ],
  "levels": {
-  "read": 36,
+  "read": 37,
   "instant": 12,
   "account": 40,
   "heavy": 16

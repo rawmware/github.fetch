@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_106 guides written so far · last update 2026-10-04 14:59 UTC_
+_107 guides written so far · last update 2026-10-04 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AxeEradicate/Fps-Booster-for-Windows](https://github.com/AxeEradicate/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/axeeradicate/fps-booster-for-windows.md) |
 | [CavernDeckhand50/Total-Commander](https://github.com/CavernDeckhand50/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caverndeckhand50/total-commander.md) |
 | [Meshtredominate/Wondshare-Recoverit](https://github.com/Meshtredominate/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshtredominate/wondshare-recoverit.md) |
 | [Laserlyagather/Actual-Multiplie-Monitors](https://github.com/Laserlyagather/Actual-Multiplie-Monitors) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/laserlyagather/actual-multiplie-monitors.md) |
@@ -38,7 +39,6 @@ _106 guides written so far · last update 2026-10-04 14:59 UTC_
 | [ScreenEvaluate/KMS-Pico](https://github.com/ScreenEvaluate/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/screenevaluate/kms-pico.md) |
 | [GreenSorcererShears/SolidWorks-CAD](https://github.com/GreenSorcererShears/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greensorcerershears/solidworks-cad.md) |
 | [purpleproviderclip/Windows-Optimizer](https://github.com/purpleproviderclip/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purpleproviderclip/windows-optimizer.md) |
-| [BlackCrewmanFringe/AutoCad](https://github.com/BlackCrewmanFringe/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blackcrewmanfringe/autocad.md) |
 <!-- latest:end -->
 
 ## How it works

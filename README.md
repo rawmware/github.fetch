@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_113 guides written so far · last update 2026-10-04 18:36 UTC_
+_114 guides written so far · last update 2026-10-04 18:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ApexPythonHost/Canva-Pro](https://github.com/ApexPythonHost/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexpythonhost/canva-pro.md) |
 | [SystemRuminate86/Better-Discord](https://github.com/SystemRuminate86/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/systemruminate86/better-discord.md) |
 | [RivetWayCalculate/ExitLag](https://github.com/RivetWayCalculate/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetwaycalculate/exitlag.md) |
 | [NadirAccountantFlash/Discord-Server-Cloner](https://github.com/NadirAccountantFlash/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadiraccountantflash/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _113 guides written so far · last update 2026-10-04 18:36 UTC_
 | [Meshtredominate/Wondshare-Recoverit](https://github.com/Meshtredominate/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshtredominate/wondshare-recoverit.md) |
 | [Laserlyagather/Actual-Multiplie-Monitors](https://github.com/Laserlyagather/Actual-Multiplie-Monitors) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/laserlyagather/actual-multiplie-monitors.md) |
 | [GateMultiply/Adobe-After-Effects](https://github.com/GateMultiply/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gatemultiply/adobe-after-effects.md) |
-| [ColonyBiomancerCall/StartAll-Back](https://github.com/ColonyBiomancerCall/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/colonybiomancercall/startall-back.md) |
 <!-- latest:end -->
 
 ## How it works

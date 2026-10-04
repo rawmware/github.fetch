@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_117 guides written so far · last update 2026-10-04 18:36 UTC_
+_118 guides written so far · last update 2026-10-04 18:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Heartfledisplay/Adobe-Acrobat-Pro](https://github.com/Heartfledisplay/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heartfledisplay/adobe-acrobat-pro.md) |
 | [OilBureaucrat94/Adobe-InDesign](https://github.com/OilBureaucrat94/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oilbureaucrat94/adobe-indesign.md) |
 | [pegasusashcable/Adobe-Substance-3d](https://github.com/pegasusashcable/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pegasusashcable/adobe-substance-3d.md) |
 | [CommanderWar/Adobe-Audition](https://github.com/CommanderWar/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commanderwar/adobe-audition.md) |
@@ -38,7 +39,6 @@ _117 guides written so far · last update 2026-10-04 18:36 UTC_
 | [Inneruiarbor/IOBIT-Driver-Booster](https://github.com/Inneruiarbor/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inneruiarbor/iobit-driver-booster.md) |
 | [ConsciousnessGrub/Serato-DJ-Pro](https://github.com/ConsciousnessGrub/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/consciousnessgrub/serato-dj-pro.md) |
 | [AxeEradicate/Fps-Booster-for-Windows](https://github.com/AxeEradicate/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/axeeradicate/fps-booster-for-windows.md) |
-| [CavernDeckhand50/Total-Commander](https://github.com/CavernDeckhand50/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caverndeckhand50/total-commander.md) |
 <!-- latest:end -->
 
 ## How it works

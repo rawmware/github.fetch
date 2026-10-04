@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T14:59:46.626Z",
- "totalGuides": 102,
+ "updatedAt": "2026-10-04T14:59:46.769Z",
+ "totalGuides": 103,
  "items": [
+  {
+   "fullName": "GateMultiply/Adobe-After-Effects",
+   "owner": "GateMultiply",
+   "name": "Adobe-After-Effects",
+   "url": "https://github.com/GateMultiply/Adobe-After-Effects",
+   "avatar": "https://avatars.githubusercontent.com/u/296661550?v=4",
+   "description": "Adobe After Effects streamlines professional video editing and screen recording tasks by providing a comprehensive VFX and post-production plugin solution.",
+   "language": null,
+   "topics": [
+    "adobe-after-effects",
+    "aeshare",
+    "after-effects-2026",
+    "after-effects-2026-crack",
+    "after-effects-3d",
+    "after-effects-download-windows",
+    "after-effects-free-2026",
+    "after-effects-presets"
+   ],
+   "license": null,
+   "stars": 403,
+   "forks": 0,
+   "createdAt": "2026-10-02T19:54:49Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T14:59:46.768Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/GateMultiply/Adobe-After-Effects",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/GateMultiply/Adobe-After-Effects/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/GateMultiply/Adobe-After-Effects\nWhat it says it does: \"Adobe After Effects streamlines professional video editing and screen recording tasks by providing a comprehensive VFX and post-production plugin solution.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T14:59:46.768Z"
+  },
   {
    "fullName": "ColonyBiomancerCall/StartAll-Back",
    "owner": "ColonyBiomancerCall",
@@ -6341,7 +6398,7 @@
   }
  ],
  "levels": {
-  "read": 34,
+  "read": 35,
   "instant": 12,
   "account": 40,
   "heavy": 16

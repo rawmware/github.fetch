@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_119 guides written so far · last update 2026-10-04 21:59 UTC_
+_120 guides written so far · last update 2026-10-04 21:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ProtectorSplit/ultra-Iso](https://github.com/ProtectorSplit/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/protectorsplit/ultra-iso.md) |
 | [allenv0/SCM](https://github.com/allenv0/SCM) | Vite app | Runs in the browser with a free account | [guide](guides/allenv0/scm.md) |
 | [Heartfledisplay/Adobe-Acrobat-Pro](https://github.com/Heartfledisplay/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heartfledisplay/adobe-acrobat-pro.md) |
 | [OilBureaucrat94/Adobe-InDesign](https://github.com/OilBureaucrat94/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oilbureaucrat94/adobe-indesign.md) |
@@ -38,7 +39,6 @@ _119 guides written so far · last update 2026-10-04 21:59 UTC_
 | [NadirAccountantFlash/Discord-Server-Cloner](https://github.com/NadirAccountantFlash/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadiraccountantflash/discord-server-cloner.md) |
 | [TestingBlast/Cubase](https://github.com/TestingBlast/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/testingblast/cubase.md) |
 | [Inneruiarbor/IOBIT-Driver-Booster](https://github.com/Inneruiarbor/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inneruiarbor/iobit-driver-booster.md) |
-| [ConsciousnessGrub/Serato-DJ-Pro](https://github.com/ConsciousnessGrub/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/consciousnessgrub/serato-dj-pro.md) |
 <!-- latest:end -->
 
 ## How it works

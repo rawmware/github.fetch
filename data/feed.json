@@ -1,8 +1,62 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-04T21:59:07.250Z",
- "totalGuides": 119,
+ "updatedAt": "2026-10-04T21:59:07.408Z",
+ "totalGuides": 120,
  "items": [
+  {
+   "fullName": "ProtectorSplit/ultra-Iso",
+   "owner": "ProtectorSplit",
+   "name": "ultra-Iso",
+   "url": "https://github.com/ProtectorSplit/ultra-Iso",
+   "avatar": "https://avatars.githubusercontent.com/u/296658217?v=4",
+   "description": "Ultra Iso optimizes complex desktop configurations with unparalleled precision and efficiency.",
+   "language": null,
+   "topics": [
+    "activation-tools",
+    "iso-editor",
+    "iso-image",
+    "ultraiso-2026",
+    "ultraiso-download-windows"
+   ],
+   "license": null,
+   "stars": 215,
+   "forks": 0,
+   "createdAt": "2026-10-02T20:08:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-04T21:59:07.407Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ProtectorSplit/ultra-Iso",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ProtectorSplit/ultra-Iso/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ProtectorSplit/ultra-Iso\nWhat it says it does: \"Ultra Iso optimizes complex desktop configurations with unparalleled precision and efficiency.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-04T21:59:07.407Z"
+  },
   {
    "fullName": "allenv0/SCM",
    "owner": "allenv0",
@@ -7328,8 +7382,8 @@
   }
  ],
  "levels": {
+  "read": 51,
   "account": 41,
-  "read": 50,
   "instant": 12,
   "heavy": 16
  }

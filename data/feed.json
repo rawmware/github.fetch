@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T00:45:19.418Z",
- "totalGuides": 129,
+ "updatedAt": "2026-10-05T00:45:19.545Z",
+ "totalGuides": 130,
  "items": [
+  {
+   "fullName": "noahdunnagan/mcopt",
+   "owner": "noahdunnagan",
+   "name": "mcopt",
+   "url": "https://github.com/noahdunnagan/mcopt",
+   "avatar": "https://avatars.githubusercontent.com/u/119903110?v=4",
+   "description": "mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)",
+   "language": "Java",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 132,
+   "forks": 6,
+   "createdAt": "2026-10-04T17:34:30Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T00:45:19.545Z",
+   "stack": {
+    "kind": "native",
+    "label": "Java project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/noahdunnagan/mcopt?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/noahdunnagan/mcopt",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/noahdunnagan/mcopt/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/noahdunnagan/mcopt.git\ncd mcopt",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/noahdunnagan/mcopt\nWhat it says it does: \"mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T00:45:19.545Z"
+  },
   {
    "fullName": "cneuralnetwork/kharcha",
    "owner": "cneuralnetwork",
@@ -7906,9 +7963,9 @@
   }
  ],
  "levels": {
+  "heavy": 17,
   "account": 43,
   "read": 58,
-  "instant": 12,
-  "heavy": 16
+  "instant": 12
  }
 }

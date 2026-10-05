@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_184 guides written so far · last update 2026-10-05 21:57 UTC_
+_185 guides written so far · last update 2026-10-05 21:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [elstongun/leviathan](https://github.com/elstongun/leviathan) | Rust project | Runs in the browser with a free account | [guide](guides/elstongun/leviathan.md) |
 | [Civilcliadapt/Reason-14](https://github.com/Civilcliadapt/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/civilcliadapt/reason-14.md) |
 | [uniteoceanunderpass/Serato-DJ-Pro](https://github.com/uniteoceanunderpass/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/uniteoceanunderpass/serato-dj-pro.md) |
 | [UnitMakerMetro/SketchUp-Pro](https://github.com/UnitMakerMetro/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unitmakermetro/sketchup-pro.md) |
@@ -38,7 +39,6 @@ _184 guides written so far · last update 2026-10-05 21:57 UTC_
 | [KazekagePyre/Adobe-Audition](https://github.com/KazekagePyre/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kazekagepyre/adobe-audition.md) |
 | [Noblebroplain/Ads-Blocker](https://github.com/Noblebroplain/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/noblebroplain/ads-blocker.md) |
 | [CyclopsRogueSucceed/Discord-Nitro-Generator](https://github.com/CyclopsRogueSucceed/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopsroguesucceed/discord-nitro-generator.md) |
-| [lostparakeetmagnify/Adobe-Illustrator](https://github.com/lostparakeetmagnify/Adobe-Illustrator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lostparakeetmagnify/adobe-illustrator.md) |
 <!-- latest:end -->
 
 ## How it works

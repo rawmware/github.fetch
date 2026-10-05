@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_144 guides written so far · last update 2026-10-05 06:18 UTC_
+_145 guides written so far · last update 2026-10-05 06:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [JinHo-von-Choi/iron-laws](https://github.com/JinHo-von-Choi/iron-laws) | Python project | Runs in the browser with a free account | [guide](guides/jinho-von-choi/iron-laws.md) |
 | [elripalda/Porpoise-Dolphin-Emulator-for-PS5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/elripalda/porpoise-dolphin-emulator-for-ps5.md) |
 | [TannerMidd/pi-pocket](https://github.com/TannerMidd/pi-pocket) | Preact app | Runs in a browser tab, no account needed | [guide](guides/tannermidd/pi-pocket.md) |
 | [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks) | Shell project | Runs in the browser with a free account | [guide](guides/0xsero/deepseek-v4.1-flash-two-sparks.md) |
@@ -38,7 +39,6 @@ _144 guides written so far · last update 2026-10-05 06:18 UTC_
 | [empero-org/homebrew-ai](https://github.com/empero-org/homebrew-ai) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/empero-org/homebrew-ai.md) |
 | [Asigers/pi-knock](https://github.com/Asigers/pi-knock) | JavaScript project | Runs in the browser with a free account | [guide](guides/asigers/pi-knock.md) |
 | [isoshimodo/ai-data-extractor](https://github.com/isoshimodo/ai-data-extractor) | Python project | Runs in the browser with a free account | [guide](guides/isoshimodo/ai-data-extractor.md) |
-| [gotoanto/text-humanizer](https://github.com/gotoanto/text-humanizer) | Python project | Runs in the browser with a free account | [guide](guides/gotoanto/text-humanizer.md) |
 <!-- latest:end -->
 
 ## How it works

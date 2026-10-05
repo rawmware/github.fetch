@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_187 guides written so far · last update 2026-10-05 21:57 UTC_
+_188 guides written so far · last update 2026-10-05 21:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Spiritunderfringe/Microsoft-Office](https://github.com/Spiritunderfringe/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritunderfringe/microsoft-office.md) |
 | [DestroyerLast28/Instagram-Liker-Bot](https://github.com/DestroyerLast28/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/destroyerlast28/instagram-liker-bot.md) |
 | [BrightVanquisherMold/PH-Downloader](https://github.com/BrightVanquisherMold/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brightvanquishermold/ph-downloader.md) |
 | [elstongun/leviathan](https://github.com/elstongun/leviathan) | Rust project | Runs in the browser with a free account | [guide](guides/elstongun/leviathan.md) |
@@ -38,7 +39,6 @@ _187 guides written so far · last update 2026-10-05 21:57 UTC_
 | [Neutronrucurl/Adobe-Acrobat-Pro](https://github.com/Neutronrucurl/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/neutronrucurl/adobe-acrobat-pro.md) |
 | [CrewPotterRectify/Autodesk-Inventor](https://github.com/CrewPotterRectify/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crewpotterrectify/autodesk-inventor.md) |
 | [Gryphonpebastion/Total-Commander](https://github.com/Gryphonpebastion/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonpebastion/total-commander.md) |
-| [KazekagePyre/Adobe-Audition](https://github.com/KazekagePyre/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kazekagepyre/adobe-audition.md) |
 <!-- latest:end -->
 
 ## How it works

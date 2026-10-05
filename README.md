@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_177 guides written so far · last update 2026-10-05 21:57 UTC_
+_178 guides written so far · last update 2026-10-05 21:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CrewPotterRectify/Autodesk-Inventor](https://github.com/CrewPotterRectify/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crewpotterrectify/autodesk-inventor.md) |
 | [Gryphonpebastion/Total-Commander](https://github.com/Gryphonpebastion/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonpebastion/total-commander.md) |
 | [KazekagePyre/Adobe-Audition](https://github.com/KazekagePyre/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kazekagepyre/adobe-audition.md) |
 | [Noblebroplain/Ads-Blocker](https://github.com/Noblebroplain/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/noblebroplain/ads-blocker.md) |
@@ -38,7 +39,6 @@ _177 guides written so far · last update 2026-10-05 21:57 UTC_
 | [gangmoonrotation/Discord-Quest-Completer](https://github.com/gangmoonrotation/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gangmoonrotation/discord-quest-completer.md) |
 | [CortexClient/CortexClient.github.io](https://github.com/CortexClient/CortexClient.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cortexclient/cortexclient.github.io.md) |
 | [PingProject-premium/PingProject-Premium.github.io](https://github.com/PingProject-premium/PingProject-Premium.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pingproject-premium/pingproject-premium.github.io.md) |
-| [jasonbitsmith/muse-skills](https://github.com/jasonbitsmith/muse-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jasonbitsmith/muse-skills.md) |
 <!-- latest:end -->
 
 ## How it works

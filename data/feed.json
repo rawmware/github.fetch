@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T21:57:17.803Z",
- "totalGuides": 170,
+ "updatedAt": "2026-10-05T21:57:17.960Z",
+ "totalGuides": 171,
  "items": [
+  {
+   "fullName": "SwimmerShield/Better-Discord",
+   "owner": "SwimmerShield",
+   "name": "Better-Discord",
+   "url": "https://github.com/SwimmerShield/Better-Discord",
+   "avatar": "https://avatars.githubusercontent.com/u/296667854?v=4",
+   "description": "Enhances efficiency in managing complex desktop software configurations with a dedicated and highly-functional tool that bypasses redundant steps.",
+   "language": null,
+   "topics": [
+    "bd-theme",
+    "better-discord-plugins",
+    "betterdiscord-addon",
+    "betterdiscord-plugin",
+    "betterdiscord-plugins",
+    "betterdiscordlibrary",
+    "betterdiscordthemes",
+    "discord-hack"
+   ],
+   "license": null,
+   "stars": 392,
+   "forks": 0,
+   "createdAt": "2026-10-05T10:17:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T21:57:17.959Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/SwimmerShield/Better-Discord",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/SwimmerShield/Better-Discord/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/SwimmerShield/Better-Discord\nWhat it says it does: \"Enhances efficiency in managing complex desktop software configurations with a dedicated and highly-functional tool that bypasses redundant steps.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T21:57:17.959Z"
+  },
   {
    "fullName": "HectoTeacher56/Adobe-Substance-3d",
    "owner": "HectoTeacher56",
@@ -10485,7 +10542,7 @@
   }
  ],
  "levels": {
-  "read": 65,
+  "read": 66,
   "instant": 15,
   "heavy": 28,
   "account": 62

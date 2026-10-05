@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_170 guides written so far · last update 2026-10-05 21:57 UTC_
+_171 guides written so far · last update 2026-10-05 21:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SwimmerShield/Better-Discord](https://github.com/SwimmerShield/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swimmershield/better-discord.md) |
 | [HectoTeacher56/Adobe-Substance-3d](https://github.com/HectoTeacher56/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hectoteacher56/adobe-substance-3d.md) |
 | [gangmoonrotation/Discord-Quest-Completer](https://github.com/gangmoonrotation/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gangmoonrotation/discord-quest-completer.md) |
 | [CortexClient/CortexClient.github.io](https://github.com/CortexClient/CortexClient.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cortexclient/cortexclient.github.io.md) |
@@ -38,7 +39,6 @@ _170 guides written so far · last update 2026-10-05 21:57 UTC_
 | [bangbuilds/code-poem-film](https://github.com/bangbuilds/code-poem-film) | JavaScript project | Runs in the browser with a free account | [guide](guides/bangbuilds/code-poem-film.md) |
 | [fatihaydost/brand-identity-skill](https://github.com/fatihaydost/brand-identity-skill) | Python project | Runs in the browser with a free account | [guide](guides/fatihaydost/brand-identity-skill.md) |
 | [Wang-auspicious/paper-xray](https://github.com/Wang-auspicious/paper-xray) | HTML project | Runs in the browser with a free account | [guide](guides/wang-auspicious/paper-xray.md) |
-| [alexknowshtml/claude-auto-handoff](https://github.com/alexknowshtml/claude-auto-handoff) | TypeScript project | Runs in the browser with a free account | [guide](guides/alexknowshtml/claude-auto-handoff.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_155 guides written so far · last update 2026-10-05 14:59 UTC_
+_156 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jeantimex/tokyo](https://github.com/jeantimex/tokyo) | Vite app | Runs in the browser with a free account | [guide](guides/jeantimex/tokyo.md) |
 | [iamjhe08/VidGrab](https://github.com/iamjhe08/VidGrab) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/iamjhe08/vidgrab.md) |
 | [script-wizards/athanor](https://github.com/script-wizards/athanor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/script-wizards/athanor.md) |
 | [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thienbao1233/ninja-ripper-2.10.md) |
@@ -38,7 +39,6 @@ _155 guides written so far · last update 2026-10-05 14:59 UTC_
 | [isod89/sloop-fm1](https://github.com/isod89/sloop-fm1) | C project | Needs a real machine (or a GPU) to run | [guide](guides/isod89/sloop-fm1.md) |
 | [egoist/godiff](https://github.com/egoist/godiff) | Go project | Runs in the browser with a free account | [guide](guides/egoist/godiff.md) |
 | [JinHo-von-Choi/iron-laws](https://github.com/JinHo-von-Choi/iron-laws) | Python project | Runs in the browser with a free account | [guide](guides/jinho-von-choi/iron-laws.md) |
-| [elripalda/Porpoise-Dolphin-Emulator-for-PS5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/elripalda/porpoise-dolphin-emulator-for-ps5.md) |
 <!-- latest:end -->
 
 ## How it works

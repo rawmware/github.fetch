@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_133 guides written so far · last update 2026-10-05 00:45 UTC_
+_134 guides written so far · last update 2026-10-05 06:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [isoshimodo/ai-data-extractor](https://github.com/isoshimodo/ai-data-extractor) | Python project | Runs in the browser with a free account | [guide](guides/isoshimodo/ai-data-extractor.md) |
 | [gotoanto/text-humanizer](https://github.com/gotoanto/text-humanizer) | Python project | Runs in the browser with a free account | [guide](guides/gotoanto/text-humanizer.md) |
 | [dakukibana/short-video-generator](https://github.com/dakukibana/short-video-generator) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/dakukibana/short-video-generator.md) |
 | [zeemscript/TrustMint](https://github.com/zeemscript/TrustMint) | JavaScript project | Runs in the browser with a free account | [guide](guides/zeemscript/trustmint.md) |
@@ -38,7 +39,6 @@ _133 guides written so far · last update 2026-10-05 00:45 UTC_
 | [portioncommanderedge/Ozone-12-Advanced](https://github.com/portioncommanderedge/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portioncommanderedge/ozone-12-advanced.md) |
 | [Driftdispeed/SlideShow-Video-Maker](https://github.com/Driftdispeed/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftdispeed/slideshow-video-maker.md) |
 | [Clutchbrorank/PH-Downloader](https://github.com/Clutchbrorank/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clutchbrorank/ph-downloader.md) |
-| [Lowflaindicate/RX-11-Audio-Editor](https://github.com/Lowflaindicate/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lowflaindicate/rx-11-audio-editor.md) |
 <!-- latest:end -->
 
 ## How it works

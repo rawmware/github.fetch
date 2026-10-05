@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_161 guides written so far · last update 2026-10-05 14:59 UTC_
+_162 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [bangbuilds/code-poem-film](https://github.com/bangbuilds/code-poem-film) | JavaScript project | Runs in the browser with a free account | [guide](guides/bangbuilds/code-poem-film.md) |
 | [fatihaydost/brand-identity-skill](https://github.com/fatihaydost/brand-identity-skill) | Python project | Runs in the browser with a free account | [guide](guides/fatihaydost/brand-identity-skill.md) |
 | [Wang-auspicious/paper-xray](https://github.com/Wang-auspicious/paper-xray) | HTML project | Runs in the browser with a free account | [guide](guides/wang-auspicious/paper-xray.md) |
 | [alexknowshtml/claude-auto-handoff](https://github.com/alexknowshtml/claude-auto-handoff) | TypeScript project | Runs in the browser with a free account | [guide](guides/alexknowshtml/claude-auto-handoff.md) |
@@ -38,7 +39,6 @@ _161 guides written so far · last update 2026-10-05 14:59 UTC_
 | [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thienbao1233/ninja-ripper-2.10.md) |
 | [huaotem-bot/gezi-quark-downloader](https://github.com/huaotem-bot/gezi-quark-downloader) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/huaotem-bot/gezi-quark-downloader.md) |
 | [MystiaFin/amane](https://github.com/MystiaFin/amane) | Rust project | Runs in the browser with a free account | [guide](guides/mystiafin/amane.md) |
-| [Autumn1337/better-statusline](https://github.com/Autumn1337/better-statusline) | TypeScript project | Runs in the browser with a free account | [guide](guides/autumn1337/better-statusline.md) |
 <!-- latest:end -->
 
 ## How it works

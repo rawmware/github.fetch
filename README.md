@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_139 guides written so far · last update 2026-10-05 06:18 UTC_
+_140 guides written so far · last update 2026-10-05 06:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BeingConqueror/Ableton-Live-12](https://github.com/BeingConqueror/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beingconqueror/ableton-live-12.md) |
 | [joeseesun/qiaomu-codex-imagegen](https://github.com/joeseesun/qiaomu-codex-imagegen) | Node command-line tool | Runs in the browser with a free account | [guide](guides/joeseesun/qiaomu-codex-imagegen.md) |
 | [CreoleVR/QuestLHSync](https://github.com/CreoleVR/QuestLHSync) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/creolevr/questlhsync.md) |
 | [BrinooTk/PS5X360](https://github.com/BrinooTk/PS5X360) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/brinootk/ps5x360.md) |
@@ -38,7 +39,6 @@ _139 guides written so far · last update 2026-10-05 06:18 UTC_
 | [zeemscript/TrustMint](https://github.com/zeemscript/TrustMint) | JavaScript project | Runs in the browser with a free account | [guide](guides/zeemscript/trustmint.md) |
 | [noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/noahdunnagan/mcopt.md) |
 | [cneuralnetwork/kharcha](https://github.com/cneuralnetwork/kharcha) | Docker app | Runs in the browser with a free account | [guide](guides/cneuralnetwork/kharcha.md) |
-| [Adolanium/hermes-gadget-sdk](https://github.com/Adolanium/hermes-gadget-sdk) | Python project | Runs in the browser with a free account | [guide](guides/adolanium/hermes-gadget-sdk.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_166 guides written so far · last update 2026-10-05 14:59 UTC_
+_167 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PingProject-premium/PingProject-Premium.github.io](https://github.com/PingProject-premium/PingProject-Premium.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pingproject-premium/pingproject-premium.github.io.md) |
 | [jasonbitsmith/muse-skills](https://github.com/jasonbitsmith/muse-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jasonbitsmith/muse-skills.md) |
 | [aarvsn/Ryty](https://github.com/aarvsn/Ryty) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/aarvsn/ryty.md) |
 | [MrBongoC/ai-iso-skill](https://github.com/MrBongoC/ai-iso-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mrbongoc/ai-iso-skill.md) |
@@ -38,7 +39,6 @@ _166 guides written so far · last update 2026-10-05 14:59 UTC_
 | [yyyllllming/prism-bridge](https://github.com/yyyllllming/prism-bridge) | Python project | Runs in the browser with a free account | [guide](guides/yyyllllming/prism-bridge.md) |
 | [trionic1/chrisware-project](https://github.com/trionic1/chrisware-project) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/trionic1/chrisware-project.md) |
 | [jeantimex/tokyo](https://github.com/jeantimex/tokyo) | Vite app | Runs in the browser with a free account | [guide](guides/jeantimex/tokyo.md) |
-| [iamjhe08/VidGrab](https://github.com/iamjhe08/VidGrab) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/iamjhe08/vidgrab.md) |
 <!-- latest:end -->
 
 ## How it works

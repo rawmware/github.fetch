@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_142 guides written so far · last update 2026-10-05 06:18 UTC_
+_143 guides written so far · last update 2026-10-05 06:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TannerMidd/pi-pocket](https://github.com/TannerMidd/pi-pocket) | Preact app | Runs in a browser tab, no account needed | [guide](guides/tannermidd/pi-pocket.md) |
 | [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks) | Shell project | Runs in the browser with a free account | [guide](guides/0xsero/deepseek-v4.1-flash-two-sparks.md) |
 | [laurinml/Immich-Insights](https://github.com/laurinml/Immich-Insights) | Docker app | Runs in the browser with a free account | [guide](guides/laurinml/immich-insights.md) |
 | [BeingConqueror/Ableton-Live-12](https://github.com/BeingConqueror/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beingconqueror/ableton-live-12.md) |
@@ -38,7 +39,6 @@ _142 guides written so far · last update 2026-10-05 06:18 UTC_
 | [isoshimodo/ai-data-extractor](https://github.com/isoshimodo/ai-data-extractor) | Python project | Runs in the browser with a free account | [guide](guides/isoshimodo/ai-data-extractor.md) |
 | [gotoanto/text-humanizer](https://github.com/gotoanto/text-humanizer) | Python project | Runs in the browser with a free account | [guide](guides/gotoanto/text-humanizer.md) |
 | [dakukibana/short-video-generator](https://github.com/dakukibana/short-video-generator) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/dakukibana/short-video-generator.md) |
-| [zeemscript/TrustMint](https://github.com/zeemscript/TrustMint) | JavaScript project | Runs in the browser with a free account | [guide](guides/zeemscript/trustmint.md) |
 <!-- latest:end -->
 
 ## How it works

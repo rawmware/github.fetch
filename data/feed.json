@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T06:18:28.766Z",
- "totalGuides": 146,
+ "updatedAt": "2026-10-05T06:18:28.881Z",
+ "totalGuides": 147,
  "items": [
+  {
+   "fullName": "isod89/sloop-fm1",
+   "owner": "isod89",
+   "name": "sloop-fm1",
+   "url": "https://github.com/isod89/sloop-fm1",
+   "avatar": "https://avatars.githubusercontent.com/u/25253147?v=4",
+   "description": "A live groovebox firmware for the M-VAVE FM-1",
+   "language": "C",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 54,
+   "forks": 5,
+   "createdAt": "2026-10-04T15:07:43Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T06:18:28.880Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/isod89/sloop-fm1?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/isod89/sloop-fm1",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/isod89/sloop-fm1/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/isod89/sloop-fm1.git\ncd sloop-fm1",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/isod89/sloop-fm1\nWhat it says it does: \"A live groovebox firmware for the M-VAVE FM-1\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T06:18:28.880Z"
+  },
   {
    "fullName": "egoist/godiff",
    "owner": "egoist",
@@ -9030,8 +9087,8 @@
   }
  ],
  "levels": {
+  "heavy": 22,
   "account": 53,
-  "heavy": 21,
   "instant": 13,
   "read": 59
  }

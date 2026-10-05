@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_152 guides written so far · last update 2026-10-05 14:59 UTC_
+_153 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thienbao1233/ninja-ripper-2.10.md) |
 | [huaotem-bot/gezi-quark-downloader](https://github.com/huaotem-bot/gezi-quark-downloader) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/huaotem-bot/gezi-quark-downloader.md) |
 | [MystiaFin/amane](https://github.com/MystiaFin/amane) | Rust project | Runs in the browser with a free account | [guide](guides/mystiafin/amane.md) |
 | [Autumn1337/better-statusline](https://github.com/Autumn1337/better-statusline) | TypeScript project | Runs in the browser with a free account | [guide](guides/autumn1337/better-statusline.md) |
@@ -38,7 +39,6 @@ _152 guides written so far · last update 2026-10-05 14:59 UTC_
 | [elripalda/Porpoise-Dolphin-Emulator-for-PS5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/elripalda/porpoise-dolphin-emulator-for-ps5.md) |
 | [TannerMidd/pi-pocket](https://github.com/TannerMidd/pi-pocket) | Preact app | Runs in a browser tab, no account needed | [guide](guides/tannermidd/pi-pocket.md) |
 | [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks) | Shell project | Runs in the browser with a free account | [guide](guides/0xsero/deepseek-v4.1-flash-two-sparks.md) |
-| [laurinml/Immich-Insights](https://github.com/laurinml/Immich-Insights) | Docker app | Runs in the browser with a free account | [guide](guides/laurinml/immich-insights.md) |
 <!-- latest:end -->
 
 ## How it works

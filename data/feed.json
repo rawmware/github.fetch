@@ -1,8 +1,64 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T14:59:15.882Z",
- "totalGuides": 152,
+ "updatedAt": "2026-10-05T14:59:16.086Z",
+ "totalGuides": 153,
  "items": [
+  {
+   "fullName": "thienbao1233/ninja-ripper-2.10",
+   "owner": "thienbao1233",
+   "name": "ninja-ripper-2.10",
+   "url": "https://github.com/thienbao1233/ninja-ripper-2.10",
+   "avatar": "https://avatars.githubusercontent.com/u/34681906?v=4",
+   "description": "Ninja Ripper 2.10 Beta, free version for testing.",
+   "language": null,
+   "topics": [
+    "3d",
+    "assets",
+    "game-development",
+    "gamedev",
+    "ninja-ripper",
+    "unity",
+    "unreal-engine-5"
+   ],
+   "license": null,
+   "stars": 66,
+   "forks": 0,
+   "createdAt": "2026-10-04T14:46:28Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T14:59:16.085Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/thienbao1233/ninja-ripper-2.10",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/thienbao1233/ninja-ripper-2.10/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/thienbao1233/ninja-ripper-2.10\nWhat it says it does: \"Ninja Ripper 2.10 Beta, free version for testing.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T14:59:16.085Z"
+  },
   {
    "fullName": "huaotem-bot/gezi-quark-downloader",
    "owner": "huaotem-bot",
@@ -9396,9 +9452,9 @@
   }
  ],
  "levels": {
+  "read": 60,
   "heavy": 25,
   "account": 55,
-  "instant": 13,
-  "read": 59
+  "instant": 13
  }
 }

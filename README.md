@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_158 guides written so far · last update 2026-10-05 14:59 UTC_
+_159 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [alexknowshtml/claude-auto-handoff](https://github.com/alexknowshtml/claude-auto-handoff) | TypeScript project | Runs in the browser with a free account | [guide](guides/alexknowshtml/claude-auto-handoff.md) |
 | [yyyllllming/prism-bridge](https://github.com/yyyllllming/prism-bridge) | Python project | Runs in the browser with a free account | [guide](guides/yyyllllming/prism-bridge.md) |
 | [trionic1/chrisware-project](https://github.com/trionic1/chrisware-project) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/trionic1/chrisware-project.md) |
 | [jeantimex/tokyo](https://github.com/jeantimex/tokyo) | Vite app | Runs in the browser with a free account | [guide](guides/jeantimex/tokyo.md) |
@@ -38,7 +39,6 @@ _158 guides written so far · last update 2026-10-05 14:59 UTC_
 | [Autumn1337/better-statusline](https://github.com/Autumn1337/better-statusline) | TypeScript project | Runs in the browser with a free account | [guide](guides/autumn1337/better-statusline.md) |
 | [empero-org/brewery-ai](https://github.com/empero-org/brewery-ai) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/empero-org/brewery-ai.md) |
 | [raphaelmansuy/edgextract](https://github.com/raphaelmansuy/edgextract) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/raphaelmansuy/edgextract.md) |
-| [isod89/sloop-fm1](https://github.com/isod89/sloop-fm1) | C project | Needs a real machine (or a GPU) to run | [guide](guides/isod89/sloop-fm1.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_164 guides written so far · last update 2026-10-05 14:59 UTC_
+_165 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aarvsn/Ryty](https://github.com/aarvsn/Ryty) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/aarvsn/ryty.md) |
 | [MrBongoC/ai-iso-skill](https://github.com/MrBongoC/ai-iso-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mrbongoc/ai-iso-skill.md) |
 | [mallahyari/nemotron-asr-streaming-farsi](https://github.com/mallahyari/nemotron-asr-streaming-farsi) | Python project | Runs in the browser with a free account | [guide](guides/mallahyari/nemotron-asr-streaming-farsi.md) |
 | [bangbuilds/code-poem-film](https://github.com/bangbuilds/code-poem-film) | JavaScript project | Runs in the browser with a free account | [guide](guides/bangbuilds/code-poem-film.md) |
@@ -38,7 +39,6 @@ _164 guides written so far · last update 2026-10-05 14:59 UTC_
 | [jeantimex/tokyo](https://github.com/jeantimex/tokyo) | Vite app | Runs in the browser with a free account | [guide](guides/jeantimex/tokyo.md) |
 | [iamjhe08/VidGrab](https://github.com/iamjhe08/VidGrab) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/iamjhe08/vidgrab.md) |
 | [script-wizards/athanor](https://github.com/script-wizards/athanor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/script-wizards/athanor.md) |
-| [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thienbao1233/ninja-ripper-2.10.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_162 guides written so far · last update 2026-10-05 14:59 UTC_
+_163 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mallahyari/nemotron-asr-streaming-farsi](https://github.com/mallahyari/nemotron-asr-streaming-farsi) | Python project | Runs in the browser with a free account | [guide](guides/mallahyari/nemotron-asr-streaming-farsi.md) |
 | [bangbuilds/code-poem-film](https://github.com/bangbuilds/code-poem-film) | JavaScript project | Runs in the browser with a free account | [guide](guides/bangbuilds/code-poem-film.md) |
 | [fatihaydost/brand-identity-skill](https://github.com/fatihaydost/brand-identity-skill) | Python project | Runs in the browser with a free account | [guide](guides/fatihaydost/brand-identity-skill.md) |
 | [Wang-auspicious/paper-xray](https://github.com/Wang-auspicious/paper-xray) | HTML project | Runs in the browser with a free account | [guide](guides/wang-auspicious/paper-xray.md) |
@@ -38,7 +39,6 @@ _162 guides written so far · last update 2026-10-05 14:59 UTC_
 | [script-wizards/athanor](https://github.com/script-wizards/athanor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/script-wizards/athanor.md) |
 | [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thienbao1233/ninja-ripper-2.10.md) |
 | [huaotem-bot/gezi-quark-downloader](https://github.com/huaotem-bot/gezi-quark-downloader) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/huaotem-bot/gezi-quark-downloader.md) |
-| [MystiaFin/amane](https://github.com/MystiaFin/amane) | Rust project | Runs in the browser with a free account | [guide](guides/mystiafin/amane.md) |
 <!-- latest:end -->
 
 ## How it works

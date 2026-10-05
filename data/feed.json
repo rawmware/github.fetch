@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T14:59:17.955Z",
- "totalGuides": 162,
+ "updatedAt": "2026-10-05T14:59:18.200Z",
+ "totalGuides": 163,
  "items": [
+  {
+   "fullName": "mallahyari/nemotron-asr-streaming-farsi",
+   "owner": "mallahyari",
+   "name": "nemotron-asr-streaming-farsi",
+   "url": "https://github.com/mallahyari/nemotron-asr-streaming-farsi",
+   "avatar": "https://avatars.githubusercontent.com/u/28068313?v=4",
+   "description": "Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference.",
+   "language": "Python",
+   "topics": [
+    "asr",
+    "asr-model",
+    "persian",
+    "speech-recognition",
+    "speech-to-text",
+    "stt"
+   ],
+   "license": "Apache-2.0",
+   "stars": 51,
+   "forks": 5,
+   "createdAt": "2026-10-03T14:49:02Z",
+   "branch": "main",
+   "homepage": "https://huggingface.co/mehdi-hf/nemotron-asr-streaming-farsi",
+   "addedAt": "2026-10-05T14:59:18.199Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/mallahyari/nemotron-asr-streaming-farsi/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mallahyari/nemotron-asr-streaming-farsi?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mallahyari/nemotron-asr-streaming-farsi",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mallahyari/nemotron-asr-streaming-farsi/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/mallahyari/nemotron-asr-streaming-farsi.git\ncd nemotron-asr-streaming-farsi\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/mallahyari/nemotron-asr-streaming-farsi\nWhat it says it does: \"Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T14:59:18.199Z"
+  },
   {
    "fullName": "bangbuilds/code-poem-film",
    "owner": "bangbuilds",
@@ -9985,7 +10054,7 @@
   }
  ],
  "levels": {
-  "account": 61,
+  "account": 62,
   "heavy": 27,
   "read": 61,
   "instant": 13

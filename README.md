@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_182 guides written so far · last update 2026-10-05 21:57 UTC_
+_183 guides written so far · last update 2026-10-05 21:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [uniteoceanunderpass/Serato-DJ-Pro](https://github.com/uniteoceanunderpass/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/uniteoceanunderpass/serato-dj-pro.md) |
 | [UnitMakerMetro/SketchUp-Pro](https://github.com/UnitMakerMetro/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unitmakermetro/sketchup-pro.md) |
 | [Minorthedisengage/Discord-Server-Raider](https://github.com/Minorthedisengage/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/minorthedisengage/discord-server-raider.md) |
 | [ModernShahDefeat72/Discord-Server-Cloner](https://github.com/ModernShahDefeat72/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/modernshahdefeat72/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _182 guides written so far · last update 2026-10-05 21:57 UTC_
 | [CyclopsRogueSucceed/Discord-Nitro-Generator](https://github.com/CyclopsRogueSucceed/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopsroguesucceed/discord-nitro-generator.md) |
 | [lostparakeetmagnify/Adobe-Illustrator](https://github.com/lostparakeetmagnify/Adobe-Illustrator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lostparakeetmagnify/adobe-illustrator.md) |
 | [VarnishTrackPrize/ultra-Iso](https://github.com/VarnishTrackPrize/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/varnishtrackprize/ultra-iso.md) |
-| [SwimmerShield/Better-Discord](https://github.com/SwimmerShield/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swimmershield/better-discord.md) |
 <!-- latest:end -->
 
 ## How it works

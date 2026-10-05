@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_128 guides written so far · last update 2026-10-05 00:45 UTC_
+_129 guides written so far · last update 2026-10-05 00:45 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cneuralnetwork/kharcha](https://github.com/cneuralnetwork/kharcha) | Docker app | Runs in the browser with a free account | [guide](guides/cneuralnetwork/kharcha.md) |
 | [Adolanium/hermes-gadget-sdk](https://github.com/Adolanium/hermes-gadget-sdk) | Python project | Runs in the browser with a free account | [guide](guides/adolanium/hermes-gadget-sdk.md) |
 | [CopperForeman4/Microsoft-Visio](https://github.com/CopperForeman4/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/copperforeman4/microsoft-visio.md) |
 | [Gateapregister/Uttorent](https://github.com/Gateapregister/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gateapregister/uttorent.md) |
@@ -38,7 +39,6 @@ _128 guides written so far · last update 2026-10-05 00:45 UTC_
 | [ProtectorSplit/ultra-Iso](https://github.com/ProtectorSplit/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/protectorsplit/ultra-iso.md) |
 | [allenv0/SCM](https://github.com/allenv0/SCM) | Vite app | Runs in the browser with a free account | [guide](guides/allenv0/scm.md) |
 | [Heartfledisplay/Adobe-Acrobat-Pro](https://github.com/Heartfledisplay/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heartfledisplay/adobe-acrobat-pro.md) |
-| [OilBureaucrat94/Adobe-InDesign](https://github.com/OilBureaucrat94/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oilbureaucrat94/adobe-indesign.md) |
 <!-- latest:end -->
 
 ## How it works

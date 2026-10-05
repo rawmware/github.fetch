@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_145 guides written so far · last update 2026-10-05 06:18 UTC_
+_146 guides written so far · last update 2026-10-05 06:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [egoist/godiff](https://github.com/egoist/godiff) | Go project | Runs in the browser with a free account | [guide](guides/egoist/godiff.md) |
 | [JinHo-von-Choi/iron-laws](https://github.com/JinHo-von-Choi/iron-laws) | Python project | Runs in the browser with a free account | [guide](guides/jinho-von-choi/iron-laws.md) |
 | [elripalda/Porpoise-Dolphin-Emulator-for-PS5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/elripalda/porpoise-dolphin-emulator-for-ps5.md) |
 | [TannerMidd/pi-pocket](https://github.com/TannerMidd/pi-pocket) | Preact app | Runs in a browser tab, no account needed | [guide](guides/tannermidd/pi-pocket.md) |
@@ -38,7 +39,6 @@ _145 guides written so far · last update 2026-10-05 06:18 UTC_
 | [BrinooTk/PS5X360](https://github.com/BrinooTk/PS5X360) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/brinootk/ps5x360.md) |
 | [empero-org/homebrew-ai](https://github.com/empero-org/homebrew-ai) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/empero-org/homebrew-ai.md) |
 | [Asigers/pi-knock](https://github.com/Asigers/pi-knock) | JavaScript project | Runs in the browser with a free account | [guide](guides/asigers/pi-knock.md) |
-| [isoshimodo/ai-data-extractor](https://github.com/isoshimodo/ai-data-extractor) | Python project | Runs in the browser with a free account | [guide](guides/isoshimodo/ai-data-extractor.md) |
 <!-- latest:end -->
 
 ## How it works

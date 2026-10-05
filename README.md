@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_174 guides written so far · last update 2026-10-05 21:57 UTC_
+_175 guides written so far · last update 2026-10-05 21:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Noblebroplain/Ads-Blocker](https://github.com/Noblebroplain/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/noblebroplain/ads-blocker.md) |
 | [CyclopsRogueSucceed/Discord-Nitro-Generator](https://github.com/CyclopsRogueSucceed/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopsroguesucceed/discord-nitro-generator.md) |
 | [lostparakeetmagnify/Adobe-Illustrator](https://github.com/lostparakeetmagnify/Adobe-Illustrator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lostparakeetmagnify/adobe-illustrator.md) |
 | [VarnishTrackPrize/ultra-Iso](https://github.com/VarnishTrackPrize/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/varnishtrackprize/ultra-iso.md) |
@@ -38,7 +39,6 @@ _174 guides written so far · last update 2026-10-05 21:57 UTC_
 | [jasonbitsmith/muse-skills](https://github.com/jasonbitsmith/muse-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jasonbitsmith/muse-skills.md) |
 | [aarvsn/Ryty](https://github.com/aarvsn/Ryty) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/aarvsn/ryty.md) |
 | [MrBongoC/ai-iso-skill](https://github.com/MrBongoC/ai-iso-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mrbongoc/ai-iso-skill.md) |
-| [mallahyari/nemotron-asr-streaming-farsi](https://github.com/mallahyari/nemotron-asr-streaming-farsi) | Python project | Runs in the browser with a free account | [guide](guides/mallahyari/nemotron-asr-streaming-farsi.md) |
 <!-- latest:end -->
 
 ## How it works

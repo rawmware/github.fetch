@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T06:18:27.639Z",
- "totalGuides": 140,
+ "updatedAt": "2026-10-05T06:18:27.902Z",
+ "totalGuides": 141,
  "items": [
+  {
+   "fullName": "laurinml/Immich-Insights",
+   "owner": "laurinml",
+   "name": "Immich-Insights",
+   "url": "https://github.com/laurinml/Immich-Insights",
+   "avatar": "https://avatars.githubusercontent.com/u/80605274?v=4",
+   "description": "Immich Insights is a self-hostable docker container that displays statistics for assets of an account of Immich using the Immich API.",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 70,
+   "forks": 2,
+   "createdAt": "2026-10-03T14:21:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T06:18:27.902Z",
+   "stack": {
+    "kind": "docker",
+    "label": "Docker app",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/laurinml/Immich-Insights?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/laurinml/Immich-Insights",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/laurinml/Immich-Insights/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "docker compose up",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/laurinml/Immich-Insights.git\ncd Immich-Insights\ndocker compose up",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/laurinml/Immich-Insights\nWhat it says it does: \"Immich Insights is a self-hostable docker container that displays statistics for assets of an account of Immich using the Immich API.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T06:18:27.902Z"
+  },
   {
    "fullName": "BeingConqueror/Ableton-Live-12",
    "owner": "BeingConqueror",
@@ -8652,8 +8707,8 @@
   }
  ],
  "levels": {
+  "account": 50,
   "read": 59,
-  "account": 49,
   "heavy": 20,
   "instant": 12
  }

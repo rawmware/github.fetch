@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_150 guides written so far · last update 2026-10-05 14:59 UTC_
+_151 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MystiaFin/amane](https://github.com/MystiaFin/amane) | Rust project | Runs in the browser with a free account | [guide](guides/mystiafin/amane.md) |
 | [Autumn1337/better-statusline](https://github.com/Autumn1337/better-statusline) | TypeScript project | Runs in the browser with a free account | [guide](guides/autumn1337/better-statusline.md) |
 | [empero-org/brewery-ai](https://github.com/empero-org/brewery-ai) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/empero-org/brewery-ai.md) |
 | [raphaelmansuy/edgextract](https://github.com/raphaelmansuy/edgextract) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/raphaelmansuy/edgextract.md) |
@@ -38,7 +39,6 @@ _150 guides written so far · last update 2026-10-05 14:59 UTC_
 | [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks) | Shell project | Runs in the browser with a free account | [guide](guides/0xsero/deepseek-v4.1-flash-two-sparks.md) |
 | [laurinml/Immich-Insights](https://github.com/laurinml/Immich-Insights) | Docker app | Runs in the browser with a free account | [guide](guides/laurinml/immich-insights.md) |
 | [BeingConqueror/Ableton-Live-12](https://github.com/BeingConqueror/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beingconqueror/ableton-live-12.md) |
-| [joeseesun/qiaomu-codex-imagegen](https://github.com/joeseesun/qiaomu-codex-imagegen) | Node command-line tool | Runs in the browser with a free account | [guide](guides/joeseesun/qiaomu-codex-imagegen.md) |
 <!-- latest:end -->
 
 ## How it works

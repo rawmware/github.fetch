@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T14:59:16.682Z",
- "totalGuides": 156,
+ "updatedAt": "2026-10-05T14:59:16.830Z",
+ "totalGuides": 157,
  "items": [
+  {
+   "fullName": "trionic1/chrisware-project",
+   "owner": "trionic1",
+   "name": "chrisware-project",
+   "url": "https://github.com/trionic1/chrisware-project",
+   "avatar": "https://avatars.githubusercontent.com/u/198410168?v=4",
+   "description": "Offline star citizen",
+   "language": "C++",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 58,
+   "forks": 33,
+   "createdAt": "2026-10-04T20:08:59Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T14:59:16.829Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/trionic1/chrisware-project?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/trionic1/chrisware-project",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/trionic1/chrisware-project/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/trionic1/chrisware-project.git\ncd chrisware-project",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/trionic1/chrisware-project\nWhat it says it does: \"Offline star citizen\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T14:59:16.829Z"
+  },
   {
    "fullName": "jeantimex/tokyo",
    "owner": "jeantimex",
@@ -9630,8 +9687,8 @@
   }
  ],
  "levels": {
+  "heavy": 27,
   "account": 56,
-  "heavy": 26,
   "read": 61,
   "instant": 13
  }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_149 guides written so far · last update 2026-10-05 14:59 UTC_
+_150 guides written so far · last update 2026-10-05 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Autumn1337/better-statusline](https://github.com/Autumn1337/better-statusline) | TypeScript project | Runs in the browser with a free account | [guide](guides/autumn1337/better-statusline.md) |
 | [empero-org/brewery-ai](https://github.com/empero-org/brewery-ai) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/empero-org/brewery-ai.md) |
 | [raphaelmansuy/edgextract](https://github.com/raphaelmansuy/edgextract) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/raphaelmansuy/edgextract.md) |
 | [isod89/sloop-fm1](https://github.com/isod89/sloop-fm1) | C project | Needs a real machine (or a GPU) to run | [guide](guides/isod89/sloop-fm1.md) |
@@ -38,7 +39,6 @@ _149 guides written so far · last update 2026-10-05 14:59 UTC_
 | [laurinml/Immich-Insights](https://github.com/laurinml/Immich-Insights) | Docker app | Runs in the browser with a free account | [guide](guides/laurinml/immich-insights.md) |
 | [BeingConqueror/Ableton-Live-12](https://github.com/BeingConqueror/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beingconqueror/ableton-live-12.md) |
 | [joeseesun/qiaomu-codex-imagegen](https://github.com/joeseesun/qiaomu-codex-imagegen) | Node command-line tool | Runs in the browser with a free account | [guide](guides/joeseesun/qiaomu-codex-imagegen.md) |
-| [CreoleVR/QuestLHSync](https://github.com/CreoleVR/QuestLHSync) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/creolevr/questlhsync.md) |
 <!-- latest:end -->
 
 ## How it works

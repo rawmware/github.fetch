@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T14:59:15.345Z",
- "totalGuides": 149,
+ "updatedAt": "2026-10-05T14:59:15.504Z",
+ "totalGuides": 150,
  "items": [
+  {
+   "fullName": "Autumn1337/better-statusline",
+   "owner": "Autumn1337",
+   "name": "better-statusline",
+   "url": "https://github.com/Autumn1337/better-statusline",
+   "avatar": "https://avatars.githubusercontent.com/u/267368378?v=4",
+   "description": "A status line for Claude Code: the session's figures as dot-matrix rings, and the music you are playing beside them",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 118,
+   "forks": 19,
+   "createdAt": "2026-10-05T08:44:27Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T14:59:15.503Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Autumn1337/better-statusline?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Autumn1337/better-statusline",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Autumn1337/better-statusline/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Autumn1337/better-statusline.git\ncd better-statusline",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Autumn1337/better-statusline\nWhat it says it does: \"A status line for Claude Code: the session's figures as dot-matrix rings, and the music you are playing beside them\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T14:59:15.503Z"
+  },
   {
    "fullName": "empero-org/brewery-ai",
    "owner": "empero-org",
@@ -9229,8 +9284,8 @@
   }
  ],
  "levels": {
+  "account": 54,
   "heavy": 24,
-  "account": 53,
   "instant": 13,
   "read": 59
  }

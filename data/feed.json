@@ -1,8 +1,82 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T00:45:20.686Z",
- "totalGuides": 131,
+ "updatedAt": "2026-10-05T00:45:20.899Z",
+ "totalGuides": 132,
  "items": [
+  {
+   "fullName": "dakukibana/short-video-generator",
+   "owner": "dakukibana",
+   "name": "short-video-generator",
+   "url": "https://github.com/dakukibana/short-video-generator",
+   "avatar": "https://avatars.githubusercontent.com/u/312158964?v=4",
+   "description": "AI-powered open-source tool that turns long videos into viral-ready shorts with automatic highlights, subtitles, hooks, cropping, translation and voiceover",
+   "language": "Python",
+   "topics": [
+    "short-video",
+    "short-video-automation",
+    "short-video-generator",
+    "short-video-maker",
+    "shorts-generator",
+    "tiktok-automation-script",
+    "video-cutter"
+   ],
+   "license": "MIT",
+   "stars": 119,
+   "forks": 11,
+   "createdAt": "2026-10-03T17:10:43Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T00:45:20.898Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/dakukibana/short-video-generator/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/dakukibana/short-video-generator?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/dakukibana/short-video-generator",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/dakukibana/short-video-generator/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python main.py",
+   "notes": [
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/dakukibana/short-video-generator.git\ncd short-video-generator\npip install -r requirements.txt\npython main.py",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/dakukibana/short-video-generator\nWhat it says it does: \"AI-powered open-source tool that turns long videos into viral-ready shorts with automatic highlights, subtitles, hooks, cropping, translation and voiceover\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T00:45:20.898Z"
+  },
   {
    "fullName": "zeemscript/TrustMint",
    "owner": "zeemscript",
@@ -8034,7 +8108,7 @@
   }
  ],
  "levels": {
-  "account": 44,
+  "account": 45,
   "heavy": 17,
   "read": 58,
   "instant": 12

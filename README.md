@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_131 guides written so far · last update 2026-10-05 00:45 UTC_
+_132 guides written so far · last update 2026-10-05 00:45 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dakukibana/short-video-generator](https://github.com/dakukibana/short-video-generator) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/dakukibana/short-video-generator.md) |
 | [zeemscript/TrustMint](https://github.com/zeemscript/TrustMint) | JavaScript project | Runs in the browser with a free account | [guide](guides/zeemscript/trustmint.md) |
 | [noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/noahdunnagan/mcopt.md) |
 | [cneuralnetwork/kharcha](https://github.com/cneuralnetwork/kharcha) | Docker app | Runs in the browser with a free account | [guide](guides/cneuralnetwork/kharcha.md) |
@@ -38,7 +39,6 @@ _131 guides written so far · last update 2026-10-05 00:45 UTC_
 | [Clutchbrorank/PH-Downloader](https://github.com/Clutchbrorank/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clutchbrorank/ph-downloader.md) |
 | [Lowflaindicate/RX-11-Audio-Editor](https://github.com/Lowflaindicate/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lowflaindicate/rx-11-audio-editor.md) |
 | [StampEconomicRavine/SketchUp-Pro](https://github.com/StampEconomicRavine/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stampeconomicravine/sketchup-pro.md) |
-| [ProtectorSplit/ultra-Iso](https://github.com/ProtectorSplit/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/protectorsplit/ultra-iso.md) |
 <!-- latest:end -->
 
 ## How it works

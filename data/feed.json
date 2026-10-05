@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T21:57:19.154Z",
- "totalGuides": 179,
+ "updatedAt": "2026-10-05T21:57:19.272Z",
+ "totalGuides": 180,
  "items": [
+  {
+   "fullName": "ModernShahDefeat72/Discord-Server-Cloner",
+   "owner": "ModernShahDefeat72",
+   "name": "Discord-Server-Cloner",
+   "url": "https://github.com/ModernShahDefeat72/Discord-Server-Cloner",
+   "avatar": "https://avatars.githubusercontent.com/u/296668132?v=4",
+   "description": "Discord Server Cloner optimizes server management by replicating and maintaining a custom set of configurations for your community's unique needs in a...",
+   "language": null,
+   "topics": [
+    "discord-channel-cloner",
+    "discord-clone",
+    "discord-cloner",
+    "discord-cloner-bot",
+    "discord-dm-cloner",
+    "discord-exporter",
+    "discord-message-sender",
+    "discord-self-bot"
+   ],
+   "license": null,
+   "stars": 392,
+   "forks": 0,
+   "createdAt": "2026-10-05T10:21:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T21:57:19.272Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ModernShahDefeat72/Discord-Server-Cloner",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ModernShahDefeat72/Discord-Server-Cloner/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ModernShahDefeat72/Discord-Server-Cloner\nWhat it says it does: \"Discord Server Cloner optimizes server management by replicating and maintaining a custom set of configurations for your community's unique needs in a...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T21:57:19.272Z"
+  },
   {
    "fullName": "Neutronrucurl/Adobe-Acrobat-Pro",
    "owner": "Neutronrucurl",
@@ -10986,7 +11043,7 @@
   }
  ],
  "levels": {
-  "read": 74,
+  "read": 75,
   "instant": 15,
   "heavy": 28,
   "account": 62

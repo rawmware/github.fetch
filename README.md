@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_179 guides written so far · last update 2026-10-05 21:57 UTC_
+_180 guides written so far · last update 2026-10-05 21:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ModernShahDefeat72/Discord-Server-Cloner](https://github.com/ModernShahDefeat72/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/modernshahdefeat72/discord-server-cloner.md) |
 | [Neutronrucurl/Adobe-Acrobat-Pro](https://github.com/Neutronrucurl/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/neutronrucurl/adobe-acrobat-pro.md) |
 | [CrewPotterRectify/Autodesk-Inventor](https://github.com/CrewPotterRectify/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crewpotterrectify/autodesk-inventor.md) |
 | [Gryphonpebastion/Total-Commander](https://github.com/Gryphonpebastion/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonpebastion/total-commander.md) |
@@ -38,7 +39,6 @@ _179 guides written so far · last update 2026-10-05 21:57 UTC_
 | [SwimmerShield/Better-Discord](https://github.com/SwimmerShield/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swimmershield/better-discord.md) |
 | [HectoTeacher56/Adobe-Substance-3d](https://github.com/HectoTeacher56/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hectoteacher56/adobe-substance-3d.md) |
 | [gangmoonrotation/Discord-Quest-Completer](https://github.com/gangmoonrotation/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gangmoonrotation/discord-quest-completer.md) |
-| [CortexClient/CortexClient.github.io](https://github.com/CortexClient/CortexClient.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cortexclient/cortexclient.github.io.md) |
 <!-- latest:end -->
 
 ## How it works

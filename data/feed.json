@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T21:57:19.902Z",
- "totalGuides": 185,
+ "updatedAt": "2026-10-05T21:57:20.026Z",
+ "totalGuides": 186,
  "items": [
+  {
+   "fullName": "BrightVanquisherMold/PH-Downloader",
+   "owner": "BrightVanquisherMold",
+   "name": "PH-Downloader",
+   "url": "https://github.com/BrightVanquisherMold/PH-Downloader",
+   "avatar": "https://avatars.githubusercontent.com/u/296665605?v=4",
+   "description": "Ph Down optimizes your professional desktop utility configuration with a tailored setup that enhances productivity and streamlines tasks.\" (124 characters)",
+   "language": null,
+   "topics": [
+    "adult-videos",
+    "content-downloader",
+    "erome-download",
+    "erome-downloader",
+    "erothots-bulk-downloader",
+    "fast-downloader",
+    "free-internet-downloader",
+    "freedownloadmanager"
+   ],
+   "license": null,
+   "stars": 203,
+   "forks": 0,
+   "createdAt": "2026-10-05T10:28:23Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-05T21:57:20.025Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/BrightVanquisherMold/PH-Downloader",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/BrightVanquisherMold/PH-Downloader/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/BrightVanquisherMold/PH-Downloader\nWhat it says it does: \"Ph Down optimizes your professional desktop utility configuration with a tailored setup that enhances productivity and streamlines tasks.\" (124 characters)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-05T21:57:20.025Z"
+  },
   {
    "fullName": "elstongun/leviathan",
    "owner": "elstongun",
@@ -11326,8 +11383,8 @@
   }
  ],
  "levels": {
+  "read": 80,
   "account": 63,
-  "read": 79,
   "instant": 15,
   "heavy": 28
  }

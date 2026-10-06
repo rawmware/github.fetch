@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-05T21:57:20.312Z",
- "totalGuides": 188,
+ "updatedAt": "2026-10-06T02:11:00.140Z",
+ "totalGuides": 189,
  "items": [
+  {
+   "fullName": "AgentMemoryRepo/agentmemoryrepo",
+   "owner": "AgentMemoryRepo",
+   "name": "agentmemoryrepo",
+   "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+   "avatar": "https://avatars.githubusercontent.com/u/337866316?v=4",
+   "description": "Spec for Agent Memory Repo",
+   "language": null,
+   "topics": [],
+   "license": "MIT",
+   "stars": 243,
+   "forks": 8,
+   "createdAt": "2026-10-04T22:10:48Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T02:11:00.125Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/AgentMemoryRepo/agentmemoryrepo\nWhat it says it does: \"Spec for Agent Memory Repo\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T02:11:00.125Z"
+  },
   {
    "fullName": "Spiritunderfringe/Microsoft-Office",
    "owner": "Spiritunderfringe",
@@ -11497,7 +11545,7 @@
   }
  ],
  "levels": {
-  "read": 82,
+  "read": 83,
   "account": 63,
   "instant": 15,
   "heavy": 28

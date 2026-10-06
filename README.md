@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_219 guides written so far · last update 2026-10-06 16:00 UTC_
+_220 guides written so far · last update 2026-10-06 16:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RecordSlayerIdentify/shotcut-download](https://github.com/RecordSlayerIdentify/shotcut-download) | Python project | Runs in the browser with a free account | [guide](guides/recordslayeridentify/shotcut-download.md) |
 | [google-deepmind/alphaprotein-novo](https://github.com/google-deepmind/alphaprotein-novo) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/google-deepmind/alphaprotein-novo.md) |
 | [kandinskylab/kandinsky-6](https://github.com/kandinskylab/kandinsky-6) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kandinskylab/kandinsky-6.md) |
 | [SlateElementalist/SystemCare-Pro](https://github.com/SlateElementalist/SystemCare-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slateelementalist/systemcare-pro.md) |
@@ -38,7 +39,6 @@ _219 guides written so far · last update 2026-10-06 16:00 UTC_
 | [MelodySwimmer/Ultra-Edit](https://github.com/MelodySwimmer/Ultra-Edit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/melodyswimmer/ultra-edit.md) |
 | [uzairansaruzi/p3-stack](https://github.com/uzairansaruzi/p3-stack) | Shell project | Runs in the browser with a free account | [guide](guides/uzairansaruzi/p3-stack.md) |
 | [Hiteater-wzm/eeo](https://github.com/Hiteater-wzm/eeo) | Docker app | Runs in the browser with a free account | [guide](guides/hiteater-wzm/eeo.md) |
-| [arielshad/3d-asset-server](https://github.com/arielshad/3d-asset-server) | Hono app | Runs in the browser with a free account | [guide](guides/arielshad/3d-asset-server.md) |
 <!-- latest:end -->
 
 ## How it works

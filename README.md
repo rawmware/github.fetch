@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_193 guides written so far · last update 2026-10-06 02:11 UTC_
+_194 guides written so far · last update 2026-10-06 02:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CapturePantherFeel/DVD-Creator](https://github.com/CapturePantherFeel/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/capturepantherfeel/dvd-creator.md) |
 | [Diamondbenenergize/FL-Studio](https://github.com/Diamondbenenergize/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diamondbenenergize/fl-studio.md) |
 | [pyramidqueenyell/AnyUnlock](https://github.com/pyramidqueenyell/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pyramidqueenyell/anyunlock.md) |
 | [CrownScreenDescribe/SlideShow-Video-Maker](https://github.com/CrownScreenDescribe/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crownscreendescribe/slideshow-video-maker.md) |
@@ -38,7 +39,6 @@ _193 guides written so far · last update 2026-10-06 02:11 UTC_
 | [elstongun/leviathan](https://github.com/elstongun/leviathan) | Rust project | Runs in the browser with a free account | [guide](guides/elstongun/leviathan.md) |
 | [Civilcliadapt/Reason-14](https://github.com/Civilcliadapt/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/civilcliadapt/reason-14.md) |
 | [uniteoceanunderpass/Serato-DJ-Pro](https://github.com/uniteoceanunderpass/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/uniteoceanunderpass/serato-dj-pro.md) |
-| [UnitMakerMetro/SketchUp-Pro](https://github.com/UnitMakerMetro/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unitmakermetro/sketchup-pro.md) |
 <!-- latest:end -->
 
 ## How it works

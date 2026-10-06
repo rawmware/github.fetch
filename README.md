@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_205 guides written so far · last update 2026-10-06 09:04 UTC_
+_206 guides written so far · last update 2026-10-06 09:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yoge7388095s/eth-trading-bot](https://github.com/yoge7388095s/eth-trading-bot) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yoge7388095s/eth-trading-bot.md) |
 | [rit3zh/morphlet](https://github.com/rit3zh/morphlet) | React app | Runs in the browser with a free account | [guide](guides/rit3zh/morphlet.md) |
 | [Henryfud/werm](https://github.com/Henryfud/werm) | JavaScript project | Runs in the browser with a free account | [guide](guides/henryfud/werm.md) |
 | [CosmicVeteran/Ableton-Live-12](https://github.com/CosmicVeteran/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cosmicveteran/ableton-live-12.md) |
@@ -38,7 +39,6 @@ _205 guides written so far · last update 2026-10-06 09:04 UTC_
 | [Pointbenpartition/BorisFX](https://github.com/Pointbenpartition/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pointbenpartition/borisfx.md) |
 | [CicadaShanty/Display-Fusion](https://github.com/CicadaShanty/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cicadashanty/display-fusion.md) |
 | [ZombieThrasherCalm11/Adobe-After-Effects](https://github.com/ZombieThrasherCalm11/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zombiethrashercalm11/adobe-after-effects.md) |
-| [CapturePantherFeel/DVD-Creator](https://github.com/CapturePantherFeel/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/capturepantherfeel/dvd-creator.md) |
 <!-- latest:end -->
 
 ## How it works

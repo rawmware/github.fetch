@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_247 guides written so far · last update 2026-10-06 20:54 UTC_
+_248 guides written so far · last update 2026-10-06 20:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kirohack-official/kirohack](https://github.com/kirohack-official/kirohack) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kirohack-official/kirohack.md) |
 | [dualface/ste-zh](https://github.com/dualface/ste-zh) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dualface/ste-zh.md) |
 | [GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/gtkottman/mortiflix-oss.md) |
 | [hashcott/ghostline](https://github.com/hashcott/ghostline) | Go project | Runs in the browser with a free account | [guide](guides/hashcott/ghostline.md) |
@@ -38,7 +39,6 @@ _247 guides written so far · last update 2026-10-06 20:54 UTC_
 | [obie/auto-handoff](https://github.com/obie/auto-handoff) | TypeScript project | Runs in the browser with a free account | [guide](guides/obie/auto-handoff.md) |
 | [longsurf-ai/openchart](https://github.com/longsurf-ai/openchart) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/openchart.md) |
 | [VelaPayments/vela-payments](https://github.com/VelaPayments/vela-payments) | React app | Runs in the browser with a free account | [guide](guides/velapayments/vela-payments.md) |
-| [VelaPayments/vela-server](https://github.com/VelaPayments/vela-server) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/velapayments/vela-server.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T20:54:43.626Z",
- "totalGuides": 247,
+ "updatedAt": "2026-10-06T20:54:44.069Z",
+ "totalGuides": 248,
  "items": [
+  {
+   "fullName": "kirohack-official/kirohack",
+   "owner": "kirohack-official",
+   "name": "kirohack",
+   "url": "https://github.com/kirohack-official/kirohack",
+   "avatar": "https://avatars.githubusercontent.com/u/282073457?v=4",
+   "description": "Официальный скрипт Kirohack (Кирохак) для игры Dynast.io от dazaso",
+   "language": null,
+   "topics": [
+    "cheat-engine-table",
+    "cheatsheet",
+    "cheatsheets",
+    "dazaso",
+    "dynast-io",
+    "dynasties",
+    "dynastio",
+    "dynastio-assets"
+   ],
+   "license": null,
+   "stars": 51,
+   "forks": 0,
+   "createdAt": "2026-10-05T09:24:33Z",
+   "branch": "main",
+   "homepage": "https://kiroproject.wisp.uno",
+   "addedAt": "2026-10-06T20:54:44.068Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/kirohack-official/kirohack",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kirohack-official/kirohack/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/kirohack-official/kirohack\nWhat it says it does: \"Официальный скрипт Kirohack (Кирохак) для игры Dynast.io от dazaso\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T20:54:44.068Z"
+  },
   {
    "fullName": "dualface/ste-zh",
    "owner": "dualface",
@@ -15155,7 +15212,7 @@
   }
  ],
  "levels": {
-  "read": 108,
+  "read": 109,
   "instant": 20,
   "account": 85,
   "heavy": 34

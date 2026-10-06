@@ -1,8 +1,78 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T20:54:42.586Z",
- "totalGuides": 243,
+ "updatedAt": "2026-10-06T20:54:42.878Z",
+ "totalGuides": 244,
  "items": [
+  {
+   "fullName": "xianyu110/ecommerce-image-skills",
+   "owner": "xianyu110",
+   "name": "ecommerce-image-skills",
+   "url": "https://github.com/xianyu110/ecommerce-image-skills",
+   "avatar": "https://avatars.githubusercontent.com/u/53889513?v=4",
+   "description": "12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-image",
+    "amazon",
+    "claude-skills",
+    "ecommerce",
+    "gpt-image",
+    "product-photography"
+   ],
+   "license": "MIT",
+   "stars": 52,
+   "forks": 10,
+   "createdAt": "2026-10-04T03:17:18Z",
+   "branch": "main",
+   "homepage": "https://gptimage2.asia/ecommerce",
+   "addedAt": "2026-10-06T20:54:42.877Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/xianyu110/ecommerce-image-skills/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/xianyu110/ecommerce-image-skills?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/xianyu110/ecommerce-image-skills",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/xianyu110/ecommerce-image-skills/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/xianyu110/ecommerce-image-skills.git\ncd ecommerce-image-skills",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/xianyu110/ecommerce-image-skills\nWhat it says it does: \"12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T20:54:42.877Z"
+  },
   {
    "fullName": "ghuntley/jiti",
    "owner": "ghuntley",
@@ -14895,7 +14965,7 @@
   }
  ],
  "levels": {
-  "account": 83,
+  "account": 84,
   "read": 107,
   "instant": 19,
   "heavy": 34

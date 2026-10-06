@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_246 guides written so far · last update 2026-10-06 20:54 UTC_
+_247 guides written so far · last update 2026-10-06 20:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dualface/ste-zh](https://github.com/dualface/ste-zh) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dualface/ste-zh.md) |
 | [GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/gtkottman/mortiflix-oss.md) |
 | [hashcott/ghostline](https://github.com/hashcott/ghostline) | Go project | Runs in the browser with a free account | [guide](guides/hashcott/ghostline.md) |
 | [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | Python project | Runs in the browser with a free account | [guide](guides/xianyu110/ecommerce-image-skills.md) |
@@ -38,7 +39,6 @@ _246 guides written so far · last update 2026-10-06 20:54 UTC_
 | [longsurf-ai/openchart](https://github.com/longsurf-ai/openchart) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/openchart.md) |
 | [VelaPayments/vela-payments](https://github.com/VelaPayments/vela-payments) | React app | Runs in the browser with a free account | [guide](guides/velapayments/vela-payments.md) |
 | [VelaPayments/vela-server](https://github.com/VelaPayments/vela-server) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/velapayments/vela-server.md) |
-| [BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo](https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/bq-wang0511/talklikeyou-streaming-realtime-demo.md) |
 <!-- latest:end -->
 
 ## How it works

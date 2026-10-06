@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_229 guides written so far · last update 2026-10-06 16:00 UTC_
+_230 guides written so far · last update 2026-10-06 16:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [charlesvestal/fm1-x0x](https://github.com/charlesvestal/fm1-x0x) | C project | Needs a real machine (or a GPU) to run | [guide](guides/charlesvestal/fm1-x0x.md) |
 | [lonewolf0622/HelixSR](https://github.com/lonewolf0622/HelixSR) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lonewolf0622/helixsr.md) |
 | [Gravelpaditch/Wardogs-utilite](https://github.com/Gravelpaditch/Wardogs-utilite) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravelpaditch/wardogs-utilite.md) |
 | [kamil9966/CAPEv2-Sandbox-plugin-Procmon-Events-v1](https://github.com/kamil9966/CAPEv2-Sandbox-plugin-Procmon-Events-v1) | Python project | Runs in the browser with a free account | [guide](guides/kamil9966/capev2-sandbox-plugin-procmon-events-v1.md) |
@@ -38,7 +39,6 @@ _229 guides written so far · last update 2026-10-06 16:00 UTC_
 | [saidi-walid-architecte/saidi-walid-architecte.github.io](https://github.com/saidi-walid-architecte/saidi-walid-architecte.github.io) | Python project | Runs in the browser with a free account | [guide](guides/saidi-walid-architecte/saidi-walid-architecte.github.io.md) |
 | [RecordSlayerIdentify/shotcut-download](https://github.com/RecordSlayerIdentify/shotcut-download) | Python project | Runs in the browser with a free account | [guide](guides/recordslayeridentify/shotcut-download.md) |
 | [google-deepmind/alphaprotein-novo](https://github.com/google-deepmind/alphaprotein-novo) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/google-deepmind/alphaprotein-novo.md) |
-| [kandinskylab/kandinsky-6](https://github.com/kandinskylab/kandinsky-6) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kandinskylab/kandinsky-6.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_230 guides written so far · last update 2026-10-06 16:00 UTC_
+_231 guides written so far · last update 2026-10-06 16:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [alexngdev99/rork-seaport-logistics-3d](https://github.com/alexngdev99/rork-seaport-logistics-3d) | TypeScript project | Runs in the browser with a free account | [guide](guides/alexngdev99/rork-seaport-logistics-3d.md) |
 | [charlesvestal/fm1-x0x](https://github.com/charlesvestal/fm1-x0x) | C project | Needs a real machine (or a GPU) to run | [guide](guides/charlesvestal/fm1-x0x.md) |
 | [lonewolf0622/HelixSR](https://github.com/lonewolf0622/HelixSR) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lonewolf0622/helixsr.md) |
 | [Gravelpaditch/Wardogs-utilite](https://github.com/Gravelpaditch/Wardogs-utilite) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravelpaditch/wardogs-utilite.md) |
@@ -38,7 +39,6 @@ _230 guides written so far · last update 2026-10-06 16:00 UTC_
 | [theblazehen/awesome-tern](https://github.com/theblazehen/awesome-tern) | Python project | Runs in the browser with a free account | [guide](guides/theblazehen/awesome-tern.md) |
 | [saidi-walid-architecte/saidi-walid-architecte.github.io](https://github.com/saidi-walid-architecte/saidi-walid-architecte.github.io) | Python project | Runs in the browser with a free account | [guide](guides/saidi-walid-architecte/saidi-walid-architecte.github.io.md) |
 | [RecordSlayerIdentify/shotcut-download](https://github.com/RecordSlayerIdentify/shotcut-download) | Python project | Runs in the browser with a free account | [guide](guides/recordslayeridentify/shotcut-download.md) |
-| [google-deepmind/alphaprotein-novo](https://github.com/google-deepmind/alphaprotein-novo) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/google-deepmind/alphaprotein-novo.md) |
 <!-- latest:end -->
 
 ## How it works

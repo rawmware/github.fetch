@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_233 guides written so far · last update 2026-10-06 16:00 UTC_
+_234 guides written so far · last update 2026-10-06 16:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) | TypeScript project | Runs in the browser with a free account | [guide](guides/johnnyvizz/claude-kit.md) |
 | [Sp9nky/unofficial-stremio-ps5-port](https://github.com/Sp9nky/unofficial-stremio-ps5-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/sp9nky/unofficial-stremio-ps5-port.md) |
 | [rakesh0x/OpenCardboard](https://github.com/rakesh0x/OpenCardboard) | JavaScript project | Runs in the browser with a free account | [guide](guides/rakesh0x/opencardboard.md) |
 | [alexngdev99/rork-seaport-logistics-3d](https://github.com/alexngdev99/rork-seaport-logistics-3d) | TypeScript project | Runs in the browser with a free account | [guide](guides/alexngdev99/rork-seaport-logistics-3d.md) |
@@ -38,7 +39,6 @@ _233 guides written so far · last update 2026-10-06 16:00 UTC_
 | [TekRantGaming/king-kong-recompiled](https://github.com/TekRantGaming/king-kong-recompiled) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/tekrantgaming/king-kong-recompiled.md) |
 | [chenxiachan/paperfold](https://github.com/chenxiachan/paperfold) | Python project | Runs in the browser with a free account | [guide](guides/chenxiachan/paperfold.md) |
 | [wieslawsoltes/VB6](https://github.com/wieslawsoltes/VB6) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/wieslawsoltes/vb6.md) |
-| [theblazehen/awesome-tern](https://github.com/theblazehen/awesome-tern) | Python project | Runs in the browser with a free account | [guide](guides/theblazehen/awesome-tern.md) |
 <!-- latest:end -->
 
 ## How it works

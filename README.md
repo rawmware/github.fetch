@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_190 guides written so far · last update 2026-10-06 02:11 UTC_
+_191 guides written so far · last update 2026-10-06 02:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CrownScreenDescribe/SlideShow-Video-Maker](https://github.com/CrownScreenDescribe/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crownscreendescribe/slideshow-video-maker.md) |
 | [Rainfoderrick/Microsoft-Visio](https://github.com/Rainfoderrick/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainfoderrick/microsoft-visio.md) |
 | [AgentMemoryRepo/agentmemoryrepo](https://github.com/AgentMemoryRepo/agentmemoryrepo) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/agentmemoryrepo/agentmemoryrepo.md) |
 | [Spiritunderfringe/Microsoft-Office](https://github.com/Spiritunderfringe/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritunderfringe/microsoft-office.md) |
@@ -38,7 +39,6 @@ _190 guides written so far · last update 2026-10-06 02:11 UTC_
 | [UnitMakerMetro/SketchUp-Pro](https://github.com/UnitMakerMetro/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unitmakermetro/sketchup-pro.md) |
 | [Minorthedisengage/Discord-Server-Raider](https://github.com/Minorthedisengage/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/minorthedisengage/discord-server-raider.md) |
 | [ModernShahDefeat72/Discord-Server-Cloner](https://github.com/ModernShahDefeat72/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/modernshahdefeat72/discord-server-cloner.md) |
-| [Neutronrucurl/Adobe-Acrobat-Pro](https://github.com/Neutronrucurl/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/neutronrucurl/adobe-acrobat-pro.md) |
 <!-- latest:end -->
 
 ## How it works

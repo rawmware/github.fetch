@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_239 guides written so far · last update 2026-10-06 20:54 UTC_
+_240 guides written so far · last update 2026-10-06 20:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VinkyDev/vibestart](https://github.com/VinkyDev/vibestart) | Vite app | Runs in the browser with a free account | [guide](guides/vinkydev/vibestart.md) |
 | [obie/auto-handoff](https://github.com/obie/auto-handoff) | TypeScript project | Runs in the browser with a free account | [guide](guides/obie/auto-handoff.md) |
 | [longsurf-ai/openchart](https://github.com/longsurf-ai/openchart) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/openchart.md) |
 | [VelaPayments/vela-payments](https://github.com/VelaPayments/vela-payments) | React app | Runs in the browser with a free account | [guide](guides/velapayments/vela-payments.md) |
@@ -38,7 +39,6 @@ _239 guides written so far · last update 2026-10-06 20:54 UTC_
 | [alexngdev99/rork-seaport-logistics-3d](https://github.com/alexngdev99/rork-seaport-logistics-3d) | TypeScript project | Runs in the browser with a free account | [guide](guides/alexngdev99/rork-seaport-logistics-3d.md) |
 | [charlesvestal/fm1-x0x](https://github.com/charlesvestal/fm1-x0x) | C project | Needs a real machine (or a GPU) to run | [guide](guides/charlesvestal/fm1-x0x.md) |
 | [lonewolf0622/HelixSR](https://github.com/lonewolf0622/HelixSR) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lonewolf0622/helixsr.md) |
-| [Gravelpaditch/Wardogs-utilite](https://github.com/Gravelpaditch/Wardogs-utilite) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravelpaditch/wardogs-utilite.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_196 guides written so far · last update 2026-10-06 02:11 UTC_
+_197 guides written so far · last update 2026-10-06 02:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Pointbenpartition/BorisFX](https://github.com/Pointbenpartition/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pointbenpartition/borisfx.md) |
 | [CicadaShanty/Display-Fusion](https://github.com/CicadaShanty/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cicadashanty/display-fusion.md) |
 | [ZombieThrasherCalm11/Adobe-After-Effects](https://github.com/ZombieThrasherCalm11/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zombiethrashercalm11/adobe-after-effects.md) |
 | [CapturePantherFeel/DVD-Creator](https://github.com/CapturePantherFeel/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/capturepantherfeel/dvd-creator.md) |
@@ -38,7 +39,6 @@ _196 guides written so far · last update 2026-10-06 02:11 UTC_
 | [Spiritunderfringe/Microsoft-Office](https://github.com/Spiritunderfringe/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritunderfringe/microsoft-office.md) |
 | [DestroyerLast28/Instagram-Liker-Bot](https://github.com/DestroyerLast28/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/destroyerlast28/instagram-liker-bot.md) |
 | [BrightVanquisherMold/PH-Downloader](https://github.com/BrightVanquisherMold/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brightvanquishermold/ph-downloader.md) |
-| [elstongun/leviathan](https://github.com/elstongun/leviathan) | Rust project | Runs in the browser with a free account | [guide](guides/elstongun/leviathan.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T02:11:01.370Z",
- "totalGuides": 196,
+ "updatedAt": "2026-10-06T02:11:01.571Z",
+ "totalGuides": 197,
  "items": [
+  {
+   "fullName": "Pointbenpartition/BorisFX",
+   "owner": "Pointbenpartition",
+   "name": "BorisFX",
+   "url": "https://github.com/Pointbenpartition/BorisFX",
+   "avatar": "https://avatars.githubusercontent.com/u/296668182?v=4",
+   "description": "Unleash advanced video editing capabilities with Borisfx, a comprehensive plugin solution that optimizes workflow efficiency and empowers seamless VFX...",
+   "language": null,
+   "topics": [
+    "bcc-plugins-effects",
+    "boris-fx-plugin-sapphire",
+    "boris-fx-sapphire",
+    "borisfx",
+    "borisfx-plugin-free",
+    "free-boris-fx",
+    "plugins-after-effects",
+    "sapphire-download"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-05T10:17:34Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T02:11:01.570Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Pointbenpartition/BorisFX",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Pointbenpartition/BorisFX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Pointbenpartition/BorisFX\nWhat it says it does: \"Unleash advanced video editing capabilities with Borisfx, a comprehensive plugin solution that optimizes workflow efficiency and empowers seamless VFX...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T02:11:01.570Z"
+  },
   {
    "fullName": "CicadaShanty/Display-Fusion",
    "owner": "CicadaShanty",
@@ -11944,7 +12001,7 @@
   }
  ],
  "levels": {
-  "read": 90,
+  "read": 91,
   "account": 63,
   "instant": 15,
   "heavy": 28

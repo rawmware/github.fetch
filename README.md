@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_217 guides written so far · last update 2026-10-06 09:04 UTC_
+_218 guides written so far · last update 2026-10-06 16:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kandinskylab/kandinsky-6](https://github.com/kandinskylab/kandinsky-6) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kandinskylab/kandinsky-6.md) |
 | [SlateElementalist/SystemCare-Pro](https://github.com/SlateElementalist/SystemCare-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slateelementalist/systemcare-pro.md) |
 | [Zombieandencoder/VoiceMod](https://github.com/Zombieandencoder/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zombieandencoder/voicemod.md) |
 | [radiansearise/VoiceChanger](https://github.com/radiansearise/VoiceChanger) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radiansearise/voicechanger.md) |
@@ -38,7 +39,6 @@ _217 guides written so far · last update 2026-10-06 09:04 UTC_
 | [Hiteater-wzm/eeo](https://github.com/Hiteater-wzm/eeo) | Docker app | Runs in the browser with a free account | [guide](guides/hiteater-wzm/eeo.md) |
 | [arielshad/3d-asset-server](https://github.com/arielshad/3d-asset-server) | Hono app | Runs in the browser with a free account | [guide](guides/arielshad/3d-asset-server.md) |
 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript project | Runs in the browser with a free account | [guide](guides/alchaincyf/huashu-art-motion.md) |
-| [yoge7388095s/eth-trading-bot](https://github.com/yoge7388095s/eth-trading-bot) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yoge7388095s/eth-trading-bot.md) |
 <!-- latest:end -->
 
 ## How it works

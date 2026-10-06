@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_201 guides written so far · last update 2026-10-06 09:04 UTC_
+_202 guides written so far · last update 2026-10-06 09:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [fuchsiaravengrade/Autodesk-CFD](https://github.com/fuchsiaravengrade/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuchsiaravengrade/autodesk-cfd.md) |
 | [LogoJumper64/Adobe-Photoshop](https://github.com/LogoJumper64/Adobe-Photoshop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/logojumper64/adobe-photoshop.md) |
 | [slayerwidowforum/Microsoft-365](https://github.com/slayerwidowforum/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slayerwidowforum/microsoft-365.md) |
 | [DeckhandCelebrate/Catia-Cad](https://github.com/DeckhandCelebrate/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deckhandcelebrate/catia-cad.md) |
@@ -38,7 +39,6 @@ _201 guides written so far · last update 2026-10-06 09:04 UTC_
 | [Diamondbenenergize/FL-Studio](https://github.com/Diamondbenenergize/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diamondbenenergize/fl-studio.md) |
 | [pyramidqueenyell/AnyUnlock](https://github.com/pyramidqueenyell/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pyramidqueenyell/anyunlock.md) |
 | [CrownScreenDescribe/SlideShow-Video-Maker](https://github.com/CrownScreenDescribe/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crownscreendescribe/slideshow-video-maker.md) |
-| [Rainfoderrick/Microsoft-Visio](https://github.com/Rainfoderrick/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainfoderrick/microsoft-visio.md) |
 <!-- latest:end -->
 
 ## How it works

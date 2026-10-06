@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_199 guides written so far · last update 2026-10-06 09:04 UTC_
+_200 guides written so far · last update 2026-10-06 09:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [slayerwidowforum/Microsoft-365](https://github.com/slayerwidowforum/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slayerwidowforum/microsoft-365.md) |
 | [DeckhandCelebrate/Catia-Cad](https://github.com/DeckhandCelebrate/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deckhandcelebrate/catia-cad.md) |
 | [planeheadforge56/AutoCad](https://github.com/planeheadforge56/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planeheadforge56/autocad.md) |
 | [Pointbenpartition/BorisFX](https://github.com/Pointbenpartition/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pointbenpartition/borisfx.md) |
@@ -38,7 +39,6 @@ _199 guides written so far · last update 2026-10-06 09:04 UTC_
 | [CrownScreenDescribe/SlideShow-Video-Maker](https://github.com/CrownScreenDescribe/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crownscreendescribe/slideshow-video-maker.md) |
 | [Rainfoderrick/Microsoft-Visio](https://github.com/Rainfoderrick/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainfoderrick/microsoft-visio.md) |
 | [AgentMemoryRepo/agentmemoryrepo](https://github.com/AgentMemoryRepo/agentmemoryrepo) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/agentmemoryrepo/agentmemoryrepo.md) |
-| [Spiritunderfringe/Microsoft-Office](https://github.com/Spiritunderfringe/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritunderfringe/microsoft-office.md) |
 <!-- latest:end -->
 
 ## How it works

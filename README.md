@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_198 guides written so far · last update 2026-10-06 02:11 UTC_
+_199 guides written so far · last update 2026-10-06 09:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DeckhandCelebrate/Catia-Cad](https://github.com/DeckhandCelebrate/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deckhandcelebrate/catia-cad.md) |
 | [planeheadforge56/AutoCad](https://github.com/planeheadforge56/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planeheadforge56/autocad.md) |
 | [Pointbenpartition/BorisFX](https://github.com/Pointbenpartition/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pointbenpartition/borisfx.md) |
 | [CicadaShanty/Display-Fusion](https://github.com/CicadaShanty/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cicadashanty/display-fusion.md) |
@@ -38,7 +39,6 @@ _198 guides written so far · last update 2026-10-06 02:11 UTC_
 | [Rainfoderrick/Microsoft-Visio](https://github.com/Rainfoderrick/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainfoderrick/microsoft-visio.md) |
 | [AgentMemoryRepo/agentmemoryrepo](https://github.com/AgentMemoryRepo/agentmemoryrepo) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/agentmemoryrepo/agentmemoryrepo.md) |
 | [Spiritunderfringe/Microsoft-Office](https://github.com/Spiritunderfringe/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritunderfringe/microsoft-office.md) |
-| [DestroyerLast28/Instagram-Liker-Bot](https://github.com/DestroyerLast28/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/destroyerlast28/instagram-liker-bot.md) |
 <!-- latest:end -->
 
 ## How it works

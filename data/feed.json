@@ -1,8 +1,81 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T20:54:40.658Z",
- "totalGuides": 236,
+ "updatedAt": "2026-10-06T20:54:41.033Z",
+ "totalGuides": 237,
  "items": [
+  {
+   "fullName": "VelaPayments/vela-payments",
+   "owner": "VelaPayments",
+   "name": "vela-payments",
+   "url": "https://github.com/VelaPayments/vela-payments",
+   "avatar": "https://avatars.githubusercontent.com/u/338302766?v=4",
+   "description": "Open-source mobile payment prototype on Stellar, featuring NFC payment requests, XLM and USDC wallets, and passkey access.",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 131,
+   "forks": 130,
+   "createdAt": "2026-10-05T20:46:00Z",
+   "branch": "main",
+   "homepage": "https://vela-payments.vercel.app/",
+   "addedAt": "2026-10-06T20:54:41.031Z",
+   "stack": {
+    "kind": "node",
+    "label": "React app",
+    "frameworks": [
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/VelaPayments/vela-payments",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm start`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/VelaPayments/vela-payments",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/VelaPayments/vela-payments?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/VelaPayments/vela-payments",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/VelaPayments/vela-payments/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm start",
+   "notes": [
+    "Uses react-native, expo, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/VelaPayments/vela-payments.git\ncd vela-payments\nnpm install\nnpm start",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/VelaPayments/vela-payments\nWhat it says it does: \"Open-source mobile payment prototype on Stellar, featuring NFC payment requests, XLM and USDC wallets, and passkey access.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T20:54:41.031Z"
+  },
   {
    "fullName": "VelaPayments/vela-server",
    "owner": "VelaPayments",
@@ -14441,9 +14514,9 @@
   }
  ],
  "levels": {
+  "account": 78,
   "instant": 19,
   "heavy": 34,
-  "account": 77,
   "read": 106
  }
 }

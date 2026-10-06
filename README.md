@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_235 guides written so far · last update 2026-10-06 16:00 UTC_
+_236 guides written so far · last update 2026-10-06 20:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VelaPayments/vela-server](https://github.com/VelaPayments/vela-server) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/velapayments/vela-server.md) |
 | [BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo](https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/bq-wang0511/talklikeyou-streaming-realtime-demo.md) |
 | [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) | TypeScript project | Runs in the browser with a free account | [guide](guides/johnnyvizz/claude-kit.md) |
 | [Sp9nky/unofficial-stremio-ps5-port](https://github.com/Sp9nky/unofficial-stremio-ps5-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/sp9nky/unofficial-stremio-ps5-port.md) |
@@ -38,7 +39,6 @@ _235 guides written so far · last update 2026-10-06 16:00 UTC_
 | [kamil9966/CAPEv2-Sandbox-plugin-Procmon-Events-v1](https://github.com/kamil9966/CAPEv2-Sandbox-plugin-Procmon-Events-v1) | Python project | Runs in the browser with a free account | [guide](guides/kamil9966/capev2-sandbox-plugin-procmon-events-v1.md) |
 | [deity6/softlab](https://github.com/deity6/softlab) | Vite app | Runs in a browser tab, no account needed | [guide](guides/deity6/softlab.md) |
 | [TekRantGaming/king-kong-recompiled](https://github.com/TekRantGaming/king-kong-recompiled) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/tekrantgaming/king-kong-recompiled.md) |
-| [chenxiachan/paperfold](https://github.com/chenxiachan/paperfold) | Python project | Runs in the browser with a free account | [guide](guides/chenxiachan/paperfold.md) |
 <!-- latest:end -->
 
 ## How it works

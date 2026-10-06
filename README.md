@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_192 guides written so far · last update 2026-10-06 02:11 UTC_
+_193 guides written so far · last update 2026-10-06 02:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Diamondbenenergize/FL-Studio](https://github.com/Diamondbenenergize/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diamondbenenergize/fl-studio.md) |
 | [pyramidqueenyell/AnyUnlock](https://github.com/pyramidqueenyell/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pyramidqueenyell/anyunlock.md) |
 | [CrownScreenDescribe/SlideShow-Video-Maker](https://github.com/CrownScreenDescribe/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crownscreendescribe/slideshow-video-maker.md) |
 | [Rainfoderrick/Microsoft-Visio](https://github.com/Rainfoderrick/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainfoderrick/microsoft-visio.md) |
@@ -38,7 +39,6 @@ _192 guides written so far · last update 2026-10-06 02:11 UTC_
 | [Civilcliadapt/Reason-14](https://github.com/Civilcliadapt/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/civilcliadapt/reason-14.md) |
 | [uniteoceanunderpass/Serato-DJ-Pro](https://github.com/uniteoceanunderpass/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/uniteoceanunderpass/serato-dj-pro.md) |
 | [UnitMakerMetro/SketchUp-Pro](https://github.com/UnitMakerMetro/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unitmakermetro/sketchup-pro.md) |
-| [Minorthedisengage/Discord-Server-Raider](https://github.com/Minorthedisengage/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/minorthedisengage/discord-server-raider.md) |
 <!-- latest:end -->
 
 ## How it works

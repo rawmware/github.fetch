@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T09:04:38.030Z",
- "totalGuides": 216,
+ "updatedAt": "2026-10-06T09:04:38.275Z",
+ "totalGuides": 217,
  "items": [
+  {
+   "fullName": "SlateElementalist/SystemCare-Pro",
+   "owner": "SlateElementalist",
+   "name": "SystemCare-Pro",
+   "url": "https://github.com/SlateElementalist/SystemCare-Pro",
+   "avatar": "https://avatars.githubusercontent.com/u/296665654?v=4",
+   "description": "Systemcare Pro optimizes desktop performance by proactively managing processes and resources to enhance efficiency and extend hardware life in a...",
+   "language": null,
+   "topics": [
+    "app-remover",
+    "clean-up",
+    "deep-clean-windows-programs",
+    "device-cleanup",
+    "disk-defrag-tools",
+    "optimize-windows-storage",
+    "pc-health-advanced-systemcare",
+    "pc-storage-space-cleaner"
+   ],
+   "license": null,
+   "stars": 105,
+   "forks": 0,
+   "createdAt": "2026-10-05T10:31:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T09:04:38.274Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/SlateElementalist/SystemCare-Pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/SlateElementalist/SystemCare-Pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/SlateElementalist/SystemCare-Pro\nWhat it says it does: \"Systemcare Pro optimizes desktop performance by proactively managing processes and resources to enhance efficiency and extend hardware life in a...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T09:04:38.274Z"
+  },
   {
    "fullName": "Zombieandencoder/VoiceMod",
    "owner": "Zombieandencoder",
@@ -13145,7 +13202,7 @@
   }
  ],
  "levels": {
-  "read": 103,
+  "read": 104,
   "account": 69,
   "instant": 16,
   "heavy": 28

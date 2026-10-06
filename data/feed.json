@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T02:11:00.477Z",
- "totalGuides": 191,
+ "updatedAt": "2026-10-06T02:11:00.642Z",
+ "totalGuides": 192,
  "items": [
+  {
+   "fullName": "pyramidqueenyell/AnyUnlock",
+   "owner": "pyramidqueenyell",
+   "name": "AnyUnlock",
+   "url": "https://github.com/pyramidqueenyell/AnyUnlock",
+   "avatar": "https://avatars.githubusercontent.com/u/296665629?v=4",
+   "description": "Anyunlock optimizes your workflow by providing a seamless desktop software utility configuration.",
+   "language": null,
+   "topics": [
+    "apple-id-remove",
+    "apple-id-remover",
+    "device-tool",
+    "frp-tool",
+    "ios-bypass",
+    "ios-find-my-bypass",
+    "ios-jailbreak",
+    "ios-mdm-bypass"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-05T10:15:31Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T02:11:00.641Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/pyramidqueenyell/AnyUnlock",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/pyramidqueenyell/AnyUnlock/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/pyramidqueenyell/AnyUnlock\nWhat it says it does: \"Anyunlock optimizes your workflow by providing a seamless desktop software utility configuration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T02:11:00.641Z"
+  },
   {
    "fullName": "CrownScreenDescribe/SlideShow-Video-Maker",
    "owner": "CrownScreenDescribe",
@@ -11659,7 +11716,7 @@
   }
  ],
  "levels": {
-  "read": 85,
+  "read": 86,
   "account": 63,
   "instant": 15,
   "heavy": 28

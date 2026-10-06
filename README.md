@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_222 guides written so far · last update 2026-10-06 16:00 UTC_
+_223 guides written so far · last update 2026-10-06 16:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wieslawsoltes/VB6](https://github.com/wieslawsoltes/VB6) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/wieslawsoltes/vb6.md) |
 | [theblazehen/awesome-tern](https://github.com/theblazehen/awesome-tern) | Python project | Runs in the browser with a free account | [guide](guides/theblazehen/awesome-tern.md) |
 | [saidi-walid-architecte/saidi-walid-architecte.github.io](https://github.com/saidi-walid-architecte/saidi-walid-architecte.github.io) | Python project | Runs in the browser with a free account | [guide](guides/saidi-walid-architecte/saidi-walid-architecte.github.io.md) |
 | [RecordSlayerIdentify/shotcut-download](https://github.com/RecordSlayerIdentify/shotcut-download) | Python project | Runs in the browser with a free account | [guide](guides/recordslayeridentify/shotcut-download.md) |
@@ -38,7 +39,6 @@ _222 guides written so far · last update 2026-10-06 16:00 UTC_
 | [DragonPresident/Sylenth-1](https://github.com/DragonPresident/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dragonpresident/sylenth-1.md) |
 | [ForkOperativeNeedle/XYplorer](https://github.com/ForkOperativeNeedle/XYplorer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/forkoperativeneedle/xyplorer.md) |
 | [wildmillerspace/SonyVegas](https://github.com/wildmillerspace/SonyVegas) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wildmillerspace/sonyvegas.md) |
-| [MelodySwimmer/Ultra-Edit](https://github.com/MelodySwimmer/Ultra-Edit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/melodyswimmer/ultra-edit.md) |
 <!-- latest:end -->
 
 ## How it works

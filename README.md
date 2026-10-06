@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_226 guides written so far · last update 2026-10-06 16:00 UTC_
+_227 guides written so far · last update 2026-10-06 16:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kamil9966/CAPEv2-Sandbox-plugin-Procmon-Events-v1](https://github.com/kamil9966/CAPEv2-Sandbox-plugin-Procmon-Events-v1) | Python project | Runs in the browser with a free account | [guide](guides/kamil9966/capev2-sandbox-plugin-procmon-events-v1.md) |
 | [deity6/softlab](https://github.com/deity6/softlab) | Vite app | Runs in a browser tab, no account needed | [guide](guides/deity6/softlab.md) |
 | [TekRantGaming/king-kong-recompiled](https://github.com/TekRantGaming/king-kong-recompiled) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/tekrantgaming/king-kong-recompiled.md) |
 | [chenxiachan/paperfold](https://github.com/chenxiachan/paperfold) | Python project | Runs in the browser with a free account | [guide](guides/chenxiachan/paperfold.md) |
@@ -38,7 +39,6 @@ _226 guides written so far · last update 2026-10-06 16:00 UTC_
 | [kandinskylab/kandinsky-6](https://github.com/kandinskylab/kandinsky-6) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kandinskylab/kandinsky-6.md) |
 | [SlateElementalist/SystemCare-Pro](https://github.com/SlateElementalist/SystemCare-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slateelementalist/systemcare-pro.md) |
 | [Zombieandencoder/VoiceMod](https://github.com/Zombieandencoder/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zombieandencoder/voicemod.md) |
-| [radiansearise/VoiceChanger](https://github.com/radiansearise/VoiceChanger) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radiansearise/voicechanger.md) |
 <!-- latest:end -->
 
 ## How it works

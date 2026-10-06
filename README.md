@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_224 guides written so far · last update 2026-10-06 16:00 UTC_
+_225 guides written so far · last update 2026-10-06 16:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TekRantGaming/king-kong-recompiled](https://github.com/TekRantGaming/king-kong-recompiled) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/tekrantgaming/king-kong-recompiled.md) |
 | [chenxiachan/paperfold](https://github.com/chenxiachan/paperfold) | Python project | Runs in the browser with a free account | [guide](guides/chenxiachan/paperfold.md) |
 | [wieslawsoltes/VB6](https://github.com/wieslawsoltes/VB6) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/wieslawsoltes/vb6.md) |
 | [theblazehen/awesome-tern](https://github.com/theblazehen/awesome-tern) | Python project | Runs in the browser with a free account | [guide](guides/theblazehen/awesome-tern.md) |
@@ -38,7 +39,6 @@ _224 guides written so far · last update 2026-10-06 16:00 UTC_
 | [Zombieandencoder/VoiceMod](https://github.com/Zombieandencoder/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zombieandencoder/voicemod.md) |
 | [radiansearise/VoiceChanger](https://github.com/radiansearise/VoiceChanger) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radiansearise/voicechanger.md) |
 | [DragonPresident/Sylenth-1](https://github.com/DragonPresident/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dragonpresident/sylenth-1.md) |
-| [ForkOperativeNeedle/XYplorer](https://github.com/ForkOperativeNeedle/XYplorer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/forkoperativeneedle/xyplorer.md) |
 <!-- latest:end -->
 
 ## How it works

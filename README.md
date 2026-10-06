@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_214 guides written so far · last update 2026-10-06 09:04 UTC_
+_215 guides written so far · last update 2026-10-06 09:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [radiansearise/VoiceChanger](https://github.com/radiansearise/VoiceChanger) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radiansearise/voicechanger.md) |
 | [DragonPresident/Sylenth-1](https://github.com/DragonPresident/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dragonpresident/sylenth-1.md) |
 | [ForkOperativeNeedle/XYplorer](https://github.com/ForkOperativeNeedle/XYplorer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/forkoperativeneedle/xyplorer.md) |
 | [wildmillerspace/SonyVegas](https://github.com/wildmillerspace/SonyVegas) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wildmillerspace/sonyvegas.md) |
@@ -38,7 +39,6 @@ _214 guides written so far · last update 2026-10-06 09:04 UTC_
 | [yoge7388095s/eth-trading-bot](https://github.com/yoge7388095s/eth-trading-bot) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yoge7388095s/eth-trading-bot.md) |
 | [rit3zh/morphlet](https://github.com/rit3zh/morphlet) | React app | Runs in the browser with a free account | [guide](guides/rit3zh/morphlet.md) |
 | [Henryfud/werm](https://github.com/Henryfud/werm) | JavaScript project | Runs in the browser with a free account | [guide](guides/henryfud/werm.md) |
-| [CosmicVeteran/Ableton-Live-12](https://github.com/CosmicVeteran/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cosmicveteran/ableton-live-12.md) |
 <!-- latest:end -->
 
 ## How it works

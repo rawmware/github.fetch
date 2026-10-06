@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T16:00:09.817Z",
- "totalGuides": 228,
+ "updatedAt": "2026-10-06T16:00:10.181Z",
+ "totalGuides": 229,
  "items": [
+  {
+   "fullName": "lonewolf0622/HelixSR",
+   "owner": "lonewolf0622",
+   "name": "HelixSR",
+   "url": "https://github.com/lonewolf0622/HelixSR",
+   "avatar": "https://avatars.githubusercontent.com/u/308567310?v=4",
+   "description": "Drop-in FSR 3.1 upscaler for Direct3D 12 that runs DLSS's network (Model E) on AMD GPUs",
+   "language": null,
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 57,
+   "forks": 1,
+   "createdAt": "2026-10-05T10:19:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T16:00:10.181Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/lonewolf0622/HelixSR",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/lonewolf0622/HelixSR/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/lonewolf0622/HelixSR\nWhat it says it does: \"Drop-in FSR 3.1 upscaler for Direct3D 12 that runs DLSS's network (Model E) on AMD GPUs\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T16:00:10.181Z"
+  },
   {
    "fullName": "Gravelpaditch/Wardogs-utilite",
    "owner": "Gravelpaditch",
@@ -13947,7 +13995,7 @@
   }
  ],
  "levels": {
-  "read": 105,
+  "read": 106,
   "account": 74,
   "instant": 18,
   "heavy": 31

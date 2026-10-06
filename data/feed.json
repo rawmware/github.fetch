@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T09:04:36.975Z",
- "totalGuides": 211,
+ "updatedAt": "2026-10-06T09:04:37.209Z",
+ "totalGuides": 212,
  "items": [
+  {
+   "fullName": "wildmillerspace/SonyVegas",
+   "owner": "wildmillerspace",
+   "name": "SonyVegas",
+   "url": "https://github.com/wildmillerspace/SonyVegas",
+   "avatar": "https://avatars.githubusercontent.com/u/296665769?v=4",
+   "description": "Revolutionize your video editing workflow with 'Sonyvegas', a cutting-edge plugin solution designed for seamless integration of advanced VFX, screen...",
+   "language": null,
+   "topics": [
+    "activation-tools",
+    "magix-vegas-pro-project-files",
+    "media-rendering-windows-editor",
+    "sony-vegas",
+    "timelineediting",
+    "twixtor-pro-vegas-pro",
+    "vegas-21-free",
+    "vegas-pro-editing-techniques"
+   ],
+   "license": null,
+   "stars": 107,
+   "forks": 0,
+   "createdAt": "2026-10-05T10:30:34Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T09:04:37.208Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/wildmillerspace/SonyVegas",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/wildmillerspace/SonyVegas/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/wildmillerspace/SonyVegas\nWhat it says it does: \"Revolutionize your video editing workflow with 'Sonyvegas', a cutting-edge plugin solution designed for seamless integration of advanced VFX, screen...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T09:04:37.208Z"
+  },
   {
    "fullName": "MelodySwimmer/Ultra-Edit",
    "owner": "MelodySwimmer",
@@ -12862,7 +12919,7 @@
   }
  ],
  "levels": {
-  "read": 98,
+  "read": 99,
   "account": 69,
   "instant": 16,
   "heavy": 28

@@ -1,8 +1,81 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T09:04:35.841Z",
- "totalGuides": 207,
+ "updatedAt": "2026-10-06T09:04:36.144Z",
+ "totalGuides": 208,
  "items": [
+  {
+   "fullName": "arielshad/3d-asset-server",
+   "owner": "arielshad",
+   "name": "3d-asset-server",
+   "url": "https://github.com/arielshad/3d-asset-server",
+   "avatar": "https://avatars.githubusercontent.com/u/6851755?v=4",
+   "description": "3d assets api and mcp",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 127,
+   "forks": 10,
+   "createdAt": "2026-10-04T19:28:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T09:04:36.143Z",
+   "stack": {
+    "kind": "node",
+    "label": "Hono app",
+    "frameworks": [
+     "Hono"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/arielshad/3d-asset-server",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/arielshad/3d-asset-server",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/arielshad/3d-asset-server?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/arielshad/3d-asset-server",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/arielshad/3d-asset-server/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [
+    "Uses sharp, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/arielshad/3d-asset-server.git\ncd 3d-asset-server\nnpm install\nnpm run dev",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/arielshad/3d-asset-server\nWhat it says it does: \"3d assets api and mcp\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T09:04:36.143Z"
+  },
   {
    "fullName": "alchaincyf/huashu-art-motion",
    "owner": "alchaincyf",
@@ -12618,7 +12691,7 @@
   }
  ],
  "levels": {
-  "account": 66,
+  "account": 67,
   "instant": 16,
   "read": 97,
   "heavy": 28

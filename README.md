@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_207 guides written so far · last update 2026-10-06 09:04 UTC_
+_208 guides written so far · last update 2026-10-06 09:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [arielshad/3d-asset-server](https://github.com/arielshad/3d-asset-server) | Hono app | Runs in the browser with a free account | [guide](guides/arielshad/3d-asset-server.md) |
 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript project | Runs in the browser with a free account | [guide](guides/alchaincyf/huashu-art-motion.md) |
 | [yoge7388095s/eth-trading-bot](https://github.com/yoge7388095s/eth-trading-bot) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yoge7388095s/eth-trading-bot.md) |
 | [rit3zh/morphlet](https://github.com/rit3zh/morphlet) | React app | Runs in the browser with a free account | [guide](guides/rit3zh/morphlet.md) |
@@ -38,7 +39,6 @@ _207 guides written so far · last update 2026-10-06 09:04 UTC_
 | [DeckhandCelebrate/Catia-Cad](https://github.com/DeckhandCelebrate/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deckhandcelebrate/catia-cad.md) |
 | [planeheadforge56/AutoCad](https://github.com/planeheadforge56/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planeheadforge56/autocad.md) |
 | [Pointbenpartition/BorisFX](https://github.com/Pointbenpartition/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pointbenpartition/borisfx.md) |
-| [CicadaShanty/Display-Fusion](https://github.com/CicadaShanty/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cicadashanty/display-fusion.md) |
 <!-- latest:end -->
 
 ## How it works

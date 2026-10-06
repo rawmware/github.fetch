@@ -1,8 +1,61 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T20:54:42.220Z",
- "totalGuides": 241,
+ "updatedAt": "2026-10-06T20:54:42.404Z",
+ "totalGuides": 242,
  "items": [
+  {
+   "fullName": "Lavawithinform/rainbow-r6-menu",
+   "owner": "Lavawithinform",
+   "name": "rainbow-r6-menu",
+   "url": "https://github.com/Lavawithinform/rainbow-r6-menu",
+   "avatar": "https://avatars.githubusercontent.com/u/332428276?v=4",
+   "description": "helpful menu with aim, wh and many, others fucntions for free!",
+   "language": null,
+   "topics": [
+    "r6-siege-cheat",
+    "rainbow-six-siege-macros",
+    "rainbow-six-siege-x",
+    "rainbow6siege"
+   ],
+   "license": null,
+   "stars": 53,
+   "forks": 0,
+   "createdAt": "2026-10-05T14:24:29Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T20:54:42.403Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Lavawithinform/rainbow-r6-menu",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Lavawithinform/rainbow-r6-menu/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Lavawithinform/rainbow-r6-menu\nWhat it says it does: \"helpful menu with aim, wh and many, others fucntions for free!\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T20:54:42.403Z"
+  },
   {
    "fullName": "sahenjp/rustdsh",
    "owner": "sahenjp",
@@ -14787,9 +14840,9 @@
   }
  ],
  "levels": {
+  "read": 107,
   "account": 82,
   "instant": 19,
-  "heavy": 34,
-  "read": 106
+  "heavy": 34
  }
 }

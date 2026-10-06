@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_241 guides written so far · last update 2026-10-06 20:54 UTC_
+_242 guides written so far · last update 2026-10-06 20:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Lavawithinform/rainbow-r6-menu](https://github.com/Lavawithinform/rainbow-r6-menu) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavawithinform/rainbow-r6-menu.md) |
 | [sahenjp/rustdsh](https://github.com/sahenjp/rustdsh) | Rust project | Runs in the browser with a free account | [guide](guides/sahenjp/rustdsh.md) |
 | [VinkyDev/vibestart](https://github.com/VinkyDev/vibestart) | Vite app | Runs in the browser with a free account | [guide](guides/vinkydev/vibestart.md) |
 | [obie/auto-handoff](https://github.com/obie/auto-handoff) | TypeScript project | Runs in the browser with a free account | [guide](guides/obie/auto-handoff.md) |
@@ -38,7 +39,6 @@ _241 guides written so far · last update 2026-10-06 20:54 UTC_
 | [Sp9nky/unofficial-stremio-ps5-port](https://github.com/Sp9nky/unofficial-stremio-ps5-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/sp9nky/unofficial-stremio-ps5-port.md) |
 | [rakesh0x/OpenCardboard](https://github.com/rakesh0x/OpenCardboard) | JavaScript project | Runs in the browser with a free account | [guide](guides/rakesh0x/opencardboard.md) |
 | [alexngdev99/rork-seaport-logistics-3d](https://github.com/alexngdev99/rork-seaport-logistics-3d) | TypeScript project | Runs in the browser with a free account | [guide](guides/alexngdev99/rork-seaport-logistics-3d.md) |
-| [charlesvestal/fm1-x0x](https://github.com/charlesvestal/fm1-x0x) | C project | Needs a real machine (or a GPU) to run | [guide](guides/charlesvestal/fm1-x0x.md) |
 <!-- latest:end -->
 
 ## How it works

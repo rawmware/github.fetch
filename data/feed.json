@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-06T09:04:36.144Z",
- "totalGuides": 208,
+ "updatedAt": "2026-10-06T09:04:36.362Z",
+ "totalGuides": 209,
  "items": [
+  {
+   "fullName": "Hiteater-wzm/eeo",
+   "owner": "Hiteater-wzm",
+   "name": "eeo",
+   "url": "https://github.com/Hiteater-wzm/eeo",
+   "avatar": "https://avatars.githubusercontent.com/u/338094245?v=4",
+   "description": "An open community where brands define themselves for AI",
+   "language": "JavaScript",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 116,
+   "forks": 15,
+   "createdAt": "2026-10-05T12:24:03Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-06T09:04:36.361Z",
+   "stack": {
+    "kind": "docker",
+    "label": "Docker app",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Hiteater-wzm/eeo?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Hiteater-wzm/eeo",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Hiteater-wzm/eeo/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "docker build -t app . && docker run -p 8080:8080 app",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Hiteater-wzm/eeo.git\ncd eeo\ndocker build -t app . && docker run -p 8080:8080 app",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Hiteater-wzm/eeo\nWhat it says it does: \"An open community where brands define themselves for AI\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-06T09:04:36.361Z"
+  },
   {
    "fullName": "arielshad/3d-asset-server",
    "owner": "arielshad",
@@ -12691,7 +12746,7 @@
   }
  ],
  "levels": {
-  "account": 67,
+  "account": 68,
   "instant": 16,
   "read": 97,
   "heavy": 28

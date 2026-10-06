@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_208 guides written so far · last update 2026-10-06 09:04 UTC_
+_209 guides written so far · last update 2026-10-06 09:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Hiteater-wzm/eeo](https://github.com/Hiteater-wzm/eeo) | Docker app | Runs in the browser with a free account | [guide](guides/hiteater-wzm/eeo.md) |
 | [arielshad/3d-asset-server](https://github.com/arielshad/3d-asset-server) | Hono app | Runs in the browser with a free account | [guide](guides/arielshad/3d-asset-server.md) |
 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript project | Runs in the browser with a free account | [guide](guides/alchaincyf/huashu-art-motion.md) |
 | [yoge7388095s/eth-trading-bot](https://github.com/yoge7388095s/eth-trading-bot) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yoge7388095s/eth-trading-bot.md) |
@@ -38,7 +39,6 @@ _208 guides written so far · last update 2026-10-06 09:04 UTC_
 | [slayerwidowforum/Microsoft-365](https://github.com/slayerwidowforum/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slayerwidowforum/microsoft-365.md) |
 | [DeckhandCelebrate/Catia-Cad](https://github.com/DeckhandCelebrate/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deckhandcelebrate/catia-cad.md) |
 | [planeheadforge56/AutoCad](https://github.com/planeheadforge56/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planeheadforge56/autocad.md) |
-| [Pointbenpartition/BorisFX](https://github.com/Pointbenpartition/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pointbenpartition/borisfx.md) |
 <!-- latest:end -->
 
 ## How it works

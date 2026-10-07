@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T00:34:59.450Z",
- "totalGuides": 251,
+ "updatedAt": "2026-10-07T00:34:59.675Z",
+ "totalGuides": 252,
  "items": [
+  {
+   "fullName": "KJGX66F/free-proxy-airport-cf",
+   "owner": "KJGX66F",
+   "name": "free-proxy-airport-cf",
+   "url": "https://github.com/KJGX66F/free-proxy-airport-cf",
+   "avatar": "https://avatars.githubusercontent.com/u/300279924?v=4",
+   "description": "一个轻量、高效的 Cloudflare Worker 订阅代理与透传转换服务。支持 1:1 原汁原味透传 Clash (YAML) 完整配置与通用 Base64 订阅，具备多 CDN 容灾加速、自定义访问后缀（Token）防扒保护以及动态 URL 代理转换功能。机场级体验的 Clash Verge / Mihomo 免费节点订阅系统。 每 30 分钟自动聚合公开免费节点源，执行真实延迟测试，剔除超时和无效节点，并按健康评分生成自动分组。",
+   "language": "JavaScript",
+   "topics": [],
+   "license": null,
+   "stars": 53,
+   "forks": 9,
+   "createdAt": "2026-10-05T08:08:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T00:34:59.674Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/KJGX66F/free-proxy-airport-cf?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/KJGX66F/free-proxy-airport-cf",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/KJGX66F/free-proxy-airport-cf/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/KJGX66F/free-proxy-airport-cf.git\ncd free-proxy-airport-cf",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/KJGX66F/free-proxy-airport-cf\nWhat it says it does: \"一个轻量、高效的 Cloudflare Worker 订阅代理与透传转换服务。支持 1:1 原汁原味透传 Clash (YAML) 完整配置与通用 Base64 订阅，具备多 CDN 容灾加速、自定义访问后缀（Token）防扒保护以及动态 URL 代理转换功能。机场级体验的 Clash Verge / Mihomo 免费节点订阅系统。 每 30 分钟自动聚合公开免费节点源，执行真实延迟测试，剔除超时和无效节点，并按健康评分生成自动分组。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T00:34:59.674Z"
+  },
   {
    "fullName": "canberk7/ema-lightning",
    "owner": "canberk7",
@@ -15422,8 +15477,8 @@
   }
  ],
  "levels": {
+  "account": 87,
   "heavy": 36,
-  "account": 86,
   "read": 109,
   "instant": 20
  }

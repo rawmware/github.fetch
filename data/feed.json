@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T19:52:39.440Z",
- "totalGuides": 292,
+ "updatedAt": "2026-10-07T19:52:39.785Z",
+ "totalGuides": 293,
  "items": [
+  {
+   "fullName": "Pluviobyte/dot2api",
+   "owner": "Pluviobyte",
+   "name": "dot2api",
+   "url": "https://github.com/Pluviobyte/dot2api",
+   "avatar": "https://avatars.githubusercontent.com/u/94058511?v=4",
+   "description": "Turn your OpenAI Dot into an OpenAI- and Claude-compatible API",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 94,
+   "forks": 11,
+   "createdAt": "2026-10-06T06:33:50Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T19:52:39.784Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Pluviobyte/dot2api/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Pluviobyte/dot2api?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Pluviobyte/dot2api",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Pluviobyte/dot2api/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/Pluviobyte/dot2api.git\ncd dot2api\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Pluviobyte/dot2api\nWhat it says it does: \"Turn your OpenAI Dot into an OpenAI- and Claude-compatible API\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T19:52:39.784Z"
+  },
   {
    "fullName": "iamlukethedev/Herald-OS",
    "owner": "iamlukethedev",
@@ -18064,7 +18130,7 @@
   }
  ],
  "levels": {
-  "account": 116,
+  "account": 117,
   "instant": 24,
   "heavy": 42,
   "read": 110

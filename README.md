@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_292 guides written so far · last update 2026-10-07 19:52 UTC_
+_293 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Pluviobyte/dot2api](https://github.com/Pluviobyte/dot2api) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/pluviobyte/dot2api.md) |
 | [iamlukethedev/Herald-OS](https://github.com/iamlukethedev/Herald-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/iamlukethedev/herald-os.md) |
 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Python project | Runs in the browser with a free account | [guide](guides/losalossantos/aurelio-finance.md) |
 | [storytold/soundcraft](https://github.com/storytold/soundcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/soundcraft.md) |
@@ -38,7 +39,6 @@ _292 guides written so far · last update 2026-10-07 19:52 UTC_
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/cadcraft.md) |
 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/wordcraft.md) |
 | [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/loreanxavier/pt-pc.md) |
-| [mushigaite/short-video-maker](https://github.com/mushigaite/short-video-maker) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/mushigaite/short-video-maker.md) |
 <!-- latest:end -->
 
 ## How it works

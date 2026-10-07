@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T13:51:04.928Z",
- "totalGuides": 271,
+ "updatedAt": "2026-10-07T13:51:05.195Z",
+ "totalGuides": 272,
  "items": [
+  {
+   "fullName": "szabadkai/c64-keyboard-font",
+   "owner": "szabadkai",
+   "name": "c64-keyboard-font",
+   "url": "https://github.com/szabadkai/c64-keyboard-font",
+   "avatar": "https://avatars.githubusercontent.com/u/5462129?v=4",
+   "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 262,
+   "forks": 4,
+   "createdAt": "2026-10-05T11:03:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T13:51:05.194Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/szabadkai/c64-keyboard-font/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/szabadkai/c64-keyboard-font?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/szabadkai/c64-keyboard-font",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/szabadkai/c64-keyboard-font/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/szabadkai/c64-keyboard-font.git\ncd c64-keyboard-font\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/szabadkai/c64-keyboard-font\nWhat it says it does: \"Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T13:51:05.194Z"
+  },
   {
    "fullName": "alejandrobujan/tendedero",
    "owner": "alejandrobujan",
@@ -16729,8 +16791,8 @@
   }
  ],
  "levels": {
+  "account": 98,
   "heavy": 41,
-  "account": 97,
   "instant": 23,
   "read": 110
  }

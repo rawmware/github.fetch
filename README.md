@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_284 guides written so far · last update 2026-10-07 13:51 UTC_
+_285 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [accomplish999/position-sizer](https://github.com/accomplish999/position-sizer) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/accomplish999/position-sizer.md) |
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/cadcraft.md) |
 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/wordcraft.md) |
 | [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/loreanxavier/pt-pc.md) |
@@ -38,7 +39,6 @@ _284 guides written so far · last update 2026-10-07 13:51 UTC_
 | [Stellar-tradehub/stellar-trade-contracts](https://github.com/Stellar-tradehub/stellar-trade-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade-contracts.md) |
 | [Stellar-tradehub/stellar-trade](https://github.com/Stellar-tradehub/stellar-trade) | Shell project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade.md) |
 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust project | Runs in the browser with a free account | [guide](guides/nullmoth/nvidia-macos-driver.md) |
-| [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust project | Runs in the browser with a free account | [guide](guides/pingdotgg/ts-rust.md) |
 <!-- latest:end -->
 
 ## How it works

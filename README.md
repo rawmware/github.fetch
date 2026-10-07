@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_282 guides written so far · last update 2026-10-07 13:51 UTC_
+_283 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/wordcraft.md) |
 | [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/loreanxavier/pt-pc.md) |
 | [mushigaite/short-video-maker](https://github.com/mushigaite/short-video-maker) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/mushigaite/short-video-maker.md) |
 | [atmirrr/persian-motion-director](https://github.com/atmirrr/persian-motion-director) | JavaScript project | Runs in the browser with a free account | [guide](guides/atmirrr/persian-motion-director.md) |
@@ -38,7 +39,6 @@ _282 guides written so far · last update 2026-10-07 13:51 UTC_
 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust project | Runs in the browser with a free account | [guide](guides/nullmoth/nvidia-macos-driver.md) |
 | [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust project | Runs in the browser with a free account | [guide](guides/pingdotgg/ts-rust.md) |
 | [szabadkai/c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font) | Python project | Runs in the browser with a free account | [guide](guides/szabadkai/c64-keyboard-font.md) |
-| [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/alejandrobujan/tendedero.md) |
 <!-- latest:end -->
 
 ## How it works

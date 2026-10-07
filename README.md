@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_249 guides written so far · last update 2026-10-07 00:34 UTC_
+_250 guides written so far · last update 2026-10-07 00:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7](https://github.com/ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/threatinteractive/prototype-swrt-hard-shadows-for-ue5.7.md) |
 | [nickvasilescu/bops](https://github.com/nickvasilescu/bops) | Next.js app | Runs in the browser with a free account | [guide](guides/nickvasilescu/bops.md) |
 | [kirohack-official/kirohack](https://github.com/kirohack-official/kirohack) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kirohack-official/kirohack.md) |
 | [dualface/ste-zh](https://github.com/dualface/ste-zh) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dualface/ste-zh.md) |
@@ -38,7 +39,6 @@ _249 guides written so far · last update 2026-10-07 00:34 UTC_
 | [sahenjp/rustdsh](https://github.com/sahenjp/rustdsh) | Rust project | Runs in the browser with a free account | [guide](guides/sahenjp/rustdsh.md) |
 | [VinkyDev/vibestart](https://github.com/VinkyDev/vibestart) | Vite app | Runs in the browser with a free account | [guide](guides/vinkydev/vibestart.md) |
 | [obie/auto-handoff](https://github.com/obie/auto-handoff) | TypeScript project | Runs in the browser with a free account | [guide](guides/obie/auto-handoff.md) |
-| [longsurf-ai/openchart](https://github.com/longsurf-ai/openchart) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/openchart.md) |
 <!-- latest:end -->
 
 ## How it works

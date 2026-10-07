@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T19:52:38.909Z",
- "totalGuides": 290,
+ "updatedAt": "2026-10-07T19:52:39.134Z",
+ "totalGuides": 291,
  "items": [
+  {
+   "fullName": "LosaLosSantos/aurelio-finance",
+   "owner": "LosaLosSantos",
+   "name": "aurelio-finance",
+   "url": "https://github.com/LosaLosSantos/aurelio-finance",
+   "avatar": "https://avatars.githubusercontent.com/u/154470154?v=4",
+   "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+   "language": "Python",
+   "topics": [
+    "ai",
+    "fastapi",
+    "fintech",
+    "net-worth",
+    "personal-finance",
+    "portfolio-tracker",
+    "python",
+    "react"
+   ],
+   "license": "MIT",
+   "stars": 107,
+   "forks": 10,
+   "createdAt": "2026-10-06T20:14:19Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T19:52:39.133Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/LosaLosSantos/aurelio-finance/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/LosaLosSantos/aurelio-finance?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/LosaLosSantos/aurelio-finance",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LosaLosSantos/aurelio-finance/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/LosaLosSantos/aurelio-finance.git\ncd aurelio-finance",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/LosaLosSantos/aurelio-finance\nWhat it says it does: \"Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T19:52:39.133Z"
+  },
   {
    "fullName": "storytold/soundcraft",
    "owner": "storytold",
@@ -17913,7 +17984,7 @@
   }
  ],
  "levels": {
-  "account": 114,
+  "account": 115,
   "instant": 24,
   "heavy": 42,
   "read": 110

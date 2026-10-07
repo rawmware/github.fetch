@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_270 guides written so far · last update 2026-10-07 06:33 UTC_
+_271 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/alejandrobujan/tendedero.md) |
 | [weezerhunter/Supper-Board](https://github.com/weezerhunter/Supper-Board) | HTML project | Runs in the browser with a free account | [guide](guides/weezerhunter/supper-board.md) |
 | [iill392/youlong-security](https://github.com/iill392/youlong-security) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/iill392/youlong-security.md) |
 | [THUROI0787/absent-author](https://github.com/THUROI0787/absent-author) | Python project | Runs in the browser with a free account | [guide](guides/thuroi0787/absent-author.md) |
@@ -38,7 +39,6 @@ _270 guides written so far · last update 2026-10-07 06:33 UTC_
 | [kenkorasu/seed-phrase-generator](https://github.com/kenkorasu/seed-phrase-generator) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/kenkorasu/seed-phrase-generator.md) |
 | [FlashLionNight/amnezia-vpn-download](https://github.com/FlashLionNight/amnezia-vpn-download) | Python project | Runs in the browser with a free account | [guide](guides/flashlionnight/amnezia-vpn-download.md) |
 | [kigouu66/FPS-booster-2026-byKigouu66](https://github.com/kigouu66/FPS-booster-2026-byKigouu66) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kigouu66/fps-booster-2026-bykigouu66.md) |
-| [Convergeflucool/hubspot-crm-download](https://github.com/Convergeflucool/hubspot-crm-download) | Python project | Runs in the browser with a free account | [guide](guides/convergeflucool/hubspot-crm-download.md) |
 <!-- latest:end -->
 
 ## How it works

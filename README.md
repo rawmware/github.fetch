@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_299 guides written so far · last update 2026-10-07 19:52 UTC_
+_300 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/psp-web-recomp.md) |
 | [orange2ai/podcast-to-article](https://github.com/orange2ai/podcast-to-article) | Python project | Runs in the browser with a free account | [guide](guides/orange2ai/podcast-to-article.md) |
 | [opencoredev/convt](https://github.com/opencoredev/convt) | JavaScript project | Runs in the browser with a free account | [guide](guides/opencoredev/convt.md) |
 | [xamjiang/handout-remake](https://github.com/xamjiang/handout-remake) | CSS project | Runs in the browser with a free account | [guide](guides/xamjiang/handout-remake.md) |
@@ -38,7 +39,6 @@ _299 guides written so far · last update 2026-10-07 19:52 UTC_
 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Python project | Runs in the browser with a free account | [guide](guides/losalossantos/aurelio-finance.md) |
 | [storytold/soundcraft](https://github.com/storytold/soundcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/soundcraft.md) |
 | [storytold/deckcraft](https://github.com/storytold/deckcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/deckcraft.md) |
-| [storytold/craft-fonts](https://github.com/storytold/craft-fonts) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-fonts.md) |
 <!-- latest:end -->
 
 ## How it works

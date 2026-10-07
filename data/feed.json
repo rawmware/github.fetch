@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T06:33:30.758Z",
- "totalGuides": 261,
+ "updatedAt": "2026-10-07T06:33:30.971Z",
+ "totalGuides": 262,
  "items": [
+  {
+   "fullName": "kenkorasu/seed-phrase-generator",
+   "owner": "kenkorasu",
+   "name": "seed-phrase-generator",
+   "url": "https://github.com/kenkorasu/seed-phrase-generator",
+   "avatar": "https://avatars.githubusercontent.com/u/314910312?v=4",
+   "description": "WalletGen - Seed Phrase generator / checker / finder / bruteforce for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
+   "language": "C++",
+   "topics": [
+    "auto-withdraw",
+    "auto-withdraw-bot",
+    "auto-withdraw-script",
+    "browser-wallet-sdk",
+    "brute-force-tool",
+    "checker-crypto",
+    "crypto-checker-tool",
+    "crypto-tools-airdrop"
+   ],
+   "license": "MIT",
+   "stars": 49,
+   "forks": 8,
+   "createdAt": "2026-10-06T12:58:54Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T06:33:30.970Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/kenkorasu/seed-phrase-generator?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/kenkorasu/seed-phrase-generator",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kenkorasu/seed-phrase-generator/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/kenkorasu/seed-phrase-generator.git\ncd seed-phrase-generator",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/kenkorasu/seed-phrase-generator\nWhat it says it does: \"WalletGen - Seed Phrase generator / checker / finder / bruteforce for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T06:33:30.970Z"
+  },
   {
    "fullName": "FlashLionNight/amnezia-vpn-download",
    "owner": "FlashLionNight",
@@ -16092,9 +16158,9 @@
   }
  ],
  "levels": {
+  "heavy": 38,
   "account": 92,
   "read": 110,
-  "instant": 22,
-  "heavy": 37
+  "instant": 22
  }
 }

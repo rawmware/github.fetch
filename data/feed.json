@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T06:33:29.532Z",
- "totalGuides": 255,
+ "updatedAt": "2026-10-07T06:33:29.709Z",
+ "totalGuides": 256,
  "items": [
+  {
+   "fullName": "Tejashmakwana/motionmaxxing",
+   "owner": "Tejashmakwana",
+   "name": "motionmaxxing",
+   "url": "https://github.com/Tejashmakwana/motionmaxxing",
+   "avatar": "https://avatars.githubusercontent.com/u/89969328?v=4",
+   "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+   "language": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "claude-code",
+    "gsap",
+    "hyperframes",
+    "motion-graphics",
+    "motionmaxxing",
+    "video"
+   ],
+   "license": "Apache-2.0",
+   "stars": 61,
+   "forks": 8,
+   "createdAt": "2026-10-06T18:18:49Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T06:33:29.708Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Tejashmakwana/motionmaxxing?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Tejashmakwana/motionmaxxing",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Tejashmakwana/motionmaxxing/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Tejashmakwana/motionmaxxing.git\ncd motionmaxxing",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Tejashmakwana/motionmaxxing\nWhat it says it does: \"Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T06:33:29.708Z"
+  },
   {
    "fullName": "h100envy/gem-search",
    "owner": "h100envy",
@@ -15695,8 +15759,8 @@
   }
  ],
  "levels": {
+  "account": 89,
   "instant": 21,
-  "account": 88,
   "heavy": 37,
   "read": 109
  }

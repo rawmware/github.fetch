@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_296 guides written so far · last update 2026-10-07 19:52 UTC_
+_297 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [xamjiang/handout-remake](https://github.com/xamjiang/handout-remake) | CSS project | Runs in the browser with a free account | [guide](guides/xamjiang/handout-remake.md) |
 | [bas3line/ascii](https://github.com/bas3line/ascii) | React app | Runs in a browser tab, no account needed | [guide](guides/bas3line/ascii.md) |
 | [sonicmountain/Trade-Bot-Hyperliquid](https://github.com/sonicmountain/Trade-Bot-Hyperliquid) | Python project | Runs in the browser with a free account | [guide](guides/sonicmountain/trade-bot-hyperliquid.md) |
 | [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/gr8rstudio/gr8r-studio.md) |
@@ -38,7 +39,6 @@ _296 guides written so far · last update 2026-10-07 19:52 UTC_
 | [storytold/craft-fonts](https://github.com/storytold/craft-fonts) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-fonts.md) |
 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/gridcraft.md) |
 | [inertiajs/inertia-omega](https://github.com/inertiajs/inertia-omega) | Rust project | Runs in the browser with a free account | [guide](guides/inertiajs/inertia-omega.md) |
-| [accomplish999/position-sizer](https://github.com/accomplish999/position-sizer) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/accomplish999/position-sizer.md) |
 <!-- latest:end -->
 
 ## How it works

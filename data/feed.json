@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T13:51:07.054Z",
- "totalGuides": 281,
+ "updatedAt": "2026-10-07T13:51:07.412Z",
+ "totalGuides": 282,
  "items": [
+  {
+   "fullName": "LoreanXavier/pt-pc",
+   "owner": "LoreanXavier",
+   "name": "pt-pc",
+   "url": "https://github.com/LoreanXavier/pt-pc",
+   "avatar": "https://avatars.githubusercontent.com/u/41537900?v=4",
+   "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+   "language": "C++",
+   "topics": [],
+   "license": null,
+   "stars": 79,
+   "forks": 7,
+   "createdAt": "2026-10-07T09:33:31Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T13:51:07.411Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/LoreanXavier/pt-pc?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/LoreanXavier/pt-pc",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LoreanXavier/pt-pc/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/LoreanXavier/pt-pc.git\ncd pt-pc",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/LoreanXavier/pt-pc\nWhat it says it does: \"Native PC port of P.T. (runs from your own PS4 game files)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T13:51:07.411Z"
+  },
   {
    "fullName": "mushigaite/short-video-maker",
    "owner": "mushigaite",
@@ -17393,8 +17450,8 @@
   }
  ],
  "levels": {
+  "heavy": 42,
   "account": 107,
-  "heavy": 41,
   "instant": 23,
   "read": 110
  }

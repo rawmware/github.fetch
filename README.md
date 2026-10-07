@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_278 guides written so far · last update 2026-10-07 13:51 UTC_
+_279 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Stellar-Pathfinder/stellar-pathfinder](https://github.com/Stellar-Pathfinder/stellar-pathfinder) | Go project | Runs in the browser with a free account | [guide](guides/stellar-pathfinder/stellar-pathfinder.md) |
 | [Local-Settle/local-settle-backend](https://github.com/Local-Settle/local-settle-backend) | JavaScript project | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-backend.md) |
 | [Local-Settle/local-settle-frontend](https://github.com/Local-Settle/local-settle-frontend) | Next.js app | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-frontend.md) |
 | [Stellar-tradehub/stellar-trade-contracts](https://github.com/Stellar-tradehub/stellar-trade-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade-contracts.md) |
@@ -38,7 +39,6 @@ _278 guides written so far · last update 2026-10-07 13:51 UTC_
 | [weezerhunter/Supper-Board](https://github.com/weezerhunter/Supper-Board) | HTML project | Runs in the browser with a free account | [guide](guides/weezerhunter/supper-board.md) |
 | [iill392/youlong-security](https://github.com/iill392/youlong-security) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/iill392/youlong-security.md) |
 | [THUROI0787/absent-author](https://github.com/THUROI0787/absent-author) | Python project | Runs in the browser with a free account | [guide](guides/thuroi0787/absent-author.md) |
-| [sisyphuslabs/omo-dori-mode-experimental](https://github.com/sisyphuslabs/omo-dori-mode-experimental) | TypeScript project | Runs in the browser with a free account | [guide](guides/sisyphuslabs/omo-dori-mode-experimental.md) |
 <!-- latest:end -->
 
 ## How it works

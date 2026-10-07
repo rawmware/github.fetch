@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_293 guides written so far · last update 2026-10-07 19:52 UTC_
+_294 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/gr8rstudio/gr8r-studio.md) |
 | [Pluviobyte/dot2api](https://github.com/Pluviobyte/dot2api) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/pluviobyte/dot2api.md) |
 | [iamlukethedev/Herald-OS](https://github.com/iamlukethedev/Herald-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/iamlukethedev/herald-os.md) |
 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Python project | Runs in the browser with a free account | [guide](guides/losalossantos/aurelio-finance.md) |
@@ -38,7 +39,6 @@ _293 guides written so far · last update 2026-10-07 19:52 UTC_
 | [accomplish999/position-sizer](https://github.com/accomplish999/position-sizer) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/accomplish999/position-sizer.md) |
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/cadcraft.md) |
 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/wordcraft.md) |
-| [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/loreanxavier/pt-pc.md) |
 <!-- latest:end -->
 
 ## How it works

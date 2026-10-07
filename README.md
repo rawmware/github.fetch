@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_253 guides written so far · last update 2026-10-07 00:35 UTC_
+_254 guides written so far · last update 2026-10-07 00:35 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Galekrufluctuate/capcut-commerce-pro-download](https://github.com/Galekrufluctuate/capcut-commerce-pro-download) | Python project | Runs in the browser with a free account | [guide](guides/galekrufluctuate/capcut-commerce-pro-download.md) |
 | [seohongpark/ocbench](https://github.com/seohongpark/ocbench) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/seohongpark/ocbench.md) |
 | [KJGX66F/free-proxy-airport-cf](https://github.com/KJGX66F/free-proxy-airport-cf) | JavaScript project | Runs in the browser with a free account | [guide](guides/kjgx66f/free-proxy-airport-cf.md) |
 | [canberk7/ema-lightning](https://github.com/canberk7/ema-lightning) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/canberk7/ema-lightning.md) |
@@ -38,7 +39,6 @@ _253 guides written so far · last update 2026-10-07 00:35 UTC_
 | [hashcott/ghostline](https://github.com/hashcott/ghostline) | Go project | Runs in the browser with a free account | [guide](guides/hashcott/ghostline.md) |
 | [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | Python project | Runs in the browser with a free account | [guide](guides/xianyu110/ecommerce-image-skills.md) |
 | [ghuntley/jiti](https://github.com/ghuntley/jiti) | Common Lisp project | Runs in the browser with a free account | [guide](guides/ghuntley/jiti.md) |
-| [Lavawithinform/rainbow-r6-menu](https://github.com/Lavawithinform/rainbow-r6-menu) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavawithinform/rainbow-r6-menu.md) |
 <!-- latest:end -->
 
 ## How it works

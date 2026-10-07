@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T13:51:08.398Z",
- "totalGuides": 287,
+ "updatedAt": "2026-10-07T13:51:08.571Z",
+ "totalGuides": 288,
  "items": [
+  {
+   "fullName": "storytold/craft-fonts",
+   "owner": "storytold",
+   "name": "craft-fonts",
+   "url": "https://github.com/storytold/craft-fonts",
+   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+   "description": "Fonts for the Crafting Apps",
+   "language": "Rust",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 54,
+   "forks": 66,
+   "createdAt": "2026-10-06T13:44:10Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T13:51:08.570Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/storytold/craft-fonts?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/storytold/craft-fonts",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/storytold/craft-fonts/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/storytold/craft-fonts.git\ncd craft-fonts\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/storytold/craft-fonts\nWhat it says it does: \"Fonts for the Crafting Apps\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T13:51:08.570Z"
+  },
   {
    "fullName": "storytold/gridcraft",
    "owner": "storytold",
@@ -17748,7 +17803,7 @@
   }
  ],
  "levels": {
-  "account": 111,
+  "account": 112,
   "instant": 24,
   "heavy": 42,
   "read": 110

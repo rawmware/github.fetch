@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_287 guides written so far · last update 2026-10-07 13:51 UTC_
+_288 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/craft-fonts](https://github.com/storytold/craft-fonts) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-fonts.md) |
 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/gridcraft.md) |
 | [inertiajs/inertia-omega](https://github.com/inertiajs/inertia-omega) | Rust project | Runs in the browser with a free account | [guide](guides/inertiajs/inertia-omega.md) |
 | [accomplish999/position-sizer](https://github.com/accomplish999/position-sizer) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/accomplish999/position-sizer.md) |
@@ -38,7 +39,6 @@ _287 guides written so far · last update 2026-10-07 13:51 UTC_
 | [Stellar-Pathfinder/stellar-pathfinder](https://github.com/Stellar-Pathfinder/stellar-pathfinder) | Go project | Runs in the browser with a free account | [guide](guides/stellar-pathfinder/stellar-pathfinder.md) |
 | [Local-Settle/local-settle-backend](https://github.com/Local-Settle/local-settle-backend) | JavaScript project | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-backend.md) |
 | [Local-Settle/local-settle-frontend](https://github.com/Local-Settle/local-settle-frontend) | Next.js app | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-frontend.md) |
-| [Stellar-tradehub/stellar-trade-contracts](https://github.com/Stellar-tradehub/stellar-trade-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade-contracts.md) |
 <!-- latest:end -->
 
 ## How it works

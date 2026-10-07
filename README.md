@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_262 guides written so far · last update 2026-10-07 06:33 UTC_
+_263 guides written so far · last update 2026-10-07 06:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Blackfrost-AI/Cyber-Frost-Harness](https://github.com/Blackfrost-AI/Cyber-Frost-Harness) | Python project | Runs in the browser with a free account | [guide](guides/blackfrost-ai/cyber-frost-harness.md) |
 | [kenkorasu/seed-phrase-generator](https://github.com/kenkorasu/seed-phrase-generator) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/kenkorasu/seed-phrase-generator.md) |
 | [FlashLionNight/amnezia-vpn-download](https://github.com/FlashLionNight/amnezia-vpn-download) | Python project | Runs in the browser with a free account | [guide](guides/flashlionnight/amnezia-vpn-download.md) |
 | [kigouu66/FPS-booster-2026-byKigouu66](https://github.com/kigouu66/FPS-booster-2026-byKigouu66) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kigouu66/fps-booster-2026-bykigouu66.md) |
@@ -38,7 +39,6 @@ _262 guides written so far · last update 2026-10-07 06:33 UTC_
 | [Galekrufluctuate/capcut-commerce-pro-download](https://github.com/Galekrufluctuate/capcut-commerce-pro-download) | Python project | Runs in the browser with a free account | [guide](guides/galekrufluctuate/capcut-commerce-pro-download.md) |
 | [seohongpark/ocbench](https://github.com/seohongpark/ocbench) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/seohongpark/ocbench.md) |
 | [KJGX66F/free-proxy-airport-cf](https://github.com/KJGX66F/free-proxy-airport-cf) | JavaScript project | Runs in the browser with a free account | [guide](guides/kjgx66f/free-proxy-airport-cf.md) |
-| [canberk7/ema-lightning](https://github.com/canberk7/ema-lightning) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/canberk7/ema-lightning.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_266 guides written so far · last update 2026-10-07 06:33 UTC_
+_267 guides written so far · last update 2026-10-07 06:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sisyphuslabs/omo-dori-mode-experimental](https://github.com/sisyphuslabs/omo-dori-mode-experimental) | TypeScript project | Runs in the browser with a free account | [guide](guides/sisyphuslabs/omo-dori-mode-experimental.md) |
 | [actual-computer/toks](https://github.com/actual-computer/toks) | C project | Needs a real machine (or a GPU) to run | [guide](guides/actual-computer/toks.md) |
 | [egoist/gorex](https://github.com/egoist/gorex) | Go project | Runs in the browser with a free account | [guide](guides/egoist/gorex.md) |
 | [RustDesk-ru/RustDesk-ru.github.io](https://github.com/RustDesk-ru/RustDesk-ru.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rustdesk-ru/rustdesk-ru.github.io.md) |
@@ -38,7 +39,6 @@ _266 guides written so far · last update 2026-10-07 06:33 UTC_
 | [jinrunsen/claude-my-privacy](https://github.com/jinrunsen/claude-my-privacy) | Python project | Runs in the browser with a free account | [guide](guides/jinrunsen/claude-my-privacy.md) |
 | [luoluo-121/neural-creator-dashboard](https://github.com/luoluo-121/neural-creator-dashboard) | Vite app | Runs in a browser tab, no account needed | [guide](guides/luoluo-121/neural-creator-dashboard.md) |
 | [Tejashmakwana/motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing) | JavaScript project | Runs in the browser with a free account | [guide](guides/tejashmakwana/motionmaxxing.md) |
-| [h100envy/gem-search](https://github.com/h100envy/gem-search) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/h100envy/gem-search.md) |
 <!-- latest:end -->
 
 ## How it works

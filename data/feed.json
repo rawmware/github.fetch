@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T06:33:31.750Z",
- "totalGuides": 266,
+ "updatedAt": "2026-10-07T06:33:31.872Z",
+ "totalGuides": 267,
  "items": [
+  {
+   "fullName": "sisyphuslabs/omo-dori-mode-experimental",
+   "owner": "sisyphuslabs",
+   "name": "omo-dori-mode-experimental",
+   "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
+   "avatar": "https://avatars.githubusercontent.com/u/251170166?v=4",
+   "description": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
+   "language": "TypeScript",
+   "topics": [
+    "agents",
+    "automation",
+    "bun",
+    "coding-agent",
+    "dori",
+    "herdr",
+    "messenger-bot",
+    "omo"
+   ],
+   "license": "MIT",
+   "stars": 44,
+   "forks": 50,
+   "createdAt": "2026-10-07T03:32:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T06:33:31.871Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/sisyphuslabs/omo-dori-mode-experimental?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/sisyphuslabs/omo-dori-mode-experimental",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/sisyphuslabs/omo-dori-mode-experimental.git\ncd omo-dori-mode-experimental",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/sisyphuslabs/omo-dori-mode-experimental\nWhat it says it does: \"Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T06:33:31.871Z"
+  },
   {
    "fullName": "actual-computer/toks",
    "owner": "actual-computer",
@@ -16426,8 +16490,8 @@
   }
  ],
  "levels": {
+  "account": 95,
   "heavy": 39,
-  "account": 94,
   "instant": 23,
   "read": 110
  }

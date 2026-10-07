@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T06:33:32.023Z",
- "totalGuides": 268,
+ "updatedAt": "2026-10-07T06:33:32.220Z",
+ "totalGuides": 269,
  "items": [
+  {
+   "fullName": "iill392/youlong-security",
+   "owner": "iill392",
+   "name": "youlong-security",
+   "url": "https://github.com/iill392/youlong-security",
+   "avatar": "https://avatars.githubusercontent.com/u/225505414?v=4",
+   "description": "一个开源且永久免费的游龙工具插件【游龙安全护盾】",
+   "language": "Kotlin",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 43,
+   "forks": 9,
+   "createdAt": "2026-10-05T09:55:17Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T06:33:32.220Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/iill392/youlong-security?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/iill392/youlong-security",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/iill392/youlong-security/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/iill392/youlong-security.git\ncd youlong-security",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/iill392/youlong-security\nWhat it says it does: \"一个开源且永久免费的游龙工具插件【游龙安全护盾】\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T06:33:32.220Z"
+  },
   {
    "fullName": "THUROI0787/absent-author",
    "owner": "THUROI0787",
@@ -16560,8 +16617,8 @@
   }
  ],
  "levels": {
+  "heavy": 40,
   "account": 96,
-  "heavy": 39,
   "instant": 23,
   "read": 110
  }

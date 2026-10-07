@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_268 guides written so far · last update 2026-10-07 06:33 UTC_
+_269 guides written so far · last update 2026-10-07 06:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [iill392/youlong-security](https://github.com/iill392/youlong-security) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/iill392/youlong-security.md) |
 | [THUROI0787/absent-author](https://github.com/THUROI0787/absent-author) | Python project | Runs in the browser with a free account | [guide](guides/thuroi0787/absent-author.md) |
 | [sisyphuslabs/omo-dori-mode-experimental](https://github.com/sisyphuslabs/omo-dori-mode-experimental) | TypeScript project | Runs in the browser with a free account | [guide](guides/sisyphuslabs/omo-dori-mode-experimental.md) |
 | [actual-computer/toks](https://github.com/actual-computer/toks) | C project | Needs a real machine (or a GPU) to run | [guide](guides/actual-computer/toks.md) |
@@ -38,7 +39,6 @@ _268 guides written so far · last update 2026-10-07 06:33 UTC_
 | [kigouu66/FPS-booster-2026-byKigouu66](https://github.com/kigouu66/FPS-booster-2026-byKigouu66) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kigouu66/fps-booster-2026-bykigouu66.md) |
 | [Convergeflucool/hubspot-crm-download](https://github.com/Convergeflucool/hubspot-crm-download) | Python project | Runs in the browser with a free account | [guide](guides/convergeflucool/hubspot-crm-download.md) |
 | [jinrunsen/claude-my-privacy](https://github.com/jinrunsen/claude-my-privacy) | Python project | Runs in the browser with a free account | [guide](guides/jinrunsen/claude-my-privacy.md) |
-| [luoluo-121/neural-creator-dashboard](https://github.com/luoluo-121/neural-creator-dashboard) | Vite app | Runs in a browser tab, no account needed | [guide](guides/luoluo-121/neural-creator-dashboard.md) |
 <!-- latest:end -->
 
 ## How it works

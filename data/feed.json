@@ -1,8 +1,69 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T13:51:05.695Z",
- "totalGuides": 275,
+ "updatedAt": "2026-10-07T13:51:05.843Z",
+ "totalGuides": 276,
  "items": [
+  {
+   "fullName": "Stellar-tradehub/stellar-trade-contracts",
+   "owner": "Stellar-tradehub",
+   "name": "stellar-trade-contracts",
+   "url": "https://github.com/Stellar-tradehub/stellar-trade-contracts",
+   "avatar": "https://avatars.githubusercontent.com/u/339157102?v=4",
+   "description": "Soroban smart contracts for Stellar Trade: pooled XLM markets, settlement, referrals, leaderboard, and STRD rewards.",
+   "language": "Rust",
+   "topics": [
+    "prediction-market",
+    "rust",
+    "smart-contracts",
+    "soroban",
+    "stellar"
+   ],
+   "license": null,
+   "stars": 131,
+   "forks": 129,
+   "createdAt": "2026-10-07T13:21:25Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T13:51:05.843Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Stellar-tradehub/stellar-trade-contracts?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Stellar-tradehub/stellar-trade-contracts",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Stellar-tradehub/stellar-trade-contracts/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Stellar-tradehub/stellar-trade-contracts.git\ncd stellar-trade-contracts\ncargo build --release\ncargo run",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Stellar-tradehub/stellar-trade-contracts\nWhat it says it does: \"Soroban smart contracts for Stellar Trade: pooled XLM markets, settlement, referrals, leaderboard, and STRD rewards.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T13:51:05.843Z"
+  },
   {
    "fullName": "Stellar-tradehub/stellar-trade",
    "owner": "Stellar-tradehub",
@@ -16966,7 +17027,7 @@
   }
  ],
  "levels": {
-  "account": 101,
+  "account": 102,
   "heavy": 41,
   "instant": 23,
   "read": 110

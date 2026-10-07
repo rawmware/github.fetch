@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_275 guides written so far · last update 2026-10-07 13:51 UTC_
+_276 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Stellar-tradehub/stellar-trade-contracts](https://github.com/Stellar-tradehub/stellar-trade-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade-contracts.md) |
 | [Stellar-tradehub/stellar-trade](https://github.com/Stellar-tradehub/stellar-trade) | Shell project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade.md) |
 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust project | Runs in the browser with a free account | [guide](guides/nullmoth/nvidia-macos-driver.md) |
 | [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust project | Runs in the browser with a free account | [guide](guides/pingdotgg/ts-rust.md) |
@@ -38,7 +39,6 @@ _275 guides written so far · last update 2026-10-07 13:51 UTC_
 | [sisyphuslabs/omo-dori-mode-experimental](https://github.com/sisyphuslabs/omo-dori-mode-experimental) | TypeScript project | Runs in the browser with a free account | [guide](guides/sisyphuslabs/omo-dori-mode-experimental.md) |
 | [actual-computer/toks](https://github.com/actual-computer/toks) | C project | Needs a real machine (or a GPU) to run | [guide](guides/actual-computer/toks.md) |
 | [egoist/gorex](https://github.com/egoist/gorex) | Go project | Runs in the browser with a free account | [guide](guides/egoist/gorex.md) |
-| [RustDesk-ru/RustDesk-ru.github.io](https://github.com/RustDesk-ru/RustDesk-ru.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rustdesk-ru/rustdesk-ru.github.io.md) |
 <!-- latest:end -->
 
 ## How it works

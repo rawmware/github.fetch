@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_277 guides written so far · last update 2026-10-07 13:51 UTC_
+_278 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Local-Settle/local-settle-backend](https://github.com/Local-Settle/local-settle-backend) | JavaScript project | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-backend.md) |
 | [Local-Settle/local-settle-frontend](https://github.com/Local-Settle/local-settle-frontend) | Next.js app | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-frontend.md) |
 | [Stellar-tradehub/stellar-trade-contracts](https://github.com/Stellar-tradehub/stellar-trade-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade-contracts.md) |
 | [Stellar-tradehub/stellar-trade](https://github.com/Stellar-tradehub/stellar-trade) | Shell project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade.md) |
@@ -38,7 +39,6 @@ _277 guides written so far · last update 2026-10-07 13:51 UTC_
 | [iill392/youlong-security](https://github.com/iill392/youlong-security) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/iill392/youlong-security.md) |
 | [THUROI0787/absent-author](https://github.com/THUROI0787/absent-author) | Python project | Runs in the browser with a free account | [guide](guides/thuroi0787/absent-author.md) |
 | [sisyphuslabs/omo-dori-mode-experimental](https://github.com/sisyphuslabs/omo-dori-mode-experimental) | TypeScript project | Runs in the browser with a free account | [guide](guides/sisyphuslabs/omo-dori-mode-experimental.md) |
-| [actual-computer/toks](https://github.com/actual-computer/toks) | C project | Needs a real machine (or a GPU) to run | [guide](guides/actual-computer/toks.md) |
 <!-- latest:end -->
 
 ## How it works

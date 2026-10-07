@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_258 guides written so far · last update 2026-10-07 06:33 UTC_
+_259 guides written so far · last update 2026-10-07 06:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Convergeflucool/hubspot-crm-download](https://github.com/Convergeflucool/hubspot-crm-download) | Python project | Runs in the browser with a free account | [guide](guides/convergeflucool/hubspot-crm-download.md) |
 | [jinrunsen/claude-my-privacy](https://github.com/jinrunsen/claude-my-privacy) | Python project | Runs in the browser with a free account | [guide](guides/jinrunsen/claude-my-privacy.md) |
 | [luoluo-121/neural-creator-dashboard](https://github.com/luoluo-121/neural-creator-dashboard) | Vite app | Runs in a browser tab, no account needed | [guide](guides/luoluo-121/neural-creator-dashboard.md) |
 | [Tejashmakwana/motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing) | JavaScript project | Runs in the browser with a free account | [guide](guides/tejashmakwana/motionmaxxing.md) |
@@ -38,7 +39,6 @@ _258 guides written so far · last update 2026-10-07 06:33 UTC_
 | [ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7](https://github.com/ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/threatinteractive/prototype-swrt-hard-shadows-for-ue5.7.md) |
 | [nickvasilescu/bops](https://github.com/nickvasilescu/bops) | Next.js app | Runs in the browser with a free account | [guide](guides/nickvasilescu/bops.md) |
 | [kirohack-official/kirohack](https://github.com/kirohack-official/kirohack) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kirohack-official/kirohack.md) |
-| [dualface/ste-zh](https://github.com/dualface/ste-zh) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dualface/ste-zh.md) |
 <!-- latest:end -->
 
 ## How it works

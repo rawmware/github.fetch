@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_289 guides written so far · last update 2026-10-07 13:51 UTC_
+_290 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/soundcraft](https://github.com/storytold/soundcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/soundcraft.md) |
 | [storytold/deckcraft](https://github.com/storytold/deckcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/deckcraft.md) |
 | [storytold/craft-fonts](https://github.com/storytold/craft-fonts) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-fonts.md) |
 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/gridcraft.md) |
@@ -38,7 +39,6 @@ _289 guides written so far · last update 2026-10-07 13:51 UTC_
 | [mushigaite/short-video-maker](https://github.com/mushigaite/short-video-maker) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/mushigaite/short-video-maker.md) |
 | [atmirrr/persian-motion-director](https://github.com/atmirrr/persian-motion-director) | JavaScript project | Runs in the browser with a free account | [guide](guides/atmirrr/persian-motion-director.md) |
 | [Stellar-Pathfinder/stellar-pathfinder](https://github.com/Stellar-Pathfinder/stellar-pathfinder) | Go project | Runs in the browser with a free account | [guide](guides/stellar-pathfinder/stellar-pathfinder.md) |
-| [Local-Settle/local-settle-backend](https://github.com/Local-Settle/local-settle-backend) | JavaScript project | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-backend.md) |
 <!-- latest:end -->
 
 ## How it works

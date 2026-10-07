@@ -1,8 +1,83 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T19:52:43.870Z",
- "totalGuides": 301,
+ "updatedAt": "2026-10-07T19:52:44.185Z",
+ "totalGuides": 302,
  "items": [
+  {
+   "fullName": "msurguy/watercolor-playground",
+   "owner": "msurguy",
+   "name": "watercolor-playground",
+   "url": "https://github.com/msurguy/watercolor-playground",
+   "avatar": "https://avatars.githubusercontent.com/u/585833?v=4",
+   "description": "Realistic watercolor drawings",
+   "language": "TypeScript",
+   "topics": [
+    "paint",
+    "watercolor"
+   ],
+   "license": "MIT",
+   "stars": 53,
+   "forks": 5,
+   "createdAt": "2026-10-06T06:25:17Z",
+   "branch": "main",
+   "homepage": "https://msurguy.github.io/watercolor-playground/",
+   "addedAt": "2026-10-07T19:52:44.184Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "Preact"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/msurguy/watercolor-playground",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/msurguy/watercolor-playground",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/msurguy/watercolor-playground?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/msurguy/watercolor-playground",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/msurguy/watercolor-playground/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/msurguy/watercolor-playground.git\ncd watercolor-playground\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/msurguy/watercolor-playground\nWhat it says it does: \"Realistic watercolor drawings\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T19:52:44.184Z"
+  },
   {
    "fullName": "KeJunMao/x-gift-link",
    "owner": "KeJunMao",
@@ -18684,9 +18759,9 @@
   }
  ],
  "levels": {
+  "instant": 27,
   "account": 122,
   "heavy": 43,
-  "instant": 26,
   "read": 110
  }
 }

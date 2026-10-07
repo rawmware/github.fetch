@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_301 guides written so far · last update 2026-10-07 19:52 UTC_
+_302 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [msurguy/watercolor-playground](https://github.com/msurguy/watercolor-playground) | Vite app | Runs in a browser tab, no account needed | [guide](guides/msurguy/watercolor-playground.md) |
 | [KeJunMao/x-gift-link](https://github.com/KeJunMao/x-gift-link) | JavaScript project | Runs in the browser with a free account | [guide](guides/kejunmao/x-gift-link.md) |
 | [snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/psp-web-recomp.md) |
 | [orange2ai/podcast-to-article](https://github.com/orange2ai/podcast-to-article) | Python project | Runs in the browser with a free account | [guide](guides/orange2ai/podcast-to-article.md) |
@@ -38,7 +39,6 @@ _301 guides written so far · last update 2026-10-07 19:52 UTC_
 | [Pluviobyte/dot2api](https://github.com/Pluviobyte/dot2api) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/pluviobyte/dot2api.md) |
 | [iamlukethedev/Herald-OS](https://github.com/iamlukethedev/Herald-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/iamlukethedev/herald-os.md) |
 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Python project | Runs in the browser with a free account | [guide](guides/losalossantos/aurelio-finance.md) |
-| [storytold/soundcraft](https://github.com/storytold/soundcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/soundcraft.md) |
 <!-- latest:end -->
 
 ## How it works

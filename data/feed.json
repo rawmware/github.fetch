@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T06:33:30.395Z",
- "totalGuides": 259,
+ "updatedAt": "2026-10-07T06:33:30.536Z",
+ "totalGuides": 260,
  "items": [
+  {
+   "fullName": "kigouu66/FPS-booster-2026-byKigouu66",
+   "owner": "kigouu66",
+   "name": "FPS-booster-2026-byKigouu66",
+   "url": "https://github.com/kigouu66/FPS-booster-2026-byKigouu66",
+   "avatar": "https://avatars.githubusercontent.com/u/337129893?v=4",
+   "description": "FPS Booster & Performance Optimizer for Games - Includes Activation Key and Patch",
+   "language": null,
+   "topics": [
+    "fps-booster-exe",
+    "game-booster",
+    "game-optimizer-2026",
+    "gaming-optimization",
+    "open-source",
+    "pc-gaming",
+    "perfomance-optimization",
+    "windows"
+   ],
+   "license": null,
+   "stars": 50,
+   "forks": 33,
+   "createdAt": "2026-10-05T19:03:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T06:33:30.535Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/kigouu66/FPS-booster-2026-byKigouu66",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kigouu66/FPS-booster-2026-byKigouu66/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/kigouu66/FPS-booster-2026-byKigouu66\nWhat it says it does: \"FPS Booster & Performance Optimizer for Games - Includes Activation Key and Patch\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T06:33:30.535Z"
+  },
   {
    "fullName": "Convergeflucool/hubspot-crm-download",
    "owner": "Convergeflucool",
@@ -15964,9 +16021,9 @@
   }
  ],
  "levels": {
+  "read": 110,
   "account": 91,
   "instant": 22,
-  "heavy": 37,
-  "read": 109
+  "heavy": 37
  }
 }

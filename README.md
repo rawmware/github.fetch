@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_280 guides written so far · last update 2026-10-07 13:51 UTC_
+_281 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mushigaite/short-video-maker](https://github.com/mushigaite/short-video-maker) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/mushigaite/short-video-maker.md) |
 | [atmirrr/persian-motion-director](https://github.com/atmirrr/persian-motion-director) | JavaScript project | Runs in the browser with a free account | [guide](guides/atmirrr/persian-motion-director.md) |
 | [Stellar-Pathfinder/stellar-pathfinder](https://github.com/Stellar-Pathfinder/stellar-pathfinder) | Go project | Runs in the browser with a free account | [guide](guides/stellar-pathfinder/stellar-pathfinder.md) |
 | [Local-Settle/local-settle-backend](https://github.com/Local-Settle/local-settle-backend) | JavaScript project | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-backend.md) |
@@ -38,7 +39,6 @@ _280 guides written so far · last update 2026-10-07 13:51 UTC_
 | [szabadkai/c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font) | Python project | Runs in the browser with a free account | [guide](guides/szabadkai/c64-keyboard-font.md) |
 | [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/alejandrobujan/tendedero.md) |
 | [weezerhunter/Supper-Board](https://github.com/weezerhunter/Supper-Board) | HTML project | Runs in the browser with a free account | [guide](guides/weezerhunter/supper-board.md) |
-| [iill392/youlong-security](https://github.com/iill392/youlong-security) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/iill392/youlong-security.md) |
 <!-- latest:end -->
 
 ## How it works

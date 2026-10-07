@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T13:51:06.602Z",
- "totalGuides": 279,
+ "updatedAt": "2026-10-07T13:51:06.800Z",
+ "totalGuides": 280,
  "items": [
+  {
+   "fullName": "atmirrr/persian-motion-director",
+   "owner": "atmirrr",
+   "name": "persian-motion-director",
+   "url": "https://github.com/atmirrr/persian-motion-director",
+   "avatar": "https://avatars.githubusercontent.com/u/116815342?v=4",
+   "description": "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples.",
+   "language": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "claude",
+    "claude-skills",
+    "farsi",
+    "kinetic-typography",
+    "motion-design",
+    "persian",
+    "remotion"
+   ],
+   "license": null,
+   "stars": 102,
+   "forks": 4,
+   "createdAt": "2026-10-06T12:23:55Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T13:51:06.800Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/atmirrr/persian-motion-director?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/atmirrr/persian-motion-director",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/atmirrr/persian-motion-director/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/atmirrr/persian-motion-director.git\ncd persian-motion-director",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/atmirrr/persian-motion-director\nWhat it says it does: \"A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T13:51:06.800Z"
+  },
   {
    "fullName": "Stellar-Pathfinder/stellar-pathfinder",
    "owner": "Stellar-Pathfinder",
@@ -17254,7 +17318,7 @@
   }
  ],
  "levels": {
-  "account": 105,
+  "account": 106,
   "heavy": 41,
   "instant": 23,
   "read": 110

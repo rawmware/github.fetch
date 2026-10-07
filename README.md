@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_272 guides written so far · last update 2026-10-07 13:51 UTC_
+_273 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust project | Runs in the browser with a free account | [guide](guides/pingdotgg/ts-rust.md) |
 | [szabadkai/c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font) | Python project | Runs in the browser with a free account | [guide](guides/szabadkai/c64-keyboard-font.md) |
 | [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/alejandrobujan/tendedero.md) |
 | [weezerhunter/Supper-Board](https://github.com/weezerhunter/Supper-Board) | HTML project | Runs in the browser with a free account | [guide](guides/weezerhunter/supper-board.md) |
@@ -38,7 +39,6 @@ _272 guides written so far · last update 2026-10-07 13:51 UTC_
 | [RustDesk-ru/RustDesk-ru.github.io](https://github.com/RustDesk-ru/RustDesk-ru.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rustdesk-ru/rustdesk-ru.github.io.md) |
 | [Blackfrost-AI/Cyber-Frost-Harness](https://github.com/Blackfrost-AI/Cyber-Frost-Harness) | Python project | Runs in the browser with a free account | [guide](guides/blackfrost-ai/cyber-frost-harness.md) |
 | [kenkorasu/seed-phrase-generator](https://github.com/kenkorasu/seed-phrase-generator) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/kenkorasu/seed-phrase-generator.md) |
-| [FlashLionNight/amnezia-vpn-download](https://github.com/FlashLionNight/amnezia-vpn-download) | Python project | Runs in the browser with a free account | [guide](guides/flashlionnight/amnezia-vpn-download.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_294 guides written so far · last update 2026-10-07 19:52 UTC_
+_295 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sonicmountain/Trade-Bot-Hyperliquid](https://github.com/sonicmountain/Trade-Bot-Hyperliquid) | Python project | Runs in the browser with a free account | [guide](guides/sonicmountain/trade-bot-hyperliquid.md) |
 | [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/gr8rstudio/gr8r-studio.md) |
 | [Pluviobyte/dot2api](https://github.com/Pluviobyte/dot2api) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/pluviobyte/dot2api.md) |
 | [iamlukethedev/Herald-OS](https://github.com/iamlukethedev/Herald-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/iamlukethedev/herald-os.md) |
@@ -38,7 +39,6 @@ _294 guides written so far · last update 2026-10-07 19:52 UTC_
 | [inertiajs/inertia-omega](https://github.com/inertiajs/inertia-omega) | Rust project | Runs in the browser with a free account | [guide](guides/inertiajs/inertia-omega.md) |
 | [accomplish999/position-sizer](https://github.com/accomplish999/position-sizer) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/accomplish999/position-sizer.md) |
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/cadcraft.md) |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/wordcraft.md) |
 <!-- latest:end -->
 
 ## How it works

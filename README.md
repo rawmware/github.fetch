@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_252 guides written so far · last update 2026-10-07 00:34 UTC_
+_253 guides written so far · last update 2026-10-07 00:35 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [seohongpark/ocbench](https://github.com/seohongpark/ocbench) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/seohongpark/ocbench.md) |
 | [KJGX66F/free-proxy-airport-cf](https://github.com/KJGX66F/free-proxy-airport-cf) | JavaScript project | Runs in the browser with a free account | [guide](guides/kjgx66f/free-proxy-airport-cf.md) |
 | [canberk7/ema-lightning](https://github.com/canberk7/ema-lightning) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/canberk7/ema-lightning.md) |
 | [ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7](https://github.com/ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/threatinteractive/prototype-swrt-hard-shadows-for-ue5.7.md) |
@@ -38,7 +39,6 @@ _252 guides written so far · last update 2026-10-07 00:34 UTC_
 | [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | Python project | Runs in the browser with a free account | [guide](guides/xianyu110/ecommerce-image-skills.md) |
 | [ghuntley/jiti](https://github.com/ghuntley/jiti) | Common Lisp project | Runs in the browser with a free account | [guide](guides/ghuntley/jiti.md) |
 | [Lavawithinform/rainbow-r6-menu](https://github.com/Lavawithinform/rainbow-r6-menu) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavawithinform/rainbow-r6-menu.md) |
-| [sahenjp/rustdsh](https://github.com/sahenjp/rustdsh) | Rust project | Runs in the browser with a free account | [guide](guides/sahenjp/rustdsh.md) |
 <!-- latest:end -->
 
 ## How it works

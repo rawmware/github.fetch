@@ -1,8 +1,68 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T13:51:05.558Z",
- "totalGuides": 274,
+ "updatedAt": "2026-10-07T13:51:05.695Z",
+ "totalGuides": 275,
  "items": [
+  {
+   "fullName": "Stellar-tradehub/stellar-trade",
+   "owner": "Stellar-tradehub",
+   "name": "stellar-trade",
+   "url": "https://github.com/Stellar-tradehub/stellar-trade",
+   "avatar": "https://avatars.githubusercontent.com/u/339157102?v=4",
+   "description": "Stellar prediction-market prototype: buy a YES/NO position, sell by reducing it, and inspect pooled XLM settlement onchain.",
+   "language": "Shell",
+   "topics": [
+    "open-source",
+    "prediction-market",
+    "soroban",
+    "stellar"
+   ],
+   "license": null,
+   "stars": 131,
+   "forks": 129,
+   "createdAt": "2026-10-07T13:20:32Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-07T13:51:05.694Z",
+   "stack": {
+    "kind": "other",
+    "label": "Shell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Stellar-tradehub/stellar-trade?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Stellar-tradehub/stellar-trade",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Stellar-tradehub/stellar-trade/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Stellar-tradehub/stellar-trade.git\ncd stellar-trade",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Stellar-tradehub/stellar-trade\nWhat it says it does: \"Stellar prediction-market prototype: buy a YES/NO position, sell by reducing it, and inspect pooled XLM settlement onchain.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T13:51:05.694Z"
+  },
   {
    "fullName": "nullmoth/nvidia-macos-driver",
    "owner": "nullmoth",
@@ -16906,7 +16966,7 @@
   }
  ],
  "levels": {
-  "account": 100,
+  "account": 101,
   "heavy": 41,
   "instant": 23,
   "read": 110

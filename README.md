@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_256 guides written so far · last update 2026-10-07 06:33 UTC_
+_257 guides written so far · last update 2026-10-07 06:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [luoluo-121/neural-creator-dashboard](https://github.com/luoluo-121/neural-creator-dashboard) | Vite app | Runs in a browser tab, no account needed | [guide](guides/luoluo-121/neural-creator-dashboard.md) |
 | [Tejashmakwana/motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing) | JavaScript project | Runs in the browser with a free account | [guide](guides/tejashmakwana/motionmaxxing.md) |
 | [h100envy/gem-search](https://github.com/h100envy/gem-search) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/h100envy/gem-search.md) |
 | [Galekrufluctuate/capcut-commerce-pro-download](https://github.com/Galekrufluctuate/capcut-commerce-pro-download) | Python project | Runs in the browser with a free account | [guide](guides/galekrufluctuate/capcut-commerce-pro-download.md) |
@@ -38,7 +39,6 @@ _256 guides written so far · last update 2026-10-07 06:33 UTC_
 | [kirohack-official/kirohack](https://github.com/kirohack-official/kirohack) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kirohack-official/kirohack.md) |
 | [dualface/ste-zh](https://github.com/dualface/ste-zh) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dualface/ste-zh.md) |
 | [GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/gtkottman/mortiflix-oss.md) |
-| [hashcott/ghostline](https://github.com/hashcott/ghostline) | Go project | Runs in the browser with a free account | [guide](guides/hashcott/ghostline.md) |
 <!-- latest:end -->
 
 ## How it works

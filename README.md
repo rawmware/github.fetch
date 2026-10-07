@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_300 guides written so far · last update 2026-10-07 19:52 UTC_
+_301 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [KeJunMao/x-gift-link](https://github.com/KeJunMao/x-gift-link) | JavaScript project | Runs in the browser with a free account | [guide](guides/kejunmao/x-gift-link.md) |
 | [snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/psp-web-recomp.md) |
 | [orange2ai/podcast-to-article](https://github.com/orange2ai/podcast-to-article) | Python project | Runs in the browser with a free account | [guide](guides/orange2ai/podcast-to-article.md) |
 | [opencoredev/convt](https://github.com/opencoredev/convt) | JavaScript project | Runs in the browser with a free account | [guide](guides/opencoredev/convt.md) |
@@ -38,7 +39,6 @@ _300 guides written so far · last update 2026-10-07 19:52 UTC_
 | [iamlukethedev/Herald-OS](https://github.com/iamlukethedev/Herald-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/iamlukethedev/herald-os.md) |
 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Python project | Runs in the browser with a free account | [guide](guides/losalossantos/aurelio-finance.md) |
 | [storytold/soundcraft](https://github.com/storytold/soundcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/soundcraft.md) |
-| [storytold/deckcraft](https://github.com/storytold/deckcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/deckcraft.md) |
 <!-- latest:end -->
 
 ## How it works

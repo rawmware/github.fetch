@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_260 guides written so far · last update 2026-10-07 06:33 UTC_
+_261 guides written so far · last update 2026-10-07 06:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [FlashLionNight/amnezia-vpn-download](https://github.com/FlashLionNight/amnezia-vpn-download) | Python project | Runs in the browser with a free account | [guide](guides/flashlionnight/amnezia-vpn-download.md) |
 | [kigouu66/FPS-booster-2026-byKigouu66](https://github.com/kigouu66/FPS-booster-2026-byKigouu66) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kigouu66/fps-booster-2026-bykigouu66.md) |
 | [Convergeflucool/hubspot-crm-download](https://github.com/Convergeflucool/hubspot-crm-download) | Python project | Runs in the browser with a free account | [guide](guides/convergeflucool/hubspot-crm-download.md) |
 | [jinrunsen/claude-my-privacy](https://github.com/jinrunsen/claude-my-privacy) | Python project | Runs in the browser with a free account | [guide](guides/jinrunsen/claude-my-privacy.md) |
@@ -38,7 +39,6 @@ _260 guides written so far · last update 2026-10-07 06:33 UTC_
 | [KJGX66F/free-proxy-airport-cf](https://github.com/KJGX66F/free-proxy-airport-cf) | JavaScript project | Runs in the browser with a free account | [guide](guides/kjgx66f/free-proxy-airport-cf.md) |
 | [canberk7/ema-lightning](https://github.com/canberk7/ema-lightning) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/canberk7/ema-lightning.md) |
 | [ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7](https://github.com/ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/threatinteractive/prototype-swrt-hard-shadows-for-ue5.7.md) |
-| [nickvasilescu/bops](https://github.com/nickvasilescu/bops) | Next.js app | Runs in the browser with a free account | [guide](guides/nickvasilescu/bops.md) |
 <!-- latest:end -->
 
 ## How it works

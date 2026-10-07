@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_254 guides written so far · last update 2026-10-07 00:35 UTC_
+_255 guides written so far · last update 2026-10-07 06:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [h100envy/gem-search](https://github.com/h100envy/gem-search) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/h100envy/gem-search.md) |
 | [Galekrufluctuate/capcut-commerce-pro-download](https://github.com/Galekrufluctuate/capcut-commerce-pro-download) | Python project | Runs in the browser with a free account | [guide](guides/galekrufluctuate/capcut-commerce-pro-download.md) |
 | [seohongpark/ocbench](https://github.com/seohongpark/ocbench) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/seohongpark/ocbench.md) |
 | [KJGX66F/free-proxy-airport-cf](https://github.com/KJGX66F/free-proxy-airport-cf) | JavaScript project | Runs in the browser with a free account | [guide](guides/kjgx66f/free-proxy-airport-cf.md) |
@@ -38,7 +39,6 @@ _254 guides written so far · last update 2026-10-07 00:35 UTC_
 | [GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/gtkottman/mortiflix-oss.md) |
 | [hashcott/ghostline](https://github.com/hashcott/ghostline) | Go project | Runs in the browser with a free account | [guide](guides/hashcott/ghostline.md) |
 | [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | Python project | Runs in the browser with a free account | [guide](guides/xianyu110/ecommerce-image-skills.md) |
-| [ghuntley/jiti](https://github.com/ghuntley/jiti) | Common Lisp project | Runs in the browser with a free account | [guide](guides/ghuntley/jiti.md) |
 <!-- latest:end -->
 
 ## How it works

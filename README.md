@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_263 guides written so far · last update 2026-10-07 06:33 UTC_
+_264 guides written so far · last update 2026-10-07 06:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RustDesk-ru/RustDesk-ru.github.io](https://github.com/RustDesk-ru/RustDesk-ru.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rustdesk-ru/rustdesk-ru.github.io.md) |
 | [Blackfrost-AI/Cyber-Frost-Harness](https://github.com/Blackfrost-AI/Cyber-Frost-Harness) | Python project | Runs in the browser with a free account | [guide](guides/blackfrost-ai/cyber-frost-harness.md) |
 | [kenkorasu/seed-phrase-generator](https://github.com/kenkorasu/seed-phrase-generator) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/kenkorasu/seed-phrase-generator.md) |
 | [FlashLionNight/amnezia-vpn-download](https://github.com/FlashLionNight/amnezia-vpn-download) | Python project | Runs in the browser with a free account | [guide](guides/flashlionnight/amnezia-vpn-download.md) |
@@ -38,7 +39,6 @@ _263 guides written so far · last update 2026-10-07 06:33 UTC_
 | [h100envy/gem-search](https://github.com/h100envy/gem-search) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/h100envy/gem-search.md) |
 | [Galekrufluctuate/capcut-commerce-pro-download](https://github.com/Galekrufluctuate/capcut-commerce-pro-download) | Python project | Runs in the browser with a free account | [guide](guides/galekrufluctuate/capcut-commerce-pro-download.md) |
 | [seohongpark/ocbench](https://github.com/seohongpark/ocbench) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/seohongpark/ocbench.md) |
-| [KJGX66F/free-proxy-airport-cf](https://github.com/KJGX66F/free-proxy-airport-cf) | JavaScript project | Runs in the browser with a free account | [guide](guides/kjgx66f/free-proxy-airport-cf.md) |
 <!-- latest:end -->
 
 ## How it works

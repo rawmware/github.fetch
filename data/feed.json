@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T19:52:44.621Z",
- "totalGuides": 304,
+ "updatedAt": "2026-10-07T19:52:44.983Z",
+ "totalGuides": 305,
  "items": [
+  {
+   "fullName": "AetherLabsAI/Video2World",
+   "owner": "AetherLabsAI",
+   "name": "Video2World",
+   "url": "https://github.com/AetherLabsAI/Video2World",
+   "avatar": "https://avatars.githubusercontent.com/u/327190302?v=4",
+   "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 53,
+   "forks": 0,
+   "createdAt": "2026-10-05T21:27:56Z",
+   "branch": "main",
+   "homepage": "https://aetherlabsai.github.io/Video2World/",
+   "addedAt": "2026-10-07T19:52:44.982Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/AetherLabsAI/Video2World/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/AetherLabsAI/Video2World?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/AetherLabsAI/Video2World",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/AetherLabsAI/Video2World/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/AetherLabsAI/Video2World.git\ncd Video2World\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/AetherLabsAI/Video2World\nWhat it says it does: \"Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-07T19:52:44.982Z"
+  },
   {
    "fullName": "Dicklesworthstone/frankensonos",
    "owner": "Dicklesworthstone",
@@ -18886,7 +18948,7 @@
   }
  ],
  "levels": {
-  "account": 123,
+  "account": 124,
   "heavy": 44,
   "instant": 27,
   "read": 110

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_304 guides written so far · last update 2026-10-07 19:52 UTC_
+_305 guides written so far · last update 2026-10-07 19:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AetherLabsAI/Video2World](https://github.com/AetherLabsAI/Video2World) | Python project | Runs in the browser with a free account | [guide](guides/aetherlabsai/video2world.md) |
 | [Dicklesworthstone/frankensonos](https://github.com/Dicklesworthstone/frankensonos) | Rust project | Runs in the browser with a free account | [guide](guides/dicklesworthstone/frankensonos.md) |
 | [Aeka0/Overlord](https://github.com/Aeka0/Overlord) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/aeka0/overlord.md) |
 | [msurguy/watercolor-playground](https://github.com/msurguy/watercolor-playground) | Vite app | Runs in a browser tab, no account needed | [guide](guides/msurguy/watercolor-playground.md) |
@@ -38,7 +39,6 @@ _304 guides written so far · last update 2026-10-07 19:52 UTC_
 | [bas3line/ascii](https://github.com/bas3line/ascii) | React app | Runs in a browser tab, no account needed | [guide](guides/bas3line/ascii.md) |
 | [sonicmountain/Trade-Bot-Hyperliquid](https://github.com/sonicmountain/Trade-Bot-Hyperliquid) | Python project | Runs in the browser with a free account | [guide](guides/sonicmountain/trade-bot-hyperliquid.md) |
 | [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/gr8rstudio/gr8r-studio.md) |
-| [Pluviobyte/dot2api](https://github.com/Pluviobyte/dot2api) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/pluviobyte/dot2api.md) |
 <!-- latest:end -->
 
 ## How it works

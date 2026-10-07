@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_285 guides written so far · last update 2026-10-07 13:51 UTC_
+_286 guides written so far · last update 2026-10-07 13:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [inertiajs/inertia-omega](https://github.com/inertiajs/inertia-omega) | Rust project | Runs in the browser with a free account | [guide](guides/inertiajs/inertia-omega.md) |
 | [accomplish999/position-sizer](https://github.com/accomplish999/position-sizer) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/accomplish999/position-sizer.md) |
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/cadcraft.md) |
 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/wordcraft.md) |
@@ -38,7 +39,6 @@ _285 guides written so far · last update 2026-10-07 13:51 UTC_
 | [Local-Settle/local-settle-frontend](https://github.com/Local-Settle/local-settle-frontend) | Next.js app | Runs in the browser with a free account | [guide](guides/local-settle/local-settle-frontend.md) |
 | [Stellar-tradehub/stellar-trade-contracts](https://github.com/Stellar-tradehub/stellar-trade-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade-contracts.md) |
 | [Stellar-tradehub/stellar-trade](https://github.com/Stellar-tradehub/stellar-trade) | Shell project | Runs in the browser with a free account | [guide](guides/stellar-tradehub/stellar-trade.md) |
-| [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust project | Runs in the browser with a free account | [guide](guides/nullmoth/nvidia-macos-driver.md) |
 <!-- latest:end -->
 
 ## How it works

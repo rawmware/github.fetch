@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T23:54:28.155Z",
- "totalGuides": 364,
+ "updatedAt": "2026-10-08T23:54:28.343Z",
+ "totalGuides": 365,
  "items": [
+  {
+   "fullName": "pavellunev/trading_chart",
+   "owner": "pavellunev",
+   "name": "trading_chart",
+   "url": "https://github.com/pavellunev/trading_chart",
+   "avatar": "https://avatars.githubusercontent.com/u/44289757?v=4",
+   "description": "Native SwiftUI trading charts for iOS: candles, indicators, crosshair, drawing tools and paged history, on Swift Charts.",
+   "language": "Swift",
+   "topics": [
+    "candlestick-chart",
+    "charts",
+    "crypto",
+    "financial-charts",
+    "ios",
+    "spm",
+    "swift",
+    "swift-charts"
+   ],
+   "license": "MIT",
+   "stars": 131,
+   "forks": 0,
+   "createdAt": "2026-10-06T11:58:23Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T23:54:28.343Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/pavellunev/trading_chart?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/pavellunev/trading_chart",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/pavellunev/trading_chart/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/pavellunev/trading_chart.git\ncd trading_chart",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/pavellunev/trading_chart\nWhat it says it does: \"Native SwiftUI trading charts for iOS: candles, indicators, crosshair, drawing tools and paged history, on Swift Charts.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T23:54:28.343Z"
+  },
   {
    "fullName": "Sightarbreed/1password-download",
    "owner": "Sightarbreed",
@@ -22873,9 +22939,9 @@
   }
  ],
  "levels": {
+  "heavy": 55,
   "account": 163,
   "instant": 33,
-  "heavy": 54,
   "read": 114
  }
 }

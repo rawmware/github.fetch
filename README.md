@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_309 guides written so far · last update 2026-10-08 00:07 UTC_
+_310 guides written so far · last update 2026-10-08 00:07 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ostiums/fixkit](https://github.com/ostiums/fixkit) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/ostiums/fixkit.md) |
 | [jadeapricot27/Hyperliquid-Leaderboard-Analytics](https://github.com/jadeapricot27/Hyperliquid-Leaderboard-Analytics) | Python project | Runs in the browser with a free account | [guide](guides/jadeapricot27/hyperliquid-leaderboard-analytics.md) |
 | [Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/founder-skill.md) |
 | [droogie/bbhost](https://github.com/droogie/bbhost) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/droogie/bbhost.md) |
@@ -38,7 +39,6 @@ _309 guides written so far · last update 2026-10-08 00:07 UTC_
 | [KeJunMao/x-gift-link](https://github.com/KeJunMao/x-gift-link) | JavaScript project | Runs in the browser with a free account | [guide](guides/kejunmao/x-gift-link.md) |
 | [snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/psp-web-recomp.md) |
 | [orange2ai/podcast-to-article](https://github.com/orange2ai/podcast-to-article) | Python project | Runs in the browser with a free account | [guide](guides/orange2ai/podcast-to-article.md) |
-| [opencoredev/convt](https://github.com/opencoredev/convt) | JavaScript project | Runs in the browser with a free account | [guide](guides/opencoredev/convt.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_348 guides written so far · last update 2026-10-08 19:30 UTC_
+_349 guides written so far · last update 2026-10-08 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Stellar-Sentinel/sentinel-frontend](https://github.com/Stellar-Sentinel/sentinel-frontend) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/stellar-sentinel/sentinel-frontend.md) |
 | [Stellar-Sentinel/sentinel-backend](https://github.com/Stellar-Sentinel/sentinel-backend) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/stellar-sentinel/sentinel-backend.md) |
 | [Stellar-Sentinel/sentinel-contracts](https://github.com/Stellar-Sentinel/sentinel-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-sentinel/sentinel-contracts.md) |
 | [Nongfsq/ftop](https://github.com/Nongfsq/ftop) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/nongfsq/ftop.md) |
@@ -38,7 +39,6 @@ _348 guides written so far · last update 2026-10-08 19:30 UTC_
 | [sun168567/cc-desk-tunnel](https://github.com/sun168567/cc-desk-tunnel) | JavaScript project | Runs in the browser with a free account | [guide](guides/sun168567/cc-desk-tunnel.md) |
 | [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) | Python project | Runs in the browser with a free account | [guide](guides/crocswap/integer-mult-bounds.md) |
 | [nachisama/ai-data-extractor](https://github.com/nachisama/ai-data-extractor) | Python project | Runs in the browser with a free account | [guide](guides/nachisama/ai-data-extractor.md) |
-| [Yu-ChangCheng/manufacturing-forecasting-framework](https://github.com/Yu-ChangCheng/manufacturing-forecasting-framework) | Python project | Runs in the browser with a free account | [guide](guides/yu-changcheng/manufacturing-forecasting-framework.md) |
 <!-- latest:end -->
 
 ## How it works

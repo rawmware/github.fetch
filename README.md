@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_365 guides written so far · last update 2026-10-08 23:54 UTC_
+_366 guides written so far · last update 2026-10-08 23:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Nonco-Organization/python-ecdsa](https://github.com/Nonco-Organization/python-ecdsa) | Python project | Runs in the browser with a free account | [guide](guides/nonco-organization/python-ecdsa.md) |
 | [pavellunev/trading_chart](https://github.com/pavellunev/trading_chart) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/pavellunev/trading_chart.md) |
 | [Sightarbreed/1password-download](https://github.com/Sightarbreed/1password-download) | Python project | Runs in the browser with a free account | [guide](guides/sightarbreed/1password-download.md) |
 | [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) | JavaScript project | Runs in the browser with a free account | [guide](guides/thariqs/ai-newtab.md) |
@@ -38,7 +39,6 @@ _365 guides written so far · last update 2026-10-08 23:54 UTC_
 | [secblitz/Secblitz](https://github.com/secblitz/Secblitz) | Rust project | Runs in the browser with a free account | [guide](guides/secblitz/secblitz.md) |
 | [professorpalmer/mirai-s-ada](https://github.com/professorpalmer/mirai-s-ada) | Python project | Runs in the browser with a free account | [guide](guides/professorpalmer/mirai-s-ada.md) |
 | [juspay/streamgres](https://github.com/juspay/streamgres) | Rust project | Runs in the browser with a free account | [guide](guides/juspay/streamgres.md) |
-| [WaEnhancerX/WaEnhancerX](https://github.com/WaEnhancerX/WaEnhancerX) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/waenhancerx/waenhancerx.md) |
 <!-- latest:end -->
 
 ## How it works

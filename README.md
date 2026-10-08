@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_330 guides written so far · last update 2026-10-08 13:39 UTC_
+_331 guides written so far · last update 2026-10-08 13:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Glass-HQ/liquid-glass](https://github.com/Glass-HQ/liquid-glass) | JavaScript project | Runs in the browser with a free account | [guide](guides/glass-hq/liquid-glass.md) |
 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | Python project | Runs in the browser with a free account | [guide](guides/zhongerxin/iphone-use.md) |
 | [OrgoAI/bops](https://github.com/OrgoAI/bops) | Next.js app | Runs in the browser with a free account | [guide](guides/orgoai/bops.md) |
 | [shadany7824/playgta5](https://github.com/shadany7824/playgta5) | JavaScript project | Runs in the browser with a free account | [guide](guides/shadany7824/playgta5.md) |
@@ -38,7 +39,6 @@ _330 guides written so far · last update 2026-10-08 13:39 UTC_
 | [datologyai/zephon](https://github.com/datologyai/zephon) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/datologyai/zephon.md) |
 | [FeiZhuLulu/DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feizhululu/deepseek-bot.md) |
 | [yushua0808-cpu/dragon-codex-boot](https://github.com/yushua0808-cpu/dragon-codex-boot) | PowerShell project | Runs in the browser with a free account | [guide](guides/yushua0808-cpu/dragon-codex-boot.md) |
-| [manpisetsu/wp2shell](https://github.com/manpisetsu/wp2shell) | Python project | Runs in the browser with a free account | [guide](guides/manpisetsu/wp2shell.md) |
 <!-- latest:end -->
 
 ## How it works

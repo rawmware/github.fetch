@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:16.527Z",
- "totalGuides": 340,
+ "updatedAt": "2026-10-08T13:39:16.844Z",
+ "totalGuides": 341,
  "items": [
+  {
+   "fullName": "beianchuqing111/agentic-kb",
+   "owner": "beianchuqing111",
+   "name": "agentic-kb",
+   "url": "https://github.com/beianchuqing111/agentic-kb",
+   "avatar": "https://avatars.githubusercontent.com/u/82030635?v=4",
+   "description": "法规/规程知识库智能体:混合检索(bge-m3 稠密+稀疏 → 服务端 RRF → 交叉编码器重排)+ GraphRAG + 带三道闸与审计的 ReAct 智能体。含检索质量评测设施、FastAPI 接口与 React 界面。",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 58,
+   "forks": 1,
+   "createdAt": "2026-10-07T01:29:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T13:39:16.843Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python Gradio app",
+    "frameworks": [
+     "Gradio"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/beianchuqing111/agentic-kb/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/beianchuqing111/agentic-kb?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/beianchuqing111/agentic-kb",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/beianchuqing111/agentic-kb/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python webui.py",
+   "notes": [
+    "Has a Gradio web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/beianchuqing111/agentic-kb.git\ncd agentic-kb\npip install -r requirements.txt\npython webui.py",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/beianchuqing111/agentic-kb\nWhat it says it does: \"法规/规程知识库智能体:混合检索(bge-m3 稠密+稀疏 → 服务端 RRF → 交叉编码器重排)+ GraphRAG + 带三道闸与审计的 ReAct 智能体。含检索质量评测设施、FastAPI 接口与 React 界面。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T13:39:16.843Z"
+  },
   {
    "fullName": "sun168567/cc-desk-tunnel",
    "owner": "sun168567",
@@ -21286,7 +21352,7 @@
   }
  ],
  "levels": {
-  "account": 147,
+  "account": 148,
   "instant": 31,
   "heavy": 50,
   "read": 112

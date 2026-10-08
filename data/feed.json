@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T06:14:02.963Z",
- "totalGuides": 317,
+ "updatedAt": "2026-10-08T06:14:03.254Z",
+ "totalGuides": 318,
  "items": [
+  {
+   "fullName": "hypersniper05/MCP-Image-Generator-Uncensored",
+   "owner": "hypersniper05",
+   "name": "MCP-Image-Generator-Uncensored",
+   "url": "https://github.com/hypersniper05/MCP-Image-Generator-Uncensored",
+   "avatar": "https://avatars.githubusercontent.com/u/29990615?v=4",
+   "description": "Self-hosted MCP server for image generation and editing with the uncensored Qwen-Image-2.1 model",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 58,
+   "forks": 8,
+   "createdAt": "2026-10-06T14:54:31Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T06:14:03.253Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/hypersniper05/MCP-Image-Generator-Uncensored/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/hypersniper05/MCP-Image-Generator-Uncensored?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/hypersniper05/MCP-Image-Generator-Uncensored",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/hypersniper05/MCP-Image-Generator-Uncensored/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/hypersniper05/MCP-Image-Generator-Uncensored.git\ncd MCP-Image-Generator-Uncensored\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/hypersniper05/MCP-Image-Generator-Uncensored\nWhat it says it does: \"Self-hosted MCP server for image generation and editing with the uncensored Qwen-Image-2.1 model\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T06:14:03.253Z"
+  },
   {
    "fullName": "Pama-Lee/MacMiniMode",
    "owner": "Pama-Lee",
@@ -19790,8 +19852,8 @@
   }
  ],
  "levels": {
+  "account": 132,
   "heavy": 47,
-  "account": 131,
   "instant": 29,
   "read": 110
  }

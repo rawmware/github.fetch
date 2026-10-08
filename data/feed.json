@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T19:30:25.685Z",
- "totalGuides": 349,
+ "updatedAt": "2026-10-08T19:30:25.896Z",
+ "totalGuides": 350,
  "items": [
+  {
+   "fullName": "noahdunnagan/fsearch",
+   "owner": "noahdunnagan",
+   "name": "fsearch",
+   "url": "https://github.com/noahdunnagan/fsearch",
+   "avatar": "https://avatars.githubusercontent.com/u/119903110?v=4",
+   "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+   "language": "Rust",
+   "topics": [],
+   "license": "MIT",
+   "stars": 93,
+   "forks": 8,
+   "createdAt": "2026-10-08T17:50:33Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T19:30:25.895Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/noahdunnagan/fsearch?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/noahdunnagan/fsearch",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/noahdunnagan/fsearch/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/noahdunnagan/fsearch.git\ncd fsearch\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/noahdunnagan/fsearch\nWhat it says it does: \"Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T19:30:25.895Z"
+  },
   {
    "fullName": "Stellar-Sentinel/sentinel-frontend",
    "owner": "Stellar-Sentinel",
@@ -21881,8 +21936,8 @@
   }
  ],
  "levels": {
+  "account": 152,
   "instant": 32,
-  "account": 151,
   "heavy": 53,
   "read": 113
  }

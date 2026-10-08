@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:15.774Z",
- "totalGuides": 337,
+ "updatedAt": "2026-10-08T13:39:15.999Z",
+ "totalGuides": 338,
  "items": [
+  {
+   "fullName": "nachisama/ai-data-extractor",
+   "owner": "nachisama",
+   "name": "ai-data-extractor",
+   "url": "https://github.com/nachisama/ai-data-extractor",
+   "avatar": "https://avatars.githubusercontent.com/u/318008866?v=4",
+   "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+   "language": "Python",
+   "topics": [
+    "ai",
+    "ai-data",
+    "ai-data-analysis",
+    "claude-code",
+    "cursor",
+    "data-extraction",
+    "data-extraction-tool",
+    "data-extractor"
+   ],
+   "license": "MIT",
+   "stars": 68,
+   "forks": 29,
+   "createdAt": "2026-10-07T14:57:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T13:39:15.998Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/nachisama/ai-data-extractor/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/nachisama/ai-data-extractor?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/nachisama/ai-data-extractor",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/nachisama/ai-data-extractor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/nachisama/ai-data-extractor.git\ncd ai-data-extractor",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/nachisama/ai-data-extractor\nWhat it says it does: \"Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T13:39:15.998Z"
+  },
   {
    "fullName": "Yu-ChangCheng/manufacturing-forecasting-framework",
    "owner": "Yu-ChangCheng",
@@ -21082,7 +21153,7 @@
   }
  ],
  "levels": {
-  "account": 144,
+  "account": 145,
   "instant": 31,
   "heavy": 50,
   "read": 112

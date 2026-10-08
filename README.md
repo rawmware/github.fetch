@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_366 guides written so far · last update 2026-10-08 23:54 UTC_
+_367 guides written so far · last update 2026-10-08 23:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [binwu1/drama-series-agent](https://github.com/binwu1/drama-series-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/binwu1/drama-series-agent.md) |
 | [Nonco-Organization/python-ecdsa](https://github.com/Nonco-Organization/python-ecdsa) | Python project | Runs in the browser with a free account | [guide](guides/nonco-organization/python-ecdsa.md) |
 | [pavellunev/trading_chart](https://github.com/pavellunev/trading_chart) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/pavellunev/trading_chart.md) |
 | [Sightarbreed/1password-download](https://github.com/Sightarbreed/1password-download) | Python project | Runs in the browser with a free account | [guide](guides/sightarbreed/1password-download.md) |
@@ -38,7 +39,6 @@ _366 guides written so far · last update 2026-10-08 23:54 UTC_
 | [Travelerrrrrr/LCSC3D](https://github.com/Travelerrrrrr/LCSC3D) | Python project | Runs in the browser with a free account | [guide](guides/travelerrrrrr/lcsc3d.md) |
 | [secblitz/Secblitz](https://github.com/secblitz/Secblitz) | Rust project | Runs in the browser with a free account | [guide](guides/secblitz/secblitz.md) |
 | [professorpalmer/mirai-s-ada](https://github.com/professorpalmer/mirai-s-ada) | Python project | Runs in the browser with a free account | [guide](guides/professorpalmer/mirai-s-ada.md) |
-| [juspay/streamgres](https://github.com/juspay/streamgres) | Rust project | Runs in the browser with a free account | [guide](guides/juspay/streamgres.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T23:54:28.471Z",
- "totalGuides": 366,
+ "updatedAt": "2026-10-08T23:54:28.699Z",
+ "totalGuides": 367,
  "items": [
+  {
+   "fullName": "binwu1/drama-series-agent",
+   "owner": "binwu1",
+   "name": "drama-series-agent",
+   "url": "https://github.com/binwu1/drama-series-agent",
+   "avatar": "https://avatars.githubusercontent.com/u/79432906?v=4",
+   "description": "一句话出片的短剧系列 Agent（Series-scoped agent: idea → short-drama script → cast → MiniMax H3 Ref2VA render）",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 72,
+   "forks": 3,
+   "createdAt": "2026-10-08T07:26:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T23:54:28.699Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/binwu1/drama-series-agent/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/binwu1/drama-series-agent?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/binwu1/drama-series-agent",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/binwu1/drama-series-agent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/binwu1/drama-series-agent.git\ncd drama-series-agent\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/binwu1/drama-series-agent\nWhat it says it does: \"一句话出片的短剧系列 Agent（Series-scoped agent: idea → short-drama script → cast → MiniMax H3 Ref2VA render）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T23:54:28.699Z"
+  },
   {
    "fullName": "Nonco-Organization/python-ecdsa",
    "owner": "Nonco-Organization",
@@ -23001,7 +23067,7 @@
   }
  ],
  "levels": {
-  "account": 164,
+  "account": 165,
   "heavy": 55,
   "instant": 33,
   "read": 114

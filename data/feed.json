@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T19:30:26.697Z",
- "totalGuides": 353,
+ "updatedAt": "2026-10-08T19:30:26.933Z",
+ "totalGuides": 354,
  "items": [
+  {
+   "fullName": "WaEnhancerX/WaEnhancerX",
+   "owner": "WaEnhancerX",
+   "name": "WaEnhancerX",
+   "url": "https://github.com/WaEnhancerX/WaEnhancerX",
+   "avatar": "https://avatars.githubusercontent.com/u/285155815?v=4",
+   "description": "An advanced, open-source LSPosed module for WhatsApp. Features UI customization, aggressive Anti-Meta AI, privacy enhancements, and native settings integration. Written entirely from scratch.",
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "lspose",
+    "lsposeed-module",
+    "mubashardev",
+    "wae",
+    "waenhancer",
+    "waenhancerx",
+    "waenhancerxpro"
+   ],
+   "license": "Apache-2.0",
+   "stars": 59,
+   "forks": 2,
+   "createdAt": "2026-10-07T12:29:05Z",
+   "branch": "main",
+   "homepage": "https://github.com/Xposed-Modules-Repo/com.waenhancer",
+   "addedAt": "2026-10-08T19:30:26.933Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/WaEnhancerX/WaEnhancerX?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/WaEnhancerX/WaEnhancerX",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/WaEnhancerX/WaEnhancerX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/WaEnhancerX/WaEnhancerX.git\ncd WaEnhancerX",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/WaEnhancerX/WaEnhancerX\nWhat it says it does: \"An advanced, open-source LSPosed module for WhatsApp. Features UI customization, aggressive Anti-Meta AI, privacy enhancements, and native settings integration. Written entirely from scratch.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T19:30:26.933Z"
+  },
   {
    "fullName": "pullboard-dev/pullboard",
    "owner": "pullboard-dev",
@@ -22144,9 +22210,9 @@
   }
  ],
  "levels": {
+  "heavy": 54,
   "account": 154,
   "read": 114,
-  "instant": 32,
-  "heavy": 53
+  "instant": 32
  }
 }

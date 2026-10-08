@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_338 guides written so far · last update 2026-10-08 13:39 UTC_
+_339 guides written so far · last update 2026-10-08 13:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) | Python project | Runs in the browser with a free account | [guide](guides/crocswap/integer-mult-bounds.md) |
 | [nachisama/ai-data-extractor](https://github.com/nachisama/ai-data-extractor) | Python project | Runs in the browser with a free account | [guide](guides/nachisama/ai-data-extractor.md) |
 | [Yu-ChangCheng/manufacturing-forecasting-framework](https://github.com/Yu-ChangCheng/manufacturing-forecasting-framework) | Python project | Runs in the browser with a free account | [guide](guides/yu-changcheng/manufacturing-forecasting-framework.md) |
 | [Itz-Anya/Haimiya-Mio](https://github.com/Itz-Anya/Haimiya-Mio) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/itz-anya/haimiya-mio.md) |
@@ -38,7 +39,6 @@ _338 guides written so far · last update 2026-10-08 13:39 UTC_
 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | Python project | Runs in the browser with a free account | [guide](guides/zhongerxin/iphone-use.md) |
 | [OrgoAI/bops](https://github.com/OrgoAI/bops) | Next.js app | Runs in the browser with a free account | [guide](guides/orgoai/bops.md) |
 | [shadany7824/playgta5](https://github.com/shadany7824/playgta5) | JavaScript project | Runs in the browser with a free account | [guide](guides/shadany7824/playgta5.md) |
-| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/mhtsec/artex.md) |
 <!-- latest:end -->
 
 ## How it works

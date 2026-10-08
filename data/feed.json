@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T19:30:28.603Z",
- "totalGuides": 360,
+ "updatedAt": "2026-10-08T19:30:28.911Z",
+ "totalGuides": 361,
  "items": [
+  {
+   "fullName": "Vincentwei1021/mg-styles-15",
+   "owner": "Vincentwei1021",
+   "name": "mg-styles-15",
+   "url": "https://github.com/Vincentwei1021/mg-styles-15",
+   "avatar": "https://avatars.githubusercontent.com/u/18239147?v=4",
+   "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 477,
+   "forks": 80,
+   "createdAt": "2026-10-02T09:43:06Z",
+   "branch": "main",
+   "homepage": "https://vincentwei1021.github.io/mg-styles-15/",
+   "addedAt": "2026-10-08T19:30:28.910Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Vincentwei1021/mg-styles-15",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Vincentwei1021/mg-styles-15",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Vincentwei1021/mg-styles-15?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Vincentwei1021/mg-styles-15",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Vincentwei1021/mg-styles-15/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Vincentwei1021/mg-styles-15.git\ncd mg-styles-15\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Vincentwei1021/mg-styles-15\nWhat it says it does: \"15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T19:30:28.910Z"
+  },
   {
    "fullName": "jiwoochris/artex-ko",
    "owner": "jiwoochris",
@@ -22595,7 +22664,7 @@
   }
  ],
  "levels": {
-  "account": 160,
+  "account": 161,
   "heavy": 54,
   "read": 114,
   "instant": 32

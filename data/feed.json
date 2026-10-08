@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T19:30:25.896Z",
- "totalGuides": 350,
+ "updatedAt": "2026-10-08T19:30:26.104Z",
+ "totalGuides": 351,
  "items": [
+  {
+   "fullName": "mcpdelta/mcpdelta",
+   "owner": "mcpdelta",
+   "name": "mcpdelta",
+   "url": "https://github.com/mcpdelta/mcpdelta",
+   "avatar": "https://avatars.githubusercontent.com/u/339267225?v=4",
+   "description": "Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per task instead of one tool call per step, up to 24.1× fewer tokens in our benchmarks. Every change is recorded and undoable. Coming soon for macOS, Windows and Linux.",
+   "language": null,
+   "topics": [
+    "ai-agents",
+    "ai-coding",
+    "claude",
+    "claude-code",
+    "claude-desktop",
+    "cursor",
+    "desktop-app",
+    "developer-tools"
+   ],
+   "license": null,
+   "stars": 79,
+   "forks": 11,
+   "createdAt": "2026-10-07T17:53:23Z",
+   "branch": "main",
+   "homepage": "https://mcpdelta.com",
+   "addedAt": "2026-10-08T19:30:26.103Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/mcpdelta/mcpdelta",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mcpdelta/mcpdelta/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/mcpdelta/mcpdelta\nWhat it says it does: \"Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per task instead of one tool call per step, up to 24.1× fewer tokens in our benchmarks. Every change is recorded and undoable. Coming soon for macOS, Windows and Linux.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T19:30:26.103Z"
+  },
   {
    "fullName": "noahdunnagan/fsearch",
    "owner": "noahdunnagan",
@@ -21936,9 +21993,9 @@
   }
  ],
  "levels": {
+  "read": 114,
   "account": 152,
   "instant": 32,
-  "heavy": 53,
-  "read": 113
+  "heavy": 53
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_350 guides written so far · last update 2026-10-08 19:30 UTC_
+_351 guides written so far · last update 2026-10-08 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mcpdelta/mcpdelta](https://github.com/mcpdelta/mcpdelta) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mcpdelta/mcpdelta.md) |
 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | Rust project | Runs in the browser with a free account | [guide](guides/noahdunnagan/fsearch.md) |
 | [Stellar-Sentinel/sentinel-frontend](https://github.com/Stellar-Sentinel/sentinel-frontend) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/stellar-sentinel/sentinel-frontend.md) |
 | [Stellar-Sentinel/sentinel-backend](https://github.com/Stellar-Sentinel/sentinel-backend) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/stellar-sentinel/sentinel-backend.md) |
@@ -38,7 +39,6 @@ _350 guides written so far · last update 2026-10-08 19:30 UTC_
 | [jungjin0003/Claude-Mythos-5.1-System-Prompt](https://github.com/jungjin0003/Claude-Mythos-5.1-System-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jungjin0003/claude-mythos-5.1-system-prompt.md) |
 | [beianchuqing111/agentic-kb](https://github.com/beianchuqing111/agentic-kb) | Python Gradio app | Runs in the browser with a free account | [guide](guides/beianchuqing111/agentic-kb.md) |
 | [sun168567/cc-desk-tunnel](https://github.com/sun168567/cc-desk-tunnel) | JavaScript project | Runs in the browser with a free account | [guide](guides/sun168567/cc-desk-tunnel.md) |
-| [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) | Python project | Runs in the browser with a free account | [guide](guides/crocswap/integer-mult-bounds.md) |
 <!-- latest:end -->
 
 ## How it works

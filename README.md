@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_323 guides written so far · last update 2026-10-08 06:14 UTC_
+_324 guides written so far · last update 2026-10-08 06:14 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [GrimClawBot/Pixel-Companion](https://github.com/GrimClawBot/Pixel-Companion) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/grimclawbot/pixel-companion.md) |
 | [DaiShengwen/WoofMeow-info](https://github.com/DaiShengwen/WoofMeow-info) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daishengwen/woofmeow-info.md) |
 | [datologyai/zephon](https://github.com/datologyai/zephon) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/datologyai/zephon.md) |
 | [FeiZhuLulu/DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feizhululu/deepseek-bot.md) |
@@ -38,7 +39,6 @@ _323 guides written so far · last update 2026-10-08 06:14 UTC_
 | [mw00/project-maya](https://github.com/mw00/project-maya) | Python project | Runs in the browser with a free account | [guide](guides/mw00/project-maya.md) |
 | [SpeakingOfBrad/BIGWORDS.PAGE](https://github.com/SpeakingOfBrad/BIGWORDS.PAGE) | Vite app | Runs in the browser with a free account | [guide](guides/speakingofbrad/bigwords.page.md) |
 | [Stellar-Promiscope/promiscope-backend](https://github.com/Stellar-Promiscope/promiscope-backend) | Express app | Runs in the browser with a free account | [guide](guides/stellar-promiscope/promiscope-backend.md) |
-| [Stellar-Promiscope/promiscope-contracts](https://github.com/Stellar-Promiscope/promiscope-contracts) | Express app | Runs in a browser tab, no account needed | [guide](guides/stellar-promiscope/promiscope-contracts.md) |
 <!-- latest:end -->
 
 ## How it works

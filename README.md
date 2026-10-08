@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_343 guides written so far · last update 2026-10-08 13:39 UTC_
+_344 guides written so far · last update 2026-10-08 13:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Yharnam-Hunters/Paleblood](https://github.com/Yharnam-Hunters/Paleblood) | Python project | Runs in the browser with a free account | [guide](guides/yharnam-hunters/paleblood.md) |
 | [LIN428924379/baifanyu](https://github.com/LIN428924379/baifanyu) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/lin428924379/baifanyu.md) |
 | [jungjin0003/Claude-Mythos-5.1-System-Prompt](https://github.com/jungjin0003/Claude-Mythos-5.1-System-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jungjin0003/claude-mythos-5.1-system-prompt.md) |
 | [beianchuqing111/agentic-kb](https://github.com/beianchuqing111/agentic-kb) | Python Gradio app | Runs in the browser with a free account | [guide](guides/beianchuqing111/agentic-kb.md) |
@@ -38,7 +39,6 @@ _343 guides written so far · last update 2026-10-08 13:39 UTC_
 | [Janina21/Crypto-Checker](https://github.com/Janina21/Crypto-Checker) | Python project | Runs in the browser with a free account | [guide](guides/janina21/crypto-checker.md) |
 | [transkatgirl/vibeclaude](https://github.com/transkatgirl/vibeclaude) | JavaScript project | Runs in the browser with a free account | [guide](guides/transkatgirl/vibeclaude.md) |
 | [yujin2625/Pawprint](https://github.com/yujin2625/Pawprint) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/yujin2625/pawprint.md) |
-| [goodseafly/how-to-work-better](https://github.com/goodseafly/how-to-work-better) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/goodseafly/how-to-work-better.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_357 guides written so far · last update 2026-10-08 19:30 UTC_
+_358 guides written so far · last update 2026-10-08 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Travelerrrrrr/LCSC3D](https://github.com/Travelerrrrrr/LCSC3D) | Python project | Runs in the browser with a free account | [guide](guides/travelerrrrrr/lcsc3d.md) |
 | [secblitz/Secblitz](https://github.com/secblitz/Secblitz) | Rust project | Runs in the browser with a free account | [guide](guides/secblitz/secblitz.md) |
 | [professorpalmer/mirai-s-ada](https://github.com/professorpalmer/mirai-s-ada) | Python project | Runs in the browser with a free account | [guide](guides/professorpalmer/mirai-s-ada.md) |
 | [juspay/streamgres](https://github.com/juspay/streamgres) | Rust project | Runs in the browser with a free account | [guide](guides/juspay/streamgres.md) |
@@ -38,7 +39,6 @@ _357 guides written so far · last update 2026-10-08 19:30 UTC_
 | [Stellar-Sentinel/sentinel-frontend](https://github.com/Stellar-Sentinel/sentinel-frontend) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/stellar-sentinel/sentinel-frontend.md) |
 | [Stellar-Sentinel/sentinel-backend](https://github.com/Stellar-Sentinel/sentinel-backend) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/stellar-sentinel/sentinel-backend.md) |
 | [Stellar-Sentinel/sentinel-contracts](https://github.com/Stellar-Sentinel/sentinel-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-sentinel/sentinel-contracts.md) |
-| [Nongfsq/ftop](https://github.com/Nongfsq/ftop) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/nongfsq/ftop.md) |
 <!-- latest:end -->
 
 ## How it works

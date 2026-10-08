@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T19:30:27.592Z",
- "totalGuides": 357,
+ "updatedAt": "2026-10-08T19:30:27.825Z",
+ "totalGuides": 358,
  "items": [
+  {
+   "fullName": "Travelerrrrrr/LCSC3D",
+   "owner": "Travelerrrrrr",
+   "name": "LCSC3D",
+   "url": "https://github.com/Travelerrrrrr/LCSC3D",
+   "avatar": "https://avatars.githubusercontent.com/u/140295037?v=4",
+   "description": "Windows 便携工具：按立创 C 编号批量下载 STEP/OBJ 3D 模型，导出 Altium Designer SchLib/PcbLib 元件库，预览 3D、符号与封装，支持自更新。",
+   "language": "Python",
+   "topics": [
+    "3d",
+    "3d-models",
+    "3d-viewer",
+    "ad",
+    "altium-designer",
+    "easyeda",
+    "eda",
+    "electronics"
+   ],
+   "license": "AGPL-3.0",
+   "stars": 51,
+   "forks": 2,
+   "createdAt": "2026-10-06T14:25:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T19:30:27.824Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Travelerrrrrr/LCSC3D/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Travelerrrrrr/LCSC3D?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Travelerrrrrr/LCSC3D",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Travelerrrrrr/LCSC3D/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Travelerrrrrr/LCSC3D.git\ncd LCSC3D",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/Travelerrrrrr/LCSC3D\nWhat it says it does: \"Windows 便携工具：按立创 C 编号批量下载 STEP/OBJ 3D 模型，导出 Altium Designer SchLib/PcbLib 元件库，预览 3D、符号与封装，支持自更新。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T19:30:27.824Z"
+  },
   {
    "fullName": "secblitz/Secblitz",
    "owner": "secblitz",
@@ -22382,7 +22453,7 @@
   }
  ],
  "levels": {
-  "account": 157,
+  "account": 158,
   "heavy": 54,
   "read": 114,
   "instant": 32

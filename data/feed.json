@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:13.502Z",
- "totalGuides": 329,
+ "updatedAt": "2026-10-08T13:39:13.664Z",
+ "totalGuides": 330,
  "items": [
+  {
+   "fullName": "zhongerxin/iPhone-use",
+   "owner": "zhongerxin",
+   "name": "iPhone-use",
+   "url": "https://github.com/zhongerxin/iPhone-use",
+   "avatar": "https://avatars.githubusercontent.com/u/8215057?v=4",
+   "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 131,
+   "forks": 8,
+   "createdAt": "2026-10-06T15:09:33Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T13:39:13.662Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/zhongerxin/iPhone-use/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zhongerxin/iPhone-use?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zhongerxin/iPhone-use",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zhongerxin/iPhone-use/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/zhongerxin/iPhone-use.git\ncd iPhone-use",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zhongerxin/iPhone-use\nWhat it says it does: \"让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T13:39:13.662Z"
+  },
   {
    "fullName": "OrgoAI/bops",
    "owner": "OrgoAI",
@@ -20517,7 +20579,7 @@
   }
  ],
  "levels": {
-  "account": 139,
+  "account": 140,
   "heavy": 49,
   "read": 112,
   "instant": 29

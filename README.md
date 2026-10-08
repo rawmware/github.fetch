@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_331 guides written so far · last update 2026-10-08 13:39 UTC_
+_332 guides written so far · last update 2026-10-08 13:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [goodseafly/how-to-work-better](https://github.com/goodseafly/how-to-work-better) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/goodseafly/how-to-work-better.md) |
 | [Glass-HQ/liquid-glass](https://github.com/Glass-HQ/liquid-glass) | JavaScript project | Runs in the browser with a free account | [guide](guides/glass-hq/liquid-glass.md) |
 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | Python project | Runs in the browser with a free account | [guide](guides/zhongerxin/iphone-use.md) |
 | [OrgoAI/bops](https://github.com/OrgoAI/bops) | Next.js app | Runs in the browser with a free account | [guide](guides/orgoai/bops.md) |
@@ -38,7 +39,6 @@ _331 guides written so far · last update 2026-10-08 13:39 UTC_
 | [DaiShengwen/WoofMeow-info](https://github.com/DaiShengwen/WoofMeow-info) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daishengwen/woofmeow-info.md) |
 | [datologyai/zephon](https://github.com/datologyai/zephon) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/datologyai/zephon.md) |
 | [FeiZhuLulu/DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feizhululu/deepseek-bot.md) |
-| [yushua0808-cpu/dragon-codex-boot](https://github.com/yushua0808-cpu/dragon-codex-boot) | PowerShell project | Runs in the browser with a free account | [guide](guides/yushua0808-cpu/dragon-codex-boot.md) |
 <!-- latest:end -->
 
 ## How it works

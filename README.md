@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_310 guides written so far · last update 2026-10-08 00:07 UTC_
+_311 guides written so far · last update 2026-10-08 06:14 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Stellar-Promiscope/promiscope-frontend](https://github.com/Stellar-Promiscope/promiscope-frontend) | Next.js app | Runs in the browser with a free account | [guide](guides/stellar-promiscope/promiscope-frontend.md) |
 | [ostiums/fixkit](https://github.com/ostiums/fixkit) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/ostiums/fixkit.md) |
 | [jadeapricot27/Hyperliquid-Leaderboard-Analytics](https://github.com/jadeapricot27/Hyperliquid-Leaderboard-Analytics) | Python project | Runs in the browser with a free account | [guide](guides/jadeapricot27/hyperliquid-leaderboard-analytics.md) |
 | [Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/founder-skill.md) |
@@ -38,7 +39,6 @@ _310 guides written so far · last update 2026-10-08 00:07 UTC_
 | [msurguy/watercolor-playground](https://github.com/msurguy/watercolor-playground) | Vite app | Runs in a browser tab, no account needed | [guide](guides/msurguy/watercolor-playground.md) |
 | [KeJunMao/x-gift-link](https://github.com/KeJunMao/x-gift-link) | JavaScript project | Runs in the browser with a free account | [guide](guides/kejunmao/x-gift-link.md) |
 | [snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/psp-web-recomp.md) |
-| [orange2ai/podcast-to-article](https://github.com/orange2ai/podcast-to-article) | Python project | Runs in the browser with a free account | [guide](guides/orange2ai/podcast-to-article.md) |
 <!-- latest:end -->
 
 ## How it works

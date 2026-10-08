@@ -1,8 +1,82 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:17.488Z",
- "totalGuides": 344,
+ "updatedAt": "2026-10-08T13:39:17.804Z",
+ "totalGuides": 345,
  "items": [
+  {
+   "fullName": "Zihan-Su/Self_Gradient_Forcing_Plus",
+   "owner": "Zihan-Su",
+   "name": "Self_Gradient_Forcing_Plus",
+   "url": "https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus",
+   "avatar": "https://avatars.githubusercontent.com/u/101087014?v=4",
+   "description": "Autoregressive video generation with decoupled context-writing and denoising parameters, enabling up to 24-hour generation from 5s training windows.",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 51,
+   "forks": 0,
+   "createdAt": "2026-10-07T15:58:40Z",
+   "branch": "main",
+   "homepage": "https://zihan-su.github.io/self-gradient-forcing-plus",
+   "addedAt": "2026-10-08T13:39:17.803Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python Flask app",
+    "frameworks": [
+     "Flask"
+    ]
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "colab-new",
+   "launch": [
+    {
+     "id": "colab-new",
+     "label": "Google Colab",
+     "url": "https://colab.research.google.com/",
+     "needs": "free Google account",
+     "note": "New notebook, then run: !git clone https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus"
+    },
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Zihan-Su/Self_Gradient_Forcing_Plus/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Zihan-Su/Self_Gradient_Forcing_Plus?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Zihan-Su/Self_Gradient_Forcing_Plus",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python demo.py",
+   "notes": [
+    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one.",
+    "Has a Flask web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus.git\ncd Self_Gradient_Forcing_Plus\npip install -r requirements.txt\npython demo.py",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus\nWhat it says it does: \"Autoregressive video generation with decoupled context-writing and denoising parameters, enabling up to 24-hour generation from 5s training windows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T13:39:17.803Z"
+  },
   {
    "fullName": "Yharnam-Hunters/Paleblood",
    "owner": "Yharnam-Hunters",
@@ -21525,8 +21599,8 @@
   }
  ],
  "levels": {
+  "heavy": 52,
   "account": 149,
-  "heavy": 51,
   "read": 113,
   "instant": 31
  }

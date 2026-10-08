@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_332 guides written so far · last update 2026-10-08 13:39 UTC_
+_333 guides written so far · last update 2026-10-08 13:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yujin2625/Pawprint](https://github.com/yujin2625/Pawprint) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/yujin2625/pawprint.md) |
 | [goodseafly/how-to-work-better](https://github.com/goodseafly/how-to-work-better) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/goodseafly/how-to-work-better.md) |
 | [Glass-HQ/liquid-glass](https://github.com/Glass-HQ/liquid-glass) | JavaScript project | Runs in the browser with a free account | [guide](guides/glass-hq/liquid-glass.md) |
 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | Python project | Runs in the browser with a free account | [guide](guides/zhongerxin/iphone-use.md) |
@@ -38,7 +39,6 @@ _332 guides written so far · last update 2026-10-08 13:39 UTC_
 | [GrimClawBot/Pixel-Companion](https://github.com/GrimClawBot/Pixel-Companion) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/grimclawbot/pixel-companion.md) |
 | [DaiShengwen/WoofMeow-info](https://github.com/DaiShengwen/WoofMeow-info) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daishengwen/woofmeow-info.md) |
 | [datologyai/zephon](https://github.com/datologyai/zephon) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/datologyai/zephon.md) |
-| [FeiZhuLulu/DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feizhululu/deepseek-bot.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T06:14:03.659Z",
- "totalGuides": 320,
+ "updatedAt": "2026-10-08T06:14:03.849Z",
+ "totalGuides": 321,
  "items": [
+  {
+   "fullName": "FeiZhuLulu/DeepSeek-Bot",
+   "owner": "FeiZhuLulu",
+   "name": "DeepSeek-Bot",
+   "url": "https://github.com/FeiZhuLulu/DeepSeek-Bot",
+   "avatar": "https://avatars.githubusercontent.com/u/279467036?v=4",
+   "description": "Bot based on DeepSeek Harness",
+   "language": null,
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 52,
+   "forks": 3,
+   "createdAt": "2026-10-07T15:37:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T06:14:03.848Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/FeiZhuLulu/DeepSeek-Bot",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/FeiZhuLulu/DeepSeek-Bot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/FeiZhuLulu/DeepSeek-Bot\nWhat it says it does: \"Bot based on DeepSeek Harness\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T06:14:03.848Z"
+  },
   {
    "fullName": "yushua0808-cpu/dragon-codex-boot",
    "owner": "yushua0808-cpu",
@@ -19979,9 +20027,9 @@
   }
  ],
  "levels": {
+  "read": 111,
   "account": 134,
   "heavy": 47,
-  "instant": 29,
-  "read": 110
+  "instant": 29
  }
 }

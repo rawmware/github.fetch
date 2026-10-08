@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_320 guides written so far · last update 2026-10-08 06:14 UTC_
+_321 guides written so far · last update 2026-10-08 06:14 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [FeiZhuLulu/DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feizhululu/deepseek-bot.md) |
 | [yushua0808-cpu/dragon-codex-boot](https://github.com/yushua0808-cpu/dragon-codex-boot) | PowerShell project | Runs in the browser with a free account | [guide](guides/yushua0808-cpu/dragon-codex-boot.md) |
 | [manpisetsu/wp2shell](https://github.com/manpisetsu/wp2shell) | Python project | Runs in the browser with a free account | [guide](guides/manpisetsu/wp2shell.md) |
 | [hypersniper05/MCP-Image-Generator-Uncensored](https://github.com/hypersniper05/MCP-Image-Generator-Uncensored) | Python project | Runs in the browser with a free account | [guide](guides/hypersniper05/mcp-image-generator-uncensored.md) |
@@ -38,7 +39,6 @@ _320 guides written so far · last update 2026-10-08 06:14 UTC_
 | [Stellar-Promiscope/promiscope-contracts](https://github.com/Stellar-Promiscope/promiscope-contracts) | Express app | Runs in a browser tab, no account needed | [guide](guides/stellar-promiscope/promiscope-contracts.md) |
 | [Stellar-Promiscope/promiscope-frontend](https://github.com/Stellar-Promiscope/promiscope-frontend) | Next.js app | Runs in the browser with a free account | [guide](guides/stellar-promiscope/promiscope-frontend.md) |
 | [ostiums/fixkit](https://github.com/ostiums/fixkit) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/ostiums/fixkit.md) |
-| [jadeapricot27/Hyperliquid-Leaderboard-Analytics](https://github.com/jadeapricot27/Hyperliquid-Leaderboard-Analytics) | Python project | Runs in the browser with a free account | [guide](guides/jadeapricot27/hyperliquid-leaderboard-analytics.md) |
 <!-- latest:end -->
 
 ## How it works

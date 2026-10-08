@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_325 guides written so far · last update 2026-10-08 06:14 UTC_
+_326 guides written so far · last update 2026-10-08 06:14 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [heiner/mills8a](https://github.com/heiner/mills8a) | Python project | Runs in the browser with a free account | [guide](guides/heiner/mills8a.md) |
 | [JinHo-von-Choi/anti-samcheonpo](https://github.com/JinHo-von-Choi/anti-samcheonpo) | Go project | Runs in the browser with a free account | [guide](guides/jinho-von-choi/anti-samcheonpo.md) |
 | [GrimClawBot/Pixel-Companion](https://github.com/GrimClawBot/Pixel-Companion) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/grimclawbot/pixel-companion.md) |
 | [DaiShengwen/WoofMeow-info](https://github.com/DaiShengwen/WoofMeow-info) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daishengwen/woofmeow-info.md) |
@@ -38,7 +39,6 @@ _325 guides written so far · last update 2026-10-08 06:14 UTC_
 | [Pama-Lee/MacMiniMode](https://github.com/Pama-Lee/MacMiniMode) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/pama-lee/macminimode.md) |
 | [nullmoth/1401](https://github.com/nullmoth/1401) | Python project | Runs in the browser with a free account | [guide](guides/nullmoth/1401.md) |
 | [mw00/project-maya](https://github.com/mw00/project-maya) | Python project | Runs in the browser with a free account | [guide](guides/mw00/project-maya.md) |
-| [SpeakingOfBrad/BIGWORDS.PAGE](https://github.com/SpeakingOfBrad/BIGWORDS.PAGE) | Vite app | Runs in the browser with a free account | [guide](guides/speakingofbrad/bigwords.page.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,83 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T06:14:01.445Z",
- "totalGuides": 311,
+ "updatedAt": "2026-10-08T06:14:01.788Z",
+ "totalGuides": 312,
  "items": [
+  {
+   "fullName": "Stellar-Promiscope/promiscope-contracts",
+   "owner": "Stellar-Promiscope",
+   "name": "promiscope-contracts",
+   "url": "https://github.com/Stellar-Promiscope/promiscope-contracts",
+   "avatar": "https://avatars.githubusercontent.com/u/339359471?v=4",
+   "description": "Promiscope Soroban contracts retained for legacy workflows; privacy-safe accountability contract design is tracked separately.",
+   "language": "Rust",
+   "topics": [
+    "rust",
+    "soroban",
+    "stellar"
+   ],
+   "license": "MIT",
+   "stars": 129,
+   "forks": 128,
+   "createdAt": "2026-10-07T23:20:00Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T06:14:01.787Z",
+   "stack": {
+    "kind": "node",
+    "label": "Express app",
+    "frameworks": [
+     "Express"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Stellar-Promiscope/promiscope-contracts",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Stellar-Promiscope/promiscope-contracts",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Stellar-Promiscope/promiscope-contracts?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Stellar-Promiscope/promiscope-contracts",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Stellar-Promiscope/promiscope-contracts/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Stellar-Promiscope/promiscope-contracts.git\ncd promiscope-contracts\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Stellar-Promiscope/promiscope-contracts\nWhat it says it does: \"Promiscope Soroban contracts retained for legacy workflows; privacy-safe accountability contract design is tracked separately.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T06:14:01.787Z"
+  },
   {
    "fullName": "Stellar-Promiscope/promiscope-frontend",
    "owner": "Stellar-Promiscope",
@@ -19366,9 +19441,9 @@
   }
  ],
  "levels": {
+  "instant": 29,
   "account": 127,
   "heavy": 46,
-  "instant": 28,
   "read": 110
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_334 guides written so far · last update 2026-10-08 13:39 UTC_
+_335 guides written so far · last update 2026-10-08 13:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Janina21/Crypto-Checker](https://github.com/Janina21/Crypto-Checker) | Python project | Runs in the browser with a free account | [guide](guides/janina21/crypto-checker.md) |
 | [transkatgirl/vibeclaude](https://github.com/transkatgirl/vibeclaude) | JavaScript project | Runs in the browser with a free account | [guide](guides/transkatgirl/vibeclaude.md) |
 | [yujin2625/Pawprint](https://github.com/yujin2625/Pawprint) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/yujin2625/pawprint.md) |
 | [goodseafly/how-to-work-better](https://github.com/goodseafly/how-to-work-better) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/goodseafly/how-to-work-better.md) |
@@ -38,7 +39,6 @@ _334 guides written so far · last update 2026-10-08 13:39 UTC_
 | [heiner/mills8a](https://github.com/heiner/mills8a) | Python project | Runs in the browser with a free account | [guide](guides/heiner/mills8a.md) |
 | [JinHo-von-Choi/anti-samcheonpo](https://github.com/JinHo-von-Choi/anti-samcheonpo) | Go project | Runs in the browser with a free account | [guide](guides/jinho-von-choi/anti-samcheonpo.md) |
 | [GrimClawBot/Pixel-Companion](https://github.com/GrimClawBot/Pixel-Companion) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/grimclawbot/pixel-companion.md) |
-| [DaiShengwen/WoofMeow-info](https://github.com/DaiShengwen/WoofMeow-info) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daishengwen/woofmeow-info.md) |
 <!-- latest:end -->
 
 ## How it works

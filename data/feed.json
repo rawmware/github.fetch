@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:14.803Z",
- "totalGuides": 334,
+ "updatedAt": "2026-10-08T13:39:15.097Z",
+ "totalGuides": 335,
  "items": [
+  {
+   "fullName": "Janina21/Crypto-Checker",
+   "owner": "Janina21",
+   "name": "Crypto-Checker",
+   "url": "https://github.com/Janina21/Crypto-Checker",
+   "avatar": "https://avatars.githubusercontent.com/u/309349352?v=4",
+   "description": "Python-based crypto wallet analysis tool with multi-threaded address and seed phrase checking (up to 50 threads). Supports Bitcoin, Ethereum, Solana, BNB Chain, Polygon, and EVM networks. Includes proxy rotation, portfolio aggregation, USD valuation, token scanning, and TXT/CSV/J",
+   "language": "Python",
+   "topics": [
+    "address-balance-tool",
+    "bitcoin-address-balances",
+    "bitcoin-checker",
+    "brute-force-tool",
+    "checker-crypto",
+    "crypto-checker-tool",
+    "cryptoanalysis",
+    "cryptochecker"
+   ],
+   "license": "MIT",
+   "stars": 83,
+   "forks": 12,
+   "createdAt": "2026-10-06T13:26:32Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T13:39:15.096Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Janina21/Crypto-Checker/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Janina21/Crypto-Checker?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Janina21/Crypto-Checker",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Janina21/Crypto-Checker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Janina21/Crypto-Checker.git\ncd Crypto-Checker\npip install -r requirements.txt\npython main.py",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Janina21/Crypto-Checker\nWhat it says it does: \"Python-based crypto wallet analysis tool with multi-threaded address and seed phrase checking (up to 50 threads). Supports Bitcoin, Ethereum, Solana, BNB Chain, Polygon, and EVM networks. Includes proxy rotation, portfolio aggregation, USD valuation, token scanning, and TXT/CSV/J\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T13:39:15.096Z"
+  },
   {
    "fullName": "transkatgirl/vibeclaude",
    "owner": "transkatgirl",
@@ -20868,7 +20939,7 @@
   }
  ],
  "levels": {
-  "account": 142,
+  "account": 143,
   "heavy": 50,
   "instant": 30,
   "read": 112

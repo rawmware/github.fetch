@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_322 guides written so far · last update 2026-10-08 06:14 UTC_
+_323 guides written so far · last update 2026-10-08 06:14 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DaiShengwen/WoofMeow-info](https://github.com/DaiShengwen/WoofMeow-info) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daishengwen/woofmeow-info.md) |
 | [datologyai/zephon](https://github.com/datologyai/zephon) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/datologyai/zephon.md) |
 | [FeiZhuLulu/DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feizhululu/deepseek-bot.md) |
 | [yushua0808-cpu/dragon-codex-boot](https://github.com/yushua0808-cpu/dragon-codex-boot) | PowerShell project | Runs in the browser with a free account | [guide](guides/yushua0808-cpu/dragon-codex-boot.md) |
@@ -38,7 +39,6 @@ _322 guides written so far · last update 2026-10-08 06:14 UTC_
 | [SpeakingOfBrad/BIGWORDS.PAGE](https://github.com/SpeakingOfBrad/BIGWORDS.PAGE) | Vite app | Runs in the browser with a free account | [guide](guides/speakingofbrad/bigwords.page.md) |
 | [Stellar-Promiscope/promiscope-backend](https://github.com/Stellar-Promiscope/promiscope-backend) | Express app | Runs in the browser with a free account | [guide](guides/stellar-promiscope/promiscope-backend.md) |
 | [Stellar-Promiscope/promiscope-contracts](https://github.com/Stellar-Promiscope/promiscope-contracts) | Express app | Runs in a browser tab, no account needed | [guide](guides/stellar-promiscope/promiscope-contracts.md) |
-| [Stellar-Promiscope/promiscope-frontend](https://github.com/Stellar-Promiscope/promiscope-frontend) | Next.js app | Runs in the browser with a free account | [guide](guides/stellar-promiscope/promiscope-frontend.md) |
 <!-- latest:end -->
 
 ## How it works

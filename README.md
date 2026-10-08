@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_363 guides written so far · last update 2026-10-08 23:54 UTC_
+_364 guides written so far · last update 2026-10-08 23:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Sightarbreed/1password-download](https://github.com/Sightarbreed/1password-download) | Python project | Runs in the browser with a free account | [guide](guides/sightarbreed/1password-download.md) |
 | [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) | JavaScript project | Runs in the browser with a free account | [guide](guides/thariqs/ai-newtab.md) |
 | [Nonco-Organization/multicoin-address-validator](https://github.com/Nonco-Organization/multicoin-address-validator) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nonco-organization/multicoin-address-validator.md) |
 | [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15) | JavaScript project | Runs in the browser with a free account | [guide](guides/vincentwei1021/mg-styles-15.md) |
@@ -38,7 +39,6 @@ _363 guides written so far · last update 2026-10-08 23:54 UTC_
 | [juspay/streamgres](https://github.com/juspay/streamgres) | Rust project | Runs in the browser with a free account | [guide](guides/juspay/streamgres.md) |
 | [WaEnhancerX/WaEnhancerX](https://github.com/WaEnhancerX/WaEnhancerX) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/waenhancerx/waenhancerx.md) |
 | [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) | Node command-line tool | Runs in the browser with a free account | [guide](guides/pullboard-dev/pullboard.md) |
-| [Xuanwo/agenvo](https://github.com/Xuanwo/agenvo) | Express app | Runs in the browser with a free account | [guide](guides/xuanwo/agenvo.md) |
 <!-- latest:end -->
 
 ## How it works

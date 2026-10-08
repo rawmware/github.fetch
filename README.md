@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_352 guides written so far · last update 2026-10-08 19:30 UTC_
+_353 guides written so far · last update 2026-10-08 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) | Node command-line tool | Runs in the browser with a free account | [guide](guides/pullboard-dev/pullboard.md) |
 | [Xuanwo/agenvo](https://github.com/Xuanwo/agenvo) | Express app | Runs in the browser with a free account | [guide](guides/xuanwo/agenvo.md) |
 | [mcpdelta/mcpdelta](https://github.com/mcpdelta/mcpdelta) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mcpdelta/mcpdelta.md) |
 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | Rust project | Runs in the browser with a free account | [guide](guides/noahdunnagan/fsearch.md) |
@@ -38,7 +39,6 @@ _352 guides written so far · last update 2026-10-08 19:30 UTC_
 | [Yharnam-Hunters/Paleblood](https://github.com/Yharnam-Hunters/Paleblood) | Python project | Runs in the browser with a free account | [guide](guides/yharnam-hunters/paleblood.md) |
 | [LIN428924379/baifanyu](https://github.com/LIN428924379/baifanyu) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/lin428924379/baifanyu.md) |
 | [jungjin0003/Claude-Mythos-5.1-System-Prompt](https://github.com/jungjin0003/Claude-Mythos-5.1-System-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jungjin0003/claude-mythos-5.1-system-prompt.md) |
-| [beianchuqing111/agentic-kb](https://github.com/beianchuqing111/agentic-kb) | Python Gradio app | Runs in the browser with a free account | [guide](guides/beianchuqing111/agentic-kb.md) |
 <!-- latest:end -->
 
 ## How it works

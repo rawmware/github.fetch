@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T06:14:02.782Z",
- "totalGuides": 316,
+ "updatedAt": "2026-10-08T06:14:02.963Z",
+ "totalGuides": 317,
  "items": [
+  {
+   "fullName": "Pama-Lee/MacMiniMode",
+   "owner": "Pama-Lee",
+   "name": "MacMiniMode",
+   "url": "https://github.com/Pama-Lee/MacMiniMode",
+   "avatar": "https://avatars.githubusercontent.com/u/52483421?v=4",
+   "description": "Keep a plugged-in MacBook awake with the lid closed: clamshell mode without an external display, auto-off on battery. 让 MacBook 合盖不休眠，当 Mac mini 用。",
+   "language": "Swift",
+   "topics": [
+    "apple-silicon",
+    "caffeinate",
+    "clamshell",
+    "clamshell-mode",
+    "headless",
+    "home-server",
+    "homelab",
+    "keep-awake"
+   ],
+   "license": "MIT",
+   "stars": 63,
+   "forks": 2,
+   "createdAt": "2026-10-07T11:20:36Z",
+   "branch": "main",
+   "homepage": "https://github.com/Pama-Lee/MacMiniMode/releases/latest",
+   "addedAt": "2026-10-08T06:14:02.962Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Pama-Lee/MacMiniMode?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Pama-Lee/MacMiniMode",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Pama-Lee/MacMiniMode/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Pama-Lee/MacMiniMode.git\ncd MacMiniMode",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Pama-Lee/MacMiniMode\nWhat it says it does: \"Keep a plugged-in MacBook awake with the lid closed: clamshell mode without an external display, auto-off on battery. 让 MacBook 合盖不休眠，当 Mac mini 用。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T06:14:02.962Z"
+  },
   {
    "fullName": "nullmoth/1401",
    "owner": "nullmoth",
@@ -19724,9 +19790,9 @@
   }
  ],
  "levels": {
+  "heavy": 47,
   "account": 131,
   "instant": 29,
-  "heavy": 46,
   "read": 110
  }
 }

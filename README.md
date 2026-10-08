@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_327 guides written so far · last update 2026-10-08 13:39 UTC_
+_328 guides written so far · last update 2026-10-08 13:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [shadany7824/playgta5](https://github.com/shadany7824/playgta5) | JavaScript project | Runs in the browser with a free account | [guide](guides/shadany7824/playgta5.md) |
 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/mhtsec/artex.md) |
 | [heiner/mills8a](https://github.com/heiner/mills8a) | Python project | Runs in the browser with a free account | [guide](guides/heiner/mills8a.md) |
 | [JinHo-von-Choi/anti-samcheonpo](https://github.com/JinHo-von-Choi/anti-samcheonpo) | Go project | Runs in the browser with a free account | [guide](guides/jinho-von-choi/anti-samcheonpo.md) |
@@ -38,7 +39,6 @@ _327 guides written so far · last update 2026-10-08 13:39 UTC_
 | [manpisetsu/wp2shell](https://github.com/manpisetsu/wp2shell) | Python project | Runs in the browser with a free account | [guide](guides/manpisetsu/wp2shell.md) |
 | [hypersniper05/MCP-Image-Generator-Uncensored](https://github.com/hypersniper05/MCP-Image-Generator-Uncensored) | Python project | Runs in the browser with a free account | [guide](guides/hypersniper05/mcp-image-generator-uncensored.md) |
 | [Pama-Lee/MacMiniMode](https://github.com/Pama-Lee/MacMiniMode) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/pama-lee/macminimode.md) |
-| [nullmoth/1401](https://github.com/nullmoth/1401) | Python project | Runs in the browser with a free account | [guide](guides/nullmoth/1401.md) |
 <!-- latest:end -->
 
 ## How it works

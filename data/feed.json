@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:12.877Z",
- "totalGuides": 327,
+ "updatedAt": "2026-10-08T13:39:13.148Z",
+ "totalGuides": 328,
  "items": [
+  {
+   "fullName": "shadany7824/playgta5",
+   "owner": "shadany7824",
+   "name": "playgta5",
+   "url": "https://github.com/shadany7824/playgta5",
+   "avatar": "https://avatars.githubusercontent.com/u/183978316?v=4",
+   "description": "A source code for playgta5.com.",
+   "language": "JavaScript",
+   "topics": [],
+   "license": null,
+   "stars": 291,
+   "forks": 179,
+   "createdAt": "2026-10-07T08:37:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T13:39:13.146Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/shadany7824/playgta5?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/shadany7824/playgta5",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/shadany7824/playgta5/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/shadany7824/playgta5.git\ncd playgta5",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/shadany7824/playgta5\nWhat it says it does: \"A source code for playgta5.com.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T13:39:13.146Z"
+  },
   {
    "fullName": "mhtsec/ARTEX",
    "owner": "mhtsec",
@@ -20380,7 +20435,7 @@
   }
  ],
  "levels": {
-  "account": 137,
+  "account": 138,
   "heavy": 49,
   "read": 112,
   "instant": 29

@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:18.039Z",
- "totalGuides": 346,
+ "updatedAt": "2026-10-08T19:30:24.840Z",
+ "totalGuides": 347,
  "items": [
+  {
+   "fullName": "Stellar-Sentinel/sentinel-contracts",
+   "owner": "Stellar-Sentinel",
+   "name": "sentinel-contracts",
+   "url": "https://github.com/Stellar-Sentinel/sentinel-contracts",
+   "avatar": "https://avatars.githubusercontent.com/u/339700399?v=4",
+   "description": "Soroban contract for authorized Stellar Sentinel flags, configurable thresholds, and latest-flag records.",
+   "language": "Rust",
+   "topics": [
+    "risk-monitoring",
+    "rust",
+    "security",
+    "smart-contracts",
+    "soroban",
+    "stellar",
+    "stellar-blockchain",
+    "stellar-smart-contracts"
+   ],
+   "license": "MIT",
+   "stars": 131,
+   "forks": 129,
+   "createdAt": "2026-10-08T15:01:03Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T19:30:24.817Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Stellar-Sentinel/sentinel-contracts?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Stellar-Sentinel/sentinel-contracts",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Stellar-Sentinel/sentinel-contracts/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Stellar-Sentinel/sentinel-contracts.git\ncd sentinel-contracts\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Stellar-Sentinel/sentinel-contracts\nWhat it says it does: \"Soroban contract for authorized Stellar Sentinel flags, configurable thresholds, and latest-flag records.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T19:30:24.817Z"
+  },
   {
    "fullName": "Nongfsq/ftop",
    "owner": "Nongfsq",
@@ -21661,8 +21725,8 @@
   }
  ],
  "levels": {
+  "account": 150,
   "heavy": 53,
-  "account": 149,
   "read": 113,
   "instant": 31
  }

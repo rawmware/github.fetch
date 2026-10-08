@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_346 guides written so far · last update 2026-10-08 13:39 UTC_
+_347 guides written so far · last update 2026-10-08 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Stellar-Sentinel/sentinel-contracts](https://github.com/Stellar-Sentinel/sentinel-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-sentinel/sentinel-contracts.md) |
 | [Nongfsq/ftop](https://github.com/Nongfsq/ftop) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/nongfsq/ftop.md) |
 | [Zihan-Su/Self_Gradient_Forcing_Plus](https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus) | Python Flask app | Needs a real machine (or a GPU) to run | [guide](guides/zihan-su/self_gradient_forcing_plus.md) |
 | [Yharnam-Hunters/Paleblood](https://github.com/Yharnam-Hunters/Paleblood) | Python project | Runs in the browser with a free account | [guide](guides/yharnam-hunters/paleblood.md) |
@@ -38,7 +39,6 @@ _346 guides written so far · last update 2026-10-08 13:39 UTC_
 | [nachisama/ai-data-extractor](https://github.com/nachisama/ai-data-extractor) | Python project | Runs in the browser with a free account | [guide](guides/nachisama/ai-data-extractor.md) |
 | [Yu-ChangCheng/manufacturing-forecasting-framework](https://github.com/Yu-ChangCheng/manufacturing-forecasting-framework) | Python project | Runs in the browser with a free account | [guide](guides/yu-changcheng/manufacturing-forecasting-framework.md) |
 | [Itz-Anya/Haimiya-Mio](https://github.com/Itz-Anya/Haimiya-Mio) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/itz-anya/haimiya-mio.md) |
-| [Janina21/Crypto-Checker](https://github.com/Janina21/Crypto-Checker) | Python project | Runs in the browser with a free account | [guide](guides/janina21/crypto-checker.md) |
 <!-- latest:end -->
 
 ## How it works

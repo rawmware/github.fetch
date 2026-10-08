@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_367 guides written so far · last update 2026-10-08 23:54 UTC_
+_368 guides written so far · last update 2026-10-08 23:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sirioberati/Genjustsu-Open-Source-Workflow](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sirioberati/genjustsu-open-source-workflow.md) |
 | [binwu1/drama-series-agent](https://github.com/binwu1/drama-series-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/binwu1/drama-series-agent.md) |
 | [Nonco-Organization/python-ecdsa](https://github.com/Nonco-Organization/python-ecdsa) | Python project | Runs in the browser with a free account | [guide](guides/nonco-organization/python-ecdsa.md) |
 | [pavellunev/trading_chart](https://github.com/pavellunev/trading_chart) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/pavellunev/trading_chart.md) |
@@ -38,7 +39,6 @@ _367 guides written so far · last update 2026-10-08 23:54 UTC_
 | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) | JavaScript project | Runs in the browser with a free account | [guide](guides/lucasmarkes/hairline.md) |
 | [Travelerrrrrr/LCSC3D](https://github.com/Travelerrrrrr/LCSC3D) | Python project | Runs in the browser with a free account | [guide](guides/travelerrrrrr/lcsc3d.md) |
 | [secblitz/Secblitz](https://github.com/secblitz/Secblitz) | Rust project | Runs in the browser with a free account | [guide](guides/secblitz/secblitz.md) |
-| [professorpalmer/mirai-s-ada](https://github.com/professorpalmer/mirai-s-ada) | Python project | Runs in the browser with a free account | [guide](guides/professorpalmer/mirai-s-ada.md) |
 <!-- latest:end -->
 
 ## How it works

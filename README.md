@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_313 guides written so far · last update 2026-10-08 06:14 UTC_
+_314 guides written so far · last update 2026-10-08 06:14 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SpeakingOfBrad/BIGWORDS.PAGE](https://github.com/SpeakingOfBrad/BIGWORDS.PAGE) | Vite app | Runs in the browser with a free account | [guide](guides/speakingofbrad/bigwords.page.md) |
 | [Stellar-Promiscope/promiscope-backend](https://github.com/Stellar-Promiscope/promiscope-backend) | Express app | Runs in the browser with a free account | [guide](guides/stellar-promiscope/promiscope-backend.md) |
 | [Stellar-Promiscope/promiscope-contracts](https://github.com/Stellar-Promiscope/promiscope-contracts) | Express app | Runs in a browser tab, no account needed | [guide](guides/stellar-promiscope/promiscope-contracts.md) |
 | [Stellar-Promiscope/promiscope-frontend](https://github.com/Stellar-Promiscope/promiscope-frontend) | Next.js app | Runs in the browser with a free account | [guide](guides/stellar-promiscope/promiscope-frontend.md) |
@@ -38,7 +39,6 @@ _313 guides written so far · last update 2026-10-08 06:14 UTC_
 | [AetherLabsAI/Video2World](https://github.com/AetherLabsAI/Video2World) | Python project | Runs in the browser with a free account | [guide](guides/aetherlabsai/video2world.md) |
 | [Dicklesworthstone/frankensonos](https://github.com/Dicklesworthstone/frankensonos) | Rust project | Runs in the browser with a free account | [guide](guides/dicklesworthstone/frankensonos.md) |
 | [Aeka0/Overlord](https://github.com/Aeka0/Overlord) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/aeka0/overlord.md) |
-| [msurguy/watercolor-playground](https://github.com/msurguy/watercolor-playground) | Vite app | Runs in a browser tab, no account needed | [guide](guides/msurguy/watercolor-playground.md) |
 <!-- latest:end -->
 
 ## How it works

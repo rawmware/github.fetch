@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_306 guides written so far · last update 2026-10-08 00:07 UTC_
+_307 guides written so far · last update 2026-10-08 00:07 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [droogie/bbhost](https://github.com/droogie/bbhost) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/droogie/bbhost.md) |
 | [Stellar-hush/hush](https://github.com/Stellar-hush/hush) | Vite app | Runs in a browser tab, no account needed | [guide](guides/stellar-hush/hush.md) |
 | [AetherLabsAI/Video2World](https://github.com/AetherLabsAI/Video2World) | Python project | Runs in the browser with a free account | [guide](guides/aetherlabsai/video2world.md) |
 | [Dicklesworthstone/frankensonos](https://github.com/Dicklesworthstone/frankensonos) | Rust project | Runs in the browser with a free account | [guide](guides/dicklesworthstone/frankensonos.md) |
@@ -38,7 +39,6 @@ _306 guides written so far · last update 2026-10-08 00:07 UTC_
 | [opencoredev/convt](https://github.com/opencoredev/convt) | JavaScript project | Runs in the browser with a free account | [guide](guides/opencoredev/convt.md) |
 | [xamjiang/handout-remake](https://github.com/xamjiang/handout-remake) | CSS project | Runs in the browser with a free account | [guide](guides/xamjiang/handout-remake.md) |
 | [bas3line/ascii](https://github.com/bas3line/ascii) | React app | Runs in a browser tab, no account needed | [guide](guides/bas3line/ascii.md) |
-| [sonicmountain/Trade-Bot-Hyperliquid](https://github.com/sonicmountain/Trade-Bot-Hyperliquid) | Python project | Runs in the browser with a free account | [guide](guides/sonicmountain/trade-bot-hyperliquid.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T00:07:34.089Z",
- "totalGuides": 307,
+ "updatedAt": "2026-10-08T00:07:34.218Z",
+ "totalGuides": 308,
  "items": [
+  {
+   "fullName": "Jakeschincariol/founder-skill",
+   "owner": "Jakeschincariol",
+   "name": "founder-skill",
+   "url": "https://github.com/Jakeschincariol/founder-skill",
+   "avatar": "https://avatars.githubusercontent.com/u/196724947?v=4",
+   "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+   "language": "Python",
+   "topics": [
+    "business-plan",
+    "claude-code",
+    "claude-skills",
+    "startup",
+    "subagents",
+    "unit-economics"
+   ],
+   "license": "MIT",
+   "stars": 76,
+   "forks": 11,
+   "createdAt": "2026-10-07T01:07:13Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T00:07:34.217Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Jakeschincariol/founder-skill/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Jakeschincariol/founder-skill?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Jakeschincariol/founder-skill",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Jakeschincariol/founder-skill/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Jakeschincariol/founder-skill.git\ncd founder-skill",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Jakeschincariol/founder-skill\nWhat it says it does: \"Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T00:07:34.217Z"
+  },
   {
    "fullName": "droogie/bbhost",
    "owner": "droogie",
@@ -19088,9 +19157,9 @@
   }
  ],
  "levels": {
+  "account": 125,
   "heavy": 45,
   "instant": 28,
-  "account": 124,
   "read": 110
  }
 }

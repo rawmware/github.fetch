@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_355 guides written so far · last update 2026-10-08 19:30 UTC_
+_356 guides written so far · last update 2026-10-08 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [professorpalmer/mirai-s-ada](https://github.com/professorpalmer/mirai-s-ada) | Python project | Runs in the browser with a free account | [guide](guides/professorpalmer/mirai-s-ada.md) |
 | [juspay/streamgres](https://github.com/juspay/streamgres) | Rust project | Runs in the browser with a free account | [guide](guides/juspay/streamgres.md) |
 | [WaEnhancerX/WaEnhancerX](https://github.com/WaEnhancerX/WaEnhancerX) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/waenhancerx/waenhancerx.md) |
 | [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) | Node command-line tool | Runs in the browser with a free account | [guide](guides/pullboard-dev/pullboard.md) |
@@ -38,7 +39,6 @@ _355 guides written so far · last update 2026-10-08 19:30 UTC_
 | [Stellar-Sentinel/sentinel-contracts](https://github.com/Stellar-Sentinel/sentinel-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-sentinel/sentinel-contracts.md) |
 | [Nongfsq/ftop](https://github.com/Nongfsq/ftop) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/nongfsq/ftop.md) |
 | [Zihan-Su/Self_Gradient_Forcing_Plus](https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus) | Python Flask app | Needs a real machine (or a GPU) to run | [guide](guides/zihan-su/self_gradient_forcing_plus.md) |
-| [Yharnam-Hunters/Paleblood](https://github.com/Yharnam-Hunters/Paleblood) | Python project | Runs in the browser with a free account | [guide](guides/yharnam-hunters/paleblood.md) |
 <!-- latest:end -->
 
 ## How it works

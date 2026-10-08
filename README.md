@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_308 guides written so far · last update 2026-10-08 00:07 UTC_
+_309 guides written so far · last update 2026-10-08 00:07 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jadeapricot27/Hyperliquid-Leaderboard-Analytics](https://github.com/jadeapricot27/Hyperliquid-Leaderboard-Analytics) | Python project | Runs in the browser with a free account | [guide](guides/jadeapricot27/hyperliquid-leaderboard-analytics.md) |
 | [Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/founder-skill.md) |
 | [droogie/bbhost](https://github.com/droogie/bbhost) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/droogie/bbhost.md) |
 | [Stellar-hush/hush](https://github.com/Stellar-hush/hush) | Vite app | Runs in a browser tab, no account needed | [guide](guides/stellar-hush/hush.md) |
@@ -38,7 +39,6 @@ _308 guides written so far · last update 2026-10-08 00:07 UTC_
 | [snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/psp-web-recomp.md) |
 | [orange2ai/podcast-to-article](https://github.com/orange2ai/podcast-to-article) | Python project | Runs in the browser with a free account | [guide](guides/orange2ai/podcast-to-article.md) |
 | [opencoredev/convt](https://github.com/opencoredev/convt) | JavaScript project | Runs in the browser with a free account | [guide](guides/opencoredev/convt.md) |
-| [xamjiang/handout-remake](https://github.com/xamjiang/handout-remake) | CSS project | Runs in the browser with a free account | [guide](guides/xamjiang/handout-remake.md) |
 <!-- latest:end -->
 
 ## How it works

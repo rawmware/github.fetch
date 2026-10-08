@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T00:07:34.218Z",
- "totalGuides": 308,
+ "updatedAt": "2026-10-08T00:07:34.451Z",
+ "totalGuides": 309,
  "items": [
+  {
+   "fullName": "jadeapricot27/Hyperliquid-Leaderboard-Analytics",
+   "owner": "jadeapricot27",
+   "name": "Hyperliquid-Leaderboard-Analytics",
+   "url": "https://github.com/jadeapricot27/Hyperliquid-Leaderboard-Analytics",
+   "avatar": "https://avatars.githubusercontent.com/u/310839935?v=4",
+   "description": "Hyperliquid analytics right in your terminal. Track top traders by PnL, ROI, and account value, monitor ranking changes over time, and identify consistently profitable wallets while separating them from one-hit wonders. Powered by Hyperliquid’s public, read-only info API. Unoffic",
+   "language": "Python",
+   "topics": [
+    "dca-bot",
+    "defi-arb-bot",
+    "defi-automation",
+    "defi-protocol",
+    "defi-tools",
+    "defi-trader-bot",
+    "hyperliquid-analytics",
+    "hyperliquid-api"
+   ],
+   "license": "MIT",
+   "stars": 70,
+   "forks": 15,
+   "createdAt": "2026-10-06T14:36:55Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T00:07:34.450Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/jadeapricot27/Hyperliquid-Leaderboard-Analytics/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/jadeapricot27/Hyperliquid-Leaderboard-Analytics?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/jadeapricot27/Hyperliquid-Leaderboard-Analytics",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/jadeapricot27/Hyperliquid-Leaderboard-Analytics/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/jadeapricot27/Hyperliquid-Leaderboard-Analytics.git\ncd Hyperliquid-Leaderboard-Analytics\npip install -r requirements.txt\npython main.py",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/jadeapricot27/Hyperliquid-Leaderboard-Analytics\nWhat it says it does: \"Hyperliquid analytics right in your terminal. Track top traders by PnL, ROI, and account value, monitor ranking changes over time, and identify consistently profitable wallets while separating them from one-hit wonders. Powered by Hyperliquid’s public, read-only info API. Unoffic\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T00:07:34.450Z"
+  },
   {
    "fullName": "Jakeschincariol/founder-skill",
    "owner": "Jakeschincariol",
@@ -19157,7 +19228,7 @@
   }
  ],
  "levels": {
-  "account": 125,
+  "account": 126,
   "heavy": 45,
   "instant": 28,
   "read": 110

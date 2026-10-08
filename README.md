@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_361 guides written so far · last update 2026-10-08 19:30 UTC_
+_362 guides written so far · last update 2026-10-08 23:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Nonco-Organization/multicoin-address-validator](https://github.com/Nonco-Organization/multicoin-address-validator) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nonco-organization/multicoin-address-validator.md) |
 | [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15) | JavaScript project | Runs in the browser with a free account | [guide](guides/vincentwei1021/mg-styles-15.md) |
 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | Go project | Runs in the browser with a free account | [guide](guides/jiwoochris/artex-ko.md) |
 | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) | JavaScript project | Runs in the browser with a free account | [guide](guides/lucasmarkes/hairline.md) |
@@ -38,7 +39,6 @@ _361 guides written so far · last update 2026-10-08 19:30 UTC_
 | [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) | Node command-line tool | Runs in the browser with a free account | [guide](guides/pullboard-dev/pullboard.md) |
 | [Xuanwo/agenvo](https://github.com/Xuanwo/agenvo) | Express app | Runs in the browser with a free account | [guide](guides/xuanwo/agenvo.md) |
 | [mcpdelta/mcpdelta](https://github.com/mcpdelta/mcpdelta) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mcpdelta/mcpdelta.md) |
-| [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | Rust project | Runs in the browser with a free account | [guide](guides/noahdunnagan/fsearch.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_339 guides written so far · last update 2026-10-08 13:39 UTC_
+_340 guides written so far · last update 2026-10-08 13:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sun168567/cc-desk-tunnel](https://github.com/sun168567/cc-desk-tunnel) | JavaScript project | Runs in the browser with a free account | [guide](guides/sun168567/cc-desk-tunnel.md) |
 | [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) | Python project | Runs in the browser with a free account | [guide](guides/crocswap/integer-mult-bounds.md) |
 | [nachisama/ai-data-extractor](https://github.com/nachisama/ai-data-extractor) | Python project | Runs in the browser with a free account | [guide](guides/nachisama/ai-data-extractor.md) |
 | [Yu-ChangCheng/manufacturing-forecasting-framework](https://github.com/Yu-ChangCheng/manufacturing-forecasting-framework) | Python project | Runs in the browser with a free account | [guide](guides/yu-changcheng/manufacturing-forecasting-framework.md) |
@@ -38,7 +39,6 @@ _339 guides written so far · last update 2026-10-08 13:39 UTC_
 | [Glass-HQ/liquid-glass](https://github.com/Glass-HQ/liquid-glass) | JavaScript project | Runs in the browser with a free account | [guide](guides/glass-hq/liquid-glass.md) |
 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | Python project | Runs in the browser with a free account | [guide](guides/zhongerxin/iphone-use.md) |
 | [OrgoAI/bops](https://github.com/OrgoAI/bops) | Next.js app | Runs in the browser with a free account | [guide](guides/orgoai/bops.md) |
-| [shadany7824/playgta5](https://github.com/shadany7824/playgta5) | JavaScript project | Runs in the browser with a free account | [guide](guides/shadany7824/playgta5.md) |
 <!-- latest:end -->
 
 ## How it works

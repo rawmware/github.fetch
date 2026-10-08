@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:17.804Z",
- "totalGuides": 345,
+ "updatedAt": "2026-10-08T13:39:18.039Z",
+ "totalGuides": 346,
  "items": [
+  {
+   "fullName": "Nongfsq/ftop",
+   "owner": "Nongfsq",
+   "name": "ftop",
+   "url": "https://github.com/Nongfsq/ftop",
+   "avatar": "https://avatars.githubusercontent.com/u/28521152?v=4",
+   "description": "A small, quiet system monitor for Apple Silicon Macs: one floating glass panel that works at any size.",
+   "language": "Swift",
+   "topics": [
+    "apple-silicon",
+    "macos",
+    "swift",
+    "system-monitor"
+   ],
+   "license": "MIT",
+   "stars": 50,
+   "forks": 0,
+   "createdAt": "2026-10-06T23:36:34Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T13:39:18.039Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Nongfsq/ftop?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Nongfsq/ftop",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Nongfsq/ftop/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Nongfsq/ftop.git\ncd ftop",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Nongfsq/ftop\nWhat it says it does: \"A small, quiet system monitor for Apple Silicon Macs: one floating glass panel that works at any size.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T13:39:18.039Z"
+  },
   {
    "fullName": "Zihan-Su/Self_Gradient_Forcing_Plus",
    "owner": "Zihan-Su",
@@ -21599,7 +21661,7 @@
   }
  ],
  "levels": {
-  "heavy": 52,
+  "heavy": 53,
   "account": 149,
   "read": 113,
   "instant": 31

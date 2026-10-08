@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_359 guides written so far · last update 2026-10-08 19:30 UTC_
+_360 guides written so far · last update 2026-10-08 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | Go project | Runs in the browser with a free account | [guide](guides/jiwoochris/artex-ko.md) |
 | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) | JavaScript project | Runs in the browser with a free account | [guide](guides/lucasmarkes/hairline.md) |
 | [Travelerrrrrr/LCSC3D](https://github.com/Travelerrrrrr/LCSC3D) | Python project | Runs in the browser with a free account | [guide](guides/travelerrrrrr/lcsc3d.md) |
 | [secblitz/Secblitz](https://github.com/secblitz/Secblitz) | Rust project | Runs in the browser with a free account | [guide](guides/secblitz/secblitz.md) |
@@ -38,7 +39,6 @@ _359 guides written so far · last update 2026-10-08 19:30 UTC_
 | [mcpdelta/mcpdelta](https://github.com/mcpdelta/mcpdelta) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mcpdelta/mcpdelta.md) |
 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | Rust project | Runs in the browser with a free account | [guide](guides/noahdunnagan/fsearch.md) |
 | [Stellar-Sentinel/sentinel-frontend](https://github.com/Stellar-Sentinel/sentinel-frontend) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/stellar-sentinel/sentinel-frontend.md) |
-| [Stellar-Sentinel/sentinel-backend](https://github.com/Stellar-Sentinel/sentinel-backend) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/stellar-sentinel/sentinel-backend.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T06:14:04.552Z",
- "totalGuides": 324,
+ "updatedAt": "2026-10-08T06:14:04.705Z",
+ "totalGuides": 325,
  "items": [
+  {
+   "fullName": "JinHo-von-Choi/anti-samcheonpo",
+   "owner": "JinHo-von-Choi",
+   "name": "anti-samcheonpo",
+   "url": "https://github.com/JinHo-von-Choi/anti-samcheonpo",
+   "avatar": "https://avatars.githubusercontent.com/u/62224489?v=4",
+   "description": "AI 코딩 에이전트의 헛짓(과잉 검증·맥락 이탈·무한 루프·허위 완료)을 감지·경고·차단하는 하네스 / A harness that catches AI coding agents wasting time and money",
+   "language": "Go",
+   "topics": [],
+   "license": "MIT",
+   "stars": 47,
+   "forks": 2,
+   "createdAt": "2026-10-07T02:32:48Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T06:14:04.705Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/JinHo-von-Choi/anti-samcheonpo?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/JinHo-von-Choi/anti-samcheonpo",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/JinHo-von-Choi/anti-samcheonpo/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/JinHo-von-Choi/anti-samcheonpo.git\ncd anti-samcheonpo\ngo build ./...",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/JinHo-von-Choi/anti-samcheonpo\nWhat it says it does: \"AI 코딩 에이전트의 헛짓(과잉 검증·맥락 이탈·무한 루프·허위 완료)을 감지·경고·차단하는 하네스 / A harness that catches AI coding agents wasting time and money\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T06:14:04.705Z"
+  },
   {
    "fullName": "GrimClawBot/Pixel-Companion",
    "owner": "GrimClawBot",
@@ -20208,9 +20263,9 @@
   }
  ],
  "levels": {
+  "account": 135,
   "heavy": 49,
   "read": 112,
-  "account": 134,
   "instant": 29
  }
 }

@@ -1,8 +1,91 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-07T19:52:44.983Z",
- "totalGuides": 305,
+ "updatedAt": "2026-10-08T00:07:33.881Z",
+ "totalGuides": 306,
  "items": [
+  {
+   "fullName": "Stellar-hush/hush",
+   "owner": "Stellar-hush",
+   "name": "hush",
+   "url": "https://github.com/Stellar-hush/hush",
+   "avatar": "https://avatars.githubusercontent.com/u/339342844?v=4",
+   "description": "Open-source working beta for private email on Stellar: encrypted messages, sender-controlled inbox policies, optional postage, and verifiable delivery receipts.",
+   "language": "TypeScript",
+   "topics": [
+    "anti-spam",
+    "beta",
+    "email",
+    "encrypted-messaging",
+    "open-source",
+    "privacy",
+    "soroban",
+    "stellar"
+   ],
+   "license": "MIT",
+   "stars": 131,
+   "forks": 129,
+   "createdAt": "2026-10-07T21:54:33Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-08T00:07:33.866Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Stellar-hush/hush",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`pnpm dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Stellar-hush/hush",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Stellar-hush/hush?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Stellar-hush/hush",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Stellar-hush/hush/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pnpm install",
+   "run": "pnpm dev",
+   "notes": [
+    "Made with Bun. If npm gives trouble, open it in Codespaces and use bun."
+   ],
+   "local": "git clone --depth 1 https://github.com/Stellar-hush/hush.git\ncd hush\npnpm install\npnpm dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Stellar-hush/hush\nWhat it says it does: \"Open-source working beta for private email on Stellar: encrypted messages, sender-controlled inbox policies, optional postage, and verifiable delivery receipts.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T00:07:33.866Z"
+  },
   {
    "fullName": "AetherLabsAI/Video2World",
    "owner": "AetherLabsAI",
@@ -18948,9 +19031,9 @@
   }
  ],
  "levels": {
+  "instant": 28,
   "account": 124,
   "heavy": 44,
-  "instant": 27,
   "read": 110
  }
 }

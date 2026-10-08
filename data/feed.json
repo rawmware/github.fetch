@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T13:39:16.844Z",
- "totalGuides": 341,
+ "updatedAt": "2026-10-08T13:39:17.104Z",
+ "totalGuides": 342,
  "items": [
+  {
+   "fullName": "jungjin0003/Claude-Mythos-5.1-System-Prompt",
+   "owner": "jungjin0003",
+   "name": "Claude-Mythos-5.1-System-Prompt",
+   "url": "https://github.com/jungjin0003/Claude-Mythos-5.1-System-Prompt",
+   "avatar": "https://avatars.githubusercontent.com/u/43538880?v=4",
+   "description": "The Claude Mythos 5.1 System Prompt",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 58,
+   "forks": 39,
+   "createdAt": "2026-10-07T09:55:47Z",
+   "branch": "master",
+   "homepage": null,
+   "addedAt": "2026-10-08T13:39:17.103Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/jungjin0003/Claude-Mythos-5.1-System-Prompt",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/jungjin0003/Claude-Mythos-5.1-System-Prompt/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/jungjin0003/Claude-Mythos-5.1-System-Prompt\nWhat it says it does: \"The Claude Mythos 5.1 System Prompt\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-08T13:39:17.103Z"
+  },
   {
    "fullName": "beianchuqing111/agentic-kb",
    "owner": "beianchuqing111",
@@ -21352,9 +21400,9 @@
   }
  ],
  "levels": {
+  "read": 113,
   "account": 148,
   "instant": 31,
-  "heavy": 50,
-  "read": 112
+  "heavy": 50
  }
 }

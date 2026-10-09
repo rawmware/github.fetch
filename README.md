@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_406 guides written so far · last update 2026-10-09 13:05 UTC_
+_407 guides written so far · last update 2026-10-09 13:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [genex-games/genex-desktop](https://github.com/genex-games/genex-desktop) | React app | Runs in the browser with a free account | [guide](guides/genex-games/genex-desktop.md) |
 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | JavaScript project | Runs in the browser with a free account | [guide](guides/openqodex/openqodex.md) |
 | [ishuagrawal/skills](https://github.com/ishuagrawal/skills) | JavaScript project | Runs in the browser with a free account | [guide](guides/ishuagrawal/skills.md) |
 | [RocoreMatrix/YANchor](https://github.com/RocoreMatrix/YANchor) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/rocorematrix/yanchor.md) |
@@ -38,7 +39,6 @@ _406 guides written so far · last update 2026-10-09 13:05 UTC_
 | [AnkioTomas/qqpet](https://github.com/AnkioTomas/qqpet) | Vite app | Runs in the browser with a free account | [guide](guides/ankiotomas/qqpet.md) |
 | [mar1mo-41414/SonyNasne-debian](https://github.com/mar1mo-41414/SonyNasne-debian) | Python project | Runs in the browser with a free account | [guide](guides/mar1mo-41414/sonynasne-debian.md) |
 | [sharenjun/ARTEX-main](https://github.com/sharenjun/ARTEX-main) | Go project | Runs in the browser with a free account | [guide](guides/sharenjun/artex-main.md) |
-| [tcchen2026/VibeOffice](https://github.com/tcchen2026/VibeOffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/tcchen2026/vibeoffice.md) |
 <!-- latest:end -->
 
 ## How it works

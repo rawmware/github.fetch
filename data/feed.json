@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T05:55:31.709Z",
- "totalGuides": 376,
+ "updatedAt": "2026-10-09T05:55:31.871Z",
+ "totalGuides": 377,
  "items": [
+  {
+   "fullName": "skylartaylor/gbos-vm",
+   "owner": "skylartaylor",
+   "name": "gbos-vm",
+   "url": "https://github.com/skylartaylor/gbos-vm",
+   "avatar": "https://avatars.githubusercontent.com/u/26588250?v=4",
+   "description": "Run Googlebook OS in a GPU-accelerated VM on Apple Silicon Macs",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 64,
+   "forks": 5,
+   "createdAt": "2026-10-07T17:06:50Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T05:55:31.870Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/skylartaylor/gbos-vm/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/skylartaylor/gbos-vm?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/skylartaylor/gbos-vm",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/skylartaylor/gbos-vm/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/skylartaylor/gbos-vm.git\ncd gbos-vm",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/skylartaylor/gbos-vm\nWhat it says it does: \"Run Googlebook OS in a GPU-accelerated VM on Apple Silicon Macs\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:31.870Z"
+  },
   {
    "fullName": "Miftahul-Islam-Efaz/Motion-graphics-skill",
    "owner": "Miftahul-Islam-Efaz",
@@ -23627,7 +23689,7 @@
   }
  ],
  "levels": {
-  "account": 171,
+  "account": 172,
   "heavy": 58,
   "instant": 33,
   "read": 114

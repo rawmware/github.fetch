@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_387 guides written so far · last update 2026-10-09 05:55 UTC_
+_388 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yz3639-gif/rebalance-review](https://github.com/yz3639-gif/rebalance-review) | Vite app | Runs in a browser tab, no account needed | [guide](guides/yz3639-gif/rebalance-review.md) |
 | [ModernJellyfish/rblm](https://github.com/ModernJellyfish/rblm) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/modernjellyfish/rblm.md) |
 | [Mountainnulift12/rbl](https://github.com/Mountainnulift12/rbl) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/mountainnulift12/rbl.md) |
 | [Xeno-oni/Xeno-Executor](https://github.com/Xeno-oni/Xeno-Executor) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xeno-oni/xeno-executor.md) |
@@ -38,7 +39,6 @@ _387 guides written so far · last update 2026-10-09 05:55 UTC_
 | [X-F1REBALL-X/HearBridge-PS5](https://github.com/X-F1REBALL-X/HearBridge-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/x-f1reball-x/hearbridge-ps5.md) |
 | [roboterax/video-prediction-policy-2](https://github.com/roboterax/video-prediction-policy-2) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/roboterax/video-prediction-policy-2.md) |
 | [skylartaylor/gbos-vm](https://github.com/skylartaylor/gbos-vm) | Python project | Runs in the browser with a free account | [guide](guides/skylartaylor/gbos-vm.md) |
-| [Miftahul-Islam-Efaz/Motion-graphics-skill](https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill) | Shell project | Runs in the browser with a free account | [guide](guides/miftahul-islam-efaz/motion-graphics-skill.md) |
 <!-- latest:end -->
 
 ## How it works

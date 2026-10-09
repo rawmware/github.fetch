@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_410 guides written so far · last update 2026-10-09 18:51 UTC_
+_411 guides written so far · last update 2026-10-09 18:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HoopoeConnector/Microsoft-Project](https://github.com/HoopoeConnector/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hoopoeconnector/microsoft-project.md) |
 | [PatchTechnician/Ads-Blocker](https://github.com/PatchTechnician/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/patchtechnician/ads-blocker.md) |
 | [deepkiwiraid/Canva-Pro](https://github.com/deepkiwiraid/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkiwiraid/canva-pro.md) |
 | [trevaintdead/ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/trevaintdead/ai-game-modding-guides.md) |
@@ -38,7 +39,6 @@ _410 guides written so far · last update 2026-10-09 18:51 UTC_
 | [zju3dv/SuperNav](https://github.com/zju3dv/SuperNav) | Python project | Runs in the browser with a free account | [guide](guides/zju3dv/supernav.md) |
 | [kutukam/autonomous-pentest-agent](https://github.com/kutukam/autonomous-pentest-agent) | Go project | Runs in the browser with a free account | [guide](guides/kutukam/autonomous-pentest-agent.md) |
 | [zhouwei713/luobo-ppt](https://github.com/zhouwei713/luobo-ppt) | Python project | Runs in the browser with a free account | [guide](guides/zhouwei713/luobo-ppt.md) |
-| [silvermoong/stocking-texture-tool](https://github.com/silvermoong/stocking-texture-tool) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/silvermoong/stocking-texture-tool.md) |
 <!-- latest:end -->
 
 ## How it works

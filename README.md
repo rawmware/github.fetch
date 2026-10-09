@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_417 guides written so far · last update 2026-10-09 18:51 UTC_
+_418 guides written so far · last update 2026-10-09 18:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [passrhymegazebo/AnyUnlock](https://github.com/passrhymegazebo/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/passrhymegazebo/anyunlock.md) |
 | [TremorBisonSurvive/Discord-Nitro-Generator](https://github.com/TremorBisonSurvive/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tremorbisonsurvive/discord-nitro-generator.md) |
 | [CashierFurnace/Wondshare-Recoverit](https://github.com/CashierFurnace/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cashierfurnace/wondshare-recoverit.md) |
 | [CoralFireRadial/StartAll-Back](https://github.com/CoralFireRadial/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coralfireradial/startall-back.md) |
@@ -38,7 +39,6 @@ _417 guides written so far · last update 2026-10-09 18:51 UTC_
 | [deepkiwiraid/Canva-Pro](https://github.com/deepkiwiraid/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkiwiraid/canva-pro.md) |
 | [trevaintdead/ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/trevaintdead/ai-game-modding-guides.md) |
 | [genex-games/genex-desktop](https://github.com/genex-games/genex-desktop) | React app | Runs in the browser with a free account | [guide](guides/genex-games/genex-desktop.md) |
-| [openqodex/openqodex](https://github.com/openqodex/openqodex) | JavaScript project | Runs in the browser with a free account | [guide](guides/openqodex/openqodex.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_415 guides written so far · last update 2026-10-09 18:51 UTC_
+_416 guides written so far · last update 2026-10-09 18:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CashierFurnace/Wondshare-Recoverit](https://github.com/CashierFurnace/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cashierfurnace/wondshare-recoverit.md) |
 | [CoralFireRadial/StartAll-Back](https://github.com/CoralFireRadial/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coralfireradial/startall-back.md) |
 | [Haircloboutique/Cubase](https://github.com/Haircloboutique/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/haircloboutique/cubase.md) |
 | [Blendtrabulwark/Discord-Server-Cloner](https://github.com/Blendtrabulwark/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blendtrabulwark/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _415 guides written so far · last update 2026-10-09 18:51 UTC_
 | [genex-games/genex-desktop](https://github.com/genex-games/genex-desktop) | React app | Runs in the browser with a free account | [guide](guides/genex-games/genex-desktop.md) |
 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | JavaScript project | Runs in the browser with a free account | [guide](guides/openqodex/openqodex.md) |
 | [ishuagrawal/skills](https://github.com/ishuagrawal/skills) | JavaScript project | Runs in the browser with a free account | [guide](guides/ishuagrawal/skills.md) |
-| [RocoreMatrix/YANchor](https://github.com/RocoreMatrix/YANchor) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/rocorematrix/yanchor.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_419 guides written so far · last update 2026-10-09 18:51 UTC_
+_420 guides written so far · last update 2026-10-09 18:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [photonrajditch/Windows-Optimizer](https://github.com/photonrajditch/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/photonrajditch/windows-optimizer.md) |
 | [GoliathCuttlefish/Adobe-Substance-3d](https://github.com/GoliathCuttlefish/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/goliathcuttlefish/adobe-substance-3d.md) |
 | [passrhymegazebo/AnyUnlock](https://github.com/passrhymegazebo/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/passrhymegazebo/anyunlock.md) |
 | [TremorBisonSurvive/Discord-Nitro-Generator](https://github.com/TremorBisonSurvive/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tremorbisonsurvive/discord-nitro-generator.md) |
@@ -38,7 +39,6 @@ _419 guides written so far · last update 2026-10-09 18:51 UTC_
 | [HoopoeConnector/Microsoft-Project](https://github.com/HoopoeConnector/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hoopoeconnector/microsoft-project.md) |
 | [PatchTechnician/Ads-Blocker](https://github.com/PatchTechnician/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/patchtechnician/ads-blocker.md) |
 | [deepkiwiraid/Canva-Pro](https://github.com/deepkiwiraid/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkiwiraid/canva-pro.md) |
-| [trevaintdead/ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/trevaintdead/ai-game-modding-guides.md) |
 <!-- latest:end -->
 
 ## How it works

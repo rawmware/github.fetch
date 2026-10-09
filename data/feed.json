@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T18:51:46.632Z",
- "totalGuides": 419,
+ "updatedAt": "2026-10-09T18:51:46.829Z",
+ "totalGuides": 420,
  "items": [
+  {
+   "fullName": "photonrajditch/Windows-Optimizer",
+   "owner": "photonrajditch",
+   "name": "Windows-Optimizer",
+   "url": "https://github.com/photonrajditch/Windows-Optimizer",
+   "avatar": "https://avatars.githubusercontent.com/u/292108835?v=4",
+   "description": "Enhance your Windows performance with this professional desktop software utility configuration that meticulously optimizes system settings and streamlines...",
+   "language": null,
+   "topics": [
+    "fps-booster-no-lag",
+    "frame-rate-boost",
+    "game-booster-free",
+    "optimize-windows",
+    "optimizer-tool",
+    "speed-up-pc",
+    "unattendedwininstall",
+    "windows-10-optimizer"
+   ],
+   "license": null,
+   "stars": 278,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:59:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T18:51:46.829Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/photonrajditch/Windows-Optimizer",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/photonrajditch/Windows-Optimizer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/photonrajditch/Windows-Optimizer\nWhat it says it does: \"Enhance your Windows performance with this professional desktop software utility configuration that meticulously optimizes system settings and streamlines...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T18:51:46.829Z"
+  },
   {
    "fullName": "GoliathCuttlefish/Adobe-Substance-3d",
    "owner": "GoliathCuttlefish",
@@ -26429,7 +26486,7 @@
   }
  ],
  "levels": {
-  "read": 126,
+  "read": 127,
   "account": 187,
   "heavy": 66,
   "instant": 40

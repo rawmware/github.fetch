@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_379 guides written so far · last update 2026-10-09 05:55 UTC_
+_380 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [opennookorg/betterwispr](https://github.com/opennookorg/betterwispr) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/opennookorg/betterwispr.md) |
 | [X-F1REBALL-X/HearBridge-PS5](https://github.com/X-F1REBALL-X/HearBridge-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/x-f1reball-x/hearbridge-ps5.md) |
 | [roboterax/video-prediction-policy-2](https://github.com/roboterax/video-prediction-policy-2) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/roboterax/video-prediction-policy-2.md) |
 | [skylartaylor/gbos-vm](https://github.com/skylartaylor/gbos-vm) | Python project | Runs in the browser with a free account | [guide](guides/skylartaylor/gbos-vm.md) |
@@ -38,7 +39,6 @@ _379 guides written so far · last update 2026-10-09 05:55 UTC_
 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | Vite app | Runs in the browser with a free account | [guide](guides/helixdb/helix-foundry.md) |
 | [ToiCF/CF-Workers-TGProxy](https://github.com/ToiCF/CF-Workers-TGProxy) | Code project | Runs in the browser with a free account | [guide](guides/toicf/cf-workers-tgproxy.md) |
 | [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/finnvoor/pidurablekit.md) |
-| [sirioberati/Genjustsu-Open-Source-Workflow](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sirioberati/genjustsu-open-source-workflow.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T05:55:30.953Z",
- "totalGuides": 372,
+ "updatedAt": "2026-10-09T05:55:31.142Z",
+ "totalGuides": 373,
  "items": [
+  {
+   "fullName": "LingCore/WinShun",
+   "owner": "LingCore",
+   "name": "WinShun",
+   "url": "https://github.com/LingCore/WinShun",
+   "avatar": "https://avatars.githubusercontent.com/u/53141949?v=4",
+   "description": "Windows 上的快速搜索启动器：双击 Ctrl 呼出，按文件名、拼音和文本内容搜索。Qt 6 + C++20。",
+   "language": "C++",
+   "topics": [],
+   "license": "MIT",
+   "stars": 80,
+   "forks": 10,
+   "createdAt": "2026-10-08T03:18:00Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T05:55:31.142Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/LingCore/WinShun?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/LingCore/WinShun",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LingCore/WinShun/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/LingCore/WinShun.git\ncd WinShun",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/LingCore/WinShun\nWhat it says it does: \"Windows 上的快速搜索启动器：双击 Ctrl 呼出，按文件名、拼音和文本内容搜索。Qt 6 + C++20。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:31.142Z"
+  },
   {
    "fullName": "Hinln/ARTEX",
    "owner": "Hinln",
@@ -23375,8 +23432,8 @@
   }
  ],
  "levels": {
+  "heavy": 57,
   "account": 169,
-  "heavy": 56,
   "instant": 33,
   "read": 114
  }

@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T05:55:31.550Z",
- "totalGuides": 375,
+ "updatedAt": "2026-10-09T05:55:31.709Z",
+ "totalGuides": 376,
  "items": [
+  {
+   "fullName": "Miftahul-Islam-Efaz/Motion-graphics-skill",
+   "owner": "Miftahul-Islam-Efaz",
+   "name": "Motion-graphics-skill",
+   "url": "https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill",
+   "avatar": "https://avatars.githubusercontent.com/u/224967049?v=4",
+   "description": "Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-design complete videos, rendered locally without After Effects.",
+   "language": "Shell",
+   "topics": [
+    "after-effects-alternative",
+    "agent-skills",
+    "ai-video",
+    "ai-video-editing",
+    "captions",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills"
+   ],
+   "license": null,
+   "stars": 66,
+   "forks": 8,
+   "createdAt": "2026-10-08T15:29:41Z",
+   "branch": "main",
+   "homepage": "https://www.instagram.com/miftahul_islam_efaz/",
+   "addedAt": "2026-10-09T05:55:31.708Z",
+   "stack": {
+    "kind": "other",
+    "label": "Shell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Miftahul-Islam-Efaz/Motion-graphics-skill?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Miftahul-Islam-Efaz/Motion-graphics-skill",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill.git\ncd Motion-graphics-skill",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill\nWhat it says it does: \"Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-design complete videos, rendered locally without After Effects.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:31.708Z"
+  },
   {
    "fullName": "Tickloop/claude-mods",
    "owner": "Tickloop",
@@ -23563,7 +23627,7 @@
   }
  ],
  "levels": {
-  "account": 170,
+  "account": 171,
   "heavy": 58,
   "instant": 33,
   "read": 114

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_428 guides written so far · last update 2026-10-09 23:09 UTC_
+_429 guides written so far · last update 2026-10-09 23:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hyperrobinclash/Better-Discord](https://github.com/hyperrobinclash/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hyperrobinclash/better-discord.md) |
 | [powderdiverpillar/Total-Commander](https://github.com/powderdiverpillar/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/powderdiverpillar/total-commander.md) |
 | [navyofficerpipe/Discord-Server-Raider](https://github.com/navyofficerpipe/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/navyofficerpipe/discord-server-raider.md) |
 | [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/varnishserpentburn/discord-quest-completer.md) |
@@ -38,7 +39,6 @@ _428 guides written so far · last update 2026-10-09 23:09 UTC_
 | [photonrajditch/Windows-Optimizer](https://github.com/photonrajditch/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/photonrajditch/windows-optimizer.md) |
 | [GoliathCuttlefish/Adobe-Substance-3d](https://github.com/GoliathCuttlefish/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/goliathcuttlefish/adobe-substance-3d.md) |
 | [passrhymegazebo/AnyUnlock](https://github.com/passrhymegazebo/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/passrhymegazebo/anyunlock.md) |
-| [TremorBisonSurvive/Discord-Nitro-Generator](https://github.com/TremorBisonSurvive/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tremorbisonsurvive/discord-nitro-generator.md) |
 <!-- latest:end -->
 
 ## How it works

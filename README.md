@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_370 guides written so far · last update 2026-10-09 05:55 UTC_
+_371 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | Vite app | Runs in the browser with a free account | [guide](guides/helixdb/helix-foundry.md) |
 | [ToiCF/CF-Workers-TGProxy](https://github.com/ToiCF/CF-Workers-TGProxy) | Code project | Runs in the browser with a free account | [guide](guides/toicf/cf-workers-tgproxy.md) |
 | [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/finnvoor/pidurablekit.md) |
 | [sirioberati/Genjustsu-Open-Source-Workflow](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sirioberati/genjustsu-open-source-workflow.md) |
@@ -38,7 +39,6 @@ _370 guides written so far · last update 2026-10-09 05:55 UTC_
 | [Nonco-Organization/multicoin-address-validator](https://github.com/Nonco-Organization/multicoin-address-validator) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nonco-organization/multicoin-address-validator.md) |
 | [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15) | JavaScript project | Runs in the browser with a free account | [guide](guides/vincentwei1021/mg-styles-15.md) |
 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | Go project | Runs in the browser with a free account | [guide](guides/jiwoochris/artex-ko.md) |
-| [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) | JavaScript project | Runs in the browser with a free account | [guide](guides/lucasmarkes/hairline.md) |
 <!-- latest:end -->
 
 ## How it works

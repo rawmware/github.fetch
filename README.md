@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_396 guides written so far · last update 2026-10-09 13:05 UTC_
+_397 guides written so far · last update 2026-10-09 13:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mar1mo-41414/SonyNasne-debian](https://github.com/mar1mo-41414/SonyNasne-debian) | Python project | Runs in the browser with a free account | [guide](guides/mar1mo-41414/sonynasne-debian.md) |
 | [sharenjun/ARTEX-main](https://github.com/sharenjun/ARTEX-main) | Go project | Runs in the browser with a free account | [guide](guides/sharenjun/artex-main.md) |
 | [tcchen2026/VibeOffice](https://github.com/tcchen2026/VibeOffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/tcchen2026/vibeoffice.md) |
 | [Stellar-Kolo/kolo-backend](https://github.com/Stellar-Kolo/kolo-backend) | React app | Runs in a browser tab, no account needed | [guide](guides/stellar-kolo/kolo-backend.md) |
@@ -38,7 +39,6 @@ _396 guides written so far · last update 2026-10-09 13:05 UTC_
 | [yz3639-gif/rebalance-review](https://github.com/yz3639-gif/rebalance-review) | Vite app | Runs in a browser tab, no account needed | [guide](guides/yz3639-gif/rebalance-review.md) |
 | [ModernJellyfish/rblm](https://github.com/ModernJellyfish/rblm) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/modernjellyfish/rblm.md) |
 | [Mountainnulift12/rbl](https://github.com/Mountainnulift12/rbl) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/mountainnulift12/rbl.md) |
-| [Xeno-oni/Xeno-Executor](https://github.com/Xeno-oni/Xeno-Executor) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xeno-oni/xeno-executor.md) |
 <!-- latest:end -->
 
 ## How it works

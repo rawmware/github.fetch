@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_389 guides written so far · last update 2026-10-09 05:55 UTC_
+_390 guides written so far · last update 2026-10-09 13:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BinceQu/RoboHarness](https://github.com/BinceQu/RoboHarness) | Python project | Runs in the browser with a free account | [guide](guides/bincequ/roboharness.md) |
 | [elforeign/nfs-most-wanted-mac](https://github.com/elforeign/nfs-most-wanted-mac) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/elforeign/nfs-most-wanted-mac.md) |
 | [yz3639-gif/rebalance-review](https://github.com/yz3639-gif/rebalance-review) | Vite app | Runs in a browser tab, no account needed | [guide](guides/yz3639-gif/rebalance-review.md) |
 | [ModernJellyfish/rblm](https://github.com/ModernJellyfish/rblm) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/modernjellyfish/rblm.md) |
@@ -38,7 +39,6 @@ _389 guides written so far · last update 2026-10-09 05:55 UTC_
 | [excalidraw/cli](https://github.com/excalidraw/cli) | Node command-line tool | Runs in the browser with a free account | [guide](guides/excalidraw/cli.md) |
 | [opennookorg/betterwispr](https://github.com/opennookorg/betterwispr) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/opennookorg/betterwispr.md) |
 | [X-F1REBALL-X/HearBridge-PS5](https://github.com/X-F1REBALL-X/HearBridge-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/x-f1reball-x/hearbridge-ps5.md) |
-| [roboterax/video-prediction-policy-2](https://github.com/roboterax/video-prediction-policy-2) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/roboterax/video-prediction-policy-2.md) |
 <!-- latest:end -->
 
 ## How it works

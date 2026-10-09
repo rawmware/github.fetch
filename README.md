@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_422 guides written so far · last update 2026-10-09 18:51 UTC_
+_423 guides written so far · last update 2026-10-09 18:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Chartfitzturn/RX-11-Audio-Editor](https://github.com/Chartfitzturn/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartfitzturn/rx-11-audio-editor.md) |
 | [CoastFiscalDeflate/ultra-Iso](https://github.com/CoastFiscalDeflate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastfiscaldeflate/ultra-iso.md) |
 | [crystalrankdestroy/Fps-Booster-for-Windows](https://github.com/crystalrankdestroy/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crystalrankdestroy/fps-booster-for-windows.md) |
 | [photonrajditch/Windows-Optimizer](https://github.com/photonrajditch/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/photonrajditch/windows-optimizer.md) |
@@ -38,7 +39,6 @@ _422 guides written so far · last update 2026-10-09 18:51 UTC_
 | [Haircloboutique/Cubase](https://github.com/Haircloboutique/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/haircloboutique/cubase.md) |
 | [Blendtrabulwark/Discord-Server-Cloner](https://github.com/Blendtrabulwark/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blendtrabulwark/discord-server-cloner.md) |
 | [ParrotStaple/Microsoft-Office](https://github.com/ParrotStaple/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/parrotstaple/microsoft-office.md) |
-| [HoopoeConnector/Microsoft-Project](https://github.com/HoopoeConnector/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hoopoeconnector/microsoft-project.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,69 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T13:05:36.758Z",
- "totalGuides": 404,
+ "updatedAt": "2026-10-09T13:05:36.959Z",
+ "totalGuides": 405,
  "items": [
+  {
+   "fullName": "ishuagrawal/skills",
+   "owner": "ishuagrawal",
+   "name": "skills",
+   "url": "https://github.com/ishuagrawal/skills",
+   "avatar": "https://avatars.githubusercontent.com/u/29902139?v=4",
+   "description": "Agent skills for engineering and design",
+   "language": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "animation",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills"
+   ],
+   "license": "MIT",
+   "stars": 47,
+   "forks": 6,
+   "createdAt": "2026-10-08T16:27:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T13:05:36.958Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ishuagrawal/skills?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ishuagrawal/skills",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ishuagrawal/skills/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ishuagrawal/skills.git\ncd skills",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/ishuagrawal/skills\nWhat it says it does: \"Agent skills for engineering and design\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T13:05:36.958Z"
+  },
   {
    "fullName": "RocoreMatrix/YANchor",
    "owner": "RocoreMatrix",
@@ -25541,8 +25602,8 @@
   }
  ],
  "levels": {
+  "account": 185,
   "heavy": 66,
-  "account": 184,
   "instant": 40,
   "read": 114
  }

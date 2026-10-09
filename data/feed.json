@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T23:09:31.473Z",
- "totalGuides": 431,
+ "updatedAt": "2026-10-09T23:09:31.666Z",
+ "totalGuides": 432,
  "items": [
+  {
+   "fullName": "Paceclomooring/Adobe-Substance-3d",
+   "owner": "Paceclomooring",
+   "name": "Adobe-Substance-3d",
+   "url": "https://github.com/Paceclomooring/Adobe-Substance-3d",
+   "avatar": "https://avatars.githubusercontent.com/u/292116555?v=4",
+   "description": "Adobe Substance 3D optimizes professional desktop software utility configurations by providing a seamless and comprehensive platform that unlocks infinite...",
+   "language": null,
+   "topics": [
+    "substance",
+    "substance-3d",
+    "substance-3d-painter",
+    "substance-abuse",
+    "substance-designer",
+    "substance-designer-allegorithmic",
+    "substance-painter",
+    "substance-use"
+   ],
+   "license": null,
+   "stars": 303,
+   "forks": 0,
+   "createdAt": "2026-10-09T19:43:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T23:09:31.666Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Paceclomooring/Adobe-Substance-3d",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Paceclomooring/Adobe-Substance-3d/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Paceclomooring/Adobe-Substance-3d\nWhat it says it does: \"Adobe Substance 3D optimizes professional desktop software utility configurations by providing a seamless and comprehensive platform that unlocks infinite...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T23:09:31.666Z"
+  },
   {
    "fullName": "wesbos/photo-frame-dashboard",
    "owner": "wesbos",
@@ -27107,8 +27164,8 @@
   }
  ],
  "levels": {
+  "read": 138,
   "account": 188,
-  "read": 137,
   "heavy": 66,
   "instant": 40
  }

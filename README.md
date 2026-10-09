@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_431 guides written so far · last update 2026-10-09 23:09 UTC_
+_432 guides written so far · last update 2026-10-09 23:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Paceclomooring/Adobe-Substance-3d](https://github.com/Paceclomooring/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paceclomooring/adobe-substance-3d.md) |
 | [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) | JavaScript project | Runs in the browser with a free account | [guide](guides/wesbos/photo-frame-dashboard.md) |
 | [attowarriorbond/SolidWorks-CAD](https://github.com/attowarriorbond/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/attowarriorbond/solidworks-cad.md) |
 | [hyperrobinclash/Better-Discord](https://github.com/hyperrobinclash/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hyperrobinclash/better-discord.md) |
@@ -38,7 +39,6 @@ _431 guides written so far · last update 2026-10-09 23:09 UTC_
 | [Chartfitzturn/RX-11-Audio-Editor](https://github.com/Chartfitzturn/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartfitzturn/rx-11-audio-editor.md) |
 | [CoastFiscalDeflate/ultra-Iso](https://github.com/CoastFiscalDeflate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastfiscaldeflate/ultra-iso.md) |
 | [crystalrankdestroy/Fps-Booster-for-Windows](https://github.com/crystalrankdestroy/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crystalrankdestroy/fps-booster-for-windows.md) |
-| [photonrajditch/Windows-Optimizer](https://github.com/photonrajditch/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/photonrajditch/windows-optimizer.md) |
 <!-- latest:end -->
 
 ## How it works

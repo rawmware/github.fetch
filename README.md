@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_385 guides written so far · last update 2026-10-09 05:55 UTC_
+_386 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Mountainnulift12/rbl](https://github.com/Mountainnulift12/rbl) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/mountainnulift12/rbl.md) |
 | [Xeno-oni/Xeno-Executor](https://github.com/Xeno-oni/Xeno-Executor) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xeno-oni/xeno-executor.md) |
 | [DoYitNow/gr-custom-tool](https://github.com/DoYitNow/gr-custom-tool) | Python project | Runs in the browser with a free account | [guide](guides/doyitnow/gr-custom-tool.md) |
 | [echoillusionistcurl/zapret-discord](https://github.com/echoillusionistcurl/zapret-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/echoillusionistcurl/zapret-discord.md) |
@@ -38,7 +39,6 @@ _385 guides written so far · last update 2026-10-09 05:55 UTC_
 | [skylartaylor/gbos-vm](https://github.com/skylartaylor/gbos-vm) | Python project | Runs in the browser with a free account | [guide](guides/skylartaylor/gbos-vm.md) |
 | [Miftahul-Islam-Efaz/Motion-graphics-skill](https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill) | Shell project | Runs in the browser with a free account | [guide](guides/miftahul-islam-efaz/motion-graphics-skill.md) |
 | [Tickloop/claude-mods](https://github.com/Tickloop/claude-mods) | TypeScript project | Runs in the browser with a free account | [guide](guides/tickloop/claude-mods.md) |
-| [MirroS-Lab/AgentGarten](https://github.com/MirroS-Lab/AgentGarten) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mirros-lab/agentgarten.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T05:55:30.815Z",
- "totalGuides": 371,
+ "updatedAt": "2026-10-09T05:55:30.953Z",
+ "totalGuides": 372,
  "items": [
+  {
+   "fullName": "Hinln/ARTEX",
+   "owner": "Hinln",
+   "name": "ARTEX",
+   "url": "https://github.com/Hinln/ARTEX",
+   "avatar": "https://avatars.githubusercontent.com/u/70831136?v=4",
+   "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+   "language": "Go",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 93,
+   "forks": 207,
+   "createdAt": "2026-10-08T11:00:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T05:55:30.952Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Hinln/ARTEX?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Hinln/ARTEX",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Hinln/ARTEX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Hinln/ARTEX.git\ncd ARTEX\ngo build ./...",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/Hinln/ARTEX\nWhat it says it does: \"ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:30.952Z"
+  },
   {
    "fullName": "HelixDB/helix-foundry",
    "owner": "HelixDB",
@@ -23320,7 +23375,7 @@
   }
  ],
  "levels": {
-  "account": 168,
+  "account": 169,
   "heavy": 56,
   "instant": 33,
   "read": 114

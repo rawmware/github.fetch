@@ -1,8 +1,76 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T13:05:35.236Z",
- "totalGuides": 399,
+ "updatedAt": "2026-10-09T13:05:35.466Z",
+ "totalGuides": 400,
  "items": [
+  {
+   "fullName": "zhouwei713/luobo-ppt",
+   "owner": "zhouwei713",
+   "name": "luobo-ppt",
+   "url": "https://github.com/zhouwei713/luobo-ppt",
+   "avatar": "https://avatars.githubusercontent.com/u/12554051?v=4",
+   "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "codex-skill",
+    "powerpoint",
+    "pptx",
+    "presentation"
+   ],
+   "license": "MIT",
+   "stars": 53,
+   "forks": 12,
+   "createdAt": "2026-10-08T11:50:44Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T13:05:35.465Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/zhouwei713/luobo-ppt/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zhouwei713/luobo-ppt?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zhouwei713/luobo-ppt",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zhouwei713/luobo-ppt/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/zhouwei713/luobo-ppt.git\ncd luobo-ppt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zhouwei713/luobo-ppt\nWhat it says it does: \"生成和美化可编辑原生 PPT 的 Agent Skill\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T13:05:35.465Z"
+  },
   {
    "fullName": "silvermoong/stocking-texture-tool",
    "owner": "silvermoong",
@@ -25228,8 +25296,8 @@
   }
  ],
  "levels": {
+  "account": 182,
   "heavy": 64,
-  "account": 181,
   "instant": 40,
   "read": 114
  }

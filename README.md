@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_403 guides written so far · last update 2026-10-09 13:05 UTC_
+_404 guides written so far · last update 2026-10-09 13:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RocoreMatrix/YANchor](https://github.com/RocoreMatrix/YANchor) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/rocorematrix/yanchor.md) |
 | [Astrofrogger/pluck](https://github.com/Astrofrogger/pluck) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/astrofrogger/pluck.md) |
 | [zju3dv/SuperNav](https://github.com/zju3dv/SuperNav) | Python project | Runs in the browser with a free account | [guide](guides/zju3dv/supernav.md) |
 | [kutukam/autonomous-pentest-agent](https://github.com/kutukam/autonomous-pentest-agent) | Go project | Runs in the browser with a free account | [guide](guides/kutukam/autonomous-pentest-agent.md) |
@@ -38,7 +39,6 @@ _403 guides written so far · last update 2026-10-09 13:05 UTC_
 | [tcchen2026/VibeOffice](https://github.com/tcchen2026/VibeOffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/tcchen2026/vibeoffice.md) |
 | [Stellar-Kolo/kolo-backend](https://github.com/Stellar-Kolo/kolo-backend) | React app | Runs in a browser tab, no account needed | [guide](guides/stellar-kolo/kolo-backend.md) |
 | [Stellar-Kolo/kolo-contracts](https://github.com/Stellar-Kolo/kolo-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-kolo/kolo-contracts.md) |
-| [Stellar-Kolo/kolo-frontend](https://github.com/Stellar-Kolo/kolo-frontend) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/stellar-kolo/kolo-frontend.md) |
 <!-- latest:end -->
 
 ## How it works

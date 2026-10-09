@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_430 guides written so far · last update 2026-10-09 23:09 UTC_
+_431 guides written so far · last update 2026-10-09 23:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) | JavaScript project | Runs in the browser with a free account | [guide](guides/wesbos/photo-frame-dashboard.md) |
 | [attowarriorbond/SolidWorks-CAD](https://github.com/attowarriorbond/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/attowarriorbond/solidworks-cad.md) |
 | [hyperrobinclash/Better-Discord](https://github.com/hyperrobinclash/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hyperrobinclash/better-discord.md) |
 | [powderdiverpillar/Total-Commander](https://github.com/powderdiverpillar/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/powderdiverpillar/total-commander.md) |
@@ -38,7 +39,6 @@ _430 guides written so far · last update 2026-10-09 23:09 UTC_
 | [CoastFiscalDeflate/ultra-Iso](https://github.com/CoastFiscalDeflate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastfiscaldeflate/ultra-iso.md) |
 | [crystalrankdestroy/Fps-Booster-for-Windows](https://github.com/crystalrankdestroy/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crystalrankdestroy/fps-booster-for-windows.md) |
 | [photonrajditch/Windows-Optimizer](https://github.com/photonrajditch/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/photonrajditch/windows-optimizer.md) |
-| [GoliathCuttlefish/Adobe-Substance-3d](https://github.com/GoliathCuttlefish/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/goliathcuttlefish/adobe-substance-3d.md) |
 <!-- latest:end -->
 
 ## How it works

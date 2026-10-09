@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T23:09:31.275Z",
- "totalGuides": 430,
+ "updatedAt": "2026-10-09T23:09:31.473Z",
+ "totalGuides": 431,
  "items": [
+  {
+   "fullName": "wesbos/photo-frame-dashboard",
+   "owner": "wesbos",
+   "name": "photo-frame-dashboard",
+   "url": "https://github.com/wesbos/photo-frame-dashboard",
+   "avatar": "https://avatars.githubusercontent.com/u/176013?v=4",
+   "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+   "language": "JavaScript",
+   "topics": [],
+   "license": null,
+   "stars": 308,
+   "forks": 15,
+   "createdAt": "2026-10-08T18:22:19Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T23:09:31.472Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/wesbos/photo-frame-dashboard?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/wesbos/photo-frame-dashboard",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/wesbos/photo-frame-dashboard/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/wesbos/photo-frame-dashboard.git\ncd photo-frame-dashboard",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/wesbos/photo-frame-dashboard\nWhat it says it does: \"Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T23:09:31.472Z"
+  },
   {
    "fullName": "attowarriorbond/SolidWorks-CAD",
    "owner": "attowarriorbond",
@@ -27052,8 +27107,8 @@
   }
  ],
  "levels": {
+  "account": 188,
   "read": 137,
-  "account": 187,
   "heavy": 66,
   "instant": 40
  }

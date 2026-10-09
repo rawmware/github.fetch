@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_383 guides written so far · last update 2026-10-09 05:55 UTC_
+_384 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DoYitNow/gr-custom-tool](https://github.com/DoYitNow/gr-custom-tool) | Python project | Runs in the browser with a free account | [guide](guides/doyitnow/gr-custom-tool.md) |
 | [echoillusionistcurl/zapret-discord](https://github.com/echoillusionistcurl/zapret-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/echoillusionistcurl/zapret-discord.md) |
 | [SteersmanRelease/lsc](https://github.com/SteersmanRelease/lsc) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/steersmanrelease/lsc.md) |
 | [excalidraw/cli](https://github.com/excalidraw/cli) | Node command-line tool | Runs in the browser with a free account | [guide](guides/excalidraw/cli.md) |
@@ -38,7 +39,6 @@ _383 guides written so far · last update 2026-10-09 05:55 UTC_
 | [Tickloop/claude-mods](https://github.com/Tickloop/claude-mods) | TypeScript project | Runs in the browser with a free account | [guide](guides/tickloop/claude-mods.md) |
 | [MirroS-Lab/AgentGarten](https://github.com/MirroS-Lab/AgentGarten) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mirros-lab/agentgarten.md) |
 | [LingCore/WinShun](https://github.com/LingCore/WinShun) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/lingcore/winshun.md) |
-| [Hinln/ARTEX](https://github.com/Hinln/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/hinln/artex.md) |
 <!-- latest:end -->
 
 ## How it works

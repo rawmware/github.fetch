@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T05:55:33.078Z",
- "totalGuides": 383,
+ "updatedAt": "2026-10-09T05:55:33.359Z",
+ "totalGuides": 384,
  "items": [
+  {
+   "fullName": "DoYitNow/gr-custom-tool",
+   "owner": "DoYitNow",
+   "name": "gr-custom-tool",
+   "url": "https://github.com/DoYitNow/gr-custom-tool",
+   "avatar": "https://avatars.githubusercontent.com/u/108400339?v=4",
+   "description": "固件编辑器：裁切比例与关机画面编辑工具",
+   "language": "Python",
+   "topics": [],
+   "license": "GPL-2.0",
+   "stars": 47,
+   "forks": 11,
+   "createdAt": "2026-10-07T09:54:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T05:55:33.358Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/DoYitNow/gr-custom-tool/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/DoYitNow/gr-custom-tool?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/DoYitNow/gr-custom-tool",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/DoYitNow/gr-custom-tool/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python run.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/DoYitNow/gr-custom-tool.git\ncd gr-custom-tool\npip install -r requirements.txt\npython run.py",
+   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/DoYitNow/gr-custom-tool\nWhat it says it does: \"固件编辑器：裁切比例与关机画面编辑工具\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:33.358Z"
+  },
   {
    "fullName": "echoillusionistcurl/zapret-discord",
    "owner": "echoillusionistcurl",
@@ -24094,7 +24156,7 @@
   }
  ],
  "levels": {
-  "account": 174,
+  "account": 175,
   "instant": 34,
   "heavy": 61,
   "read": 114

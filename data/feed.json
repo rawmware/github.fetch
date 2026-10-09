@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T05:55:34.192Z",
- "totalGuides": 388,
+ "updatedAt": "2026-10-09T05:55:34.375Z",
+ "totalGuides": 389,
  "items": [
+  {
+   "fullName": "elforeign/nfs-most-wanted-mac",
+   "owner": "elforeign",
+   "name": "nfs-most-wanted-mac",
+   "url": "https://github.com/elforeign/nfs-most-wanted-mac",
+   "avatar": "https://avatars.githubusercontent.com/u/324243036?v=4",
+   "description": "Need for Speed: Most Wanted (2005), native on Apple Silicon Macs by static recompilation. Bring your own PC game.",
+   "language": "C++",
+   "topics": [],
+   "license": null,
+   "stars": 42,
+   "forks": 2,
+   "createdAt": "2026-10-07T03:57:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T05:55:34.375Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/elforeign/nfs-most-wanted-mac?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/elforeign/nfs-most-wanted-mac",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/elforeign/nfs-most-wanted-mac/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/elforeign/nfs-most-wanted-mac.git\ncd nfs-most-wanted-mac",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/elforeign/nfs-most-wanted-mac\nWhat it says it does: \"Need for Speed: Most Wanted (2005), native on Apple Silicon Macs by static recompilation. Bring your own PC game.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:34.375Z"
+  },
   {
    "fullName": "yz3639-gif/rebalance-review",
    "owner": "yz3639-gif",
@@ -24488,9 +24545,9 @@
   }
  ],
  "levels": {
+  "heavy": 62,
   "instant": 38,
   "account": 175,
-  "heavy": 61,
   "read": 114
  }
 }

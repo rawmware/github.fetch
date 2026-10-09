@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-08T23:54:29.068Z",
- "totalGuides": 369,
+ "updatedAt": "2026-10-09T05:55:30.544Z",
+ "totalGuides": 370,
  "items": [
+  {
+   "fullName": "ToiCF/CF-Workers-TGProxy",
+   "owner": "ToiCF",
+   "name": "CF-Workers-TGProxy",
+   "url": "https://github.com/ToiCF/CF-Workers-TGProxy",
+   "avatar": "https://avatars.githubusercontent.com/u/279510916?v=4",
+   "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
+   "language": null,
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 178,
+   "forks": 66,
+   "createdAt": "2026-10-08T16:38:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T05:55:30.529Z",
+   "stack": {
+    "kind": "other",
+    "label": "Code project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ToiCF/CF-Workers-TGProxy?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ToiCF/CF-Workers-TGProxy",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ToiCF/CF-Workers-TGProxy/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ToiCF/CF-Workers-TGProxy.git\ncd CF-Workers-TGProxy",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/ToiCF/CF-Workers-TGProxy\nWhat it says it does: \"基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:30.529Z"
+  },
   {
    "fullName": "finnvoor/PiDurableKit",
    "owner": "finnvoor",
@@ -23190,8 +23245,8 @@
   }
  ],
  "levels": {
+  "account": 167,
   "heavy": 56,
-  "account": 166,
   "instant": 33,
   "read": 114
  }

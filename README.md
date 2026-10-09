@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_369 guides written so far · last update 2026-10-08 23:54 UTC_
+_370 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ToiCF/CF-Workers-TGProxy](https://github.com/ToiCF/CF-Workers-TGProxy) | Code project | Runs in the browser with a free account | [guide](guides/toicf/cf-workers-tgproxy.md) |
 | [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/finnvoor/pidurablekit.md) |
 | [sirioberati/Genjustsu-Open-Source-Workflow](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sirioberati/genjustsu-open-source-workflow.md) |
 | [binwu1/drama-series-agent](https://github.com/binwu1/drama-series-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/binwu1/drama-series-agent.md) |
@@ -38,7 +39,6 @@ _369 guides written so far · last update 2026-10-08 23:54 UTC_
 | [Vincentwei1021/mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15) | JavaScript project | Runs in the browser with a free account | [guide](guides/vincentwei1021/mg-styles-15.md) |
 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | Go project | Runs in the browser with a free account | [guide](guides/jiwoochris/artex-ko.md) |
 | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) | JavaScript project | Runs in the browser with a free account | [guide](guides/lucasmarkes/hairline.md) |
-| [Travelerrrrrr/LCSC3D](https://github.com/Travelerrrrrr/LCSC3D) | Python project | Runs in the browser with a free account | [guide](guides/travelerrrrrr/lcsc3d.md) |
 <!-- latest:end -->
 
 ## How it works

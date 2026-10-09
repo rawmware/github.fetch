@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T13:05:35.770Z",
- "totalGuides": 401,
+ "updatedAt": "2026-10-09T13:05:36.120Z",
+ "totalGuides": 402,
  "items": [
+  {
+   "fullName": "zju3dv/SuperNav",
+   "owner": "zju3dv",
+   "name": "SuperNav",
+   "url": "https://github.com/zju3dv/SuperNav",
+   "avatar": "https://avatars.githubusercontent.com/u/48914724?v=4",
+   "description": "An Agentic Navigation System for Any Task in Any Scene",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 49,
+   "forks": 0,
+   "createdAt": "2026-10-08T07:05:40Z",
+   "branch": "main",
+   "homepage": "https://zju3dv.github.io/SuperNav/",
+   "addedAt": "2026-10-09T13:05:36.119Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/zju3dv/SuperNav/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zju3dv/SuperNav?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zju3dv/SuperNav",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zju3dv/SuperNav/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/zju3dv/SuperNav.git\ncd SuperNav\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/zju3dv/SuperNav\nWhat it says it does: \"An Agentic Navigation System for Any Task in Any Scene\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T13:05:36.119Z"
+  },
   {
    "fullName": "kutukam/autonomous-pentest-agent",
    "owner": "kutukam",
@@ -25351,7 +25413,7 @@
   }
  ],
  "levels": {
-  "account": 183,
+  "account": 184,
   "heavy": 64,
   "instant": 40,
   "read": 114

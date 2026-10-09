@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_401 guides written so far · last update 2026-10-09 13:05 UTC_
+_402 guides written so far · last update 2026-10-09 13:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zju3dv/SuperNav](https://github.com/zju3dv/SuperNav) | Python project | Runs in the browser with a free account | [guide](guides/zju3dv/supernav.md) |
 | [kutukam/autonomous-pentest-agent](https://github.com/kutukam/autonomous-pentest-agent) | Go project | Runs in the browser with a free account | [guide](guides/kutukam/autonomous-pentest-agent.md) |
 | [zhouwei713/luobo-ppt](https://github.com/zhouwei713/luobo-ppt) | Python project | Runs in the browser with a free account | [guide](guides/zhouwei713/luobo-ppt.md) |
 | [silvermoong/stocking-texture-tool](https://github.com/silvermoong/stocking-texture-tool) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/silvermoong/stocking-texture-tool.md) |
@@ -38,7 +39,6 @@ _401 guides written so far · last update 2026-10-09 13:05 UTC_
 | [Stellar-Kolo/kolo-contracts](https://github.com/Stellar-Kolo/kolo-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-kolo/kolo-contracts.md) |
 | [Stellar-Kolo/kolo-frontend](https://github.com/Stellar-Kolo/kolo-frontend) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/stellar-kolo/kolo-frontend.md) |
 | [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/franzenzenhofer/big-arrow-on-the-screen.md) |
-| [BinceQu/RoboHarness](https://github.com/BinceQu/RoboHarness) | Python project | Runs in the browser with a free account | [guide](guides/bincequ/roboharness.md) |
 <!-- latest:end -->
 
 ## How it works

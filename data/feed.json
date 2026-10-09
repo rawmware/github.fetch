@@ -1,8 +1,93 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T05:55:33.640Z",
- "totalGuides": 386,
+ "updatedAt": "2026-10-09T05:55:33.802Z",
+ "totalGuides": 387,
  "items": [
+  {
+   "fullName": "ModernJellyfish/rblm",
+   "owner": "ModernJellyfish",
+   "name": "rblm",
+   "url": "https://github.com/ModernJellyfish/rblm",
+   "avatar": "https://avatars.githubusercontent.com/u/331649410?v=4",
+   "description": "🔥 Roblox-Mod-Menu-Free-2026",
+   "language": "HTML",
+   "topics": [
+    "best-roblox-mod-menu",
+    "free-roblox-mod-menu",
+    "roblox-free-mods-2026",
+    "roblox-hack-menu",
+    "roblox-hack-menu-2026",
+    "roblox-menu-free",
+    "roblox-menu-script",
+    "roblox-mod-menu-2026"
+   ],
+   "license": null,
+   "stars": 44,
+   "forks": 15,
+   "createdAt": "2026-10-08T18:08:08Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T05:55:33.801Z",
+   "stack": {
+    "kind": "static",
+    "label": "Static website (HTML/CSS/JS)",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "live",
+   "launch": [
+    {
+     "id": "live",
+     "label": "Open it live",
+     "url": "https://raw.githack.com/ModernJellyfish/rblm/main/index.html",
+     "needs": "nothing",
+     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
+    },
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/ModernJellyfish/rblm",
+     "needs": "nothing",
+     "note": "A full editor and preview in your tab."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/ModernJellyfish/rblm",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ModernJellyfish/rblm?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ModernJellyfish/rblm",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ModernJellyfish/rblm/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "npx serve .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ModernJellyfish/rblm.git\ncd rblm\nnpx serve .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ModernJellyfish/rblm\nWhat it says it does: \"🔥 Roblox-Mod-Menu-Free-2026\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:33.801Z"
+  },
   {
    "fullName": "Mountainnulift12/rbl",
    "owner": "Mountainnulift12",
@@ -24323,7 +24408,7 @@
   }
  ],
  "levels": {
-  "instant": 36,
+  "instant": 37,
   "account": 175,
   "heavy": 61,
   "read": 114

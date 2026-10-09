@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_377 guides written so far · last update 2026-10-09 05:55 UTC_
+_378 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [roboterax/video-prediction-policy-2](https://github.com/roboterax/video-prediction-policy-2) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/roboterax/video-prediction-policy-2.md) |
 | [skylartaylor/gbos-vm](https://github.com/skylartaylor/gbos-vm) | Python project | Runs in the browser with a free account | [guide](guides/skylartaylor/gbos-vm.md) |
 | [Miftahul-Islam-Efaz/Motion-graphics-skill](https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill) | Shell project | Runs in the browser with a free account | [guide](guides/miftahul-islam-efaz/motion-graphics-skill.md) |
 | [Tickloop/claude-mods](https://github.com/Tickloop/claude-mods) | TypeScript project | Runs in the browser with a free account | [guide](guides/tickloop/claude-mods.md) |
@@ -38,7 +39,6 @@ _377 guides written so far · last update 2026-10-09 05:55 UTC_
 | [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/finnvoor/pidurablekit.md) |
 | [sirioberati/Genjustsu-Open-Source-Workflow](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sirioberati/genjustsu-open-source-workflow.md) |
 | [binwu1/drama-series-agent](https://github.com/binwu1/drama-series-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/binwu1/drama-series-agent.md) |
-| [Nonco-Organization/python-ecdsa](https://github.com/Nonco-Organization/python-ecdsa) | Python project | Runs in the browser with a free account | [guide](guides/nonco-organization/python-ecdsa.md) |
 <!-- latest:end -->
 
 ## How it works

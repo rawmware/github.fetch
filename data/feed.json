@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T13:05:33.135Z",
- "totalGuides": 392,
+ "updatedAt": "2026-10-09T13:05:33.367Z",
+ "totalGuides": 393,
  "items": [
+  {
+   "fullName": "Stellar-Kolo/kolo-contracts",
+   "owner": "Stellar-Kolo",
+   "name": "kolo-contracts",
+   "url": "https://github.com/Stellar-Kolo/kolo-contracts",
+   "avatar": "https://avatars.githubusercontent.com/u/340053772?v=4",
+   "description": "Kolo's Rust Soroban contracts on Stellar for community savings circles, rotational contributions, ordered payouts, and goal-based savings.",
+   "language": "Rust",
+   "topics": [
+    "community-savings",
+    "kolo",
+    "rust",
+    "smart-contracts",
+    "soroban",
+    "soroban-smart-contracts",
+    "stellar",
+    "stellar-smart-contracts"
+   ],
+   "license": null,
+   "stars": 131,
+   "forks": 128,
+   "createdAt": "2026-10-09T09:25:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T13:05:33.366Z",
+   "stack": {
+    "kind": "other",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Stellar-Kolo/kolo-contracts?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Stellar-Kolo/kolo-contracts",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Stellar-Kolo/kolo-contracts/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Stellar-Kolo/kolo-contracts.git\ncd kolo-contracts",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Stellar-Kolo/kolo-contracts\nWhat it says it does: \"Kolo's Rust Soroban contracts on Stellar for community savings circles, rotational contributions, ordered payouts, and goal-based savings.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T13:05:33.366Z"
+  },
   {
    "fullName": "Stellar-Kolo/kolo-frontend",
    "owner": "Stellar-Kolo",
@@ -24753,9 +24817,9 @@
   }
  ],
  "levels": {
+  "account": 177,
   "instant": 39,
   "heavy": 63,
-  "account": 176,
   "read": 114
  }
 }

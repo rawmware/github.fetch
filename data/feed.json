@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T23:09:30.238Z",
- "totalGuides": 425,
+ "updatedAt": "2026-10-09T23:09:30.446Z",
+ "totalGuides": 426,
  "items": [
+  {
+   "fullName": "VarnishSerpentBurn/Discord-Quest-Completer",
+   "owner": "VarnishSerpentBurn",
+   "name": "Discord-Quest-Completer",
+   "url": "https://github.com/VarnishSerpentBurn/Discord-Quest-Completer",
+   "avatar": "https://avatars.githubusercontent.com/u/292114965?v=4",
+   "description": "Discord Quest Completer optimizes user experience by providing a comprehensive solution to automate and streamline repetitive tasks within popular quests...",
+   "language": null,
+   "topics": [
+    "discord-automation",
+    "discord-orbs",
+    "discord-quest",
+    "discord-quest-completer-2026",
+    "discord-quest-completer-bot",
+    "discord-quest-completer-free",
+    "discord-quests",
+    "discord-rewards"
+   ],
+   "license": null,
+   "stars": 611,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:50:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T23:09:30.445Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/VarnishSerpentBurn/Discord-Quest-Completer",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/VarnishSerpentBurn/Discord-Quest-Completer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/VarnishSerpentBurn/Discord-Quest-Completer\nWhat it says it does: \"Discord Quest Completer optimizes user experience by providing a comprehensive solution to automate and streamline repetitive tasks within popular quests...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T23:09:30.445Z"
+  },
   {
    "fullName": "KindStatesman/KMS-Pico",
    "owner": "KindStatesman",
@@ -26767,7 +26824,7 @@
   }
  ],
  "levels": {
-  "read": 132,
+  "read": 133,
   "account": 187,
   "heavy": 66,
   "instant": 40

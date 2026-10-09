@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_425 guides written so far · last update 2026-10-09 23:09 UTC_
+_426 guides written so far · last update 2026-10-09 23:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/varnishserpentburn/discord-quest-completer.md) |
 | [KindStatesman/KMS-Pico](https://github.com/KindStatesman/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kindstatesman/kms-pico.md) |
 | [Clawfitzfilter/Display-Fusion](https://github.com/Clawfitzfilter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clawfitzfilter/display-fusion.md) |
 | [Chartfitzturn/RX-11-Audio-Editor](https://github.com/Chartfitzturn/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartfitzturn/rx-11-audio-editor.md) |
@@ -38,7 +39,6 @@ _425 guides written so far · last update 2026-10-09 23:09 UTC_
 | [TremorBisonSurvive/Discord-Nitro-Generator](https://github.com/TremorBisonSurvive/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tremorbisonsurvive/discord-nitro-generator.md) |
 | [CashierFurnace/Wondshare-Recoverit](https://github.com/CashierFurnace/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cashierfurnace/wondshare-recoverit.md) |
 | [CoralFireRadial/StartAll-Back](https://github.com/CoralFireRadial/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coralfireradial/startall-back.md) |
-| [Haircloboutique/Cubase](https://github.com/Haircloboutique/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/haircloboutique/cubase.md) |
 <!-- latest:end -->
 
 ## How it works

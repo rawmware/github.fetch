@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_408 guides written so far · last update 2026-10-09 13:05 UTC_
+_409 guides written so far · last update 2026-10-09 18:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [deepkiwiraid/Canva-Pro](https://github.com/deepkiwiraid/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkiwiraid/canva-pro.md) |
 | [trevaintdead/ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/trevaintdead/ai-game-modding-guides.md) |
 | [genex-games/genex-desktop](https://github.com/genex-games/genex-desktop) | React app | Runs in the browser with a free account | [guide](guides/genex-games/genex-desktop.md) |
 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | JavaScript project | Runs in the browser with a free account | [guide](guides/openqodex/openqodex.md) |
@@ -38,7 +39,6 @@ _408 guides written so far · last update 2026-10-09 13:05 UTC_
 | [zhouwei713/luobo-ppt](https://github.com/zhouwei713/luobo-ppt) | Python project | Runs in the browser with a free account | [guide](guides/zhouwei713/luobo-ppt.md) |
 | [silvermoong/stocking-texture-tool](https://github.com/silvermoong/stocking-texture-tool) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/silvermoong/stocking-texture-tool.md) |
 | [AnkioTomas/qqpet](https://github.com/AnkioTomas/qqpet) | Vite app | Runs in the browser with a free account | [guide](guides/ankiotomas/qqpet.md) |
-| [mar1mo-41414/SonyNasne-debian](https://github.com/mar1mo-41414/SonyNasne-debian) | Python project | Runs in the browser with a free account | [guide](guides/mar1mo-41414/sonynasne-debian.md) |
 <!-- latest:end -->
 
 ## How it works

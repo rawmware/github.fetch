@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_423 guides written so far · last update 2026-10-09 18:51 UTC_
+_424 guides written so far · last update 2026-10-09 18:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Clawfitzfilter/Display-Fusion](https://github.com/Clawfitzfilter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clawfitzfilter/display-fusion.md) |
 | [Chartfitzturn/RX-11-Audio-Editor](https://github.com/Chartfitzturn/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartfitzturn/rx-11-audio-editor.md) |
 | [CoastFiscalDeflate/ultra-Iso](https://github.com/CoastFiscalDeflate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastfiscaldeflate/ultra-iso.md) |
 | [crystalrankdestroy/Fps-Booster-for-Windows](https://github.com/crystalrankdestroy/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crystalrankdestroy/fps-booster-for-windows.md) |
@@ -38,7 +39,6 @@ _423 guides written so far · last update 2026-10-09 18:51 UTC_
 | [CoralFireRadial/StartAll-Back](https://github.com/CoralFireRadial/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coralfireradial/startall-back.md) |
 | [Haircloboutique/Cubase](https://github.com/Haircloboutique/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/haircloboutique/cubase.md) |
 | [Blendtrabulwark/Discord-Server-Cloner](https://github.com/Blendtrabulwark/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blendtrabulwark/discord-server-cloner.md) |
-| [ParrotStaple/Microsoft-Office](https://github.com/ParrotStaple/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/parrotstaple/microsoft-office.md) |
 <!-- latest:end -->
 
 ## How it works

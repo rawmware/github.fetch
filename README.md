@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_398 guides written so far · last update 2026-10-09 13:05 UTC_
+_399 guides written so far · last update 2026-10-09 13:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [silvermoong/stocking-texture-tool](https://github.com/silvermoong/stocking-texture-tool) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/silvermoong/stocking-texture-tool.md) |
 | [AnkioTomas/qqpet](https://github.com/AnkioTomas/qqpet) | Vite app | Runs in the browser with a free account | [guide](guides/ankiotomas/qqpet.md) |
 | [mar1mo-41414/SonyNasne-debian](https://github.com/mar1mo-41414/SonyNasne-debian) | Python project | Runs in the browser with a free account | [guide](guides/mar1mo-41414/sonynasne-debian.md) |
 | [sharenjun/ARTEX-main](https://github.com/sharenjun/ARTEX-main) | Go project | Runs in the browser with a free account | [guide](guides/sharenjun/artex-main.md) |
@@ -38,7 +39,6 @@ _398 guides written so far · last update 2026-10-09 13:05 UTC_
 | [BinceQu/RoboHarness](https://github.com/BinceQu/RoboHarness) | Python project | Runs in the browser with a free account | [guide](guides/bincequ/roboharness.md) |
 | [elforeign/nfs-most-wanted-mac](https://github.com/elforeign/nfs-most-wanted-mac) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/elforeign/nfs-most-wanted-mac.md) |
 | [yz3639-gif/rebalance-review](https://github.com/yz3639-gif/rebalance-review) | Vite app | Runs in a browser tab, no account needed | [guide](guides/yz3639-gif/rebalance-review.md) |
-| [ModernJellyfish/rblm](https://github.com/ModernJellyfish/rblm) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/modernjellyfish/rblm.md) |
 <!-- latest:end -->
 
 ## How it works

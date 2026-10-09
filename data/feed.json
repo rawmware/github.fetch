@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T13:05:35.466Z",
- "totalGuides": 400,
+ "updatedAt": "2026-10-09T13:05:35.770Z",
+ "totalGuides": 401,
  "items": [
+  {
+   "fullName": "kutukam/autonomous-pentest-agent",
+   "owner": "kutukam",
+   "name": "autonomous-pentest-agent",
+   "url": "https://github.com/kutukam/autonomous-pentest-agent",
+   "avatar": "https://avatars.githubusercontent.com/u/143087804?v=4",
+   "description": "Autonomous Pentest Agent — LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
+   "language": "Go",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 49,
+   "forks": 147,
+   "createdAt": "2026-10-08T18:47:12Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T13:05:35.769Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/kutukam/autonomous-pentest-agent?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/kutukam/autonomous-pentest-agent",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kutukam/autonomous-pentest-agent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/kutukam/autonomous-pentest-agent.git\ncd autonomous-pentest-agent\ngo build ./...",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/kutukam/autonomous-pentest-agent\nWhat it says it does: \"Autonomous Pentest Agent — LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T13:05:35.769Z"
+  },
   {
    "fullName": "zhouwei713/luobo-ppt",
    "owner": "zhouwei713",
@@ -25296,7 +25351,7 @@
   }
  ],
  "levels": {
-  "account": 182,
+  "account": 183,
   "heavy": 64,
   "instant": 40,
   "read": 114

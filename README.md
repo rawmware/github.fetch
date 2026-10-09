@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_432 guides written so far · last update 2026-10-09 23:09 UTC_
+_433 guides written so far · last update 2026-10-09 23:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Sandstonecharepel/SketchUp-Pro](https://github.com/Sandstonecharepel/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandstonecharepel/sketchup-pro.md) |
 | [Paceclomooring/Adobe-Substance-3d](https://github.com/Paceclomooring/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paceclomooring/adobe-substance-3d.md) |
 | [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) | JavaScript project | Runs in the browser with a free account | [guide](guides/wesbos/photo-frame-dashboard.md) |
 | [attowarriorbond/SolidWorks-CAD](https://github.com/attowarriorbond/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/attowarriorbond/solidworks-cad.md) |
@@ -38,7 +39,6 @@ _432 guides written so far · last update 2026-10-09 23:09 UTC_
 | [Clawfitzfilter/Display-Fusion](https://github.com/Clawfitzfilter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clawfitzfilter/display-fusion.md) |
 | [Chartfitzturn/RX-11-Audio-Editor](https://github.com/Chartfitzturn/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartfitzturn/rx-11-audio-editor.md) |
 | [CoastFiscalDeflate/ultra-Iso](https://github.com/CoastFiscalDeflate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastfiscaldeflate/ultra-iso.md) |
-| [crystalrankdestroy/Fps-Booster-for-Windows](https://github.com/crystalrankdestroy/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crystalrankdestroy/fps-booster-for-windows.md) |
 <!-- latest:end -->
 
 ## How it works

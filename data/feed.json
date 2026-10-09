@@ -1,8 +1,73 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T13:05:32.501Z",
- "totalGuides": 390,
+ "updatedAt": "2026-10-09T13:05:32.712Z",
+ "totalGuides": 391,
  "items": [
+  {
+   "fullName": "franzenzenhofer/big-arrow-on-the-screen",
+   "owner": "franzenzenhofer",
+   "name": "big-arrow-on-the-screen",
+   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+   "avatar": "https://avatars.githubusercontent.com/u/323190?v=4",
+   "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+   "language": "Swift",
+   "topics": [
+    "accessibility",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "macos",
+    "swift"
+   ],
+   "license": "MIT",
+   "stars": 132,
+   "forks": 2,
+   "createdAt": "2026-10-08T08:39:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T13:05:32.711Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/franzenzenhofer/big-arrow-on-the-screen?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/franzenzenhofer/big-arrow-on-the-screen",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/franzenzenhofer/big-arrow-on-the-screen.git\ncd big-arrow-on-the-screen",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/franzenzenhofer/big-arrow-on-the-screen\nWhat it says it does: \"Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T13:05:32.711Z"
+  },
   {
    "fullName": "BinceQu/RoboHarness",
    "owner": "BinceQu",
@@ -24607,8 +24672,8 @@
   }
  ],
  "levels": {
+  "heavy": 63,
   "account": 176,
-  "heavy": 62,
   "instant": 38,
   "read": 114
  }

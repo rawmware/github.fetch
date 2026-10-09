@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_390 guides written so far · last update 2026-10-09 13:05 UTC_
+_391 guides written so far · last update 2026-10-09 13:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/franzenzenhofer/big-arrow-on-the-screen.md) |
 | [BinceQu/RoboHarness](https://github.com/BinceQu/RoboHarness) | Python project | Runs in the browser with a free account | [guide](guides/bincequ/roboharness.md) |
 | [elforeign/nfs-most-wanted-mac](https://github.com/elforeign/nfs-most-wanted-mac) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/elforeign/nfs-most-wanted-mac.md) |
 | [yz3639-gif/rebalance-review](https://github.com/yz3639-gif/rebalance-review) | Vite app | Runs in a browser tab, no account needed | [guide](guides/yz3639-gif/rebalance-review.md) |
@@ -38,7 +39,6 @@ _390 guides written so far · last update 2026-10-09 13:05 UTC_
 | [SteersmanRelease/lsc](https://github.com/SteersmanRelease/lsc) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/steersmanrelease/lsc.md) |
 | [excalidraw/cli](https://github.com/excalidraw/cli) | Node command-line tool | Runs in the browser with a free account | [guide](guides/excalidraw/cli.md) |
 | [opennookorg/betterwispr](https://github.com/opennookorg/betterwispr) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/opennookorg/betterwispr.md) |
-| [X-F1REBALL-X/HearBridge-PS5](https://github.com/X-F1REBALL-X/HearBridge-PS5) | C project | Needs a real machine (or a GPU) to run | [guide](guides/x-f1reball-x/hearbridge-ps5.md) |
 <!-- latest:end -->
 
 ## How it works

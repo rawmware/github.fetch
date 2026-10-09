@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_374 guides written so far · last update 2026-10-09 05:55 UTC_
+_375 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Tickloop/claude-mods](https://github.com/Tickloop/claude-mods) | TypeScript project | Runs in the browser with a free account | [guide](guides/tickloop/claude-mods.md) |
 | [MirroS-Lab/AgentGarten](https://github.com/MirroS-Lab/AgentGarten) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mirros-lab/agentgarten.md) |
 | [LingCore/WinShun](https://github.com/LingCore/WinShun) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/lingcore/winshun.md) |
 | [Hinln/ARTEX](https://github.com/Hinln/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/hinln/artex.md) |
@@ -38,7 +39,6 @@ _374 guides written so far · last update 2026-10-09 05:55 UTC_
 | [Nonco-Organization/python-ecdsa](https://github.com/Nonco-Organization/python-ecdsa) | Python project | Runs in the browser with a free account | [guide](guides/nonco-organization/python-ecdsa.md) |
 | [pavellunev/trading_chart](https://github.com/pavellunev/trading_chart) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/pavellunev/trading_chart.md) |
 | [Sightarbreed/1password-download](https://github.com/Sightarbreed/1password-download) | Python project | Runs in the browser with a free account | [guide](guides/sightarbreed/1password-download.md) |
-| [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) | JavaScript project | Runs in the browser with a free account | [guide](guides/thariqs/ai-newtab.md) |
 <!-- latest:end -->
 
 ## How it works

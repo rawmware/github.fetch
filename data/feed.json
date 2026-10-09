@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T05:55:31.381Z",
- "totalGuides": 374,
+ "updatedAt": "2026-10-09T05:55:31.550Z",
+ "totalGuides": 375,
  "items": [
+  {
+   "fullName": "Tickloop/claude-mods",
+   "owner": "Tickloop",
+   "name": "claude-mods",
+   "url": "https://github.com/Tickloop/claude-mods",
+   "avatar": "https://avatars.githubusercontent.com/u/43160701?v=4",
+   "description": "A collection of claude code mods",
+   "language": "TypeScript",
+   "topics": [],
+   "license": null,
+   "stars": 70,
+   "forks": 4,
+   "createdAt": "2026-10-08T00:16:53Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T05:55:31.549Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Tickloop/claude-mods?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Tickloop/claude-mods",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Tickloop/claude-mods/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Tickloop/claude-mods.git\ncd claude-mods",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Tickloop/claude-mods\nWhat it says it does: \"A collection of claude code mods\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T05:55:31.549Z"
+  },
   {
    "fullName": "MirroS-Lab/AgentGarten",
    "owner": "MirroS-Lab",
@@ -23508,8 +23563,8 @@
   }
  ],
  "levels": {
+  "account": 170,
   "heavy": 58,
-  "account": 169,
   "instant": 33,
   "read": 114
  }

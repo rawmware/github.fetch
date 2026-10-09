@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_382 guides written so far · last update 2026-10-09 05:55 UTC_
+_383 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [echoillusionistcurl/zapret-discord](https://github.com/echoillusionistcurl/zapret-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/echoillusionistcurl/zapret-discord.md) |
 | [SteersmanRelease/lsc](https://github.com/SteersmanRelease/lsc) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/steersmanrelease/lsc.md) |
 | [excalidraw/cli](https://github.com/excalidraw/cli) | Node command-line tool | Runs in the browser with a free account | [guide](guides/excalidraw/cli.md) |
 | [opennookorg/betterwispr](https://github.com/opennookorg/betterwispr) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/opennookorg/betterwispr.md) |
@@ -38,7 +39,6 @@ _382 guides written so far · last update 2026-10-09 05:55 UTC_
 | [MirroS-Lab/AgentGarten](https://github.com/MirroS-Lab/AgentGarten) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mirros-lab/agentgarten.md) |
 | [LingCore/WinShun](https://github.com/LingCore/WinShun) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/lingcore/winshun.md) |
 | [Hinln/ARTEX](https://github.com/Hinln/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/hinln/artex.md) |
-| [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | Vite app | Runs in the browser with a free account | [guide](guides/helixdb/helix-foundry.md) |
 <!-- latest:end -->
 
 ## How it works

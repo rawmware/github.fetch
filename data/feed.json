@@ -1,8 +1,61 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T18:51:46.989Z",
- "totalGuides": 421,
+ "updatedAt": "2026-10-09T18:51:47.172Z",
+ "totalGuides": 422,
  "items": [
+  {
+   "fullName": "CoastFiscalDeflate/ultra-Iso",
+   "owner": "CoastFiscalDeflate",
+   "name": "ultra-Iso",
+   "url": "https://github.com/CoastFiscalDeflate/ultra-Iso",
+   "avatar": "https://avatars.githubusercontent.com/u/292113802?v=4",
+   "description": "Ultra Iso is a professional desktop software utility configuration that optimizes system efficiency by providing pre-activated framework for seamless...",
+   "language": null,
+   "topics": [
+    "iso-editor",
+    "iso-image",
+    "ultraiso-2026",
+    "ultraiso-download-windows"
+   ],
+   "license": null,
+   "stars": 278,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:58:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T18:51:47.171Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/CoastFiscalDeflate/ultra-Iso",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/CoastFiscalDeflate/ultra-Iso/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/CoastFiscalDeflate/ultra-Iso\nWhat it says it does: \"Ultra Iso is a professional desktop software utility configuration that optimizes system efficiency by providing pre-activated framework for seamless...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T18:51:47.171Z"
+  },
   {
    "fullName": "crystalrankdestroy/Fps-Booster-for-Windows",
    "owner": "crystalrankdestroy",
@@ -26543,7 +26596,7 @@
   }
  ],
  "levels": {
-  "read": 128,
+  "read": 129,
   "account": 187,
   "heavy": 66,
   "instant": 40

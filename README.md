@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_421 guides written so far · last update 2026-10-09 18:51 UTC_
+_422 guides written so far · last update 2026-10-09 18:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CoastFiscalDeflate/ultra-Iso](https://github.com/CoastFiscalDeflate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastfiscaldeflate/ultra-iso.md) |
 | [crystalrankdestroy/Fps-Booster-for-Windows](https://github.com/crystalrankdestroy/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crystalrankdestroy/fps-booster-for-windows.md) |
 | [photonrajditch/Windows-Optimizer](https://github.com/photonrajditch/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/photonrajditch/windows-optimizer.md) |
 | [GoliathCuttlefish/Adobe-Substance-3d](https://github.com/GoliathCuttlefish/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/goliathcuttlefish/adobe-substance-3d.md) |
@@ -38,7 +39,6 @@ _421 guides written so far · last update 2026-10-09 18:51 UTC_
 | [Blendtrabulwark/Discord-Server-Cloner](https://github.com/Blendtrabulwark/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blendtrabulwark/discord-server-cloner.md) |
 | [ParrotStaple/Microsoft-Office](https://github.com/ParrotStaple/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/parrotstaple/microsoft-office.md) |
 | [HoopoeConnector/Microsoft-Project](https://github.com/HoopoeConnector/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hoopoeconnector/microsoft-project.md) |
-| [PatchTechnician/Ads-Blocker](https://github.com/PatchTechnician/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/patchtechnician/ads-blocker.md) |
 <!-- latest:end -->
 
 ## How it works

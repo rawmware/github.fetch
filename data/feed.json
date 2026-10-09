@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T23:09:30.446Z",
- "totalGuides": 426,
+ "updatedAt": "2026-10-09T23:09:30.638Z",
+ "totalGuides": 427,
  "items": [
+  {
+   "fullName": "navyofficerpipe/Discord-Server-Raider",
+   "owner": "navyofficerpipe",
+   "name": "Discord-Server-Raider",
+   "url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
+   "avatar": "https://avatars.githubusercontent.com/u/292111935?v=4",
+   "description": "Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...",
+   "language": null,
+   "topics": [
+    "discord-destroyer",
+    "discordraid",
+    "multi-selfbot-tool",
+    "raid",
+    "raid-discord",
+    "raider",
+    "selfbot-tool",
+    "tool-raid"
+   ],
+   "license": null,
+   "stars": 605,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:50:19Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-09T23:09:30.637Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/navyofficerpipe/Discord-Server-Raider/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/navyofficerpipe/Discord-Server-Raider\nWhat it says it does: \"Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-09T23:09:30.637Z"
+  },
   {
    "fullName": "VarnishSerpentBurn/Discord-Quest-Completer",
    "owner": "VarnishSerpentBurn",
@@ -26824,7 +26881,7 @@
   }
  ],
  "levels": {
-  "read": 133,
+  "read": 134,
   "account": 187,
   "heavy": 66,
   "instant": 40

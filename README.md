@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_426 guides written so far · last update 2026-10-09 23:09 UTC_
+_427 guides written so far · last update 2026-10-09 23:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [navyofficerpipe/Discord-Server-Raider](https://github.com/navyofficerpipe/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/navyofficerpipe/discord-server-raider.md) |
 | [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/varnishserpentburn/discord-quest-completer.md) |
 | [KindStatesman/KMS-Pico](https://github.com/KindStatesman/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kindstatesman/kms-pico.md) |
 | [Clawfitzfilter/Display-Fusion](https://github.com/Clawfitzfilter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clawfitzfilter/display-fusion.md) |
@@ -38,7 +39,6 @@ _426 guides written so far · last update 2026-10-09 23:09 UTC_
 | [passrhymegazebo/AnyUnlock](https://github.com/passrhymegazebo/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/passrhymegazebo/anyunlock.md) |
 | [TremorBisonSurvive/Discord-Nitro-Generator](https://github.com/TremorBisonSurvive/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tremorbisonsurvive/discord-nitro-generator.md) |
 | [CashierFurnace/Wondshare-Recoverit](https://github.com/CashierFurnace/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cashierfurnace/wondshare-recoverit.md) |
-| [CoralFireRadial/StartAll-Back](https://github.com/CoralFireRadial/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coralfireradial/startall-back.md) |
 <!-- latest:end -->
 
 ## How it works

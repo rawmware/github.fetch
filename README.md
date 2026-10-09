@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_394 guides written so far · last update 2026-10-09 13:05 UTC_
+_395 guides written so far · last update 2026-10-09 13:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [tcchen2026/VibeOffice](https://github.com/tcchen2026/VibeOffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/tcchen2026/vibeoffice.md) |
 | [Stellar-Kolo/kolo-backend](https://github.com/Stellar-Kolo/kolo-backend) | React app | Runs in a browser tab, no account needed | [guide](guides/stellar-kolo/kolo-backend.md) |
 | [Stellar-Kolo/kolo-contracts](https://github.com/Stellar-Kolo/kolo-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-kolo/kolo-contracts.md) |
 | [Stellar-Kolo/kolo-frontend](https://github.com/Stellar-Kolo/kolo-frontend) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/stellar-kolo/kolo-frontend.md) |
@@ -38,7 +39,6 @@ _394 guides written so far · last update 2026-10-09 13:05 UTC_
 | [Mountainnulift12/rbl](https://github.com/Mountainnulift12/rbl) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/mountainnulift12/rbl.md) |
 | [Xeno-oni/Xeno-Executor](https://github.com/Xeno-oni/Xeno-Executor) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xeno-oni/xeno-executor.md) |
 | [DoYitNow/gr-custom-tool](https://github.com/DoYitNow/gr-custom-tool) | Python project | Runs in the browser with a free account | [guide](guides/doyitnow/gr-custom-tool.md) |
-| [echoillusionistcurl/zapret-discord](https://github.com/echoillusionistcurl/zapret-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/echoillusionistcurl/zapret-discord.md) |
 <!-- latest:end -->
 
 ## How it works

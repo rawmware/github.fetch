@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_373 guides written so far · last update 2026-10-09 05:55 UTC_
+_374 guides written so far · last update 2026-10-09 05:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MirroS-Lab/AgentGarten](https://github.com/MirroS-Lab/AgentGarten) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mirros-lab/agentgarten.md) |
 | [LingCore/WinShun](https://github.com/LingCore/WinShun) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/lingcore/winshun.md) |
 | [Hinln/ARTEX](https://github.com/Hinln/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/hinln/artex.md) |
 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | Vite app | Runs in the browser with a free account | [guide](guides/helixdb/helix-foundry.md) |
@@ -38,7 +39,6 @@ _373 guides written so far · last update 2026-10-09 05:55 UTC_
 | [pavellunev/trading_chart](https://github.com/pavellunev/trading_chart) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/pavellunev/trading_chart.md) |
 | [Sightarbreed/1password-download](https://github.com/Sightarbreed/1password-download) | Python project | Runs in the browser with a free account | [guide](guides/sightarbreed/1password-download.md) |
 | [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) | JavaScript project | Runs in the browser with a free account | [guide](guides/thariqs/ai-newtab.md) |
-| [Nonco-Organization/multicoin-address-validator](https://github.com/Nonco-Organization/multicoin-address-validator) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nonco-organization/multicoin-address-validator.md) |
 <!-- latest:end -->
 
 ## How it works

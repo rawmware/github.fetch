@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_471 guides written so far · last update 2026-10-10 15:13 UTC_
+_472 guides written so far · last update 2026-10-10 15:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MortalGoldsmith40/Autodesk-Revit](https://github.com/MortalGoldsmith40/Autodesk-Revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mortalgoldsmith40/autodesk-revit.md) |
 | [fuserainday80/AOMEI-Backupper](https://github.com/fuserainday80/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuserainday80/aomei-backupper.md) |
 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/marclou/mailcheap.md) |
 | [Ninjaclaplunder36/AnyDesk](https://github.com/Ninjaclaplunder36/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ninjaclaplunder36/anydesk.md) |
@@ -38,7 +39,6 @@ _471 guides written so far · last update 2026-10-10 15:13 UTC_
 | [c22dev/muguet](https://github.com/c22dev/muguet) | Rust project | Runs in the browser with a free account | [guide](guides/c22dev/muguet.md) |
 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-launcher.md) |
 | [alex0ptr/once](https://github.com/alex0ptr/once) | Go project | Runs in the browser with a free account | [guide](guides/alex0ptr/once.md) |
-| [Stellar-Clear/clearledger-contracts](https://github.com/Stellar-Clear/clearledger-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-clear/clearledger-contracts.md) |
 <!-- latest:end -->
 
 ## How it works

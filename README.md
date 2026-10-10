@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_459 guides written so far · last update 2026-10-10 08:53 UTC_
+_460 guides written so far · last update 2026-10-10 08:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Stellar-Clear/clearledger-contracts](https://github.com/Stellar-Clear/clearledger-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-clear/clearledger-contracts.md) |
 | [Stellar-Clear/clearledger](https://github.com/Stellar-Clear/clearledger) | JavaScript project | Runs in the browser with a free account | [guide](guides/stellar-clear/clearledger.md) |
 | [mu-zi-lee/magpie-our-free-model](https://github.com/mu-zi-lee/magpie-our-free-model) | JavaScript project | Runs in the browser with a free account | [guide](guides/mu-zi-lee/magpie-our-free-model.md) |
 | [mrsarac/ff-tracking](https://github.com/mrsarac/ff-tracking) | Rust project | Runs in the browser with a free account | [guide](guides/mrsarac/ff-tracking.md) |
@@ -38,7 +39,6 @@ _459 guides written so far · last update 2026-10-10 08:53 UTC_
 | [SplendorGuardian/AIDA-64-Extreme](https://github.com/SplendorGuardian/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorguardian/aida-64-extreme.md) |
 | [BeachSlayerSplit/Adobe-Audition](https://github.com/BeachSlayerSplit/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beachslayersplit/adobe-audition.md) |
 | [SymbolEggGaze/Ashampoo-Uninstaller](https://github.com/SymbolEggGaze/Ashampoo-Uninstaller) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/symbolegggaze/ashampoo-uninstaller.md) |
-| [Lunaruechopper/Catia-Cad](https://github.com/Lunaruechopper/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lunaruechopper/catia-cad.md) |
 <!-- latest:end -->
 
 ## How it works

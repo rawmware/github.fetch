@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T19:19:46.724Z",
- "totalGuides": 483,
+ "updatedAt": "2026-10-10T19:19:47.262Z",
+ "totalGuides": 484,
  "items": [
+  {
+   "fullName": "chengyi-ai/cy-carousel-skill",
+   "owner": "chengyi-ai",
+   "name": "cy-carousel-skill",
+   "url": "https://github.com/chengyi-ai/cy-carousel-skill",
+   "avatar": "https://avatars.githubusercontent.com/u/252342592?v=4",
+   "description": "图文轮播 Skill（cy-carousel）：给一个选题，查证、找素材、排版、检查、打包，交付封面＋10 页",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 360,
+   "forks": 48,
+   "createdAt": "2026-10-04T13:27:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T19:19:47.261Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/chengyi-ai/cy-carousel-skill/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/chengyi-ai/cy-carousel-skill?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/chengyi-ai/cy-carousel-skill",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/chengyi-ai/cy-carousel-skill/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/chengyi-ai/cy-carousel-skill.git\ncd cy-carousel-skill\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/chengyi-ai/cy-carousel-skill\nWhat it says it does: \"图文轮播 Skill（cy-carousel）：给一个选题，查证、找素材、排版、检查、打包，交付封面＋10 页\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T19:19:47.261Z"
+  },
   {
    "fullName": "cth9191/animate",
    "owner": "cth9191",
@@ -30301,7 +30363,7 @@
   }
  ],
  "levels": {
-  "account": 204,
+  "account": 205,
   "instant": 44,
   "read": 167,
   "heavy": 68

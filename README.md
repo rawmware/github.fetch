@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_482 guides written so far · last update 2026-10-10 19:19 UTC_
+_483 guides written so far · last update 2026-10-10 19:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cth9191/animate](https://github.com/cth9191/animate) | JavaScript project | Runs in the browser with a free account | [guide](guides/cth9191/animate.md) |
 | [liliy886/google-gmail-account](https://github.com/liliy886/google-gmail-account) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/liliy886/google-gmail-account.md) |
 | [GulfHairdresser/SoundSwitch](https://github.com/GulfHairdresser/SoundSwitch) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/gulfhairdresser/soundswitch.md) |
 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | JavaScript project | Runs in the browser with a free account | [guide](guides/wheresryan22/anatomy.md) |
@@ -38,7 +39,6 @@ _482 guides written so far · last update 2026-10-10 19:19 UTC_
 | [rociiu/talorys](https://github.com/rociiu/talorys) | JavaScript project | Runs in the browser with a free account | [guide](guides/rociiu/talorys.md) |
 | [Demonsemarvel/Auslogics](https://github.com/Demonsemarvel/Auslogics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/demonsemarvel/auslogics.md) |
 | [MortalGoldsmith40/Autodesk-Revit](https://github.com/MortalGoldsmith40/Autodesk-Revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mortalgoldsmith40/autodesk-revit.md) |
-| [fuserainday80/AOMEI-Backupper](https://github.com/fuserainday80/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuserainday80/aomei-backupper.md) |
 <!-- latest:end -->
 
 ## How it works

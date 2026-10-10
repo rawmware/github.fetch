@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_445 guides written so far · last update 2026-10-10 08:53 UTC_
+_446 guides written so far · last update 2026-10-10 08:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BoulevardCandlemaker/FL-Studio](https://github.com/BoulevardCandlemaker/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boulevardcandlemaker/fl-studio.md) |
 | [intersectriggermill/IOBIT-Driver-Booster](https://github.com/intersectriggermill/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/intersectriggermill/iobit-driver-booster.md) |
 | [Freeiuannihilate/Imei-Repair](https://github.com/Freeiuannihilate/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/freeiuannihilate/imei-repair.md) |
 | [PilotTreasure/Kontakt-8](https://github.com/PilotTreasure/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pilottreasure/kontakt-8.md) |
@@ -38,7 +39,6 @@ _445 guides written so far · last update 2026-10-10 08:53 UTC_
 | [ShellSupervisor/Microsoft-Visio](https://github.com/ShellSupervisor/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shellsupervisor/microsoft-visio.md) |
 | [LookoutBakerType/PH-Downloader](https://github.com/LookoutBakerType/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lookoutbakertype/ph-downloader.md) |
 | [Rapidsoelevator/Microsoft-365](https://github.com/Rapidsoelevator/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidsoelevator/microsoft-365.md) |
-| [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zeusinsight/findersearch.md) |
 <!-- latest:end -->
 
 ## How it works

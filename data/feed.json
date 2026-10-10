@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T02:23:53.482Z",
- "totalGuides": 435,
+ "updatedAt": "2026-10-10T02:23:53.670Z",
+ "totalGuides": 436,
  "items": [
+  {
+   "fullName": "LookoutBakerType/PH-Downloader",
+   "owner": "LookoutBakerType",
+   "name": "PH-Downloader",
+   "url": "https://github.com/LookoutBakerType/PH-Downloader",
+   "avatar": "https://avatars.githubusercontent.com/u/292111292?v=4",
+   "description": "Ph Down is a professional desktop configuration utility that meticulously optimizes your system's performance by providing an unparalleled framework...",
+   "language": null,
+   "topics": [
+    "adult-videos",
+    "content-downloader",
+    "erome-download",
+    "erome-downloader",
+    "erothots-bulk-downloader",
+    "pornhub-2026",
+    "pornhub-downloader-tool",
+    "pronhub"
+   ],
+   "license": null,
+   "stars": 203,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:55:48Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T02:23:53.669Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/LookoutBakerType/PH-Downloader",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LookoutBakerType/PH-Downloader/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/LookoutBakerType/PH-Downloader\nWhat it says it does: \"Ph Down is a professional desktop configuration utility that meticulously optimizes your system's performance by providing an unparalleled framework...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T02:23:53.669Z"
+  },
   {
    "fullName": "Rapidsoelevator/Microsoft-365",
    "owner": "Rapidsoelevator",
@@ -27341,7 +27398,7 @@
   }
  ],
  "levels": {
-  "read": 140,
+  "read": 141,
   "heavy": 67,
   "account": 188,
   "instant": 40

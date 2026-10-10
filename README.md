@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_487 guides written so far · last update 2026-10-10 19:19 UTC_
+_488 guides written so far · last update 2026-10-10 19:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/nandhakishorm/laya.md) |
 | [storytold/photocraft](https://github.com/storytold/photocraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/photocraft.md) |
 | [mariagorskikh/open-instinct](https://github.com/mariagorskikh/open-instinct) | JavaScript project | Runs in the browser with a free account | [guide](guides/mariagorskikh/open-instinct.md) |
 | [fxgl/steamac](https://github.com/fxgl/steamac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/fxgl/steamac.md) |
@@ -38,7 +39,6 @@ _487 guides written so far · last update 2026-10-10 19:19 UTC_
 | [n1tr00-10/tiktok-web-signature](https://github.com/n1tr00-10/tiktok-web-signature) | Python project | Runs in the browser with a free account | [guide](guides/n1tr00-10/tiktok-web-signature.md) |
 | [hubdragonminaret/VoiceMod](https://github.com/hubdragonminaret/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hubdragonminaret/voicemod.md) |
 | [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/ruoji6/artex.md) |
-| [Gentleman-Programming/gentle-dot](https://github.com/Gentleman-Programming/gentle-dot) | JavaScript project | Runs in the browser with a free account | [guide](guides/gentleman-programming/gentle-dot.md) |
 <!-- latest:end -->
 
 ## How it works

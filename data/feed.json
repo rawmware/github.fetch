@@ -1,8 +1,91 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T19:19:48.190Z",
- "totalGuides": 487,
+ "updatedAt": "2026-10-10T19:19:48.668Z",
+ "totalGuides": 488,
  "items": [
+  {
+   "fullName": "NandhaKishorM/laya",
+   "owner": "NandhaKishorM",
+   "name": "laya",
+   "url": "https://github.com/NandhaKishorM/laya",
+   "avatar": "https://avatars.githubusercontent.com/u/48623612?v=4",
+   "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+   "language": "Python",
+   "topics": [
+    "calibration",
+    "classification",
+    "decision-model",
+    "huggingface",
+    "jev",
+    "modernbert",
+    "multilingual",
+    "nlp"
+   ],
+   "license": "Apache-2.0",
+   "stars": 32138,
+   "forks": 2853,
+   "createdAt": "2026-09-18T04:46:33Z",
+   "branch": "main",
+   "homepage": "https://huggingface.co/convaiinnovations/laya",
+   "addedAt": "2026-10-10T19:19:48.667Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "colab-new",
+   "launch": [
+    {
+     "id": "colab-new",
+     "label": "Google Colab",
+     "url": "https://colab.research.google.com/",
+     "needs": "free Google account",
+     "note": "New notebook, then run: !git clone https://github.com/NandhaKishorM/laya"
+    },
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/NandhaKishorM/laya/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/NandhaKishorM/laya?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/NandhaKishorM/laya",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/NandhaKishorM/laya/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [
+    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one.",
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/NandhaKishorM/laya.git\ncd laya\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/NandhaKishorM/laya\nWhat it says it does: \"Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T19:19:48.667Z"
+  },
   {
    "fullName": "storytold/photocraft",
    "owner": "storytold",
@@ -30571,8 +30654,8 @@
   }
  ],
  "levels": {
+  "heavy": 70,
   "account": 207,
-  "heavy": 69,
   "instant": 44,
   "read": 167
  }

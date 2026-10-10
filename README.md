@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_452 guides written so far · last update 2026-10-10 08:53 UTC_
+_453 guides written so far · last update 2026-10-10 08:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Hurricanedroplunder/DVD-Creator](https://github.com/Hurricanedroplunder/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hurricanedroplunder/dvd-creator.md) |
 | [ApexFlameBurst/Cinema-4d](https://github.com/ApexFlameBurst/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexflameburst/cinema-4d.md) |
 | [SplendorGuardian/AIDA-64-Extreme](https://github.com/SplendorGuardian/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorguardian/aida-64-extreme.md) |
 | [BeachSlayerSplit/Adobe-Audition](https://github.com/BeachSlayerSplit/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beachslayersplit/adobe-audition.md) |
@@ -38,7 +39,6 @@ _452 guides written so far · last update 2026-10-10 08:53 UTC_
 | [Freeiuannihilate/Imei-Repair](https://github.com/Freeiuannihilate/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/freeiuannihilate/imei-repair.md) |
 | [PilotTreasure/Kontakt-8](https://github.com/PilotTreasure/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pilottreasure/kontakt-8.md) |
 | [Charactervefilter/Reason-14](https://github.com/Charactervefilter/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/charactervefilter/reason-14.md) |
-| [QuarkRealmEntrance/Ozone-12-Advanced](https://github.com/QuarkRealmEntrance/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/quarkrealmentrance/ozone-12-advanced.md) |
 <!-- latest:end -->
 
 ## How it works

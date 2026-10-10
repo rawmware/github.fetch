@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_496 guides written so far · last update 2026-10-10 22:52 UTC_
+_497 guides written so far · last update 2026-10-10 22:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/jaredpalmer/kev.md) |
 | [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/shihabal3amri/diplay.md) |
 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/lightcraft.md) |
 | [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cdyforever/how-to-live-better.md) |
@@ -38,7 +39,6 @@ _496 guides written so far · last update 2026-10-10 22:52 UTC_
 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/nandhakishorm/laya.md) |
 | [storytold/photocraft](https://github.com/storytold/photocraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/photocraft.md) |
 | [mariagorskikh/open-instinct](https://github.com/mariagorskikh/open-instinct) | JavaScript project | Runs in the browser with a free account | [guide](guides/mariagorskikh/open-instinct.md) |
-| [fxgl/steamac](https://github.com/fxgl/steamac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/fxgl/steamac.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_494 guides written so far · last update 2026-10-10 22:52 UTC_
+_495 guides written so far · last update 2026-10-10 22:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/lightcraft](https://github.com/storytold/lightcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/lightcraft.md) |
 | [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cdyforever/how-to-live-better.md) |
 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/robbietilton/compositor.md) |
 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | Python project | Runs in the browser with a free account | [guide](guides/niko1221/strata.md) |
@@ -38,7 +39,6 @@ _494 guides written so far · last update 2026-10-10 22:52 UTC_
 | [mariagorskikh/open-instinct](https://github.com/mariagorskikh/open-instinct) | JavaScript project | Runs in the browser with a free account | [guide](guides/mariagorskikh/open-instinct.md) |
 | [fxgl/steamac](https://github.com/fxgl/steamac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/fxgl/steamac.md) |
 | [chengyi-ai/cy-carousel-skill](https://github.com/chengyi-ai/cy-carousel-skill) | Python project | Runs in the browser with a free account | [guide](guides/chengyi-ai/cy-carousel-skill.md) |
-| [cth9191/animate](https://github.com/cth9191/animate) | JavaScript project | Runs in the browser with a free account | [guide](guides/cth9191/animate.md) |
 <!-- latest:end -->
 
 ## How it works

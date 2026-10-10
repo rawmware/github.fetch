@@ -1,8 +1,71 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T22:52:50.094Z",
- "totalGuides": 494,
+ "updatedAt": "2026-10-10T22:52:50.221Z",
+ "totalGuides": 495,
  "items": [
+  {
+   "fullName": "storytold/lightcraft",
+   "owner": "storytold",
+   "name": "lightcraft",
+   "url": "https://github.com/storytold/lightcraft",
+   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+   "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+   "language": "Rust",
+   "topics": [
+    "art",
+    "lightroom",
+    "photography",
+    "raw",
+    "raw-editor",
+    "raw-processing",
+    "rust"
+   ],
+   "license": "Apache-2.0",
+   "stars": 8953,
+   "forks": 2814,
+   "createdAt": "2026-09-30T14:09:27Z",
+   "branch": "main",
+   "homepage": "https://getartcraft.com/apps/lightcraft",
+   "addedAt": "2026-10-10T22:52:50.221Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/storytold/lightcraft?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/storytold/lightcraft",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/storytold/lightcraft/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/storytold/lightcraft.git\ncd lightcraft\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/storytold/lightcraft\nWhat it says it does: \"An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T22:52:50.221Z"
+  },
   {
    "fullName": "cdyforever/how-to-live-better",
    "owner": "cdyforever",
@@ -31034,9 +31097,9 @@
   }
  ],
  "levels": {
+  "account": 210,
   "instant": 45,
   "heavy": 73,
-  "account": 209,
   "read": 167
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_465 guides written so far · last update 2026-10-10 15:13 UTC_
+_466 guides written so far · last update 2026-10-10 15:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) | Python project | Runs in the browser with a free account | [guide](guides/submitgame/awesome-decomp-games.md) |
 | [fayazara/robot-heads](https://github.com/fayazara/robot-heads) | Vite app | Runs in the browser with a free account | [guide](guides/fayazara/robot-heads.md) |
 | [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | Node command-line tool | Runs in the browser with a free account | [guide](guides/t-auto/dsh-ops.md) |
 | [c22dev/muguet](https://github.com/c22dev/muguet) | Rust project | Runs in the browser with a free account | [guide](guides/c22dev/muguet.md) |
@@ -38,7 +39,6 @@ _465 guides written so far · last update 2026-10-10 15:13 UTC_
 | [mrsarac/ff-tracking](https://github.com/mrsarac/ff-tracking) | Rust project | Runs in the browser with a free account | [guide](guides/mrsarac/ff-tracking.md) |
 | [ChunkPoolChain/BorisFX](https://github.com/ChunkPoolChain/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chunkpoolchain/borisfx.md) |
 | [floorsmokepull/ExitLag](https://github.com/floorsmokepull/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/floorsmokepull/exitlag.md) |
-| [FrequencySheikh/Autodesk-CFD](https://github.com/FrequencySheikh/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frequencysheikh/autodesk-cfd.md) |
 <!-- latest:end -->
 
 ## How it works

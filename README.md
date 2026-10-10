@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_449 guides written so far · last update 2026-10-10 08:53 UTC_
+_450 guides written so far · last update 2026-10-10 08:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BeachSlayerSplit/Adobe-Audition](https://github.com/BeachSlayerSplit/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beachslayersplit/adobe-audition.md) |
 | [SymbolEggGaze/Ashampoo-Uninstaller](https://github.com/SymbolEggGaze/Ashampoo-Uninstaller) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/symbolegggaze/ashampoo-uninstaller.md) |
 | [Lunaruechopper/Catia-Cad](https://github.com/Lunaruechopper/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lunaruechopper/catia-cad.md) |
 | [ClientRevolution/SlideShow-Video-Maker](https://github.com/ClientRevolution/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clientrevolution/slideshow-video-maker.md) |
@@ -38,7 +39,6 @@ _449 guides written so far · last update 2026-10-10 08:53 UTC_
 | [QuarkRealmEntrance/Ozone-12-Advanced](https://github.com/QuarkRealmEntrance/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/quarkrealmentrance/ozone-12-advanced.md) |
 | [PatrolHeroVoid/Sylenth-1](https://github.com/PatrolHeroVoid/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/patrolherovoid/sylenth-1.md) |
 | [ivoryvendorvalue/Uttorent](https://github.com/ivoryvendorvalue/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ivoryvendorvalue/uttorent.md) |
-| [WoodpeckerNotice/Instagram-Liker-Bot](https://github.com/WoodpeckerNotice/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/woodpeckernotice/instagram-liker-bot.md) |
 <!-- latest:end -->
 
 ## How it works

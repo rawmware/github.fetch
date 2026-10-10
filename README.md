@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_440 guides written so far · last update 2026-10-10 02:23 UTC_
+_441 guides written so far · last update 2026-10-10 02:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [QuarkRealmEntrance/Ozone-12-Advanced](https://github.com/QuarkRealmEntrance/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/quarkrealmentrance/ozone-12-advanced.md) |
 | [PatrolHeroVoid/Sylenth-1](https://github.com/PatrolHeroVoid/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/patrolherovoid/sylenth-1.md) |
 | [ivoryvendorvalue/Uttorent](https://github.com/ivoryvendorvalue/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ivoryvendorvalue/uttorent.md) |
 | [WoodpeckerNotice/Instagram-Liker-Bot](https://github.com/WoodpeckerNotice/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/woodpeckernotice/instagram-liker-bot.md) |
@@ -38,7 +39,6 @@ _440 guides written so far · last update 2026-10-10 02:23 UTC_
 | [Paceclomooring/Adobe-Substance-3d](https://github.com/Paceclomooring/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paceclomooring/adobe-substance-3d.md) |
 | [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) | JavaScript project | Runs in the browser with a free account | [guide](guides/wesbos/photo-frame-dashboard.md) |
 | [attowarriorbond/SolidWorks-CAD](https://github.com/attowarriorbond/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/attowarriorbond/solidworks-cad.md) |
-| [hyperrobinclash/Better-Discord](https://github.com/hyperrobinclash/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hyperrobinclash/better-discord.md) |
 <!-- latest:end -->
 
 ## How it works

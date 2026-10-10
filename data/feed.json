@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T22:52:49.124Z",
- "totalGuides": 490,
+ "updatedAt": "2026-10-10T22:52:49.273Z",
+ "totalGuides": 491,
  "items": [
+  {
+   "fullName": "eyalgolan/statecraft-israel",
+   "owner": "eyalgolan",
+   "name": "statecraft-israel",
+   "url": "https://github.com/eyalgolan/statecraft-israel",
+   "avatar": "https://avatars.githubusercontent.com/u/5146175?v=4",
+   "description": "A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.",
+   "language": "C#",
+   "topics": [],
+   "license": "MIT",
+   "stars": 130,
+   "forks": 2,
+   "createdAt": "2026-10-10T08:11:27Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T22:52:49.272Z",
+   "stack": {
+    "kind": "native",
+    "label": "C# project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/eyalgolan/statecraft-israel?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/eyalgolan/statecraft-israel",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/eyalgolan/statecraft-israel/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/eyalgolan/statecraft-israel.git\ncd statecraft-israel",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/eyalgolan/statecraft-israel\nWhat it says it does: \"A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T22:52:49.272Z"
+  },
   {
    "fullName": "ARahim3/DigUp",
    "owner": "ARahim3",
@@ -30782,7 +30839,7 @@
   }
  ],
  "levels": {
-  "heavy": 71,
+  "heavy": 72,
   "account": 208,
   "instant": 44,
   "read": 167

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_461 guides written so far · last update 2026-10-10 08:53 UTC_
+_462 guides written so far · last update 2026-10-10 15:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-launcher.md) |
 | [alex0ptr/once](https://github.com/alex0ptr/once) | Go project | Runs in the browser with a free account | [guide](guides/alex0ptr/once.md) |
 | [Stellar-Clear/clearledger-contracts](https://github.com/Stellar-Clear/clearledger-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-clear/clearledger-contracts.md) |
 | [Stellar-Clear/clearledger](https://github.com/Stellar-Clear/clearledger) | JavaScript project | Runs in the browser with a free account | [guide](guides/stellar-clear/clearledger.md) |
@@ -38,7 +39,6 @@ _461 guides written so far · last update 2026-10-10 08:53 UTC_
 | [Hurricanedroplunder/DVD-Creator](https://github.com/Hurricanedroplunder/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hurricanedroplunder/dvd-creator.md) |
 | [ApexFlameBurst/Cinema-4d](https://github.com/ApexFlameBurst/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexflameburst/cinema-4d.md) |
 | [SplendorGuardian/AIDA-64-Extreme](https://github.com/SplendorGuardian/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorguardian/aida-64-extreme.md) |
-| [BeachSlayerSplit/Adobe-Audition](https://github.com/BeachSlayerSplit/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beachslayersplit/adobe-audition.md) |
 <!-- latest:end -->
 
 ## How it works

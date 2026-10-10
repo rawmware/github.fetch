@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_474 guides written so far · last update 2026-10-10 15:13 UTC_
+_475 guides written so far · last update 2026-10-10 15:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sqliteai/sqlite-multiwriter](https://github.com/sqliteai/sqlite-multiwriter) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sqliteai/sqlite-multiwriter.md) |
 | [rociiu/talorys](https://github.com/rociiu/talorys) | JavaScript project | Runs in the browser with a free account | [guide](guides/rociiu/talorys.md) |
 | [Demonsemarvel/Auslogics](https://github.com/Demonsemarvel/Auslogics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/demonsemarvel/auslogics.md) |
 | [MortalGoldsmith40/Autodesk-Revit](https://github.com/MortalGoldsmith40/Autodesk-Revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mortalgoldsmith40/autodesk-revit.md) |
@@ -38,7 +39,6 @@ _474 guides written so far · last update 2026-10-10 15:13 UTC_
 | [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) | Python project | Runs in the browser with a free account | [guide](guides/submitgame/awesome-decomp-games.md) |
 | [fayazara/robot-heads](https://github.com/fayazara/robot-heads) | Vite app | Runs in the browser with a free account | [guide](guides/fayazara/robot-heads.md) |
 | [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | Node command-line tool | Runs in the browser with a free account | [guide](guides/t-auto/dsh-ops.md) |
-| [c22dev/muguet](https://github.com/c22dev/muguet) | Rust project | Runs in the browser with a free account | [guide](guides/c22dev/muguet.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_469 guides written so far · last update 2026-10-10 15:13 UTC_
+_470 guides written so far · last update 2026-10-10 15:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [marclou/mailcheap](https://github.com/marclou/mailcheap) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/marclou/mailcheap.md) |
 | [Ninjaclaplunder36/AnyDesk](https://github.com/Ninjaclaplunder36/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ninjaclaplunder36/anydesk.md) |
 | [ViceAdvocate/ArchiCAD](https://github.com/ViceAdvocate/ArchiCAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/viceadvocate/archicad.md) |
 | [mrzh7/scam-with-your-friends-web](https://github.com/mrzh7/scam-with-your-friends-web) | Vite app | Runs in a browser tab, no account needed | [guide](guides/mrzh7/scam-with-your-friends-web.md) |
@@ -38,7 +39,6 @@ _469 guides written so far · last update 2026-10-10 15:13 UTC_
 | [alex0ptr/once](https://github.com/alex0ptr/once) | Go project | Runs in the browser with a free account | [guide](guides/alex0ptr/once.md) |
 | [Stellar-Clear/clearledger-contracts](https://github.com/Stellar-Clear/clearledger-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-clear/clearledger-contracts.md) |
 | [Stellar-Clear/clearledger](https://github.com/Stellar-Clear/clearledger) | JavaScript project | Runs in the browser with a free account | [guide](guides/stellar-clear/clearledger.md) |
-| [mu-zi-lee/magpie-our-free-model](https://github.com/mu-zi-lee/magpie-our-free-model) | JavaScript project | Runs in the browser with a free account | [guide](guides/mu-zi-lee/magpie-our-free-model.md) |
 <!-- latest:end -->
 
 ## How it works

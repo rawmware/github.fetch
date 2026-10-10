@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_446 guides written so far · last update 2026-10-10 08:53 UTC_
+_447 guides written so far · last update 2026-10-10 08:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ClientRevolution/SlideShow-Video-Maker](https://github.com/ClientRevolution/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clientrevolution/slideshow-video-maker.md) |
 | [BoulevardCandlemaker/FL-Studio](https://github.com/BoulevardCandlemaker/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boulevardcandlemaker/fl-studio.md) |
 | [intersectriggermill/IOBIT-Driver-Booster](https://github.com/intersectriggermill/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/intersectriggermill/iobit-driver-booster.md) |
 | [Freeiuannihilate/Imei-Repair](https://github.com/Freeiuannihilate/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/freeiuannihilate/imei-repair.md) |
@@ -38,7 +39,6 @@ _446 guides written so far · last update 2026-10-10 08:53 UTC_
 | [WoodpeckerNotice/Instagram-Liker-Bot](https://github.com/WoodpeckerNotice/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/woodpeckernotice/instagram-liker-bot.md) |
 | [ShellSupervisor/Microsoft-Visio](https://github.com/ShellSupervisor/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shellsupervisor/microsoft-visio.md) |
 | [LookoutBakerType/PH-Downloader](https://github.com/LookoutBakerType/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lookoutbakertype/ph-downloader.md) |
-| [Rapidsoelevator/Microsoft-365](https://github.com/Rapidsoelevator/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidsoelevator/microsoft-365.md) |
 <!-- latest:end -->
 
 ## How it works

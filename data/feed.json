@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T22:52:49.804Z",
- "totalGuides": 492,
+ "updatedAt": "2026-10-10T22:52:49.937Z",
+ "totalGuides": 493,
  "items": [
+  {
+   "fullName": "robbietilton/Compositor",
+   "owner": "robbietilton",
+   "name": "Compositor",
+   "url": "https://github.com/robbietilton/Compositor",
+   "avatar": "https://avatars.githubusercontent.com/u/1269226?v=4",
+   "description": "The Photoshop alternative for Mac",
+   "language": "Swift",
+   "topics": [],
+   "license": "MIT",
+   "stars": 15445,
+   "forks": 1448,
+   "createdAt": "2026-09-16T20:35:54Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T22:52:49.936Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/robbietilton/Compositor?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/robbietilton/Compositor",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/robbietilton/Compositor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/robbietilton/Compositor.git\ncd Compositor",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/robbietilton/Compositor\nWhat it says it does: \"The Photoshop alternative for Mac\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T22:52:49.936Z"
+  },
   {
    "fullName": "Niko1221/Strata",
    "owner": "Niko1221",
@@ -30901,8 +30958,8 @@
   }
  ],
  "levels": {
+  "heavy": 73,
   "account": 209,
-  "heavy": 72,
   "instant": 44,
   "read": 167
  }

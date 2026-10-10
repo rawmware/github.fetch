@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_491 guides written so far · last update 2026-10-10 22:52 UTC_
+_492 guides written so far · last update 2026-10-10 22:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Niko1221/Strata](https://github.com/Niko1221/Strata) | Python project | Runs in the browser with a free account | [guide](guides/niko1221/strata.md) |
 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/eyalgolan/statecraft-israel.md) |
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/arahim3/digup.md) |
 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | Python project | Runs in the browser with a free account | [guide](guides/browser-use/jev-ultrafast.md) |
@@ -38,7 +39,6 @@ _491 guides written so far · last update 2026-10-10 22:52 UTC_
 | [cth9191/animate](https://github.com/cth9191/animate) | JavaScript project | Runs in the browser with a free account | [guide](guides/cth9191/animate.md) |
 | [liliy886/google-gmail-account](https://github.com/liliy886/google-gmail-account) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/liliy886/google-gmail-account.md) |
 | [GulfHairdresser/SoundSwitch](https://github.com/GulfHairdresser/SoundSwitch) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/gulfhairdresser/soundswitch.md) |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | JavaScript project | Runs in the browser with a free account | [guide](guides/wheresryan22/anatomy.md) |
 <!-- latest:end -->
 
 ## How it works

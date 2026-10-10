@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_443 guides written so far · last update 2026-10-10 02:23 UTC_
+_444 guides written so far · last update 2026-10-10 02:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Freeiuannihilate/Imei-Repair](https://github.com/Freeiuannihilate/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/freeiuannihilate/imei-repair.md) |
 | [PilotTreasure/Kontakt-8](https://github.com/PilotTreasure/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pilottreasure/kontakt-8.md) |
 | [Charactervefilter/Reason-14](https://github.com/Charactervefilter/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/charactervefilter/reason-14.md) |
 | [QuarkRealmEntrance/Ozone-12-Advanced](https://github.com/QuarkRealmEntrance/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/quarkrealmentrance/ozone-12-advanced.md) |
@@ -38,7 +39,6 @@ _443 guides written so far · last update 2026-10-10 02:23 UTC_
 | [Rapidsoelevator/Microsoft-365](https://github.com/Rapidsoelevator/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidsoelevator/microsoft-365.md) |
 | [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zeusinsight/findersearch.md) |
 | [Sandstonecharepel/SketchUp-Pro](https://github.com/Sandstonecharepel/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandstonecharepel/sketchup-pro.md) |
-| [Paceclomooring/Adobe-Substance-3d](https://github.com/Paceclomooring/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paceclomooring/adobe-substance-3d.md) |
 <!-- latest:end -->
 
 ## How it works

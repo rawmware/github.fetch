@@ -1,8 +1,71 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-09T23:09:31.903Z",
- "totalGuides": 433,
+ "updatedAt": "2026-10-10T02:23:53.306Z",
+ "totalGuides": 434,
  "items": [
+  {
+   "fullName": "zeusinsight/FinderSearch",
+   "owner": "zeusinsight",
+   "name": "FinderSearch",
+   "url": "https://github.com/zeusinsight/FinderSearch",
+   "avatar": "https://avatars.githubusercontent.com/u/176775140?v=4",
+   "description": "A native macOS file browser with fast fuzzy filename search, powered by fsearch.",
+   "language": "Swift",
+   "topics": [
+    "appkit",
+    "file-manager",
+    "macos",
+    "search",
+    "swift"
+   ],
+   "license": "MIT",
+   "stars": 262,
+   "forks": 6,
+   "createdAt": "2026-10-09T08:01:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T02:23:53.292Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zeusinsight/FinderSearch?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zeusinsight/FinderSearch",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zeusinsight/FinderSearch/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/zeusinsight/FinderSearch.git\ncd FinderSearch",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zeusinsight/FinderSearch\nWhat it says it does: \"A native macOS file browser with fast fuzzy filename search, powered by fsearch.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T02:23:53.292Z"
+  },
   {
    "fullName": "Sandstonecharepel/SketchUp-Pro",
    "owner": "Sandstonecharepel",
@@ -27221,9 +27284,9 @@
   }
  ],
  "levels": {
+  "heavy": 67,
   "read": 139,
   "account": 188,
-  "heavy": 66,
   "instant": 40
  }
 }

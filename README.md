@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_433 guides written so far · last update 2026-10-09 23:09 UTC_
+_434 guides written so far · last update 2026-10-10 02:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zeusinsight/findersearch.md) |
 | [Sandstonecharepel/SketchUp-Pro](https://github.com/Sandstonecharepel/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandstonecharepel/sketchup-pro.md) |
 | [Paceclomooring/Adobe-Substance-3d](https://github.com/Paceclomooring/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paceclomooring/adobe-substance-3d.md) |
 | [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) | JavaScript project | Runs in the browser with a free account | [guide](guides/wesbos/photo-frame-dashboard.md) |
@@ -38,7 +39,6 @@ _433 guides written so far · last update 2026-10-09 23:09 UTC_
 | [KindStatesman/KMS-Pico](https://github.com/KindStatesman/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kindstatesman/kms-pico.md) |
 | [Clawfitzfilter/Display-Fusion](https://github.com/Clawfitzfilter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clawfitzfilter/display-fusion.md) |
 | [Chartfitzturn/RX-11-Audio-Editor](https://github.com/Chartfitzturn/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartfitzturn/rx-11-audio-editor.md) |
-| [CoastFiscalDeflate/ultra-Iso](https://github.com/CoastFiscalDeflate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastfiscaldeflate/ultra-iso.md) |
 <!-- latest:end -->
 
 ## How it works

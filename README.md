@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_462 guides written so far · last update 2026-10-10 15:13 UTC_
+_463 guides written so far · last update 2026-10-10 15:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [c22dev/muguet](https://github.com/c22dev/muguet) | Rust project | Runs in the browser with a free account | [guide](guides/c22dev/muguet.md) |
 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-launcher.md) |
 | [alex0ptr/once](https://github.com/alex0ptr/once) | Go project | Runs in the browser with a free account | [guide](guides/alex0ptr/once.md) |
 | [Stellar-Clear/clearledger-contracts](https://github.com/Stellar-Clear/clearledger-contracts) | Rust project | Runs in the browser with a free account | [guide](guides/stellar-clear/clearledger-contracts.md) |
@@ -38,7 +39,6 @@ _462 guides written so far · last update 2026-10-10 15:13 UTC_
 | [FrequencySheikh/Autodesk-CFD](https://github.com/FrequencySheikh/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frequencysheikh/autodesk-cfd.md) |
 | [Hurricanedroplunder/DVD-Creator](https://github.com/Hurricanedroplunder/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hurricanedroplunder/dvd-creator.md) |
 | [ApexFlameBurst/Cinema-4d](https://github.com/ApexFlameBurst/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexflameburst/cinema-4d.md) |
-| [SplendorGuardian/AIDA-64-Extreme](https://github.com/SplendorGuardian/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorguardian/aida-64-extreme.md) |
 <!-- latest:end -->
 
 ## How it works

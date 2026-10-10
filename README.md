@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_480 guides written so far · last update 2026-10-10 19:19 UTC_
+_481 guides written so far · last update 2026-10-10 19:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [GulfHairdresser/SoundSwitch](https://github.com/GulfHairdresser/SoundSwitch) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/gulfhairdresser/soundswitch.md) |
 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | JavaScript project | Runs in the browser with a free account | [guide](guides/wheresryan22/anatomy.md) |
 | [n1tr00-10/tiktok-web-signature](https://github.com/n1tr00-10/tiktok-web-signature) | Python project | Runs in the browser with a free account | [guide](guides/n1tr00-10/tiktok-web-signature.md) |
 | [hubdragonminaret/VoiceMod](https://github.com/hubdragonminaret/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hubdragonminaret/voicemod.md) |
@@ -38,7 +39,6 @@ _480 guides written so far · last update 2026-10-10 19:19 UTC_
 | [MortalGoldsmith40/Autodesk-Revit](https://github.com/MortalGoldsmith40/Autodesk-Revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mortalgoldsmith40/autodesk-revit.md) |
 | [fuserainday80/AOMEI-Backupper](https://github.com/fuserainday80/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuserainday80/aomei-backupper.md) |
 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/marclou/mailcheap.md) |
-| [Ninjaclaplunder36/AnyDesk](https://github.com/Ninjaclaplunder36/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ninjaclaplunder36/anydesk.md) |
 <!-- latest:end -->
 
 ## How it works

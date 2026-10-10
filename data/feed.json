@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T15:13:45.046Z",
- "totalGuides": 477,
+ "updatedAt": "2026-10-10T15:13:45.194Z",
+ "totalGuides": 478,
  "items": [
+  {
+   "fullName": "hubdragonminaret/VoiceMod",
+   "owner": "hubdragonminaret",
+   "name": "VoiceMod",
+   "url": "https://github.com/hubdragonminaret/VoiceMod",
+   "avatar": "https://avatars.githubusercontent.com/u/292115877?v=4",
+   "description": "Voicemod optimizes desktop software utilities with a unique configuration system that streamlines workflow and enhances overall performance without using...",
+   "language": null,
+   "topics": [
+    "aivoicechanger",
+    "gaming-utilities",
+    "how-to-install-voicemod-pro",
+    "voice-mod-github",
+    "voicemod-2026",
+    "voicemod-2026-crack",
+    "voicemod-2026-cracked",
+    "voicemod-2026-free"
+   ],
+   "license": null,
+   "stars": 103,
+   "forks": 0,
+   "createdAt": "2026-10-09T19:43:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T15:13:45.193Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/hubdragonminaret/VoiceMod",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/hubdragonminaret/VoiceMod/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/hubdragonminaret/VoiceMod\nWhat it says it does: \"Voicemod optimizes desktop software utilities with a unique configuration system that streamlines workflow and enhances overall performance without using...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T15:13:45.193Z"
+  },
   {
    "fullName": "RuoJi6/ARTEX",
    "owner": "RuoJi6",
@@ -29884,9 +29941,9 @@
   }
  ],
  "levels": {
+  "read": 167,
   "account": 201,
   "heavy": 68,
-  "read": 166,
   "instant": 42
  }
 }

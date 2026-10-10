@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_455 guides written so far · last update 2026-10-10 08:53 UTC_
+_456 guides written so far · last update 2026-10-10 08:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ChunkPoolChain/BorisFX](https://github.com/ChunkPoolChain/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chunkpoolchain/borisfx.md) |
 | [floorsmokepull/ExitLag](https://github.com/floorsmokepull/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/floorsmokepull/exitlag.md) |
 | [FrequencySheikh/Autodesk-CFD](https://github.com/FrequencySheikh/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frequencysheikh/autodesk-cfd.md) |
 | [Hurricanedroplunder/DVD-Creator](https://github.com/Hurricanedroplunder/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hurricanedroplunder/dvd-creator.md) |
@@ -38,7 +39,6 @@ _455 guides written so far · last update 2026-10-10 08:53 UTC_
 | [ClientRevolution/SlideShow-Video-Maker](https://github.com/ClientRevolution/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clientrevolution/slideshow-video-maker.md) |
 | [BoulevardCandlemaker/FL-Studio](https://github.com/BoulevardCandlemaker/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boulevardcandlemaker/fl-studio.md) |
 | [intersectriggermill/IOBIT-Driver-Booster](https://github.com/intersectriggermill/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/intersectriggermill/iobit-driver-booster.md) |
-| [Freeiuannihilate/Imei-Repair](https://github.com/Freeiuannihilate/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/freeiuannihilate/imei-repair.md) |
 <!-- latest:end -->
 
 ## How it works

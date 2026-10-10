@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_489 guides written so far · last update 2026-10-10 19:19 UTC_
+_490 guides written so far · last update 2026-10-10 22:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/arahim3/digup.md) |
 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | Python project | Runs in the browser with a free account | [guide](guides/browser-use/jev-ultrafast.md) |
 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/nandhakishorm/laya.md) |
 | [storytold/photocraft](https://github.com/storytold/photocraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/photocraft.md) |
@@ -38,7 +39,6 @@ _489 guides written so far · last update 2026-10-10 19:19 UTC_
 | [GulfHairdresser/SoundSwitch](https://github.com/GulfHairdresser/SoundSwitch) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/gulfhairdresser/soundswitch.md) |
 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | JavaScript project | Runs in the browser with a free account | [guide](guides/wheresryan22/anatomy.md) |
 | [n1tr00-10/tiktok-web-signature](https://github.com/n1tr00-10/tiktok-web-signature) | Python project | Runs in the browser with a free account | [guide](guides/n1tr00-10/tiktok-web-signature.md) |
-| [hubdragonminaret/VoiceMod](https://github.com/hubdragonminaret/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hubdragonminaret/voicemod.md) |
 <!-- latest:end -->
 
 ## How it works

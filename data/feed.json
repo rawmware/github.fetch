@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T02:23:53.985Z",
- "totalGuides": 438,
+ "updatedAt": "2026-10-10T02:23:54.114Z",
+ "totalGuides": 439,
  "items": [
+  {
+   "fullName": "ivoryvendorvalue/Uttorent",
+   "owner": "ivoryvendorvalue",
+   "name": "Uttorent",
+   "url": "https://github.com/ivoryvendorvalue/Uttorent",
+   "avatar": "https://avatars.githubusercontent.com/u/292111604?v=4",
+   "description": "Uttorent is a professional desktop software utility configuration that optimizes system performance by providing a streamlined interface and enabling...",
+   "language": null,
+   "topics": [
+    "desktop-torrent-application",
+    "incogni-nordvpn-value",
+    "nordvpn-sc-locations",
+    "peer-to-peer-windows",
+    "thepiratebay",
+    "torrent-file-downloading-pc",
+    "torrent-github",
+    "utorrent-pro-advanced-features"
+   ],
+   "license": null,
+   "stars": 201,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:58:41Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T02:23:54.113Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ivoryvendorvalue/Uttorent",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ivoryvendorvalue/Uttorent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ivoryvendorvalue/Uttorent\nWhat it says it does: \"Uttorent is a professional desktop software utility configuration that optimizes system performance by providing a streamlined interface and enabling...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T02:23:54.113Z"
+  },
   {
    "fullName": "WoodpeckerNotice/Instagram-Liker-Bot",
    "owner": "WoodpeckerNotice",
@@ -27512,7 +27569,7 @@
   }
  ],
  "levels": {
-  "read": 143,
+  "read": 144,
   "heavy": 67,
   "account": 188,
   "instant": 40

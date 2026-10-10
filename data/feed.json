@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T15:13:45.194Z",
- "totalGuides": 478,
+ "updatedAt": "2026-10-10T19:19:45.806Z",
+ "totalGuides": 479,
  "items": [
+  {
+   "fullName": "n1tr00-10/tiktok-web-signature",
+   "owner": "n1tr00-10",
+   "name": "tiktok-web-signature",
+   "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+   "avatar": "https://avatars.githubusercontent.com/u/240963972?v=4",
+   "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+   "language": "Python",
+   "topics": [
+    "chacha",
+    "chacha20",
+    "encryption",
+    "python",
+    "reverse-engineering",
+    "signatur",
+    "tiktok",
+    "tiktok-algo"
+   ],
+   "license": "MIT",
+   "stars": 706,
+   "forks": 0,
+   "createdAt": "2026-10-09T19:30:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T19:19:45.791Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/n1tr00-10/tiktok-web-signature/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/n1tr00-10/tiktok-web-signature?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/n1tr00-10/tiktok-web-signature",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/n1tr00-10/tiktok-web-signature/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/n1tr00-10/tiktok-web-signature.git\ncd tiktok-web-signature",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/n1tr00-10/tiktok-web-signature\nWhat it says it does: \"tiktok web signature reverse engineer generates valid tiktok signatures for API requets\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T19:19:45.791Z"
+  },
   {
    "fullName": "hubdragonminaret/VoiceMod",
    "owner": "hubdragonminaret",
@@ -29941,8 +30012,8 @@
   }
  ],
  "levels": {
+  "account": 202,
   "read": 167,
-  "account": 201,
   "heavy": 68,
   "instant": 42
  }

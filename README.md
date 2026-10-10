@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_478 guides written so far · last update 2026-10-10 15:13 UTC_
+_479 guides written so far · last update 2026-10-10 19:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [n1tr00-10/tiktok-web-signature](https://github.com/n1tr00-10/tiktok-web-signature) | Python project | Runs in the browser with a free account | [guide](guides/n1tr00-10/tiktok-web-signature.md) |
 | [hubdragonminaret/VoiceMod](https://github.com/hubdragonminaret/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hubdragonminaret/voicemod.md) |
 | [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/ruoji6/artex.md) |
 | [Gentleman-Programming/gentle-dot](https://github.com/Gentleman-Programming/gentle-dot) | JavaScript project | Runs in the browser with a free account | [guide](guides/gentleman-programming/gentle-dot.md) |
@@ -38,7 +39,6 @@ _478 guides written so far · last update 2026-10-10 15:13 UTC_
 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/marclou/mailcheap.md) |
 | [Ninjaclaplunder36/AnyDesk](https://github.com/Ninjaclaplunder36/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ninjaclaplunder36/anydesk.md) |
 | [ViceAdvocate/ArchiCAD](https://github.com/ViceAdvocate/ArchiCAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/viceadvocate/archicad.md) |
-| [mrzh7/scam-with-your-friends-web](https://github.com/mrzh7/scam-with-your-friends-web) | Vite app | Runs in a browser tab, no account needed | [guide](guides/mrzh7/scam-with-your-friends-web.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_454 guides written so far · last update 2026-10-10 08:53 UTC_
+_455 guides written so far · last update 2026-10-10 08:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [floorsmokepull/ExitLag](https://github.com/floorsmokepull/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/floorsmokepull/exitlag.md) |
 | [FrequencySheikh/Autodesk-CFD](https://github.com/FrequencySheikh/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frequencysheikh/autodesk-cfd.md) |
 | [Hurricanedroplunder/DVD-Creator](https://github.com/Hurricanedroplunder/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hurricanedroplunder/dvd-creator.md) |
 | [ApexFlameBurst/Cinema-4d](https://github.com/ApexFlameBurst/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apexflameburst/cinema-4d.md) |
@@ -38,7 +39,6 @@ _454 guides written so far · last update 2026-10-10 08:53 UTC_
 | [BoulevardCandlemaker/FL-Studio](https://github.com/BoulevardCandlemaker/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boulevardcandlemaker/fl-studio.md) |
 | [intersectriggermill/IOBIT-Driver-Booster](https://github.com/intersectriggermill/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/intersectriggermill/iobit-driver-booster.md) |
 | [Freeiuannihilate/Imei-Repair](https://github.com/Freeiuannihilate/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/freeiuannihilate/imei-repair.md) |
-| [PilotTreasure/Kontakt-8](https://github.com/PilotTreasure/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pilottreasure/kontakt-8.md) |
 <!-- latest:end -->
 
 ## How it works

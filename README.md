@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_456 guides written so far · last update 2026-10-10 08:53 UTC_
+_457 guides written so far · last update 2026-10-10 08:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mrsarac/ff-tracking](https://github.com/mrsarac/ff-tracking) | Rust project | Runs in the browser with a free account | [guide](guides/mrsarac/ff-tracking.md) |
 | [ChunkPoolChain/BorisFX](https://github.com/ChunkPoolChain/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chunkpoolchain/borisfx.md) |
 | [floorsmokepull/ExitLag](https://github.com/floorsmokepull/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/floorsmokepull/exitlag.md) |
 | [FrequencySheikh/Autodesk-CFD](https://github.com/FrequencySheikh/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frequencysheikh/autodesk-cfd.md) |
@@ -38,7 +39,6 @@ _456 guides written so far · last update 2026-10-10 08:53 UTC_
 | [Lunaruechopper/Catia-Cad](https://github.com/Lunaruechopper/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lunaruechopper/catia-cad.md) |
 | [ClientRevolution/SlideShow-Video-Maker](https://github.com/ClientRevolution/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clientrevolution/slideshow-video-maker.md) |
 | [BoulevardCandlemaker/FL-Studio](https://github.com/BoulevardCandlemaker/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boulevardcandlemaker/fl-studio.md) |
-| [intersectriggermill/IOBIT-Driver-Booster](https://github.com/intersectriggermill/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/intersectriggermill/iobit-driver-booster.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,64 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T02:23:54.589Z",
- "totalGuides": 442,
+ "updatedAt": "2026-10-10T02:23:54.725Z",
+ "totalGuides": 443,
  "items": [
+  {
+   "fullName": "PilotTreasure/Kontakt-8",
+   "owner": "PilotTreasure",
+   "name": "Kontakt-8",
+   "url": "https://github.com/PilotTreasure/Kontakt-8",
+   "avatar": "https://avatars.githubusercontent.com/u/292108655?v=4",
+   "description": "Kontakt 8 optimizes professional desktop software utility configurations with a robust and user-friendly interface.",
+   "language": null,
+   "topics": [
+    "kontakt",
+    "kontakt-full-library",
+    "kontakt-full-library-pc",
+    "orchestral",
+    "studio-recording",
+    "virtual-instrument",
+    "vst-plugins"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:53:09Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T02:23:54.724Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/PilotTreasure/Kontakt-8",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PilotTreasure/Kontakt-8/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/PilotTreasure/Kontakt-8\nWhat it says it does: \"Kontakt 8 optimizes professional desktop software utility configurations with a robust and user-friendly interface.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T02:23:54.724Z"
+  },
   {
    "fullName": "Charactervefilter/Reason-14",
    "owner": "Charactervefilter",
@@ -27739,7 +27795,7 @@
   }
  ],
  "levels": {
-  "read": 147,
+  "read": 148,
   "heavy": 67,
   "account": 188,
   "instant": 40

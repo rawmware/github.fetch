@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_437 guides written so far · last update 2026-10-10 02:23 UTC_
+_438 guides written so far · last update 2026-10-10 02:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [WoodpeckerNotice/Instagram-Liker-Bot](https://github.com/WoodpeckerNotice/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/woodpeckernotice/instagram-liker-bot.md) |
 | [ShellSupervisor/Microsoft-Visio](https://github.com/ShellSupervisor/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shellsupervisor/microsoft-visio.md) |
 | [LookoutBakerType/PH-Downloader](https://github.com/LookoutBakerType/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lookoutbakertype/ph-downloader.md) |
 | [Rapidsoelevator/Microsoft-365](https://github.com/Rapidsoelevator/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidsoelevator/microsoft-365.md) |
@@ -38,7 +39,6 @@ _437 guides written so far · last update 2026-10-10 02:23 UTC_
 | [hyperrobinclash/Better-Discord](https://github.com/hyperrobinclash/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hyperrobinclash/better-discord.md) |
 | [powderdiverpillar/Total-Commander](https://github.com/powderdiverpillar/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/powderdiverpillar/total-commander.md) |
 | [navyofficerpipe/Discord-Server-Raider](https://github.com/navyofficerpipe/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/navyofficerpipe/discord-server-raider.md) |
-| [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/varnishserpentburn/discord-quest-completer.md) |
 <!-- latest:end -->
 
 ## How it works

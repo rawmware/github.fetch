@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_485 guides written so far · last update 2026-10-10 19:19 UTC_
+_486 guides written so far · last update 2026-10-10 19:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mariagorskikh/open-instinct](https://github.com/mariagorskikh/open-instinct) | JavaScript project | Runs in the browser with a free account | [guide](guides/mariagorskikh/open-instinct.md) |
 | [fxgl/steamac](https://github.com/fxgl/steamac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/fxgl/steamac.md) |
 | [chengyi-ai/cy-carousel-skill](https://github.com/chengyi-ai/cy-carousel-skill) | Python project | Runs in the browser with a free account | [guide](guides/chengyi-ai/cy-carousel-skill.md) |
 | [cth9191/animate](https://github.com/cth9191/animate) | JavaScript project | Runs in the browser with a free account | [guide](guides/cth9191/animate.md) |
@@ -38,7 +39,6 @@ _485 guides written so far · last update 2026-10-10 19:19 UTC_
 | [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/ruoji6/artex.md) |
 | [Gentleman-Programming/gentle-dot](https://github.com/Gentleman-Programming/gentle-dot) | JavaScript project | Runs in the browser with a free account | [guide](guides/gentleman-programming/gentle-dot.md) |
 | [sqliteai/sqlite-multiwriter](https://github.com/sqliteai/sqlite-multiwriter) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sqliteai/sqlite-multiwriter.md) |
-| [rociiu/talorys](https://github.com/rociiu/talorys) | JavaScript project | Runs in the browser with a free account | [guide](guides/rociiu/talorys.md) |
 <!-- latest:end -->
 
 ## How it works

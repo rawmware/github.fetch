@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_441 guides written so far · last update 2026-10-10 02:23 UTC_
+_442 guides written so far · last update 2026-10-10 02:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Charactervefilter/Reason-14](https://github.com/Charactervefilter/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/charactervefilter/reason-14.md) |
 | [QuarkRealmEntrance/Ozone-12-Advanced](https://github.com/QuarkRealmEntrance/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/quarkrealmentrance/ozone-12-advanced.md) |
 | [PatrolHeroVoid/Sylenth-1](https://github.com/PatrolHeroVoid/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/patrolherovoid/sylenth-1.md) |
 | [ivoryvendorvalue/Uttorent](https://github.com/ivoryvendorvalue/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ivoryvendorvalue/uttorent.md) |
@@ -38,7 +39,6 @@ _441 guides written so far · last update 2026-10-10 02:23 UTC_
 | [Sandstonecharepel/SketchUp-Pro](https://github.com/Sandstonecharepel/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandstonecharepel/sketchup-pro.md) |
 | [Paceclomooring/Adobe-Substance-3d](https://github.com/Paceclomooring/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paceclomooring/adobe-substance-3d.md) |
 | [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) | JavaScript project | Runs in the browser with a free account | [guide](guides/wesbos/photo-frame-dashboard.md) |
-| [attowarriorbond/SolidWorks-CAD](https://github.com/attowarriorbond/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/attowarriorbond/solidworks-cad.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T15:13:43.174Z",
- "totalGuides": 468,
+ "updatedAt": "2026-10-10T15:13:43.400Z",
+ "totalGuides": 469,
  "items": [
+  {
+   "fullName": "Ninjaclaplunder36/AnyDesk",
+   "owner": "Ninjaclaplunder36",
+   "name": "AnyDesk",
+   "url": "https://github.com/Ninjaclaplunder36/AnyDesk",
+   "avatar": "https://avatars.githubusercontent.com/u/292108234?v=4",
+   "description": "Anydesk optimizes your professional desktop environment by providing a streamlined utility that simplifies complex configurations and enhances overall...",
+   "language": null,
+   "topics": [
+    "ai-employees",
+    "anydesk-alternative",
+    "anydesk-api",
+    "anydesk-config",
+    "anydesk-integration",
+    "anydesk-latest",
+    "anydesk-portable",
+    "remote-attendance-tool"
+   ],
+   "license": null,
+   "stars": 119,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:44:56Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T15:13:43.399Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Ninjaclaplunder36/AnyDesk",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Ninjaclaplunder36/AnyDesk/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Ninjaclaplunder36/AnyDesk\nWhat it says it does: \"Anydesk optimizes your professional desktop environment by providing a streamlined utility that simplifies complex configurations and enhances overall...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T15:13:43.399Z"
+  },
   {
    "fullName": "ViceAdvocate/ArchiCAD",
    "owner": "ViceAdvocate",
@@ -29321,7 +29378,7 @@
   }
  ],
  "levels": {
-  "read": 162,
+  "read": 163,
   "instant": 41,
   "account": 198,
   "heavy": 67

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_434 guides written so far · last update 2026-10-10 02:23 UTC_
+_435 guides written so far · last update 2026-10-10 02:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Rapidsoelevator/Microsoft-365](https://github.com/Rapidsoelevator/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidsoelevator/microsoft-365.md) |
 | [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zeusinsight/findersearch.md) |
 | [Sandstonecharepel/SketchUp-Pro](https://github.com/Sandstonecharepel/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandstonecharepel/sketchup-pro.md) |
 | [Paceclomooring/Adobe-Substance-3d](https://github.com/Paceclomooring/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paceclomooring/adobe-substance-3d.md) |
@@ -38,7 +39,6 @@ _434 guides written so far · last update 2026-10-10 02:23 UTC_
 | [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/varnishserpentburn/discord-quest-completer.md) |
 | [KindStatesman/KMS-Pico](https://github.com/KindStatesman/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kindstatesman/kms-pico.md) |
 | [Clawfitzfilter/Display-Fusion](https://github.com/Clawfitzfilter/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clawfitzfilter/display-fusion.md) |
-| [Chartfitzturn/RX-11-Audio-Editor](https://github.com/Chartfitzturn/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartfitzturn/rx-11-audio-editor.md) |
 <!-- latest:end -->
 
 ## How it works

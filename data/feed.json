@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T02:23:53.306Z",
- "totalGuides": 434,
+ "updatedAt": "2026-10-10T02:23:53.482Z",
+ "totalGuides": 435,
  "items": [
+  {
+   "fullName": "Rapidsoelevator/Microsoft-365",
+   "owner": "Rapidsoelevator",
+   "name": "Microsoft-365",
+   "url": "https://github.com/Rapidsoelevator/Microsoft-365",
+   "avatar": "https://avatars.githubusercontent.com/u/292109024?v=4",
+   "description": "Microsoft 365 offers a comprehensive suite of professional desktop software utilities designed to streamline your workflow and enhance productivity.",
+   "language": null,
+   "topics": [
+    "excel-automation",
+    "libreoffice-extension",
+    "microsoft-excel-advanced",
+    "microsoft-keys",
+    "microsoft-office",
+    "microsoft-suite",
+    "microsoft-word",
+    "microsoft-word-free"
+   ],
+   "license": null,
+   "stars": 204,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:54:19Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T02:23:53.481Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Rapidsoelevator/Microsoft-365",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Rapidsoelevator/Microsoft-365/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Rapidsoelevator/Microsoft-365\nWhat it says it does: \"Microsoft 365 offers a comprehensive suite of professional desktop software utilities designed to streamline your workflow and enhance productivity.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T02:23:53.481Z"
+  },
   {
    "fullName": "zeusinsight/FinderSearch",
    "owner": "zeusinsight",
@@ -27284,8 +27341,8 @@
   }
  ],
  "levels": {
+  "read": 140,
   "heavy": 67,
-  "read": 139,
   "account": 188,
   "instant": 40
  }

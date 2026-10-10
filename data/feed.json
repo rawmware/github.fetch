@@ -1,8 +1,61 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-10T15:13:43.015Z",
- "totalGuides": 467,
+ "updatedAt": "2026-10-10T15:13:43.174Z",
+ "totalGuides": 468,
  "items": [
+  {
+   "fullName": "ViceAdvocate/ArchiCAD",
+   "owner": "ViceAdvocate",
+   "name": "ArchiCAD",
+   "url": "https://github.com/ViceAdvocate/ArchiCAD",
+   "avatar": "https://avatars.githubusercontent.com/u/292110323?v=4",
+   "description": "Archicad optimizes your workflow by providing a professional and streamlined desktop utility configuration.",
+   "language": null,
+   "topics": [
+    "archicad",
+    "archicad-2026",
+    "archicad-download",
+    "graphisoft-archicad-install-setup-windows-2026"
+   ],
+   "license": null,
+   "stars": 119,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:44:58Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-10T15:13:43.173Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ViceAdvocate/ArchiCAD",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ViceAdvocate/ArchiCAD/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ViceAdvocate/ArchiCAD\nWhat it says it does: \"Archicad optimizes your workflow by providing a professional and streamlined desktop utility configuration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-10T15:13:43.173Z"
+  },
   {
    "fullName": "mrzh7/scam-with-your-friends-web",
    "owner": "mrzh7",
@@ -29268,9 +29321,9 @@
   }
  ],
  "levels": {
+  "read": 162,
   "instant": 41,
   "account": 198,
-  "read": 161,
   "heavy": 67
  }
 }

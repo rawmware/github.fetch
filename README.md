@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_493 guides written so far · last update 2026-10-10 22:52 UTC_
+_494 guides written so far · last update 2026-10-10 22:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cdyforever/how-to-live-better.md) |
 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/robbietilton/compositor.md) |
 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | Python project | Runs in the browser with a free account | [guide](guides/niko1221/strata.md) |
 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/eyalgolan/statecraft-israel.md) |
@@ -38,7 +39,6 @@ _493 guides written so far · last update 2026-10-10 22:52 UTC_
 | [fxgl/steamac](https://github.com/fxgl/steamac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/fxgl/steamac.md) |
 | [chengyi-ai/cy-carousel-skill](https://github.com/chengyi-ai/cy-carousel-skill) | Python project | Runs in the browser with a free account | [guide](guides/chengyi-ai/cy-carousel-skill.md) |
 | [cth9191/animate](https://github.com/cth9191/animate) | JavaScript project | Runs in the browser with a free account | [guide](guides/cth9191/animate.md) |
-| [liliy886/google-gmail-account](https://github.com/liliy886/google-gmail-account) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/liliy886/google-gmail-account.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_557 guides written so far · last update 2026-10-11 23:06 UTC_
+_558 guides written so far · last update 2026-10-11 23:06 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/omlahore/removemacai.md) |
 | [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | Vite app | Runs in the browser with a free account | [guide](guides/shader-effects-inc/shaders.md) |
 | [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) | Hono app | Runs in the browser with a free account | [guide](guides/copilotkit/openmuse.md) |
 | [bherbruck/solidcraft](https://github.com/bherbruck/solidcraft) | Rust project | Runs in the browser with a free account | [guide](guides/bherbruck/solidcraft.md) |
@@ -38,7 +39,6 @@ _557 guides written so far · last update 2026-10-11 23:06 UTC_
 | [storytold/effectcraft](https://github.com/storytold/effectcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/effectcraft.md) |
 | [Mak5er/AirCard](https://github.com/Mak5er/AirCard) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/mak5er/aircard.md) |
 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python project | Runs in the browser with a free account | [guide](guides/rehan-remade/universal-modder.md) |
-| [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/vectorcraft.md) |
 <!-- latest:end -->
 
 ## How it works

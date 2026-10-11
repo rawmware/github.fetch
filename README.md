@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_516 guides written so far · last update 2026-10-11 07:53 UTC_
+_517 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LimestoneCaptain/FabFilter-Total](https://github.com/LimestoneCaptain/FabFilter-Total) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/limestonecaptain/fabfilter-total.md) |
 | [UnicornShade/PHP-Storm](https://github.com/UnicornShade/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unicornshade/php-storm.md) |
 | [AdmiralDiscriminate/Photo-Commander](https://github.com/AdmiralDiscriminate/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/admiraldiscriminate/photo-commander.md) |
 | [Volumetheboutique/Directory-Opus](https://github.com/Volumetheboutique/Directory-Opus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/volumetheboutique/directory-opus.md) |
@@ -38,7 +39,6 @@ _516 guides written so far · last update 2026-10-11 07:53 UTC_
 | [npwitk/Macintosh-Skeletal-Filled](https://github.com/npwitk/Macintosh-Skeletal-Filled) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/npwitk/macintosh-skeletal-filled.md) |
 | [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/nikgrbn/finder-menu.md) |
 | [joeseesun/qiaomu-cover-fonts](https://github.com/joeseesun/qiaomu-cover-fonts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joeseesun/qiaomu-cover-fonts.md) |
-| [eternalkaisercraft45/Adobe-Photoshop](https://github.com/eternalkaisercraft45/Adobe-Photoshop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eternalkaisercraft45/adobe-photoshop.md) |
 <!-- latest:end -->
 
 ## How it works

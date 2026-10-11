@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T01:47:11.130Z",
- "totalGuides": 498,
+ "updatedAt": "2026-10-11T01:47:11.350Z",
+ "totalGuides": 499,
  "items": [
+  {
+   "fullName": "NandhaKishorM/vegaml",
+   "owner": "NandhaKishorM",
+   "name": "vegaml",
+   "url": "https://github.com/NandhaKishorM/vegaml",
+   "avatar": "https://avatars.githubusercontent.com/u/48623612?v=4",
+   "description": "Typed decisions from a frozen language model and a small physics engine: calibrated probabilities, conformal sets, 73k context, images.",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 114,
+   "forks": 9,
+   "createdAt": "2026-10-09T17:45:54Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-11T01:47:11.349Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "colab-new",
+   "launch": [
+    {
+     "id": "colab-new",
+     "label": "Google Colab",
+     "url": "https://colab.research.google.com/",
+     "needs": "free Google account",
+     "note": "New notebook, then run: !git clone https://github.com/NandhaKishorM/vegaml"
+    },
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/NandhaKishorM/vegaml/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/NandhaKishorM/vegaml?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/NandhaKishorM/vegaml",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/NandhaKishorM/vegaml/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [
+    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one."
+   ],
+   "local": "git clone --depth 1 https://github.com/NandhaKishorM/vegaml.git\ncd vegaml\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/NandhaKishorM/vegaml\nWhat it says it does: \"Typed decisions from a frozen language model and a small physics engine: calibrated probabilities, conformal sets, 73k context, images.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T01:47:11.349Z"
+  },
   {
    "fullName": "aindeev/agent-chrome-relay",
    "owner": "aindeev",
@@ -31296,8 +31367,8 @@
   }
  ],
  "levels": {
+  "heavy": 76,
   "account": 211,
-  "heavy": 75,
   "instant": 45,
   "read": 167
  }

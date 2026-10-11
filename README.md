@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_504 guides written so far · last update 2026-10-11 01:47 UTC_
+_505 guides written so far · last update 2026-10-11 01:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [eternalkaisercraft45/Adobe-Photoshop](https://github.com/eternalkaisercraft45/Adobe-Photoshop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eternalkaisercraft45/adobe-photoshop.md) |
 | [EmirOvercome/Adobe-After-Effects](https://github.com/EmirOvercome/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/emirovercome/adobe-after-effects.md) |
 | [BowyerSqueeze/Avid-Media-Composer](https://github.com/BowyerSqueeze/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bowyersqueeze/avid-media-composer.md) |
 | [PortalPikeman/Adobe-Illustrator](https://github.com/PortalPikeman/Adobe-Illustrator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portalpikeman/adobe-illustrator.md) |
@@ -38,7 +39,6 @@ _504 guides written so far · last update 2026-10-11 01:47 UTC_
 | [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/shihabal3amri/diplay.md) |
 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/lightcraft.md) |
 | [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cdyforever/how-to-live-better.md) |
-| [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/robbietilton/compositor.md) |
 <!-- latest:end -->
 
 ## How it works

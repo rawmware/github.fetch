@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_524 guides written so far · last update 2026-10-11 14:52 UTC_
+_525 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dach6/ExaltHelper](https://github.com/dach6/ExaltHelper) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/dach6/exalthelper.md) |
 | [AIPMAndy/how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aipmandy/how-to-survive-unemployment.md) |
 | [LcodeCoder/CG-Claude](https://github.com/LcodeCoder/CG-Claude) | Vite app | Runs in the browser with a free account | [guide](guides/lcodecoder/cg-claude.md) |
 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/filmcraft.md) |
@@ -38,7 +39,6 @@ _524 guides written so far · last update 2026-10-11 14:52 UTC_
 | [UnicornShade/PHP-Storm](https://github.com/UnicornShade/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unicornshade/php-storm.md) |
 | [AdmiralDiscriminate/Photo-Commander](https://github.com/AdmiralDiscriminate/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/admiraldiscriminate/photo-commander.md) |
 | [Volumetheboutique/Directory-Opus](https://github.com/Volumetheboutique/Directory-Opus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/volumetheboutique/directory-opus.md) |
-| [LimitBlacksmith/Autodesk-Inventor](https://github.com/LimitBlacksmith/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/limitblacksmith/autodesk-inventor.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_497 guides written so far · last update 2026-10-10 22:52 UTC_
+_498 guides written so far · last update 2026-10-11 01:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aindeev/agent-chrome-relay](https://github.com/aindeev/agent-chrome-relay) | JavaScript project | Runs in the browser with a free account | [guide](guides/aindeev/agent-chrome-relay.md) |
 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/jaredpalmer/kev.md) |
 | [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/shihabal3amri/diplay.md) |
 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/lightcraft.md) |
@@ -38,7 +39,6 @@ _497 guides written so far · last update 2026-10-10 22:52 UTC_
 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | Python project | Runs in the browser with a free account | [guide](guides/browser-use/jev-ultrafast.md) |
 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/nandhakishorm/laya.md) |
 | [storytold/photocraft](https://github.com/storytold/photocraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/photocraft.md) |
-| [mariagorskikh/open-instinct](https://github.com/mariagorskikh/open-instinct) | JavaScript project | Runs in the browser with a free account | [guide](guides/mariagorskikh/open-instinct.md) |
 <!-- latest:end -->
 
 ## How it works

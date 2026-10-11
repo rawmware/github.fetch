@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_543 guides written so far · last update 2026-10-11 19:27 UTC_
+_544 guides written so far · last update 2026-10-11 19:27 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lawrencewzen/wx-bot](https://github.com/lawrencewzen/wx-bot) | JavaScript project | Runs in the browser with a free account | [guide](guides/lawrencewzen/wx-bot.md) |
 | [kevinerikjs/gta5-ios-port](https://github.com/kevinerikjs/gta5-ios-port) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/kevinerikjs/gta5-ios-port.md) |
 | [Ayzzz123/mcd-coupon-strategist](https://github.com/Ayzzz123/mcd-coupon-strategist) | Python project | Runs in the browser with a free account | [guide](guides/ayzzz123/mcd-coupon-strategist.md) |
 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | Python project | Runs in the browser with a free account | [guide](guides/mizorewww/laya-mlx.md) |
@@ -38,7 +39,6 @@ _543 guides written so far · last update 2026-10-11 19:27 UTC_
 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/pdfcraft.md) |
 | [yetone/magpie](https://github.com/yetone/magpie) | Go project | Runs in the browser with a free account | [guide](guides/yetone/magpie.md) |
 | [bherbruck/solvecraft](https://github.com/bherbruck/solvecraft) | Rust project | Runs in the browser with a free account | [guide](guides/bherbruck/solvecraft.md) |
-| [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/academa-labs/manimgx.md) |
 <!-- latest:end -->
 
 ## How it works

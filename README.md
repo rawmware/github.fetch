@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_518 guides written so far · last update 2026-10-11 07:53 UTC_
+_519 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LevelSparkRecognize/Ashampoo-WinOptimizer](https://github.com/LevelSparkRecognize/Ashampoo-WinOptimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/levelsparkrecognize/ashampoo-winoptimizer.md) |
 | [futurecoxswaincrease/Nero-Platinum](https://github.com/futurecoxswaincrease/Nero-Platinum) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/futurecoxswaincrease/nero-platinum.md) |
 | [LimestoneCaptain/FabFilter-Total](https://github.com/LimestoneCaptain/FabFilter-Total) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/limestonecaptain/fabfilter-total.md) |
 | [UnicornShade/PHP-Storm](https://github.com/UnicornShade/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unicornshade/php-storm.md) |
@@ -38,7 +39,6 @@ _518 guides written so far · last update 2026-10-11 07:53 UTC_
 | [driftcuttlefishjump/Serato-DJ-Pro](https://github.com/driftcuttlefishjump/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftcuttlefishjump/serato-dj-pro.md) |
 | [BlueProvostCrush/Quicken-Deluxe](https://github.com/BlueProvostCrush/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blueprovostcrush/quicken-deluxe.md) |
 | [npwitk/Macintosh-Skeletal-Filled](https://github.com/npwitk/Macintosh-Skeletal-Filled) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/npwitk/macintosh-skeletal-filled.md) |
-| [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/nikgrbn/finder-menu.md) |
 <!-- latest:end -->
 
 ## How it works

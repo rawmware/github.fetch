@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_526 guides written so far · last update 2026-10-11 14:52 UTC_
+_527 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins) | Python project | Runs in the browser with a free account | [guide](guides/nousresearch/hermes-official-plugins.md) |
 | [chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction) | Python project | Runs in the browser with a free account | [guide](guides/chenwei810/semiconductor_manufacturing_introduction.md) |
 | [dach6/ExaltHelper](https://github.com/dach6/ExaltHelper) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/dach6/exalthelper.md) |
 | [AIPMAndy/how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aipmandy/how-to-survive-unemployment.md) |
@@ -38,7 +39,6 @@ _526 guides written so far · last update 2026-10-11 14:52 UTC_
 | [futurecoxswaincrease/Nero-Platinum](https://github.com/futurecoxswaincrease/Nero-Platinum) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/futurecoxswaincrease/nero-platinum.md) |
 | [LimestoneCaptain/FabFilter-Total](https://github.com/LimestoneCaptain/FabFilter-Total) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/limestonecaptain/fabfilter-total.md) |
 | [UnicornShade/PHP-Storm](https://github.com/UnicornShade/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unicornshade/php-storm.md) |
-| [AdmiralDiscriminate/Photo-Commander](https://github.com/AdmiralDiscriminate/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/admiraldiscriminate/photo-commander.md) |
 <!-- latest:end -->
 
 ## How it works

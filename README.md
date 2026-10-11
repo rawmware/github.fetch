@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_554 guides written so far · last update 2026-10-11 23:06 UTC_
+_555 guides written so far · last update 2026-10-11 23:06 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [bherbruck/solidcraft](https://github.com/bherbruck/solidcraft) | Rust project | Runs in the browser with a free account | [guide](guides/bherbruck/solidcraft.md) |
 | [storytold/craft-libs](https://github.com/storytold/craft-libs) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-libs.md) |
 | [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/droid-deck/droiddeck.md) |
 | [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/theoleecj/semif-openjev.md) |
@@ -38,7 +39,6 @@ _554 guides written so far · last update 2026-10-11 23:06 UTC_
 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/vectorcraft.md) |
 | [half144/overdrive-releases](https://github.com/half144/overdrive-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/half144/overdrive-releases.md) |
 | [lawrencewzen/wx-bot](https://github.com/lawrencewzen/wx-bot) | JavaScript project | Runs in the browser with a free account | [guide](guides/lawrencewzen/wx-bot.md) |
-| [kevinerikjs/gta5-ios-port](https://github.com/kevinerikjs/gta5-ios-port) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/kevinerikjs/gta5-ios-port.md) |
 <!-- latest:end -->
 
 ## How it works

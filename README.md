@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_511 guides written so far · last update 2026-10-11 07:53 UTC_
+_512 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [FollowerPruner/Melodyne-5](https://github.com/FollowerPruner/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followerpruner/melodyne-5.md) |
 | [Sequester-AG/bug-bounty-triage](https://github.com/Sequester-AG/bug-bounty-triage) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sequester-ag/bug-bounty-triage.md) |
 | [driftcuttlefishjump/Serato-DJ-Pro](https://github.com/driftcuttlefishjump/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftcuttlefishjump/serato-dj-pro.md) |
 | [BlueProvostCrush/Quicken-Deluxe](https://github.com/BlueProvostCrush/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blueprovostcrush/quicken-deluxe.md) |
@@ -38,7 +39,6 @@ _511 guides written so far · last update 2026-10-11 07:53 UTC_
 | [BowyerSqueeze/Avid-Media-Composer](https://github.com/BowyerSqueeze/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bowyersqueeze/avid-media-composer.md) |
 | [PortalPikeman/Adobe-Illustrator](https://github.com/PortalPikeman/Adobe-Illustrator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portalpikeman/adobe-illustrator.md) |
 | [xcgtb/StrimKeep](https://github.com/xcgtb/StrimKeep) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/xcgtb/strimkeep.md) |
-| [liyupi/ai-promo-video-maker](https://github.com/liyupi/ai-promo-video-maker) | Python project | Runs in the browser with a free account | [guide](guides/liyupi/ai-promo-video-maker.md) |
 <!-- latest:end -->
 
 ## How it works

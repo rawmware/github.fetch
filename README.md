@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_553 guides written so far · last update 2026-10-11 19:27 UTC_
+_554 guides written so far · last update 2026-10-11 23:06 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/craft-libs](https://github.com/storytold/craft-libs) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-libs.md) |
 | [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/droid-deck/droiddeck.md) |
 | [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/theoleecj/semif-openjev.md) |
 | [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/louis-cfm/coucou.md) |
@@ -38,7 +39,6 @@ _553 guides written so far · last update 2026-10-11 19:27 UTC_
 | [half144/overdrive-releases](https://github.com/half144/overdrive-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/half144/overdrive-releases.md) |
 | [lawrencewzen/wx-bot](https://github.com/lawrencewzen/wx-bot) | JavaScript project | Runs in the browser with a free account | [guide](guides/lawrencewzen/wx-bot.md) |
 | [kevinerikjs/gta5-ios-port](https://github.com/kevinerikjs/gta5-ios-port) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/kevinerikjs/gta5-ios-port.md) |
-| [Ayzzz123/mcd-coupon-strategist](https://github.com/Ayzzz123/mcd-coupon-strategist) | Python project | Runs in the browser with a free account | [guide](guides/ayzzz123/mcd-coupon-strategist.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_506 guides written so far · last update 2026-10-11 01:47 UTC_
+_507 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/nikgrbn/finder-menu.md) |
 | [joeseesun/qiaomu-cover-fonts](https://github.com/joeseesun/qiaomu-cover-fonts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joeseesun/qiaomu-cover-fonts.md) |
 | [eternalkaisercraft45/Adobe-Photoshop](https://github.com/eternalkaisercraft45/Adobe-Photoshop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eternalkaisercraft45/adobe-photoshop.md) |
 | [EmirOvercome/Adobe-After-Effects](https://github.com/EmirOvercome/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/emirovercome/adobe-after-effects.md) |
@@ -38,7 +39,6 @@ _506 guides written so far · last update 2026-10-11 01:47 UTC_
 | [aindeev/agent-chrome-relay](https://github.com/aindeev/agent-chrome-relay) | JavaScript project | Runs in the browser with a free account | [guide](guides/aindeev/agent-chrome-relay.md) |
 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/jaredpalmer/kev.md) |
 | [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/shihabal3amri/diplay.md) |
-| [storytold/lightcraft](https://github.com/storytold/lightcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/lightcraft.md) |
 <!-- latest:end -->
 
 ## How it works

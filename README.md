@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_551 guides written so far · last update 2026-10-11 19:27 UTC_
+_552 guides written so far · last update 2026-10-11 19:27 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/theoleecj/semif-openjev.md) |
 | [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/louis-cfm/coucou.md) |
 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | Vite app | Runs in the browser with a free account | [guide](guides/copilotkit/opendots.md) |
 | [storytold/effectcraft](https://github.com/storytold/effectcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/effectcraft.md) |
@@ -38,7 +39,6 @@ _551 guides written so far · last update 2026-10-11 19:27 UTC_
 | [kevinerikjs/gta5-ios-port](https://github.com/kevinerikjs/gta5-ios-port) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/kevinerikjs/gta5-ios-port.md) |
 | [Ayzzz123/mcd-coupon-strategist](https://github.com/Ayzzz123/mcd-coupon-strategist) | Python project | Runs in the browser with a free account | [guide](guides/ayzzz123/mcd-coupon-strategist.md) |
 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | Python project | Runs in the browser with a free account | [guide](guides/mizorewww/laya-mlx.md) |
-| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | JavaScript project | Runs in the browser with a free account | [guide](guides/kkkkhazix/aihot.md) |
 <!-- latest:end -->
 
 ## How it works

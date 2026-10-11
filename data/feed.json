@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T07:53:07.770Z",
- "totalGuides": 519,
+ "updatedAt": "2026-10-11T07:53:07.932Z",
+ "totalGuides": 520,
  "items": [
+  {
+   "fullName": "AmpDugongIntroduce/Crash-Plan",
+   "owner": "AmpDugongIntroduce",
+   "name": "Crash-Plan",
+   "url": "https://github.com/AmpDugongIntroduce/Crash-Plan",
+   "avatar": "https://avatars.githubusercontent.com/u/292110853?v=4",
+   "description": "Crash Plan optimizes professional desktop software utility configurations by providing a comprehensive and user-friendly interface that allows seamless...",
+   "language": null,
+   "topics": [
+    "crashplan",
+    "crashplan-app",
+    "crashplan-for-small-business",
+    "crashplan-for-small-business-crack",
+    "crashplan-hack",
+    "crashplan-windows-setup-2026"
+   ],
+   "license": null,
+   "stars": 98,
+   "forks": 0,
+   "createdAt": "2026-10-09T13:48:59Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-11T07:53:07.931Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/AmpDugongIntroduce/Crash-Plan",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/AmpDugongIntroduce/Crash-Plan/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/AmpDugongIntroduce/Crash-Plan\nWhat it says it does: \"Crash Plan optimizes professional desktop software utility configurations by providing a comprehensive and user-friendly interface that allows seamless...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T07:53:07.931Z"
+  },
   {
    "fullName": "LevelSparkRecognize/Ashampoo-WinOptimizer",
    "owner": "LevelSparkRecognize",
@@ -31173,81 +31228,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/telepath-computer/television\nWhat it says it does: \"The missing GUI for personal agents. Television gives you and your agent a visual space for creating and working with artifacts.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T20:57:52.099Z"
-  },
-  {
-   "fullName": "lxj5820/dsh-boot-animation",
-   "owner": "lxj5820",
-   "name": "dsh-boot-animation",
-   "url": "https://github.com/lxj5820/dsh-boot-animation",
-   "avatar": "https://avatars.githubusercontent.com/u/38858374?v=4",
-   "description": "DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md",
-   "language": "JavaScript",
-   "topics": [],
-   "license": null,
-   "stars": 100,
-   "forks": 3,
-   "createdAt": "2026-10-01T14:06:43Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-03T20:57:00.706Z",
-   "stack": {
-    "kind": "node",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/lxj5820/dsh-boot-animation",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/lxj5820/dsh-boot-animation",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/lxj5820/dsh-boot-animation?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/lxj5820/dsh-boot-animation",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/lxj5820/dsh-boot-animation/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/lxj5820/dsh-boot-animation.git\ncd dsh-boot-animation\nnpm install",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/lxj5820/dsh-boot-animation\nWhat it says it does: \"DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T20:57:00.706Z"
   }
  ],
  "levels": {
-  "read": 182,
+  "read": 183,
   "heavy": 72,
-  "account": 205,
+  "account": 204,
   "instant": 41
  }
 }

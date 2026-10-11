@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_521 guides written so far · last update 2026-10-11 07:53 UTC_
+_522 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/filmcraft.md) |
 | [RingLegislator/Claude-Jailbreak-Prompt](https://github.com/RingLegislator/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ringlegislator/claude-jailbreak-prompt.md) |
 | [AmpDugongIntroduce/Crash-Plan](https://github.com/AmpDugongIntroduce/Crash-Plan) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ampdugongintroduce/crash-plan.md) |
 | [LevelSparkRecognize/Ashampoo-WinOptimizer](https://github.com/LevelSparkRecognize/Ashampoo-WinOptimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/levelsparkrecognize/ashampoo-winoptimizer.md) |
@@ -38,7 +39,6 @@ _521 guides written so far · last update 2026-10-11 07:53 UTC_
 | [LimitBlacksmith/Autodesk-Inventor](https://github.com/LimitBlacksmith/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/limitblacksmith/autodesk-inventor.md) |
 | [FollowerPruner/Melodyne-5](https://github.com/FollowerPruner/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followerpruner/melodyne-5.md) |
 | [Sequester-AG/bug-bounty-triage](https://github.com/Sequester-AG/bug-bounty-triage) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sequester-ag/bug-bounty-triage.md) |
-| [driftcuttlefishjump/Serato-DJ-Pro](https://github.com/driftcuttlefishjump/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftcuttlefishjump/serato-dj-pro.md) |
 <!-- latest:end -->
 
 ## How it works

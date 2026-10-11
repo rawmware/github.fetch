@@ -1,8 +1,71 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T07:53:08.065Z",
- "totalGuides": 521,
+ "updatedAt": "2026-10-11T07:53:08.204Z",
+ "totalGuides": 522,
  "items": [
+  {
+   "fullName": "storytold/filmcraft",
+   "owner": "storytold",
+   "name": "filmcraft",
+   "url": "https://github.com/storytold/filmcraft",
+   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+   "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+   "language": "Rust",
+   "topics": [
+    "adobe",
+    "art",
+    "rust",
+    "video",
+    "video-editing",
+    "video-editor",
+    "video-processing"
+   ],
+   "license": "Apache-2.0",
+   "stars": 9003,
+   "forks": 3341,
+   "createdAt": "2026-09-30T13:41:20Z",
+   "branch": "main",
+   "homepage": "https://getartcraft.com/apps/filmcraft",
+   "addedAt": "2026-10-11T07:53:08.203Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/storytold/filmcraft?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/storytold/filmcraft",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/storytold/filmcraft/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/storytold/filmcraft.git\ncd filmcraft\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/storytold/filmcraft\nWhat it says it does: \"An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T07:53:08.203Z"
+  },
   {
    "fullName": "RingLegislator/Claude-Jailbreak-Prompt",
    "owner": "RingLegislator",
@@ -31138,83 +31201,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/egmalt/house-planner\nWhat it says it does: \"Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. By the team behind homedesignsai.pro\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T20:57:52.573Z"
-  },
-  {
-   "fullName": "ACoci86/terrahour",
-   "owner": "ACoci86",
-   "name": "terrahour",
-   "url": "https://github.com/ACoci86/terrahour",
-   "avatar": "https://avatars.githubusercontent.com/u/181754564?v=4",
-   "description": "A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zones.",
-   "language": "Python",
-   "topics": [
-    "braille",
-    "cli",
-    "daylight-saving-time",
-    "python",
-    "terminal",
-    "time-zones",
-    "timezone",
-    "tmux"
-   ],
-   "license": null,
-   "stars": 96,
-   "forks": 3,
-   "createdAt": "2026-10-01T11:05:15Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-03T20:57:52.319Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/ACoci86/terrahour/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ACoci86/terrahour?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ACoci86/terrahour",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ACoci86/terrahour/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ACoci86/terrahour.git\ncd terrahour\npip install -e .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ACoci86/terrahour\nWhat it says it does: \"A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zones.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T20:57:52.319Z"
   }
  ],
  "levels": {
+  "account": 203,
   "read": 184,
   "heavy": 72,
-  "account": 203,
   "instant": 41
  }
 }

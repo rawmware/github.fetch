@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_535 guides written so far · last update 2026-10-11 14:52 UTC_
+_536 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | JavaScript project | Runs in the browser with a free account | [guide](guides/ebony-vinyl/dsh-our-free-model.md) |
 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/pdfcraft.md) |
 | [yetone/magpie](https://github.com/yetone/magpie) | Go project | Runs in the browser with a free account | [guide](guides/yetone/magpie.md) |
 | [bherbruck/solvecraft](https://github.com/bherbruck/solvecraft) | Rust project | Runs in the browser with a free account | [guide](guides/bherbruck/solvecraft.md) |
@@ -38,7 +39,6 @@ _535 guides written so far · last update 2026-10-11 14:52 UTC_
 | [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins) | Python project | Runs in the browser with a free account | [guide](guides/nousresearch/hermes-official-plugins.md) |
 | [chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction) | Python project | Runs in the browser with a free account | [guide](guides/chenwei810/semiconductor_manufacturing_introduction.md) |
 | [dach6/ExaltHelper](https://github.com/dach6/ExaltHelper) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/dach6/exalthelper.md) |
-| [AIPMAndy/how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aipmandy/how-to-survive-unemployment.md) |
 <!-- latest:end -->
 
 ## How it works

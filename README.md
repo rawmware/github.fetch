@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_530 guides written so far · last update 2026-10-11 14:52 UTC_
+_531 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [bdg9412/artex-ko-plus](https://github.com/bdg9412/artex-ko-plus) | Go project | Runs in the browser with a free account | [guide](guides/bdg9412/artex-ko-plus.md) |
 | [unixzii/SimRun](https://github.com/unixzii/SimRun) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/unixzii/simrun.md) |
 | [LYiHub/pub-street-fighter-ai](https://github.com/LYiHub/pub-street-fighter-ai) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/lyihub/pub-street-fighter-ai.md) |
 | [Atoll92/agent-standup](https://github.com/Atoll92/agent-standup) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/atoll92/agent-standup.md) |
@@ -38,7 +39,6 @@ _530 guides written so far · last update 2026-10-11 14:52 UTC_
 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/filmcraft.md) |
 | [RingLegislator/Claude-Jailbreak-Prompt](https://github.com/RingLegislator/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ringlegislator/claude-jailbreak-prompt.md) |
 | [AmpDugongIntroduce/Crash-Plan](https://github.com/AmpDugongIntroduce/Crash-Plan) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ampdugongintroduce/crash-plan.md) |
-| [LevelSparkRecognize/Ashampoo-WinOptimizer](https://github.com/LevelSparkRecognize/Ashampoo-WinOptimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/levelsparkrecognize/ashampoo-winoptimizer.md) |
 <!-- latest:end -->
 
 ## How it works

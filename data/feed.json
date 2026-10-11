@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T14:52:05.591Z",
- "totalGuides": 530,
+ "updatedAt": "2026-10-11T14:52:05.756Z",
+ "totalGuides": 531,
  "items": [
+  {
+   "fullName": "bdg9412/artex-ko-plus",
+   "owner": "bdg9412",
+   "name": "artex-ko-plus",
+   "url": "https://github.com/bdg9412/artex-ko-plus",
+   "avatar": "https://avatars.githubusercontent.com/u/46730741?v=4",
+   "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+   "language": "Go",
+   "topics": [
+    "ai-agent",
+    "autonomous-agents",
+    "blue-team",
+    "cert",
+    "cybersecurity",
+    "detection-engineering",
+    "investigation-tools",
+    "security"
+   ],
+   "license": "AGPL-3.0",
+   "stars": 102,
+   "forks": 94,
+   "createdAt": "2026-10-09T11:36:03Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-11T14:52:05.756Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/bdg9412/artex-ko-plus?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/bdg9412/artex-ko-plus",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/bdg9412/artex-ko-plus/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/bdg9412/artex-ko-plus.git\ncd artex-ko-plus\ngo build ./...",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/bdg9412/artex-ko-plus\nWhat it says it does: \"ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T14:52:05.756Z"
+  },
   {
    "fullName": "unixzii/SimRun",
    "owner": "unixzii",
@@ -31163,67 +31227,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/mkdir700/wx-ime-sdk\nWhat it says it does: \"微信输入法（WeType）跨设备剪贴板的独立 Rust 客户端\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T20:57:54.065Z"
-  },
-  {
-   "fullName": "Dominic-DK/harness-map",
-   "owner": "Dominic-DK",
-   "name": "harness-map",
-   "url": "https://github.com/Dominic-DK/harness-map",
-   "avatar": "https://avatars.githubusercontent.com/u/37243943?v=4",
-   "description": "Claude Code 하네스(지시 파일·기억·도구·권한·훅)를 폴더별·스폰 방식별 조립도로 보여 주는 도구",
-   "language": "HTML",
-   "topics": [],
-   "license": "MIT",
-   "stars": 74,
-   "forks": 4,
-   "createdAt": "2026-10-02T07:22:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-03T20:57:53.905Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Dominic-DK/harness-map?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Dominic-DK/harness-map",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Dominic-DK/harness-map/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Dominic-DK/harness-map.git\ncd harness-map",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Dominic-DK/harness-map\nWhat it says it does: \"Claude Code 하네스(지시 파일·기억·도구·권한·훅)를 폴더별·스폰 방식별 조립도로 보여 주는 도구\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T20:57:53.905Z"
   }
  ],
  "levels": {
+  "account": 200,
   "heavy": 74,
   "instant": 42,
-  "account": 200,
   "read": 184
  }
 }

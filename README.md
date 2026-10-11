@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_507 guides written so far · last update 2026-10-11 07:53 UTC_
+_508 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [npwitk/Macintosh-Skeletal-Filled](https://github.com/npwitk/Macintosh-Skeletal-Filled) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/npwitk/macintosh-skeletal-filled.md) |
 | [nikgrbn/finder-menu](https://github.com/nikgrbn/finder-menu) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/nikgrbn/finder-menu.md) |
 | [joeseesun/qiaomu-cover-fonts](https://github.com/joeseesun/qiaomu-cover-fonts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joeseesun/qiaomu-cover-fonts.md) |
 | [eternalkaisercraft45/Adobe-Photoshop](https://github.com/eternalkaisercraft45/Adobe-Photoshop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eternalkaisercraft45/adobe-photoshop.md) |
@@ -38,7 +39,6 @@ _507 guides written so far · last update 2026-10-11 07:53 UTC_
 | [NandhaKishorM/vegaml](https://github.com/NandhaKishorM/vegaml) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/nandhakishorm/vegaml.md) |
 | [aindeev/agent-chrome-relay](https://github.com/aindeev/agent-chrome-relay) | JavaScript project | Runs in the browser with a free account | [guide](guides/aindeev/agent-chrome-relay.md) |
 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/jaredpalmer/kev.md) |
-| [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/shihabal3amri/diplay.md) |
 <!-- latest:end -->
 
 ## How it works

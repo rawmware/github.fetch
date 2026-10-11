@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_536 guides written so far · last update 2026-10-11 14:52 UTC_
+_537 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zai-org/ZCode](https://github.com/zai-org/ZCode) | JavaScript project | Runs in the browser with a free account | [guide](guides/zai-org/zcode.md) |
 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | JavaScript project | Runs in the browser with a free account | [guide](guides/ebony-vinyl/dsh-our-free-model.md) |
 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/pdfcraft.md) |
 | [yetone/magpie](https://github.com/yetone/magpie) | Go project | Runs in the browser with a free account | [guide](guides/yetone/magpie.md) |
@@ -38,7 +39,6 @@ _536 guides written so far · last update 2026-10-11 14:52 UTC_
 | [Atoll92/agent-standup](https://github.com/Atoll92/agent-standup) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/atoll92/agent-standup.md) |
 | [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins) | Python project | Runs in the browser with a free account | [guide](guides/nousresearch/hermes-official-plugins.md) |
 | [chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction) | Python project | Runs in the browser with a free account | [guide](guides/chenwei810/semiconductor_manufacturing_introduction.md) |
-| [dach6/ExaltHelper](https://github.com/dach6/ExaltHelper) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/dach6/exalthelper.md) |
 <!-- latest:end -->
 
 ## How it works

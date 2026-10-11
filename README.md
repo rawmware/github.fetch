@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_558 guides written so far · last update 2026-10-11 23:06 UTC_
+_559 guides written so far · last update 2026-10-11 23:06 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yihui-dev/awesome-opus5-5-videos.md) |
 | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/omlahore/removemacai.md) |
 | [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | Vite app | Runs in the browser with a free account | [guide](guides/shader-effects-inc/shaders.md) |
 | [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) | Hono app | Runs in the browser with a free account | [guide](guides/copilotkit/openmuse.md) |
@@ -38,7 +39,6 @@ _558 guides written so far · last update 2026-10-11 23:06 UTC_
 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | Vite app | Runs in the browser with a free account | [guide](guides/copilotkit/opendots.md) |
 | [storytold/effectcraft](https://github.com/storytold/effectcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/effectcraft.md) |
 | [Mak5er/AirCard](https://github.com/Mak5er/AirCard) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/mak5er/aircard.md) |
-| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python project | Runs in the browser with a free account | [guide](guides/rehan-remade/universal-modder.md) |
 <!-- latest:end -->
 
 ## How it works

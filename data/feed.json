@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T23:06:32.712Z",
- "totalGuides": 558,
+ "updatedAt": "2026-10-11T23:06:32.972Z",
+ "totalGuides": 559,
  "items": [
+  {
+   "fullName": "yihui-dev/awesome-opus5-5-videos",
+   "owner": "yihui-dev",
+   "name": "awesome-opus5-5-videos",
+   "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+   "avatar": "https://avatars.githubusercontent.com/u/26054274?v=4",
+   "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+   "language": null,
+   "topics": [
+    "ai-video",
+    "awesome",
+    "awesome-list",
+    "claude",
+    "claude-opus",
+    "creative-coding",
+    "motion-graphics",
+    "prompts"
+   ],
+   "license": "MIT",
+   "stars": 4208,
+   "forks": 435,
+   "createdAt": "2026-09-27T06:19:36Z",
+   "branch": "main",
+   "homepage": "https://skillry.dev/ai-videos/opus-5-5",
+   "addedAt": "2026-10-11T23:06:32.971Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/yihui-dev/awesome-opus5-5-videos\nWhat it says it does: \"A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T23:06:32.971Z"
+  },
   {
    "fullName": "omlahore/RemoveMacAI",
    "owner": "omlahore",
@@ -31338,83 +31395,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Stxqq/self-driving-car\nWhat it says it does: \"Self-driving car in plain JavaScript: a neural network evolved by a genetic algorithm drives highway traffic\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T21:09:32.400Z"
-  },
-  {
-   "fullName": "vedantdhande04/tweetytweets",
-   "owner": "vedantdhande04",
-   "name": "tweetytweets",
-   "url": "https://github.com/vedantdhande04/tweetytweets",
-   "avatar": "https://avatars.githubusercontent.com/u/76739690?v=4",
-   "description": "Autonomous X/Twitter posting pipeline for your AI agent. No API key, no paid scrapers: researches your niche, writes in your voice, publishes through a real browser, and verifies its own posts.",
-   "language": "Python",
-   "topics": [
-    "ai-agent",
-    "automation",
-    "browser-automation",
-    "claude-code",
-    "content-automation",
-    "mit-license",
-    "no-api",
-    "twitter"
-   ],
-   "license": "MIT",
-   "stars": 48,
-   "forks": 8,
-   "createdAt": "2026-10-01T13:21:53Z",
-   "branch": "master",
-   "homepage": null,
-   "addedAt": "2026-10-03T21:09:32.193Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/vedantdhande04/tweetytweets/master",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/vedantdhande04/tweetytweets?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/vedantdhande04/tweetytweets",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/vedantdhande04/tweetytweets/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/vedantdhande04/tweetytweets.git\ncd tweetytweets\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/vedantdhande04/tweetytweets\nWhat it says it does: \"Autonomous X/Twitter posting pipeline for your AI agent. No API key, no paid scrapers: researches your niche, writes in your voice, publishes through a real browser, and verifies its own posts.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T21:09:32.193Z"
   }
  ],
  "levels": {
+  "read": 180,
   "heavy": 76,
-  "account": 204,
-  "read": 179,
+  "account": 203,
   "instant": 41
  }
 }

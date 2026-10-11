@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T14:52:06.343Z",
- "totalGuides": 533,
+ "updatedAt": "2026-10-11T14:52:06.573Z",
+ "totalGuides": 534,
  "items": [
+  {
+   "fullName": "yetone/magpie",
+   "owner": "yetone",
+   "name": "magpie",
+   "url": "https://github.com/yetone/magpie",
+   "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+   "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+   "language": "Go",
+   "topics": [
+    "claude-code",
+    "codex",
+    "deepseek",
+    "gemini-cli",
+    "llm",
+    "macos"
+   ],
+   "license": "MIT",
+   "stars": 8984,
+   "forks": 597,
+   "createdAt": "2026-09-23T16:22:35Z",
+   "branch": "main",
+   "homepage": "https://usemagpie.ai",
+   "addedAt": "2026-10-11T14:52:06.572Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/yetone/magpie?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/yetone/magpie",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/yetone/magpie/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": "go run .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/yetone/magpie.git\ncd magpie\ngo build ./...\ngo run .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/yetone/magpie\nWhat it says it does: \"Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T14:52:06.572Z"
+  },
   {
    "fullName": "bherbruck/solvecraft",
    "owner": "bherbruck",
@@ -31183,61 +31245,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/QuartzCabinDawn/DiscordFix-Setup\nWhat it says it does: \"DiscordFix — Discord Fix для Windows 10/11. Настройки и конфигурации для исправления проблем с Discord, соединением и доступом. Актуальные параметры для стабильной работы Discord на Windows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T20:57:54.503Z"
-  },
-  {
-   "fullName": "nailuj05/framemate",
-   "owner": "nailuj05",
-   "name": "framemate",
-   "url": "https://github.com/nailuj05/framemate",
-   "avatar": "https://avatars.githubusercontent.com/u/57530068?v=4",
-   "description": "Steam Frame Companion App",
-   "language": "Rust",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 71,
-   "forks": 4,
-   "createdAt": "2026-10-02T23:40:01Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-03T20:57:54.322Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/nailuj05/framemate?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/nailuj05/framemate",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/nailuj05/framemate/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/nailuj05/framemate.git\ncd framemate\ncargo build --release\ncargo run",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/nailuj05/framemate\nWhat it says it does: \"Steam Frame Companion App\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T20:57:54.322Z"
   }
  ],
  "levels": {

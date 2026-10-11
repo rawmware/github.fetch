@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_533 guides written so far · last update 2026-10-11 14:52 UTC_
+_534 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yetone/magpie](https://github.com/yetone/magpie) | Go project | Runs in the browser with a free account | [guide](guides/yetone/magpie.md) |
 | [bherbruck/solvecraft](https://github.com/bherbruck/solvecraft) | Rust project | Runs in the browser with a free account | [guide](guides/bherbruck/solvecraft.md) |
 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/academa-labs/manimgx.md) |
 | [bdg9412/artex-ko-plus](https://github.com/bdg9412/artex-ko-plus) | Go project | Runs in the browser with a free account | [guide](guides/bdg9412/artex-ko-plus.md) |
@@ -38,7 +39,6 @@ _533 guides written so far · last update 2026-10-11 14:52 UTC_
 | [dach6/ExaltHelper](https://github.com/dach6/ExaltHelper) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/dach6/exalthelper.md) |
 | [AIPMAndy/how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aipmandy/how-to-survive-unemployment.md) |
 | [LcodeCoder/CG-Claude](https://github.com/LcodeCoder/CG-Claude) | Vite app | Runs in the browser with a free account | [guide](guides/lcodecoder/cg-claude.md) |
-| [storytold/filmcraft](https://github.com/storytold/filmcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/filmcraft.md) |
 <!-- latest:end -->
 
 ## How it works

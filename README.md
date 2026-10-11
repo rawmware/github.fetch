@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_545 guides written so far · last update 2026-10-11 19:27 UTC_
+_546 guides written so far · last update 2026-10-11 19:27 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/vectorcraft.md) |
 | [half144/overdrive-releases](https://github.com/half144/overdrive-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/half144/overdrive-releases.md) |
 | [lawrencewzen/wx-bot](https://github.com/lawrencewzen/wx-bot) | JavaScript project | Runs in the browser with a free account | [guide](guides/lawrencewzen/wx-bot.md) |
 | [kevinerikjs/gta5-ios-port](https://github.com/kevinerikjs/gta5-ios-port) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/kevinerikjs/gta5-ios-port.md) |
@@ -38,7 +39,6 @@ _545 guides written so far · last update 2026-10-11 19:27 UTC_
 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | JavaScript project | Runs in the browser with a free account | [guide](guides/zai-org/zcode.md) |
 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | JavaScript project | Runs in the browser with a free account | [guide](guides/ebony-vinyl/dsh-our-free-model.md) |
 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/pdfcraft.md) |
-| [yetone/magpie](https://github.com/yetone/magpie) | Go project | Runs in the browser with a free account | [guide](guides/yetone/magpie.md) |
 <!-- latest:end -->
 
 ## How it works

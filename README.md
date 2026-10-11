@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_555 guides written so far · last update 2026-10-11 23:06 UTC_
+_556 guides written so far · last update 2026-10-11 23:06 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) | Hono app | Runs in the browser with a free account | [guide](guides/copilotkit/openmuse.md) |
 | [bherbruck/solidcraft](https://github.com/bherbruck/solidcraft) | Rust project | Runs in the browser with a free account | [guide](guides/bherbruck/solidcraft.md) |
 | [storytold/craft-libs](https://github.com/storytold/craft-libs) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-libs.md) |
 | [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/droid-deck/droiddeck.md) |
@@ -38,7 +39,6 @@ _555 guides written so far · last update 2026-10-11 23:06 UTC_
 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python project | Runs in the browser with a free account | [guide](guides/rehan-remade/universal-modder.md) |
 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/vectorcraft.md) |
 | [half144/overdrive-releases](https://github.com/half144/overdrive-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/half144/overdrive-releases.md) |
-| [lawrencewzen/wx-bot](https://github.com/lawrencewzen/wx-bot) | JavaScript project | Runs in the browser with a free account | [guide](guides/lawrencewzen/wx-bot.md) |
 <!-- latest:end -->
 
 ## How it works

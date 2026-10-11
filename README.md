@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_512 guides written so far · last update 2026-10-11 07:53 UTC_
+_513 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LimitBlacksmith/Autodesk-Inventor](https://github.com/LimitBlacksmith/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/limitblacksmith/autodesk-inventor.md) |
 | [FollowerPruner/Melodyne-5](https://github.com/FollowerPruner/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followerpruner/melodyne-5.md) |
 | [Sequester-AG/bug-bounty-triage](https://github.com/Sequester-AG/bug-bounty-triage) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sequester-ag/bug-bounty-triage.md) |
 | [driftcuttlefishjump/Serato-DJ-Pro](https://github.com/driftcuttlefishjump/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftcuttlefishjump/serato-dj-pro.md) |
@@ -38,7 +39,6 @@ _512 guides written so far · last update 2026-10-11 07:53 UTC_
 | [EmirOvercome/Adobe-After-Effects](https://github.com/EmirOvercome/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/emirovercome/adobe-after-effects.md) |
 | [BowyerSqueeze/Avid-Media-Composer](https://github.com/BowyerSqueeze/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bowyersqueeze/avid-media-composer.md) |
 | [PortalPikeman/Adobe-Illustrator](https://github.com/PortalPikeman/Adobe-Illustrator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portalpikeman/adobe-illustrator.md) |
-| [xcgtb/StrimKeep](https://github.com/xcgtb/StrimKeep) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/xcgtb/strimkeep.md) |
 <!-- latest:end -->
 
 ## How it works

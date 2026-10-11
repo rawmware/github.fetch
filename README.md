@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_510 guides written so far · last update 2026-10-11 07:53 UTC_
+_511 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Sequester-AG/bug-bounty-triage](https://github.com/Sequester-AG/bug-bounty-triage) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sequester-ag/bug-bounty-triage.md) |
 | [driftcuttlefishjump/Serato-DJ-Pro](https://github.com/driftcuttlefishjump/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftcuttlefishjump/serato-dj-pro.md) |
 | [BlueProvostCrush/Quicken-Deluxe](https://github.com/BlueProvostCrush/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blueprovostcrush/quicken-deluxe.md) |
 | [npwitk/Macintosh-Skeletal-Filled](https://github.com/npwitk/Macintosh-Skeletal-Filled) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/npwitk/macintosh-skeletal-filled.md) |
@@ -38,7 +39,6 @@ _510 guides written so far · last update 2026-10-11 07:53 UTC_
 | [PortalPikeman/Adobe-Illustrator](https://github.com/PortalPikeman/Adobe-Illustrator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portalpikeman/adobe-illustrator.md) |
 | [xcgtb/StrimKeep](https://github.com/xcgtb/StrimKeep) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/xcgtb/strimkeep.md) |
 | [liyupi/ai-promo-video-maker](https://github.com/liyupi/ai-promo-video-maker) | Python project | Runs in the browser with a free account | [guide](guides/liyupi/ai-promo-video-maker.md) |
-| [NandhaKishorM/vegaml](https://github.com/NandhaKishorM/vegaml) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/nandhakishorm/vegaml.md) |
 <!-- latest:end -->
 
 ## How it works

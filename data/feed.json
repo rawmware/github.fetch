@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T14:52:06.148Z",
- "totalGuides": 532,
+ "updatedAt": "2026-10-11T14:52:06.343Z",
+ "totalGuides": 533,
  "items": [
+  {
+   "fullName": "bherbruck/solvecraft",
+   "owner": "bherbruck",
+   "name": "solvecraft",
+   "url": "https://github.com/bherbruck/solvecraft",
+   "avatar": "https://avatars.githubusercontent.com/u/5258126?v=4",
+   "description": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
+   "language": "Rust",
+   "topics": [
+    "3d-modeling",
+    "brep",
+    "cad",
+    "egui",
+    "mcp",
+    "parametric-cad",
+    "rust",
+    "step"
+   ],
+   "license": "Apache-2.0",
+   "stars": 304,
+   "forks": 24,
+   "createdAt": "2026-10-07T18:57:48Z",
+   "branch": "main",
+   "homepage": "https://bherbruck.github.io/solvecraft/",
+   "addedAt": "2026-10-11T14:52:06.342Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/bherbruck/solvecraft?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/bherbruck/solvecraft",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/bherbruck/solvecraft/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/bherbruck/solvecraft.git\ncd solvecraft\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/bherbruck/solvecraft\nWhat it says it does: \"An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T14:52:06.342Z"
+  },
   {
    "fullName": "academa-labs/manimgx",
    "owner": "academa-labs",
@@ -31174,68 +31238,6 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/nailuj05/framemate\nWhat it says it does: \"Steam Frame Companion App\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T20:57:54.322Z"
-  },
-  {
-   "fullName": "heise3/academic-deai",
-   "owner": "heise3",
-   "name": "academic-deai",
-   "url": "https://github.com/heise3/academic-deai",
-   "avatar": "https://avatars.githubusercontent.com/u/207506224?v=4",
-   "description": "Chinese and English academic editing to reduce formulaic AI tone while preserving evidence, citations, and author voice.",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 71,
-   "forks": 2,
-   "createdAt": "2026-10-03T04:28:04Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-03T20:57:54.189Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/heise3/academic-deai/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/heise3/academic-deai?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/heise3/academic-deai",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/heise3/academic-deai/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/heise3/academic-deai.git\ncd academic-deai",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/heise3/academic-deai\nWhat it says it does: \"Chinese and English academic editing to reduce formulaic AI tone while preserving evidence, citations, and author voice.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T20:57:54.189Z"
   }
  ],
  "levels": {

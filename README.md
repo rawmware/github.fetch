@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_500 guides written so far · last update 2026-10-11 01:47 UTC_
+_501 guides written so far · last update 2026-10-11 01:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [xcgtb/StrimKeep](https://github.com/xcgtb/StrimKeep) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/xcgtb/strimkeep.md) |
 | [liyupi/ai-promo-video-maker](https://github.com/liyupi/ai-promo-video-maker) | Python project | Runs in the browser with a free account | [guide](guides/liyupi/ai-promo-video-maker.md) |
 | [NandhaKishorM/vegaml](https://github.com/NandhaKishorM/vegaml) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/nandhakishorm/vegaml.md) |
 | [aindeev/agent-chrome-relay](https://github.com/aindeev/agent-chrome-relay) | JavaScript project | Runs in the browser with a free account | [guide](guides/aindeev/agent-chrome-relay.md) |
@@ -38,7 +39,6 @@ _500 guides written so far · last update 2026-10-11 01:47 UTC_
 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | Python project | Runs in the browser with a free account | [guide](guides/niko1221/strata.md) |
 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/eyalgolan/statecraft-israel.md) |
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/arahim3/digup.md) |
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | Python project | Runs in the browser with a free account | [guide](guides/browser-use/jev-ultrafast.md) |
 <!-- latest:end -->
 
 ## How it works

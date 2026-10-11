@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T01:47:11.484Z",
- "totalGuides": 500,
+ "updatedAt": "2026-10-11T01:47:11.842Z",
+ "totalGuides": 501,
  "items": [
+  {
+   "fullName": "xcgtb/StrimKeep",
+   "owner": "xcgtb",
+   "name": "StrimKeep",
+   "url": "https://github.com/xcgtb/StrimKeep",
+   "avatar": "https://avatars.githubusercontent.com/u/184978587?v=4",
+   "description": "面向 NAS 的 STRM 双库影视管理与治理工具，支持画质择优、缺集对照、影视探索、追更订阅与入库通知。",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 101,
+   "forks": 0,
+   "createdAt": "2026-10-09T15:18:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-11T01:47:11.841Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/xcgtb/StrimKeep/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/xcgtb/StrimKeep?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/xcgtb/StrimKeep",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/xcgtb/StrimKeep/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/xcgtb/StrimKeep.git\ncd StrimKeep\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/xcgtb/StrimKeep\nWhat it says it does: \"面向 NAS 的 STRM 双库影视管理与治理工具，支持画质择优、缺集对照、影视探索、追更订阅与入库通知。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T01:47:11.841Z"
+  },
   {
    "fullName": "liyupi/ai-promo-video-maker",
    "owner": "liyupi",
@@ -31378,68 +31444,11 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/sganggs/Stronghold-Protocol\nWhat it says it does: \"明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T20:56:57.453Z"
-  },
-  {
-   "fullName": "facebookincubator/muse-gadget-sdk",
-   "owner": "facebookincubator",
-   "name": "muse-gadget-sdk",
-   "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-   "avatar": "https://avatars.githubusercontent.com/u/19538647?v=4",
-   "description": "Open source SDK to build Muse gadgets",
-   "language": "C",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 811,
-   "forks": 121,
-   "createdAt": "2026-10-02T18:21:23Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-03T20:56:57.168Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/facebookincubator/muse-gadget-sdk?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/facebookincubator/muse-gadget-sdk",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/facebookincubator/muse-gadget-sdk/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/facebookincubator/muse-gadget-sdk.git\ncd muse-gadget-sdk",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/facebookincubator/muse-gadget-sdk\nWhat it says it does: \"Open source SDK to build Muse gadgets\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T20:56:57.168Z"
   }
  ],
  "levels": {
-  "account": 212,
-  "heavy": 76,
+  "account": 213,
+  "heavy": 75,
   "instant": 45,
   "read": 167
  }

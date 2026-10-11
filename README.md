@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_547 guides written so far · last update 2026-10-11 19:27 UTC_
+_548 guides written so far · last update 2026-10-11 19:27 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Mak5er/AirCard](https://github.com/Mak5er/AirCard) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/mak5er/aircard.md) |
 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python project | Runs in the browser with a free account | [guide](guides/rehan-remade/universal-modder.md) |
 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/vectorcraft.md) |
 | [half144/overdrive-releases](https://github.com/half144/overdrive-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/half144/overdrive-releases.md) |
@@ -38,7 +39,6 @@ _547 guides written so far · last update 2026-10-11 19:27 UTC_
 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | JavaScript project | Runs in the browser with a free account | [guide](guides/tamaratran/fast-jev-compaction.md) |
 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jev-chat/jev-chat-jarvis.md) |
 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | JavaScript project | Runs in the browser with a free account | [guide](guides/zai-org/zcode.md) |
-| [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | JavaScript project | Runs in the browser with a free account | [guide](guides/ebony-vinyl/dsh-our-free-model.md) |
 <!-- latest:end -->
 
 ## How it works

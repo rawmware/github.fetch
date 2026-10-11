@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_514 guides written so far · last update 2026-10-11 07:53 UTC_
+_515 guides written so far · last update 2026-10-11 07:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AdmiralDiscriminate/Photo-Commander](https://github.com/AdmiralDiscriminate/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/admiraldiscriminate/photo-commander.md) |
 | [Volumetheboutique/Directory-Opus](https://github.com/Volumetheboutique/Directory-Opus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/volumetheboutique/directory-opus.md) |
 | [LimitBlacksmith/Autodesk-Inventor](https://github.com/LimitBlacksmith/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/limitblacksmith/autodesk-inventor.md) |
 | [FollowerPruner/Melodyne-5](https://github.com/FollowerPruner/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followerpruner/melodyne-5.md) |
@@ -38,7 +39,6 @@ _514 guides written so far · last update 2026-10-11 07:53 UTC_
 | [joeseesun/qiaomu-cover-fonts](https://github.com/joeseesun/qiaomu-cover-fonts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joeseesun/qiaomu-cover-fonts.md) |
 | [eternalkaisercraft45/Adobe-Photoshop](https://github.com/eternalkaisercraft45/Adobe-Photoshop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eternalkaisercraft45/adobe-photoshop.md) |
 | [EmirOvercome/Adobe-After-Effects](https://github.com/EmirOvercome/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/emirovercome/adobe-after-effects.md) |
-| [BowyerSqueeze/Avid-Media-Composer](https://github.com/BowyerSqueeze/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bowyersqueeze/avid-media-composer.md) |
 <!-- latest:end -->
 
 ## How it works

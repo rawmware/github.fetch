@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_540 guides written so far · last update 2026-10-11 14:52 UTC_
+_541 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | Python project | Runs in the browser with a free account | [guide](guides/mizorewww/laya-mlx.md) |
 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | JavaScript project | Runs in the browser with a free account | [guide](guides/kkkkhazix/aihot.md) |
 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | JavaScript project | Runs in the browser with a free account | [guide](guides/tamaratran/fast-jev-compaction.md) |
 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jev-chat/jev-chat-jarvis.md) |
@@ -38,7 +39,6 @@ _540 guides written so far · last update 2026-10-11 14:52 UTC_
 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/academa-labs/manimgx.md) |
 | [bdg9412/artex-ko-plus](https://github.com/bdg9412/artex-ko-plus) | Go project | Runs in the browser with a free account | [guide](guides/bdg9412/artex-ko-plus.md) |
 | [unixzii/SimRun](https://github.com/unixzii/SimRun) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/unixzii/simrun.md) |
-| [LYiHub/pub-street-fighter-ai](https://github.com/LYiHub/pub-street-fighter-ai) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/lyihub/pub-street-fighter-ai.md) |
 <!-- latest:end -->
 
 ## How it works

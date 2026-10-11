@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T14:52:08.353Z",
- "totalGuides": 540,
+ "updatedAt": "2026-10-11T14:52:08.816Z",
+ "totalGuides": 541,
  "items": [
+  {
+   "fullName": "mizorewww/laya-mlx",
+   "owner": "mizorewww",
+   "name": "laya-mlx",
+   "url": "https://github.com/mizorewww/laya-mlx",
+   "avatar": "https://avatars.githubusercontent.com/u/252857002?v=4",
+   "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+   "language": "Python",
+   "topics": [
+    "apple-silicon",
+    "decision-model",
+    "inference",
+    "laya",
+    "local-ai",
+    "machine-learning",
+    "mlx",
+    "modernbert"
+   ],
+   "license": "Apache-2.0",
+   "stars": 6871,
+   "forks": 554,
+   "createdAt": "2026-09-19T13:50:26Z",
+   "branch": "main",
+   "homepage": "https://pypi.org/project/laya-mlx/",
+   "addedAt": "2026-10-11T14:52:08.815Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/mizorewww/laya-mlx/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mizorewww/laya-mlx?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mizorewww/laya-mlx",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mizorewww/laya-mlx/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/mizorewww/laya-mlx.git\ncd laya-mlx\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/mizorewww/laya-mlx\nWhat it says it does: \"Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T14:52:08.815Z"
+  },
   {
    "fullName": "KKKKhazix/AIHOT",
    "owner": "KKKKhazix",
@@ -31258,61 +31329,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Burrowtheamend/adobe-illustrator-download-new-fft\nWhat it says it does: \"Download the full working version of Adobe Illustrator for free. Create logos, icons, sketches, typography, and complex illustrations. Not Trial!\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T21:09:29.379Z"
-  },
-  {
-   "fullName": "Soulringen/aegis-claude",
-   "owner": "Soulringen",
-   "name": "aegis-claude",
-   "url": "https://github.com/Soulringen/aegis-claude",
-   "avatar": "https://avatars.githubusercontent.com/u/192472487?v=4",
-   "description": "Windows reset for local Claude device identifiers. Chats stay. / Сброс локальных идентификаторов Claude в Windows. Чаты остаются.",
-   "language": "PowerShell",
-   "topics": [],
-   "license": null,
-   "stars": 59,
-   "forks": 0,
-   "createdAt": "2026-10-02T12:14:28Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-03T21:09:29.249Z",
-   "stack": {
-    "kind": "other",
-    "label": "PowerShell project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Soulringen/aegis-claude?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Soulringen/aegis-claude",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Soulringen/aegis-claude/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Soulringen/aegis-claude.git\ncd aegis-claude",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Soulringen/aegis-claude\nWhat it says it does: \"Windows reset for local Claude device identifiers. Chats stay. / Сброс локальных идентификаторов Claude в Windows. Чаты остаются.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T21:09:29.249Z"
   }
  ],
  "levels": {

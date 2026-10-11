@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_537 guides written so far · last update 2026-10-11 14:52 UTC_
+_538 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jev-chat/jev-chat-jarvis.md) |
 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | JavaScript project | Runs in the browser with a free account | [guide](guides/zai-org/zcode.md) |
 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | JavaScript project | Runs in the browser with a free account | [guide](guides/ebony-vinyl/dsh-our-free-model.md) |
 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/pdfcraft.md) |
@@ -38,7 +39,6 @@ _537 guides written so far · last update 2026-10-11 14:52 UTC_
 | [LYiHub/pub-street-fighter-ai](https://github.com/LYiHub/pub-street-fighter-ai) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/lyihub/pub-street-fighter-ai.md) |
 | [Atoll92/agent-standup](https://github.com/Atoll92/agent-standup) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/atoll92/agent-standup.md) |
 | [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins) | Python project | Runs in the browser with a free account | [guide](guides/nousresearch/hermes-official-plugins.md) |
-| [chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction) | Python project | Runs in the browser with a free account | [guide](guides/chenwei810/semiconductor_manufacturing_introduction.md) |
 <!-- latest:end -->
 
 ## How it works

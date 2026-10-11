@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_523 guides written so far · last update 2026-10-11 14:52 UTC_
+_524 guides written so far · last update 2026-10-11 14:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AIPMAndy/how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aipmandy/how-to-survive-unemployment.md) |
 | [LcodeCoder/CG-Claude](https://github.com/LcodeCoder/CG-Claude) | Vite app | Runs in the browser with a free account | [guide](guides/lcodecoder/cg-claude.md) |
 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/filmcraft.md) |
 | [RingLegislator/Claude-Jailbreak-Prompt](https://github.com/RingLegislator/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ringlegislator/claude-jailbreak-prompt.md) |
@@ -38,7 +39,6 @@ _523 guides written so far · last update 2026-10-11 14:52 UTC_
 | [AdmiralDiscriminate/Photo-Commander](https://github.com/AdmiralDiscriminate/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/admiraldiscriminate/photo-commander.md) |
 | [Volumetheboutique/Directory-Opus](https://github.com/Volumetheboutique/Directory-Opus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/volumetheboutique/directory-opus.md) |
 | [LimitBlacksmith/Autodesk-Inventor](https://github.com/LimitBlacksmith/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/limitblacksmith/autodesk-inventor.md) |
-| [FollowerPruner/Melodyne-5](https://github.com/FollowerPruner/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followerpruner/melodyne-5.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-11T19:27:50.747Z",
- "totalGuides": 546,
+ "updatedAt": "2026-10-11T19:27:50.997Z",
+ "totalGuides": 547,
  "items": [
+  {
+   "fullName": "rehan-remade/universal-modder",
+   "owner": "rehan-remade",
+   "name": "universal-modder",
+   "url": "https://github.com/rehan-remade/universal-modder",
+   "avatar": "https://avatars.githubusercontent.com/u/173837546?v=4",
+   "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+   "language": "Python",
+   "topics": [
+    "age-of-empires",
+    "claude-code",
+    "claude-code-plugin",
+    "fal",
+    "game-assets",
+    "game-modding",
+    "mcp",
+    "modding"
+   ],
+   "license": "MIT",
+   "stars": 6609,
+   "forks": 662,
+   "createdAt": "2026-09-30T05:00:35Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-11T19:27:50.996Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/rehan-remade/universal-modder/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/rehan-remade/universal-modder?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/rehan-remade/universal-modder",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/rehan-remade/universal-modder/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/rehan-remade/universal-modder.git\ncd universal-modder\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/rehan-remade/universal-modder\nWhat it says it does: \"Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-11T19:27:50.996Z"
+  },
   {
    "fullName": "storytold/vectorcraft",
    "owner": "storytold",
@@ -31243,78 +31314,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/DozenTwelve/Papermorph\nWhat it says it does: \"An AI skill that turns books into animated, narrated, interactive web experiences\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-03T21:09:30.434Z"
-  },
-  {
-   "fullName": "flaviocopes/factorylog",
-   "owner": "flaviocopes",
-   "name": "factorylog",
-   "url": "https://github.com/flaviocopes/factorylog",
-   "avatar": "https://avatars.githubusercontent.com/u/11783388?v=4",
-   "description": "See what your coding agents did for you: a timeline of each day and week on your Mac, and where your time went, project by project",
-   "language": "Swift",
-   "topics": [
-    "ai-agents",
-    "cli",
-    "codex",
-    "coding-agents",
-    "cursor",
-    "macos",
-    "swift",
-    "swiftui"
-   ],
-   "license": "MIT",
-   "stars": 55,
-   "forks": 2,
-   "createdAt": "2026-10-01T16:28:49Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-03T21:09:30.338Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/flaviocopes/factorylog?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/flaviocopes/factorylog",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/flaviocopes/factorylog/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/flaviocopes/factorylog.git\ncd factorylog",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/flaviocopes/factorylog\nWhat it says it does: \"See what your coding agents did for you: a timeline of each day and week on your Mac, and where your time went, project by project\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-03T21:09:30.338Z"
   }
  ],
  "levels": {
-  "account": 202,
+  "account": 203,
   "read": 183,
-  "heavy": 74,
+  "heavy": 73,
   "instant": 41
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_604 guides written so far · last update 2026-10-12 19:23 UTC_
+_605 guides written so far · last update 2026-10-12 19:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StellarTyrant/ultra-Iso](https://github.com/StellarTyrant/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stellartyrant/ultra-iso.md) |
 | [ashcustodiandolmen/Cinebench](https://github.com/ashcustodiandolmen/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashcustodiandolmen/cinebench.md) |
 | [Dreamorgutter/Discord-Nitro-Generator](https://github.com/Dreamorgutter/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dreamorgutter/discord-nitro-generator.md) |
 | [Grayencram22/Discord-Quest-Completer](https://github.com/Grayencram22/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grayencram22/discord-quest-completer.md) |
@@ -38,7 +39,6 @@ _604 guides written so far · last update 2026-10-12 19:23 UTC_
 | [CrownDemolisher/Discord-Server-Cloner](https://github.com/CrownDemolisher/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crowndemolisher/discord-server-cloner.md) |
 | [Dushiqi1987/codex-remote-bridge](https://github.com/Dushiqi1987/codex-remote-bridge) | Python project | Runs in the browser with a free account | [guide](guides/dushiqi1987/codex-remote-bridge.md) |
 | [juliobsz/skills](https://github.com/juliobsz/skills) | JavaScript project | Runs in the browser with a free account | [guide](guides/juliobsz/skills.md) |
-| [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | Rust project | Runs in the browser with a free account | [guide](guides/opengeos/rustgis.md) |
 <!-- latest:end -->
 
 ## How it works

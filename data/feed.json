@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T02:28:02.503Z",
- "totalGuides": 564,
+ "updatedAt": "2026-10-12T02:28:02.641Z",
+ "totalGuides": 565,
  "items": [
+  {
+   "fullName": "wbr664393425-lgtm/scaffold-master",
+   "owner": "wbr664393425-lgtm",
+   "name": "scaffold-master",
+   "url": "https://github.com/wbr664393425-lgtm/scaffold-master",
+   "avatar": "https://avatars.githubusercontent.com/u/275637437?v=4",
+   "description": "Spring Boot + Vue 通用后台管理脚手架，提供认证、RBAC 与数据权限、组织管理、日志和代码生成骨架。",
+   "language": "Vue",
+   "topics": [],
+   "license": "MIT",
+   "stars": 80,
+   "forks": 31,
+   "createdAt": "2026-10-11T12:56:35Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T02:28:02.640Z",
+   "stack": {
+    "kind": "other",
+    "label": "Vue project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/wbr664393425-lgtm/scaffold-master?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/wbr664393425-lgtm/scaffold-master",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/wbr664393425-lgtm/scaffold-master/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/wbr664393425-lgtm/scaffold-master.git\ncd scaffold-master",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/wbr664393425-lgtm/scaffold-master\nWhat it says it does: \"Spring Boot + Vue 通用后台管理脚手架，提供认证、RBAC 与数据权限、组织管理、日志和代码生成骨架。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T02:28:02.640Z"
+  },
   {
    "fullName": "Lyle-xub/FRAME-GR2",
    "owner": "Lyle-xub",
@@ -31319,67 +31374,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/hyj-STAR/voiceshell-muse-bridge\nWhat it says it does: \"VoiceShell（声壳） · Experimental Muse bridge: ESP32 pairing, Linux text round trips, real walkthroughs and compatibility notes.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T02:50:07.749Z"
-  },
-  {
-   "fullName": "ythx-101/live-panel-skill",
-   "owner": "ythx-101",
-   "name": "live-panel-skill",
-   "url": "https://github.com/ythx-101/live-panel-skill",
-   "avatar": "https://avatars.githubusercontent.com/u/226337373?v=4",
-   "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
-   "language": "HTML",
-   "topics": [],
-   "license": null,
-   "stars": 81,
-   "forks": 10,
-   "createdAt": "2026-10-03T16:53:36Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T02:50:07.585Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ythx-101/live-panel-skill?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ythx-101/live-panel-skill",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ythx-101/live-panel-skill/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ythx-101/live-panel-skill.git\ncd live-panel-skill",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ythx-101/live-panel-skill\nWhat it says it does: \"Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T02:50:07.585Z"
   }
  ],
  "levels": {
+  "account": 203,
   "read": 181,
   "heavy": 77,
-  "account": 203,
   "instant": 39
  }
 }

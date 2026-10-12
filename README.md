@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_566 guides written so far · last update 2026-10-12 02:28 UTC_
+_567 guides written so far · last update 2026-10-12 02:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CuteEthanLeo/MistSail](https://github.com/CuteEthanLeo/MistSail) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/cuteethanleo/mistsail.md) |
 | [MiniBandit/MKW-3DS](https://github.com/MiniBandit/MKW-3DS) | JavaScript project | Runs in the browser with a free account | [guide](guides/minibandit/mkw-3ds.md) |
 | [wbr664393425-lgtm/scaffold-master](https://github.com/wbr664393425-lgtm/scaffold-master) | Vue project | Runs in the browser with a free account | [guide](guides/wbr664393425-lgtm/scaffold-master.md) |
 | [Lyle-xub/FRAME-GR2](https://github.com/Lyle-xub/FRAME-GR2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lyle-xub/frame-gr2.md) |
@@ -38,7 +39,6 @@ _566 guides written so far · last update 2026-10-12 02:28 UTC_
 | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/omlahore/removemacai.md) |
 | [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | Vite app | Runs in the browser with a free account | [guide](guides/shader-effects-inc/shaders.md) |
 | [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) | Hono app | Runs in the browser with a free account | [guide](guides/copilotkit/openmuse.md) |
-| [bherbruck/solidcraft](https://github.com/bherbruck/solidcraft) | Rust project | Runs in the browser with a free account | [guide](guides/bherbruck/solidcraft.md) |
 <!-- latest:end -->
 
 ## How it works

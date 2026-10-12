@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_572 guides written so far · last update 2026-10-12 02:28 UTC_
+_573 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [shaongitbd/doory](https://github.com/shaongitbd/doory) | Docker app | Runs in the browser with a free account | [guide](guides/shaongitbd/doory.md) |
 | [Caldalis/MiniCPM-Math-harness](https://github.com/Caldalis/MiniCPM-Math-harness) | Python project | Runs in the browser with a free account | [guide](guides/caldalis/minicpm-math-harness.md) |
 | [matsuzaka-yuki/susfs-lkm-module](https://github.com/matsuzaka-yuki/susfs-lkm-module) | Python project | Runs in the browser with a free account | [guide](guides/matsuzaka-yuki/susfs-lkm-module.md) |
 | [gameboy829/PS5-LZ4-Game-Compressor](https://github.com/gameboy829/PS5-LZ4-Game-Compressor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gameboy829/ps5-lz4-game-compressor.md) |
@@ -38,7 +39,6 @@ _572 guides written so far · last update 2026-10-12 02:28 UTC_
 | [Lyle-xub/FRAME-GR2](https://github.com/Lyle-xub/FRAME-GR2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lyle-xub/frame-gr2.md) |
 | [mstcvk/mc-download-manager](https://github.com/mstcvk/mc-download-manager) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/mstcvk/mc-download-manager.md) |
 | [cxmza/windle](https://github.com/cxmza/windle) | JavaScript project | Runs in the browser with a free account | [guide](guides/cxmza/windle.md) |
-| [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | Python project | Runs in the browser with a free account | [guide](guides/nykooi1/vibe-wise.md) |
 <!-- latest:end -->
 
 ## How it works

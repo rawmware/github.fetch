@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_598 guides written so far · last update 2026-10-12 19:23 UTC_
+_599 guides written so far · last update 2026-10-12 19:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RankContinue/Sylenth-1](https://github.com/RankContinue/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rankcontinue/sylenth-1.md) |
 | [PortalRegain/AutoCad](https://github.com/PortalRegain/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portalregain/autocad.md) |
 | [AnemonePulse/Better-Discord](https://github.com/AnemonePulse/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/anemonepulse/better-discord.md) |
 | [CrownDemolisher/Discord-Server-Cloner](https://github.com/CrownDemolisher/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crowndemolisher/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _598 guides written so far · last update 2026-10-12 19:23 UTC_
 | [Nikii-w/McLife-Desk](https://github.com/Nikii-w/McLife-Desk) | HTML project | Runs in the browser with a free account | [guide](guides/nikii-w/mclife-desk.md) |
 | [kedube/ha-iss-tracker](https://github.com/kedube/ha-iss-tracker) | Python project | Runs in the browser with a free account | [guide](guides/kedube/ha-iss-tracker.md) |
 | [csadigital/ai-writer](https://github.com/csadigital/ai-writer) | Express app | Runs in the browser with a free account | [guide](guides/csadigital/ai-writer.md) |
-| [utk09-NCL/skardela](https://github.com/utk09-NCL/skardela) | Vite app | Runs in a browser tab, no account needed | [guide](guides/utk09-ncl/skardela.md) |
 <!-- latest:end -->
 
 ## How it works

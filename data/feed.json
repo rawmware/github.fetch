@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T19:23:01.283Z",
- "totalGuides": 598,
+ "updatedAt": "2026-10-12T19:23:01.504Z",
+ "totalGuides": 599,
  "items": [
+  {
+   "fullName": "RankContinue/Sylenth-1",
+   "owner": "RankContinue",
+   "name": "Sylenth-1",
+   "url": "https://github.com/RankContinue/Sylenth-1",
+   "avatar": "https://avatars.githubusercontent.com/u/292124547?v=4",
+   "description": "Sylenth 1 optimizes your desktop utility experience with a feature-rich yet streamlined interface that empowers seamless software configuration.",
+   "language": null,
+   "topics": [
+    "audio-tool",
+    "daw-plugins",
+    "fxp",
+    "sylenth1-crack-2026",
+    "sylenth1-fl-studio-for-windows",
+    "sylenth1-for-pc",
+    "sylenth1-for-windows",
+    "sylenth1-free-2026"
+   ],
+   "license": null,
+   "stars": 85,
+   "forks": 0,
+   "createdAt": "2026-10-12T17:24:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T19:23:01.503Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/RankContinue/Sylenth-1",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/RankContinue/Sylenth-1/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/RankContinue/Sylenth-1\nWhat it says it does: \"Sylenth 1 optimizes your desktop utility experience with a feature-rich yet streamlined interface that empowers seamless software configuration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T19:23:01.503Z"
+  },
   {
    "fullName": "PortalRegain/AutoCad",
    "owner": "PortalRegain",
@@ -31485,63 +31542,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Blockadezoshack/Microsoft-Project\nWhat it says it does: \"Microsoft Project optimizes professional workflow management by providing a comprehensive project and resource planning tool that streamlines task...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T14:59:46.395Z"
-  },
-  {
-   "fullName": "Ceilingmoreminisce/Discord-Server-Raider",
-   "owner": "Ceilingmoreminisce",
-   "name": "Discord-Server-Raider",
-   "url": "https://github.com/Ceilingmoreminisce/Discord-Server-Raider",
-   "avatar": "https://avatars.githubusercontent.com/u/296662299?v=4",
-   "description": "Automate server management and enhance security on your GitHub-hosted projects using Discords's powerful bot that optimizes resource allocation and...",
-   "language": null,
-   "topics": [
-    "discord-bot-raid",
-    "discord-multitools",
-    "discord-nuke",
-    "discord-raid",
-    "discord-raid-bot",
-    "discord-raid-tool",
-    "discord-raid-tools",
-    "raid"
-   ],
-   "license": null,
-   "stars": 408,
-   "forks": 0,
-   "createdAt": "2026-10-02T20:01:04Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T14:59:46.280Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Ceilingmoreminisce/Discord-Server-Raider",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Ceilingmoreminisce/Discord-Server-Raider/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Ceilingmoreminisce/Discord-Server-Raider\nWhat it says it does: \"Automate server management and enhance security on your GitHub-hosted projects using Discords's powerful bot that optimizes resource allocation and...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T14:59:46.280Z"
   }
  ],
  "levels": {

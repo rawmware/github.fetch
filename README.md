@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_584 guides written so far · last update 2026-10-12 09:40 UTC_
+_585 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [carreypro/ict-trading-model](https://github.com/carreypro/ict-trading-model) | Python project | Runs in the browser with a free account | [guide](guides/carreypro/ict-trading-model.md) |
 | [Teraflopping/xrevive](https://github.com/Teraflopping/xrevive) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/teraflopping/xrevive.md) |
 | [zhutoumeme/mcd-git](https://github.com/zhutoumeme/mcd-git) | Python project | Runs in the browser with a free account | [guide](guides/zhutoumeme/mcd-git.md) |
 | [updatesanninconduit/WUWA-Menu-Undetected](https://github.com/updatesanninconduit/WUWA-Menu-Undetected) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/updatesanninconduit/wuwa-menu-undetected.md) |
@@ -38,7 +39,6 @@ _584 guides written so far · last update 2026-10-12 09:40 UTC_
 | [HRuiCcc/RuiC-oc-ferry](https://github.com/HRuiCcc/RuiC-oc-ferry) | JavaScript project | Runs in the browser with a free account | [guide](guides/hruiccc/ruic-oc-ferry.md) |
 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C project | Needs a real machine (or a GPU) to run | [guide](guides/jhaizhou-ops/d2r-mobile.md) |
 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python project | Runs in the browser with a free account | [guide](guides/zhuyansen/new-term-radar.md) |
-| [shaongitbd/doory](https://github.com/shaongitbd/doory) | Docker app | Runs in the browser with a free account | [guide](guides/shaongitbd/doory.md) |
 <!-- latest:end -->
 
 ## How it works

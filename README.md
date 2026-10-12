@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_574 guides written so far · last update 2026-10-12 09:40 UTC_
+_575 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C project | Needs a real machine (or a GPU) to run | [guide](guides/jhaizhou-ops/d2r-mobile.md) |
 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python project | Runs in the browser with a free account | [guide](guides/zhuyansen/new-term-radar.md) |
 | [shaongitbd/doory](https://github.com/shaongitbd/doory) | Docker app | Runs in the browser with a free account | [guide](guides/shaongitbd/doory.md) |
 | [Caldalis/MiniCPM-Math-harness](https://github.com/Caldalis/MiniCPM-Math-harness) | Python project | Runs in the browser with a free account | [guide](guides/caldalis/minicpm-math-harness.md) |
@@ -38,7 +39,6 @@ _574 guides written so far · last update 2026-10-12 09:40 UTC_
 | [MiniBandit/MKW-3DS](https://github.com/MiniBandit/MKW-3DS) | JavaScript project | Runs in the browser with a free account | [guide](guides/minibandit/mkw-3ds.md) |
 | [wbr664393425-lgtm/scaffold-master](https://github.com/wbr664393425-lgtm/scaffold-master) | Vue project | Runs in the browser with a free account | [guide](guides/wbr664393425-lgtm/scaffold-master.md) |
 | [Lyle-xub/FRAME-GR2](https://github.com/Lyle-xub/FRAME-GR2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lyle-xub/frame-gr2.md) |
-| [mstcvk/mc-download-manager](https://github.com/mstcvk/mc-download-manager) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/mstcvk/mc-download-manager.md) |
 <!-- latest:end -->
 
 ## How it works

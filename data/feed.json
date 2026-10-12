@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T02:28:03.885Z",
- "totalGuides": 571,
+ "updatedAt": "2026-10-12T02:28:04.211Z",
+ "totalGuides": 572,
  "items": [
+  {
+   "fullName": "Caldalis/MiniCPM-Math-harness",
+   "owner": "Caldalis",
+   "name": "MiniCPM-Math-harness",
+   "url": "https://github.com/Caldalis/MiniCPM-Math-harness",
+   "avatar": "https://avatars.githubusercontent.com/u/149297479?v=4",
+   "description": "built around a 2.5B math model that fits on one GPU or a laptop.",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 62,
+   "forks": 0,
+   "createdAt": "2026-10-10T03:01:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T02:28:04.211Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Caldalis/MiniCPM-Math-harness/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Caldalis/MiniCPM-Math-harness?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Caldalis/MiniCPM-Math-harness",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Caldalis/MiniCPM-Math-harness/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Caldalis/MiniCPM-Math-harness.git\ncd MiniCPM-Math-harness\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Caldalis/MiniCPM-Math-harness\nWhat it says it does: \"built around a 2.5B math model that fits on one GPU or a laptop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T02:28:04.211Z"
+  },
   {
    "fullName": "matsuzaka-yuki/susfs-lkm-module",
    "owner": "matsuzaka-yuki",
@@ -31306,60 +31368,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/joeseesun/qiaomu-clipper\nWhat it says it does: \"乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T02:50:09.066Z"
-  },
-  {
-   "fullName": "ARYANK-08/agentic-dev-kit",
-   "owner": "ARYANK-08",
-   "name": "agentic-dev-kit",
-   "url": "https://github.com/ARYANK-08/agentic-dev-kit",
-   "avatar": "https://avatars.githubusercontent.com/u/120780784?v=4",
-   "description": "Markdown skills to improve the SDLC with Claude Code",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 41,
-   "forks": 3,
-   "createdAt": "2026-10-02T02:02:54Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T02:50:08.804Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ARYANK-08/agentic-dev-kit",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ARYANK-08/agentic-dev-kit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ARYANK-08/agentic-dev-kit\nWhat it says it does: \"Markdown skills to improve the SDLC with Claude Code\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T02:50:08.804Z"
   }
  ],
  "levels": {
-  "account": 205,
+  "account": 206,
   "heavy": 76,
-  "read": 181,
+  "read": 180,
   "instant": 38
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_570 guides written so far · last update 2026-10-12 02:28 UTC_
+_571 guides written so far · last update 2026-10-12 02:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [matsuzaka-yuki/susfs-lkm-module](https://github.com/matsuzaka-yuki/susfs-lkm-module) | Python project | Runs in the browser with a free account | [guide](guides/matsuzaka-yuki/susfs-lkm-module.md) |
 | [gameboy829/PS5-LZ4-Game-Compressor](https://github.com/gameboy829/PS5-LZ4-Game-Compressor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gameboy829/ps5-lz4-game-compressor.md) |
 | [Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal) | Python project | Runs in the browser with a free account | [guide](guides/sam-hui-dot/mcd-budget-meal.md) |
 | [swiftvm-app/swiftvm](https://github.com/swiftvm-app/swiftvm) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/swiftvm-app/swiftvm.md) |
@@ -38,7 +39,6 @@ _570 guides written so far · last update 2026-10-12 02:28 UTC_
 | [cxmza/windle](https://github.com/cxmza/windle) | JavaScript project | Runs in the browser with a free account | [guide](guides/cxmza/windle.md) |
 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | Python project | Runs in the browser with a free account | [guide](guides/nykooi1/vibe-wise.md) |
 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | Python project | Runs in the browser with a free account | [guide](guides/newliver666/apk-reverse.md) |
-| [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yihui-dev/awesome-opus5-5-videos.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_601 guides written so far · last update 2026-10-12 19:23 UTC_
+_602 guides written so far · last update 2026-10-12 19:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Grayencram22/Discord-Quest-Completer](https://github.com/Grayencram22/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grayencram22/discord-quest-completer.md) |
 | [ElementCourse/Windows-Optimizer](https://github.com/ElementCourse/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/elementcourse/windows-optimizer.md) |
 | [PetaMooseVolt/AnyDesk](https://github.com/PetaMooseVolt/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/petamoosevolt/anydesk.md) |
 | [RankContinue/Sylenth-1](https://github.com/RankContinue/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rankcontinue/sylenth-1.md) |
@@ -38,7 +39,6 @@ _601 guides written so far · last update 2026-10-12 19:23 UTC_
 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | Rust project | Runs in the browser with a free account | [guide](guides/opengeos/rustgis.md) |
 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | Vite app | Runs in a browser tab, no account needed | [guide](guides/deeplethe/solid-glass.md) |
 | [gillverd/accelerando-8192](https://github.com/gillverd/accelerando-8192) | JavaScript project | Runs in the browser with a free account | [guide](guides/gillverd/accelerando-8192.md) |
-| [Nikii-w/McLife-Desk](https://github.com/Nikii-w/McLife-Desk) | HTML project | Runs in the browser with a free account | [guide](guides/nikii-w/mclife-desk.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_579 guides written so far · last update 2026-10-12 09:40 UTC_
+_580 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [artouc/stop-describing-ui](https://github.com/artouc/stop-describing-ui) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/artouc/stop-describing-ui.md) |
 | [AI-BizOS/cross-harness](https://github.com/AI-BizOS/cross-harness) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/ai-bizos/cross-harness.md) |
 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Python project | Runs in the browser with a free account | [guide](guides/onehumanbeing/esp32-iphone-agent.md) |
 | [chekusu/yobiru](https://github.com/chekusu/yobiru) | Python project | Runs in the browser with a free account | [guide](guides/chekusu/yobiru.md) |
@@ -38,7 +39,6 @@ _579 guides written so far · last update 2026-10-12 09:40 UTC_
 | [matsuzaka-yuki/susfs-lkm-module](https://github.com/matsuzaka-yuki/susfs-lkm-module) | Python project | Runs in the browser with a free account | [guide](guides/matsuzaka-yuki/susfs-lkm-module.md) |
 | [gameboy829/PS5-LZ4-Game-Compressor](https://github.com/gameboy829/PS5-LZ4-Game-Compressor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gameboy829/ps5-lz4-game-compressor.md) |
 | [Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal) | Python project | Runs in the browser with a free account | [guide](guides/sam-hui-dot/mcd-budget-meal.md) |
-| [swiftvm-app/swiftvm](https://github.com/swiftvm-app/swiftvm) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/swiftvm-app/swiftvm.md) |
 <!-- latest:end -->
 
 ## How it works

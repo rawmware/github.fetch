@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T09:40:38.180Z",
- "totalGuides": 579,
+ "updatedAt": "2026-10-12T09:40:38.343Z",
+ "totalGuides": 580,
  "items": [
+  {
+   "fullName": "artouc/stop-describing-ui",
+   "owner": "artouc",
+   "name": "stop-describing-ui",
+   "url": "https://github.com/artouc/stop-describing-ui",
+   "avatar": "https://avatars.githubusercontent.com/u/92306490?v=4",
+   "description": "An agent skill that strips explanatory copy out of user interfaces.",
+   "language": null,
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "design",
+    "microcopy",
+    "skills",
+    "ui",
+    "ui-copy",
+    "ux"
+   ],
+   "license": "MIT",
+   "stars": 65,
+   "forks": 0,
+   "createdAt": "2026-10-11T00:12:11Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T09:40:38.342Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/artouc/stop-describing-ui",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/artouc/stop-describing-ui/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/artouc/stop-describing-ui\nWhat it says it does: \"An agent skill that strips explanatory copy out of user interfaces.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T09:40:38.342Z"
+  },
   {
    "fullName": "AI-BizOS/cross-harness",
    "owner": "AI-BizOS",
@@ -31366,60 +31423,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/MilliRoninPipe/AIDA-64-Extreme\nWhat it says it does: \"Aida 64 Extreme' is a sophisticated Artificial Intelligence (AI) prompt engineering resource that meticulously streamlines and optimizes complex...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T09:37:36.392Z"
-  },
-  {
-   "fullName": "RhythmFlamingoOutfit/pc-optimizer",
-   "owner": "RhythmFlamingoOutfit",
-   "name": "pc-optimizer",
-   "url": "https://github.com/RhythmFlamingoOutfit/pc-optimizer",
-   "avatar": "https://avatars.githubusercontent.com/u/312952848?v=4",
-   "description": "Advanced Windows performance booster, registry cleaner, and RAM optimizer designed to maximize system speed and game FPS.",
-   "language": null,
-   "topics": [],
-   "license": "MIT",
-   "stars": 50,
-   "forks": 0,
-   "createdAt": "2026-10-04T07:51:56Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T09:37:36.244Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/RhythmFlamingoOutfit/pc-optimizer",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/RhythmFlamingoOutfit/pc-optimizer/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/RhythmFlamingoOutfit/pc-optimizer\nWhat it says it does: \"Advanced Windows performance booster, registry cleaner, and RAM optimizer designed to maximize system speed and game FPS.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T09:37:36.244Z"
   }
  ],
  "levels": {
+  "read": 178,
   "instant": 36,
   "account": 210,
-  "heavy": 76,
-  "read": 178
+  "heavy": 76
  }
 }

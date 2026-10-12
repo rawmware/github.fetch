@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T09:40:38.343Z",
- "totalGuides": 580,
+ "updatedAt": "2026-10-12T09:40:38.551Z",
+ "totalGuides": 581,
  "items": [
+  {
+   "fullName": "AFAlimru/fastly-hosts-adjust",
+   "owner": "AFAlimru",
+   "name": "fastly-hosts-adjust",
+   "url": "https://github.com/AFAlimru/fastly-hosts-adjust",
+   "avatar": "https://avatars.githubusercontent.com/u/170009635?v=4",
+   "description": "Find the most stable nearby Fastly CDN route and pin it in hosts to speed up GitHub downloads and X images. Windows & Linux, menu-driven, English/中文. 自動找出附近最順的 Fastly 路線並寫入 hosts，加速 GitHub 下載與 X 圖片。支援 Windows / Linux，中英文選單操作。",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 62,
+   "forks": 5,
+   "createdAt": "2026-10-10T03:00:33Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T09:40:38.550Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/AFAlimru/fastly-hosts-adjust/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/AFAlimru/fastly-hosts-adjust?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/AFAlimru/fastly-hosts-adjust",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/AFAlimru/fastly-hosts-adjust/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/AFAlimru/fastly-hosts-adjust.git\ncd fastly-hosts-adjust",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/AFAlimru/fastly-hosts-adjust\nWhat it says it does: \"Find the most stable nearby Fastly CDN route and pin it in hosts to speed up GitHub downloads and X images. Windows & Linux, menu-driven, English/中文. 自動找出附近最順的 Fastly 路線並寫入 hosts，加速 GitHub 下載與 X 圖片。支援 Windows / Linux，中英文選單操作。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T09:40:38.550Z"
+  },
   {
    "fullName": "artouc/stop-describing-ui",
    "owner": "artouc",
@@ -31366,69 +31428,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/LegislatorCool/CCleaner-Pro\nWhat it says it does: \"Cleans up and optimizes your desktop's performance by removing unnecessary clutter, freeing up valuable resources without interfering with essential...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T09:37:36.575Z"
-  },
-  {
-   "fullName": "MilliRoninPipe/AIDA-64-Extreme",
-   "owner": "MilliRoninPipe",
-   "name": "AIDA-64-Extreme",
-   "url": "https://github.com/MilliRoninPipe/AIDA-64-Extreme",
-   "avatar": "https://avatars.githubusercontent.com/u/296657627?v=4",
-   "description": "Aida 64 Extreme' is a sophisticated Artificial Intelligence (AI) prompt engineering resource that meticulously streamlines and optimizes complex...",
-   "language": null,
-   "topics": [
-    "aida64-extreme",
-    "aida64-extreme-install-walkthrough",
-    "aida64-extreme-install-walkthrough-2026",
-    "aida64-extreme-memory-benchmark",
-    "aida64-extreme-motherboard-details",
-    "aida64-extreme-network-monitoring",
-    "aida64-extreme-not-installing-on-windows-11",
-    "aida64-free"
-   ],
-   "license": null,
-   "stars": 50,
-   "forks": 0,
-   "createdAt": "2026-10-02T19:56:04Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T09:37:36.392Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/MilliRoninPipe/AIDA-64-Extreme",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/MilliRoninPipe/AIDA-64-Extreme/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/MilliRoninPipe/AIDA-64-Extreme\nWhat it says it does: \"Aida 64 Extreme' is a sophisticated Artificial Intelligence (AI) prompt engineering resource that meticulously streamlines and optimizes complex...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T09:37:36.392Z"
   }
  ],
  "levels": {
-  "read": 178,
+  "account": 211,
+  "read": 177,
   "instant": 36,
-  "account": 210,
   "heavy": 76
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_606 guides written so far · last update 2026-10-12 19:23 UTC_
+_607 guides written so far · last update 2026-10-12 19:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [holeconductorcrush/Kontakt-8](https://github.com/holeconductorcrush/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holeconductorcrush/kontakt-8.md) |
 | [Aquafitzdisconnect/Discord-Server-Raider](https://github.com/Aquafitzdisconnect/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aquafitzdisconnect/discord-server-raider.md) |
 | [StellarTyrant/ultra-Iso](https://github.com/StellarTyrant/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stellartyrant/ultra-iso.md) |
 | [ashcustodiandolmen/Cinebench](https://github.com/ashcustodiandolmen/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashcustodiandolmen/cinebench.md) |
@@ -38,7 +39,6 @@ _606 guides written so far · last update 2026-10-12 19:23 UTC_
 | [PortalRegain/AutoCad](https://github.com/PortalRegain/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portalregain/autocad.md) |
 | [AnemonePulse/Better-Discord](https://github.com/AnemonePulse/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/anemonepulse/better-discord.md) |
 | [CrownDemolisher/Discord-Server-Cloner](https://github.com/CrownDemolisher/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crowndemolisher/discord-server-cloner.md) |
-| [Dushiqi1987/codex-remote-bridge](https://github.com/Dushiqi1987/codex-remote-bridge) | Python project | Runs in the browser with a free account | [guide](guides/dushiqi1987/codex-remote-bridge.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_590 guides written so far · last update 2026-10-12 09:40 UTC_
+_591 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [gillverd/accelerando-8192](https://github.com/gillverd/accelerando-8192) | JavaScript project | Runs in the browser with a free account | [guide](guides/gillverd/accelerando-8192.md) |
 | [Nikii-w/McLife-Desk](https://github.com/Nikii-w/McLife-Desk) | HTML project | Runs in the browser with a free account | [guide](guides/nikii-w/mclife-desk.md) |
 | [kedube/ha-iss-tracker](https://github.com/kedube/ha-iss-tracker) | Python project | Runs in the browser with a free account | [guide](guides/kedube/ha-iss-tracker.md) |
 | [csadigital/ai-writer](https://github.com/csadigital/ai-writer) | Express app | Runs in the browser with a free account | [guide](guides/csadigital/ai-writer.md) |
@@ -38,7 +39,6 @@ _590 guides written so far · last update 2026-10-12 09:40 UTC_
 | [updatesanninconduit/WUWA-Menu-Undetected](https://github.com/updatesanninconduit/WUWA-Menu-Undetected) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/updatesanninconduit/wuwa-menu-undetected.md) |
 | [AFAlimru/fastly-hosts-adjust](https://github.com/AFAlimru/fastly-hosts-adjust) | Python project | Runs in the browser with a free account | [guide](guides/afalimru/fastly-hosts-adjust.md) |
 | [artouc/stop-describing-ui](https://github.com/artouc/stop-describing-ui) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/artouc/stop-describing-ui.md) |
-| [AI-BizOS/cross-harness](https://github.com/AI-BizOS/cross-harness) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/ai-bizos/cross-harness.md) |
 <!-- latest:end -->
 
 ## How it works

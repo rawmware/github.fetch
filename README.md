@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_588 guides written so far · last update 2026-10-12 09:40 UTC_
+_589 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kedube/ha-iss-tracker](https://github.com/kedube/ha-iss-tracker) | Python project | Runs in the browser with a free account | [guide](guides/kedube/ha-iss-tracker.md) |
 | [csadigital/ai-writer](https://github.com/csadigital/ai-writer) | Express app | Runs in the browser with a free account | [guide](guides/csadigital/ai-writer.md) |
 | [utk09-NCL/skardela](https://github.com/utk09-NCL/skardela) | Vite app | Runs in a browser tab, no account needed | [guide](guides/utk09-ncl/skardela.md) |
 | [DXSDXS-PNG/chengtai_ctpro.syylb.com](https://github.com/DXSDXS-PNG/chengtai_ctpro.syylb.com) | PHP project | Runs in the browser with a free account | [guide](guides/dxsdxs-png/chengtai_ctpro.syylb.com.md) |
@@ -38,7 +39,6 @@ _588 guides written so far · last update 2026-10-12 09:40 UTC_
 | [artouc/stop-describing-ui](https://github.com/artouc/stop-describing-ui) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/artouc/stop-describing-ui.md) |
 | [AI-BizOS/cross-harness](https://github.com/AI-BizOS/cross-harness) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/ai-bizos/cross-harness.md) |
 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Python project | Runs in the browser with a free account | [guide](guides/onehumanbeing/esp32-iphone-agent.md) |
-| [chekusu/yobiru](https://github.com/chekusu/yobiru) | Python project | Runs in the browser with a free account | [guide](guides/chekusu/yobiru.md) |
 <!-- latest:end -->
 
 ## How it works

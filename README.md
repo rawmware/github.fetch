@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_568 guides written so far · last update 2026-10-12 02:28 UTC_
+_569 guides written so far · last update 2026-10-12 02:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal) | Python project | Runs in the browser with a free account | [guide](guides/sam-hui-dot/mcd-budget-meal.md) |
 | [swiftvm-app/swiftvm](https://github.com/swiftvm-app/swiftvm) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/swiftvm-app/swiftvm.md) |
 | [CuteEthanLeo/MistSail](https://github.com/CuteEthanLeo/MistSail) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/cuteethanleo/mistsail.md) |
 | [MiniBandit/MKW-3DS](https://github.com/MiniBandit/MKW-3DS) | JavaScript project | Runs in the browser with a free account | [guide](guides/minibandit/mkw-3ds.md) |
@@ -38,7 +39,6 @@ _568 guides written so far · last update 2026-10-12 02:28 UTC_
 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | Python project | Runs in the browser with a free account | [guide](guides/newliver666/apk-reverse.md) |
 | [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yihui-dev/awesome-opus5-5-videos.md) |
 | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/omlahore/removemacai.md) |
-| [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | Vite app | Runs in the browser with a free account | [guide](guides/shader-effects-inc/shaders.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_602 guides written so far · last update 2026-10-12 19:23 UTC_
+_603 guides written so far · last update 2026-10-12 19:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Dreamorgutter/Discord-Nitro-Generator](https://github.com/Dreamorgutter/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dreamorgutter/discord-nitro-generator.md) |
 | [Grayencram22/Discord-Quest-Completer](https://github.com/Grayencram22/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grayencram22/discord-quest-completer.md) |
 | [ElementCourse/Windows-Optimizer](https://github.com/ElementCourse/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/elementcourse/windows-optimizer.md) |
 | [PetaMooseVolt/AnyDesk](https://github.com/PetaMooseVolt/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/petamoosevolt/anydesk.md) |
@@ -38,7 +39,6 @@ _602 guides written so far · last update 2026-10-12 19:23 UTC_
 | [juliobsz/skills](https://github.com/juliobsz/skills) | JavaScript project | Runs in the browser with a free account | [guide](guides/juliobsz/skills.md) |
 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | Rust project | Runs in the browser with a free account | [guide](guides/opengeos/rustgis.md) |
 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | Vite app | Runs in a browser tab, no account needed | [guide](guides/deeplethe/solid-glass.md) |
-| [gillverd/accelerando-8192](https://github.com/gillverd/accelerando-8192) | JavaScript project | Runs in the browser with a free account | [guide](guides/gillverd/accelerando-8192.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T09:40:38.720Z",
- "totalGuides": 582,
+ "updatedAt": "2026-10-12T09:40:39.037Z",
+ "totalGuides": 583,
  "items": [
+  {
+   "fullName": "zhutoumeme/mcd-git",
+   "owner": "zhutoumeme",
+   "name": "mcd-git",
+   "url": "https://github.com/zhutoumeme/mcd-git",
+   "avatar": "https://avatars.githubusercontent.com/u/8815374?v=4",
+   "description": "用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡天际线 / 年度小票）。基于麦当劳 MCP Server，附 --demo 无 Token 试玩和 Agent Skill。非官方参赛作品。",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "cli",
+    "git",
+    "mcdonalds",
+    "mcp",
+    "mcp-client",
+    "model-context-protocol"
+   ],
+   "license": "MIT",
+   "stars": 61,
+   "forks": 0,
+   "createdAt": "2026-10-10T14:46:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T09:40:39.036Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/zhutoumeme/mcd-git/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zhutoumeme/mcd-git?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zhutoumeme/mcd-git",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zhutoumeme/mcd-git/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/zhutoumeme/mcd-git.git\ncd mcd-git\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zhutoumeme/mcd-git\nWhat it says it does: \"用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡天际线 / 年度小票）。基于麦当劳 MCP Server，附 --demo 无 Token 试玩和 Agent Skill。非官方参赛作品。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T09:40:39.036Z"
+  },
   {
    "fullName": "updatesanninconduit/WUWA-Menu-Undetected",
    "owner": "updatesanninconduit",
@@ -31371,68 +31442,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/PrismGiraffe/Cinema-4d\nWhat it says it does: \"Fine-tunes professional desktop software utility configurations with precision and efficiency while strictly adhering to the rules you've outlined for an...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T09:37:36.859Z"
-  },
-  {
-   "fullName": "fiercealbatrosssaw/CorelDraw",
-   "owner": "fiercealbatrosssaw",
-   "name": "CorelDraw",
-   "url": "https://github.com/fiercealbatrosssaw/CorelDraw",
-   "avatar": "https://avatars.githubusercontent.com/u/296657502?v=4",
-   "description": "Coreldraw optimizes professional desktop software utility configurations by providing a comprehensive and user-friendly interface that streamlines design...",
-   "language": null,
-   "topics": [
-    "corel-crack-2026",
-    "corel-draw-setup",
-    "corel-exploit",
-    "corel-software-download",
-    "corel-software-free",
-    "coreldraw-crack-2026",
-    "coreldraw-cracked-2026",
-    "coreldraw-software-crack"
-   ],
-   "license": null,
-   "stars": 50,
-   "forks": 0,
-   "createdAt": "2026-10-02T19:59:30Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T09:37:36.700Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/fiercealbatrosssaw/CorelDraw",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/fiercealbatrosssaw/CorelDraw/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/fiercealbatrosssaw/CorelDraw\nWhat it says it does: \"Coreldraw optimizes professional desktop software utility configurations by providing a comprehensive and user-friendly interface that streamlines design...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T09:37:36.700Z"
   }
  ],
  "levels": {
-  "read": 177,
-  "account": 211,
+  "account": 212,
+  "read": 176,
   "instant": 36,
   "heavy": 76
  }

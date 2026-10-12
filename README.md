@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_575 guides written so far · last update 2026-10-12 09:40 UTC_
+_576 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HRuiCcc/RuiC-oc-ferry](https://github.com/HRuiCcc/RuiC-oc-ferry) | JavaScript project | Runs in the browser with a free account | [guide](guides/hruiccc/ruic-oc-ferry.md) |
 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C project | Needs a real machine (or a GPU) to run | [guide](guides/jhaizhou-ops/d2r-mobile.md) |
 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python project | Runs in the browser with a free account | [guide](guides/zhuyansen/new-term-radar.md) |
 | [shaongitbd/doory](https://github.com/shaongitbd/doory) | Docker app | Runs in the browser with a free account | [guide](guides/shaongitbd/doory.md) |
@@ -38,7 +39,6 @@ _575 guides written so far · last update 2026-10-12 09:40 UTC_
 | [CuteEthanLeo/MistSail](https://github.com/CuteEthanLeo/MistSail) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/cuteethanleo/mistsail.md) |
 | [MiniBandit/MKW-3DS](https://github.com/MiniBandit/MKW-3DS) | JavaScript project | Runs in the browser with a free account | [guide](guides/minibandit/mkw-3ds.md) |
 | [wbr664393425-lgtm/scaffold-master](https://github.com/wbr664393425-lgtm/scaffold-master) | Vue project | Runs in the browser with a free account | [guide](guides/wbr664393425-lgtm/scaffold-master.md) |
-| [Lyle-xub/FRAME-GR2](https://github.com/Lyle-xub/FRAME-GR2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lyle-xub/frame-gr2.md) |
 <!-- latest:end -->
 
 ## How it works

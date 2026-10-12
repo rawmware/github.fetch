@@ -1,8 +1,88 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T09:40:37.362Z",
- "totalGuides": 575,
+ "updatedAt": "2026-10-12T09:40:37.642Z",
+ "totalGuides": 576,
  "items": [
+  {
+   "fullName": "HRuiCcc/RuiC-oc-ferry",
+   "owner": "HRuiCcc",
+   "name": "RuiC-oc-ferry",
+   "url": "https://github.com/HRuiCcc/RuiC-oc-ferry",
+   "avatar": "https://avatars.githubusercontent.com/u/319719670?v=4",
+   "description": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
+   "language": "JavaScript",
+   "topics": [
+    "electron",
+    "free-models",
+    "llm",
+    "macos",
+    "openai-compatible",
+    "opencode",
+    "tray-app",
+    "windows"
+   ],
+   "license": "MIT",
+   "stars": 73,
+   "forks": 10,
+   "createdAt": "2026-10-10T08:59:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T09:40:37.642Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/HRuiCcc/RuiC-oc-ferry",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm start`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/HRuiCcc/RuiC-oc-ferry",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/HRuiCcc/RuiC-oc-ferry?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/HRuiCcc/RuiC-oc-ferry",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/HRuiCcc/RuiC-oc-ferry/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm start",
+   "notes": [
+    "Uses electron, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/HRuiCcc/RuiC-oc-ferry.git\ncd RuiC-oc-ferry\nnpm install\nnpm start",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/HRuiCcc/RuiC-oc-ferry\nWhat it says it does: \"把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T09:40:37.642Z"
+  },
   {
    "fullName": "jhaizhou-ops/d2r-mobile",
    "owner": "jhaizhou-ops",
@@ -31306,60 +31386,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/krystalqiye-lj/VRS-Desktop-Pet\nWhat it says it does: \"VRS 五人桌宠｜支持 macOS 与 Android\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T09:37:35.676Z"
-  },
-  {
-   "fullName": "M3hmetSa1t/pegasus-ps4-collection-catalog",
-   "owner": "M3hmetSa1t",
-   "name": "pegasus-ps4-collection-catalog",
-   "url": "https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog",
-   "avatar": "https://avatars.githubusercontent.com/u/105008831?v=4",
-   "description": "Standardized Pegasus DL package catalog containing 860+ PS4 FPKG titles with merged patches and DLCs, sourced from Internet Archive (Maelly Pooh).",
-   "language": null,
-   "topics": [],
-   "license": "MIT",
-   "stars": 39,
-   "forks": 4,
-   "createdAt": "2026-10-02T12:08:45Z",
-   "branch": "main",
-   "homepage": "https://m3hmetsa1t.github.io/pegasus-ps4-collection-catalog/",
-   "addedAt": "2026-10-04T02:50:09.658Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/M3hmetSa1t/pegasus-ps4-collection-catalog\nWhat it says it does: \"Standardized Pegasus DL package catalog containing 860+ PS4 FPKG titles with merged patches and DLCs, sourced from Internet Archive (Maelly Pooh).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T02:50:09.658Z"
   }
  ],
  "levels": {
+  "account": 209,
   "heavy": 76,
-  "account": 208,
-  "read": 180,
+  "read": 179,
   "instant": 36
  }
 }

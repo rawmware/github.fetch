@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_562 guides written so far · last update 2026-10-12 02:28 UTC_
+_563 guides written so far · last update 2026-10-12 02:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mstcvk/mc-download-manager](https://github.com/mstcvk/mc-download-manager) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/mstcvk/mc-download-manager.md) |
 | [cxmza/windle](https://github.com/cxmza/windle) | JavaScript project | Runs in the browser with a free account | [guide](guides/cxmza/windle.md) |
 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | Python project | Runs in the browser with a free account | [guide](guides/nykooi1/vibe-wise.md) |
 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | Python project | Runs in the browser with a free account | [guide](guides/newliver666/apk-reverse.md) |
@@ -38,7 +39,6 @@ _562 guides written so far · last update 2026-10-12 02:28 UTC_
 | [storytold/craft-libs](https://github.com/storytold/craft-libs) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-libs.md) |
 | [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/droid-deck/droiddeck.md) |
 | [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/theoleecj/semif-openjev.md) |
-| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/louis-cfm/coucou.md) |
 <!-- latest:end -->
 
 ## How it works

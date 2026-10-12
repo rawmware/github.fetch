@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_561 guides written so far · last update 2026-10-11 23:06 UTC_
+_562 guides written so far · last update 2026-10-12 02:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cxmza/windle](https://github.com/cxmza/windle) | JavaScript project | Runs in the browser with a free account | [guide](guides/cxmza/windle.md) |
 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | Python project | Runs in the browser with a free account | [guide](guides/nykooi1/vibe-wise.md) |
 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | Python project | Runs in the browser with a free account | [guide](guides/newliver666/apk-reverse.md) |
 | [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yihui-dev/awesome-opus5-5-videos.md) |
@@ -38,7 +39,6 @@ _561 guides written so far · last update 2026-10-11 23:06 UTC_
 | [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/droid-deck/droiddeck.md) |
 | [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/theoleecj/semif-openjev.md) |
 | [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/louis-cfm/coucou.md) |
-| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | Vite app | Runs in the browser with a free account | [guide](guides/copilotkit/opendots.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T09:40:37.642Z",
- "totalGuides": 576,
+ "updatedAt": "2026-10-12T09:40:37.795Z",
+ "totalGuides": 577,
  "items": [
+  {
+   "fullName": "chekusu/yobiru",
+   "owner": "chekusu",
+   "name": "yobiru",
+   "url": "https://github.com/chekusu/yobiru",
+   "avatar": "https://avatars.githubusercontent.com/u/253923356?v=4",
+   "description": "Let your agents talk: messages, data, files and wake-ups over Tailscale.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 71,
+   "forks": 11,
+   "createdAt": "2026-10-10T10:30:00Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T09:40:37.794Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/chekusu/yobiru/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/chekusu/yobiru?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/chekusu/yobiru",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/chekusu/yobiru/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/chekusu/yobiru.git\ncd yobiru",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/chekusu/yobiru\nWhat it says it does: \"Let your agents talk: messages, data, files and wake-ups over Tailscale.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T09:40:37.794Z"
+  },
   {
    "fullName": "HRuiCcc/RuiC-oc-ferry",
    "owner": "HRuiCcc",
@@ -31338,60 +31400,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/MatinSenPai/Gemini-Config-Checker\nWhat it says it does: \"Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T09:37:35.858Z"
-  },
-  {
-   "fullName": "krystalqiye-lj/VRS-Desktop-Pet",
-   "owner": "krystalqiye-lj",
-   "name": "VRS-Desktop-Pet",
-   "url": "https://github.com/krystalqiye-lj/VRS-Desktop-Pet",
-   "avatar": "https://avatars.githubusercontent.com/u/330893582?v=4",
-   "description": "VRS 五人桌宠｜支持 macOS 与 Android",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 60,
-   "forks": 6,
-   "createdAt": "2026-10-03T11:26:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T09:37:35.676Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/krystalqiye-lj/VRS-Desktop-Pet",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/krystalqiye-lj/VRS-Desktop-Pet/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/krystalqiye-lj/VRS-Desktop-Pet\nWhat it says it does: \"VRS 五人桌宠｜支持 macOS 与 Android\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T09:37:35.676Z"
   }
  ],
  "levels": {
-  "account": 209,
+  "account": 210,
   "heavy": 76,
-  "read": 179,
+  "read": 178,
   "instant": 36
  }
 }

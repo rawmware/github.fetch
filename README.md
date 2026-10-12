@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_592 guides written so far · last update 2026-10-12 19:23 UTC_
+_593 guides written so far · last update 2026-10-12 19:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | Rust project | Runs in the browser with a free account | [guide](guides/opengeos/rustgis.md) |
 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | Vite app | Runs in a browser tab, no account needed | [guide](guides/deeplethe/solid-glass.md) |
 | [gillverd/accelerando-8192](https://github.com/gillverd/accelerando-8192) | JavaScript project | Runs in the browser with a free account | [guide](guides/gillverd/accelerando-8192.md) |
 | [Nikii-w/McLife-Desk](https://github.com/Nikii-w/McLife-Desk) | HTML project | Runs in the browser with a free account | [guide](guides/nikii-w/mclife-desk.md) |
@@ -38,7 +39,6 @@ _592 guides written so far · last update 2026-10-12 19:23 UTC_
 | [Teraflopping/xrevive](https://github.com/Teraflopping/xrevive) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/teraflopping/xrevive.md) |
 | [zhutoumeme/mcd-git](https://github.com/zhutoumeme/mcd-git) | Python project | Runs in the browser with a free account | [guide](guides/zhutoumeme/mcd-git.md) |
 | [updatesanninconduit/WUWA-Menu-Undetected](https://github.com/updatesanninconduit/WUWA-Menu-Undetected) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/updatesanninconduit/wuwa-menu-undetected.md) |
-| [AFAlimru/fastly-hosts-adjust](https://github.com/AFAlimru/fastly-hosts-adjust) | Python project | Runs in the browser with a free account | [guide](guides/afalimru/fastly-hosts-adjust.md) |
 <!-- latest:end -->
 
 ## How it works

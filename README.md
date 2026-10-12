@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_577 guides written so far · last update 2026-10-12 09:40 UTC_
+_578 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Python project | Runs in the browser with a free account | [guide](guides/onehumanbeing/esp32-iphone-agent.md) |
 | [chekusu/yobiru](https://github.com/chekusu/yobiru) | Python project | Runs in the browser with a free account | [guide](guides/chekusu/yobiru.md) |
 | [HRuiCcc/RuiC-oc-ferry](https://github.com/HRuiCcc/RuiC-oc-ferry) | JavaScript project | Runs in the browser with a free account | [guide](guides/hruiccc/ruic-oc-ferry.md) |
 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C project | Needs a real machine (or a GPU) to run | [guide](guides/jhaizhou-ops/d2r-mobile.md) |
@@ -38,7 +39,6 @@ _577 guides written so far · last update 2026-10-12 09:40 UTC_
 | [Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal) | Python project | Runs in the browser with a free account | [guide](guides/sam-hui-dot/mcd-budget-meal.md) |
 | [swiftvm-app/swiftvm](https://github.com/swiftvm-app/swiftvm) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/swiftvm-app/swiftvm.md) |
 | [CuteEthanLeo/MistSail](https://github.com/CuteEthanLeo/MistSail) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/cuteethanleo/mistsail.md) |
-| [MiniBandit/MKW-3DS](https://github.com/MiniBandit/MKW-3DS) | JavaScript project | Runs in the browser with a free account | [guide](guides/minibandit/mkw-3ds.md) |
 <!-- latest:end -->
 
 ## How it works

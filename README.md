@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_595 guides written so far · last update 2026-10-12 19:23 UTC_
+_596 guides written so far · last update 2026-10-12 19:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CrownDemolisher/Discord-Server-Cloner](https://github.com/CrownDemolisher/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/crowndemolisher/discord-server-cloner.md) |
 | [Dushiqi1987/codex-remote-bridge](https://github.com/Dushiqi1987/codex-remote-bridge) | Python project | Runs in the browser with a free account | [guide](guides/dushiqi1987/codex-remote-bridge.md) |
 | [juliobsz/skills](https://github.com/juliobsz/skills) | JavaScript project | Runs in the browser with a free account | [guide](guides/juliobsz/skills.md) |
 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | Rust project | Runs in the browser with a free account | [guide](guides/opengeos/rustgis.md) |
@@ -38,7 +39,6 @@ _595 guides written so far · last update 2026-10-12 19:23 UTC_
 | [utk09-NCL/skardela](https://github.com/utk09-NCL/skardela) | Vite app | Runs in a browser tab, no account needed | [guide](guides/utk09-ncl/skardela.md) |
 | [DXSDXS-PNG/chengtai_ctpro.syylb.com](https://github.com/DXSDXS-PNG/chengtai_ctpro.syylb.com) | PHP project | Runs in the browser with a free account | [guide](guides/dxsdxs-png/chengtai_ctpro.syylb.com.md) |
 | [carreypro/ict-trading-model](https://github.com/carreypro/ict-trading-model) | Python project | Runs in the browser with a free account | [guide](guides/carreypro/ict-trading-model.md) |
-| [Teraflopping/xrevive](https://github.com/Teraflopping/xrevive) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/teraflopping/xrevive.md) |
 <!-- latest:end -->
 
 ## How it works

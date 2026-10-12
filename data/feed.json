@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T19:23:01.136Z",
- "totalGuides": 597,
+ "updatedAt": "2026-10-12T19:23:01.283Z",
+ "totalGuides": 598,
  "items": [
+  {
+   "fullName": "PortalRegain/AutoCad",
+   "owner": "PortalRegain",
+   "name": "AutoCad",
+   "url": "https://github.com/PortalRegain/AutoCad",
+   "avatar": "https://avatars.githubusercontent.com/u/292123813?v=4",
+   "description": "Autocad', a professional desktop software utility configuration, provides a comprehensive design solution by seamlessly integrating complex drafting tasks...",
+   "language": null,
+   "topics": [
+    "autocad",
+    "autocad-for-win",
+    "autocad-for-windows-2026",
+    "autocad-for-windows-crack",
+    "autocad-for-windows-download",
+    "autocad-for-windows-free",
+    "cad-automation",
+    "fsharp-interactive"
+   ],
+   "license": null,
+   "stars": 85,
+   "forks": 0,
+   "createdAt": "2026-10-12T17:11:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T19:23:01.282Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/PortalRegain/AutoCad",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PortalRegain/AutoCad/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/PortalRegain/AutoCad\nWhat it says it does: \"Autocad', a professional desktop software utility configuration, provides a comprehensive design solution by seamlessly integrating complex drafting tasks...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T19:23:01.282Z"
+  },
   {
    "fullName": "AnemonePulse/Better-Discord",
    "owner": "AnemonePulse",
@@ -31485,63 +31542,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Ceilingmoreminisce/Discord-Server-Raider\nWhat it says it does: \"Automate server management and enhance security on your GitHub-hosted projects using Discords's powerful bot that optimizes resource allocation and...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T14:59:46.280Z"
-  },
-  {
-   "fullName": "ScreenEvaluate/KMS-Pico",
-   "owner": "ScreenEvaluate",
-   "name": "KMS-Pico",
-   "url": "https://github.com/ScreenEvaluate/KMS-Pico",
-   "avatar": "https://avatars.githubusercontent.com/u/296658898?v=4",
-   "description": "Kms Pico Free optimizes your professional desktop environment by providing a customizable and efficient utility configuration.",
-   "language": null,
-   "topics": [
-    "activation-fix",
-    "free-excel-word",
-    "key-management-system",
-    "kms-auto-2026",
-    "kms-auto-get",
-    "kms-pico-free",
-    "kmsauto-get",
-    "microsoft-office-26"
-   ],
-   "license": null,
-   "stars": 408,
-   "forks": 0,
-   "createdAt": "2026-10-02T20:03:50Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T14:59:46.118Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ScreenEvaluate/KMS-Pico",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ScreenEvaluate/KMS-Pico/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ScreenEvaluate/KMS-Pico\nWhat it says it does: \"Kms Pico Free optimizes your professional desktop environment by providing a customizable and efficient utility configuration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T14:59:46.118Z"
   }
  ],
  "levels": {

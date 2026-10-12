@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-12T09:40:38.551Z",
- "totalGuides": 581,
+ "updatedAt": "2026-10-12T09:40:38.720Z",
+ "totalGuides": 582,
  "items": [
+  {
+   "fullName": "updatesanninconduit/WUWA-Menu-Undetected",
+   "owner": "updatesanninconduit",
+   "name": "WUWA-Menu-Undetected",
+   "url": "https://github.com/updatesanninconduit/WUWA-Menu-Undetected",
+   "avatar": "https://avatars.githubusercontent.com/u/334671394?v=4",
+   "description": "Wuthering Waves Multihack",
+   "language": null,
+   "topics": [
+    "hakushin",
+    "wuthering-waves-config",
+    "wuthering-waves-engine-ini",
+    "wuthering-waves-graphics",
+    "wuthering-waves-hack-download",
+    "wuthering-waves-hack-latest",
+    "wuthering-waves-hack-pc",
+    "wuthering-waves-mods"
+   ],
+   "license": "MIT",
+   "stars": 61,
+   "forks": 0,
+   "createdAt": "2026-10-10T00:11:25Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-12T09:40:38.719Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/updatesanninconduit/WUWA-Menu-Undetected",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/updatesanninconduit/WUWA-Menu-Undetected/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/updatesanninconduit/WUWA-Menu-Undetected\nWhat it says it does: \"Wuthering Waves Multihack\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-12T09:40:38.719Z"
+  },
   {
    "fullName": "AFAlimru/fastly-hosts-adjust",
    "owner": "AFAlimru",
@@ -31371,68 +31428,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/fiercealbatrosssaw/CorelDraw\nWhat it says it does: \"Coreldraw optimizes professional desktop software utility configurations by providing a comprehensive and user-friendly interface that streamlines design...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-04T09:37:36.700Z"
-  },
-  {
-   "fullName": "LegislatorCool/CCleaner-Pro",
-   "owner": "LegislatorCool",
-   "name": "CCleaner-Pro",
-   "url": "https://github.com/LegislatorCool/CCleaner-Pro",
-   "avatar": "https://avatars.githubusercontent.com/u/296660377?v=4",
-   "description": "Cleans up and optimizes your desktop's performance by removing unnecessary clutter, freeing up valuable resources without interfering with essential...",
-   "language": null,
-   "topics": [
-    "ccleaner-advanced-features",
-    "ccleaner-computer-maintenance",
-    "ccleaner-cracked-2026",
-    "ccleaner-free-2026",
-    "ccleaner-plus-2026",
-    "ccleaner-pro-automation-support",
-    "ccleaner-pro-for-windows",
-    "ccleaner-pro-junk-file-cleaner"
-   ],
-   "license": null,
-   "stars": 50,
-   "forks": 0,
-   "createdAt": "2026-10-02T19:58:41Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-04T09:37:36.575Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/LegislatorCool/CCleaner-Pro",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/LegislatorCool/CCleaner-Pro/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/LegislatorCool/CCleaner-Pro\nWhat it says it does: \"Cleans up and optimizes your desktop's performance by removing unnecessary clutter, freeing up valuable resources without interfering with essential...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-04T09:37:36.575Z"
   }
  ],
  "levels": {
-  "account": 211,
   "read": 177,
+  "account": 211,
   "instant": 36,
   "heavy": 76
  }

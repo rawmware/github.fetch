@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_581 guides written so far · last update 2026-10-12 09:40 UTC_
+_582 guides written so far · last update 2026-10-12 09:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [updatesanninconduit/WUWA-Menu-Undetected](https://github.com/updatesanninconduit/WUWA-Menu-Undetected) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/updatesanninconduit/wuwa-menu-undetected.md) |
 | [AFAlimru/fastly-hosts-adjust](https://github.com/AFAlimru/fastly-hosts-adjust) | Python project | Runs in the browser with a free account | [guide](guides/afalimru/fastly-hosts-adjust.md) |
 | [artouc/stop-describing-ui](https://github.com/artouc/stop-describing-ui) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/artouc/stop-describing-ui.md) |
 | [AI-BizOS/cross-harness](https://github.com/AI-BizOS/cross-harness) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/ai-bizos/cross-harness.md) |
@@ -38,7 +39,6 @@ _581 guides written so far · last update 2026-10-12 09:40 UTC_
 | [shaongitbd/doory](https://github.com/shaongitbd/doory) | Docker app | Runs in the browser with a free account | [guide](guides/shaongitbd/doory.md) |
 | [Caldalis/MiniCPM-Math-harness](https://github.com/Caldalis/MiniCPM-Math-harness) | Python project | Runs in the browser with a free account | [guide](guides/caldalis/minicpm-math-harness.md) |
 | [matsuzaka-yuki/susfs-lkm-module](https://github.com/matsuzaka-yuki/susfs-lkm-module) | Python project | Runs in the browser with a free account | [guide](guides/matsuzaka-yuki/susfs-lkm-module.md) |
-| [gameboy829/PS5-LZ4-Game-Compressor](https://github.com/gameboy829/PS5-LZ4-Game-Compressor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gameboy829/ps5-lz4-game-compressor.md) |
 <!-- latest:end -->
 
 ## How it works

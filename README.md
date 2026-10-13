@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_615 guides written so far · last update 2026-10-13 01:35 UTC_
+_616 guides written so far · last update 2026-10-13 01:35 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Cometamongrouse79/Crash-Plan](https://github.com/Cometamongrouse79/Crash-Plan) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cometamongrouse79/crash-plan.md) |
 | [ArmorerSpiral/Ads-Blocker](https://github.com/ArmorerSpiral/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/armorerspiral/ads-blocker.md) |
 | [FangSalamander59/IOBIT-Driver-Booster](https://github.com/FangSalamander59/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fangsalamander59/iobit-driver-booster.md) |
 | [DamInspector37/SolidWorks-CAD](https://github.com/DamInspector37/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daminspector37/solidworks-cad.md) |
@@ -38,7 +39,6 @@ _615 guides written so far · last update 2026-10-13 01:35 UTC_
 | [holeconductorcrush/Kontakt-8](https://github.com/holeconductorcrush/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holeconductorcrush/kontakt-8.md) |
 | [Aquafitzdisconnect/Discord-Server-Raider](https://github.com/Aquafitzdisconnect/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aquafitzdisconnect/discord-server-raider.md) |
 | [StellarTyrant/ultra-Iso](https://github.com/StellarTyrant/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stellartyrant/ultra-iso.md) |
-| [ashcustodiandolmen/Cinebench](https://github.com/ashcustodiandolmen/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashcustodiandolmen/cinebench.md) |
 <!-- latest:end -->
 
 ## How it works

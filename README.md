@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_629 guides written so far · last update 2026-10-13 08:31 UTC_
+_630 guides written so far · last update 2026-10-13 08:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LogoTortoise47/Canva-Pro](https://github.com/LogoTortoise47/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/logotortoise47/canva-pro.md) |
 | [Boardirrouter/Microsoft-Project](https://github.com/Boardirrouter/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardirrouter/microsoft-project.md) |
 | [GeninFlange29/AnyUnlock](https://github.com/GeninFlange29/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/geninflange29/anyunlock.md) |
 | [BannerCycleBarrow/Fps-Booster-for-Windows](https://github.com/BannerCycleBarrow/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bannercyclebarrow/fps-booster-for-windows.md) |
@@ -38,7 +39,6 @@ _629 guides written so far · last update 2026-10-13 08:31 UTC_
 | [liquidsparkretake/RX-11-Audio-Editor](https://github.com/liquidsparkretake/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/liquidsparkretake/rx-11-audio-editor.md) |
 | [UnicornSailmakerWatt/Wondshare-Recoverit](https://github.com/UnicornSailmakerWatt/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unicornsailmakerwatt/wondshare-recoverit.md) |
 | [Galaxychiblast/SketchUp-Pro](https://github.com/Galaxychiblast/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/galaxychiblast/sketchup-pro.md) |
-| [GrackleRepel/StartAll-Back](https://github.com/GrackleRepel/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gracklerepel/startall-back.md) |
 <!-- latest:end -->
 
 ## How it works

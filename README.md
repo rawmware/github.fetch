@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_611 guides written so far · last update 2026-10-12 19:23 UTC_
+_612 guides written so far · last update 2026-10-13 01:35 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Superincrater/Autodesk-Revit](https://github.com/Superincrater/Autodesk-Revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/superincrater/autodesk-revit.md) |
 | [MouseAngular/KMS-Pico](https://github.com/MouseAngular/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mouseangular/kms-pico.md) |
 | [Lengthristride/Total-Commander](https://github.com/Lengthristride/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lengthristride/total-commander.md) |
 | [DaemonPebbleWrath/PH-Downloader](https://github.com/DaemonPebbleWrath/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daemonpebblewrath/ph-downloader.md) |
@@ -38,7 +39,6 @@ _611 guides written so far · last update 2026-10-12 19:23 UTC_
 | [Dreamorgutter/Discord-Nitro-Generator](https://github.com/Dreamorgutter/Discord-Nitro-Generator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dreamorgutter/discord-nitro-generator.md) |
 | [Grayencram22/Discord-Quest-Completer](https://github.com/Grayencram22/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grayencram22/discord-quest-completer.md) |
 | [ElementCourse/Windows-Optimizer](https://github.com/ElementCourse/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/elementcourse/windows-optimizer.md) |
-| [PetaMooseVolt/AnyDesk](https://github.com/PetaMooseVolt/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/petamoosevolt/anydesk.md) |
 <!-- latest:end -->
 
 ## How it works

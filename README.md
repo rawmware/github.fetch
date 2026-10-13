@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_652 guides written so far · last update 2026-10-13 16:22 UTC_
+_653 guides written so far · last update 2026-10-13 16:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) | Python project | Runs in the browser with a free account | [guide](guides/jiayx/d2r-mobile-build.md) |
 | [cxm947/FakeLiang](https://github.com/cxm947/FakeLiang) | Python project | Runs in the browser with a free account | [guide](guides/cxm947/fakeliang.md) |
 | [True-Utopian/vesper-antidetect-browser](https://github.com/True-Utopian/vesper-antidetect-browser) | JavaScript project | Runs in the browser with a free account | [guide](guides/true-utopian/vesper-antidetect-browser.md) |
 | [DiracQuantum/dirac_quantum](https://github.com/DiracQuantum/dirac_quantum) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/diracquantum/dirac_quantum.md) |
@@ -38,7 +39,6 @@ _652 guides written so far · last update 2026-10-13 16:22 UTC_
 | [tonyzedginidze/librecalculator](https://github.com/tonyzedginidze/librecalculator) | JavaScript project | Runs in the browser with a free account | [guide](guides/tonyzedginidze/librecalculator.md) |
 | [WilderNoTrack/mcd-calorie-butler](https://github.com/WilderNoTrack/mcd-calorie-butler) | Python project | Runs in the browser with a free account | [guide](guides/wildernotrack/mcd-calorie-butler.md) |
 | [SouravBeraAkaSpeed/xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) | Next.js app | Runs in the browser with a free account | [guide](guides/souravberaakaspeed/xiryn.md) |
-| [spideymooon/McOracle](https://github.com/spideymooon/McOracle) | Python project | Runs in the browser with a free account | [guide](guides/spideymooon/mcoracle.md) |
 <!-- latest:end -->
 
 ## How it works

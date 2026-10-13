@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_625 guides written so far · last update 2026-10-13 08:31 UTC_
+_626 guides written so far · last update 2026-10-13 08:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ashdefenderdevastate/Adobe-Substance-3d](https://github.com/ashdefenderdevastate/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashdefenderdevastate/adobe-substance-3d.md) |
 | [SpiralStarlingModify/Microsoft-365](https://github.com/SpiralStarlingModify/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiralstarlingmodify/microsoft-365.md) |
 | [WireCaptainPalace/Cubase](https://github.com/WireCaptainPalace/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wirecaptainpalace/cubase.md) |
 | [RestBossGuard/Microsoft-Office](https://github.com/RestBossGuard/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restbossguard/microsoft-office.md) |
@@ -38,7 +39,6 @@ _625 guides written so far · last update 2026-10-13 08:31 UTC_
 | [AutocratArbor/Adobe-Acrobat-Pro](https://github.com/AutocratArbor/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/autocratarbor/adobe-acrobat-pro.md) |
 | [Cometamongrouse79/Crash-Plan](https://github.com/Cometamongrouse79/Crash-Plan) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cometamongrouse79/crash-plan.md) |
 | [ArmorerSpiral/Ads-Blocker](https://github.com/ArmorerSpiral/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/armorerspiral/ads-blocker.md) |
-| [FangSalamander59/IOBIT-Driver-Booster](https://github.com/FangSalamander59/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fangsalamander59/iobit-driver-booster.md) |
 <!-- latest:end -->
 
 ## How it works

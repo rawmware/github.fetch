@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-13T08:31:37.929Z",
- "totalGuides": 630,
+ "updatedAt": "2026-10-13T08:31:38.088Z",
+ "totalGuides": 631,
  "items": [
+  {
+   "fullName": "Arekejoker/qwen21-nsfw-pose-skill",
+   "owner": "Arekejoker",
+   "name": "qwen21-nsfw-pose-skill",
+   "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+   "avatar": "https://avatars.githubusercontent.com/u/131444687?v=4",
+   "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+   "language": "Python",
+   "topics": [
+    "agent-skill",
+    "comfyui",
+    "image-generation",
+    "openclaw",
+    "pose-control",
+    "qwen-image"
+   ],
+   "license": null,
+   "stars": 267,
+   "forks": 61,
+   "createdAt": "2026-10-13T03:09:42Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-13T08:31:38.087Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Arekejoker/qwen21-nsfw-pose-skill/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Arekejoker/qwen21-nsfw-pose-skill?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Arekejoker/qwen21-nsfw-pose-skill",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Arekejoker/qwen21-nsfw-pose-skill.git\ncd qwen21-nsfw-pose-skill",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Arekejoker/qwen21-nsfw-pose-skill\nWhat it says it does: \"Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-13T08:31:38.087Z"
+  },
   {
    "fullName": "LogoTortoise47/Canva-Pro",
    "owner": "LogoTortoise47",
@@ -31437,82 +31506,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/dakukibana/short-video-generator\nWhat it says it does: \"AI-powered open-source tool that turns long videos into viral-ready shorts with automatic highlights, subtitles, hooks, cropping, translation and voiceover\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-05T00:45:20.898Z"
-  },
-  {
-   "fullName": "zeemscript/TrustMint",
-   "owner": "zeemscript",
-   "name": "TrustMint",
-   "url": "https://github.com/zeemscript/TrustMint",
-   "avatar": "https://avatars.githubusercontent.com/u/150973162?v=4",
-   "description": "Open-source toolkit for compliant real-world asset tokenization on Stellar.KYC registry, compliance engine, and asset templates for invoices, property shares, and carbon credits.",
-   "language": "Rust",
-   "topics": [],
-   "license": "MIT",
-   "stars": 131,
-   "forks": 130,
-   "createdAt": "2026-10-04T13:15:32Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-05T00:45:20.685Z",
-   "stack": {
-    "kind": "node",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/zeemscript/TrustMint",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/zeemscript/TrustMint",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/zeemscript/TrustMint?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/zeemscript/TrustMint",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/zeemscript/TrustMint/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": null,
-   "notes": [
-    "It's a monorepo (several packages in one). Check the README for which folder to start in."
-   ],
-   "local": "git clone --depth 1 https://github.com/zeemscript/TrustMint.git\ncd TrustMint\nnpm install",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/zeemscript/TrustMint\nWhat it says it does: \"Open-source toolkit for compliant real-world asset tokenization on Stellar.KYC registry, compliance engine, and asset templates for invoices, property shares, and carbon credits.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-05T00:45:20.685Z"
   }
  ],
  "levels": {
-  "read": 169,
   "account": 218,
+  "read": 169,
   "instant": 38,
   "heavy": 75
  }

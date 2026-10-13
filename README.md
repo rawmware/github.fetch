@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_630 guides written so far · last update 2026-10-13 08:31 UTC_
+_631 guides written so far · last update 2026-10-13 08:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python project | Runs in the browser with a free account | [guide](guides/arekejoker/qwen21-nsfw-pose-skill.md) |
 | [LogoTortoise47/Canva-Pro](https://github.com/LogoTortoise47/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/logotortoise47/canva-pro.md) |
 | [Boardirrouter/Microsoft-Project](https://github.com/Boardirrouter/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardirrouter/microsoft-project.md) |
 | [GeninFlange29/AnyUnlock](https://github.com/GeninFlange29/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/geninflange29/anyunlock.md) |
@@ -38,7 +39,6 @@ _630 guides written so far · last update 2026-10-13 08:31 UTC_
 | [Cometchuvoyage/Adobe-InDesign](https://github.com/Cometchuvoyage/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cometchuvoyage/adobe-indesign.md) |
 | [liquidsparkretake/RX-11-Audio-Editor](https://github.com/liquidsparkretake/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/liquidsparkretake/rx-11-audio-editor.md) |
 | [UnicornSailmakerWatt/Wondshare-Recoverit](https://github.com/UnicornSailmakerWatt/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unicornsailmakerwatt/wondshare-recoverit.md) |
-| [Galaxychiblast/SketchUp-Pro](https://github.com/Galaxychiblast/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/galaxychiblast/sketchup-pro.md) |
 <!-- latest:end -->
 
 ## How it works

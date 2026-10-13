@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_638 guides written so far · last update 2026-10-13 08:31 UTC_
+_639 guides written so far · last update 2026-10-13 16:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [overdriveps5/overdrive-releases](https://github.com/overdriveps5/overdrive-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/overdriveps5/overdrive-releases.md) |
 | [followermelodylaud/Catia-Cad](https://github.com/followermelodylaud/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followermelodylaud/catia-cad.md) |
 | [weavecorebond/DVD-Creator](https://github.com/weavecorebond/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/weavecorebond/dvd-creator.md) |
 | [surgeduelistjourney/BorisFX](https://github.com/surgeduelistjourney/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surgeduelistjourney/borisfx.md) |
@@ -38,7 +39,6 @@ _638 guides written so far · last update 2026-10-13 08:31 UTC_
 | [LogoTortoise47/Canva-Pro](https://github.com/LogoTortoise47/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/logotortoise47/canva-pro.md) |
 | [Boardirrouter/Microsoft-Project](https://github.com/Boardirrouter/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardirrouter/microsoft-project.md) |
 | [GeninFlange29/AnyUnlock](https://github.com/GeninFlange29/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/geninflange29/anyunlock.md) |
-| [BannerCycleBarrow/Fps-Booster-for-Windows](https://github.com/BannerCycleBarrow/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bannercyclebarrow/fps-booster-for-windows.md) |
 <!-- latest:end -->
 
 ## How it works

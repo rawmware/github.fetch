@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_627 guides written so far · last update 2026-10-13 08:31 UTC_
+_628 guides written so far · last update 2026-10-13 08:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [GeninFlange29/AnyUnlock](https://github.com/GeninFlange29/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/geninflange29/anyunlock.md) |
 | [BannerCycleBarrow/Fps-Booster-for-Windows](https://github.com/BannerCycleBarrow/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bannercyclebarrow/fps-booster-for-windows.md) |
 | [ashdefenderdevastate/Adobe-Substance-3d](https://github.com/ashdefenderdevastate/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashdefenderdevastate/adobe-substance-3d.md) |
 | [SpiralStarlingModify/Microsoft-365](https://github.com/SpiralStarlingModify/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiralstarlingmodify/microsoft-365.md) |
@@ -38,7 +39,6 @@ _627 guides written so far · last update 2026-10-13 08:31 UTC_
 | [Galaxychiblast/SketchUp-Pro](https://github.com/Galaxychiblast/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/galaxychiblast/sketchup-pro.md) |
 | [GrackleRepel/StartAll-Back](https://github.com/GrackleRepel/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gracklerepel/startall-back.md) |
 | [AutocratArbor/Adobe-Acrobat-Pro](https://github.com/AutocratArbor/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/autocratarbor/adobe-acrobat-pro.md) |
-| [Cometamongrouse79/Crash-Plan](https://github.com/Cometamongrouse79/Crash-Plan) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cometamongrouse79/crash-plan.md) |
 <!-- latest:end -->
 
 ## How it works

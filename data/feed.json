@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-13T08:31:36.365Z",
- "totalGuides": 627,
+ "updatedAt": "2026-10-13T08:31:37.566Z",
+ "totalGuides": 628,
  "items": [
+  {
+   "fullName": "GeninFlange29/AnyUnlock",
+   "owner": "GeninFlange29",
+   "name": "AnyUnlock",
+   "url": "https://github.com/GeninFlange29/AnyUnlock",
+   "avatar": "https://avatars.githubusercontent.com/u/292121729?v=4",
+   "description": "Anyunlock optimizes your professional desktop utility configurations by providing a secure and seamless integration solution with unique features tailored...",
+   "language": null,
+   "topics": [
+    "apple-id-remove",
+    "apple-id-remover",
+    "device-tool",
+    "frp-tool",
+    "ios-bypass",
+    "ios-find-my-bypass",
+    "ios-jailbreak",
+    "ios-mdm-bypass"
+   ],
+   "license": null,
+   "stars": 274,
+   "forks": 0,
+   "createdAt": "2026-10-12T17:10:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-13T08:31:37.565Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/GeninFlange29/AnyUnlock",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/GeninFlange29/AnyUnlock/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/GeninFlange29/AnyUnlock\nWhat it says it does: \"Anyunlock optimizes your professional desktop utility configurations by providing a secure and seamless integration solution with unique features tailored...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-13T08:31:37.565Z"
+  },
   {
    "fullName": "BannerCycleBarrow/Fps-Booster-for-Windows",
    "owner": "BannerCycleBarrow",
@@ -31449,82 +31506,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/cneuralnetwork/kharcha\nWhat it says it does: \"Private spending ledger from bank SMS, built with Expo and optional encrypted Render backup.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-05T00:45:19.417Z"
-  },
-  {
-   "fullName": "Adolanium/hermes-gadget-sdk",
-   "owner": "Adolanium",
-   "name": "hermes-gadget-sdk",
-   "url": "https://github.com/Adolanium/hermes-gadget-sdk",
-   "avatar": "https://avatars.githubusercontent.com/u/94890352?v=4",
-   "description": "Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator.",
-   "language": "C++",
-   "topics": [
-    "cpp17",
-    "embedded",
-    "esp-idf",
-    "esp32",
-    "esp32-s3",
-    "hermes-agent",
-    "iot",
-    "linux"
-   ],
-   "license": "MIT",
-   "stars": 180,
-   "forks": 18,
-   "createdAt": "2026-10-03T10:08:24Z",
-   "branch": "main",
-   "homepage": "https://adolanium.github.io/hermes-gadget-sdk/",
-   "addedAt": "2026-10-05T00:45:19.250Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Adolanium/hermes-gadget-sdk/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Adolanium/hermes-gadget-sdk?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Adolanium/hermes-gadget-sdk",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Adolanium/hermes-gadget-sdk/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Adolanium/hermes-gadget-sdk.git\ncd hermes-gadget-sdk\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Adolanium/hermes-gadget-sdk\nWhat it says it does: \"Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-05T00:45:19.250Z"
   }
  ],
  "levels": {
-  "read": 166,
-  "account": 220,
+  "read": 167,
+  "account": 219,
   "instant": 38,
   "heavy": 76
  }

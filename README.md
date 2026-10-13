@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_659 guides written so far · last update 2026-10-13 21:29 UTC_
+_660 guides written so far · last update 2026-10-13 21:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yeyuxin777/baoyan-agent-benchmark](https://github.com/yeyuxin777/baoyan-agent-benchmark) | Python project | Runs in the browser with a free account | [guide](guides/yeyuxin777/baoyan-agent-benchmark.md) |
 | [egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai) | Python project | Runs in the browser with a free account | [guide](guides/egotoadcitadel/palette-from-image-ai.md) |
 | [pLabs5/pLinux5-NG](https://github.com/pLabs5/pLinux5-NG) | C project | Needs a real machine (or a GPU) to run | [guide](guides/plabs5/plinux5-ng.md) |
 | [jhaiian/ClintGecko](https://github.com/jhaiian/ClintGecko) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jhaiian/clintgecko.md) |
@@ -38,7 +39,6 @@ _659 guides written so far · last update 2026-10-13 21:29 UTC_
 | [True-Utopian/vesper-antidetect-browser](https://github.com/True-Utopian/vesper-antidetect-browser) | JavaScript project | Runs in the browser with a free account | [guide](guides/true-utopian/vesper-antidetect-browser.md) |
 | [DiracQuantum/dirac_quantum](https://github.com/DiracQuantum/dirac_quantum) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/diracquantum/dirac_quantum.md) |
 | [ArchDiverYank/lrt](https://github.com/ArchDiverYank/lrt) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/archdiveryank/lrt.md) |
-| [jumpersun/meal-puzzle](https://github.com/jumpersun/meal-puzzle) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jumpersun/meal-puzzle.md) |
 <!-- latest:end -->
 
 ## How it works

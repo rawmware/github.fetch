@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-13T08:31:39.256Z",
- "totalGuides": 636,
+ "updatedAt": "2026-10-13T08:31:39.441Z",
+ "totalGuides": 637,
  "items": [
+  {
+   "fullName": "weavecorebond/DVD-Creator",
+   "owner": "weavecorebond",
+   "name": "DVD-Creator",
+   "url": "https://github.com/weavecorebond/DVD-Creator",
+   "avatar": "https://avatars.githubusercontent.com/u/292122767?v=4",
+   "description": "Dvd Creator is a professional desktop utility that facilitates comprehensive DVD authoring and burning tasks with uncompromising reliability.",
+   "language": null,
+   "topics": [
+    "acer-nitro",
+    "ais-data",
+    "aiseesoft-data-recovery-speed-comparison",
+    "aiseesoft-fonelab-for-ios",
+    "aiseesoft-recover-deleted-files",
+    "aiseesoft-video-converter-pc",
+    "aosp-build",
+    "compound-engineering"
+   ],
+   "license": null,
+   "stars": 175,
+   "forks": 0,
+   "createdAt": "2026-10-12T17:16:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-13T08:31:39.440Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/weavecorebond/DVD-Creator",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/weavecorebond/DVD-Creator/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/weavecorebond/DVD-Creator\nWhat it says it does: \"Dvd Creator is a professional desktop utility that facilitates comprehensive DVD authoring and burning tasks with uncompromising reliability.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-13T08:31:39.440Z"
+  },
   {
    "fullName": "surgeduelistjourney/BorisFX",
    "owner": "surgeduelistjourney",
@@ -31369,74 +31426,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/CreoleVR/QuestLHSync\nWhat it says it does: \"Lighthouse trackers and controllers aligned to a rooted Quest's or Steam Frame's own tracking, from its cameras seeing SteamVR 2.0 base stations\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-05T06:18:27.277Z"
-  },
-  {
-   "fullName": "BrinooTk/PS5X360",
-   "owner": "BrinooTk",
-   "name": "PS5X360",
-   "url": "https://github.com/BrinooTk/PS5X360",
-   "avatar": "https://avatars.githubusercontent.com/u/126296596?v=4",
-   "description": "Experimental Xbox 360 emulator for PlayStation 5, built on Xenia Canary with native audio, DualSense input and RADV Vulkan graphics.",
-   "language": "C++",
-   "topics": [
-    "emulator",
-    "homebrew",
-    "ps5",
-    "xbox360",
-    "xenia"
-   ],
-   "license": "MIT",
-   "stars": 92,
-   "forks": 5,
-   "createdAt": "2026-10-03T23:11:38Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-05T06:18:27.155Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/BrinooTk/PS5X360?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/BrinooTk/PS5X360",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BrinooTk/PS5X360/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/BrinooTk/PS5X360.git\ncd PS5X360",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/BrinooTk/PS5X360\nWhat it says it does: \"Experimental Xbox 360 emulator for PlayStation 5, built on Xenia Canary with native audio, DualSense input and RADV Vulkan graphics.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-05T06:18:27.155Z"
   }
  ],
  "levels": {
-  "read": 171,
-  "heavy": 76,
+  "read": 172,
+  "heavy": 75,
   "account": 215,
   "instant": 38
  }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_655 guides written so far · last update 2026-10-13 16:22 UTC_
+_656 guides written so far · last update 2026-10-13 16:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mikuta0407/win4wine](https://github.com/mikuta0407/win4wine) | Python project | Runs in the browser with a free account | [guide](guides/mikuta0407/win4wine.md) |
 | [michaelshimeles/terminal-rs](https://github.com/michaelshimeles/terminal-rs) | Rust project | Runs in the browser with a free account | [guide](guides/michaelshimeles/terminal-rs.md) |
 | [jonwheatley/pixel-path](https://github.com/jonwheatley/pixel-path) | JavaScript project | Runs in the browser with a free account | [guide](guides/jonwheatley/pixel-path.md) |
 | [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) | Python project | Runs in the browser with a free account | [guide](guides/jiayx/d2r-mobile-build.md) |
@@ -38,7 +39,6 @@ _655 guides written so far · last update 2026-10-13 16:22 UTC_
 | [AirsupHQ/machine-skill](https://github.com/AirsupHQ/machine-skill) | JavaScript project | Runs in the browser with a free account | [guide](guides/airsuphq/machine-skill.md) |
 | [leolobato/playden-ps5](https://github.com/leolobato/playden-ps5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/leolobato/playden-ps5.md) |
 | [madong-code/madong-aura](https://github.com/madong-code/madong-aura) | Vite app | Runs in a browser tab, no account needed | [guide](guides/madong-code/madong-aura.md) |
-| [tonyzedginidze/librecalculator](https://github.com/tonyzedginidze/librecalculator) | JavaScript project | Runs in the browser with a free account | [guide](guides/tonyzedginidze/librecalculator.md) |
 <!-- latest:end -->
 
 ## How it works

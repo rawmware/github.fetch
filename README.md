@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_672 guides written so far · last update 2026-10-13 21:29 UTC_
+_673 guides written so far · last update 2026-10-13 21:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rayytor/desktop_gifs](https://github.com/rayytor/desktop_gifs) | JavaScript project | Runs in the browser with a free account | [guide](guides/rayytor/desktop_gifs.md) |
 | [theghostonline/PS5-LZ4-Compression](https://github.com/theghostonline/PS5-LZ4-Compression) | C project | Needs a real machine (or a GPU) to run | [guide](guides/theghostonline/ps5-lz4-compression.md) |
 | [recepyagmur/EnglishPractice](https://github.com/recepyagmur/EnglishPractice) | Python project | Runs in the browser with a free account | [guide](guides/recepyagmur/englishpractice.md) |
 | [savinglighting/dsh-sd-bridge-guard](https://github.com/savinglighting/dsh-sd-bridge-guard) | JavaScript project | Runs in the browser with a free account | [guide](guides/savinglighting/dsh-sd-bridge-guard.md) |
@@ -38,7 +39,6 @@ _672 guides written so far · last update 2026-10-13 21:29 UTC_
 | [rzc156/dreamforge](https://github.com/rzc156/dreamforge) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/rzc156/dreamforge.md) |
 | [Grav1ty666/ResumeBuilder](https://github.com/Grav1ty666/ResumeBuilder) | Python project | Runs in the browser with a free account | [guide](guides/grav1ty666/resumebuilder.md) |
 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | JavaScript project | Runs in the browser with a free account | [guide](guides/heyputer/everything.md) |
-| [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | Vite app | Runs in a browser tab, no account needed | [guide](guides/coolkhz/gptibo.md) |
 <!-- latest:end -->
 
 ## How it works

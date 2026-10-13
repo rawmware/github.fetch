@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-13T08:31:38.636Z",
- "totalGuides": 633,
+ "updatedAt": "2026-10-13T08:31:38.817Z",
+ "totalGuides": 634,
  "items": [
+  {
+   "fullName": "madeyexz/louisa-wifi",
+   "owner": "madeyexz",
+   "name": "louisa-wifi",
+   "url": "https://github.com/madeyexz/louisa-wifi",
+   "avatar": "https://avatars.githubusercontent.com/u/45984618?v=4",
+   "description": "自動連上全台任何一家路易莎咖啡的 Wi-Fi（macOS menu bar app + Raycast）",
+   "language": "Swift",
+   "topics": [],
+   "license": "MIT",
+   "stars": 182,
+   "forks": 5,
+   "createdAt": "2026-10-12T08:20:09Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-13T08:31:38.816Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/madeyexz/louisa-wifi?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/madeyexz/louisa-wifi",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/madeyexz/louisa-wifi/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/madeyexz/louisa-wifi.git\ncd louisa-wifi",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/madeyexz/louisa-wifi\nWhat it says it does: \"自動連上全台任何一家路易莎咖啡的 Wi-Fi（macOS menu bar app + Raycast）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-13T08:31:38.816Z"
+  },
   {
    "fullName": "PS5Dev/Byepervisor-Reborn",
    "owner": "PS5Dev",
@@ -31410,81 +31467,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Asigers/pi-knock\nWhat it says it does: \"Remote notifications for the Pi coding agent — Pushover, ntfy, and webhooks when tasks finish or need your input.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-05T06:18:26.764Z"
-  },
-  {
-   "fullName": "isoshimodo/ai-data-extractor",
-   "owner": "isoshimodo",
-   "name": "ai-data-extractor",
-   "url": "https://github.com/isoshimodo/ai-data-extractor",
-   "avatar": "https://avatars.githubusercontent.com/u/308878496?v=4",
-   "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-   "language": "Python",
-   "topics": [
-    "ai-data",
-    "claude-code",
-    "cursor-ai",
-    "data-extraction",
-    "data-extractor",
-    "windsurf",
-    "windsurf-ai"
-   ],
-   "license": "MIT",
-   "stars": 118,
-   "forks": 38,
-   "createdAt": "2026-10-03T16:28:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-05T06:18:26.487Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/isoshimodo/ai-data-extractor/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/isoshimodo/ai-data-extractor?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/isoshimodo/ai-data-extractor",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/isoshimodo/ai-data-extractor/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/isoshimodo/ai-data-extractor.git\ncd ai-data-extractor",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/isoshimodo/ai-data-extractor\nWhat it says it does: \"Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-05T06:18:26.487Z"
   }
  ],
  "levels": {
-  "heavy": 76,
-  "account": 217,
+  "heavy": 77,
+  "account": 216,
   "read": 169,
   "instant": 38
  }

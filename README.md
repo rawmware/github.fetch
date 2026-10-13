@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_633 guides written so far · last update 2026-10-13 08:31 UTC_
+_634 guides written so far · last update 2026-10-13 08:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [madeyexz/louisa-wifi](https://github.com/madeyexz/louisa-wifi) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/madeyexz/louisa-wifi.md) |
 | [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ps5dev/byepervisor-reborn.md) |
 | [w16638771062/mccarbon](https://github.com/w16638771062/mccarbon) | Python project | Runs in the browser with a free account | [guide](guides/w16638771062/mccarbon.md) |
 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python project | Runs in the browser with a free account | [guide](guides/arekejoker/qwen21-nsfw-pose-skill.md) |
@@ -38,7 +39,6 @@ _633 guides written so far · last update 2026-10-13 08:31 UTC_
 | [SpiralStarlingModify/Microsoft-365](https://github.com/SpiralStarlingModify/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiralstarlingmodify/microsoft-365.md) |
 | [WireCaptainPalace/Cubase](https://github.com/WireCaptainPalace/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wirecaptainpalace/cubase.md) |
 | [RestBossGuard/Microsoft-Office](https://github.com/RestBossGuard/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restbossguard/microsoft-office.md) |
-| [Cometchuvoyage/Adobe-InDesign](https://github.com/Cometchuvoyage/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cometchuvoyage/adobe-indesign.md) |
 <!-- latest:end -->
 
 ## How it works

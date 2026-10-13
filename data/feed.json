@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-13T21:29:39.279Z",
- "totalGuides": 671,
+ "updatedAt": "2026-10-13T21:29:39.516Z",
+ "totalGuides": 672,
  "items": [
+  {
+   "fullName": "theghostonline/PS5-LZ4-Compression",
+   "owner": "theghostonline",
+   "name": "PS5-LZ4-Compression",
+   "url": "https://github.com/theghostonline/PS5-LZ4-Compression",
+   "avatar": "https://avatars.githubusercontent.com/u/217817067?v=4",
+   "description": "LZ4 compression for games, done entirely on the PS5",
+   "language": "C",
+   "topics": [],
+   "license": null,
+   "stars": 83,
+   "forks": 6,
+   "createdAt": "2026-10-11T02:20:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-13T21:29:39.516Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/theghostonline/PS5-LZ4-Compression?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/theghostonline/PS5-LZ4-Compression",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/theghostonline/PS5-LZ4-Compression/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/theghostonline/PS5-LZ4-Compression.git\ncd PS5-LZ4-Compression",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/theghostonline/PS5-LZ4-Compression\nWhat it says it does: \"LZ4 compression for games, done entirely on the PS5\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-13T21:29:39.516Z"
+  },
   {
    "fullName": "recepyagmur/EnglishPractice",
    "owner": "recepyagmur",
@@ -31550,66 +31607,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/lostparakeetmagnify/Adobe-Illustrator\nWhat it says it does: \"Adobe Illustrator repository optimizes design workflows with robust vector graphics tools, enabling seamless collaboration and efficient project...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-05T21:57:18.267Z"
-  },
-  {
-   "fullName": "VarnishTrackPrize/ultra-Iso",
-   "owner": "VarnishTrackPrize",
-   "name": "ultra-Iso",
-   "url": "https://github.com/VarnishTrackPrize/ultra-Iso",
-   "avatar": "https://avatars.githubusercontent.com/u/296667609?v=4",
-   "description": "Ultra Iso optimizes professional desktop software utility configurations by providing a meticulously curated set of settings tailored to enhance...",
-   "language": null,
-   "topics": [
-    "activation-tools",
-    "iso-editor",
-    "iso-image",
-    "ultraiso-2026",
-    "ultraiso-download-windows"
-   ],
-   "license": null,
-   "stars": 392,
-   "forks": 0,
-   "createdAt": "2026-10-05T10:31:38Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-05T21:57:18.109Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/VarnishTrackPrize/ultra-Iso",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/VarnishTrackPrize/ultra-Iso/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/VarnishTrackPrize/ultra-Iso\nWhat it says it does: \"Ultra Iso optimizes professional desktop software utility configurations by providing a meticulously curated set of settings tailored to enhance...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-05T21:57:18.109Z"
   }
  ],
  "levels": {
+  "heavy": 72,
   "account": 222,
   "instant": 41,
-  "heavy": 71,
-  "read": 166
+  "read": 165
  }
 }

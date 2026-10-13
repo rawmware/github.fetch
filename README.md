@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_637 guides written so far · last update 2026-10-13 08:31 UTC_
+_638 guides written so far · last update 2026-10-13 08:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [followermelodylaud/Catia-Cad](https://github.com/followermelodylaud/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followermelodylaud/catia-cad.md) |
 | [weavecorebond/DVD-Creator](https://github.com/weavecorebond/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/weavecorebond/dvd-creator.md) |
 | [surgeduelistjourney/BorisFX](https://github.com/surgeduelistjourney/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surgeduelistjourney/borisfx.md) |
 | [Barrierdrapersonify/Auslogics](https://github.com/Barrierdrapersonify/Auslogics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/barrierdrapersonify/auslogics.md) |
@@ -38,7 +39,6 @@ _637 guides written so far · last update 2026-10-13 08:31 UTC_
 | [Boardirrouter/Microsoft-Project](https://github.com/Boardirrouter/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardirrouter/microsoft-project.md) |
 | [GeninFlange29/AnyUnlock](https://github.com/GeninFlange29/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/geninflange29/anyunlock.md) |
 | [BannerCycleBarrow/Fps-Booster-for-Windows](https://github.com/BannerCycleBarrow/Fps-Booster-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bannercyclebarrow/fps-booster-for-windows.md) |
-| [ashdefenderdevastate/Adobe-Substance-3d](https://github.com/ashdefenderdevastate/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashdefenderdevastate/adobe-substance-3d.md) |
 <!-- latest:end -->
 
 ## How it works

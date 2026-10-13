@@ -1,8 +1,89 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-13T16:22:41.656Z",
- "totalGuides": 643,
+ "updatedAt": "2026-10-13T16:22:42.266Z",
+ "totalGuides": 644,
  "items": [
+  {
+   "fullName": "tonyzedginidze/librecalculator",
+   "owner": "tonyzedginidze",
+   "name": "librecalculator",
+   "url": "https://github.com/tonyzedginidze/librecalculator",
+   "avatar": "https://avatars.githubusercontent.com/u/119799979?v=4",
+   "description": "The universe in numbers. Free, open-source calculators for everything countable.",
+   "language": "TypeScript",
+   "topics": [
+    "astro",
+    "bun",
+    "calculator",
+    "calculators",
+    "education",
+    "finance-calculator",
+    "learning",
+    "math"
+   ],
+   "license": null,
+   "stars": 127,
+   "forks": 17,
+   "createdAt": "2026-10-11T08:17:26Z",
+   "branch": "main",
+   "homepage": "https://librecalculator.com",
+   "addedAt": "2026-10-13T16:22:42.266Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/tonyzedginidze/librecalculator",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/tonyzedginidze/librecalculator",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/tonyzedginidze/librecalculator?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/tonyzedginidze/librecalculator",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/tonyzedginidze/librecalculator/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [
+    "It's a monorepo (several packages in one). Check the README for which folder to start in.",
+    "Made with Bun. If npm gives trouble, open it in Codespaces and use bun."
+   ],
+   "local": "git clone --depth 1 https://github.com/tonyzedginidze/librecalculator.git\ncd librecalculator\nnpm install\nnpm run dev",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/tonyzedginidze/librecalculator\nWhat it says it does: \"The universe in numbers. Free, open-source calculators for everything countable.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-13T16:22:42.266Z"
+  },
   {
    "fullName": "WilderNoTrack/mcd-calorie-butler",
    "owner": "WilderNoTrack",
@@ -31344,78 +31425,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/JinHo-von-Choi/iron-laws\nWhat it says it does: \"오철칙(Iron Laws) - AI가 만든 코드의 보안·구조·유지보수 문제를 짚어 주는 소스코드 점검 CLI\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-05T06:18:28.613Z"
-  },
-  {
-   "fullName": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-   "owner": "elripalda",
-   "name": "Porpoise-Dolphin-Emulator-for-PS5",
-   "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-   "avatar": "https://avatars.githubusercontent.com/u/224081549?v=4",
-   "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
-   "language": "C++",
-   "topics": [
-    "dolphin",
-    "dolphin-emulator",
-    "emulator",
-    "gamecube",
-    "homebrew",
-    "libretro",
-    "ps5",
-    "ps5-homebrew"
-   ],
-   "license": "GPL-3.0",
-   "stars": 59,
-   "forks": 7,
-   "createdAt": "2026-10-04T03:36:16Z",
-   "branch": "main",
-   "homepage": "https://www.elripalda.com",
-   "addedAt": "2026-10-05T06:18:28.393Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/elripalda/Porpoise-Dolphin-Emulator-for-PS5?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5.git\ncd Porpoise-Dolphin-Emulator-for-PS5",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5\nWhat it says it does: \"A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-05T06:18:28.393Z"
   }
  ],
  "levels": {
-  "account": 216,
+  "account": 217,
   "read": 173,
-  "heavy": 74,
+  "heavy": 73,
   "instant": 37
  }
 }

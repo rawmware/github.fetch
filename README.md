@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_660 guides written so far · last update 2026-10-13 21:29 UTC_
+_661 guides written so far · last update 2026-10-13 21:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | Vite app | Runs in a browser tab, no account needed | [guide](guides/coolkhz/gptibo.md) |
 | [yeyuxin777/baoyan-agent-benchmark](https://github.com/yeyuxin777/baoyan-agent-benchmark) | Python project | Runs in the browser with a free account | [guide](guides/yeyuxin777/baoyan-agent-benchmark.md) |
 | [egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai) | Python project | Runs in the browser with a free account | [guide](guides/egotoadcitadel/palette-from-image-ai.md) |
 | [pLabs5/pLinux5-NG](https://github.com/pLabs5/pLinux5-NG) | C project | Needs a real machine (or a GPU) to run | [guide](guides/plabs5/plinux5-ng.md) |
@@ -38,7 +39,6 @@ _660 guides written so far · last update 2026-10-13 21:29 UTC_
 | [cxm947/FakeLiang](https://github.com/cxm947/FakeLiang) | Python project | Runs in the browser with a free account | [guide](guides/cxm947/fakeliang.md) |
 | [True-Utopian/vesper-antidetect-browser](https://github.com/True-Utopian/vesper-antidetect-browser) | JavaScript project | Runs in the browser with a free account | [guide](guides/true-utopian/vesper-antidetect-browser.md) |
 | [DiracQuantum/dirac_quantum](https://github.com/DiracQuantum/dirac_quantum) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/diracquantum/dirac_quantum.md) |
-| [ArchDiverYank/lrt](https://github.com/ArchDiverYank/lrt) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/archdiveryank/lrt.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_619 guides written so far · last update 2026-10-13 01:35 UTC_
+_620 guides written so far · last update 2026-10-13 01:35 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [UnicornSailmakerWatt/Wondshare-Recoverit](https://github.com/UnicornSailmakerWatt/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unicornsailmakerwatt/wondshare-recoverit.md) |
 | [Galaxychiblast/SketchUp-Pro](https://github.com/Galaxychiblast/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/galaxychiblast/sketchup-pro.md) |
 | [GrackleRepel/StartAll-Back](https://github.com/GrackleRepel/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gracklerepel/startall-back.md) |
 | [AutocratArbor/Adobe-Acrobat-Pro](https://github.com/AutocratArbor/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/autocratarbor/adobe-acrobat-pro.md) |
@@ -38,7 +39,6 @@ _619 guides written so far · last update 2026-10-13 01:35 UTC_
 | [MouseAngular/KMS-Pico](https://github.com/MouseAngular/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mouseangular/kms-pico.md) |
 | [Lengthristride/Total-Commander](https://github.com/Lengthristride/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lengthristride/total-commander.md) |
 | [DaemonPebbleWrath/PH-Downloader](https://github.com/DaemonPebbleWrath/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daemonpebblewrath/ph-downloader.md) |
-| [sheethelpdoor/Adobe-Audition](https://github.com/sheethelpdoor/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sheethelpdoor/adobe-audition.md) |
 <!-- latest:end -->
 
 ## How it works

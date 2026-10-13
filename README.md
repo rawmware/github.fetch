@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_651 guides written so far · last update 2026-10-13 16:22 UTC_
+_652 guides written so far · last update 2026-10-13 16:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cxm947/FakeLiang](https://github.com/cxm947/FakeLiang) | Python project | Runs in the browser with a free account | [guide](guides/cxm947/fakeliang.md) |
 | [True-Utopian/vesper-antidetect-browser](https://github.com/True-Utopian/vesper-antidetect-browser) | JavaScript project | Runs in the browser with a free account | [guide](guides/true-utopian/vesper-antidetect-browser.md) |
 | [DiracQuantum/dirac_quantum](https://github.com/DiracQuantum/dirac_quantum) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/diracquantum/dirac_quantum.md) |
 | [ArchDiverYank/lrt](https://github.com/ArchDiverYank/lrt) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/archdiveryank/lrt.md) |
@@ -38,7 +39,6 @@ _651 guides written so far · last update 2026-10-13 16:22 UTC_
 | [WilderNoTrack/mcd-calorie-butler](https://github.com/WilderNoTrack/mcd-calorie-butler) | Python project | Runs in the browser with a free account | [guide](guides/wildernotrack/mcd-calorie-butler.md) |
 | [SouravBeraAkaSpeed/xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) | Next.js app | Runs in the browser with a free account | [guide](guides/souravberaakaspeed/xiryn.md) |
 | [spideymooon/McOracle](https://github.com/spideymooon/McOracle) | Python project | Runs in the browser with a free account | [guide](guides/spideymooon/mcoracle.md) |
-| [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video) | JavaScript project | Runs in the browser with a free account | [guide](guides/threerocks/sweety-handdraw-video.md) |
 <!-- latest:end -->
 
 ## How it works

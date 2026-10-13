@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_645 guides written so far · last update 2026-10-13 16:22 UTC_
+_646 guides written so far · last update 2026-10-13 16:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [leolobato/playden-ps5](https://github.com/leolobato/playden-ps5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/leolobato/playden-ps5.md) |
 | [madong-code/madong-aura](https://github.com/madong-code/madong-aura) | Vite app | Runs in a browser tab, no account needed | [guide](guides/madong-code/madong-aura.md) |
 | [tonyzedginidze/librecalculator](https://github.com/tonyzedginidze/librecalculator) | JavaScript project | Runs in the browser with a free account | [guide](guides/tonyzedginidze/librecalculator.md) |
 | [WilderNoTrack/mcd-calorie-butler](https://github.com/WilderNoTrack/mcd-calorie-butler) | Python project | Runs in the browser with a free account | [guide](guides/wildernotrack/mcd-calorie-butler.md) |
@@ -38,7 +39,6 @@ _645 guides written so far · last update 2026-10-13 16:22 UTC_
 | [weavecorebond/DVD-Creator](https://github.com/weavecorebond/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/weavecorebond/dvd-creator.md) |
 | [surgeduelistjourney/BorisFX](https://github.com/surgeduelistjourney/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surgeduelistjourney/borisfx.md) |
 | [Barrierdrapersonify/Auslogics](https://github.com/Barrierdrapersonify/Auslogics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/barrierdrapersonify/auslogics.md) |
-| [madeyexz/louisa-wifi](https://github.com/madeyexz/louisa-wifi) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/madeyexz/louisa-wifi.md) |
 <!-- latest:end -->
 
 ## How it works

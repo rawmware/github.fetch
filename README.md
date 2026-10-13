@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_669 guides written so far · last update 2026-10-13 21:29 UTC_
+_670 guides written so far · last update 2026-10-13 21:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [savinglighting/dsh-sd-bridge-guard](https://github.com/savinglighting/dsh-sd-bridge-guard) | JavaScript project | Runs in the browser with a free account | [guide](guides/savinglighting/dsh-sd-bridge-guard.md) |
 | [bbylw/rea-cn](https://github.com/bbylw/rea-cn) | Astro app | Runs in a browser tab, no account needed | [guide](guides/bbylw/rea-cn.md) |
 | [michaelshimeles/glide](https://github.com/michaelshimeles/glide) | Rust project | Runs in the browser with a free account | [guide](guides/michaelshimeles/glide.md) |
 | [gasb07/ps4mount](https://github.com/gasb07/ps4mount) | C project | Needs a real machine (or a GPU) to run | [guide](guides/gasb07/ps4mount.md) |
@@ -38,7 +39,6 @@ _669 guides written so far · last update 2026-10-13 21:29 UTC_
 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | Vite app | Runs in a browser tab, no account needed | [guide](guides/coolkhz/gptibo.md) |
 | [yeyuxin777/baoyan-agent-benchmark](https://github.com/yeyuxin777/baoyan-agent-benchmark) | Python project | Runs in the browser with a free account | [guide](guides/yeyuxin777/baoyan-agent-benchmark.md) |
 | [egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai) | Python project | Runs in the browser with a free account | [guide](guides/egotoadcitadel/palette-from-image-ai.md) |
-| [pLabs5/pLinux5-NG](https://github.com/pLabs5/pLinux5-NG) | C project | Needs a real machine (or a GPU) to run | [guide](guides/plabs5/plinux5-ng.md) |
 <!-- latest:end -->
 
 ## How it works

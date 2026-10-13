@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_640 guides written so far · last update 2026-10-13 16:22 UTC_
+_641 guides written so far · last update 2026-10-13 16:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [spideymooon/McOracle](https://github.com/spideymooon/McOracle) | Python project | Runs in the browser with a free account | [guide](guides/spideymooon/mcoracle.md) |
 | [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video) | JavaScript project | Runs in the browser with a free account | [guide](guides/threerocks/sweety-handdraw-video.md) |
 | [overdriveps5/overdrive-releases](https://github.com/overdriveps5/overdrive-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/overdriveps5/overdrive-releases.md) |
 | [followermelodylaud/Catia-Cad](https://github.com/followermelodylaud/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followermelodylaud/catia-cad.md) |
@@ -38,7 +39,6 @@ _640 guides written so far · last update 2026-10-13 16:22 UTC_
 | [w16638771062/mccarbon](https://github.com/w16638771062/mccarbon) | Python project | Runs in the browser with a free account | [guide](guides/w16638771062/mccarbon.md) |
 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python project | Runs in the browser with a free account | [guide](guides/arekejoker/qwen21-nsfw-pose-skill.md) |
 | [LogoTortoise47/Canva-Pro](https://github.com/LogoTortoise47/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/logotortoise47/canva-pro.md) |
-| [Boardirrouter/Microsoft-Project](https://github.com/Boardirrouter/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardirrouter/microsoft-project.md) |
 <!-- latest:end -->
 
 ## How it works

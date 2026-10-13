@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_624 guides written so far · last update 2026-10-13 08:31 UTC_
+_625 guides written so far · last update 2026-10-13 08:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SpiralStarlingModify/Microsoft-365](https://github.com/SpiralStarlingModify/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiralstarlingmodify/microsoft-365.md) |
 | [WireCaptainPalace/Cubase](https://github.com/WireCaptainPalace/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wirecaptainpalace/cubase.md) |
 | [RestBossGuard/Microsoft-Office](https://github.com/RestBossGuard/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restbossguard/microsoft-office.md) |
 | [Cometchuvoyage/Adobe-InDesign](https://github.com/Cometchuvoyage/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cometchuvoyage/adobe-indesign.md) |
@@ -38,7 +39,6 @@ _624 guides written so far · last update 2026-10-13 08:31 UTC_
 | [Cometamongrouse79/Crash-Plan](https://github.com/Cometamongrouse79/Crash-Plan) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cometamongrouse79/crash-plan.md) |
 | [ArmorerSpiral/Ads-Blocker](https://github.com/ArmorerSpiral/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/armorerspiral/ads-blocker.md) |
 | [FangSalamander59/IOBIT-Driver-Booster](https://github.com/FangSalamander59/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fangsalamander59/iobit-driver-booster.md) |
-| [DamInspector37/SolidWorks-CAD](https://github.com/DamInspector37/SolidWorks-CAD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daminspector37/solidworks-cad.md) |
 <!-- latest:end -->
 
 ## How it works

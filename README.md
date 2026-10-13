@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_670 guides written so far · last update 2026-10-13 21:29 UTC_
+_671 guides written so far · last update 2026-10-13 21:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [recepyagmur/EnglishPractice](https://github.com/recepyagmur/EnglishPractice) | Python project | Runs in the browser with a free account | [guide](guides/recepyagmur/englishpractice.md) |
 | [savinglighting/dsh-sd-bridge-guard](https://github.com/savinglighting/dsh-sd-bridge-guard) | JavaScript project | Runs in the browser with a free account | [guide](guides/savinglighting/dsh-sd-bridge-guard.md) |
 | [bbylw/rea-cn](https://github.com/bbylw/rea-cn) | Astro app | Runs in a browser tab, no account needed | [guide](guides/bbylw/rea-cn.md) |
 | [michaelshimeles/glide](https://github.com/michaelshimeles/glide) | Rust project | Runs in the browser with a free account | [guide](guides/michaelshimeles/glide.md) |
@@ -38,7 +39,6 @@ _670 guides written so far · last update 2026-10-13 21:29 UTC_
 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | JavaScript project | Runs in the browser with a free account | [guide](guides/heyputer/everything.md) |
 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | Vite app | Runs in a browser tab, no account needed | [guide](guides/coolkhz/gptibo.md) |
 | [yeyuxin777/baoyan-agent-benchmark](https://github.com/yeyuxin777/baoyan-agent-benchmark) | Python project | Runs in the browser with a free account | [guide](guides/yeyuxin777/baoyan-agent-benchmark.md) |
-| [egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai) | Python project | Runs in the browser with a free account | [guide](guides/egotoadcitadel/palette-from-image-ai.md) |
 <!-- latest:end -->
 
 ## How it works

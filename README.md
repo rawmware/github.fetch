@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_657 guides written so far · last update 2026-10-13 16:22 UTC_
+_658 guides written so far · last update 2026-10-13 16:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pLabs5/pLinux5-NG](https://github.com/pLabs5/pLinux5-NG) | C project | Needs a real machine (or a GPU) to run | [guide](guides/plabs5/plinux5-ng.md) |
 | [jhaiian/ClintGecko](https://github.com/jhaiian/ClintGecko) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jhaiian/clintgecko.md) |
 | [mikuta0407/win4wine](https://github.com/mikuta0407/win4wine) | Python project | Runs in the browser with a free account | [guide](guides/mikuta0407/win4wine.md) |
 | [michaelshimeles/terminal-rs](https://github.com/michaelshimeles/terminal-rs) | Rust project | Runs in the browser with a free account | [guide](guides/michaelshimeles/terminal-rs.md) |
@@ -38,7 +39,6 @@ _657 guides written so far · last update 2026-10-13 16:22 UTC_
 | [ArchDiverYank/lrt](https://github.com/ArchDiverYank/lrt) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/archdiveryank/lrt.md) |
 | [jumpersun/meal-puzzle](https://github.com/jumpersun/meal-puzzle) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jumpersun/meal-puzzle.md) |
 | [AirsupHQ/machine-skill](https://github.com/AirsupHQ/machine-skill) | JavaScript project | Runs in the browser with a free account | [guide](guides/airsuphq/machine-skill.md) |
-| [leolobato/playden-ps5](https://github.com/leolobato/playden-ps5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/leolobato/playden-ps5.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_649 guides written so far · last update 2026-10-13 16:22 UTC_
+_650 guides written so far · last update 2026-10-13 16:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DiracQuantum/dirac_quantum](https://github.com/DiracQuantum/dirac_quantum) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/diracquantum/dirac_quantum.md) |
 | [ArchDiverYank/lrt](https://github.com/ArchDiverYank/lrt) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/archdiveryank/lrt.md) |
 | [jumpersun/meal-puzzle](https://github.com/jumpersun/meal-puzzle) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jumpersun/meal-puzzle.md) |
 | [AirsupHQ/machine-skill](https://github.com/AirsupHQ/machine-skill) | JavaScript project | Runs in the browser with a free account | [guide](guides/airsuphq/machine-skill.md) |
@@ -38,7 +39,6 @@ _649 guides written so far · last update 2026-10-13 16:22 UTC_
 | [spideymooon/McOracle](https://github.com/spideymooon/McOracle) | Python project | Runs in the browser with a free account | [guide](guides/spideymooon/mcoracle.md) |
 | [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video) | JavaScript project | Runs in the browser with a free account | [guide](guides/threerocks/sweety-handdraw-video.md) |
 | [overdriveps5/overdrive-releases](https://github.com/overdriveps5/overdrive-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/overdriveps5/overdrive-releases.md) |
-| [followermelodylaud/Catia-Cad](https://github.com/followermelodylaud/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followermelodylaud/catia-cad.md) |
 <!-- latest:end -->
 
 ## How it works

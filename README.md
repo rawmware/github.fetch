@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_663 guides written so far · last update 2026-10-13 21:29 UTC_
+_664 guides written so far · last update 2026-10-13 21:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rzc156/dreamforge](https://github.com/rzc156/dreamforge) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/rzc156/dreamforge.md) |
 | [Grav1ty666/ResumeBuilder](https://github.com/Grav1ty666/ResumeBuilder) | Python project | Runs in the browser with a free account | [guide](guides/grav1ty666/resumebuilder.md) |
 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | JavaScript project | Runs in the browser with a free account | [guide](guides/heyputer/everything.md) |
 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | Vite app | Runs in a browser tab, no account needed | [guide](guides/coolkhz/gptibo.md) |
@@ -38,7 +39,6 @@ _663 guides written so far · last update 2026-10-13 21:29 UTC_
 | [michaelshimeles/terminal-rs](https://github.com/michaelshimeles/terminal-rs) | Rust project | Runs in the browser with a free account | [guide](guides/michaelshimeles/terminal-rs.md) |
 | [jonwheatley/pixel-path](https://github.com/jonwheatley/pixel-path) | JavaScript project | Runs in the browser with a free account | [guide](guides/jonwheatley/pixel-path.md) |
 | [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) | Python project | Runs in the browser with a free account | [guide](guides/jiayx/d2r-mobile-build.md) |
-| [cxm947/FakeLiang](https://github.com/cxm947/FakeLiang) | Python project | Runs in the browser with a free account | [guide](guides/cxm947/fakeliang.md) |
 <!-- latest:end -->
 
 ## How it works

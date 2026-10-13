@@ -1,8 +1,90 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-13T16:22:43.577Z",
- "totalGuides": 648,
+ "updatedAt": "2026-10-13T16:22:43.819Z",
+ "totalGuides": 649,
  "items": [
+  {
+   "fullName": "ArchDiverYank/lrt",
+   "owner": "ArchDiverYank",
+   "name": "lrt",
+   "url": "https://github.com/ArchDiverYank/lrt",
+   "avatar": "https://avatars.githubusercontent.com/u/331668653?v=4",
+   "description": "🔥 Polymarket-Crypto-Trading-Arbitrage-Bot 🔥",
+   "language": "HTML",
+   "topics": [
+    "arbitrage-bot-2026",
+    "polymarket-crypto-trading-arbitrage-bot",
+    "polymarket-strategies-2026",
+    "polymarket-tutorial",
+    "trading-bot-guide"
+   ],
+   "license": null,
+   "stars": 99,
+   "forks": 117,
+   "createdAt": "2026-10-13T00:29:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-13T16:22:43.818Z",
+   "stack": {
+    "kind": "static",
+    "label": "Static website (HTML/CSS/JS)",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "live",
+   "launch": [
+    {
+     "id": "live",
+     "label": "Open it live",
+     "url": "https://raw.githack.com/ArchDiverYank/lrt/main/index.html",
+     "needs": "nothing",
+     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
+    },
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/ArchDiverYank/lrt",
+     "needs": "nothing",
+     "note": "A full editor and preview in your tab."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/ArchDiverYank/lrt",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ArchDiverYank/lrt?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ArchDiverYank/lrt",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ArchDiverYank/lrt/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "npx serve .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ArchDiverYank/lrt.git\ncd lrt\nnpx serve .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ArchDiverYank/lrt\nWhat it says it does: \"🔥 Polymarket-Crypto-Trading-Arbitrage-Bot 🔥\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-13T16:22:43.818Z"
+  },
   {
    "fullName": "jumpersun/meal-puzzle",
    "owner": "jumpersun",
@@ -31397,83 +31479,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Autumn1337/better-statusline\nWhat it says it does: \"A status line for Claude Code: the session's figures as dot-matrix rings, and the music you are playing beside them\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-05T14:59:15.503Z"
-  },
-  {
-   "fullName": "empero-org/brewery-ai",
-   "owner": "empero-org",
-   "name": "brewery-ai",
-   "url": "https://github.com/empero-org/brewery-ai",
-   "avatar": "https://avatars.githubusercontent.com/u/263236262?v=4",
-   "description": "An intuitive console agent to fine-tune AI models with little to no experience required!",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 151,
-   "forks": 18,
-   "createdAt": "2026-10-04T22:16:28Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-05T14:59:15.330Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "colab-new",
-   "launch": [
-    {
-     "id": "colab-new",
-     "label": "Google Colab",
-     "url": "https://colab.research.google.com/",
-     "needs": "free Google account",
-     "note": "New notebook, then run: !git clone https://github.com/empero-org/brewery-ai"
-    },
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/empero-org/brewery-ai/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/empero-org/brewery-ai?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/empero-org/brewery-ai",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/empero-org/brewery-ai/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [
-    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one."
-   ],
-   "local": "git clone --depth 1 https://github.com/empero-org/brewery-ai.git\ncd brewery-ai\npip install -e .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/empero-org/brewery-ai\nWhat it says it does: \"An intuitive console agent to fine-tune AI models with little to no experience required!\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-05T14:59:15.330Z"
   }
  ],
  "levels": {
-  "instant": 39,
+  "instant": 40,
   "account": 216,
-  "heavy": 72,
+  "heavy": 71,
   "read": 173
  }
 }

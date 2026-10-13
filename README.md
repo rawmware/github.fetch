@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_667 guides written so far · last update 2026-10-13 21:29 UTC_
+_668 guides written so far · last update 2026-10-13 21:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [michaelshimeles/glide](https://github.com/michaelshimeles/glide) | Rust project | Runs in the browser with a free account | [guide](guides/michaelshimeles/glide.md) |
 | [gasb07/ps4mount](https://github.com/gasb07/ps4mount) | C project | Needs a real machine (or a GPU) to run | [guide](guides/gasb07/ps4mount.md) |
 | [sepehr071/awesome-iran-mcp](https://github.com/sepehr071/awesome-iran-mcp) | Python project | Runs in the browser with a free account | [guide](guides/sepehr071/awesome-iran-mcp.md) |
 | [Fengzdadi/memory-bench-registry](https://github.com/Fengzdadi/memory-bench-registry) | Python project | Runs in the browser with a free account | [guide](guides/fengzdadi/memory-bench-registry.md) |
@@ -38,7 +39,6 @@ _667 guides written so far · last update 2026-10-13 21:29 UTC_
 | [egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai) | Python project | Runs in the browser with a free account | [guide](guides/egotoadcitadel/palette-from-image-ai.md) |
 | [pLabs5/pLinux5-NG](https://github.com/pLabs5/pLinux5-NG) | C project | Needs a real machine (or a GPU) to run | [guide](guides/plabs5/plinux5-ng.md) |
 | [jhaiian/ClintGecko](https://github.com/jhaiian/ClintGecko) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jhaiian/clintgecko.md) |
-| [mikuta0407/win4wine](https://github.com/mikuta0407/win4wine) | Python project | Runs in the browser with a free account | [guide](guides/mikuta0407/win4wine.md) |
 <!-- latest:end -->
 
 ## How it works

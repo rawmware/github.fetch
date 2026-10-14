@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_689 guides written so far · last update 2026-10-14 05:19 UTC_
+_690 guides written so far · last update 2026-10-14 05:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lewispour/pulse-proxy-checker](https://github.com/lewispour/pulse-proxy-checker) | JavaScript project | Runs in the browser with a free account | [guide](guides/lewispour/pulse-proxy-checker.md) |
 | [RewindEagleEradicate/tg-ws-proxy](https://github.com/RewindEagleEradicate/tg-ws-proxy) | Batchfile project | Runs in the browser with a free account | [guide](guides/rewindeagleeradicate/tg-ws-proxy.md) |
 | [vakandi/opencode-rust](https://github.com/vakandi/opencode-rust) | Rust project | Runs in the browser with a free account | [guide](guides/vakandi/opencode-rust.md) |
 | [NavigatorPresent/discord-fix](https://github.com/NavigatorPresent/discord-fix) | Batchfile project | Runs in the browser with a free account | [guide](guides/navigatorpresent/discord-fix.md) |
@@ -38,7 +39,6 @@ _689 guides written so far · last update 2026-10-14 05:19 UTC_
 | [Dmaryqsotterman/VyManager](https://github.com/Dmaryqsotterman/VyManager) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/dmaryqsotterman/vymanager.md) |
 | [semrincaballero/Polymarket-Prediction-Bot](https://github.com/semrincaballero/Polymarket-Prediction-Bot) | Python project | Runs in the browser with a free account | [guide](guides/semrincaballero/polymarket-prediction-bot.md) |
 | [wavepostmansteal/discord-zapret](https://github.com/wavepostmansteal/discord-zapret) | Batchfile project | Runs in the browser with a free account | [guide](guides/wavepostmansteal/discord-zapret.md) |
-| [ikooc/baidujiexi_app](https://github.com/ikooc/baidujiexi_app) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/ikooc/baidujiexi_app.md) |
 <!-- latest:end -->
 
 ## How it works

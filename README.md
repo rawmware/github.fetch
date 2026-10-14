@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_677 guides written so far · last update 2026-10-14 00:33 UTC_
+_678 guides written so far · last update 2026-10-14 00:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ikooc/baidujiexi_app](https://github.com/ikooc/baidujiexi_app) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/ikooc/baidujiexi_app.md) |
 | [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sebaskitten/grand-v.md) |
 | [ivandilelio/kybes](https://github.com/ivandilelio/kybes) | Python project | Runs in the browser with a free account | [guide](guides/ivandilelio/kybes.md) |
 | [AjncSystem/ShadowOfTheColossus-PC](https://github.com/AjncSystem/ShadowOfTheColossus-PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/ajncsystem/shadowofthecolossus-pc.md) |
@@ -38,7 +39,6 @@ _677 guides written so far · last update 2026-10-14 00:33 UTC_
 | [bbylw/rea-cn](https://github.com/bbylw/rea-cn) | Astro app | Runs in a browser tab, no account needed | [guide](guides/bbylw/rea-cn.md) |
 | [michaelshimeles/glide](https://github.com/michaelshimeles/glide) | Rust project | Runs in the browser with a free account | [guide](guides/michaelshimeles/glide.md) |
 | [gasb07/ps4mount](https://github.com/gasb07/ps4mount) | C project | Needs a real machine (or a GPU) to run | [guide](guides/gasb07/ps4mount.md) |
-| [sepehr071/awesome-iran-mcp](https://github.com/sepehr071/awesome-iran-mcp) | Python project | Runs in the browser with a free account | [guide](guides/sepehr071/awesome-iran-mcp.md) |
 <!-- latest:end -->
 
 ## How it works

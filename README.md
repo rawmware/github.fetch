@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_704 guides written so far · last update 2026-10-14 10:32 UTC_
+_705 guides written so far · last update 2026-10-14 10:32 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [S12cybersecurity/LogonStealer](https://github.com/S12cybersecurity/LogonStealer) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/s12cybersecurity/logonstealer.md) |
 | [cdcailf/cjkfold](https://github.com/cdcailf/cjkfold) | Python project | Runs in the browser with a free account | [guide](guides/cdcailf/cjkfold.md) |
 | [mosheng1/QcClip](https://github.com/mosheng1/QcClip) | Rust project | Runs in the browser with a free account | [guide](guides/mosheng1/qcclip.md) |
 | [Yukinodot/XiYuan-QRNG](https://github.com/Yukinodot/XiYuan-QRNG) | Python project | Runs in the browser with a free account | [guide](guides/yukinodot/xiyuan-qrng.md) |
@@ -38,7 +39,6 @@ _704 guides written so far · last update 2026-10-14 10:32 UTC_
 | [Zfinix/eleven](https://github.com/Zfinix/eleven) | Rust project | Runs in the browser with a free account | [guide](guides/zfinix/eleven.md) |
 | [josefchen/muster](https://github.com/josefchen/muster) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/josefchen/muster.md) |
 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | JavaScript project | Runs in the browser with a free account | [guide](guides/outcrawlai/scout.md) |
-| [solana-classic/solana-classic](https://github.com/solana-classic/solana-classic) | JavaScript project | Runs in the browser with a free account | [guide](guides/solana-classic/solana-classic.md) |
 <!-- latest:end -->
 
 ## How it works

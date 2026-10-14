@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_732 guides written so far · last update 2026-10-14 22:41 UTC_
+_733 guides written so far · last update 2026-10-14 22:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [trhhubsd/ARTEXX](https://github.com/trhhubsd/ARTEXX) | Go project | Runs in the browser with a free account | [guide](guides/trhhubsd/artexx.md) |
 | [deciocrytek/Skipii](https://github.com/deciocrytek/Skipii) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/deciocrytek/skipii.md) |
 | [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) | Python project | Runs in the browser with a free account | [guide](guides/entelligence-ai/agentplay.md) |
 | [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep) | Python project | Runs in the browser with a free account | [guide](guides/nvidia-omniverse/usd-brep.md) |
@@ -38,7 +39,6 @@ _732 guides written so far · last update 2026-10-14 22:41 UTC_
 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | Rust project | Runs in the browser with a free account | [guide](guides/graphicle-ai/graphicle.md) |
 | [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/myluxy/overdrive.md) |
 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | React app | Runs in the browser with a free account | [guide](guides/caho1/open-claude-ui.md) |
-| [BaruqueRodrigues/llm-legislativo](https://github.com/BaruqueRodrigues/llm-legislativo) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/baruquerodrigues/llm-legislativo.md) |
 <!-- latest:end -->
 
 ## How it works

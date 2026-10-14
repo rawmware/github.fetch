@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_715 guides written so far · last update 2026-10-14 15:26 UTC_
+_716 guides written so far · last update 2026-10-14 15:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/liqiiiii/jeva.md) |
 | [composo-ai/DishwasherBench](https://github.com/composo-ai/DishwasherBench) | JavaScript project | Runs in the browser with a free account | [guide](guides/composo-ai/dishwasherbench.md) |
 | [akitaonrails/ai-book-2026](https://github.com/akitaonrails/ai-book-2026) | Ruby project | Runs in the browser with a free account | [guide](guides/akitaonrails/ai-book-2026.md) |
 | [FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) | JavaScript project | Runs in the browser with a free account | [guide](guides/feedhive/ai-slop-detector.md) |
@@ -38,7 +39,6 @@ _715 guides written so far · last update 2026-10-14 15:26 UTC_
 | [StoopwenpueNq/jackie-fmri-sim](https://github.com/StoopwenpueNq/jackie-fmri-sim) | Python project | Runs in the browser with a free account | [guide](guides/stoopwenpuenq/jackie-fmri-sim.md) |
 | [GaelQuinta/minecraft-metal-shaders](https://github.com/GaelQuinta/minecraft-metal-shaders) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gaelquinta/minecraft-metal-shaders.md) |
 | [S12cybersecurity/LogonStealer](https://github.com/S12cybersecurity/LogonStealer) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/s12cybersecurity/logonstealer.md) |
-| [cdcailf/cjkfold](https://github.com/cdcailf/cjkfold) | Python project | Runs in the browser with a free account | [guide](guides/cdcailf/cjkfold.md) |
 <!-- latest:end -->
 
 ## How it works

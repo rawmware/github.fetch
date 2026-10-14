@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_710 guides written so far · last update 2026-10-14 15:26 UTC_
+_711 guides written so far · last update 2026-10-14 15:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Classmg22/BBSC](https://github.com/Classmg22/BBSC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/classmg22/bbsc.md) |
 | [PiggyBackBayonet/MiAuto](https://github.com/PiggyBackBayonet/MiAuto) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/piggybackbayonet/miauto.md) |
 | [sola1039/HAST-SEC](https://github.com/sola1039/HAST-SEC) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/sola1039/hast-sec.md) |
 | [i12bp8/decomp.wtf](https://github.com/i12bp8/decomp.wtf) | Python project | Runs in the browser with a free account | [guide](guides/i12bp8/decomp.wtf.md) |
@@ -38,7 +39,6 @@ _710 guides written so far · last update 2026-10-14 15:26 UTC_
 | [Yukinodot/XiYuan-QRNG](https://github.com/Yukinodot/XiYuan-QRNG) | Python project | Runs in the browser with a free account | [guide](guides/yukinodot/xiyuan-qrng.md) |
 | [deeeeone/gitdrive](https://github.com/deeeeone/gitdrive) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/deeeeone/gitdrive.md) |
 | [soniciso1/ps5-hv-writeups](https://github.com/soniciso1/ps5-hv-writeups) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soniciso1/ps5-hv-writeups.md) |
-| [gabrielgreco1/LGwebOS-menubar](https://github.com/gabrielgreco1/LGwebOS-menubar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/gabrielgreco1/lgwebos-menubar.md) |
 <!-- latest:end -->
 
 ## How it works

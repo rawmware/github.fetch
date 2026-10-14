@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_724 guides written so far · last update 2026-10-14 19:38 UTC_
+_725 guides written so far · last update 2026-10-14 19:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [assafkip/claudemy](https://github.com/assafkip/claudemy) | Python project | Runs in the browser with a free account | [guide](guides/assafkip/claudemy.md) |
 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | Rust project | Runs in the browser with a free account | [guide](guides/graphicle-ai/graphicle.md) |
 | [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/myluxy/overdrive.md) |
 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | React app | Runs in the browser with a free account | [guide](guides/caho1/open-claude-ui.md) |
@@ -38,7 +39,6 @@ _724 guides written so far · last update 2026-10-14 19:38 UTC_
 | [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/liqiiiii/jeva.md) |
 | [composo-ai/DishwasherBench](https://github.com/composo-ai/DishwasherBench) | JavaScript project | Runs in the browser with a free account | [guide](guides/composo-ai/dishwasherbench.md) |
 | [akitaonrails/ai-book-2026](https://github.com/akitaonrails/ai-book-2026) | Ruby project | Runs in the browser with a free account | [guide](guides/akitaonrails/ai-book-2026.md) |
-| [FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) | JavaScript project | Runs in the browser with a free account | [guide](guides/feedhive/ai-slop-detector.md) |
 <!-- latest:end -->
 
 ## How it works

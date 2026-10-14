@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T19:38:51.846Z",
- "totalGuides": 724,
+ "updatedAt": "2026-10-14T19:38:52.017Z",
+ "totalGuides": 725,
  "items": [
+  {
+   "fullName": "assafkip/claudemy",
+   "owner": "assafkip",
+   "name": "claudemy",
+   "url": "https://github.com/assafkip/claudemy",
+   "avatar": "https://avatars.githubusercontent.com/u/1494043?v=4",
+   "description": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
+   "language": "Python",
+   "topics": [
+    "ai-course-generator",
+    "ai-education",
+    "anthropic",
+    "audio-lessons",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-skill"
+   ],
+   "license": "MIT",
+   "stars": 72,
+   "forks": 10,
+   "createdAt": "2026-10-14T01:49:12Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-14T19:38:52.016Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/assafkip/claudemy/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/assafkip/claudemy?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/assafkip/claudemy",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/assafkip/claudemy/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/assafkip/claudemy.git\ncd claudemy",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/assafkip/claudemy\nWhat it says it does: \"Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T19:38:52.016Z"
+  },
   {
    "fullName": "Graphicle-AI/graphicle",
    "owner": "Graphicle-AI",
@@ -31778,68 +31849,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/deity6/softlab\nWhat it says it does: \"SOFT LAB — an index of digital matter. A personal collection of web interaction effects, rendered live in WebGL / canvas / CSS.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T16:00:09.332Z"
-  },
-  {
-   "fullName": "TekRantGaming/king-kong-recompiled",
-   "owner": "TekRantGaming",
-   "name": "king-kong-recompiled",
-   "url": "https://github.com/TekRantGaming/king-kong-recompiled",
-   "avatar": "https://avatars.githubusercontent.com/u/52795608?v=4",
-   "description": "Native PC port of Peter Jackson's King Kong (Xbox 360) via static recompilation",
-   "language": "C++",
-   "topics": [],
-   "license": null,
-   "stars": 60,
-   "forks": 4,
-   "createdAt": "2026-10-05T00:43:46Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T16:00:08.915Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/TekRantGaming/king-kong-recompiled?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/TekRantGaming/king-kong-recompiled",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/TekRantGaming/king-kong-recompiled/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/TekRantGaming/king-kong-recompiled.git\ncd king-kong-recompiled",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/TekRantGaming/king-kong-recompiled\nWhat it says it does: \"Native PC port of Peter Jackson's King Kong (Xbox 360) via static recompilation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T16:00:08.915Z"
   }
  ],
  "levels": {
-  "account": 242,
-  "heavy": 86,
+  "account": 243,
+  "heavy": 85,
   "instant": 41,
   "read": 131
  }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_682 guides written so far · last update 2026-10-14 05:19 UTC_
+_683 guides written so far · last update 2026-10-14 05:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Seokwoooo/lucian-uxui-prompt](https://github.com/Seokwoooo/lucian-uxui-prompt) | HTML project | Runs in the browser with a free account | [guide](guides/seokwoooo/lucian-uxui-prompt.md) |
 | [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) | Rust project | Runs in the browser with a free account | [guide](guides/outthislife/azeroth-survivors-re.md) |
 | [Dmaryqsotterman/VyManager](https://github.com/Dmaryqsotterman/VyManager) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/dmaryqsotterman/vymanager.md) |
 | [semrincaballero/Polymarket-Prediction-Bot](https://github.com/semrincaballero/Polymarket-Prediction-Bot) | Python project | Runs in the browser with a free account | [guide](guides/semrincaballero/polymarket-prediction-bot.md) |
@@ -38,7 +39,6 @@ _682 guides written so far · last update 2026-10-14 05:19 UTC_
 | [Denkishi/ssbu-recomp](https://github.com/Denkishi/ssbu-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/denkishi/ssbu-recomp.md) |
 | [rayytor/desktop_gifs](https://github.com/rayytor/desktop_gifs) | JavaScript project | Runs in the browser with a free account | [guide](guides/rayytor/desktop_gifs.md) |
 | [theghostonline/PS5-LZ4-Compression](https://github.com/theghostonline/PS5-LZ4-Compression) | C project | Needs a real machine (or a GPU) to run | [guide](guides/theghostonline/ps5-lz4-compression.md) |
-| [recepyagmur/EnglishPractice](https://github.com/recepyagmur/EnglishPractice) | Python project | Runs in the browser with a free account | [guide](guides/recepyagmur/englishpractice.md) |
 <!-- latest:end -->
 
 ## How it works

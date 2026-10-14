@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_693 guides written so far · last update 2026-10-14 10:32 UTC_
+_694 guides written so far · last update 2026-10-14 10:32 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [outcrawlai/scout](https://github.com/outcrawlai/scout) | JavaScript project | Runs in the browser with a free account | [guide](guides/outcrawlai/scout.md) |
 | [solana-classic/solana-classic](https://github.com/solana-classic/solana-classic) | JavaScript project | Runs in the browser with a free account | [guide](guides/solana-classic/solana-classic.md) |
 | [VAST-AI-Research/EdenLive](https://github.com/VAST-AI-Research/EdenLive) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vast-ai-research/edenlive.md) |
 | [mylc2010/sci-translation-skill](https://github.com/mylc2010/sci-translation-skill) | Python project | Runs in the browser with a free account | [guide](guides/mylc2010/sci-translation-skill.md) |
@@ -38,7 +39,6 @@ _693 guides written so far · last update 2026-10-14 10:32 UTC_
 | [StorageSeeker/fix-discord](https://github.com/StorageSeeker/fix-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/storageseeker/fix-discord.md) |
 | [datalab-to/indra](https://github.com/datalab-to/indra) | Python project | Runs in the browser with a free account | [guide](guides/datalab-to/indra.md) |
 | [Seokwoooo/lucian-uxui-prompt](https://github.com/Seokwoooo/lucian-uxui-prompt) | HTML project | Runs in the browser with a free account | [guide](guides/seokwoooo/lucian-uxui-prompt.md) |
-| [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) | Rust project | Runs in the browser with a free account | [guide](guides/outthislife/azeroth-survivors-re.md) |
 <!-- latest:end -->
 
 ## How it works

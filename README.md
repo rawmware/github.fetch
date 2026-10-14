@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_686 guides written so far · last update 2026-10-14 05:19 UTC_
+_687 guides written so far · last update 2026-10-14 05:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NavigatorPresent/discord-fix](https://github.com/NavigatorPresent/discord-fix) | Batchfile project | Runs in the browser with a free account | [guide](guides/navigatorpresent/discord-fix.md) |
 | [Handcuffgladominate/zapret-discord](https://github.com/Handcuffgladominate/zapret-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/handcuffgladominate/zapret-discord.md) |
 | [StorageSeeker/fix-discord](https://github.com/StorageSeeker/fix-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/storageseeker/fix-discord.md) |
 | [datalab-to/indra](https://github.com/datalab-to/indra) | Python project | Runs in the browser with a free account | [guide](guides/datalab-to/indra.md) |
@@ -38,7 +39,6 @@ _686 guides written so far · last update 2026-10-14 05:19 UTC_
 | [ikooc/baidujiexi_app](https://github.com/ikooc/baidujiexi_app) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/ikooc/baidujiexi_app.md) |
 | [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sebaskitten/grand-v.md) |
 | [ivandilelio/kybes](https://github.com/ivandilelio/kybes) | Python project | Runs in the browser with a free account | [guide](guides/ivandilelio/kybes.md) |
-| [AjncSystem/ShadowOfTheColossus-PC](https://github.com/AjncSystem/ShadowOfTheColossus-PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/ajncsystem/shadowofthecolossus-pc.md) |
 <!-- latest:end -->
 
 ## How it works

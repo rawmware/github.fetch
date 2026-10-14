@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T15:26:16.777Z",
- "totalGuides": 711,
+ "updatedAt": "2026-10-14T15:26:16.969Z",
+ "totalGuides": 712,
  "items": [
+  {
+   "fullName": "0xProbabillity/house-control",
+   "owner": "0xProbabillity",
+   "name": "house-control",
+   "url": "https://github.com/0xProbabillity/house-control",
+   "avatar": "https://avatars.githubusercontent.com/u/342495785?v=4",
+   "description": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+   "language": "Swift",
+   "topics": [
+    "home-assistant",
+    "home-automation",
+    "homekit",
+    "ios",
+    "macos",
+    "menu-bar-app",
+    "philips-hue",
+    "smart-home"
+   ],
+   "license": "MIT",
+   "stars": 70,
+   "forks": 7,
+   "createdAt": "2026-10-14T12:32:21Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-14T15:26:16.968Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/0xProbabillity/house-control?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/0xProbabillity/house-control",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/0xProbabillity/house-control/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/0xProbabillity/house-control.git\ncd house-control",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/0xProbabillity/house-control\nWhat it says it does: \"Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T15:26:16.968Z"
+  },
   {
    "fullName": "Classmg22/BBSC",
    "owner": "Classmg22",
@@ -31740,69 +31806,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ForkOperativeNeedle/XYplorer\nWhat it says it does: \"Xyplorer optimizes your professional workflow by providing a comprehensive desktop software utility configuration that streamlines processes without using...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T09:04:37.399Z"
-  },
-  {
-   "fullName": "wildmillerspace/SonyVegas",
-   "owner": "wildmillerspace",
-   "name": "SonyVegas",
-   "url": "https://github.com/wildmillerspace/SonyVegas",
-   "avatar": "https://avatars.githubusercontent.com/u/296665769?v=4",
-   "description": "Revolutionize your video editing workflow with 'Sonyvegas', a cutting-edge plugin solution designed for seamless integration of advanced VFX, screen...",
-   "language": null,
-   "topics": [
-    "activation-tools",
-    "magix-vegas-pro-project-files",
-    "media-rendering-windows-editor",
-    "sony-vegas",
-    "timelineediting",
-    "twixtor-pro-vegas-pro",
-    "vegas-21-free",
-    "vegas-pro-editing-techniques"
-   ],
-   "license": null,
-   "stars": 107,
-   "forks": 0,
-   "createdAt": "2026-10-05T10:30:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T09:04:37.208Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/wildmillerspace/SonyVegas",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/wildmillerspace/SonyVegas/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/wildmillerspace/SonyVegas\nWhat it says it does: \"Revolutionize your video editing workflow with 'Sonyvegas', a cutting-edge plugin solution designed for seamless integration of advanced VFX, screen...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T09:04:37.208Z"
   }
  ],
  "levels": {
-  "heavy": 82,
+  "heavy": 83,
   "instant": 42,
   "account": 239,
-  "read": 137
+  "read": 136
  }
 }

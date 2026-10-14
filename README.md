@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_711 guides written so far · last update 2026-10-14 15:26 UTC_
+_712 guides written so far · last update 2026-10-14 15:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/0xprobabillity/house-control.md) |
 | [Classmg22/BBSC](https://github.com/Classmg22/BBSC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/classmg22/bbsc.md) |
 | [PiggyBackBayonet/MiAuto](https://github.com/PiggyBackBayonet/MiAuto) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/piggybackbayonet/miauto.md) |
 | [sola1039/HAST-SEC](https://github.com/sola1039/HAST-SEC) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/sola1039/hast-sec.md) |
@@ -38,7 +39,6 @@ _711 guides written so far · last update 2026-10-14 15:26 UTC_
 | [mosheng1/QcClip](https://github.com/mosheng1/QcClip) | Rust project | Runs in the browser with a free account | [guide](guides/mosheng1/qcclip.md) |
 | [Yukinodot/XiYuan-QRNG](https://github.com/Yukinodot/XiYuan-QRNG) | Python project | Runs in the browser with a free account | [guide](guides/yukinodot/xiyuan-qrng.md) |
 | [deeeeone/gitdrive](https://github.com/deeeeone/gitdrive) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/deeeeone/gitdrive.md) |
-| [soniciso1/ps5-hv-writeups](https://github.com/soniciso1/ps5-hv-writeups) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soniciso1/ps5-hv-writeups.md) |
 <!-- latest:end -->
 
 ## How it works

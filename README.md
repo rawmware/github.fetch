@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_690 guides written so far · last update 2026-10-14 05:19 UTC_
+_691 guides written so far · last update 2026-10-14 05:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mylc2010/sci-translation-skill](https://github.com/mylc2010/sci-translation-skill) | Python project | Runs in the browser with a free account | [guide](guides/mylc2010/sci-translation-skill.md) |
 | [lewispour/pulse-proxy-checker](https://github.com/lewispour/pulse-proxy-checker) | JavaScript project | Runs in the browser with a free account | [guide](guides/lewispour/pulse-proxy-checker.md) |
 | [RewindEagleEradicate/tg-ws-proxy](https://github.com/RewindEagleEradicate/tg-ws-proxy) | Batchfile project | Runs in the browser with a free account | [guide](guides/rewindeagleeradicate/tg-ws-proxy.md) |
 | [vakandi/opencode-rust](https://github.com/vakandi/opencode-rust) | Rust project | Runs in the browser with a free account | [guide](guides/vakandi/opencode-rust.md) |
@@ -38,7 +39,6 @@ _690 guides written so far · last update 2026-10-14 05:19 UTC_
 | [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) | Rust project | Runs in the browser with a free account | [guide](guides/outthislife/azeroth-survivors-re.md) |
 | [Dmaryqsotterman/VyManager](https://github.com/Dmaryqsotterman/VyManager) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/dmaryqsotterman/vymanager.md) |
 | [semrincaballero/Polymarket-Prediction-Bot](https://github.com/semrincaballero/Polymarket-Prediction-Bot) | Python project | Runs in the browser with a free account | [guide](guides/semrincaballero/polymarket-prediction-bot.md) |
-| [wavepostmansteal/discord-zapret](https://github.com/wavepostmansteal/discord-zapret) | Batchfile project | Runs in the browser with a free account | [guide](guides/wavepostmansteal/discord-zapret.md) |
 <!-- latest:end -->
 
 ## How it works

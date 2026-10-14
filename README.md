@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_728 guides written so far · last update 2026-10-14 19:38 UTC_
+_729 guides written so far · last update 2026-10-14 19:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | JavaScript project | Runs in the browser with a free account | [guide](guides/fei2411/deepseek-bot.md) |
 | [ziplab/ATAS](https://github.com/ziplab/ATAS) | Python project | Runs in the browser with a free account | [guide](guides/ziplab/atas.md) |
 | [0xS4N4TG/papercut-explainer](https://github.com/0xS4N4TG/papercut-explainer) | TypeScript project | Runs in the browser with a free account | [guide](guides/0xs4n4tg/papercut-explainer.md) |
 | [caveman-ai/trim-1](https://github.com/caveman-ai/trim-1) | Go project | Runs in the browser with a free account | [guide](guides/caveman-ai/trim-1.md) |
@@ -38,7 +39,6 @@ _728 guides written so far · last update 2026-10-14 19:38 UTC_
 | [GetLostIn/CTR-NitroFueled-PC](https://github.com/GetLostIn/CTR-NitroFueled-PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/getlostin/ctr-nitrofueled-pc.md) |
 | [flybrainlabs/node](https://github.com/flybrainlabs/node) | Rust project | Runs in the browser with a free account | [guide](guides/flybrainlabs/node.md) |
 | [eelbaz/mLattice](https://github.com/eelbaz/mLattice) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/eelbaz/mlattice.md) |
-| [pycodebr/heditor](https://github.com/pycodebr/heditor) | Python project | Runs in the browser with a free account | [guide](guides/pycodebr/heditor.md) |
 <!-- latest:end -->
 
 ## How it works

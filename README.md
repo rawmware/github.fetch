@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_699 guides written so far · last update 2026-10-14 10:32 UTC_
+_700 guides written so far · last update 2026-10-14 10:32 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [soniciso1/ps5-hv-writeups](https://github.com/soniciso1/ps5-hv-writeups) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soniciso1/ps5-hv-writeups.md) |
 | [gabrielgreco1/LGwebOS-menubar](https://github.com/gabrielgreco1/LGwebOS-menubar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/gabrielgreco1/lgwebos-menubar.md) |
 | [derekross/omarchy-mobile](https://github.com/derekross/omarchy-mobile) | QML project | Runs in the browser with a free account | [guide](guides/derekross/omarchy-mobile.md) |
 | [NB-Corp/gpt-with-taste](https://github.com/NB-Corp/gpt-with-taste) | JavaScript project | Runs in the browser with a free account | [guide](guides/nb-corp/gpt-with-taste.md) |
@@ -38,7 +39,6 @@ _699 guides written so far · last update 2026-10-14 10:32 UTC_
 | [mylc2010/sci-translation-skill](https://github.com/mylc2010/sci-translation-skill) | Python project | Runs in the browser with a free account | [guide](guides/mylc2010/sci-translation-skill.md) |
 | [lewispour/pulse-proxy-checker](https://github.com/lewispour/pulse-proxy-checker) | JavaScript project | Runs in the browser with a free account | [guide](guides/lewispour/pulse-proxy-checker.md) |
 | [RewindEagleEradicate/tg-ws-proxy](https://github.com/RewindEagleEradicate/tg-ws-proxy) | Batchfile project | Runs in the browser with a free account | [guide](guides/rewindeagleeradicate/tg-ws-proxy.md) |
-| [vakandi/opencode-rust](https://github.com/vakandi/opencode-rust) | Rust project | Runs in the browser with a free account | [guide](guides/vakandi/opencode-rust.md) |
 <!-- latest:end -->
 
 ## How it works

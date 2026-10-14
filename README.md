@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_717 guides written so far · last update 2026-10-14 15:26 UTC_
+_718 guides written so far · last update 2026-10-14 15:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [eelbaz/mLattice](https://github.com/eelbaz/mLattice) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/eelbaz/mlattice.md) |
 | [pycodebr/heditor](https://github.com/pycodebr/heditor) | Python project | Runs in the browser with a free account | [guide](guides/pycodebr/heditor.md) |
 | [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/liqiiiii/jeva.md) |
 | [composo-ai/DishwasherBench](https://github.com/composo-ai/DishwasherBench) | JavaScript project | Runs in the browser with a free account | [guide](guides/composo-ai/dishwasherbench.md) |
@@ -38,7 +39,6 @@ _717 guides written so far · last update 2026-10-14 15:26 UTC_
 | [sola1039/HAST-SEC](https://github.com/sola1039/HAST-SEC) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/sola1039/hast-sec.md) |
 | [i12bp8/decomp.wtf](https://github.com/i12bp8/decomp.wtf) | Python project | Runs in the browser with a free account | [guide](guides/i12bp8/decomp.wtf.md) |
 | [StoopwenpueNq/jackie-fmri-sim](https://github.com/StoopwenpueNq/jackie-fmri-sim) | Python project | Runs in the browser with a free account | [guide](guides/stoopwenpuenq/jackie-fmri-sim.md) |
-| [GaelQuinta/minecraft-metal-shaders](https://github.com/GaelQuinta/minecraft-metal-shaders) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gaelquinta/minecraft-metal-shaders.md) |
 <!-- latest:end -->
 
 ## How it works

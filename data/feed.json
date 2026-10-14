@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T15:26:16.391Z",
- "totalGuides": 709,
+ "updatedAt": "2026-10-14T15:26:16.561Z",
+ "totalGuides": 710,
  "items": [
+  {
+   "fullName": "PiggyBackBayonet/MiAuto",
+   "owner": "PiggyBackBayonet",
+   "name": "MiAuto",
+   "url": "https://github.com/PiggyBackBayonet/MiAuto",
+   "avatar": "https://avatars.githubusercontent.com/u/73511303?v=4",
+   "description": "小米 / OPPO / vivo 等 ICCOA CarLink 手机投上车机：无线连接，无需转接盒、无需 root。Car-side ICCOA CarLink receiver for Xiaomi CarWith, OPPO Car+ and vivo Jovi InCar.",
+   "language": "Kotlin",
+   "topics": [
+    "agpl",
+    "android",
+    "carlink",
+    "carwith",
+    "headunit",
+    "iccoa",
+    "oppo",
+    "screen-mirroring"
+   ],
+   "license": "AGPL-3.0",
+   "stars": 78,
+   "forks": 9,
+   "createdAt": "2026-10-13T07:54:44Z",
+   "branch": "main",
+   "homepage": "https://piggybackbayonet.github.io/MiAuto/",
+   "addedAt": "2026-10-14T15:26:16.560Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/PiggyBackBayonet/MiAuto?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/PiggyBackBayonet/MiAuto",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PiggyBackBayonet/MiAuto/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/PiggyBackBayonet/MiAuto.git\ncd MiAuto",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/PiggyBackBayonet/MiAuto\nWhat it says it does: \"小米 / OPPO / vivo 等 ICCOA CarLink 手机投上车机：无线连接，无需转接盒、无需 root。Car-side ICCOA CarLink receiver for Xiaomi CarWith, OPPO Car+ and vivo Jovi InCar.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T15:26:16.560Z"
+  },
   {
    "fullName": "sola1039/HAST-SEC",
    "owner": "sola1039",
@@ -31722,71 +31788,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/MelodySwimmer/Ultra-Edit\nWhat it says it does: \"Ultra Edit is a professional desktop software utility that streamlines code editing and debugging processes by providing an efficient, error-free coding...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T09:04:36.974Z"
-  },
-  {
-   "fullName": "uzairansaruzi/p3-stack",
-   "owner": "uzairansaruzi",
-   "name": "p3-stack",
-   "url": "https://github.com/uzairansaruzi/p3-stack",
-   "avatar": "https://avatars.githubusercontent.com/u/179570281?v=4",
-   "description": "pstack reworked for T3 Code: delegated subagents, worktree threads, PR watching, scheduled runs.",
-   "language": "Shell",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "t3-code"
-   ],
-   "license": "MIT",
-   "stars": 111,
-   "forks": 5,
-   "createdAt": "2026-10-05T07:40:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T09:04:36.751Z",
-   "stack": {
-    "kind": "other",
-    "label": "Shell project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/uzairansaruzi/p3-stack?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/uzairansaruzi/p3-stack",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/uzairansaruzi/p3-stack/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/uzairansaruzi/p3-stack.git\ncd p3-stack",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/uzairansaruzi/p3-stack\nWhat it says it does: \"pstack reworked for T3 Code: delegated subagents, worktree threads, PR watching, scheduled runs.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T09:04:36.751Z"
   }
  ],
  "levels": {
+  "heavy": 81,
   "instant": 42,
-  "account": 240,
-  "heavy": 80,
+  "account": 239,
   "read": 138
  }
 }

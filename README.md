@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_725 guides written so far · last update 2026-10-14 19:38 UTC_
+_726 guides written so far · last update 2026-10-14 19:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [caveman-ai/trim-1](https://github.com/caveman-ai/trim-1) | Go project | Runs in the browser with a free account | [guide](guides/caveman-ai/trim-1.md) |
 | [assafkip/claudemy](https://github.com/assafkip/claudemy) | Python project | Runs in the browser with a free account | [guide](guides/assafkip/claudemy.md) |
 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | Rust project | Runs in the browser with a free account | [guide](guides/graphicle-ai/graphicle.md) |
 | [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/myluxy/overdrive.md) |
@@ -38,7 +39,6 @@ _725 guides written so far · last update 2026-10-14 19:38 UTC_
 | [pycodebr/heditor](https://github.com/pycodebr/heditor) | Python project | Runs in the browser with a free account | [guide](guides/pycodebr/heditor.md) |
 | [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/liqiiiii/jeva.md) |
 | [composo-ai/DishwasherBench](https://github.com/composo-ai/DishwasherBench) | JavaScript project | Runs in the browser with a free account | [guide](guides/composo-ai/dishwasherbench.md) |
-| [akitaonrails/ai-book-2026](https://github.com/akitaonrails/ai-book-2026) | Ruby project | Runs in the browser with a free account | [guide](guides/akitaonrails/ai-book-2026.md) |
 <!-- latest:end -->
 
 ## How it works

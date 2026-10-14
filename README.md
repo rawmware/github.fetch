@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_734 guides written so far · last update 2026-10-14 22:41 UTC_
+_735 guides written so far · last update 2026-10-14 22:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/ps2-web-recomp.md) |
 | [storytold/figcraft](https://github.com/storytold/figcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/figcraft.md) |
 | [trhhubsd/ARTEXX](https://github.com/trhhubsd/ARTEXX) | Go project | Runs in the browser with a free account | [guide](guides/trhhubsd/artexx.md) |
 | [deciocrytek/Skipii](https://github.com/deciocrytek/Skipii) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/deciocrytek/skipii.md) |
@@ -38,7 +39,6 @@ _734 guides written so far · last update 2026-10-14 22:41 UTC_
 | [caveman-ai/trim-1](https://github.com/caveman-ai/trim-1) | Go project | Runs in the browser with a free account | [guide](guides/caveman-ai/trim-1.md) |
 | [assafkip/claudemy](https://github.com/assafkip/claudemy) | Python project | Runs in the browser with a free account | [guide](guides/assafkip/claudemy.md) |
 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | Rust project | Runs in the browser with a free account | [guide](guides/graphicle-ai/graphicle.md) |
-| [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/myluxy/overdrive.md) |
 <!-- latest:end -->
 
 ## How it works

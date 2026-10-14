@@ -1,8 +1,67 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T22:41:35.770Z",
- "totalGuides": 733,
+ "updatedAt": "2026-10-14T22:41:35.955Z",
+ "totalGuides": 734,
  "items": [
+  {
+   "fullName": "storytold/figcraft",
+   "owner": "storytold",
+   "name": "figcraft",
+   "url": "https://github.com/storytold/figcraft",
+   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+   "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+   "language": "Rust",
+   "topics": [
+    "design",
+    "rust",
+    "tools"
+   ],
+   "license": "Apache-2.0",
+   "stars": 881,
+   "forks": 401,
+   "createdAt": "2026-10-09T16:02:13Z",
+   "branch": "main",
+   "homepage": "https://getartcraft.com/apps/figcraft",
+   "addedAt": "2026-10-14T22:41:35.954Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/storytold/figcraft?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/storytold/figcraft",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/storytold/figcraft/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/storytold/figcraft.git\ncd figcraft\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/storytold/figcraft\nWhat it says it does: \"FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T22:41:35.954Z"
+  },
   {
    "fullName": "trhhubsd/ARTEXX",
    "owner": "trhhubsd",
@@ -31792,61 +31851,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo\nWhat it says it does: \"Real-time browser demo for Talk Like You\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T16:00:13.173Z"
-  },
-  {
-   "fullName": "JohnnyVizz/claude-kit",
-   "owner": "JohnnyVizz",
-   "name": "claude-kit",
-   "url": "https://github.com/JohnnyVizz/claude-kit",
-   "avatar": "https://avatars.githubusercontent.com/u/82471643?v=4",
-   "description": "Public Claude Code skills and mods",
-   "language": "TypeScript",
-   "topics": [],
-   "license": "MIT",
-   "stars": 54,
-   "forks": 6,
-   "createdAt": "2026-10-04T12:13:50Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T16:00:12.762Z",
-   "stack": {
-    "kind": "other",
-    "label": "TypeScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/JohnnyVizz/claude-kit?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/JohnnyVizz/claude-kit",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/JohnnyVizz/claude-kit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/JohnnyVizz/claude-kit.git\ncd claude-kit",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/JohnnyVizz/claude-kit\nWhat it says it does: \"Public Claude Code skills and mods\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T16:00:12.762Z"
   }
  ],
  "levels": {

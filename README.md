@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_707 guides written so far · last update 2026-10-14 15:26 UTC_
+_708 guides written so far · last update 2026-10-14 15:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [i12bp8/decomp.wtf](https://github.com/i12bp8/decomp.wtf) | Python project | Runs in the browser with a free account | [guide](guides/i12bp8/decomp.wtf.md) |
 | [StoopwenpueNq/jackie-fmri-sim](https://github.com/StoopwenpueNq/jackie-fmri-sim) | Python project | Runs in the browser with a free account | [guide](guides/stoopwenpuenq/jackie-fmri-sim.md) |
 | [GaelQuinta/minecraft-metal-shaders](https://github.com/GaelQuinta/minecraft-metal-shaders) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gaelquinta/minecraft-metal-shaders.md) |
 | [S12cybersecurity/LogonStealer](https://github.com/S12cybersecurity/LogonStealer) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/s12cybersecurity/logonstealer.md) |
@@ -38,7 +39,6 @@ _707 guides written so far · last update 2026-10-14 15:26 UTC_
 | [gabrielgreco1/LGwebOS-menubar](https://github.com/gabrielgreco1/LGwebOS-menubar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/gabrielgreco1/lgwebos-menubar.md) |
 | [derekross/omarchy-mobile](https://github.com/derekross/omarchy-mobile) | QML project | Runs in the browser with a free account | [guide](guides/derekross/omarchy-mobile.md) |
 | [NB-Corp/gpt-with-taste](https://github.com/NB-Corp/gpt-with-taste) | JavaScript project | Runs in the browser with a free account | [guide](guides/nb-corp/gpt-with-taste.md) |
-| [Zfinix/eleven](https://github.com/Zfinix/eleven) | Rust project | Runs in the browser with a free account | [guide](guides/zfinix/eleven.md) |
 <!-- latest:end -->
 
 ## How it works

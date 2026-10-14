@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_698 guides written so far · last update 2026-10-14 10:32 UTC_
+_699 guides written so far · last update 2026-10-14 10:32 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [gabrielgreco1/LGwebOS-menubar](https://github.com/gabrielgreco1/LGwebOS-menubar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/gabrielgreco1/lgwebos-menubar.md) |
 | [derekross/omarchy-mobile](https://github.com/derekross/omarchy-mobile) | QML project | Runs in the browser with a free account | [guide](guides/derekross/omarchy-mobile.md) |
 | [NB-Corp/gpt-with-taste](https://github.com/NB-Corp/gpt-with-taste) | JavaScript project | Runs in the browser with a free account | [guide](guides/nb-corp/gpt-with-taste.md) |
 | [Zfinix/eleven](https://github.com/Zfinix/eleven) | Rust project | Runs in the browser with a free account | [guide](guides/zfinix/eleven.md) |
@@ -38,7 +39,6 @@ _698 guides written so far · last update 2026-10-14 10:32 UTC_
 | [lewispour/pulse-proxy-checker](https://github.com/lewispour/pulse-proxy-checker) | JavaScript project | Runs in the browser with a free account | [guide](guides/lewispour/pulse-proxy-checker.md) |
 | [RewindEagleEradicate/tg-ws-proxy](https://github.com/RewindEagleEradicate/tg-ws-proxy) | Batchfile project | Runs in the browser with a free account | [guide](guides/rewindeagleeradicate/tg-ws-proxy.md) |
 | [vakandi/opencode-rust](https://github.com/vakandi/opencode-rust) | Rust project | Runs in the browser with a free account | [guide](guides/vakandi/opencode-rust.md) |
-| [NavigatorPresent/discord-fix](https://github.com/NavigatorPresent/discord-fix) | Batchfile project | Runs in the browser with a free account | [guide](guides/navigatorpresent/discord-fix.md) |
 <!-- latest:end -->
 
 ## How it works

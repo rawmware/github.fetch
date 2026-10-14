@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_695 guides written so far · last update 2026-10-14 10:32 UTC_
+_696 guides written so far · last update 2026-10-14 10:32 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Zfinix/eleven](https://github.com/Zfinix/eleven) | Rust project | Runs in the browser with a free account | [guide](guides/zfinix/eleven.md) |
 | [josefchen/muster](https://github.com/josefchen/muster) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/josefchen/muster.md) |
 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | JavaScript project | Runs in the browser with a free account | [guide](guides/outcrawlai/scout.md) |
 | [solana-classic/solana-classic](https://github.com/solana-classic/solana-classic) | JavaScript project | Runs in the browser with a free account | [guide](guides/solana-classic/solana-classic.md) |
@@ -38,7 +39,6 @@ _695 guides written so far · last update 2026-10-14 10:32 UTC_
 | [NavigatorPresent/discord-fix](https://github.com/NavigatorPresent/discord-fix) | Batchfile project | Runs in the browser with a free account | [guide](guides/navigatorpresent/discord-fix.md) |
 | [Handcuffgladominate/zapret-discord](https://github.com/Handcuffgladominate/zapret-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/handcuffgladominate/zapret-discord.md) |
 | [StorageSeeker/fix-discord](https://github.com/StorageSeeker/fix-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/storageseeker/fix-discord.md) |
-| [datalab-to/indra](https://github.com/datalab-to/indra) | Python project | Runs in the browser with a free account | [guide](guides/datalab-to/indra.md) |
 <!-- latest:end -->
 
 ## How it works

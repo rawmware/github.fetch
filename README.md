@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_680 guides written so far · last update 2026-10-14 05:19 UTC_
+_681 guides written so far · last update 2026-10-14 05:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Dmaryqsotterman/VyManager](https://github.com/Dmaryqsotterman/VyManager) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/dmaryqsotterman/vymanager.md) |
 | [semrincaballero/Polymarket-Prediction-Bot](https://github.com/semrincaballero/Polymarket-Prediction-Bot) | Python project | Runs in the browser with a free account | [guide](guides/semrincaballero/polymarket-prediction-bot.md) |
 | [wavepostmansteal/discord-zapret](https://github.com/wavepostmansteal/discord-zapret) | Batchfile project | Runs in the browser with a free account | [guide](guides/wavepostmansteal/discord-zapret.md) |
 | [ikooc/baidujiexi_app](https://github.com/ikooc/baidujiexi_app) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/ikooc/baidujiexi_app.md) |
@@ -38,7 +39,6 @@ _680 guides written so far · last update 2026-10-14 05:19 UTC_
 | [theghostonline/PS5-LZ4-Compression](https://github.com/theghostonline/PS5-LZ4-Compression) | C project | Needs a real machine (or a GPU) to run | [guide](guides/theghostonline/ps5-lz4-compression.md) |
 | [recepyagmur/EnglishPractice](https://github.com/recepyagmur/EnglishPractice) | Python project | Runs in the browser with a free account | [guide](guides/recepyagmur/englishpractice.md) |
 | [savinglighting/dsh-sd-bridge-guard](https://github.com/savinglighting/dsh-sd-bridge-guard) | JavaScript project | Runs in the browser with a free account | [guide](guides/savinglighting/dsh-sd-bridge-guard.md) |
-| [bbylw/rea-cn](https://github.com/bbylw/rea-cn) | Astro app | Runs in a browser tab, no account needed | [guide](guides/bbylw/rea-cn.md) |
 <!-- latest:end -->
 
 ## How it works

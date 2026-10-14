@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_736 guides written so far · last update 2026-10-14 22:41 UTC_
+_737 guides written so far · last update 2026-10-14 22:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything) | Python project | Runs in the browser with a free account | [guide](guides/gen-verse/rsi-anything.md) |
 | [YeonwooSung/my-claude-code-mods](https://github.com/YeonwooSung/my-claude-code-mods) | JavaScript project | Runs in the browser with a free account | [guide](guides/yeonwoosung/my-claude-code-mods.md) |
 | [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/ps2-web-recomp.md) |
 | [storytold/figcraft](https://github.com/storytold/figcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/figcraft.md) |
@@ -38,7 +39,6 @@ _736 guides written so far · last update 2026-10-14 22:41 UTC_
 | [ziplab/ATAS](https://github.com/ziplab/ATAS) | Python project | Runs in the browser with a free account | [guide](guides/ziplab/atas.md) |
 | [0xS4N4TG/papercut-explainer](https://github.com/0xS4N4TG/papercut-explainer) | TypeScript project | Runs in the browser with a free account | [guide](guides/0xs4n4tg/papercut-explainer.md) |
 | [caveman-ai/trim-1](https://github.com/caveman-ai/trim-1) | Go project | Runs in the browser with a free account | [guide](guides/caveman-ai/trim-1.md) |
-| [assafkip/claudemy](https://github.com/assafkip/claudemy) | Python project | Runs in the browser with a free account | [guide](guides/assafkip/claudemy.md) |
 <!-- latest:end -->
 
 ## How it works

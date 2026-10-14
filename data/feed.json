@@ -1,8 +1,75 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T22:41:36.444Z",
- "totalGuides": 736,
+ "updatedAt": "2026-10-14T22:41:36.762Z",
+ "totalGuides": 737,
  "items": [
+  {
+   "fullName": "Gen-Verse/RSI-Anything",
+   "owner": "Gen-Verse",
+   "name": "RSI-Anything",
+   "url": "https://github.com/Gen-Verse/RSI-Anything",
+   "avatar": "https://avatars.githubusercontent.com/u/197493814?v=4",
+   "description": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+   "language": "HTML",
+   "topics": [
+    "jepa",
+    "llm-agents",
+    "recursive-self-improvement",
+    "world-models"
+   ],
+   "license": "Apache-2.0",
+   "stars": 710,
+   "forks": 62,
+   "createdAt": "2026-10-08T22:52:16Z",
+   "branch": "main",
+   "homepage": "https://arxiv.org/abs/2610.13912",
+   "addedAt": "2026-10-14T22:41:36.762Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Gen-Verse/RSI-Anything/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Gen-Verse/RSI-Anything?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Gen-Verse/RSI-Anything",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Gen-Verse/RSI-Anything/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Gen-Verse/RSI-Anything.git\ncd RSI-Anything\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Gen-Verse/RSI-Anything\nWhat it says it does: \"RSI-Anything: Unlocking Recursive Self-Improvement with World Models\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T22:41:36.762Z"
+  },
   {
    "fullName": "YeonwooSung/my-claude-code-mods",
    "owner": "YeonwooSung",
@@ -31766,79 +31833,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/longsurf-ai/openchart\nWhat it says it does: \"Trade with charts, alerts, scripts, and your AI agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T20:54:41.370Z"
-  },
-  {
-   "fullName": "VelaPayments/vela-payments",
-   "owner": "VelaPayments",
-   "name": "vela-payments",
-   "url": "https://github.com/VelaPayments/vela-payments",
-   "avatar": "https://avatars.githubusercontent.com/u/338302766?v=4",
-   "description": "Open-source mobile payment prototype on Stellar, featuring NFC payment requests, XLM and USDC wallets, and passkey access.",
-   "language": "TypeScript",
-   "topics": [],
-   "license": "MIT",
-   "stars": 131,
-   "forks": 130,
-   "createdAt": "2026-10-05T20:46:00Z",
-   "branch": "main",
-   "homepage": "https://vela-payments.vercel.app/",
-   "addedAt": "2026-10-06T20:54:41.031Z",
-   "stack": {
-    "kind": "node",
-    "label": "React app",
-    "frameworks": [
-     "React"
-    ]
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/VelaPayments/vela-payments",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm start`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/VelaPayments/vela-payments",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/VelaPayments/vela-payments?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/VelaPayments/vela-payments",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/VelaPayments/vela-payments/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm start",
-   "notes": [
-    "Uses react-native, expo, which can't run inside a browser tab. Use Codespaces instead."
-   ],
-   "local": "git clone --depth 1 https://github.com/VelaPayments/vela-payments.git\ncd vela-payments\nnpm install\nnpm start",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/VelaPayments/vela-payments\nWhat it says it does: \"Open-source mobile payment prototype on Stellar, featuring NFC payment requests, XLM and USDC wallets, and passkey access.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T20:54:41.031Z"
   }
  ],
  "levels": {

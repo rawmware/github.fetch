@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_730 guides written so far · last update 2026-10-14 19:38 UTC_
+_731 guides written so far · last update 2026-10-14 22:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) | Python project | Runs in the browser with a free account | [guide](guides/entelligence-ai/agentplay.md) |
 | [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep) | Python project | Runs in the browser with a free account | [guide](guides/nvidia-omniverse/usd-brep.md) |
 | [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | JavaScript project | Runs in the browser with a free account | [guide](guides/fei2411/deepseek-bot.md) |
 | [ziplab/ATAS](https://github.com/ziplab/ATAS) | Python project | Runs in the browser with a free account | [guide](guides/ziplab/atas.md) |
@@ -38,7 +39,6 @@ _730 guides written so far · last update 2026-10-14 19:38 UTC_
 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | React app | Runs in the browser with a free account | [guide](guides/caho1/open-claude-ui.md) |
 | [BaruqueRodrigues/llm-legislativo](https://github.com/BaruqueRodrigues/llm-legislativo) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/baruquerodrigues/llm-legislativo.md) |
 | [GetLostIn/CTR-NitroFueled-PC](https://github.com/GetLostIn/CTR-NitroFueled-PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/getlostin/ctr-nitrofueled-pc.md) |
-| [flybrainlabs/node](https://github.com/flybrainlabs/node) | Rust project | Runs in the browser with a free account | [guide](guides/flybrainlabs/node.md) |
 <!-- latest:end -->
 
 ## How it works

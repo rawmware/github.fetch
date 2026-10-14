@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_684 guides written so far · last update 2026-10-14 05:19 UTC_
+_685 guides written so far · last update 2026-10-14 05:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StorageSeeker/fix-discord](https://github.com/StorageSeeker/fix-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/storageseeker/fix-discord.md) |
 | [datalab-to/indra](https://github.com/datalab-to/indra) | Python project | Runs in the browser with a free account | [guide](guides/datalab-to/indra.md) |
 | [Seokwoooo/lucian-uxui-prompt](https://github.com/Seokwoooo/lucian-uxui-prompt) | HTML project | Runs in the browser with a free account | [guide](guides/seokwoooo/lucian-uxui-prompt.md) |
 | [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) | Rust project | Runs in the browser with a free account | [guide](guides/outthislife/azeroth-survivors-re.md) |
@@ -38,7 +39,6 @@ _684 guides written so far · last update 2026-10-14 05:19 UTC_
 | [ivandilelio/kybes](https://github.com/ivandilelio/kybes) | Python project | Runs in the browser with a free account | [guide](guides/ivandilelio/kybes.md) |
 | [AjncSystem/ShadowOfTheColossus-PC](https://github.com/AjncSystem/ShadowOfTheColossus-PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/ajncsystem/shadowofthecolossus-pc.md) |
 | [Denkishi/ssbu-recomp](https://github.com/Denkishi/ssbu-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/denkishi/ssbu-recomp.md) |
-| [rayytor/desktop_gifs](https://github.com/rayytor/desktop_gifs) | JavaScript project | Runs in the browser with a free account | [guide](guides/rayytor/desktop_gifs.md) |
 <!-- latest:end -->
 
 ## How it works

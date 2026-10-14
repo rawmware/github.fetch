@@ -1,8 +1,71 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T15:26:16.969Z",
- "totalGuides": 712,
+ "updatedAt": "2026-10-14T15:26:17.166Z",
+ "totalGuides": 713,
  "items": [
+  {
+   "fullName": "FeedHive/ai-slop-detector",
+   "owner": "FeedHive",
+   "name": "ai-slop-detector",
+   "url": "https://github.com/FeedHive/ai-slop-detector",
+   "avatar": "https://avatars.githubusercontent.com/u/68555706?v=4",
+   "description": "120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.",
+   "language": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-slop",
+    "ai-writing",
+    "claude-code",
+    "copywriting",
+    "llm",
+    "writing"
+   ],
+   "license": "MIT",
+   "stars": 65,
+   "forks": 4,
+   "createdAt": "2026-10-12T09:38:49Z",
+   "branch": "main",
+   "homepage": "https://www.feedhive.com/tools/ai-slop-detector",
+   "addedAt": "2026-10-14T15:26:17.165Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/FeedHive/ai-slop-detector?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/FeedHive/ai-slop-detector",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/FeedHive/ai-slop-detector/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/FeedHive/ai-slop-detector.git\ncd ai-slop-detector",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/FeedHive/ai-slop-detector\nWhat it says it does: \"120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T15:26:17.165Z"
+  },
   {
    "fullName": "0xProbabillity/house-control",
    "owner": "0xProbabillity",
@@ -31749,69 +31812,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/DragonPresident/Sylenth-1\nWhat it says it does: \"Sylenth 1 optimizes your workflow with a streamlined interface and robust features tailored to professional desktop software utility configurations.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T09:04:37.616Z"
-  },
-  {
-   "fullName": "ForkOperativeNeedle/XYplorer",
-   "owner": "ForkOperativeNeedle",
-   "name": "XYplorer",
-   "url": "https://github.com/ForkOperativeNeedle/XYplorer",
-   "avatar": "https://avatars.githubusercontent.com/u/296670345?v=4",
-   "description": "Xyplorer optimizes your professional workflow by providing a comprehensive desktop software utility configuration that streamlines processes without using...",
-   "language": null,
-   "topics": [
-    "chrome-open-xyplorer",
-    "drag-and-drop-into-xyplorer-from-desktop",
-    "file-explorer-xyplorer",
-    "file-xyplorer-windows-10",
-    "xyplore",
-    "xyplorer",
-    "xyplorer-app",
-    "xyplorer-file-manager"
-   ],
-   "license": null,
-   "stars": 107,
-   "forks": 0,
-   "createdAt": "2026-10-05T10:58:59Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T09:04:37.399Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ForkOperativeNeedle/XYplorer",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ForkOperativeNeedle/XYplorer/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ForkOperativeNeedle/XYplorer\nWhat it says it does: \"Xyplorer optimizes your professional workflow by providing a comprehensive desktop software utility configuration that streamlines processes without using...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T09:04:37.399Z"
   }
  ],
  "levels": {
+  "account": 240,
   "heavy": 83,
   "instant": 42,
-  "account": 239,
-  "read": 136
+  "read": 135
  }
 }

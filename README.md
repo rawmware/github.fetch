@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_721 guides written so far · last update 2026-10-14 19:38 UTC_
+_722 guides written so far · last update 2026-10-14 19:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | React app | Runs in the browser with a free account | [guide](guides/caho1/open-claude-ui.md) |
 | [BaruqueRodrigues/llm-legislativo](https://github.com/BaruqueRodrigues/llm-legislativo) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/baruquerodrigues/llm-legislativo.md) |
 | [GetLostIn/CTR-NitroFueled-PC](https://github.com/GetLostIn/CTR-NitroFueled-PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/getlostin/ctr-nitrofueled-pc.md) |
 | [flybrainlabs/node](https://github.com/flybrainlabs/node) | Rust project | Runs in the browser with a free account | [guide](guides/flybrainlabs/node.md) |
@@ -38,7 +39,6 @@ _721 guides written so far · last update 2026-10-14 19:38 UTC_
 | [FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) | JavaScript project | Runs in the browser with a free account | [guide](guides/feedhive/ai-slop-detector.md) |
 | [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/0xprobabillity/house-control.md) |
 | [Classmg22/BBSC](https://github.com/Classmg22/BBSC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/classmg22/bbsc.md) |
-| [PiggyBackBayonet/MiAuto](https://github.com/PiggyBackBayonet/MiAuto) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/piggybackbayonet/miauto.md) |
 <!-- latest:end -->
 
 ## How it works

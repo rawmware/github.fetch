@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T05:19:46.724Z",
- "totalGuides": 681,
+ "updatedAt": "2026-10-14T05:19:46.953Z",
+ "totalGuides": 682,
  "items": [
+  {
+   "fullName": "OutThisLife/azeroth-survivors-re",
+   "owner": "OutThisLife",
+   "name": "azeroth-survivors-re",
+   "url": "https://github.com/OutThisLife/azeroth-survivors-re",
+   "avatar": "https://avatars.githubusercontent.com/u/770929?v=4",
+   "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy).",
+   "language": "Rust",
+   "topics": [
+    "bevy",
+    "game",
+    "rust",
+    "survivors",
+    "webassembly",
+    "wow"
+   ],
+   "license": "Apache-2.0",
+   "stars": 83,
+   "forks": 39,
+   "createdAt": "2026-10-13T03:23:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-14T05:19:46.952Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/OutThisLife/azeroth-survivors-re?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/OutThisLife/azeroth-survivors-re",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/OutThisLife/azeroth-survivors-re/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/OutThisLife/azeroth-survivors-re.git\ncd azeroth-survivors-re\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/OutThisLife/azeroth-survivors-re\nWhat it says it does: \"A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T05:19:46.952Z"
+  },
   {
    "fullName": "Dmaryqsotterman/VyManager",
    "owner": "Dmaryqsotterman",
@@ -31595,69 +31657,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/uniteoceanunderpass/Serato-DJ-Pro\nWhat it says it does: \"Serato DJ Pro is a professional desktop software utility that optimizes your DJ experience by providing an advanced and seamless platform with powerful...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-05T21:57:19.669Z"
-  },
-  {
-   "fullName": "UnitMakerMetro/SketchUp-Pro",
-   "owner": "UnitMakerMetro",
-   "name": "SketchUp-Pro",
-   "url": "https://github.com/UnitMakerMetro/SketchUp-Pro",
-   "avatar": "https://avatars.githubusercontent.com/u/296666124?v=4",
-   "description": "Integrate seamless design and collaboration with precise professional desktop software utility configuration: Sketchup Pro unlocks unparalleled creativity...",
-   "language": null,
-   "topics": [
-    "3d-modeling-software",
-    "architectural-visualization",
-    "design-pipeline",
-    "measurement-tools",
-    "premium-software",
-    "render-ready",
-    "sketch-pro-download",
-    "sketch-up"
-   ],
-   "license": null,
-   "stars": 207,
-   "forks": 0,
-   "createdAt": "2026-10-05T10:29:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-05T21:57:19.531Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/UnitMakerMetro/SketchUp-Pro",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/UnitMakerMetro/SketchUp-Pro/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/UnitMakerMetro/SketchUp-Pro\nWhat it says it does: \"Integrate seamless design and collaboration with precise professional desktop software utility configuration: Sketchup Pro unlocks unparalleled creativity...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-05T21:57:19.531Z"
   }
  ],
  "levels": {
+  "account": 227,
   "instant": 42,
-  "account": 226,
   "heavy": 75,
-  "read": 157
+  "read": 156
  }
 }

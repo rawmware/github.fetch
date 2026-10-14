@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T15:26:18.015Z",
- "totalGuides": 716,
+ "updatedAt": "2026-10-14T15:26:18.196Z",
+ "totalGuides": 717,
  "items": [
+  {
+   "fullName": "pycodebr/heditor",
+   "owner": "pycodebr",
+   "name": "heditor",
+   "url": "https://github.com/pycodebr/heditor",
+   "avatar": "https://avatars.githubusercontent.com/u/77999081?v=4",
+   "description": "Creative vertical video editing skill for AI agents (Claude Code, Codex, OpenCode, Cursor, Hermes): named styles, creative mode, HyperFrames + voice-first mix.",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "ffmpeg",
+    "hyperframes",
+    "motion-graphics",
+    "opencode"
+   ],
+   "license": null,
+   "stars": 62,
+   "forks": 5,
+   "createdAt": "2026-10-13T17:30:04Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-14T15:26:18.195Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/pycodebr/heditor/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/pycodebr/heditor?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/pycodebr/heditor",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/pycodebr/heditor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/pycodebr/heditor.git\ncd heditor",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/pycodebr/heditor\nWhat it says it does: \"Creative vertical video editing skill for AI agents (Claude Code, Codex, OpenCode, Cursor, Hermes): named styles, creative mode, HyperFrames + voice-first mix.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T15:26:18.195Z"
+  },
   {
    "fullName": "LiQiiiii/Jeva",
    "owner": "LiQiiiii",
@@ -31792,69 +31863,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/kandinskylab/kandinsky-6\nWhat it says it does: \"Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T16:00:06.701Z"
-  },
-  {
-   "fullName": "SlateElementalist/SystemCare-Pro",
-   "owner": "SlateElementalist",
-   "name": "SystemCare-Pro",
-   "url": "https://github.com/SlateElementalist/SystemCare-Pro",
-   "avatar": "https://avatars.githubusercontent.com/u/296665654?v=4",
-   "description": "Systemcare Pro optimizes desktop performance by proactively managing processes and resources to enhance efficiency and extend hardware life in a...",
-   "language": null,
-   "topics": [
-    "app-remover",
-    "clean-up",
-    "deep-clean-windows-programs",
-    "device-cleanup",
-    "disk-defrag-tools",
-    "optimize-windows-storage",
-    "pc-health-advanced-systemcare",
-    "pc-storage-space-cleaner"
-   ],
-   "license": null,
-   "stars": 105,
-   "forks": 0,
-   "createdAt": "2026-10-05T10:31:05Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T09:04:38.274Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/SlateElementalist/SystemCare-Pro",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SlateElementalist/SystemCare-Pro/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/SlateElementalist/SystemCare-Pro\nWhat it says it does: \"Systemcare Pro optimizes desktop performance by proactively managing processes and resources to enhance efficiency and extend hardware life in a...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T09:04:38.274Z"
   }
  ],
  "levels": {
+  "account": 243,
   "heavy": 84,
-  "account": 242,
   "instant": 42,
-  "read": 132
+  "read": 131
  }
 }

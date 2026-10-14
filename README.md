@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_706 guides written so far · last update 2026-10-14 10:32 UTC_
+_707 guides written so far · last update 2026-10-14 15:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StoopwenpueNq/jackie-fmri-sim](https://github.com/StoopwenpueNq/jackie-fmri-sim) | Python project | Runs in the browser with a free account | [guide](guides/stoopwenpuenq/jackie-fmri-sim.md) |
 | [GaelQuinta/minecraft-metal-shaders](https://github.com/GaelQuinta/minecraft-metal-shaders) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gaelquinta/minecraft-metal-shaders.md) |
 | [S12cybersecurity/LogonStealer](https://github.com/S12cybersecurity/LogonStealer) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/s12cybersecurity/logonstealer.md) |
 | [cdcailf/cjkfold](https://github.com/cdcailf/cjkfold) | Python project | Runs in the browser with a free account | [guide](guides/cdcailf/cjkfold.md) |
@@ -38,7 +39,6 @@ _706 guides written so far · last update 2026-10-14 10:32 UTC_
 | [derekross/omarchy-mobile](https://github.com/derekross/omarchy-mobile) | QML project | Runs in the browser with a free account | [guide](guides/derekross/omarchy-mobile.md) |
 | [NB-Corp/gpt-with-taste](https://github.com/NB-Corp/gpt-with-taste) | JavaScript project | Runs in the browser with a free account | [guide](guides/nb-corp/gpt-with-taste.md) |
 | [Zfinix/eleven](https://github.com/Zfinix/eleven) | Rust project | Runs in the browser with a free account | [guide](guides/zfinix/eleven.md) |
-| [josefchen/muster](https://github.com/josefchen/muster) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/josefchen/muster.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T10:32:04.910Z",
- "totalGuides": 706,
+ "updatedAt": "2026-10-14T15:26:15.921Z",
+ "totalGuides": 707,
  "items": [
+  {
+   "fullName": "StoopwenpueNq/jackie-fmri-sim",
+   "owner": "StoopwenpueNq",
+   "name": "jackie-fmri-sim",
+   "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
+   "avatar": "https://avatars.githubusercontent.com/u/15234191?v=4",
+   "description": "jackie-fmri-sim",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 469,
+   "forks": 47,
+   "createdAt": "2026-10-14T10:14:56Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-14T15:26:15.907Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/StoopwenpueNq/jackie-fmri-sim/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/StoopwenpueNq/jackie-fmri-sim?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/StoopwenpueNq/jackie-fmri-sim",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/StoopwenpueNq/jackie-fmri-sim.git\ncd jackie-fmri-sim\npython main.py",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/StoopwenpueNq/jackie-fmri-sim\nWhat it says it does: \"jackie-fmri-sim\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T15:26:15.907Z"
+  },
   {
    "fullName": "GaelQuinta/minecraft-metal-shaders",
    "owner": "GaelQuinta",
@@ -31707,66 +31769,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/arielshad/3d-asset-server\nWhat it says it does: \"3d assets api and mcp\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T09:04:36.143Z"
-  },
-  {
-   "fullName": "alchaincyf/huashu-art-motion",
-   "owner": "alchaincyf",
-   "name": "huashu-art-motion",
-   "url": "https://github.com/alchaincyf/huashu-art-motion",
-   "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4",
-   "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-   "language": "JavaScript",
-   "topics": [],
-   "license": "MIT",
-   "stars": 155,
-   "forks": 20,
-   "createdAt": "2026-10-06T04:49:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T09:04:35.840Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/alchaincyf/huashu-art-motion?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/alchaincyf/huashu-art-motion",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/alchaincyf/huashu-art-motion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/alchaincyf/huashu-art-motion.git\ncd huashu-art-motion",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/alchaincyf/huashu-art-motion\nWhat it says it does: \"艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T09:04:35.840Z"
   }
  ],
  "levels": {
-  "heavy": 80,
   "account": 241,
+  "heavy": 80,
   "read": 138,
   "instant": 41
  }

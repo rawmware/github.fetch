@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T05:19:48.024Z",
- "totalGuides": 688,
+ "updatedAt": "2026-10-14T05:19:48.501Z",
+ "totalGuides": 689,
  "items": [
+  {
+   "fullName": "RewindEagleEradicate/tg-ws-proxy",
+   "owner": "RewindEagleEradicate",
+   "name": "tg-ws-proxy",
+   "url": "https://github.com/RewindEagleEradicate/tg-ws-proxy",
+   "avatar": "https://avatars.githubusercontent.com/u/292128318?v=4",
+   "description": "NEW FIX 1.10.3 Как Обойти Блокировку Дискорда В России ?! Новый Дискорд Обход Для ПК ! Запрет Дискорд & Фикс ДС !",
+   "language": "Batchfile",
+   "topics": [
+    "discord",
+    "discord-fix",
+    "discord-proxy",
+    "discord-unblock",
+    "discordfix",
+    "dpi-bypass",
+    "fix-discord",
+    "fixdiscord"
+   ],
+   "license": null,
+   "stars": 69,
+   "forks": 25,
+   "createdAt": "2026-10-13T18:48:13Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-14T05:19:48.500Z",
+   "stack": {
+    "kind": "other",
+    "label": "Batchfile project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/RewindEagleEradicate/tg-ws-proxy?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/RewindEagleEradicate/tg-ws-proxy",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/RewindEagleEradicate/tg-ws-proxy/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/RewindEagleEradicate/tg-ws-proxy.git\ncd tg-ws-proxy",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/RewindEagleEradicate/tg-ws-proxy\nWhat it says it does: \"NEW FIX 1.10.3 Как Обойти Блокировку Дискорда В России ?! Новый Дискорд Обход Для ПК ! Запрет Дискорд & Фикс ДС !\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-14T05:19:48.500Z"
+  },
   {
    "fullName": "vakandi/opencode-rust",
    "owner": "vakandi",
@@ -31655,60 +31719,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Rainfoderrick/Microsoft-Visio\nWhat it says it does: \"Improve workflow efficiency by leveraging our professional desktop software utility configuration; this repository offers a comprehensive solution that...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T02:11:00.323Z"
-  },
-  {
-   "fullName": "AgentMemoryRepo/agentmemoryrepo",
-   "owner": "AgentMemoryRepo",
-   "name": "agentmemoryrepo",
-   "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
-   "avatar": "https://avatars.githubusercontent.com/u/337866316?v=4",
-   "description": "Spec for Agent Memory Repo",
-   "language": null,
-   "topics": [],
-   "license": "MIT",
-   "stars": 243,
-   "forks": 8,
-   "createdAt": "2026-10-04T22:10:48Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T02:11:00.125Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/AgentMemoryRepo/agentmemoryrepo\nWhat it says it does: \"Spec for Agent Memory Repo\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T02:11:00.125Z"
   }
  ],
  "levels": {
-  "account": 232,
+  "account": 233,
   "instant": 42,
   "heavy": 75,
-  "read": 151
+  "read": 150
  }
 }

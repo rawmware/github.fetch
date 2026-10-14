@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_688 guides written so far · last update 2026-10-14 05:19 UTC_
+_689 guides written so far · last update 2026-10-14 05:19 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RewindEagleEradicate/tg-ws-proxy](https://github.com/RewindEagleEradicate/tg-ws-proxy) | Batchfile project | Runs in the browser with a free account | [guide](guides/rewindeagleeradicate/tg-ws-proxy.md) |
 | [vakandi/opencode-rust](https://github.com/vakandi/opencode-rust) | Rust project | Runs in the browser with a free account | [guide](guides/vakandi/opencode-rust.md) |
 | [NavigatorPresent/discord-fix](https://github.com/NavigatorPresent/discord-fix) | Batchfile project | Runs in the browser with a free account | [guide](guides/navigatorpresent/discord-fix.md) |
 | [Handcuffgladominate/zapret-discord](https://github.com/Handcuffgladominate/zapret-discord) | Batchfile project | Runs in the browser with a free account | [guide](guides/handcuffgladominate/zapret-discord.md) |
@@ -38,7 +39,6 @@ _688 guides written so far · last update 2026-10-14 05:19 UTC_
 | [semrincaballero/Polymarket-Prediction-Bot](https://github.com/semrincaballero/Polymarket-Prediction-Bot) | Python project | Runs in the browser with a free account | [guide](guides/semrincaballero/polymarket-prediction-bot.md) |
 | [wavepostmansteal/discord-zapret](https://github.com/wavepostmansteal/discord-zapret) | Batchfile project | Runs in the browser with a free account | [guide](guides/wavepostmansteal/discord-zapret.md) |
 | [ikooc/baidujiexi_app](https://github.com/ikooc/baidujiexi_app) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/ikooc/baidujiexi_app.md) |
-| [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sebaskitten/grand-v.md) |
 <!-- latest:end -->
 
 ## How it works

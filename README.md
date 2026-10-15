@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_780 guides written so far · last update 2026-10-15 15:18 UTC_
+_781 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [huacnlee/gpui-shell-benchs](https://github.com/huacnlee/gpui-shell-benchs) | JavaScript project | Runs in the browser with a free account | [guide](guides/huacnlee/gpui-shell-benchs.md) |
 | [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex) | Go project | Runs in the browser with a free account | [guide](guides/ernket/codescan-artex.md) |
 | [10291124jcjc-dotcom/ancient-rap-battle](https://github.com/10291124jcjc-dotcom/ancient-rap-battle) | Python project | Runs in the browser with a free account | [guide](guides/10291124jcjc-dotcom/ancient-rap-battle.md) |
 | [Liu-PenPen/Agent-OS](https://github.com/Liu-PenPen/Agent-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/liu-penpen/agent-os.md) |
@@ -38,7 +39,6 @@ _780 guides written so far · last update 2026-10-15 15:18 UTC_
 | [ctresb/leis](https://github.com/ctresb/leis) | HTML project | Runs in the browser with a free account | [guide](guides/ctresb/leis.md) |
 | [MaryCache/imozuru](https://github.com/MaryCache/imozuru) | Python project | Runs in the browser with a free account | [guide](guides/marycache/imozuru.md) |
 | [feder-cr/open_scion](https://github.com/feder-cr/open_scion) | Go project | Runs in the browser with a free account | [guide](guides/feder-cr/open_scion.md) |
-| [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC) | Python project | Runs in the browser with a free account | [guide](guides/jburgess-r7/cve-2026-97229-poc.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,66 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T15:18:26.166Z",
- "totalGuides": 780,
+ "updatedAt": "2026-10-15T15:18:26.383Z",
+ "totalGuides": 781,
  "items": [
+  {
+   "fullName": "huacnlee/gpui-shell-benchs",
+   "owner": "huacnlee",
+   "name": "gpui-shell-benchs",
+   "url": "https://github.com/huacnlee/gpui-shell-benchs",
+   "avatar": "https://avatars.githubusercontent.com/u/5518?v=4",
+   "description": "A collection of gpui-shell applications generated from scratch by AI coding agents.",
+   "language": "JavaScript",
+   "topics": [
+    "gpui-kit",
+    "gpui-shell"
+   ],
+   "license": "MIT",
+   "stars": 55,
+   "forks": 2,
+   "createdAt": "2026-10-13T01:52:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T15:18:26.382Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/huacnlee/gpui-shell-benchs?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/huacnlee/gpui-shell-benchs",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/huacnlee/gpui-shell-benchs/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/huacnlee/gpui-shell-benchs.git\ncd gpui-shell-benchs",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/huacnlee/gpui-shell-benchs\nWhat it says it does: \"A collection of gpui-shell applications generated from scratch by AI coding agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T15:18:26.382Z"
+  },
   {
    "fullName": "Ernket/CodeScan-Artex",
    "owner": "Ernket",
@@ -31634,81 +31692,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/LoreanXavier/pt-pc\nWhat it says it does: \"Native PC port of P.T. (runs from your own PS4 game files)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T13:51:07.411Z"
-  },
-  {
-   "fullName": "mushigaite/short-video-maker",
-   "owner": "mushigaite",
-   "name": "short-video-maker",
-   "url": "https://github.com/mushigaite/short-video-maker",
-   "avatar": "https://avatars.githubusercontent.com/u/310725007?v=4",
-   "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools ",
-   "language": "Python",
-   "topics": [
-    "ai-video",
-    "ai-video-editing",
-    "ai-video-generation-api",
-    "money-printer",
-    "short-video",
-    "short-video-automation",
-    "short-video-generator",
-    "short-video-maker"
-   ],
-   "license": "MIT",
-   "stars": 92,
-   "forks": 29,
-   "createdAt": "2026-10-05T18:35:21Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-07T13:51:07.053Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python FastAPI app",
-    "frameworks": [
-     "FastAPI"
-    ]
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/mushigaite/short-video-maker/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/mushigaite/short-video-maker?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/mushigaite/short-video-maker",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/mushigaite/short-video-maker/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": "python main.py",
-   "notes": [
-    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
-   ],
-   "local": "git clone --depth 1 https://github.com/mushigaite/short-video-maker.git\ncd short-video-maker\npip install -r requirements.txt\npython main.py",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/mushigaite/short-video-maker\nWhat it says it does: \"A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools \"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T13:51:07.053Z"
   }
  ],
  "levels": {

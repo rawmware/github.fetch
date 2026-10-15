@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_746 guides written so far · last update 2026-10-15 05:47 UTC_
+_747 guides written so far · last update 2026-10-15 05:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TG-Twilight/c001apk](https://github.com/TG-Twilight/c001apk) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/tg-twilight/c001apk.md) |
 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/ahwootech/brutal.md) |
 | [CarterT27/scion](https://github.com/CarterT27/scion) | Rust project | Runs in the browser with a free account | [guide](guides/cartert27/scion.md) |
 | [pgrundev/pgsync](https://github.com/pgrundev/pgsync) | Rust project | Runs in the browser with a free account | [guide](guides/pgrundev/pgsync.md) |
@@ -38,7 +39,6 @@ _746 guides written so far · last update 2026-10-15 05:47 UTC_
 | [ShizeChen-ene/youtube-tiktok-video-manager](https://github.com/ShizeChen-ene/youtube-tiktok-video-manager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shizechen-ene/youtube-tiktok-video-manager.md) |
 | [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything) | Python project | Runs in the browser with a free account | [guide](guides/gen-verse/rsi-anything.md) |
 | [YeonwooSung/my-claude-code-mods](https://github.com/YeonwooSung/my-claude-code-mods) | JavaScript project | Runs in the browser with a free account | [guide](guides/yeonwoosung/my-claude-code-mods.md) |
-| [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/snuri00/ps2-web-recomp.md) |
 <!-- latest:end -->
 
 ## How it works

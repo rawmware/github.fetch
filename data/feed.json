@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T05:47:30.430Z",
- "totalGuides": 746,
+ "updatedAt": "2026-10-15T05:47:30.681Z",
+ "totalGuides": 747,
  "items": [
+  {
+   "fullName": "TG-Twilight/c001apk",
+   "owner": "TG-Twilight",
+   "name": "c001apk",
+   "url": "https://github.com/TG-Twilight/c001apk",
+   "avatar": "https://avatars.githubusercontent.com/u/121682528?v=4",
+   "description": "一个轻量的非官方酷安客户端",
+   "language": "Dart",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 80,
+   "forks": 1,
+   "createdAt": "2026-10-14T07:11:28Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T05:47:30.680Z",
+   "stack": {
+    "kind": "native",
+    "label": "Dart project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/TG-Twilight/c001apk?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/TG-Twilight/c001apk",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/TG-Twilight/c001apk/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Dart usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/TG-Twilight/c001apk.git\ncd c001apk",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/TG-Twilight/c001apk\nWhat it says it does: \"一个轻量的非官方酷安客户端\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T05:47:30.680Z"
+  },
   {
    "fullName": "ahwootech/BRUTAL",
    "owner": "ahwootech",
@@ -31746,60 +31803,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/kirohack-official/kirohack\nWhat it says it does: \"Официальный скрипт Kirohack (Кирохак) для игры Dynast.io от dazaso\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T20:54:44.068Z"
-  },
-  {
-   "fullName": "dualface/ste-zh",
-   "owner": "dualface",
-   "name": "ste-zh",
-   "url": "https://github.com/dualface/ste-zh",
-   "avatar": "https://avatars.githubusercontent.com/u/62318?v=4",
-   "description": "Agent skill: 按 ASD-STE100 (Simplified Technical English) 原则用中文向用户汇报结果",
-   "language": null,
-   "topics": [],
-   "license": "MIT",
-   "stars": 51,
-   "forks": 6,
-   "createdAt": "2026-10-05T16:45:04Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T20:54:43.625Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/dualface/ste-zh",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/dualface/ste-zh/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/dualface/ste-zh\nWhat it says it does: \"Agent skill: 按 ASD-STE100 (Simplified Technical English) 原则用中文向用户汇报结果\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T20:54:43.625Z"
   }
  ],
  "levels": {
-  "heavy": 86,
+  "heavy": 87,
   "account": 244,
-  "read": 130,
+  "read": 129,
   "instant": 40
  }
 }

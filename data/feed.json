@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T10:22:54.028Z",
- "totalGuides": 762,
+ "updatedAt": "2026-10-15T10:22:54.210Z",
+ "totalGuides": 763,
  "items": [
+  {
+   "fullName": "Binaryify/MonitorBar",
+   "owner": "Binaryify",
+   "name": "MonitorBar",
+   "url": "https://github.com/Binaryify/MonitorBar",
+   "avatar": "https://avatars.githubusercontent.com/u/12221718?v=4",
+   "description": "macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
+   "language": "Go",
+   "topics": [],
+   "license": "MIT",
+   "stars": 67,
+   "forks": 3,
+   "createdAt": "2026-10-15T02:12:52Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T10:22:54.210Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Binaryify/MonitorBar?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Binaryify/MonitorBar",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Binaryify/MonitorBar/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": "go run .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Binaryify/MonitorBar.git\ncd MonitorBar\ngo build ./...\ngo run .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Binaryify/MonitorBar\nWhat it says it does: \"macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T10:22:54.210Z"
+  },
   {
    "fullName": "yaojingang/profound-clone",
    "owner": "yaojingang",
@@ -31702,77 +31757,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/RustDesk-ru/RustDesk-ru.github.io\nWhat it says it does: \"RustDesk — бесплатная программа с открытым исходным кодом для удалённого доступа к компьютерам. Надёжная альтернатива TeamViewer и AnyDesk: позволяет управлять устройствами через интернет, передавать файлы и общаться в чате.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T06:33:31.421Z"
-  },
-  {
-   "fullName": "Blackfrost-AI/Cyber-Frost-Harness",
-   "owner": "Blackfrost-AI",
-   "name": "Cyber-Frost-Harness",
-   "url": "https://github.com/Blackfrost-AI/Cyber-Frost-Harness",
-   "avatar": "https://avatars.githubusercontent.com/u/197676134?v=4",
-   "description": "Native red, blue, and purple security-agent harness for CYBER-FROST",
-   "language": "Python",
-   "topics": [
-    "blue-team",
-    "cybergym",
-    "cybersecurity",
-    "fuzzing",
-    "llm-agents",
-    "purple-team",
-    "red-team",
-    "security-research"
-   ],
-   "license": "MIT",
-   "stars": 48,
-   "forks": 6,
-   "createdAt": "2026-10-05T13:53:31Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-07T06:33:31.220Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Blackfrost-AI/Cyber-Frost-Harness/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Blackfrost-AI/Cyber-Frost-Harness?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Blackfrost-AI/Cyber-Frost-Harness",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Blackfrost-AI/Cyber-Frost-Harness/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Blackfrost-AI/Cyber-Frost-Harness.git\ncd Cyber-Frost-Harness\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Blackfrost-AI/Cyber-Frost-Harness\nWhat it says it does: \"Native red, blue, and purple security-agent harness for CYBER-FROST\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T06:33:31.220Z"
   }
  ],
  "levels": {

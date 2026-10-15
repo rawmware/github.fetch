@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_759 guides written so far · last update 2026-10-15 10:22 UTC_
+_760 guides written so far · last update 2026-10-15 10:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) | Python project | Runs in the browser with a free account | [guide](guides/heqiangdiao-wq/ai-cross-border-ecommerce-agent-toolkit.md) |
 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/supermedo/uncharted_pc.md) |
 | [chenglou/handwired](https://github.com/chenglou/handwired) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/chenglou/handwired.md) |
 | [apenasdouglas/ai-motion-library](https://github.com/apenasdouglas/ai-motion-library) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apenasdouglas/ai-motion-library.md) |
@@ -38,7 +39,6 @@ _759 guides written so far · last update 2026-10-15 10:22 UTC_
 | [ananhq/anan-iphone-use](https://github.com/ananhq/anan-iphone-use) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ananhq/anan-iphone-use.md) |
 | [Spark198rus/black-pc](https://github.com/Spark198rus/black-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/spark198rus/black-pc.md) |
 | [pro-vi/cc-stretch](https://github.com/pro-vi/cc-stretch) | JavaScript project | Runs in the browser with a free account | [guide](guides/pro-vi/cc-stretch.md) |
-| [GhostParakeet/deadlock-tool](https://github.com/GhostParakeet/deadlock-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ghostparakeet/deadlock-tool.md) |
 <!-- latest:end -->
 
 ## How it works

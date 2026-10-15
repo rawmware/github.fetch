@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_782 guides written so far · last update 2026-10-15 15:18 UTC_
+_783 guides written so far · last update 2026-10-15 19:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Administracion-Abierta/AutoFirme](https://github.com/Administracion-Abierta/AutoFirme) | SvelteKit app | Runs in a browser tab, no account needed | [guide](guides/administracion-abierta/autofirme.md) |
 | [fitzforge/polestar](https://github.com/fitzforge/polestar) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fitzforge/polestar.md) |
 | [huacnlee/gpui-shell-benchs](https://github.com/huacnlee/gpui-shell-benchs) | JavaScript project | Runs in the browser with a free account | [guide](guides/huacnlee/gpui-shell-benchs.md) |
 | [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex) | Go project | Runs in the browser with a free account | [guide](guides/ernket/codescan-artex.md) |
@@ -38,7 +39,6 @@ _782 guides written so far · last update 2026-10-15 15:18 UTC_
 | [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator) | C project | Needs a real machine (or a GPU) to run | [guide](guides/antirez/c64-hw-simulator.md) |
 | [centimotormancavity/youtube-tiktok-video-manager-downloader](https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centimotormancavity/youtube-tiktok-video-manager-downloader.md) |
 | [ctresb/leis](https://github.com/ctresb/leis) | HTML project | Runs in the browser with a free account | [guide](guides/ctresb/leis.md) |
-| [MaryCache/imozuru](https://github.com/MaryCache/imozuru) | Python project | Runs in the browser with a free account | [guide](guides/marycache/imozuru.md) |
 <!-- latest:end -->
 
 ## How it works

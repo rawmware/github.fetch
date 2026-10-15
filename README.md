@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_791 guides written so far · last update 2026-10-15 19:15 UTC_
+_792 guides written so far · last update 2026-10-15 19:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NabilRFG12/Reverse-Engineer-anything](https://github.com/NabilRFG12/Reverse-Engineer-anything) | Node command-line tool | Runs in the browser with a free account | [guide](guides/nabilrfg12/reverse-engineer-anything.md) |
 | [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/morluto/awesome-reverse-engineering.md) |
 | [nateherkai/roast-room](https://github.com/nateherkai/roast-room) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nateherkai/roast-room.md) |
 | [peiikai/LASRecomp](https://github.com/peiikai/LASRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/peiikai/lasrecomp.md) |
@@ -38,7 +39,6 @@ _791 guides written so far · last update 2026-10-15 19:15 UTC_
 | [Administracion-Abierta/AutoFirme](https://github.com/Administracion-Abierta/AutoFirme) | SvelteKit app | Runs in a browser tab, no account needed | [guide](guides/administracion-abierta/autofirme.md) |
 | [fitzforge/polestar](https://github.com/fitzforge/polestar) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fitzforge/polestar.md) |
 | [huacnlee/gpui-shell-benchs](https://github.com/huacnlee/gpui-shell-benchs) | JavaScript project | Runs in the browser with a free account | [guide](guides/huacnlee/gpui-shell-benchs.md) |
-| [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex) | Go project | Runs in the browser with a free account | [guide](guides/ernket/codescan-artex.md) |
 <!-- latest:end -->
 
 ## How it works

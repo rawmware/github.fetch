@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_742 guides written so far · last update 2026-10-15 00:57 UTC_
+_743 guides written so far · last update 2026-10-15 00:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [exatoneshock/Modern-FPS-Booster-Win](https://github.com/exatoneshock/Modern-FPS-Booster-Win) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exatoneshock/modern-fps-booster-win.md) |
 | [kota-zo/myspoti](https://github.com/kota-zo/myspoti) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/kota-zo/myspoti.md) |
 | [Ivan666jjj/yigezi](https://github.com/Ivan666jjj/yigezi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/ivan666jjj/yigezi.md) |
 | [VallierDev/uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) | Rust project | Runs in the browser with a free account | [guide](guides/vallierdev/uu-remote-linux.md) |
@@ -38,7 +39,6 @@ _742 guides written so far · last update 2026-10-15 00:57 UTC_
 | [storytold/figcraft](https://github.com/storytold/figcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/figcraft.md) |
 | [trhhubsd/ARTEXX](https://github.com/trhhubsd/ARTEXX) | Go project | Runs in the browser with a free account | [guide](guides/trhhubsd/artexx.md) |
 | [deciocrytek/Skipii](https://github.com/deciocrytek/Skipii) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/deciocrytek/skipii.md) |
-| [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) | Python project | Runs in the browser with a free account | [guide](guides/entelligence-ai/agentplay.md) |
 <!-- latest:end -->
 
 ## How it works

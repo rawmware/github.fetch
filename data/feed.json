@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T00:57:46.438Z",
- "totalGuides": 742,
+ "updatedAt": "2026-10-15T00:57:46.601Z",
+ "totalGuides": 743,
  "items": [
+  {
+   "fullName": "exatoneshock/Modern-FPS-Booster-Win",
+   "owner": "exatoneshock",
+   "name": "Modern-FPS-Booster-Win",
+   "url": "https://github.com/exatoneshock/Modern-FPS-Booster-Win",
+   "avatar": "https://avatars.githubusercontent.com/u/318077206?v=4",
+   "description": "Modern FPS Booster Tweaker for Windows",
+   "language": null,
+   "topics": [
+    "fps-booster-exe",
+    "fps-booster-for-games",
+    "fps-booster-minecraft-bedrock",
+    "fps-booster-no-lag",
+    "fps-booster-pro",
+    "fps-booster-reddit",
+    "fps-booster-software",
+    "fps-booster-windows-11"
+   ],
+   "license": "MIT",
+   "stars": 56,
+   "forks": 0,
+   "createdAt": "2026-10-14T23:28:08Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T00:57:46.600Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/exatoneshock/Modern-FPS-Booster-Win",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/exatoneshock/Modern-FPS-Booster-Win/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/exatoneshock/Modern-FPS-Booster-Win\nWhat it says it does: \"Modern FPS Booster Tweaker for Windows\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T00:57:46.600Z"
+  },
   {
    "fullName": "kota-zo/myspoti",
    "owner": "kota-zo",
@@ -31782,67 +31839,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/xianyu110/ecommerce-image-skills\nWhat it says it does: \"12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T20:54:42.877Z"
-  },
-  {
-   "fullName": "ghuntley/jiti",
-   "owner": "ghuntley",
-   "name": "jiti",
-   "url": "https://github.com/ghuntley/jiti",
-   "avatar": "https://avatars.githubusercontent.com/u/127353?v=4",
-   "description": "Live Common Lisp image repair with OpenAI tools, persistent revisions, and a conversational CLI",
-   "language": "Common Lisp",
-   "topics": [],
-   "license": null,
-   "stars": 52,
-   "forks": 6,
-   "createdAt": "2026-10-04T06:52:46Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T20:54:42.586Z",
-   "stack": {
-    "kind": "other",
-    "label": "Common Lisp project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ghuntley/jiti?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ghuntley/jiti",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ghuntley/jiti/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ghuntley/jiti.git\ncd jiti",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ghuntley/jiti\nWhat it says it does: \"Live Common Lisp image repair with OpenAI tools, persistent revisions, and a conversational CLI\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T20:54:42.586Z"
   }
  ],
  "levels": {
+  "read": 130,
   "heavy": 85,
   "instant": 41,
-  "account": 245,
-  "read": 129
+  "account": 244
  }
 }

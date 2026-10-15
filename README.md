@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_773 guides written so far · last update 2026-10-15 15:18 UTC_
+_774 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator) | C project | Needs a real machine (or a GPU) to run | [guide](guides/antirez/c64-hw-simulator.md) |
 | [centimotormancavity/youtube-tiktok-video-manager-downloader](https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centimotormancavity/youtube-tiktok-video-manager-downloader.md) |
 | [ctresb/leis](https://github.com/ctresb/leis) | HTML project | Runs in the browser with a free account | [guide](guides/ctresb/leis.md) |
 | [MaryCache/imozuru](https://github.com/MaryCache/imozuru) | Python project | Runs in the browser with a free account | [guide](guides/marycache/imozuru.md) |
@@ -38,7 +39,6 @@ _773 guides written so far · last update 2026-10-15 15:18 UTC_
 | [JamesZhaoY/logicc2api](https://github.com/JamesZhaoY/logicc2api) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jameszhaoy/logicc2api.md) |
 | [1weiho/cinematic-shot](https://github.com/1weiho/cinematic-shot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/1weiho/cinematic-shot.md) |
 | [Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar) | Go project | Runs in the browser with a free account | [guide](guides/binaryify/monitorbar.md) |
-| [yaojingang/profound-clone](https://github.com/yaojingang/profound-clone) | Next.js app | Runs in the browser with a free account | [guide](guides/yaojingang/profound-clone.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_777 guides written so far · last update 2026-10-15 15:18 UTC_
+_778 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Liu-PenPen/Agent-OS](https://github.com/Liu-PenPen/Agent-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/liu-penpen/agent-os.md) |
 | [tinyhumansai/openscion](https://github.com/tinyhumansai/openscion) | Rust project | Runs in the browser with a free account | [guide](guides/tinyhumansai/openscion.md) |
 | [OpenPort-Labs/Galaxy-Android](https://github.com/OpenPort-Labs/Galaxy-Android) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/openport-labs/galaxy-android.md) |
 | [HayatoG/tlg_pc](https://github.com/HayatoG/tlg_pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hayatog/tlg_pc.md) |
@@ -38,7 +39,6 @@ _777 guides written so far · last update 2026-10-15 15:18 UTC_
 | [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC) | Python project | Runs in the browser with a free account | [guide](guides/jburgess-r7/cve-2026-97229-poc.md) |
 | [obaidr1/hercules-recompiled](https://github.com/obaidr1/hercules-recompiled) | Python project | Runs in the browser with a free account | [guide](guides/obaidr1/hercules-recompiled.md) |
 | [R44VC0RP/isocast](https://github.com/R44VC0RP/isocast) | Rust project | Runs in the browser with a free account | [guide](guides/r44vc0rp/isocast.md) |
-| [sjdsjadjajdjsa/hanami](https://github.com/sjdsjadjajdjsa/hanami) | Rust project | Runs in the browser with a free account | [guide](guides/sjdsjadjajdjsa/hanami.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_751 guides written so far · last update 2026-10-15 05:47 UTC_
+_752 guides written so far · last update 2026-10-15 05:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release) | Python project | Runs in the browser with a free account | [guide](guides/lsposed/dexsql-release.md) |
 | [ananhq/anan-iphone-use](https://github.com/ananhq/anan-iphone-use) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ananhq/anan-iphone-use.md) |
 | [Spark198rus/black-pc](https://github.com/Spark198rus/black-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/spark198rus/black-pc.md) |
 | [pro-vi/cc-stretch](https://github.com/pro-vi/cc-stretch) | JavaScript project | Runs in the browser with a free account | [guide](guides/pro-vi/cc-stretch.md) |
@@ -38,7 +39,6 @@ _751 guides written so far · last update 2026-10-15 05:47 UTC_
 | [exatoneshock/Modern-FPS-Booster-Win](https://github.com/exatoneshock/Modern-FPS-Booster-Win) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exatoneshock/modern-fps-booster-win.md) |
 | [kota-zo/myspoti](https://github.com/kota-zo/myspoti) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/kota-zo/myspoti.md) |
 | [Ivan666jjj/yigezi](https://github.com/Ivan666jjj/yigezi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/ivan666jjj/yigezi.md) |
-| [VallierDev/uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) | Rust project | Runs in the browser with a free account | [guide](guides/vallierdev/uu-remote-linux.md) |
 <!-- latest:end -->
 
 ## How it works

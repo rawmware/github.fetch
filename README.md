@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_771 guides written so far · last update 2026-10-15 15:18 UTC_
+_772 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ctresb/leis](https://github.com/ctresb/leis) | HTML project | Runs in the browser with a free account | [guide](guides/ctresb/leis.md) |
 | [MaryCache/imozuru](https://github.com/MaryCache/imozuru) | Python project | Runs in the browser with a free account | [guide](guides/marycache/imozuru.md) |
 | [feder-cr/open_scion](https://github.com/feder-cr/open_scion) | Go project | Runs in the browser with a free account | [guide](guides/feder-cr/open_scion.md) |
 | [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC) | Python project | Runs in the browser with a free account | [guide](guides/jburgess-r7/cve-2026-97229-poc.md) |
@@ -38,7 +39,6 @@ _771 guides written so far · last update 2026-10-15 15:18 UTC_
 | [Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar) | Go project | Runs in the browser with a free account | [guide](guides/binaryify/monitorbar.md) |
 | [yaojingang/profound-clone](https://github.com/yaojingang/profound-clone) | Next.js app | Runs in the browser with a free account | [guide](guides/yaojingang/profound-clone.md) |
 | [HayatoG/iss_pc](https://github.com/HayatoG/iss_pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hayatog/iss_pc.md) |
-| [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) | Python project | Runs in the browser with a free account | [guide](guides/heqiangdiao-wq/ai-cross-border-ecommerce-agent-toolkit.md) |
 <!-- latest:end -->
 
 ## How it works

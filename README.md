@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_774 guides written so far · last update 2026-10-15 15:18 UTC_
+_775 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HayatoG/tlg_pc](https://github.com/HayatoG/tlg_pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hayatog/tlg_pc.md) |
 | [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator) | C project | Needs a real machine (or a GPU) to run | [guide](guides/antirez/c64-hw-simulator.md) |
 | [centimotormancavity/youtube-tiktok-video-manager-downloader](https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centimotormancavity/youtube-tiktok-video-manager-downloader.md) |
 | [ctresb/leis](https://github.com/ctresb/leis) | HTML project | Runs in the browser with a free account | [guide](guides/ctresb/leis.md) |
@@ -38,7 +39,6 @@ _774 guides written so far · last update 2026-10-15 15:18 UTC_
 | [sjdsjadjajdjsa/hanami](https://github.com/sjdsjadjajdjsa/hanami) | Rust project | Runs in the browser with a free account | [guide](guides/sjdsjadjajdjsa/hanami.md) |
 | [JamesZhaoY/logicc2api](https://github.com/JamesZhaoY/logicc2api) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jameszhaoy/logicc2api.md) |
 | [1weiho/cinematic-shot](https://github.com/1weiho/cinematic-shot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/1weiho/cinematic-shot.md) |
-| [Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar) | Go project | Runs in the browser with a free account | [guide](guides/binaryify/monitorbar.md) |
 <!-- latest:end -->
 
 ## How it works

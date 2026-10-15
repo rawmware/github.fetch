@@ -1,8 +1,69 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T10:22:54.727Z",
- "totalGuides": 765,
+ "updatedAt": "2026-10-15T10:22:54.936Z",
+ "totalGuides": 766,
  "items": [
+  {
+   "fullName": "sjdsjadjajdjsa/hanami",
+   "owner": "sjdsjadjajdjsa",
+   "name": "hanami",
+   "url": "https://github.com/sjdsjadjajdjsa/hanami",
+   "avatar": "https://avatars.githubusercontent.com/u/313729361?v=4",
+   "description": "A small game launcher for Linux and Windows, with falling sakura petals",
+   "language": "Rust",
+   "topics": [
+    "game-launcher",
+    "linux",
+    "rust",
+    "slint",
+    "windows"
+   ],
+   "license": "GPL-3.0",
+   "stars": 60,
+   "forks": 0,
+   "createdAt": "2026-10-13T19:55:54Z",
+   "branch": "main",
+   "homepage": "https://hanami.lilygrove.dev",
+   "addedAt": "2026-10-15T10:22:54.935Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/sjdsjadjajdjsa/hanami?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/sjdsjadjajdjsa/hanami",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/sjdsjadjajdjsa/hanami/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/sjdsjadjajdjsa/hanami.git\ncd hanami\ncargo build --release\ncargo run",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/sjdsjadjajdjsa/hanami\nWhat it says it does: \"A small game launcher for Linux and Windows, with falling sakura petals\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T10:22:54.935Z"
+  },
   {
    "fullName": "JamesZhaoY/logicc2api",
    "owner": "JamesZhaoY",
@@ -31679,78 +31740,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/sisyphuslabs/omo-dori-mode-experimental\nWhat it says it does: \"Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T06:33:31.871Z"
-  },
-  {
-   "fullName": "actual-computer/toks",
-   "owner": "actual-computer",
-   "name": "toks",
-   "url": "https://github.com/actual-computer/toks",
-   "avatar": "https://avatars.githubusercontent.com/u/200724634?v=4",
-   "description": "exact tokenizers ids, as fast as the hardware allows",
-   "language": "C",
-   "topics": [
-    "assembly",
-    "avx2",
-    "bpe",
-    "c",
-    "huggingface",
-    "neon",
-    "sentencepiece",
-    "simd"
-   ],
-   "license": null,
-   "stars": 45,
-   "forks": 1,
-   "createdAt": "2026-10-05T11:05:20Z",
-   "branch": "master",
-   "homepage": "https://actual.inc",
-   "addedAt": "2026-10-07T06:33:31.749Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/actual-computer/toks?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/actual-computer/toks",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/actual-computer/toks/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/actual-computer/toks.git\ncd toks",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/actual-computer/toks\nWhat it says it does: \"exact tokenizers ids, as fast as the hardware allows\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T06:33:31.749Z"
   }
  ],
  "levels": {
+  "account": 242,
   "instant": 40,
   "read": 131,
-  "account": 241,
-  "heavy": 88
+  "heavy": 87
  }
 }

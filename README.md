@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_765 guides written so far · last update 2026-10-15 10:22 UTC_
+_766 guides written so far · last update 2026-10-15 10:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sjdsjadjajdjsa/hanami](https://github.com/sjdsjadjajdjsa/hanami) | Rust project | Runs in the browser with a free account | [guide](guides/sjdsjadjajdjsa/hanami.md) |
 | [JamesZhaoY/logicc2api](https://github.com/JamesZhaoY/logicc2api) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jameszhaoy/logicc2api.md) |
 | [1weiho/cinematic-shot](https://github.com/1weiho/cinematic-shot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/1weiho/cinematic-shot.md) |
 | [Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar) | Go project | Runs in the browser with a free account | [guide](guides/binaryify/monitorbar.md) |
@@ -38,7 +39,6 @@ _765 guides written so far · last update 2026-10-15 10:22 UTC_
 | [apenasdouglas/ai-motion-library](https://github.com/apenasdouglas/ai-motion-library) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apenasdouglas/ai-motion-library.md) |
 | [OpenImagingLab/FlashVSR_Plus](https://github.com/OpenImagingLab/FlashVSR_Plus) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openimaginglab/flashvsr_plus.md) |
 | [vonnyluis/McMEME](https://github.com/vonnyluis/McMEME) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/vonnyluis/mcmeme.md) |
-| [chuspeeism/dashi-animationstyle](https://github.com/chuspeeism/dashi-animationstyle) | HTML project | Runs in the browser with a free account | [guide](guides/chuspeeism/dashi-animationstyle.md) |
 <!-- latest:end -->
 
 ## How it works

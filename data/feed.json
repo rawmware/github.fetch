@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T05:47:30.681Z",
- "totalGuides": 747,
+ "updatedAt": "2026-10-15T05:47:30.895Z",
+ "totalGuides": 748,
  "items": [
+  {
+   "fullName": "GhostParakeet/deadlock-tool",
+   "owner": "GhostParakeet",
+   "name": "deadlock-tool",
+   "url": "https://github.com/GhostParakeet/deadlock-tool",
+   "avatar": "https://avatars.githubusercontent.com/u/319473270?v=4",
+   "description": "Bypassing deadlocks without vacating threads in concurrent systems",
+   "language": null,
+   "topics": [
+    "deadlock-2026",
+    "deadlock-helper",
+    "deadlock-soft",
+    "deadlock-tool",
+    "deadlock-update",
+    "deadlock-vac"
+   ],
+   "license": "Apache-2.0",
+   "stars": 79,
+   "forks": 20,
+   "createdAt": "2026-10-15T01:18:49Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T05:47:30.894Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/GhostParakeet/deadlock-tool",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/GhostParakeet/deadlock-tool/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/GhostParakeet/deadlock-tool\nWhat it says it does: \"Bypassing deadlocks without vacating threads in concurrent systems\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T05:47:30.894Z"
+  },
   {
    "fullName": "TG-Twilight/c001apk",
    "owner": "TG-Twilight",
@@ -31746,69 +31801,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/nickvasilescu/bops\nWhat it says it does: \"Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T00:34:58.844Z"
-  },
-  {
-   "fullName": "kirohack-official/kirohack",
-   "owner": "kirohack-official",
-   "name": "kirohack",
-   "url": "https://github.com/kirohack-official/kirohack",
-   "avatar": "https://avatars.githubusercontent.com/u/282073457?v=4",
-   "description": "Официальный скрипт Kirohack (Кирохак) для игры Dynast.io от dazaso",
-   "language": null,
-   "topics": [
-    "cheat-engine-table",
-    "cheatsheet",
-    "cheatsheets",
-    "dazaso",
-    "dynast-io",
-    "dynasties",
-    "dynastio",
-    "dynastio-assets"
-   ],
-   "license": null,
-   "stars": 51,
-   "forks": 0,
-   "createdAt": "2026-10-05T09:24:33Z",
-   "branch": "main",
-   "homepage": "https://kiroproject.wisp.uno",
-   "addedAt": "2026-10-06T20:54:44.068Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/kirohack-official/kirohack",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kirohack-official/kirohack/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/kirohack-official/kirohack\nWhat it says it does: \"Официальный скрипт Kirohack (Кирохак) для игры Dynast.io от dazaso\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T20:54:44.068Z"
   }
  ],
  "levels": {
+  "read": 129,
   "heavy": 87,
   "account": 244,
-  "read": 129,
   "instant": 40
  }
 }

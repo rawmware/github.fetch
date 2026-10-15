@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_755 guides written so far · last update 2026-10-15 05:47 UTC_
+_756 guides written so far · last update 2026-10-15 05:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [OpenImagingLab/FlashVSR_Plus](https://github.com/OpenImagingLab/FlashVSR_Plus) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openimaginglab/flashvsr_plus.md) |
 | [vonnyluis/McMEME](https://github.com/vonnyluis/McMEME) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/vonnyluis/mcmeme.md) |
 | [chuspeeism/dashi-animationstyle](https://github.com/chuspeeism/dashi-animationstyle) | HTML project | Runs in the browser with a free account | [guide](guides/chuspeeism/dashi-animationstyle.md) |
 | [aiwithremy/content-principles](https://github.com/aiwithremy/content-principles) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aiwithremy/content-principles.md) |
@@ -38,7 +39,6 @@ _755 guides written so far · last update 2026-10-15 05:47 UTC_
 | [TG-Twilight/c001apk](https://github.com/TG-Twilight/c001apk) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/tg-twilight/c001apk.md) |
 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/ahwootech/brutal.md) |
 | [CarterT27/scion](https://github.com/CarterT27/scion) | Rust project | Runs in the browser with a free account | [guide](guides/cartert27/scion.md) |
-| [pgrundev/pgsync](https://github.com/pgrundev/pgsync) | Rust project | Runs in the browser with a free account | [guide](guides/pgrundev/pgsync.md) |
 <!-- latest:end -->
 
 ## How it works

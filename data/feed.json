@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T10:22:53.631Z",
- "totalGuides": 760,
+ "updatedAt": "2026-10-15T10:22:53.774Z",
+ "totalGuides": 761,
  "items": [
+  {
+   "fullName": "HayatoG/iss_pc",
+   "owner": "HayatoG",
+   "name": "iss_pc",
+   "url": "https://github.com/HayatoG/iss_pc",
+   "avatar": "https://avatars.githubusercontent.com/u/22659047?v=4",
+   "description": "Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump.",
+   "language": "C++",
+   "topics": [
+    "game-preservation",
+    "homebrew",
+    "infamous-second-son",
+    "linux",
+    "native-port",
+    "pc-port",
+    "playstation-4",
+    "ps4"
+   ],
+   "license": null,
+   "stars": 76,
+   "forks": 4,
+   "createdAt": "2026-10-13T21:48:17Z",
+   "branch": "main",
+   "homepage": "https://www.youtube.com/@hayatog-dev",
+   "addedAt": "2026-10-15T10:22:53.774Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/HayatoG/iss_pc?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/HayatoG/iss_pc",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/HayatoG/iss_pc/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/HayatoG/iss_pc.git\ncd iss_pc",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/HayatoG/iss_pc\nWhat it says it does: \"Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T10:22:53.774Z"
+  },
   {
    "fullName": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
    "owner": "heqiangdiao-wq",
@@ -31690,82 +31756,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/kenkorasu/seed-phrase-generator\nWhat it says it does: \"WalletGen - Seed Phrase generator / checker / finder / bruteforce for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T06:33:30.970Z"
-  },
-  {
-   "fullName": "FlashLionNight/amnezia-vpn-download",
-   "owner": "FlashLionNight",
-   "name": "amnezia-vpn-download",
-   "url": "https://github.com/FlashLionNight/amnezia-vpn-download",
-   "avatar": "https://avatars.githubusercontent.com/u/330635410?v=4",
-   "description": "Amnezia VPN v5.0.3.0 — Amnezia VPN Client (Desktop+Mobile) Amnezia VPN is an open-source VPN client that enables users to easily deploy and manage their own self-hosted VPN server. Info page and download link. Third-party software; all rights belong to the original authors.",
-   "language": "Python",
-   "topics": [
-    "amnezia-vpn",
-    "amnezia-vpn-download",
-    "amneziavpn",
-    "amneziawg",
-    "cross-platform",
-    "download",
-    "openvpn",
-    "privacy"
-   ],
-   "license": null,
-   "stars": 50,
-   "forks": 0,
-   "createdAt": "2026-10-05T20:38:44Z",
-   "branch": "main",
-   "homepage": "https://softgit.pro/p/amnezia-vpn",
-   "addedAt": "2026-10-07T06:33:30.758Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/FlashLionNight/amnezia-vpn-download/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/FlashLionNight/amnezia-vpn-download?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/FlashLionNight/amnezia-vpn-download",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/FlashLionNight/amnezia-vpn-download/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/FlashLionNight/amnezia-vpn-download.git\ncd amnezia-vpn-download",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/FlashLionNight/amnezia-vpn-download\nWhat it says it does: \"Amnezia VPN v5.0.3.0 — Amnezia VPN Client (Desktop+Mobile) Amnezia VPN is an open-source VPN client that enables users to easily deploy and manage their own self-hosted VPN server. Info page and download link. Third-party software; all rights belong to the original authors.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T06:33:30.758Z"
   }
  ],
  "levels": {
-  "account": 242,
-  "heavy": 88,
+  "heavy": 89,
+  "account": 241,
   "instant": 40,
   "read": 130
  }

@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T15:18:25.971Z",
- "totalGuides": 779,
+ "updatedAt": "2026-10-15T15:18:26.166Z",
+ "totalGuides": 780,
  "items": [
+  {
+   "fullName": "Ernket/CodeScan-Artex",
+   "owner": "Ernket",
+   "name": "CodeScan-Artex",
+   "url": "https://github.com/Ernket/CodeScan-Artex",
+   "avatar": "https://avatars.githubusercontent.com/u/35891165?v=4",
+   "description": "二开artex的代码审计平台",
+   "language": "Go",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 55,
+   "forks": 35,
+   "createdAt": "2026-10-14T15:35:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T15:18:26.165Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Ernket/CodeScan-Artex?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Ernket/CodeScan-Artex",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Ernket/CodeScan-Artex/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Ernket/CodeScan-Artex.git\ncd CodeScan-Artex\ngo build ./...",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/Ernket/CodeScan-Artex\nWhat it says it does: \"二开artex的代码审计平台\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T15:18:26.165Z"
+  },
   {
    "fullName": "10291124jcjc-dotcom/ancient-rap-battle",
    "owner": "10291124jcjc-dotcom",
@@ -31654,70 +31709,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/mushigaite/short-video-maker\nWhat it says it does: \"A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools \"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T13:51:07.053Z"
-  },
-  {
-   "fullName": "atmirrr/persian-motion-director",
-   "owner": "atmirrr",
-   "name": "persian-motion-director",
-   "url": "https://github.com/atmirrr/persian-motion-director",
-   "avatar": "https://avatars.githubusercontent.com/u/116815342?v=4",
-   "description": "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples.",
-   "language": "JavaScript",
-   "topics": [
-    "agent-skills",
-    "claude",
-    "claude-skills",
-    "farsi",
-    "kinetic-typography",
-    "motion-design",
-    "persian",
-    "remotion"
-   ],
-   "license": null,
-   "stars": 102,
-   "forks": 4,
-   "createdAt": "2026-10-06T12:23:55Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-07T13:51:06.800Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/atmirrr/persian-motion-director?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/atmirrr/persian-motion-director",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/atmirrr/persian-motion-director/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/atmirrr/persian-motion-director.git\ncd persian-motion-director",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/atmirrr/persian-motion-director\nWhat it says it does: \"A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T13:51:06.800Z"
   }
  ],
  "levels": {

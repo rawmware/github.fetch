@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_779 guides written so far · last update 2026-10-15 15:18 UTC_
+_780 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex) | Go project | Runs in the browser with a free account | [guide](guides/ernket/codescan-artex.md) |
 | [10291124jcjc-dotcom/ancient-rap-battle](https://github.com/10291124jcjc-dotcom/ancient-rap-battle) | Python project | Runs in the browser with a free account | [guide](guides/10291124jcjc-dotcom/ancient-rap-battle.md) |
 | [Liu-PenPen/Agent-OS](https://github.com/Liu-PenPen/Agent-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/liu-penpen/agent-os.md) |
 | [tinyhumansai/openscion](https://github.com/tinyhumansai/openscion) | Rust project | Runs in the browser with a free account | [guide](guides/tinyhumansai/openscion.md) |
@@ -38,7 +39,6 @@ _779 guides written so far · last update 2026-10-15 15:18 UTC_
 | [MaryCache/imozuru](https://github.com/MaryCache/imozuru) | Python project | Runs in the browser with a free account | [guide](guides/marycache/imozuru.md) |
 | [feder-cr/open_scion](https://github.com/feder-cr/open_scion) | Go project | Runs in the browser with a free account | [guide](guides/feder-cr/open_scion.md) |
 | [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC) | Python project | Runs in the browser with a free account | [guide](guides/jburgess-r7/cve-2026-97229-poc.md) |
-| [obaidr1/hercules-recompiled](https://github.com/obaidr1/hercules-recompiled) | Python project | Runs in the browser with a free account | [guide](guides/obaidr1/hercules-recompiled.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_769 guides written so far · last update 2026-10-15 10:22 UTC_
+_770 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [feder-cr/open_scion](https://github.com/feder-cr/open_scion) | Go project | Runs in the browser with a free account | [guide](guides/feder-cr/open_scion.md) |
 | [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC) | Python project | Runs in the browser with a free account | [guide](guides/jburgess-r7/cve-2026-97229-poc.md) |
 | [obaidr1/hercules-recompiled](https://github.com/obaidr1/hercules-recompiled) | Python project | Runs in the browser with a free account | [guide](guides/obaidr1/hercules-recompiled.md) |
 | [R44VC0RP/isocast](https://github.com/R44VC0RP/isocast) | Rust project | Runs in the browser with a free account | [guide](guides/r44vc0rp/isocast.md) |
@@ -38,7 +39,6 @@ _769 guides written so far · last update 2026-10-15 10:22 UTC_
 | [HayatoG/iss_pc](https://github.com/HayatoG/iss_pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hayatog/iss_pc.md) |
 | [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) | Python project | Runs in the browser with a free account | [guide](guides/heqiangdiao-wq/ai-cross-border-ecommerce-agent-toolkit.md) |
 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/supermedo/uncharted_pc.md) |
-| [chenglou/handwired](https://github.com/chenglou/handwired) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/chenglou/handwired.md) |
 <!-- latest:end -->
 
 ## How it works

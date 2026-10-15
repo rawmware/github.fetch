@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_797 guides written so far · last update 2026-10-15 22:27 UTC_
+_798 guides written so far · last update 2026-10-15 22:27 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yzg1226/mcd-party-officer](https://github.com/yzg1226/mcd-party-officer) | Python project | Runs in the browser with a free account | [guide](guides/yzg1226/mcd-party-officer.md) |
 | [RokkuDayo/ForzaHorizon2_ExtraOptions](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) | C project | Needs a real machine (or a GPU) to run | [guide](guides/rokkudayo/forzahorizon2_extraoptions.md) |
 | [hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist) | Python project | Runs in the browser with a free account | [guide](guides/hujjun/mcd-saver-strategist.md) |
 | [risingpower/claude-phone](https://github.com/risingpower/claude-phone) | Python project | Runs in the browser with a free account | [guide](guides/risingpower/claude-phone.md) |
@@ -38,7 +39,6 @@ _797 guides written so far · last update 2026-10-15 22:27 UTC_
 | [peiikai/LASRecomp](https://github.com/peiikai/LASRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/peiikai/lasrecomp.md) |
 | [Chien1618/design-on-the-flank](https://github.com/Chien1618/design-on-the-flank) | Python project | Runs in the browser with a free account | [guide](guides/chien1618/design-on-the-flank.md) |
 | [talsiach/take-one](https://github.com/talsiach/take-one) | JavaScript project | Runs in the browser with a free account | [guide](guides/talsiach/take-one.md) |
-| [AsaneNAY/Software-Tools-Collection](https://github.com/AsaneNAY/Software-Tools-Collection) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/asanenay/software-tools-collection.md) |
 <!-- latest:end -->
 
 ## How it works

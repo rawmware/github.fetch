@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T05:47:32.129Z",
- "totalGuides": 753,
+ "updatedAt": "2026-10-15T05:47:32.368Z",
+ "totalGuides": 754,
  "items": [
+  {
+   "fullName": "chuspeeism/dashi-animationstyle",
+   "owner": "chuspeeism",
+   "name": "dashi-animationstyle",
+   "url": "https://github.com/chuspeeism/dashi-animationstyle",
+   "avatar": "https://avatars.githubusercontent.com/u/70992554?v=4",
+   "description": "把一段中文知识口播做成 7 种画风的讲解动画（Claude Code skill）：画面由 Claude 写 HTML/Canvas 代码逐帧画出，不用生图模型",
+   "language": "HTML",
+   "topics": [],
+   "license": null,
+   "stars": 61,
+   "forks": 1,
+   "createdAt": "2026-10-13T07:37:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T05:47:32.368Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/chuspeeism/dashi-animationstyle?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/chuspeeism/dashi-animationstyle",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/chuspeeism/dashi-animationstyle/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/chuspeeism/dashi-animationstyle.git\ncd dashi-animationstyle",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/chuspeeism/dashi-animationstyle\nWhat it says it does: \"把一段中文知识口播做成 7 种画风的讲解动画（Claude Code skill）：画面由 Claude 写 HTML/Canvas 代码逐帧画出，不用生图模型\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T05:47:32.368Z"
+  },
   {
    "fullName": "aiwithremy/content-principles",
    "owner": "aiwithremy",
@@ -31701,82 +31756,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/h100envy/gem-search\nWhat it says it does: \"Rainbow spider that X-rays memecoins: bundles, linked wallets, dev history. Scanner, Telegram bot, live Bundle Index.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T06:33:29.523Z"
-  },
-  {
-   "fullName": "Galekrufluctuate/capcut-commerce-pro-download",
-   "owner": "Galekrufluctuate",
-   "name": "capcut-commerce-pro-download",
-   "url": "https://github.com/Galekrufluctuate/capcut-commerce-pro-download",
-   "avatar": "https://avatars.githubusercontent.com/u/330636770?v=4",
-   "description": "CapCut Commerce Pro — Read reviews about and evaluate some popular CapCut Commerce Pro alternatives. Info page and download link. Third-party software; all rights belong to the original authors.",
-   "language": "Python",
-   "topics": [
-    "capcut",
-    "capcut-commerce-pro",
-    "capcut-commerce-pro-download",
-    "capcut-pro",
-    "commerce",
-    "content-creation",
-    "creative-tools",
-    "cross-platform"
-   ],
-   "license": null,
-   "stars": 50,
-   "forks": 0,
-   "createdAt": "2026-10-06T10:27:18Z",
-   "branch": "main",
-   "homepage": "https://softgit.pro/p/capcut-commerce-pro",
-   "addedAt": "2026-10-07T00:35:00.195Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Galekrufluctuate/capcut-commerce-pro-download/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Galekrufluctuate/capcut-commerce-pro-download?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Galekrufluctuate/capcut-commerce-pro-download",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Galekrufluctuate/capcut-commerce-pro-download/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Galekrufluctuate/capcut-commerce-pro-download.git\ncd capcut-commerce-pro-download",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Galekrufluctuate/capcut-commerce-pro-download\nWhat it says it does: \"CapCut Commerce Pro — Read reviews about and evaluate some popular CapCut Commerce Pro alternatives. Info page and download link. Third-party software; all rights belong to the original authors.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T00:35:00.195Z"
   }
  ],
  "levels": {
-  "read": 130,
   "account": 244,
+  "read": 130,
   "heavy": 86,
   "instant": 40
  }

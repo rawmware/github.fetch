@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_753 guides written so far · last update 2026-10-15 05:47 UTC_
+_754 guides written so far · last update 2026-10-15 05:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [chuspeeism/dashi-animationstyle](https://github.com/chuspeeism/dashi-animationstyle) | HTML project | Runs in the browser with a free account | [guide](guides/chuspeeism/dashi-animationstyle.md) |
 | [aiwithremy/content-principles](https://github.com/aiwithremy/content-principles) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aiwithremy/content-principles.md) |
 | [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release) | Python project | Runs in the browser with a free account | [guide](guides/lsposed/dexsql-release.md) |
 | [ananhq/anan-iphone-use](https://github.com/ananhq/anan-iphone-use) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ananhq/anan-iphone-use.md) |
@@ -38,7 +39,6 @@ _753 guides written so far · last update 2026-10-15 05:47 UTC_
 | [CarterT27/scion](https://github.com/CarterT27/scion) | Rust project | Runs in the browser with a free account | [guide](guides/cartert27/scion.md) |
 | [pgrundev/pgsync](https://github.com/pgrundev/pgsync) | Rust project | Runs in the browser with a free account | [guide](guides/pgrundev/pgsync.md) |
 | [exatoneshock/Modern-FPS-Booster-Win](https://github.com/exatoneshock/Modern-FPS-Booster-Win) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exatoneshock/modern-fps-booster-win.md) |
-| [kota-zo/myspoti](https://github.com/kota-zo/myspoti) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/kota-zo/myspoti.md) |
 <!-- latest:end -->
 
 ## How it works

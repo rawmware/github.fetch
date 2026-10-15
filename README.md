@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_778 guides written so far · last update 2026-10-15 15:18 UTC_
+_779 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [10291124jcjc-dotcom/ancient-rap-battle](https://github.com/10291124jcjc-dotcom/ancient-rap-battle) | Python project | Runs in the browser with a free account | [guide](guides/10291124jcjc-dotcom/ancient-rap-battle.md) |
 | [Liu-PenPen/Agent-OS](https://github.com/Liu-PenPen/Agent-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/liu-penpen/agent-os.md) |
 | [tinyhumansai/openscion](https://github.com/tinyhumansai/openscion) | Rust project | Runs in the browser with a free account | [guide](guides/tinyhumansai/openscion.md) |
 | [OpenPort-Labs/Galaxy-Android](https://github.com/OpenPort-Labs/Galaxy-Android) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/openport-labs/galaxy-android.md) |
@@ -38,7 +39,6 @@ _778 guides written so far · last update 2026-10-15 15:18 UTC_
 | [feder-cr/open_scion](https://github.com/feder-cr/open_scion) | Go project | Runs in the browser with a free account | [guide](guides/feder-cr/open_scion.md) |
 | [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC) | Python project | Runs in the browser with a free account | [guide](guides/jburgess-r7/cve-2026-97229-poc.md) |
 | [obaidr1/hercules-recompiled](https://github.com/obaidr1/hercules-recompiled) | Python project | Runs in the browser with a free account | [guide](guides/obaidr1/hercules-recompiled.md) |
-| [R44VC0RP/isocast](https://github.com/R44VC0RP/isocast) | Rust project | Runs in the browser with a free account | [guide](guides/r44vc0rp/isocast.md) |
 <!-- latest:end -->
 
 ## How it works

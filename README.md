@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_739 guides written so far · last update 2026-10-15 00:57 UTC_
+_740 guides written so far · last update 2026-10-15 00:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VallierDev/uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) | Rust project | Runs in the browser with a free account | [guide](guides/vallierdev/uu-remote-linux.md) |
 | [Sam1983Aing/casa-serra](https://github.com/Sam1983Aing/casa-serra) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sam1983aing/casa-serra.md) |
 | [ShizeChen-ene/youtube-tiktok-video-manager](https://github.com/ShizeChen-ene/youtube-tiktok-video-manager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shizechen-ene/youtube-tiktok-video-manager.md) |
 | [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything) | Python project | Runs in the browser with a free account | [guide](guides/gen-verse/rsi-anything.md) |
@@ -38,7 +39,6 @@ _739 guides written so far · last update 2026-10-15 00:57 UTC_
 | [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) | Python project | Runs in the browser with a free account | [guide](guides/entelligence-ai/agentplay.md) |
 | [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep) | Python project | Runs in the browser with a free account | [guide](guides/nvidia-omniverse/usd-brep.md) |
 | [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | JavaScript project | Runs in the browser with a free account | [guide](guides/fei2411/deepseek-bot.md) |
-| [ziplab/ATAS](https://github.com/ziplab/ATAS) | Python project | Runs in the browser with a free account | [guide](guides/ziplab/atas.md) |
 <!-- latest:end -->
 
 ## How it works

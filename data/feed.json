@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T05:47:33.307Z",
- "totalGuides": 757,
+ "updatedAt": "2026-10-15T10:22:53.243Z",
+ "totalGuides": 758,
  "items": [
+  {
+   "fullName": "chenglou/handwired",
+   "owner": "chenglou",
+   "name": "handwired",
+   "url": "https://github.com/chenglou/handwired",
+   "avatar": "https://avatars.githubusercontent.com/u/1909539?v=4",
+   "description": "Turn your regular JavaScript code into a neural net.",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 236,
+   "forks": 14,
+   "createdAt": "2026-10-15T02:15:09Z",
+   "branch": "main",
+   "homepage": "https://chenglou.me/handwired/",
+   "addedAt": "2026-10-15T10:22:53.228Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/chenglou/handwired",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm start`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/chenglou/handwired",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/chenglou/handwired?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/chenglou/handwired",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/chenglou/handwired/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm start",
+   "notes": [
+    "Made with Bun. If npm gives trouble, open it in Codespaces and use bun."
+   ],
+   "local": "git clone --depth 1 https://github.com/chenglou/handwired.git\ncd handwired\nnpm install\nnpm start",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/chenglou/handwired\nWhat it says it does: \"Turn your regular JavaScript code into a neural net.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T10:22:53.228Z"
+  },
   {
    "fullName": "apenasdouglas/ai-motion-library",
    "owner": "apenasdouglas",
@@ -31690,74 +31761,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Convergeflucool/hubspot-crm-download\nWhat it says it does: \"HubSpot CRM — Business SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T06:33:30.394Z"
-  },
-  {
-   "fullName": "jinrunsen/claude-my-privacy",
-   "owner": "jinrunsen",
-   "name": "claude-my-privacy",
-   "url": "https://github.com/jinrunsen/claude-my-privacy",
-   "avatar": "https://avatars.githubusercontent.com/u/9269304?v=4",
-   "description": "MyPrivacy: local name and company pseudonymization for Claude Code, with restoration for tools and assistant reply display.",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 53,
-   "forks": 6,
-   "createdAt": "2026-10-06T09:00:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-07T06:33:30.214Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/jinrunsen/claude-my-privacy/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/jinrunsen/claude-my-privacy?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/jinrunsen/claude-my-privacy",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/jinrunsen/claude-my-privacy/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/jinrunsen/claude-my-privacy.git\ncd claude-my-privacy",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/jinrunsen/claude-my-privacy\nWhat it says it does: \"MyPrivacy: local name and company pseudonymization for Claude Code, with restoration for tools and assistant reply display.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T06:33:30.214Z"
   }
  ],
  "levels": {
+  "instant": 40,
   "read": 131,
   "heavy": 87,
-  "instant": 39,
-  "account": 243
+  "account": 242
  }
 }

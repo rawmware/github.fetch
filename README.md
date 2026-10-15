@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_757 guides written so far · last update 2026-10-15 05:47 UTC_
+_758 guides written so far · last update 2026-10-15 10:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [chenglou/handwired](https://github.com/chenglou/handwired) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/chenglou/handwired.md) |
 | [apenasdouglas/ai-motion-library](https://github.com/apenasdouglas/ai-motion-library) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apenasdouglas/ai-motion-library.md) |
 | [OpenImagingLab/FlashVSR_Plus](https://github.com/OpenImagingLab/FlashVSR_Plus) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openimaginglab/flashvsr_plus.md) |
 | [vonnyluis/McMEME](https://github.com/vonnyluis/McMEME) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/vonnyluis/mcmeme.md) |
@@ -38,7 +39,6 @@ _757 guides written so far · last update 2026-10-15 05:47 UTC_
 | [pro-vi/cc-stretch](https://github.com/pro-vi/cc-stretch) | JavaScript project | Runs in the browser with a free account | [guide](guides/pro-vi/cc-stretch.md) |
 | [GhostParakeet/deadlock-tool](https://github.com/GhostParakeet/deadlock-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ghostparakeet/deadlock-tool.md) |
 | [TG-Twilight/c001apk](https://github.com/TG-Twilight/c001apk) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/tg-twilight/c001apk.md) |
-| [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/ahwootech/brutal.md) |
 <!-- latest:end -->
 
 ## How it works

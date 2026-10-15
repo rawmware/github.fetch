@@ -1,8 +1,89 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T19:15:30.977Z",
- "totalGuides": 792,
+ "updatedAt": "2026-10-15T19:15:31.362Z",
+ "totalGuides": 793,
  "items": [
+  {
+   "fullName": "thesysdev/open-intelligent-ui",
+   "owner": "thesysdev",
+   "name": "open-intelligent-ui",
+   "url": "https://github.com/thesysdev/open-intelligent-ui",
+   "avatar": "https://avatars.githubusercontent.com/u/155424887?v=4",
+   "description": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
+   "language": "TypeScript",
+   "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-ui",
+    "chat-ui",
+    "chatgpt",
+    "generative-ui",
+    "intelligent-ui"
+   ],
+   "license": null,
+   "stars": 385,
+   "forks": 27,
+   "createdAt": "2026-10-08T05:37:45Z",
+   "branch": "main",
+   "homepage": "https://www.openui.com/demo/intelligent-ui",
+   "addedAt": "2026-10-15T19:15:31.361Z",
+   "stack": {
+    "kind": "node",
+    "label": "Next.js app",
+    "frameworks": [
+     "Next.js",
+     "React"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/thesysdev/open-intelligent-ui",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/thesysdev/open-intelligent-ui",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/thesysdev/open-intelligent-ui?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/thesysdev/open-intelligent-ui",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/thesysdev/open-intelligent-ui/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/thesysdev/open-intelligent-ui.git\ncd open-intelligent-ui\nnpm install\nnpm run dev",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/thesysdev/open-intelligent-ui\nWhat it says it does: \"An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T19:15:31.361Z"
+  },
   {
    "fullName": "NabilRFG12/Reverse-Engineer-anything",
    "owner": "NabilRFG12",
@@ -31674,78 +31755,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/gr8rstudio/gr8r-studio\nWhat it says it does: \"Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T19:52:40.057Z"
-  },
-  {
-   "fullName": "Pluviobyte/dot2api",
-   "owner": "Pluviobyte",
-   "name": "dot2api",
-   "url": "https://github.com/Pluviobyte/dot2api",
-   "avatar": "https://avatars.githubusercontent.com/u/94058511?v=4",
-   "description": "Turn your OpenAI Dot into an OpenAI- and Claude-compatible API",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 94,
-   "forks": 11,
-   "createdAt": "2026-10-06T06:33:50Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-07T19:52:39.784Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python FastAPI app",
-    "frameworks": [
-     "FastAPI"
-    ]
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Pluviobyte/dot2api/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Pluviobyte/dot2api?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Pluviobyte/dot2api",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Pluviobyte/dot2api/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [
-    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
-   ],
-   "local": "git clone --depth 1 https://github.com/Pluviobyte/dot2api.git\ncd dot2api\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Pluviobyte/dot2api\nWhat it says it does: \"Turn your OpenAI Dot into an OpenAI- and Claude-compatible API\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T19:52:39.784Z"
   }
  ],
  "levels": {
-  "account": 235,
+  "instant": 42,
+  "account": 234,
   "read": 134,
-  "instant": 41,
   "heavy": 90
  }
 }

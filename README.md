@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_776 guides written so far · last update 2026-10-15 15:18 UTC_
+_777 guides written so far · last update 2026-10-15 15:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [tinyhumansai/openscion](https://github.com/tinyhumansai/openscion) | Rust project | Runs in the browser with a free account | [guide](guides/tinyhumansai/openscion.md) |
 | [OpenPort-Labs/Galaxy-Android](https://github.com/OpenPort-Labs/Galaxy-Android) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/openport-labs/galaxy-android.md) |
 | [HayatoG/tlg_pc](https://github.com/HayatoG/tlg_pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hayatog/tlg_pc.md) |
 | [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator) | C project | Needs a real machine (or a GPU) to run | [guide](guides/antirez/c64-hw-simulator.md) |
@@ -38,7 +39,6 @@ _776 guides written so far · last update 2026-10-15 15:18 UTC_
 | [obaidr1/hercules-recompiled](https://github.com/obaidr1/hercules-recompiled) | Python project | Runs in the browser with a free account | [guide](guides/obaidr1/hercules-recompiled.md) |
 | [R44VC0RP/isocast](https://github.com/R44VC0RP/isocast) | Rust project | Runs in the browser with a free account | [guide](guides/r44vc0rp/isocast.md) |
 | [sjdsjadjajdjsa/hanami](https://github.com/sjdsjadjajdjsa/hanami) | Rust project | Runs in the browser with a free account | [guide](guides/sjdsjadjajdjsa/hanami.md) |
-| [JamesZhaoY/logicc2api](https://github.com/JamesZhaoY/logicc2api) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jameszhaoy/logicc2api.md) |
 <!-- latest:end -->
 
 ## How it works

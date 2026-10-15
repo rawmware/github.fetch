@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_790 guides written so far · last update 2026-10-15 19:15 UTC_
+_791 guides written so far · last update 2026-10-15 19:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/morluto/awesome-reverse-engineering.md) |
 | [nateherkai/roast-room](https://github.com/nateherkai/roast-room) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nateherkai/roast-room.md) |
 | [peiikai/LASRecomp](https://github.com/peiikai/LASRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/peiikai/lasrecomp.md) |
 | [Chien1618/design-on-the-flank](https://github.com/Chien1618/design-on-the-flank) | Python project | Runs in the browser with a free account | [guide](guides/chien1618/design-on-the-flank.md) |
@@ -38,7 +39,6 @@ _790 guides written so far · last update 2026-10-15 19:15 UTC_
 | [fitzforge/polestar](https://github.com/fitzforge/polestar) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fitzforge/polestar.md) |
 | [huacnlee/gpui-shell-benchs](https://github.com/huacnlee/gpui-shell-benchs) | JavaScript project | Runs in the browser with a free account | [guide](guides/huacnlee/gpui-shell-benchs.md) |
 | [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex) | Go project | Runs in the browser with a free account | [guide](guides/ernket/codescan-artex.md) |
-| [10291124jcjc-dotcom/ancient-rap-battle](https://github.com/10291124jcjc-dotcom/ancient-rap-battle) | Python project | Runs in the browser with a free account | [guide](guides/10291124jcjc-dotcom/ancient-rap-battle.md) |
 <!-- latest:end -->
 
 ## How it works

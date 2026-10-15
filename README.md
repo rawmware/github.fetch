@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_784 guides written so far · last update 2026-10-15 19:15 UTC_
+_785 guides written so far · last update 2026-10-15 19:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Ayi914/paperchecker](https://github.com/Ayi914/paperchecker) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/ayi914/paperchecker.md) |
 | [0herculabs/hl360-Forza2](https://github.com/0herculabs/hl360-Forza2) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/0herculabs/hl360-forza2.md) |
 | [Administracion-Abierta/AutoFirme](https://github.com/Administracion-Abierta/AutoFirme) | SvelteKit app | Runs in a browser tab, no account needed | [guide](guides/administracion-abierta/autofirme.md) |
 | [fitzforge/polestar](https://github.com/fitzforge/polestar) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fitzforge/polestar.md) |
@@ -38,7 +39,6 @@ _784 guides written so far · last update 2026-10-15 19:15 UTC_
 | [OpenPort-Labs/Galaxy-Android](https://github.com/OpenPort-Labs/Galaxy-Android) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/openport-labs/galaxy-android.md) |
 | [HayatoG/tlg_pc](https://github.com/HayatoG/tlg_pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hayatog/tlg_pc.md) |
 | [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator) | C project | Needs a real machine (or a GPU) to run | [guide](guides/antirez/c64-hw-simulator.md) |
-| [centimotormancavity/youtube-tiktok-video-manager-downloader](https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centimotormancavity/youtube-tiktok-video-manager-downloader.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_795 guides written so far · last update 2026-10-15 22:27 UTC_
+_796 guides written so far · last update 2026-10-15 22:27 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist) | Python project | Runs in the browser with a free account | [guide](guides/hujjun/mcd-saver-strategist.md) |
 | [risingpower/claude-phone](https://github.com/risingpower/claude-phone) | Python project | Runs in the browser with a free account | [guide](guides/risingpower/claude-phone.md) |
 | [wanderingspirit03/ambition-skill](https://github.com/wanderingspirit03/ambition-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wanderingspirit03/ambition-skill.md) |
 | [thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/thesysdev/open-intelligent-ui.md) |
@@ -38,7 +39,6 @@ _795 guides written so far · last update 2026-10-15 22:27 UTC_
 | [talsiach/take-one](https://github.com/talsiach/take-one) | JavaScript project | Runs in the browser with a free account | [guide](guides/talsiach/take-one.md) |
 | [AsaneNAY/Software-Tools-Collection](https://github.com/AsaneNAY/Software-Tools-Collection) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/asanenay/software-tools-collection.md) |
 | [Ayi914/paperchecker](https://github.com/Ayi914/paperchecker) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/ayi914/paperchecker.md) |
-| [0herculabs/hl360-Forza2](https://github.com/0herculabs/hl360-Forza2) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/0herculabs/hl360-forza2.md) |
 <!-- latest:end -->
 
 ## How it works

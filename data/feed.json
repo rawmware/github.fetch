@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T00:57:46.228Z",
- "totalGuides": 741,
+ "updatedAt": "2026-10-15T00:57:46.438Z",
+ "totalGuides": 742,
  "items": [
+  {
+   "fullName": "kota-zo/myspoti",
+   "owner": "kota-zo",
+   "name": "myspoti",
+   "url": "https://github.com/kota-zo/myspoti",
+   "avatar": "https://avatars.githubusercontent.com/u/193484410?v=4",
+   "description": "Native Android client for Spotify, built with Jetpack Compose",
+   "language": "Kotlin",
+   "topics": [
+    "ad-free",
+    "adblock",
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "lyrics",
+    "music-player",
+    "music-video"
+   ],
+   "license": "GPL-3.0",
+   "stars": 61,
+   "forks": 1,
+   "createdAt": "2026-10-14T13:01:34Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T00:57:46.437Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/kota-zo/myspoti?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/kota-zo/myspoti",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kota-zo/myspoti/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/kota-zo/myspoti.git\ncd myspoti",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/kota-zo/myspoti\nWhat it says it does: \"Native Android client for Spotify, built with Jetpack Compose\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T00:57:46.437Z"
+  },
   {
    "fullName": "Ivan666jjj/yigezi",
    "owner": "Ivan666jjj",
@@ -31771,65 +31837,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ghuntley/jiti\nWhat it says it does: \"Live Common Lisp image repair with OpenAI tools, persistent revisions, and a conversational CLI\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-06T20:54:42.586Z"
-  },
-  {
-   "fullName": "Lavawithinform/rainbow-r6-menu",
-   "owner": "Lavawithinform",
-   "name": "rainbow-r6-menu",
-   "url": "https://github.com/Lavawithinform/rainbow-r6-menu",
-   "avatar": "https://avatars.githubusercontent.com/u/332428276?v=4",
-   "description": "helpful menu with aim, wh and many, others fucntions for free!",
-   "language": null,
-   "topics": [
-    "r6-siege-cheat",
-    "rainbow-six-siege-macros",
-    "rainbow-six-siege-x",
-    "rainbow6siege"
-   ],
-   "license": null,
-   "stars": 53,
-   "forks": 0,
-   "createdAt": "2026-10-05T14:24:29Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-06T20:54:42.403Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Lavawithinform/rainbow-r6-menu",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Lavawithinform/rainbow-r6-menu/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Lavawithinform/rainbow-r6-menu\nWhat it says it does: \"helpful menu with aim, wh and many, others fucntions for free!\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-06T20:54:42.403Z"
   }
  ],
  "levels": {
+  "heavy": 85,
   "instant": 41,
   "account": 245,
-  "read": 130,
-  "heavy": 84
+  "read": 129
  }
 }

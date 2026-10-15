@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_787 guides written so far · last update 2026-10-15 19:15 UTC_
+_788 guides written so far · last update 2026-10-15 19:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Chien1618/design-on-the-flank](https://github.com/Chien1618/design-on-the-flank) | Python project | Runs in the browser with a free account | [guide](guides/chien1618/design-on-the-flank.md) |
 | [talsiach/take-one](https://github.com/talsiach/take-one) | JavaScript project | Runs in the browser with a free account | [guide](guides/talsiach/take-one.md) |
 | [AsaneNAY/Software-Tools-Collection](https://github.com/AsaneNAY/Software-Tools-Collection) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/asanenay/software-tools-collection.md) |
 | [Ayi914/paperchecker](https://github.com/Ayi914/paperchecker) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/ayi914/paperchecker.md) |
@@ -38,7 +39,6 @@ _787 guides written so far · last update 2026-10-15 19:15 UTC_
 | [10291124jcjc-dotcom/ancient-rap-battle](https://github.com/10291124jcjc-dotcom/ancient-rap-battle) | Python project | Runs in the browser with a free account | [guide](guides/10291124jcjc-dotcom/ancient-rap-battle.md) |
 | [Liu-PenPen/Agent-OS](https://github.com/Liu-PenPen/Agent-OS) | JavaScript project | Runs in the browser with a free account | [guide](guides/liu-penpen/agent-os.md) |
 | [tinyhumansai/openscion](https://github.com/tinyhumansai/openscion) | Rust project | Runs in the browser with a free account | [guide](guides/tinyhumansai/openscion.md) |
-| [OpenPort-Labs/Galaxy-Android](https://github.com/OpenPort-Labs/Galaxy-Android) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/openport-labs/galaxy-android.md) |
 <!-- latest:end -->
 
 ## How it works

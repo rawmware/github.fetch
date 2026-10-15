@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T19:15:29.593Z",
- "totalGuides": 787,
+ "updatedAt": "2026-10-15T19:15:29.820Z",
+ "totalGuides": 788,
  "items": [
+  {
+   "fullName": "Chien1618/design-on-the-flank",
+   "owner": "Chien1618",
+   "name": "design-on-the-flank",
+   "url": "https://github.com/Chien1618/design-on-the-flank",
+   "avatar": "https://avatars.githubusercontent.com/u/119557829?v=4",
+   "description": "Paste-ready Framer components with AI. Skills for Codex and Claude, a ChatGPT kit, and beginner-friendly Vietnamese guides.",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 53,
+   "forks": 9,
+   "createdAt": "2026-10-13T06:44:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T19:15:29.819Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Chien1618/design-on-the-flank/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Chien1618/design-on-the-flank?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Chien1618/design-on-the-flank",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Chien1618/design-on-the-flank/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Chien1618/design-on-the-flank.git\ncd design-on-the-flank",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Chien1618/design-on-the-flank\nWhat it says it does: \"Paste-ready Framer components with AI. Skills for Codex and Claude, a ChatGPT kit, and beginner-friendly Vietnamese guides.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T19:15:29.819Z"
+  },
   {
    "fullName": "talsiach/take-one",
    "owner": "talsiach",
@@ -31685,61 +31747,6 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/storytold/deckcraft\nWhat it says it does: \"Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T13:51:08.734Z"
-  },
-  {
-   "fullName": "storytold/craft-fonts",
-   "owner": "storytold",
-   "name": "craft-fonts",
-   "url": "https://github.com/storytold/craft-fonts",
-   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
-   "description": "Fonts for the Crafting Apps",
-   "language": "Rust",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 54,
-   "forks": 66,
-   "createdAt": "2026-10-06T13:44:10Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-07T13:51:08.570Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/storytold/craft-fonts?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/storytold/craft-fonts",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/storytold/craft-fonts/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/storytold/craft-fonts.git\ncd craft-fonts\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/storytold/craft-fonts\nWhat it says it does: \"Fonts for the Crafting Apps\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T13:51:08.570Z"
   }
  ],
  "levels": {

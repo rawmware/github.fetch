@@ -1,8 +1,71 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T10:22:54.936Z",
- "totalGuides": 766,
+ "updatedAt": "2026-10-15T10:22:55.159Z",
+ "totalGuides": 767,
  "items": [
+  {
+   "fullName": "R44VC0RP/isocast",
+   "owner": "R44VC0RP",
+   "name": "isocast",
+   "url": "https://github.com/R44VC0RP/isocast",
+   "avatar": "https://avatars.githubusercontent.com/u/89211796?v=4",
+   "description": "OBS-style recorder for macOS: scenes, per-source ISO recording, streaming, and full control from a CLI and MCP.",
+   "language": "Rust",
+   "topics": [
+    "live-streaming",
+    "macos",
+    "mcp",
+    "obs",
+    "recording",
+    "rust",
+    "screen-recorder"
+   ],
+   "license": "Apache-2.0",
+   "stars": 59,
+   "forks": 1,
+   "createdAt": "2026-10-13T21:01:59Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-15T10:22:55.159Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/R44VC0RP/isocast?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/R44VC0RP/isocast",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/R44VC0RP/isocast/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/R44VC0RP/isocast.git\ncd isocast\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/R44VC0RP/isocast\nWhat it says it does: \"OBS-style recorder for macOS: scenes, per-source ISO recording, streaming, and full control from a CLI and MCP.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-15T10:22:55.159Z"
+  },
   {
    "fullName": "sjdsjadjajdjsa/hanami",
    "owner": "sjdsjadjajdjsa",
@@ -31676,70 +31739,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/THUROI0787/absent-author\nWhat it says it does: \"Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-07T06:33:32.023Z"
-  },
-  {
-   "fullName": "sisyphuslabs/omo-dori-mode-experimental",
-   "owner": "sisyphuslabs",
-   "name": "omo-dori-mode-experimental",
-   "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
-   "avatar": "https://avatars.githubusercontent.com/u/251170166?v=4",
-   "description": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
-   "language": "TypeScript",
-   "topics": [
-    "agents",
-    "automation",
-    "bun",
-    "coding-agent",
-    "dori",
-    "herdr",
-    "messenger-bot",
-    "omo"
-   ],
-   "license": "MIT",
-   "stars": 44,
-   "forks": 50,
-   "createdAt": "2026-10-07T03:32:07Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-07T06:33:31.871Z",
-   "stack": {
-    "kind": "other",
-    "label": "TypeScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/sisyphuslabs/omo-dori-mode-experimental?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/sisyphuslabs/omo-dori-mode-experimental",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/sisyphuslabs/omo-dori-mode-experimental.git\ncd omo-dori-mode-experimental",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/sisyphuslabs/omo-dori-mode-experimental\nWhat it says it does: \"Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-07T06:33:31.871Z"
   }
  ],
  "levels": {

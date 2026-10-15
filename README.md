@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_766 guides written so far · last update 2026-10-15 10:22 UTC_
+_767 guides written so far · last update 2026-10-15 10:22 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [R44VC0RP/isocast](https://github.com/R44VC0RP/isocast) | Rust project | Runs in the browser with a free account | [guide](guides/r44vc0rp/isocast.md) |
 | [sjdsjadjajdjsa/hanami](https://github.com/sjdsjadjajdjsa/hanami) | Rust project | Runs in the browser with a free account | [guide](guides/sjdsjadjajdjsa/hanami.md) |
 | [JamesZhaoY/logicc2api](https://github.com/JamesZhaoY/logicc2api) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jameszhaoy/logicc2api.md) |
 | [1weiho/cinematic-shot](https://github.com/1weiho/cinematic-shot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/1weiho/cinematic-shot.md) |
@@ -38,7 +39,6 @@ _766 guides written so far · last update 2026-10-15 10:22 UTC_
 | [chenglou/handwired](https://github.com/chenglou/handwired) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/chenglou/handwired.md) |
 | [apenasdouglas/ai-motion-library](https://github.com/apenasdouglas/ai-motion-library) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/apenasdouglas/ai-motion-library.md) |
 | [OpenImagingLab/FlashVSR_Plus](https://github.com/OpenImagingLab/FlashVSR_Plus) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openimaginglab/flashvsr_plus.md) |
-| [vonnyluis/McMEME](https://github.com/vonnyluis/McMEME) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/vonnyluis/mcmeme.md) |
 <!-- latest:end -->
 
 ## How it works

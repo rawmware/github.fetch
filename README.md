@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_749 guides written so far · last update 2026-10-15 05:47 UTC_
+_750 guides written so far · last update 2026-10-15 05:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Spark198rus/black-pc](https://github.com/Spark198rus/black-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/spark198rus/black-pc.md) |
 | [pro-vi/cc-stretch](https://github.com/pro-vi/cc-stretch) | JavaScript project | Runs in the browser with a free account | [guide](guides/pro-vi/cc-stretch.md) |
 | [GhostParakeet/deadlock-tool](https://github.com/GhostParakeet/deadlock-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ghostparakeet/deadlock-tool.md) |
 | [TG-Twilight/c001apk](https://github.com/TG-Twilight/c001apk) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/tg-twilight/c001apk.md) |
@@ -38,7 +39,6 @@ _749 guides written so far · last update 2026-10-15 05:47 UTC_
 | [Ivan666jjj/yigezi](https://github.com/Ivan666jjj/yigezi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/ivan666jjj/yigezi.md) |
 | [VallierDev/uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) | Rust project | Runs in the browser with a free account | [guide](guides/vallierdev/uu-remote-linux.md) |
 | [Sam1983Aing/casa-serra](https://github.com/Sam1983Aing/casa-serra) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sam1983aing/casa-serra.md) |
-| [ShizeChen-ene/youtube-tiktok-video-manager](https://github.com/ShizeChen-ene/youtube-tiktok-video-manager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shizechen-ene/youtube-tiktok-video-manager.md) |
 <!-- latest:end -->
 
 ## How it works

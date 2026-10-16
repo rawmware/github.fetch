@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T05:08:21.276Z",
- "totalGuides": 811,
+ "updatedAt": "2026-10-16T05:08:21.547Z",
+ "totalGuides": 812,
  "items": [
+  {
+   "fullName": "Enderfga/SolarRenderer",
+   "owner": "Enderfga",
+   "name": "SolarRenderer",
+   "url": "https://github.com/Enderfga/SolarRenderer",
+   "avatar": "https://avatars.githubusercontent.com/u/74981769?v=4",
+   "description": "SolarRenderer: Few-Step Generative Reference Rendering",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 52,
+   "forks": 0,
+   "createdAt": "2026-10-15T17:07:39Z",
+   "branch": "main",
+   "homepage": "https://enderfga.cn/SolarRenderer",
+   "addedAt": "2026-10-16T05:08:21.546Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "colab-new",
+   "launch": [
+    {
+     "id": "colab-new",
+     "label": "Google Colab",
+     "url": "https://colab.research.google.com/",
+     "needs": "free Google account",
+     "note": "New notebook, then run: !git clone https://github.com/Enderfga/SolarRenderer"
+    },
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Enderfga/SolarRenderer/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Enderfga/SolarRenderer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Enderfga/SolarRenderer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Enderfga/SolarRenderer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [
+    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one."
+   ],
+   "local": "git clone --depth 1 https://github.com/Enderfga/SolarRenderer.git\ncd SolarRenderer\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Enderfga/SolarRenderer\nWhat it says it does: \"SolarRenderer: Few-Step Generative Reference Rendering\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-16T05:08:21.546Z"
+  },
   {
    "fullName": "saulob/dragons-crown-pro-pc",
    "owner": "saulob",
@@ -31584,87 +31655,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Stellar-Promiscope/promiscope-backend\nWhat it says it does: \"Promiscope backend service. Accountability API migration is underway; existing routes still serve legacy product workflows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-08T06:14:02.155Z"
-  },
-  {
-   "fullName": "Stellar-Promiscope/promiscope-contracts",
-   "owner": "Stellar-Promiscope",
-   "name": "promiscope-contracts",
-   "url": "https://github.com/Stellar-Promiscope/promiscope-contracts",
-   "avatar": "https://avatars.githubusercontent.com/u/339359471?v=4",
-   "description": "Promiscope Soroban contracts retained for legacy workflows; privacy-safe accountability contract design is tracked separately.",
-   "language": "Rust",
-   "topics": [
-    "rust",
-    "soroban",
-    "stellar"
-   ],
-   "license": "MIT",
-   "stars": 129,
-   "forks": 128,
-   "createdAt": "2026-10-07T23:20:00Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-08T06:14:01.787Z",
-   "stack": {
-    "kind": "node",
-    "label": "Express app",
-    "frameworks": [
-     "Express"
-    ]
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/Stellar-Promiscope/promiscope-contracts",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/Stellar-Promiscope/promiscope-contracts",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Stellar-Promiscope/promiscope-contracts?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Stellar-Promiscope/promiscope-contracts",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Stellar-Promiscope/promiscope-contracts/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Stellar-Promiscope/promiscope-contracts.git\ncd promiscope-contracts\nnpm install",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Stellar-Promiscope/promiscope-contracts\nWhat it says it does: \"Promiscope Soroban contracts retained for legacy workflows; privacy-safe accountability contract design is tracked separately.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-08T06:14:01.787Z"
   }
  ],
  "levels": {
-  "heavy": 89,
+  "heavy": 90,
   "account": 233,
-  "instant": 40,
+  "instant": 39,
   "read": 138
  }
 }

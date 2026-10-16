@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_860 guides written so far · last update 2026-10-16 21:37 UTC_
+_861 guides written so far · last update 2026-10-16 21:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kergee/mcd-undercover](https://github.com/kergee/mcd-undercover) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/kergee/mcd-undercover.md) |
 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | Python project | Runs in the browser with a free account | [guide](guides/christos-antono/npctalk.md) |
 | [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction) | Python project | Runs in the browser with a free account | [guide](guides/gungnir-sanye/tee-attestation-extraction.md) |
 | [ZiZc3/LiveShell](https://github.com/ZiZc3/LiveShell) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zizc3/liveshell.md) |
@@ -38,7 +39,6 @@ _860 guides written so far · last update 2026-10-16 21:37 UTC_
 | [Jackacwing97836/FC27-Respocket-AIO-Soft](https://github.com/Jackacwing97836/FC27-Respocket-AIO-Soft) | CSS project | Runs in the browser with a free account | [guide](guides/jackacwing97836/fc27-respocket-aio-soft.md) |
 | [shalehostcatch/Respocket-Performance-Booster-Utility](https://github.com/shalehostcatch/Respocket-Performance-Booster-Utility) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shalehostcatch/respocket-performance-booster-utility.md) |
 | [Deathodward/Apex-Respocket-AIO-Soft](https://github.com/Deathodward/Apex-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/deathodward/apex-respocket-aio-soft.md) |
-| [XOmiod40291/99-Nights-Respocket-Free-Script](https://github.com/XOmiod40291/99-Nights-Respocket-Free-Script) | Lua project | Runs in the browser with a free account | [guide](guides/xomiod40291/99-nights-respocket-free-script.md) |
 <!-- latest:end -->
 
 ## How it works

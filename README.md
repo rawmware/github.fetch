@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_817 guides written so far · last update 2026-10-16 05:08 UTC_
+_818 guides written so far · last update 2026-10-16 05:08 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [WoodStoryConverter/Gta-V-Respocket-AIO-Soft](https://github.com/WoodStoryConverter/Gta-V-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/woodstoryconverter/gta-v-respocket-aio-soft.md) |
 | [YOURSJEYO/claude-switcher](https://github.com/YOURSJEYO/claude-switcher) | PowerShell project | Runs in the browser with a free account | [guide](guides/yoursjeyo/claude-switcher.md) |
 | [2430816465/campus-knowledge-agent](https://github.com/2430816465/campus-knowledge-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/2430816465/campus-knowledge-agent.md) |
 | [mmm1712/Local_AI_esp32](https://github.com/mmm1712/Local_AI_esp32) | Python project | Runs in the browser with a free account | [guide](guides/mmm1712/local_ai_esp32.md) |
@@ -38,7 +39,6 @@ _817 guides written so far · last update 2026-10-16 05:08 UTC_
 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/leonxlnx/earshot.md) |
 | [shishir0x/GoogleUnlimited](https://github.com/shishir0x/GoogleUnlimited) | PowerShell project | Runs in the browser with a free account | [guide](guides/shishir0x/googleunlimited.md) |
 | [kungec/kunpanel](https://github.com/kungec/kunpanel) | Go project | Runs in the browser with a free account | [guide](guides/kungec/kunpanel.md) |
-| [JeffLi1993/open-growth-skills](https://github.com/JeffLi1993/open-growth-skills) | Python project | Runs in the browser with a free account | [guide](guides/jeffli1993/open-growth-skills.md) |
 <!-- latest:end -->
 
 ## How it works

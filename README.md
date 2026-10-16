@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_851 guides written so far · last update 2026-10-16 18:26 UTC_
+_852 guides written so far · last update 2026-10-16 18:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Jackacwing97836/FC27-Respocket-AIO-Soft](https://github.com/Jackacwing97836/FC27-Respocket-AIO-Soft) | CSS project | Runs in the browser with a free account | [guide](guides/jackacwing97836/fc27-respocket-aio-soft.md) |
 | [shalehostcatch/Respocket-Performance-Booster-Utility](https://github.com/shalehostcatch/Respocket-Performance-Booster-Utility) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shalehostcatch/respocket-performance-booster-utility.md) |
 | [Deathodward/Apex-Respocket-AIO-Soft](https://github.com/Deathodward/Apex-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/deathodward/apex-respocket-aio-soft.md) |
 | [XOmiod40291/99-Nights-Respocket-Free-Script](https://github.com/XOmiod40291/99-Nights-Respocket-Free-Script) | Lua project | Runs in the browser with a free account | [guide](guides/xomiod40291/99-nights-respocket-free-script.md) |
@@ -38,7 +39,6 @@ _851 guides written so far · last update 2026-10-16 18:26 UTC_
 | [Haryy985/yunkun-console-preview](https://github.com/Haryy985/yunkun-console-preview) | Go project | Runs in the browser with a free account | [guide](guides/haryy985/yunkun-console-preview.md) |
 | [CluvexStudio/Strata](https://github.com/CluvexStudio/Strata) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/cluvexstudio/strata.md) |
 | [ReazGan/tarndb](https://github.com/ReazGan/tarndb) | C project | Needs a real machine (or a GPU) to run | [guide](guides/reazgan/tarndb.md) |
-| [guolola/SoftJL](https://github.com/guolola/SoftJL) | React app | Runs in the browser with a free account | [guide](guides/guolola/softjl.md) |
 <!-- latest:end -->
 
 ## How it works

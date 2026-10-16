@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_819 guides written so far · last update 2026-10-16 05:08 UTC_
+_820 guides written so far · last update 2026-10-16 09:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BeckyGlobal/PaidToStudyAbroad](https://github.com/BeckyGlobal/PaidToStudyAbroad) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/beckyglobal/paidtostudyabroad.md) |
 | [MartinPuli/taste-library](https://github.com/MartinPuli/taste-library) | JavaScript project | Runs in the browser with a free account | [guide](guides/martinpuli/taste-library.md) |
 | [WoodStoryConverter/Gta-V-Respocket-AIO-Soft](https://github.com/WoodStoryConverter/Gta-V-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/woodstoryconverter/gta-v-respocket-aio-soft.md) |
 | [YOURSJEYO/claude-switcher](https://github.com/YOURSJEYO/claude-switcher) | PowerShell project | Runs in the browser with a free account | [guide](guides/yoursjeyo/claude-switcher.md) |
@@ -38,7 +39,6 @@ _819 guides written so far · last update 2026-10-16 05:08 UTC_
 | [saulob/dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/saulob/dragons-crown-pro-pc.md) |
 | [NeuroVision-Studio/NeuraVision](https://github.com/NeuroVision-Studio/NeuraVision) | PHP project | Runs in the browser with a free account | [guide](guides/neurovision-studio/neuravision.md) |
 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/leonxlnx/earshot.md) |
-| [shishir0x/GoogleUnlimited](https://github.com/shishir0x/GoogleUnlimited) | PowerShell project | Runs in the browser with a free account | [guide](guides/shishir0x/googleunlimited.md) |
 <!-- latest:end -->
 
 ## How it works

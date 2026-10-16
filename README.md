@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_810 guides written so far · last update 2026-10-16 05:08 UTC_
+_811 guides written so far · last update 2026-10-16 05:08 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [saulob/dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/saulob/dragons-crown-pro-pc.md) |
 | [NeuroVision-Studio/NeuraVision](https://github.com/NeuroVision-Studio/NeuraVision) | PHP project | Runs in the browser with a free account | [guide](guides/neurovision-studio/neuravision.md) |
 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/leonxlnx/earshot.md) |
 | [shishir0x/GoogleUnlimited](https://github.com/shishir0x/GoogleUnlimited) | PowerShell project | Runs in the browser with a free account | [guide](guides/shishir0x/googleunlimited.md) |
@@ -38,7 +39,6 @@ _810 guides written so far · last update 2026-10-16 05:08 UTC_
 | [TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free](https://github.com/TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tasnadiattila/onlyfans-ai-creator-video-downloader-uploader-free.md) |
 | [storytold/designcraft](https://github.com/storytold/designcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/designcraft.md) |
 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | Vite app | Runs in the browser with a free account | [guide](guides/anmolkapil/plexo.md) |
-| [Nutlope/gloss](https://github.com/Nutlope/gloss) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nutlope/gloss.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_841 guides written so far · last update 2026-10-16 14:44 UTC_
+_842 guides written so far · last update 2026-10-16 14:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CluvexStudio/Strata](https://github.com/CluvexStudio/Strata) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/cluvexstudio/strata.md) |
 | [ReazGan/tarndb](https://github.com/ReazGan/tarndb) | C project | Needs a real machine (or a GPU) to run | [guide](guides/reazgan/tarndb.md) |
 | [guolola/SoftJL](https://github.com/guolola/SoftJL) | React app | Runs in the browser with a free account | [guide](guides/guolola/softjl.md) |
 | [shuyu-labs/transwork](https://github.com/shuyu-labs/transwork) | Docker app | Runs in the browser with a free account | [guide](guides/shuyu-labs/transwork.md) |
@@ -38,7 +39,6 @@ _841 guides written so far · last update 2026-10-16 14:44 UTC_
 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Go project | Runs in the browser with a free account | [guide](guides/feder-cr/git-ai.md) |
 | [bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/bc160201983/uncharted-the-nathan-drake-collection-pc-port.md) |
 | [Leonxlnx/golden-temple](https://github.com/Leonxlnx/golden-temple) | Vite app | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/golden-temple.md) |
-| [mod-manager/mod-manager.github.io](https://github.com/mod-manager/mod-manager.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/mod-manager/mod-manager.github.io.md) |
 <!-- latest:end -->
 
 ## How it works

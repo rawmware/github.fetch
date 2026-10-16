@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_852 guides written so far · last update 2026-10-16 18:26 UTC_
+_853 guides written so far · last update 2026-10-16 18:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BPaladin52914/Respocket-Yuzu-Emulator-Reworked-v2](https://github.com/BPaladin52914/Respocket-Yuzu-Emulator-Reworked-v2) | HTML project | Runs in the browser with a free account | [guide](guides/bpaladin52914/respocket-yuzu-emulator-reworked-v2.md) |
 | [Jackacwing97836/FC27-Respocket-AIO-Soft](https://github.com/Jackacwing97836/FC27-Respocket-AIO-Soft) | CSS project | Runs in the browser with a free account | [guide](guides/jackacwing97836/fc27-respocket-aio-soft.md) |
 | [shalehostcatch/Respocket-Performance-Booster-Utility](https://github.com/shalehostcatch/Respocket-Performance-Booster-Utility) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shalehostcatch/respocket-performance-booster-utility.md) |
 | [Deathodward/Apex-Respocket-AIO-Soft](https://github.com/Deathodward/Apex-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/deathodward/apex-respocket-aio-soft.md) |
@@ -38,7 +39,6 @@ _852 guides written so far · last update 2026-10-16 18:26 UTC_
 | [SakanaAI/AutoIllustrate](https://github.com/SakanaAI/AutoIllustrate) | Node command-line tool | Runs in the browser with a free account | [guide](guides/sakanaai/autoillustrate.md) |
 | [Haryy985/yunkun-console-preview](https://github.com/Haryy985/yunkun-console-preview) | Go project | Runs in the browser with a free account | [guide](guides/haryy985/yunkun-console-preview.md) |
 | [CluvexStudio/Strata](https://github.com/CluvexStudio/Strata) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/cluvexstudio/strata.md) |
-| [ReazGan/tarndb](https://github.com/ReazGan/tarndb) | C project | Needs a real machine (or a GPU) to run | [guide](guides/reazgan/tarndb.md) |
 <!-- latest:end -->
 
 ## How it works

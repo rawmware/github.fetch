@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_835 guides written so far · last update 2026-10-16 14:44 UTC_
+_836 guides written so far · last update 2026-10-16 14:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cryptoangelito/DocKit](https://github.com/cryptoangelito/DocKit) | Go project | Runs in the browser with a free account | [guide](guides/cryptoangelito/dockit.md) |
 | [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh) | Vite app | Runs in the browser with a free account | [guide](guides/nunomaduro/dev-null.sh.md) |
 | [anujasid/mcp-for-blender-pro](https://github.com/anujasid/mcp-for-blender-pro) | Python project | Runs in the browser with a free account | [guide](guides/anujasid/mcp-for-blender-pro.md) |
 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Go project | Runs in the browser with a free account | [guide](guides/feder-cr/git-ai.md) |
@@ -38,7 +39,6 @@ _835 guides written so far · last update 2026-10-16 14:44 UTC_
 | [longsurf-ai/endo](https://github.com/longsurf-ai/endo) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/endo.md) |
 | [ShadowSwaps/REA-Reconstruction-Companion](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) | JavaScript project | Runs in the browser with a free account | [guide](guides/shadowswaps/rea-reconstruction-companion.md) |
 | [cschalle/hw-harness](https://github.com/cschalle/hw-harness) | Shell project | Runs in the browser with a free account | [guide](guides/cschalle/hw-harness.md) |
-| [leekt/skim](https://github.com/leekt/skim) | Rust project | Runs in the browser with a free account | [guide](guides/leekt/skim.md) |
 <!-- latest:end -->
 
 ## How it works

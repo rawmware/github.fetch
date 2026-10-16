@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_837 guides written so far · last update 2026-10-16 14:44 UTC_
+_838 guides written so far · last update 2026-10-16 14:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [athasdev/browser](https://github.com/athasdev/browser) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/athasdev/browser.md) |
 | [LoZazaMastro/RaceOneHub](https://github.com/LoZazaMastro/RaceOneHub) | Python project | Runs in the browser with a free account | [guide](guides/lozazamastro/raceonehub.md) |
 | [cryptoangelito/DocKit](https://github.com/cryptoangelito/DocKit) | Go project | Runs in the browser with a free account | [guide](guides/cryptoangelito/dockit.md) |
 | [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh) | Vite app | Runs in the browser with a free account | [guide](guides/nunomaduro/dev-null.sh.md) |
@@ -38,7 +39,6 @@ _837 guides written so far · last update 2026-10-16 14:44 UTC_
 | [ardiri/dev-palmos](https://github.com/ardiri/dev-palmos) | HTML project | Runs in the browser with a free account | [guide](guides/ardiri/dev-palmos.md) |
 | [SinapisAI/collective-model-intelligence](https://github.com/SinapisAI/collective-model-intelligence) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/sinapisai/collective-model-intelligence.md) |
 | [longsurf-ai/endo](https://github.com/longsurf-ai/endo) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/endo.md) |
-| [ShadowSwaps/REA-Reconstruction-Companion](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) | JavaScript project | Runs in the browser with a free account | [guide](guides/shadowswaps/rea-reconstruction-companion.md) |
 <!-- latest:end -->
 
 ## How it works

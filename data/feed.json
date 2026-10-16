@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T05:08:21.547Z",
- "totalGuides": 812,
+ "updatedAt": "2026-10-16T05:08:21.835Z",
+ "totalGuides": 813,
  "items": [
+  {
+   "fullName": "zgsfsec/Full-Chain-Sentinel-System",
+   "owner": "zgsfsec",
+   "name": "Full-Chain-Sentinel-System",
+   "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+   "avatar": "https://avatars.githubusercontent.com/u/88515720?v=4",
+   "description": "【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 51,
+   "forks": 20,
+   "createdAt": "2026-10-16T04:05:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-16T05:08:21.834Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/zgsfsec/Full-Chain-Sentinel-System",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run start:web`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/zgsfsec/Full-Chain-Sentinel-System",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zgsfsec/Full-Chain-Sentinel-System?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zgsfsec/Full-Chain-Sentinel-System",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run start:web",
+   "notes": [
+    "It's a monorepo (several packages in one). Check the README for which folder to start in."
+   ],
+   "local": "git clone --depth 1 https://github.com/zgsfsec/Full-Chain-Sentinel-System.git\ncd Full-Chain-Sentinel-System\nnpm install\nnpm run start:web",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zgsfsec/Full-Chain-Sentinel-System\nWhat it says it does: \"【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-16T05:08:21.834Z"
+  },
   {
    "fullName": "Enderfga/SolarRenderer",
    "owner": "Enderfga",
@@ -31578,88 +31649,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/SpeakingOfBrad/BIGWORDS.PAGE\nWhat it says it does: \"Full-screen text for any screen. The message lives in the URL, so there's no backend, accounts or storage.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-08T06:14:02.445Z"
-  },
-  {
-   "fullName": "Stellar-Promiscope/promiscope-backend",
-   "owner": "Stellar-Promiscope",
-   "name": "promiscope-backend",
-   "url": "https://github.com/Stellar-Promiscope/promiscope-backend",
-   "avatar": "https://avatars.githubusercontent.com/u/339359471?v=4",
-   "description": "Promiscope backend service. Accountability API migration is underway; existing routes still serve legacy product workflows.",
-   "language": "TypeScript",
-   "topics": [
-    "nodejs",
-    "stellar",
-    "typescript"
-   ],
-   "license": null,
-   "stars": 128,
-   "forks": 129,
-   "createdAt": "2026-10-07T23:19:18Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-08T06:14:02.155Z",
-   "stack": {
-    "kind": "node",
-    "label": "Express app",
-    "frameworks": [
-     "Express"
-    ]
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/Stellar-Promiscope/promiscope-backend",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/Stellar-Promiscope/promiscope-backend",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Stellar-Promiscope/promiscope-backend?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Stellar-Promiscope/promiscope-backend",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Stellar-Promiscope/promiscope-backend/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm run dev",
-   "notes": [
-    "Uses better-sqlite3, which can't run inside a browser tab. Use Codespaces instead."
-   ],
-   "local": "git clone --depth 1 https://github.com/Stellar-Promiscope/promiscope-backend.git\ncd promiscope-backend\nnpm install\nnpm run dev",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Stellar-Promiscope/promiscope-backend\nWhat it says it does: \"Promiscope backend service. Accountability API migration is underway; existing routes still serve legacy product workflows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-08T06:14:02.155Z"
   }
  ],
  "levels": {
-  "heavy": 90,
   "account": 233,
+  "heavy": 90,
   "instant": 39,
   "read": 138
  }

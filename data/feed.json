@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T05:08:20.913Z",
- "totalGuides": 809,
+ "updatedAt": "2026-10-16T05:08:21.120Z",
+ "totalGuides": 810,
  "items": [
+  {
+   "fullName": "NeuroVision-Studio/NeuraVision",
+   "owner": "NeuroVision-Studio",
+   "name": "NeuraVision",
+   "url": "https://github.com/NeuroVision-Studio/NeuraVision",
+   "avatar": "https://avatars.githubusercontent.com/u/342946863?v=4",
+   "description": "NeuraVision — AI content generation platform (PHP backend engine: auth, credits, generation, analytics)",
+   "language": "PHP",
+   "topics": [
+    "ab-testing",
+    "ai-platform",
+    "analytics",
+    "backend-api",
+    "oauth",
+    "php",
+    "saas",
+    "sqlite"
+   ],
+   "license": null,
+   "stars": 58,
+   "forks": 0,
+   "createdAt": "2026-10-15T14:23:06Z",
+   "branch": "main",
+   "homepage": "https://neuracreation.com",
+   "addedAt": "2026-10-16T05:08:21.120Z",
+   "stack": {
+    "kind": "other",
+    "label": "PHP project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/NeuroVision-Studio/NeuraVision?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/NeuroVision-Studio/NeuraVision",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/NeuroVision-Studio/NeuraVision/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/NeuroVision-Studio/NeuraVision.git\ncd NeuraVision",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/NeuroVision-Studio/NeuraVision\nWhat it says it does: \"NeuraVision — AI content generation platform (PHP backend engine: auth, credits, generation, analytics)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-16T05:08:21.120Z"
+  },
   {
    "fullName": "Leonxlnx/earshot",
    "owner": "Leonxlnx",
@@ -31612,68 +31676,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Stellar-Promiscope/promiscope-frontend\nWhat it says it does: \"Community project accountability on Stellar: commitments, milestones, progress updates, evidence links, and community responses.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-08T06:14:01.430Z"
-  },
-  {
-   "fullName": "ostiums/fixkit",
-   "owner": "ostiums",
-   "name": "fixkit",
-   "url": "https://github.com/ostiums/fixkit",
-   "avatar": "https://avatars.githubusercontent.com/u/46399297?v=4",
-   "description": "Long press any element of your iOS app in the simulator, say what is wrong, and the report lands in your Claude Code session",
-   "language": "Swift",
-   "topics": [],
-   "license": "MIT",
-   "stars": 52,
-   "forks": 2,
-   "createdAt": "2026-10-06T13:30:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-08T00:07:34.640Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ostiums/fixkit?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ostiums/fixkit",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ostiums/fixkit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/ostiums/fixkit.git\ncd fixkit",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/ostiums/fixkit\nWhat it says it does: \"Long press any element of your iOS app in the simulator, say what is wrong, and the report lands in your Claude Code session\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-08T00:07:34.640Z"
   }
  ],
  "levels": {
-  "heavy": 89,
-  "account": 233,
+  "account": 234,
+  "heavy": 88,
   "instant": 40,
   "read": 138
  }

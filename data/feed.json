@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T05:08:22.690Z",
- "totalGuides": 816,
+ "updatedAt": "2026-10-16T05:08:22.866Z",
+ "totalGuides": 817,
  "items": [
+  {
+   "fullName": "YOURSJEYO/claude-switcher",
+   "owner": "YOURSJEYO",
+   "name": "claude-switcher",
+   "url": "https://github.com/YOURSJEYO/claude-switcher",
+   "avatar": "https://avatars.githubusercontent.com/u/136431193?v=4",
+   "description": "Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— 让真实IP在物理上无法泄漏",
+   "language": "PowerShell",
+   "topics": [],
+   "license": "MIT",
+   "stars": 45,
+   "forks": 7,
+   "createdAt": "2026-10-14T05:39:53Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-16T05:08:22.865Z",
+   "stack": {
+    "kind": "other",
+    "label": "PowerShell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/YOURSJEYO/claude-switcher?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/YOURSJEYO/claude-switcher",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/YOURSJEYO/claude-switcher/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/YOURSJEYO/claude-switcher.git\ncd claude-switcher",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/YOURSJEYO/claude-switcher\nWhat it says it does: \"Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— 让真实IP在物理上无法泄漏\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-16T05:08:22.865Z"
+  },
   {
    "fullName": "2430816465/campus-knowledge-agent",
    "owner": "2430816465",
@@ -31590,77 +31645,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/hypersniper05/MCP-Image-Generator-Uncensored\nWhat it says it does: \"Self-hosted MCP server for image generation and editing with the uncensored Qwen-Image-2.1 model\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-08T06:14:03.253Z"
-  },
-  {
-   "fullName": "Pama-Lee/MacMiniMode",
-   "owner": "Pama-Lee",
-   "name": "MacMiniMode",
-   "url": "https://github.com/Pama-Lee/MacMiniMode",
-   "avatar": "https://avatars.githubusercontent.com/u/52483421?v=4",
-   "description": "Keep a plugged-in MacBook awake with the lid closed: clamshell mode without an external display, auto-off on battery. 让 MacBook 合盖不休眠，当 Mac mini 用。",
-   "language": "Swift",
-   "topics": [
-    "apple-silicon",
-    "caffeinate",
-    "clamshell",
-    "clamshell-mode",
-    "headless",
-    "home-server",
-    "homelab",
-    "keep-awake"
-   ],
-   "license": "MIT",
-   "stars": 63,
-   "forks": 2,
-   "createdAt": "2026-10-07T11:20:36Z",
-   "branch": "main",
-   "homepage": "https://github.com/Pama-Lee/MacMiniMode/releases/latest",
-   "addedAt": "2026-10-08T06:14:02.962Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Pama-Lee/MacMiniMode?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Pama-Lee/MacMiniMode",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Pama-Lee/MacMiniMode/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Pama-Lee/MacMiniMode.git\ncd MacMiniMode",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Pama-Lee/MacMiniMode\nWhat it says it does: \"Keep a plugged-in MacBook awake with the lid closed: clamshell mode without an external display, auto-off on battery. 让 MacBook 合盖不休眠，当 Mac mini 用。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-08T06:14:02.962Z"
   }
  ],
  "levels": {
-  "account": 233,
-  "heavy": 90,
+  "account": 234,
+  "heavy": 89,
   "instant": 39,
   "read": 138
  }

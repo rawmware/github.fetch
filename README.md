@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_816 guides written so far · last update 2026-10-16 05:08 UTC_
+_817 guides written so far · last update 2026-10-16 05:08 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [YOURSJEYO/claude-switcher](https://github.com/YOURSJEYO/claude-switcher) | PowerShell project | Runs in the browser with a free account | [guide](guides/yoursjeyo/claude-switcher.md) |
 | [2430816465/campus-knowledge-agent](https://github.com/2430816465/campus-knowledge-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/2430816465/campus-knowledge-agent.md) |
 | [mmm1712/Local_AI_esp32](https://github.com/mmm1712/Local_AI_esp32) | Python project | Runs in the browser with a free account | [guide](guides/mmm1712/local_ai_esp32.md) |
 | [PedroMarinhoDev/ComfyUI-Drama3](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) | Python project | Runs in the browser with a free account | [guide](guides/pedromarinhodev/comfyui-drama3.md) |
@@ -38,7 +39,6 @@ _816 guides written so far · last update 2026-10-16 05:08 UTC_
 | [shishir0x/GoogleUnlimited](https://github.com/shishir0x/GoogleUnlimited) | PowerShell project | Runs in the browser with a free account | [guide](guides/shishir0x/googleunlimited.md) |
 | [kungec/kunpanel](https://github.com/kungec/kunpanel) | Go project | Runs in the browser with a free account | [guide](guides/kungec/kunpanel.md) |
 | [JeffLi1993/open-growth-skills](https://github.com/JeffLi1993/open-growth-skills) | Python project | Runs in the browser with a free account | [guide](guides/jeffli1993/open-growth-skills.md) |
-| [Yarnnovapergola/actual](https://github.com/Yarnnovapergola/actual) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/yarnnovapergola/actual.md) |
 <!-- latest:end -->
 
 ## How it works

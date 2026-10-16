@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_813 guides written so far · last update 2026-10-16 05:08 UTC_
+_814 guides written so far · last update 2026-10-16 05:08 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PedroMarinhoDev/ComfyUI-Drama3](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) | Python project | Runs in the browser with a free account | [guide](guides/pedromarinhodev/comfyui-drama3.md) |
 | [zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System) | JavaScript project | Runs in the browser with a free account | [guide](guides/zgsfsec/full-chain-sentinel-system.md) |
 | [Enderfga/SolarRenderer](https://github.com/Enderfga/SolarRenderer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/enderfga/solarrenderer.md) |
 | [saulob/dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/saulob/dragons-crown-pro-pc.md) |
@@ -38,7 +39,6 @@ _813 guides written so far · last update 2026-10-16 05:08 UTC_
 | [Yarnnovapergola/actual](https://github.com/Yarnnovapergola/actual) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/yarnnovapergola/actual.md) |
 | [YuuLuo/a7c2-service-preload](https://github.com/YuuLuo/a7c2-service-preload) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yuuluo/a7c2-service-preload.md) |
 | [alexander-stack1/ciencia-de-dados-cibele-russo](https://github.com/alexander-stack1/ciencia-de-dados-cibele-russo) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alexander-stack1/ciencia-de-dados-cibele-russo.md) |
-| [TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free](https://github.com/TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tasnadiattila/onlyfans-ai-creator-video-downloader-uploader-free.md) |
 <!-- latest:end -->
 
 ## How it works

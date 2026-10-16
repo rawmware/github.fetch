@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_838 guides written so far · last update 2026-10-16 14:44 UTC_
+_839 guides written so far · last update 2026-10-16 14:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [shuyu-labs/transwork](https://github.com/shuyu-labs/transwork) | Docker app | Runs in the browser with a free account | [guide](guides/shuyu-labs/transwork.md) |
 | [athasdev/browser](https://github.com/athasdev/browser) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/athasdev/browser.md) |
 | [LoZazaMastro/RaceOneHub](https://github.com/LoZazaMastro/RaceOneHub) | Python project | Runs in the browser with a free account | [guide](guides/lozazamastro/raceonehub.md) |
 | [cryptoangelito/DocKit](https://github.com/cryptoangelito/DocKit) | Go project | Runs in the browser with a free account | [guide](guides/cryptoangelito/dockit.md) |
@@ -38,7 +39,6 @@ _838 guides written so far · last update 2026-10-16 14:44 UTC_
 | [mod-manager/mod-manager.github.io](https://github.com/mod-manager/mod-manager.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/mod-manager/mod-manager.github.io.md) |
 | [ardiri/dev-palmos](https://github.com/ardiri/dev-palmos) | HTML project | Runs in the browser with a free account | [guide](guides/ardiri/dev-palmos.md) |
 | [SinapisAI/collective-model-intelligence](https://github.com/SinapisAI/collective-model-intelligence) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/sinapisai/collective-model-intelligence.md) |
-| [longsurf-ai/endo](https://github.com/longsurf-ai/endo) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/endo.md) |
 <!-- latest:end -->
 
 ## How it works

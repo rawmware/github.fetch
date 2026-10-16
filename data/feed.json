@@ -1,8 +1,68 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T14:44:02.276Z",
- "totalGuides": 838,
+ "updatedAt": "2026-10-16T14:44:02.496Z",
+ "totalGuides": 839,
  "items": [
+  {
+   "fullName": "shuyu-labs/transwork",
+   "owner": "shuyu-labs",
+   "name": "transwork",
+   "url": "https://github.com/shuyu-labs/transwork",
+   "avatar": "https://avatars.githubusercontent.com/u/257786265?v=4",
+   "description": "企业级桌面 AI Agent 工作台，让技能、知识与任务在同一处协作。",
+   "language": null,
+   "topics": [
+    "agent",
+    "agent-desktop",
+    "harness",
+    "harness-ai"
+   ],
+   "license": null,
+   "stars": 51,
+   "forks": 23,
+   "createdAt": "2026-10-14T13:19:33Z",
+   "branch": "main",
+   "homepage": "https://transwork.tree456.com/",
+   "addedAt": "2026-10-16T14:44:02.496Z",
+   "stack": {
+    "kind": "docker",
+    "label": "Docker app",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/shuyu-labs/transwork?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/shuyu-labs/transwork",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/shuyu-labs/transwork/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "docker compose up",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/shuyu-labs/transwork.git\ncd transwork\ndocker compose up",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/shuyu-labs/transwork\nWhat it says it does: \"企业级桌面 AI Agent 工作台，让技能、知识与任务在同一处协作。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-16T14:44:02.496Z"
+  },
   {
    "fullName": "athasdev/browser",
    "owner": "athasdev",
@@ -31642,73 +31702,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/sun168567/cc-desk-tunnel\nWhat it says it does: \"用桌面客户端驱动云端的 Claude Code，经反向隧道在 Windows 本机执行 · Desktop client for Claude Code in the cloud, executing on your Windows PC through a reverse tunnel\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-08T13:39:16.527Z"
-  },
-  {
-   "fullName": "CrocSwap/integer-mult-bounds",
-   "owner": "CrocSwap",
-   "name": "integer-mult-bounds",
-   "url": "https://github.com/CrocSwap/integer-mult-bounds",
-   "avatar": "https://avatars.githubusercontent.com/u/88171575?v=4",
-   "description": "Conditional improvement to the exponent saving in OpenAI’s integer multiplication result #109",
-   "language": "Python",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 67,
-   "forks": 14,
-   "createdAt": "2026-10-07T02:21:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-08T13:39:16.186Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/CrocSwap/integer-mult-bounds/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/CrocSwap/integer-mult-bounds?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/CrocSwap/integer-mult-bounds",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/CrocSwap/integer-mult-bounds/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/CrocSwap/integer-mult-bounds.git\ncd integer-mult-bounds",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/CrocSwap/integer-mult-bounds\nWhat it says it does: \"Conditional improvement to the exponent saving in OpenAI’s integer multiplication result #109\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-08T13:39:16.186Z"
   }
  ],
  "levels": {
-  "heavy": 91,
   "account": 232,
+  "heavy": 91,
   "instant": 40,
   "read": 137
  }

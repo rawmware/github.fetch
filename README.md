@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_808 guides written so far · last update 2026-10-16 05:08 UTC_
+_809 guides written so far · last update 2026-10-16 05:08 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/leonxlnx/earshot.md) |
 | [shishir0x/GoogleUnlimited](https://github.com/shishir0x/GoogleUnlimited) | PowerShell project | Runs in the browser with a free account | [guide](guides/shishir0x/googleunlimited.md) |
 | [kungec/kunpanel](https://github.com/kungec/kunpanel) | Go project | Runs in the browser with a free account | [guide](guides/kungec/kunpanel.md) |
 | [JeffLi1993/open-growth-skills](https://github.com/JeffLi1993/open-growth-skills) | Python project | Runs in the browser with a free account | [guide](guides/jeffli1993/open-growth-skills.md) |
@@ -38,7 +39,6 @@ _808 guides written so far · last update 2026-10-16 05:08 UTC_
 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | Vite app | Runs in the browser with a free account | [guide](guides/anmolkapil/plexo.md) |
 | [Nutlope/gloss](https://github.com/Nutlope/gloss) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nutlope/gloss.md) |
 | [yzg1226/mcd-party-officer](https://github.com/yzg1226/mcd-party-officer) | Python project | Runs in the browser with a free account | [guide](guides/yzg1226/mcd-party-officer.md) |
-| [RokkuDayo/ForzaHorizon2_ExtraOptions](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) | C project | Needs a real machine (or a GPU) to run | [guide](guides/rokkudayo/forzahorizon2_extraoptions.md) |
 <!-- latest:end -->
 
 ## How it works

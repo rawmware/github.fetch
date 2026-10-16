@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_833 guides written so far · last update 2026-10-16 14:44 UTC_
+_834 guides written so far · last update 2026-10-16 14:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [anujasid/mcp-for-blender-pro](https://github.com/anujasid/mcp-for-blender-pro) | Python project | Runs in the browser with a free account | [guide](guides/anujasid/mcp-for-blender-pro.md) |
 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Go project | Runs in the browser with a free account | [guide](guides/feder-cr/git-ai.md) |
 | [bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/bc160201983/uncharted-the-nathan-drake-collection-pc-port.md) |
 | [Leonxlnx/golden-temple](https://github.com/Leonxlnx/golden-temple) | Vite app | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/golden-temple.md) |
@@ -38,7 +39,6 @@ _833 guides written so far · last update 2026-10-16 14:44 UTC_
 | [cschalle/hw-harness](https://github.com/cschalle/hw-harness) | Shell project | Runs in the browser with a free account | [guide](guides/cschalle/hw-harness.md) |
 | [leekt/skim](https://github.com/leekt/skim) | Rust project | Runs in the browser with a free account | [guide](guides/leekt/skim.md) |
 | [XplayerMY/brave-dont-romance-teammates](https://github.com/XplayerMY/brave-dont-romance-teammates) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/xplayermy/brave-dont-romance-teammates.md) |
-| [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openmoss/moss-image.md) |
 <!-- latest:end -->
 
 ## How it works

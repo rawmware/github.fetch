@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_824 guides written so far · last update 2026-10-16 09:54 UTC_
+_825 guides written so far · last update 2026-10-16 09:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cschalle/hw-harness](https://github.com/cschalle/hw-harness) | Shell project | Runs in the browser with a free account | [guide](guides/cschalle/hw-harness.md) |
 | [leekt/skim](https://github.com/leekt/skim) | Rust project | Runs in the browser with a free account | [guide](guides/leekt/skim.md) |
 | [XplayerMY/brave-dont-romance-teammates](https://github.com/XplayerMY/brave-dont-romance-teammates) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/xplayermy/brave-dont-romance-teammates.md) |
 | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openmoss/moss-image.md) |
@@ -38,7 +39,6 @@ _824 guides written so far · last update 2026-10-16 09:54 UTC_
 | [2430816465/campus-knowledge-agent](https://github.com/2430816465/campus-knowledge-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/2430816465/campus-knowledge-agent.md) |
 | [mmm1712/Local_AI_esp32](https://github.com/mmm1712/Local_AI_esp32) | Python project | Runs in the browser with a free account | [guide](guides/mmm1712/local_ai_esp32.md) |
 | [PedroMarinhoDev/ComfyUI-Drama3](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) | Python project | Runs in the browser with a free account | [guide](guides/pedromarinhodev/comfyui-drama3.md) |
-| [zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System) | JavaScript project | Runs in the browser with a free account | [guide](guides/zgsfsec/full-chain-sentinel-system.md) |
 <!-- latest:end -->
 
 ## How it works

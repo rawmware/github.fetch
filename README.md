@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_847 guides written so far · last update 2026-10-16 18:26 UTC_
+_848 guides written so far · last update 2026-10-16 18:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC](https://github.com/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/meshmindtruss/crimson-desert-save-editor-mod-for-pc.md) |
 | [assassinpebbleglide/Respocket-cs2-External-v1](https://github.com/assassinpebbleglide/Respocket-cs2-External-v1) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/assassinpebbleglide/respocket-cs2-external-v1.md) |
 | [Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster](https://github.com/Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/xenoesclaw44704/arc-raiders-respocket-fps-booster.md) |
 | [ClickingMaster/ssrecomp](https://github.com/ClickingMaster/ssrecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/clickingmaster/ssrecomp.md) |
@@ -38,7 +39,6 @@ _847 guides written so far · last update 2026-10-16 18:26 UTC_
 | [shuyu-labs/transwork](https://github.com/shuyu-labs/transwork) | Docker app | Runs in the browser with a free account | [guide](guides/shuyu-labs/transwork.md) |
 | [athasdev/browser](https://github.com/athasdev/browser) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/athasdev/browser.md) |
 | [LoZazaMastro/RaceOneHub](https://github.com/LoZazaMastro/RaceOneHub) | Python project | Runs in the browser with a free account | [guide](guides/lozazamastro/raceonehub.md) |
-| [cryptoangelito/DocKit](https://github.com/cryptoangelito/DocKit) | Go project | Runs in the browser with a free account | [guide](guides/cryptoangelito/dockit.md) |
 <!-- latest:end -->
 
 ## How it works

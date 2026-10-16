@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_857 guides written so far · last update 2026-10-16 21:37 UTC_
+_858 guides written so far · last update 2026-10-16 21:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ZiZc3/LiveShell](https://github.com/ZiZc3/LiveShell) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zizc3/liveshell.md) |
 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/xscreensaver-official/xscreensaver.md) |
 | [BelmanteGu/SuperMarioWonderRecomp](https://github.com/BelmanteGu/SuperMarioWonderRecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/belmantegu/supermariowonderrecomp.md) |
 | [limitemuwhirl/mm2-free-script](https://github.com/limitemuwhirl/mm2-free-script) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/limitemuwhirl/mm2-free-script.md) |
@@ -38,7 +39,6 @@ _857 guides written so far · last update 2026-10-16 21:37 UTC_
 | [XOmiod40291/99-Nights-Respocket-Free-Script](https://github.com/XOmiod40291/99-Nights-Respocket-Free-Script) | Lua project | Runs in the browser with a free account | [guide](guides/xomiod40291/99-nights-respocket-free-script.md) |
 | [meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC](https://github.com/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/meshmindtruss/crimson-desert-save-editor-mod-for-pc.md) |
 | [assassinpebbleglide/Respocket-cs2-External-v1](https://github.com/assassinpebbleglide/Respocket-cs2-External-v1) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/assassinpebbleglide/respocket-cs2-external-v1.md) |
-| [Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster](https://github.com/Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/xenoesclaw44704/arc-raiders-respocket-fps-booster.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_828 guides written so far · last update 2026-10-16 09:54 UTC_
+_829 guides written so far · last update 2026-10-16 09:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ardiri/dev-palmos](https://github.com/ardiri/dev-palmos) | HTML project | Runs in the browser with a free account | [guide](guides/ardiri/dev-palmos.md) |
 | [SinapisAI/collective-model-intelligence](https://github.com/SinapisAI/collective-model-intelligence) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/sinapisai/collective-model-intelligence.md) |
 | [longsurf-ai/endo](https://github.com/longsurf-ai/endo) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/endo.md) |
 | [ShadowSwaps/REA-Reconstruction-Companion](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) | JavaScript project | Runs in the browser with a free account | [guide](guides/shadowswaps/rea-reconstruction-companion.md) |
@@ -38,7 +39,6 @@ _828 guides written so far · last update 2026-10-16 09:54 UTC_
 | [BeckyGlobal/PaidToStudyAbroad](https://github.com/BeckyGlobal/PaidToStudyAbroad) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/beckyglobal/paidtostudyabroad.md) |
 | [MartinPuli/taste-library](https://github.com/MartinPuli/taste-library) | JavaScript project | Runs in the browser with a free account | [guide](guides/martinpuli/taste-library.md) |
 | [WoodStoryConverter/Gta-V-Respocket-AIO-Soft](https://github.com/WoodStoryConverter/Gta-V-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/woodstoryconverter/gta-v-respocket-aio-soft.md) |
-| [YOURSJEYO/claude-switcher](https://github.com/YOURSJEYO/claude-switcher) | PowerShell project | Runs in the browser with a free account | [guide](guides/yoursjeyo/claude-switcher.md) |
 <!-- latest:end -->
 
 ## How it works

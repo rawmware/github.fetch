@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T21:37:18.979Z",
- "totalGuides": 859,
+ "updatedAt": "2026-10-16T21:37:19.191Z",
+ "totalGuides": 860,
  "items": [
+  {
+   "fullName": "christos-antono/NPCTalk",
+   "owner": "christos-antono",
+   "name": "NPCTalk",
+   "url": "https://github.com/christos-antono/NPCTalk",
+   "avatar": "https://avatars.githubusercontent.com/u/232431629?v=4",
+   "description": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "fish-audio",
+    "game-modding",
+    "gta5",
+    "llm",
+    "npc",
+    "text-to-speech"
+   ],
+   "license": "MIT",
+   "stars": 70,
+   "forks": 6,
+   "createdAt": "2026-10-15T23:37:25Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-16T21:37:19.190Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/christos-antono/NPCTalk/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/christos-antono/NPCTalk?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/christos-antono/NPCTalk",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/christos-antono/NPCTalk/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/christos-antono/NPCTalk.git\ncd NPCTalk\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/christos-antono/NPCTalk\nWhat it says it does: \"Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-16T21:37:19.190Z"
+  },
   {
    "fullName": "gungnir-sanye/tee-attestation-extraction",
    "owner": "gungnir-sanye",
@@ -31585,70 +31656,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Vincentwei1021/mg-styles-15\nWhat it says it does: \"15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-08T19:30:28.910Z"
-  },
-  {
-   "fullName": "jiwoochris/artex-ko",
-   "owner": "jiwoochris",
-   "name": "artex-ko",
-   "url": "https://github.com/jiwoochris/artex-ko",
-   "avatar": "https://avatars.githubusercontent.com/u/83687471?v=4",
-   "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-   "language": "Go",
-   "topics": [
-    "ai-agent",
-    "autonomous-agents",
-    "blue-team",
-    "cybersecurity",
-    "detection-engineering",
-    "i18n",
-    "korean",
-    "llm"
-   ],
-   "license": "AGPL-3.0",
-   "stars": 656,
-   "forks": 511,
-   "createdAt": "2026-10-03T14:49:48Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-08T19:30:28.602Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/jiwoochris/artex-ko?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/jiwoochris/artex-ko",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/jiwoochris/artex-ko/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/jiwoochris/artex-ko.git\ncd artex-ko\ngo build ./...",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/jiwoochris/artex-ko\nWhat it says it does: \"ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-08T19:30:28.602Z"
   }
  ],
  "levels": {

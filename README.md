@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_802 guides written so far · last update 2026-10-16 00:40 UTC_
+_803 guides written so far · last update 2026-10-16 00:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [alexander-stack1/ciencia-de-dados-cibele-russo](https://github.com/alexander-stack1/ciencia-de-dados-cibele-russo) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alexander-stack1/ciencia-de-dados-cibele-russo.md) |
 | [TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free](https://github.com/TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tasnadiattila/onlyfans-ai-creator-video-downloader-uploader-free.md) |
 | [storytold/designcraft](https://github.com/storytold/designcraft) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/designcraft.md) |
 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | Vite app | Runs in the browser with a free account | [guide](guides/anmolkapil/plexo.md) |
@@ -38,7 +39,6 @@ _802 guides written so far · last update 2026-10-16 00:40 UTC_
 | [wanderingspirit03/ambition-skill](https://github.com/wanderingspirit03/ambition-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wanderingspirit03/ambition-skill.md) |
 | [thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/thesysdev/open-intelligent-ui.md) |
 | [NabilRFG12/Reverse-Engineer-anything](https://github.com/NabilRFG12/Reverse-Engineer-anything) | Node command-line tool | Runs in the browser with a free account | [guide](guides/nabilrfg12/reverse-engineer-anything.md) |
-| [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/morluto/awesome-reverse-engineering.md) |
 <!-- latest:end -->
 
 ## How it works

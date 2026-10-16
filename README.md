@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_831 guides written so far · last update 2026-10-16 09:54 UTC_
+_832 guides written so far · last update 2026-10-16 09:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/bc160201983/uncharted-the-nathan-drake-collection-pc-port.md) |
 | [Leonxlnx/golden-temple](https://github.com/Leonxlnx/golden-temple) | Vite app | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/golden-temple.md) |
 | [mod-manager/mod-manager.github.io](https://github.com/mod-manager/mod-manager.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/mod-manager/mod-manager.github.io.md) |
 | [ardiri/dev-palmos](https://github.com/ardiri/dev-palmos) | HTML project | Runs in the browser with a free account | [guide](guides/ardiri/dev-palmos.md) |
@@ -38,7 +39,6 @@ _831 guides written so far · last update 2026-10-16 09:54 UTC_
 | [XplayerMY/brave-dont-romance-teammates](https://github.com/XplayerMY/brave-dont-romance-teammates) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/xplayermy/brave-dont-romance-teammates.md) |
 | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openmoss/moss-image.md) |
 | [black-forest-labs/flux-3-image-klein](https://github.com/black-forest-labs/flux-3-image-klein) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/black-forest-labs/flux-3-image-klein.md) |
-| [BeckyGlobal/PaidToStudyAbroad](https://github.com/BeckyGlobal/PaidToStudyAbroad) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/beckyglobal/paidtostudyabroad.md) |
 <!-- latest:end -->
 
 ## How it works

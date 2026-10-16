@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_814 guides written so far · last update 2026-10-16 05:08 UTC_
+_815 guides written so far · last update 2026-10-16 05:08 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mmm1712/Local_AI_esp32](https://github.com/mmm1712/Local_AI_esp32) | Python project | Runs in the browser with a free account | [guide](guides/mmm1712/local_ai_esp32.md) |
 | [PedroMarinhoDev/ComfyUI-Drama3](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) | Python project | Runs in the browser with a free account | [guide](guides/pedromarinhodev/comfyui-drama3.md) |
 | [zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System) | JavaScript project | Runs in the browser with a free account | [guide](guides/zgsfsec/full-chain-sentinel-system.md) |
 | [Enderfga/SolarRenderer](https://github.com/Enderfga/SolarRenderer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/enderfga/solarrenderer.md) |
@@ -38,7 +39,6 @@ _814 guides written so far · last update 2026-10-16 05:08 UTC_
 | [JeffLi1993/open-growth-skills](https://github.com/JeffLi1993/open-growth-skills) | Python project | Runs in the browser with a free account | [guide](guides/jeffli1993/open-growth-skills.md) |
 | [Yarnnovapergola/actual](https://github.com/Yarnnovapergola/actual) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/yarnnovapergola/actual.md) |
 | [YuuLuo/a7c2-service-preload](https://github.com/YuuLuo/a7c2-service-preload) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yuuluo/a7c2-service-preload.md) |
-| [alexander-stack1/ciencia-de-dados-cibele-russo](https://github.com/alexander-stack1/ciencia-de-dados-cibele-russo) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alexander-stack1/ciencia-de-dados-cibele-russo.md) |
 <!-- latest:end -->
 
 ## How it works

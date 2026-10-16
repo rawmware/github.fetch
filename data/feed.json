@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T00:40:21.626Z",
- "totalGuides": 806,
+ "updatedAt": "2026-10-16T00:40:21.821Z",
+ "totalGuides": 807,
  "items": [
+  {
+   "fullName": "kungec/kunpanel",
+   "owner": "kungec",
+   "name": "kunpanel",
+   "url": "https://github.com/kungec/kunpanel",
+   "avatar": "https://avatars.githubusercontent.com/u/330999056?v=4",
+   "description": "坤面板 KunPanel —— Go 单二进制轻量级服务器运维管理面板(网站/应用商店/Docker/WAF/监控/终端),支持 Linux 全系统与 Windows 一键安装。Single-binary server management panel in Go.",
+   "language": "Go",
+   "topics": [],
+   "license": "MIT",
+   "stars": 45,
+   "forks": 11,
+   "createdAt": "2026-10-14T16:26:24Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-16T00:40:21.820Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/kungec/kunpanel?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/kungec/kunpanel",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kungec/kunpanel/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": "go run .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/kungec/kunpanel.git\ncd kunpanel\ngo build ./...\ngo run .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/kungec/kunpanel\nWhat it says it does: \"坤面板 KunPanel —— Go 单二进制轻量级服务器运维管理面板(网站/应用商店/Docker/WAF/监控/终端),支持 Linux 全系统与 Windows 一键安装。Single-binary server management panel in Go.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-16T00:40:21.820Z"
+  },
   {
    "fullName": "JeffLi1993/open-growth-skills",
    "owner": "JeffLi1993",
@@ -31619,69 +31674,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Jakeschincariol/founder-skill\nWhat it says it does: \"Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-08T00:07:34.217Z"
-  },
-  {
-   "fullName": "droogie/bbhost",
-   "owner": "droogie",
-   "name": "bbhost",
-   "url": "https://github.com/droogie/bbhost",
-   "avatar": "https://avatars.githubusercontent.com/u/1254882?v=4",
-   "description": "Definitive Bloodborne PC Experience",
-   "language": "C++",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 97,
-   "forks": 4,
-   "createdAt": "2026-10-07T14:22:17Z",
-   "branch": "master",
-   "homepage": null,
-   "addedAt": "2026-10-08T00:07:34.088Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/droogie/bbhost?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/droogie/bbhost",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/droogie/bbhost/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/droogie/bbhost.git\ncd bbhost",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/droogie/bbhost\nWhat it says it does: \"Definitive Bloodborne PC Experience\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-08T00:07:34.088Z"
   }
  ],
  "levels": {
-  "account": 233,
+  "account": 234,
   "instant": 40,
   "read": 138,
-  "heavy": 89
+  "heavy": 88
  }
 }

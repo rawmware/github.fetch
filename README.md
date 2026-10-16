@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_806 guides written so far · last update 2026-10-16 00:40 UTC_
+_807 guides written so far · last update 2026-10-16 00:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kungec/kunpanel](https://github.com/kungec/kunpanel) | Go project | Runs in the browser with a free account | [guide](guides/kungec/kunpanel.md) |
 | [JeffLi1993/open-growth-skills](https://github.com/JeffLi1993/open-growth-skills) | Python project | Runs in the browser with a free account | [guide](guides/jeffli1993/open-growth-skills.md) |
 | [Yarnnovapergola/actual](https://github.com/Yarnnovapergola/actual) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/yarnnovapergola/actual.md) |
 | [YuuLuo/a7c2-service-preload](https://github.com/YuuLuo/a7c2-service-preload) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yuuluo/a7c2-service-preload.md) |
@@ -38,7 +39,6 @@ _806 guides written so far · last update 2026-10-16 00:40 UTC_
 | [yzg1226/mcd-party-officer](https://github.com/yzg1226/mcd-party-officer) | Python project | Runs in the browser with a free account | [guide](guides/yzg1226/mcd-party-officer.md) |
 | [RokkuDayo/ForzaHorizon2_ExtraOptions](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) | C project | Needs a real machine (or a GPU) to run | [guide](guides/rokkudayo/forzahorizon2_extraoptions.md) |
 | [hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist) | Python project | Runs in the browser with a free account | [guide](guides/hujjun/mcd-saver-strategist.md) |
-| [risingpower/claude-phone](https://github.com/risingpower/claude-phone) | Python project | Runs in the browser with a free account | [guide](guides/risingpower/claude-phone.md) |
 <!-- latest:end -->
 
 ## How it works

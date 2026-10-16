@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_804 guides written so far · last update 2026-10-16 00:40 UTC_
+_805 guides written so far · last update 2026-10-16 00:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Yarnnovapergola/actual](https://github.com/Yarnnovapergola/actual) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/yarnnovapergola/actual.md) |
 | [YuuLuo/a7c2-service-preload](https://github.com/YuuLuo/a7c2-service-preload) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yuuluo/a7c2-service-preload.md) |
 | [alexander-stack1/ciencia-de-dados-cibele-russo](https://github.com/alexander-stack1/ciencia-de-dados-cibele-russo) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alexander-stack1/ciencia-de-dados-cibele-russo.md) |
 | [TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free](https://github.com/TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tasnadiattila/onlyfans-ai-creator-video-downloader-uploader-free.md) |
@@ -38,7 +39,6 @@ _804 guides written so far · last update 2026-10-16 00:40 UTC_
 | [hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist) | Python project | Runs in the browser with a free account | [guide](guides/hujjun/mcd-saver-strategist.md) |
 | [risingpower/claude-phone](https://github.com/risingpower/claude-phone) | Python project | Runs in the browser with a free account | [guide](guides/risingpower/claude-phone.md) |
 | [wanderingspirit03/ambition-skill](https://github.com/wanderingspirit03/ambition-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wanderingspirit03/ambition-skill.md) |
-| [thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/thesysdev/open-intelligent-ui.md) |
 <!-- latest:end -->
 
 ## How it works

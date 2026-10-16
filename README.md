@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_855 guides written so far · last update 2026-10-16 18:26 UTC_
+_856 guides written so far · last update 2026-10-16 21:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BelmanteGu/SuperMarioWonderRecomp](https://github.com/BelmanteGu/SuperMarioWonderRecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/belmantegu/supermariowonderrecomp.md) |
 | [limitemuwhirl/mm2-free-script](https://github.com/limitemuwhirl/mm2-free-script) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/limitemuwhirl/mm2-free-script.md) |
 | [StadiumProvider/Gta-V-Respocket-AIO-Soft](https://github.com/StadiumProvider/Gta-V-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/stadiumprovider/gta-v-respocket-aio-soft.md) |
 | [BPaladin52914/Respocket-Yuzu-Emulator-Reworked-v2](https://github.com/BPaladin52914/Respocket-Yuzu-Emulator-Reworked-v2) | HTML project | Runs in the browser with a free account | [guide](guides/bpaladin52914/respocket-yuzu-emulator-reworked-v2.md) |
@@ -38,7 +39,6 @@ _855 guides written so far · last update 2026-10-16 18:26 UTC_
 | [assassinpebbleglide/Respocket-cs2-External-v1](https://github.com/assassinpebbleglide/Respocket-cs2-External-v1) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/assassinpebbleglide/respocket-cs2-external-v1.md) |
 | [Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster](https://github.com/Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/xenoesclaw44704/arc-raiders-respocket-fps-booster.md) |
 | [ClickingMaster/ssrecomp](https://github.com/ClickingMaster/ssrecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/clickingmaster/ssrecomp.md) |
-| [SakanaAI/AutoIllustrate](https://github.com/SakanaAI/AutoIllustrate) | Node command-line tool | Runs in the browser with a free account | [guide](guides/sakanaai/autoillustrate.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_829 guides written so far · last update 2026-10-16 09:54 UTC_
+_830 guides written so far · last update 2026-10-16 09:54 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mod-manager/mod-manager.github.io](https://github.com/mod-manager/mod-manager.github.io) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/mod-manager/mod-manager.github.io.md) |
 | [ardiri/dev-palmos](https://github.com/ardiri/dev-palmos) | HTML project | Runs in the browser with a free account | [guide](guides/ardiri/dev-palmos.md) |
 | [SinapisAI/collective-model-intelligence](https://github.com/SinapisAI/collective-model-intelligence) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/sinapisai/collective-model-intelligence.md) |
 | [longsurf-ai/endo](https://github.com/longsurf-ai/endo) | JavaScript project | Runs in the browser with a free account | [guide](guides/longsurf-ai/endo.md) |
@@ -38,7 +39,6 @@ _829 guides written so far · last update 2026-10-16 09:54 UTC_
 | [black-forest-labs/flux-3-image-klein](https://github.com/black-forest-labs/flux-3-image-klein) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/black-forest-labs/flux-3-image-klein.md) |
 | [BeckyGlobal/PaidToStudyAbroad](https://github.com/BeckyGlobal/PaidToStudyAbroad) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/beckyglobal/paidtostudyabroad.md) |
 | [MartinPuli/taste-library](https://github.com/MartinPuli/taste-library) | JavaScript project | Runs in the browser with a free account | [guide](guides/martinpuli/taste-library.md) |
-| [WoodStoryConverter/Gta-V-Respocket-AIO-Soft](https://github.com/WoodStoryConverter/Gta-V-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/woodstoryconverter/gta-v-respocket-aio-soft.md) |
 <!-- latest:end -->
 
 ## How it works

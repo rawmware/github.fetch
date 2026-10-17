@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_882 guides written so far · last update 2026-10-17 08:37 UTC_
+_883 guides written so far · last update 2026-10-17 08:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Thang1191/Miku-Dating-Sim-GRUB-Theme](https://github.com/Thang1191/Miku-Dating-Sim-GRUB-Theme) | Shell project | Runs in the browser with a free account | [guide](guides/thang1191/miku-dating-sim-grub-theme.md) |
 | [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vitasid57/bluntcore-intimacy-lab.md) |
 | [cinderphysicianadapt/Respocket-Blooket-AIO-Soft](https://github.com/cinderphysicianadapt/Respocket-Blooket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cinderphysicianadapt/respocket-blooket-aio-soft.md) |
 | [CruelAlbatross46/Payday-3-Respocket-AIO-Soft](https://github.com/CruelAlbatross46/Payday-3-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cruelalbatross46/payday-3-respocket-aio-soft.md) |
@@ -38,7 +39,6 @@ _882 guides written so far · last update 2026-10-17 08:37 UTC_
 | [classserfchisel/DayZ-Respocket-AIO-Soft](https://github.com/classserfchisel/DayZ-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/classserfchisel/dayz-respocket-aio-soft.md) |
 | [SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge](https://github.com/SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smokemotorman/respocket-rebirth-pub-save-forge.md) |
 | [PercentHornetTalk75/Respocket-SoTF-Trainer](https://github.com/PercentHornetTalk75/Respocket-SoTF-Trainer) | Python project | Runs in the browser with a free account | [guide](guides/percenthornettalk75/respocket-sotf-trainer.md) |
-| [MaxSikorski/jumpstart-3d](https://github.com/MaxSikorski/jumpstart-3d) | HTML project | Runs in the browser with a free account | [guide](guides/maxsikorski/jumpstart-3d.md) |
 <!-- latest:end -->
 
 ## How it works

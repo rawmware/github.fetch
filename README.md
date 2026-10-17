@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_880 guides written so far · last update 2026-10-17 04:10 UTC_
+_881 guides written so far · last update 2026-10-17 04:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cinderphysicianadapt/Respocket-Blooket-AIO-Soft](https://github.com/cinderphysicianadapt/Respocket-Blooket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cinderphysicianadapt/respocket-blooket-aio-soft.md) |
 | [CruelAlbatross46/Payday-3-Respocket-AIO-Soft](https://github.com/CruelAlbatross46/Payday-3-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cruelalbatross46/payday-3-respocket-aio-soft.md) |
 | [Outsidedelremedy/DBD-Respocket-AIO-Soft](https://github.com/Outsidedelremedy/DBD-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/outsidedelremedy/dbd-respocket-aio-soft.md) |
 | [LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft](https://github.com/LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft) | HTML project | Runs in the browser with a free account | [guide](guides/lakeoriolemagnify/respocket-albion-online-aio-soft.md) |
@@ -38,7 +39,6 @@ _880 guides written so far · last update 2026-10-17 04:10 UTC_
 | [PercentHornetTalk75/Respocket-SoTF-Trainer](https://github.com/PercentHornetTalk75/Respocket-SoTF-Trainer) | Python project | Runs in the browser with a free account | [guide](guides/percenthornettalk75/respocket-sotf-trainer.md) |
 | [MaxSikorski/jumpstart-3d](https://github.com/MaxSikorski/jumpstart-3d) | HTML project | Runs in the browser with a free account | [guide](guides/maxsikorski/jumpstart-3d.md) |
 | [c22dev/mush8](https://github.com/c22dev/mush8) | Rust project | Runs in the browser with a free account | [guide](guides/c22dev/mush8.md) |
-| [gichirimaku/wp2shell-PoC](https://github.com/gichirimaku/wp2shell-PoC) | Python project | Runs in the browser with a free account | [guide](guides/gichirimaku/wp2shell-poc.md) |
 <!-- latest:end -->
 
 ## How it works

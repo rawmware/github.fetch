@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_905 guides written so far · last update 2026-10-17 15:53 UTC_
+_906 guides written so far · last update 2026-10-17 15:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VantaCode420/SmartHdrManager](https://github.com/VantaCode420/SmartHdrManager) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/vantacode420/smarthdrmanager.md) |
 | [Apolinario-coder/SkyRecomp](https://github.com/Apolinario-coder/SkyRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/apolinario-coder/skyrecomp.md) |
 | [BreezeSolicitorMap/undress.ai](https://github.com/BreezeSolicitorMap/undress.ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breezesolicitormap/undress.ai.md) |
 | [rohit267/net-merge](https://github.com/rohit267/net-merge) | Go project | Runs in the browser with a free account | [guide](guides/rohit267/net-merge.md) |
@@ -38,7 +39,6 @@ _905 guides written so far · last update 2026-10-17 15:53 UTC_
 | [yapfast/yapfast](https://github.com/yapfast/yapfast) | Rust project | Runs in the browser with a free account | [guide](guides/yapfast/yapfast.md) |
 | [ZigZagBoi1/PS5-14.10-Research](https://github.com/ZigZagBoi1/PS5-14.10-Research) | Lua project | Runs in the browser with a free account | [guide](guides/zigzagboi1/ps5-14.10-research.md) |
 | [pkdec/uDPR](https://github.com/pkdec/uDPR) | ShaderLab project | Runs in the browser with a free account | [guide](guides/pkdec/udpr.md) |
-| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python project | Runs in the browser with a free account | [guide](guides/aicodeking/leanrea.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_876 guides written so far · last update 2026-10-17 04:10 UTC_
+_877 guides written so far · last update 2026-10-17 04:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HydromancerConsider/PC-Gaming-Tweaker](https://github.com/HydromancerConsider/PC-Gaming-Tweaker) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hydromancerconsider/pc-gaming-tweaker.md) |
 | [FlyerPersist96/Resp-Blooket-AIO-Soft](https://github.com/FlyerPersist96/Resp-Blooket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/flyerpersist96/resp-blooket-aio-soft.md) |
 | [monsterelephantexist/Palworld-Respocket-AIO-Soft](https://github.com/monsterelephantexist/Palworld-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/monsterelephantexist/palworld-respocket-aio-soft.md) |
 | [classserfchisel/DayZ-Respocket-AIO-Soft](https://github.com/classserfchisel/DayZ-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/classserfchisel/dayz-respocket-aio-soft.md) |
@@ -38,7 +39,6 @@ _876 guides written so far · last update 2026-10-17 04:10 UTC_
 | [Noniv/web-ocean](https://github.com/Noniv/web-ocean) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/noniv/web-ocean.md) |
 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Python project | Runs in the browser with a free account | [guide](guides/cranebeaker/coop-anything.md) |
 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Rust project | Runs in the browser with a free account | [guide](guides/reason-machines/reason-network.md) |
-| [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | Python project | Runs in the browser with a free account | [guide](guides/zcbacxc/mcd-party-planner.md) |
 <!-- latest:end -->
 
 ## How it works

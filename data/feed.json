@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T12:28:09.439Z",
- "totalGuides": 893,
+ "updatedAt": "2026-10-17T12:28:09.619Z",
+ "totalGuides": 894,
  "items": [
+  {
+   "fullName": "aicodeking/leanrea",
+   "owner": "aicodeking",
+   "name": "leanrea",
+   "url": "https://github.com/aicodeking/leanrea",
+   "avatar": "https://avatars.githubusercontent.com/u/167222040?v=4",
+   "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 120,
+   "forks": 24,
+   "createdAt": "2026-10-17T02:53:24Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T12:28:09.618Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/aicodeking/leanrea/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/aicodeking/leanrea?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/aicodeking/leanrea",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/aicodeking/leanrea/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/aicodeking/leanrea.git\ncd leanrea",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/aicodeking/leanrea\nWhat it says it does: \"One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T12:28:09.618Z"
+  },
   {
    "fullName": "anujasid/blender-ai-mcp-addon",
    "owner": "anujasid",
@@ -31485,93 +31547,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/tcchen2026/VibeOffice\nWhat it says it does: \"A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T13:05:34.035Z"
-  },
-  {
-   "fullName": "Stellar-Kolo/kolo-backend",
-   "owner": "Stellar-Kolo",
-   "name": "kolo-backend",
-   "url": "https://github.com/Stellar-Kolo/kolo-backend",
-   "avatar": "https://avatars.githubusercontent.com/u/340053772?v=4",
-   "description": "WhatsApp-first Stellar backend for Kolo: wallet operations, Stellar payments, Soroban savings groups, and queued community messaging.",
-   "language": "TypeScript",
-   "topics": [
-    "community-savings",
-    "express",
-    "kolo",
-    "soroban",
-    "soroban-smart-contracts",
-    "stellar",
-    "stellar-sdk",
-    "typescript"
-   ],
-   "license": null,
-   "stars": 131,
-   "forks": 128,
-   "createdAt": "2026-10-09T09:25:01Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T13:05:33.773Z",
-   "stack": {
-    "kind": "node",
-    "label": "React app",
-    "frameworks": [
-     "React",
-     "Express"
-    ]
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/Stellar-Kolo/kolo-backend",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/Stellar-Kolo/kolo-backend",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Stellar-Kolo/kolo-backend?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Stellar-Kolo/kolo-backend",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Stellar-Kolo/kolo-backend/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm run dev",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Stellar-Kolo/kolo-backend.git\ncd kolo-backend\nnpm install\nnpm run dev",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Stellar-Kolo/kolo-backend\nWhat it says it does: \"WhatsApp-first Stellar backend for Kolo: wallet operations, Stellar payments, Soroban savings groups, and queued community messaging.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T13:05:33.773Z"
   }
  ],
  "levels": {
-  "account": 227,
+  "account": 228,
   "read": 141,
   "heavy": 98,
-  "instant": 34
+  "instant": 33
  }
 }

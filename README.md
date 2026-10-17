@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_879 guides written so far · last update 2026-10-17 04:10 UTC_
+_880 guides written so far · last update 2026-10-17 04:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CruelAlbatross46/Payday-3-Respocket-AIO-Soft](https://github.com/CruelAlbatross46/Payday-3-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cruelalbatross46/payday-3-respocket-aio-soft.md) |
 | [Outsidedelremedy/DBD-Respocket-AIO-Soft](https://github.com/Outsidedelremedy/DBD-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/outsidedelremedy/dbd-respocket-aio-soft.md) |
 | [LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft](https://github.com/LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft) | HTML project | Runs in the browser with a free account | [guide](guides/lakeoriolemagnify/respocket-albion-online-aio-soft.md) |
 | [HydromancerConsider/PC-Gaming-Tweaker](https://github.com/HydromancerConsider/PC-Gaming-Tweaker) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hydromancerconsider/pc-gaming-tweaker.md) |
@@ -38,7 +39,6 @@ _879 guides written so far · last update 2026-10-17 04:10 UTC_
 | [MaxSikorski/jumpstart-3d](https://github.com/MaxSikorski/jumpstart-3d) | HTML project | Runs in the browser with a free account | [guide](guides/maxsikorski/jumpstart-3d.md) |
 | [c22dev/mush8](https://github.com/c22dev/mush8) | Rust project | Runs in the browser with a free account | [guide](guides/c22dev/mush8.md) |
 | [gichirimaku/wp2shell-PoC](https://github.com/gichirimaku/wp2shell-PoC) | Python project | Runs in the browser with a free account | [guide](guides/gichirimaku/wp2shell-poc.md) |
-| [Noniv/web-ocean](https://github.com/Noniv/web-ocean) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/noniv/web-ocean.md) |
 <!-- latest:end -->
 
 ## How it works

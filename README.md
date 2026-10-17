@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_884 guides written so far · last update 2026-10-17 08:37 UTC_
+_885 guides written so far · last update 2026-10-17 08:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft](https://github.com/TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft) | HTML project | Runs in the browser with a free account | [guide](guides/termitedeliver/marvel-rivals-respocket-aio-soft.md) |
 | [azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge) | Go project | Runs in the browser with a free account | [guide](guides/azrinaldi/gemini-stealth-bridge.md) |
 | [Thang1191/Miku-Dating-Sim-GRUB-Theme](https://github.com/Thang1191/Miku-Dating-Sim-GRUB-Theme) | Shell project | Runs in the browser with a free account | [guide](guides/thang1191/miku-dating-sim-grub-theme.md) |
 | [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vitasid57/bluntcore-intimacy-lab.md) |
@@ -38,7 +39,6 @@ _884 guides written so far · last update 2026-10-17 08:37 UTC_
 | [FlyerPersist96/Resp-Blooket-AIO-Soft](https://github.com/FlyerPersist96/Resp-Blooket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/flyerpersist96/resp-blooket-aio-soft.md) |
 | [monsterelephantexist/Palworld-Respocket-AIO-Soft](https://github.com/monsterelephantexist/Palworld-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/monsterelephantexist/palworld-respocket-aio-soft.md) |
 | [classserfchisel/DayZ-Respocket-AIO-Soft](https://github.com/classserfchisel/DayZ-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/classserfchisel/dayz-respocket-aio-soft.md) |
-| [SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge](https://github.com/SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smokemotorman/respocket-rebirth-pub-save-forge.md) |
 <!-- latest:end -->
 
 ## How it works

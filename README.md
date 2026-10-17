@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_894 guides written so far · last update 2026-10-17 12:28 UTC_
+_895 guides written so far · last update 2026-10-17 12:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pkdec/uDPR](https://github.com/pkdec/uDPR) | ShaderLab project | Runs in the browser with a free account | [guide](guides/pkdec/udpr.md) |
 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python project | Runs in the browser with a free account | [guide](guides/aicodeking/leanrea.md) |
 | [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/anujasid/blender-ai-mcp-addon.md) |
 | [touri-ai/touri](https://github.com/touri-ai/touri) | Vite app | Runs in the browser with a free account | [guide](guides/touri-ai/touri.md) |
@@ -38,7 +39,6 @@ _894 guides written so far · last update 2026-10-17 12:28 UTC_
 | [Infernopeak/FiveM-Respocket-AIO-Soft](https://github.com/Infernopeak/FiveM-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/infernopeak/fivem-respocket-aio-soft.md) |
 | [TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft](https://github.com/TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft) | HTML project | Runs in the browser with a free account | [guide](guides/termitedeliver/marvel-rivals-respocket-aio-soft.md) |
 | [azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge) | Go project | Runs in the browser with a free account | [guide](guides/azrinaldi/gemini-stealth-bridge.md) |
-| [Thang1191/Miku-Dating-Sim-GRUB-Theme](https://github.com/Thang1191/Miku-Dating-Sim-GRUB-Theme) | Shell project | Runs in the browser with a free account | [guide](guides/thang1191/miku-dating-sim-grub-theme.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_870 guides written so far · last update 2026-10-17 04:10 UTC_
+_871 guides written so far · last update 2026-10-17 04:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MaxSikorski/jumpstart-3d](https://github.com/MaxSikorski/jumpstart-3d) | HTML project | Runs in the browser with a free account | [guide](guides/maxsikorski/jumpstart-3d.md) |
 | [c22dev/mush8](https://github.com/c22dev/mush8) | Rust project | Runs in the browser with a free account | [guide](guides/c22dev/mush8.md) |
 | [gichirimaku/wp2shell-PoC](https://github.com/gichirimaku/wp2shell-PoC) | Python project | Runs in the browser with a free account | [guide](guides/gichirimaku/wp2shell-poc.md) |
 | [Noniv/web-ocean](https://github.com/Noniv/web-ocean) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/noniv/web-ocean.md) |
@@ -38,7 +39,6 @@ _870 guides written so far · last update 2026-10-17 04:10 UTC_
 | [TeamBoatswain/Respocket-FH-Trainer-Mod-Menu](https://github.com/TeamBoatswain/Respocket-FH-Trainer-Mod-Menu) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/teamboatswain/respocket-fh-trainer-mod-menu.md) |
 | [kergee/mcd-undercover](https://github.com/kergee/mcd-undercover) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/kergee/mcd-undercover.md) |
 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | Python project | Runs in the browser with a free account | [guide](guides/christos-antono/npctalk.md) |
-| [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction) | Python project | Runs in the browser with a free account | [guide](guides/gungnir-sanye/tee-attestation-extraction.md) |
 <!-- latest:end -->
 
 ## How it works

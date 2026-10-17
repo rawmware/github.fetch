@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T18:23:43.214Z",
- "totalGuides": 917,
+ "updatedAt": "2026-10-17T18:23:43.418Z",
+ "totalGuides": 918,
  "items": [
+  {
+   "fullName": "Enhed/clawd-usage-winwidget",
+   "owner": "Enhed",
+   "name": "clawd-usage-winwidget",
+   "url": "https://github.com/Enhed/clawd-usage-winwidget",
+   "avatar": "https://avatars.githubusercontent.com/u/36981278?v=4",
+   "description": "Claude usage limits in a tiny Windows widget + tray icon — with pixel Clawd who reacts to your Claude Code sessions, looks after your PC and chats with you, from the widget or your phone. PowerShell, no dependencies.",
+   "language": "PowerShell",
+   "topics": [
+    "anthropic",
+    "claude",
+    "claude-code",
+    "powershell",
+    "tray-icon",
+    "widget",
+    "windows",
+    "wpf"
+   ],
+   "license": "MIT",
+   "stars": 53,
+   "forks": 3,
+   "createdAt": "2026-10-16T17:04:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T18:23:43.417Z",
+   "stack": {
+    "kind": "other",
+    "label": "PowerShell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Enhed/clawd-usage-winwidget?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Enhed/clawd-usage-winwidget",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Enhed/clawd-usage-winwidget/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Enhed/clawd-usage-winwidget.git\ncd clawd-usage-winwidget",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Enhed/clawd-usage-winwidget\nWhat it says it does: \"Claude usage limits in a tiny Windows widget + tray icon — with pixel Clawd who reacts to your Claude Code sessions, looks after your PC and chats with you, from the widget or your phone. PowerShell, no dependencies.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T18:23:43.417Z"
+  },
   {
    "fullName": "apple-aiml-research/ml-rsi-inference-bench",
    "owner": "apple-aiml-research",
@@ -31483,68 +31547,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/GoliathCuttlefish/Adobe-Substance-3d\nWhat it says it does: \"Adobe Substance 3D meticulously models complex material compositions and renders photorealistic visuals in a professional desktop environment, providing...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T18:51:46.632Z"
-  },
-  {
-   "fullName": "passrhymegazebo/AnyUnlock",
-   "owner": "passrhymegazebo",
-   "name": "AnyUnlock",
-   "url": "https://github.com/passrhymegazebo/AnyUnlock",
-   "avatar": "https://avatars.githubusercontent.com/u/292110310?v=4",
-   "description": "Anyunlock optimizes your workflow by providing a comprehensive desktop utility configuration that streamlines processes and boosts efficiency without...",
-   "language": null,
-   "topics": [
-    "apple-id-remove",
-    "apple-id-remover",
-    "device-tool",
-    "frp-tool",
-    "ios-bypass",
-    "ios-find-my-bypass",
-    "ios-jailbreak",
-    "ios-mdm-bypass"
-   ],
-   "license": null,
-   "stars": 281,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:44:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T18:51:46.460Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/passrhymegazebo/AnyUnlock",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/passrhymegazebo/AnyUnlock/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/passrhymegazebo/AnyUnlock\nWhat it says it does: \"Anyunlock optimizes your workflow by providing a comprehensive desktop utility configuration that streamlines processes and boosts efficiency without...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T18:51:46.460Z"
   }
  ],
  "levels": {
-  "account": 230,
-  "read": 133,
+  "account": 231,
+  "read": 132,
   "heavy": 103,
   "instant": 34
  }

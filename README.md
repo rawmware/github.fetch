@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_890 guides written so far · last update 2026-10-17 08:37 UTC_
+_891 guides written so far · last update 2026-10-17 08:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [loyraydi/meow_hud](https://github.com/loyraydi/meow_hud) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/loyraydi/meow_hud.md) |
 | [midagedev/mwoyeo](https://github.com/midagedev/mwoyeo) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/midagedev/mwoyeo.md) |
 | [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) | HTML project | Runs in the browser with a free account | [guide](guides/tongyi-mai/opengcua.md) |
 | [rezadesky/RSDVault](https://github.com/rezadesky/RSDVault) | React app | Runs in the browser with a free account | [guide](guides/rezadesky/rsdvault.md) |
@@ -38,7 +39,6 @@ _890 guides written so far · last update 2026-10-17 08:37 UTC_
 | [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vitasid57/bluntcore-intimacy-lab.md) |
 | [cinderphysicianadapt/Respocket-Blooket-AIO-Soft](https://github.com/cinderphysicianadapt/Respocket-Blooket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cinderphysicianadapt/respocket-blooket-aio-soft.md) |
 | [CruelAlbatross46/Payday-3-Respocket-AIO-Soft](https://github.com/CruelAlbatross46/Payday-3-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cruelalbatross46/payday-3-respocket-aio-soft.md) |
-| [Outsidedelremedy/DBD-Respocket-AIO-Soft](https://github.com/Outsidedelremedy/DBD-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/outsidedelremedy/dbd-respocket-aio-soft.md) |
 <!-- latest:end -->
 
 ## How it works

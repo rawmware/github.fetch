@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_919 guides written so far · last update 2026-10-17 18:23 UTC_
+_920 guides written so far · last update 2026-10-17 20:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wusuoweiju48/google-anti-cn-doctor](https://github.com/wusuoweiju48/google-anti-cn-doctor) | Python project | Runs in the browser with a free account | [guide](guides/wusuoweiju48/google-anti-cn-doctor.md) |
 | [dubrovskiy-yevhen-stakelogic/rdr1-quest](https://github.com/dubrovskiy-yevhen-stakelogic/rdr1-quest) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/dubrovskiy-yevhen-stakelogic/rdr1-quest.md) |
 | [Enhed/clawd-usage-winwidget](https://github.com/Enhed/clawd-usage-winwidget) | PowerShell project | Runs in the browser with a free account | [guide](guides/enhed/clawd-usage-winwidget.md) |
 | [apple-aiml-research/ml-rsi-inference-bench](https://github.com/apple-aiml-research/ml-rsi-inference-bench) | Python project | Runs in the browser with a free account | [guide](guides/apple-aiml-research/ml-rsi-inference-bench.md) |
@@ -38,7 +39,6 @@ _919 guides written so far · last update 2026-10-17 18:23 UTC_
 | [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/awakenchan/bloodbornebutpc.md) |
 | [lvt1693/mashloop](https://github.com/lvt1693/mashloop) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lvt1693/mashloop.md) |
 | [lonely-dance-lab/cover-studio](https://github.com/lonely-dance-lab/cover-studio) | JavaScript project | Runs in the browser with a free account | [guide](guides/lonely-dance-lab/cover-studio.md) |
-| [OverkillLabs3/driveclub-recomp](https://github.com/OverkillLabs3/driveclub-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs3/driveclub-recomp.md) |
 <!-- latest:end -->
 
 ## How it works

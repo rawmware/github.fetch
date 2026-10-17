@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_903 guides written so far · last update 2026-10-17 12:28 UTC_
+_904 guides written so far · last update 2026-10-17 15:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BreezeSolicitorMap/undress.ai](https://github.com/BreezeSolicitorMap/undress.ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breezesolicitormap/undress.ai.md) |
 | [rohit267/net-merge](https://github.com/rohit267/net-merge) | Go project | Runs in the browser with a free account | [guide](guides/rohit267/net-merge.md) |
 | [juinwei7/Shiyin](https://github.com/juinwei7/Shiyin) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/juinwei7/shiyin.md) |
 | [Interactive-Active-AI/OneWM](https://github.com/Interactive-Active-AI/OneWM) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/onewm.md) |
@@ -38,7 +39,6 @@ _903 guides written so far · last update 2026-10-17 12:28 UTC_
 | [pkdec/uDPR](https://github.com/pkdec/uDPR) | ShaderLab project | Runs in the browser with a free account | [guide](guides/pkdec/udpr.md) |
 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python project | Runs in the browser with a free account | [guide](guides/aicodeking/leanrea.md) |
 | [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/anujasid/blender-ai-mcp-addon.md) |
-| [touri-ai/touri](https://github.com/touri-ai/touri) | Vite app | Runs in the browser with a free account | [guide](guides/touri-ai/touri.md) |
 <!-- latest:end -->
 
 ## How it works

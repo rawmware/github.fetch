@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_908 guides written so far · last update 2026-10-17 15:53 UTC_
+_909 guides written so far · last update 2026-10-17 15:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lonely-dance-lab/cover-studio](https://github.com/lonely-dance-lab/cover-studio) | JavaScript project | Runs in the browser with a free account | [guide](guides/lonely-dance-lab/cover-studio.md) |
 | [OverkillLabs3/driveclub-recomp](https://github.com/OverkillLabs3/driveclub-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs3/driveclub-recomp.md) |
 | [byJoey/cfnew-panel](https://github.com/byJoey/cfnew-panel) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/byjoey/cfnew-panel.md) |
 | [VantaCode420/SmartHdrManager](https://github.com/VantaCode420/SmartHdrManager) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/vantacode420/smarthdrmanager.md) |
@@ -38,7 +39,6 @@ _908 guides written so far · last update 2026-10-17 15:53 UTC_
 | [linuxkid473/gbos-x86](https://github.com/linuxkid473/gbos-x86) | Python project | Runs in the browser with a free account | [guide](guides/linuxkid473/gbos-x86.md) |
 | [MG1937/rust_ASC](https://github.com/MG1937/rust_ASC) | Rust project | Runs in the browser with a free account | [guide](guides/mg1937/rust_asc.md) |
 | [kividbio/kividb](https://github.com/kividbio/kividb) | Rust project | Runs in the browser with a free account | [guide](guides/kividbio/kividb.md) |
-| [yapfast/yapfast](https://github.com/yapfast/yapfast) | Rust project | Runs in the browser with a free account | [guide](guides/yapfast/yapfast.md) |
 <!-- latest:end -->
 
 ## How it works

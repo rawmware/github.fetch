@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_910 guides written so far · last update 2026-10-17 15:53 UTC_
+_911 guides written so far · last update 2026-10-17 15:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/awakenchan/bloodbornebutpc.md) |
 | [lvt1693/mashloop](https://github.com/lvt1693/mashloop) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lvt1693/mashloop.md) |
 | [lonely-dance-lab/cover-studio](https://github.com/lonely-dance-lab/cover-studio) | JavaScript project | Runs in the browser with a free account | [guide](guides/lonely-dance-lab/cover-studio.md) |
 | [OverkillLabs3/driveclub-recomp](https://github.com/OverkillLabs3/driveclub-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs3/driveclub-recomp.md) |
@@ -38,7 +39,6 @@ _910 guides written so far · last update 2026-10-17 15:53 UTC_
 | [juinwei7/Shiyin](https://github.com/juinwei7/Shiyin) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/juinwei7/shiyin.md) |
 | [Interactive-Active-AI/OneWM](https://github.com/Interactive-Active-AI/OneWM) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/onewm.md) |
 | [linuxkid473/gbos-x86](https://github.com/linuxkid473/gbos-x86) | Python project | Runs in the browser with a free account | [guide](guides/linuxkid473/gbos-x86.md) |
-| [MG1937/rust_ASC](https://github.com/MG1937/rust_ASC) | Rust project | Runs in the browser with a free account | [guide](guides/mg1937/rust_asc.md) |
 <!-- latest:end -->
 
 ## How it works

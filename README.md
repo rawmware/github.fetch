@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_898 guides written so far · last update 2026-10-17 12:28 UTC_
+_899 guides written so far · last update 2026-10-17 12:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MG1937/rust_ASC](https://github.com/MG1937/rust_ASC) | Rust project | Runs in the browser with a free account | [guide](guides/mg1937/rust_asc.md) |
 | [kividbio/kividb](https://github.com/kividbio/kividb) | Rust project | Runs in the browser with a free account | [guide](guides/kividbio/kividb.md) |
 | [yapfast/yapfast](https://github.com/yapfast/yapfast) | Rust project | Runs in the browser with a free account | [guide](guides/yapfast/yapfast.md) |
 | [ZigZagBoi1/PS5-14.10-Research](https://github.com/ZigZagBoi1/PS5-14.10-Research) | Lua project | Runs in the browser with a free account | [guide](guides/zigzagboi1/ps5-14.10-research.md) |
@@ -38,7 +39,6 @@ _898 guides written so far · last update 2026-10-17 12:28 UTC_
 | [midagedev/mwoyeo](https://github.com/midagedev/mwoyeo) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/midagedev/mwoyeo.md) |
 | [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) | HTML project | Runs in the browser with a free account | [guide](guides/tongyi-mai/opengcua.md) |
 | [rezadesky/RSDVault](https://github.com/rezadesky/RSDVault) | React app | Runs in the browser with a free account | [guide](guides/rezadesky/rsdvault.md) |
-| [GradeBureaucrat/Sims-4-Respocket-DLC-Tool](https://github.com/GradeBureaucrat/Sims-4-Respocket-DLC-Tool) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gradebureaucrat/sims-4-respocket-dlc-tool.md) |
 <!-- latest:end -->
 
 ## How it works

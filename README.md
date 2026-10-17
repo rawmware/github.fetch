@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_914 guides written so far · last update 2026-10-17 18:23 UTC_
+_915 guides written so far · last update 2026-10-17 18:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kernelpanic0x11/instagram-api-workbench](https://github.com/kernelpanic0x11/instagram-api-workbench) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/kernelpanic0x11/instagram-api-workbench.md) |
 | [mu-zi-lee/Tangentry](https://github.com/mu-zi-lee/Tangentry) | Docker app | Runs in the browser with a free account | [guide](guides/mu-zi-lee/tangentry.md) |
 | [MK27MK/uxed](https://github.com/MK27MK/uxed) | JavaScript project | Runs in the browser with a free account | [guide](guides/mk27mk/uxed.md) |
 | [SakanaAI/AI-Scientist-v3](https://github.com/SakanaAI/AI-Scientist-v3) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sakanaai/ai-scientist-v3.md) |
@@ -38,7 +39,6 @@ _914 guides written so far · last update 2026-10-17 18:23 UTC_
 | [VantaCode420/SmartHdrManager](https://github.com/VantaCode420/SmartHdrManager) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/vantacode420/smarthdrmanager.md) |
 | [Apolinario-coder/SkyRecomp](https://github.com/Apolinario-coder/SkyRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/apolinario-coder/skyrecomp.md) |
 | [BreezeSolicitorMap/undress.ai](https://github.com/BreezeSolicitorMap/undress.ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breezesolicitormap/undress.ai.md) |
-| [rohit267/net-merge](https://github.com/rohit267/net-merge) | Go project | Runs in the browser with a free account | [guide](guides/rohit267/net-merge.md) |
 <!-- latest:end -->
 
 ## How it works

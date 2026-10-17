@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T04:10:35.749Z",
- "totalGuides": 871,
+ "updatedAt": "2026-10-17T04:10:35.975Z",
+ "totalGuides": 872,
  "items": [
+  {
+   "fullName": "PercentHornetTalk75/Respocket-SoTF-Trainer",
+   "owner": "PercentHornetTalk75",
+   "name": "Respocket-SoTF-Trainer",
+   "url": "https://github.com/PercentHornetTalk75/Respocket-SoTF-Trainer",
+   "avatar": "https://avatars.githubusercontent.com/u/337903454?v=4",
+   "description": "Best Software For Sons of The Forest Yet",
+   "language": "Python",
+   "topics": [
+    "free-trainer-2026",
+    "get-sons-of-the-forest-trainer-free",
+    "sons-2026",
+    "sons-hack",
+    "sons-of-the-forest",
+    "sons-of-the-forest-cheat-table",
+    "sons-of-the-forest-fling",
+    "sons-of-the-forest-instant-build"
+   ],
+   "license": null,
+   "stars": 59,
+   "forks": 0,
+   "createdAt": "2026-10-16T15:03:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T04:10:35.974Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/PercentHornetTalk75/Respocket-SoTF-Trainer/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/PercentHornetTalk75/Respocket-SoTF-Trainer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/PercentHornetTalk75/Respocket-SoTF-Trainer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PercentHornetTalk75/Respocket-SoTF-Trainer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/PercentHornetTalk75/Respocket-SoTF-Trainer.git\ncd Respocket-SoTF-Trainer",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/PercentHornetTalk75/Respocket-SoTF-Trainer\nWhat it says it does: \"Best Software For Sons of The Forest Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T04:10:35.974Z"
+  },
   {
    "fullName": "MaxSikorski/jumpstart-3d",
    "owner": "MaxSikorski",
@@ -31578,61 +31649,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/LingCore/WinShun\nWhat it says it does: \"Windows 上的快速搜索启动器：双击 Ctrl 呼出，按文件名、拼音和文本内容搜索。Qt 6 + C++20。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T05:55:31.142Z"
-  },
-  {
-   "fullName": "Hinln/ARTEX",
-   "owner": "Hinln",
-   "name": "ARTEX",
-   "url": "https://github.com/Hinln/ARTEX",
-   "avatar": "https://avatars.githubusercontent.com/u/70831136?v=4",
-   "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
-   "language": "Go",
-   "topics": [],
-   "license": "AGPL-3.0",
-   "stars": 93,
-   "forks": 207,
-   "createdAt": "2026-10-08T11:00:36Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T05:55:30.952Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Hinln/ARTEX?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Hinln/ARTEX",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Hinln/ARTEX/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Hinln/ARTEX.git\ncd ARTEX\ngo build ./...",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/Hinln/ARTEX\nWhat it says it does: \"ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T05:55:30.952Z"
   }
  ],
  "levels": {

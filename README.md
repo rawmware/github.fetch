@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_871 guides written so far · last update 2026-10-17 04:10 UTC_
+_872 guides written so far · last update 2026-10-17 04:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PercentHornetTalk75/Respocket-SoTF-Trainer](https://github.com/PercentHornetTalk75/Respocket-SoTF-Trainer) | Python project | Runs in the browser with a free account | [guide](guides/percenthornettalk75/respocket-sotf-trainer.md) |
 | [MaxSikorski/jumpstart-3d](https://github.com/MaxSikorski/jumpstart-3d) | HTML project | Runs in the browser with a free account | [guide](guides/maxsikorski/jumpstart-3d.md) |
 | [c22dev/mush8](https://github.com/c22dev/mush8) | Rust project | Runs in the browser with a free account | [guide](guides/c22dev/mush8.md) |
 | [gichirimaku/wp2shell-PoC](https://github.com/gichirimaku/wp2shell-PoC) | Python project | Runs in the browser with a free account | [guide](guides/gichirimaku/wp2shell-poc.md) |
@@ -38,7 +39,6 @@ _871 guides written so far · last update 2026-10-17 04:10 UTC_
 | [pathadvisorrafter/PokeMMO-Atlas-AIO-Soft](https://github.com/pathadvisorrafter/PokeMMO-Atlas-AIO-Soft) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pathadvisorrafter/pokemmo-atlas-aio-soft.md) |
 | [TeamBoatswain/Respocket-FH-Trainer-Mod-Menu](https://github.com/TeamBoatswain/Respocket-FH-Trainer-Mod-Menu) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/teamboatswain/respocket-fh-trainer-mod-menu.md) |
 | [kergee/mcd-undercover](https://github.com/kergee/mcd-undercover) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/kergee/mcd-undercover.md) |
-| [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | Python project | Runs in the browser with a free account | [guide](guides/christos-antono/npctalk.md) |
 <!-- latest:end -->
 
 ## How it works

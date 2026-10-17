@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_916 guides written so far · last update 2026-10-17 18:23 UTC_
+_917 guides written so far · last update 2026-10-17 18:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [apple-aiml-research/ml-rsi-inference-bench](https://github.com/apple-aiml-research/ml-rsi-inference-bench) | Python project | Runs in the browser with a free account | [guide](guides/apple-aiml-research/ml-rsi-inference-bench.md) |
 | [kerrdec97/PS5-Backport-GUI](https://github.com/kerrdec97/PS5-Backport-GUI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kerrdec97/ps5-backport-gui.md) |
 | [kernelpanic0x11/instagram-api-workbench](https://github.com/kernelpanic0x11/instagram-api-workbench) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/kernelpanic0x11/instagram-api-workbench.md) |
 | [mu-zi-lee/Tangentry](https://github.com/mu-zi-lee/Tangentry) | Docker app | Runs in the browser with a free account | [guide](guides/mu-zi-lee/tangentry.md) |
@@ -38,7 +39,6 @@ _916 guides written so far · last update 2026-10-17 18:23 UTC_
 | [OverkillLabs3/driveclub-recomp](https://github.com/OverkillLabs3/driveclub-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs3/driveclub-recomp.md) |
 | [byJoey/cfnew-panel](https://github.com/byJoey/cfnew-panel) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/byjoey/cfnew-panel.md) |
 | [VantaCode420/SmartHdrManager](https://github.com/VantaCode420/SmartHdrManager) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/vantacode420/smarthdrmanager.md) |
-| [Apolinario-coder/SkyRecomp](https://github.com/Apolinario-coder/SkyRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/apolinario-coder/skyrecomp.md) |
 <!-- latest:end -->
 
 ## How it works

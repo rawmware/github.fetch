@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T18:23:42.940Z",
- "totalGuides": 916,
+ "updatedAt": "2026-10-17T18:23:43.214Z",
+ "totalGuides": 917,
  "items": [
+  {
+   "fullName": "apple-aiml-research/ml-rsi-inference-bench",
+   "owner": "apple-aiml-research",
+   "name": "ml-rsi-inference-bench",
+   "url": "https://github.com/apple-aiml-research/ml-rsi-inference-bench",
+   "avatar": "https://avatars.githubusercontent.com/u/321491504?v=4",
+   "description": "A Long-Horizon Benchmark for Self-Improving Inference Systems",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 54,
+   "forks": 3,
+   "createdAt": "2026-10-16T15:27:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T18:23:43.213Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/apple-aiml-research/ml-rsi-inference-bench/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/apple-aiml-research/ml-rsi-inference-bench?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/apple-aiml-research/ml-rsi-inference-bench",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/apple-aiml-research/ml-rsi-inference-bench/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/apple-aiml-research/ml-rsi-inference-bench.git\ncd ml-rsi-inference-bench\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/apple-aiml-research/ml-rsi-inference-bench\nWhat it says it does: \"A Long-Horizon Benchmark for Self-Improving Inference Systems\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T18:23:43.213Z"
+  },
   {
    "fullName": "kerrdec97/PS5-Backport-GUI",
    "owner": "kerrdec97",
@@ -31478,69 +31540,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/passrhymegazebo/AnyUnlock\nWhat it says it does: \"Anyunlock optimizes your workflow by providing a comprehensive desktop utility configuration that streamlines processes and boosts efficiency without...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T18:51:46.460Z"
-  },
-  {
-   "fullName": "TremorBisonSurvive/Discord-Nitro-Generator",
-   "owner": "TremorBisonSurvive",
-   "name": "Discord-Nitro-Generator",
-   "url": "https://github.com/TremorBisonSurvive/Discord-Nitro-Generator",
-   "avatar": "https://avatars.githubusercontent.com/u/292113010?v=4",
-   "description": "Discord Nitro Generator optimizes your server's performance by providing a comprehensive suite of features and enhanced capabilities without any coding...",
-   "language": null,
-   "topics": [
-    "best-nitro-generator",
-    "discord-checker",
-    "discord-joiner-tokens",
-    "discord-nitro-generator-2026",
-    "discord-nitro-pc",
-    "discord-promotion-generator",
-    "discordnitrogenerator",
-    "free-nitro"
-   ],
-   "license": null,
-   "stars": 280,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:50:16Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T18:51:46.311Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/TremorBisonSurvive/Discord-Nitro-Generator",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/TremorBisonSurvive/Discord-Nitro-Generator/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/TremorBisonSurvive/Discord-Nitro-Generator\nWhat it says it does: \"Discord Nitro Generator optimizes your server's performance by providing a comprehensive suite of features and enhanced capabilities without any coding...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T18:51:46.311Z"
   }
  ],
  "levels": {
-  "read": 134,
+  "account": 230,
+  "read": 133,
   "heavy": 103,
-  "account": 229,
   "instant": 34
  }
 }

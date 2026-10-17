@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_928 guides written so far · last update 2026-10-17 23:00 UTC_
+_929 guides written so far · last update 2026-10-17 23:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ClimberDefend/Avid-Media-Composer](https://github.com/ClimberDefend/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/climberdefend/avid-media-composer.md) |
 | [ClutchApprentice/Burning-Studio](https://github.com/ClutchApprentice/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clutchapprentice/burning-studio.md) |
 | [cloudpatrontrolley/BorisFX](https://github.com/cloudpatrontrolley/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cloudpatrontrolley/borisfx.md) |
 | [blockadeformertrip/AIDA-64-Extreme](https://github.com/blockadeformertrip/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blockadeformertrip/aida-64-extreme.md) |
@@ -38,7 +39,6 @@ _928 guides written so far · last update 2026-10-17 23:00 UTC_
 | [wusuoweiju48/google-anti-cn-doctor](https://github.com/wusuoweiju48/google-anti-cn-doctor) | Python project | Runs in the browser with a free account | [guide](guides/wusuoweiju48/google-anti-cn-doctor.md) |
 | [dubrovskiy-yevhen-stakelogic/rdr1-quest](https://github.com/dubrovskiy-yevhen-stakelogic/rdr1-quest) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/dubrovskiy-yevhen-stakelogic/rdr1-quest.md) |
 | [Enhed/clawd-usage-winwidget](https://github.com/Enhed/clawd-usage-winwidget) | PowerShell project | Runs in the browser with a free account | [guide](guides/enhed/clawd-usage-winwidget.md) |
-| [apple-aiml-research/ml-rsi-inference-bench](https://github.com/apple-aiml-research/ml-rsi-inference-bench) | Python project | Runs in the browser with a free account | [guide](guides/apple-aiml-research/ml-rsi-inference-bench.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T04:10:37.412Z",
- "totalGuides": 881,
+ "updatedAt": "2026-10-17T08:37:53.136Z",
+ "totalGuides": 882,
  "items": [
+  {
+   "fullName": "VITASID57/bluntcore-intimacy-lab",
+   "owner": "VITASID57",
+   "name": "bluntcore-intimacy-lab",
+   "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+   "avatar": "https://avatars.githubusercontent.com/u/217260810?v=4",
+   "description": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 122,
+   "forks": 26,
+   "createdAt": "2026-10-16T15:46:10Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T08:37:53.121Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/VITASID57/bluntcore-intimacy-lab/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/VITASID57/bluntcore-intimacy-lab\nWhat it says it does: \"🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T08:37:53.121Z"
+  },
   {
    "fullName": "cinderphysicianadapt/Respocket-Blooket-AIO-Soft",
    "owner": "cinderphysicianadapt",
@@ -31560,97 +31608,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/echoillusionistcurl/zapret-discord\nWhat it says it does: \"Обновлённая версия под Discord в текущих условиях. Надежнее, быстрее, стабильнее\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T05:55:33.078Z"
-  },
-  {
-   "fullName": "SteersmanRelease/lsc",
-   "owner": "SteersmanRelease",
-   "name": "lsc",
-   "url": "https://github.com/SteersmanRelease/lsc",
-   "avatar": "https://avatars.githubusercontent.com/u/331662508?v=4",
-   "description": "🔥 Lol-Skin-Changer-2026",
-   "language": "HTML",
-   "topics": [
-    "free-skins-lol",
-    "league-of-legends-skin-mod",
-    "league-skin-mod-2026",
-    "lol-all-skins",
-    "lol-custom-skins",
-    "lol-prestige-skins",
-    "lol-rare-skins",
-    "lol-skin-changer-2026"
-   ],
-   "license": null,
-   "stars": 51,
-   "forks": 15,
-   "createdAt": "2026-10-08T21:20:05Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T05:55:32.870Z",
-   "stack": {
-    "kind": "static",
-    "label": "Static website (HTML/CSS/JS)",
-    "frameworks": []
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "live",
-   "launch": [
-    {
-     "id": "live",
-     "label": "Open it live",
-     "url": "https://raw.githack.com/SteersmanRelease/lsc/main/index.html",
-     "needs": "nothing",
-     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
-    },
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/SteersmanRelease/lsc",
-     "needs": "nothing",
-     "note": "A full editor and preview in your tab."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/SteersmanRelease/lsc",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/SteersmanRelease/lsc?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/SteersmanRelease/lsc",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SteersmanRelease/lsc/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "npx serve .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/SteersmanRelease/lsc.git\ncd lsc\nnpx serve .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/SteersmanRelease/lsc\nWhat it says it does: \"🔥 Lol-Skin-Changer-2026\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T05:55:32.870Z"
   }
  ],
  "levels": {
+  "read": 140,
   "account": 224,
   "heavy": 97,
-  "read": 139,
-  "instant": 40
+  "instant": 39
  }
 }

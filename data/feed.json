@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T12:28:09.802Z",
- "totalGuides": 895,
+ "updatedAt": "2026-10-17T12:28:09.928Z",
+ "totalGuides": 896,
  "items": [
+  {
+   "fullName": "ZigZagBoi1/PS5-14.10-Research",
+   "owner": "ZigZagBoi1",
+   "name": "PS5-14.10-Research",
+   "url": "https://github.com/ZigZagBoi1/PS5-14.10-Research",
+   "avatar": "https://avatars.githubusercontent.com/u/66926735?v=4",
+   "description": "PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscalls, memory, networking, and exploit paths from userland",
+   "language": "Lua",
+   "topics": [],
+   "license": null,
+   "stars": 60,
+   "forks": 4,
+   "createdAt": "2026-10-16T00:46:59Z",
+   "branch": "master",
+   "homepage": null,
+   "addedAt": "2026-10-17T12:28:09.928Z",
+   "stack": {
+    "kind": "other",
+    "label": "Lua project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ZigZagBoi1/PS5-14.10-Research?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ZigZagBoi1/PS5-14.10-Research",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ZigZagBoi1/PS5-14.10-Research/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ZigZagBoi1/PS5-14.10-Research.git\ncd PS5-14.10-Research",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ZigZagBoi1/PS5-14.10-Research\nWhat it says it does: \"PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscalls, memory, networking, and exploit paths from userland\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T12:28:09.928Z"
+  },
   {
    "fullName": "pkdec/uDPR",
    "owner": "pkdec",
@@ -31492,61 +31547,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/mar1mo-41414/SonyNasne-debian\nWhat it says it does: \"Sony nasne (CECH-ZNR2J) の解析と Debian (mipsel) 直起動のためのツール・ドキュメント\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T13:05:34.502Z"
-  },
-  {
-   "fullName": "sharenjun/ARTEX-main",
-   "owner": "sharenjun",
-   "name": "ARTEX-main",
-   "url": "https://github.com/sharenjun/ARTEX-main",
-   "avatar": "https://avatars.githubusercontent.com/u/33387178?v=4",
-   "description": "可以提交issue和优化思路，会维护",
-   "language": "Go",
-   "topics": [],
-   "license": "AGPL-3.0",
-   "stars": 77,
-   "forks": 43,
-   "createdAt": "2026-10-08T12:34:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T13:05:34.249Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/sharenjun/ARTEX-main?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/sharenjun/ARTEX-main",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/sharenjun/ARTEX-main/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/sharenjun/ARTEX-main.git\ncd ARTEX-main\ngo build ./...",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/sharenjun/ARTEX-main\nWhat it says it does: \"可以提交issue和优化思路，会维护\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T13:05:34.249Z"
   }
  ],
  "levels": {

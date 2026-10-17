@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_895 guides written so far · last update 2026-10-17 12:28 UTC_
+_896 guides written so far · last update 2026-10-17 12:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ZigZagBoi1/PS5-14.10-Research](https://github.com/ZigZagBoi1/PS5-14.10-Research) | Lua project | Runs in the browser with a free account | [guide](guides/zigzagboi1/ps5-14.10-research.md) |
 | [pkdec/uDPR](https://github.com/pkdec/uDPR) | ShaderLab project | Runs in the browser with a free account | [guide](guides/pkdec/udpr.md) |
 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python project | Runs in the browser with a free account | [guide](guides/aicodeking/leanrea.md) |
 | [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/anujasid/blender-ai-mcp-addon.md) |
@@ -38,7 +39,6 @@ _895 guides written so far · last update 2026-10-17 12:28 UTC_
 | [GradeBureaucrat/Sims-4-Respocket-DLC-Tool](https://github.com/GradeBureaucrat/Sims-4-Respocket-DLC-Tool) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gradebureaucrat/sims-4-respocket-dlc-tool.md) |
 | [Infernopeak/FiveM-Respocket-AIO-Soft](https://github.com/Infernopeak/FiveM-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/infernopeak/fivem-respocket-aio-soft.md) |
 | [TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft](https://github.com/TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft) | HTML project | Runs in the browser with a free account | [guide](guides/termitedeliver/marvel-rivals-respocket-aio-soft.md) |
-| [azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge) | Go project | Runs in the browser with a free account | [guide](guides/azrinaldi/gemini-stealth-bridge.md) |
 <!-- latest:end -->
 
 ## How it works

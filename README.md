@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_911 guides written so far · last update 2026-10-17 15:53 UTC_
+_912 guides written so far · last update 2026-10-17 15:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SakanaAI/AI-Scientist-v3](https://github.com/SakanaAI/AI-Scientist-v3) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sakanaai/ai-scientist-v3.md) |
 | [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/awakenchan/bloodbornebutpc.md) |
 | [lvt1693/mashloop](https://github.com/lvt1693/mashloop) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lvt1693/mashloop.md) |
 | [lonely-dance-lab/cover-studio](https://github.com/lonely-dance-lab/cover-studio) | JavaScript project | Runs in the browser with a free account | [guide](guides/lonely-dance-lab/cover-studio.md) |
@@ -38,7 +39,6 @@ _911 guides written so far · last update 2026-10-17 15:53 UTC_
 | [rohit267/net-merge](https://github.com/rohit267/net-merge) | Go project | Runs in the browser with a free account | [guide](guides/rohit267/net-merge.md) |
 | [juinwei7/Shiyin](https://github.com/juinwei7/Shiyin) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/juinwei7/shiyin.md) |
 | [Interactive-Active-AI/OneWM](https://github.com/Interactive-Active-AI/OneWM) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/onewm.md) |
-| [linuxkid473/gbos-x86](https://github.com/linuxkid473/gbos-x86) | Python project | Runs in the browser with a free account | [guide](guides/linuxkid473/gbos-x86.md) |
 <!-- latest:end -->
 
 ## How it works

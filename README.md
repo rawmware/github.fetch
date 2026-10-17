@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_899 guides written so far · last update 2026-10-17 12:28 UTC_
+_900 guides written so far · last update 2026-10-17 12:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [linuxkid473/gbos-x86](https://github.com/linuxkid473/gbos-x86) | Python project | Runs in the browser with a free account | [guide](guides/linuxkid473/gbos-x86.md) |
 | [MG1937/rust_ASC](https://github.com/MG1937/rust_ASC) | Rust project | Runs in the browser with a free account | [guide](guides/mg1937/rust_asc.md) |
 | [kividbio/kividb](https://github.com/kividbio/kividb) | Rust project | Runs in the browser with a free account | [guide](guides/kividbio/kividb.md) |
 | [yapfast/yapfast](https://github.com/yapfast/yapfast) | Rust project | Runs in the browser with a free account | [guide](guides/yapfast/yapfast.md) |
@@ -38,7 +39,6 @@ _899 guides written so far · last update 2026-10-17 12:28 UTC_
 | [loyraydi/meow_hud](https://github.com/loyraydi/meow_hud) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/loyraydi/meow_hud.md) |
 | [midagedev/mwoyeo](https://github.com/midagedev/mwoyeo) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/midagedev/mwoyeo.md) |
 | [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) | HTML project | Runs in the browser with a free account | [guide](guides/tongyi-mai/opengcua.md) |
-| [rezadesky/RSDVault](https://github.com/rezadesky/RSDVault) | React app | Runs in the browser with a free account | [guide](guides/rezadesky/rsdvault.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_874 guides written so far · last update 2026-10-17 04:10 UTC_
+_875 guides written so far · last update 2026-10-17 04:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [monsterelephantexist/Palworld-Respocket-AIO-Soft](https://github.com/monsterelephantexist/Palworld-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/monsterelephantexist/palworld-respocket-aio-soft.md) |
 | [classserfchisel/DayZ-Respocket-AIO-Soft](https://github.com/classserfchisel/DayZ-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/classserfchisel/dayz-respocket-aio-soft.md) |
 | [SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge](https://github.com/SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smokemotorman/respocket-rebirth-pub-save-forge.md) |
 | [PercentHornetTalk75/Respocket-SoTF-Trainer](https://github.com/PercentHornetTalk75/Respocket-SoTF-Trainer) | Python project | Runs in the browser with a free account | [guide](guides/percenthornettalk75/respocket-sotf-trainer.md) |
@@ -38,7 +39,6 @@ _874 guides written so far · last update 2026-10-17 04:10 UTC_
 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Rust project | Runs in the browser with a free account | [guide](guides/reason-machines/reason-network.md) |
 | [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | Python project | Runs in the browser with a free account | [guide](guides/zcbacxc/mcd-party-planner.md) |
 | [escudero/brandpose](https://github.com/escudero/brandpose) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/escudero/brandpose.md) |
-| [pathadvisorrafter/PokeMMO-Atlas-AIO-Soft](https://github.com/pathadvisorrafter/PokeMMO-Atlas-AIO-Soft) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pathadvisorrafter/pokemmo-atlas-aio-soft.md) |
 <!-- latest:end -->
 
 ## How it works

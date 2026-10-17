@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_924 guides written so far · last update 2026-10-17 20:52 UTC_
+_925 guides written so far · last update 2026-10-17 20:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [deepfounder-ai/desigma](https://github.com/deepfounder-ai/desigma) | Rust project | Runs in the browser with a free account | [guide](guides/deepfounder-ai/desigma.md) |
 | [leag1234/elixiroffice](https://github.com/leag1234/elixiroffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/leag1234/elixiroffice.md) |
 | [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) | Python project | Runs in the browser with a free account | [guide](guides/lucannez64/darling-lol.md) |
 | [evanbaker315/AttentionOS](https://github.com/evanbaker315/AttentionOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/evanbaker315/attentionos.md) |
@@ -38,7 +39,6 @@ _924 guides written so far · last update 2026-10-17 20:52 UTC_
 | [kerrdec97/PS5-Backport-GUI](https://github.com/kerrdec97/PS5-Backport-GUI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kerrdec97/ps5-backport-gui.md) |
 | [kernelpanic0x11/instagram-api-workbench](https://github.com/kernelpanic0x11/instagram-api-workbench) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/kernelpanic0x11/instagram-api-workbench.md) |
 | [mu-zi-lee/Tangentry](https://github.com/mu-zi-lee/Tangentry) | Docker app | Runs in the browser with a free account | [guide](guides/mu-zi-lee/tangentry.md) |
-| [MK27MK/uxed](https://github.com/MK27MK/uxed) | JavaScript project | Runs in the browser with a free account | [guide](guides/mk27mk/uxed.md) |
 <!-- latest:end -->
 
 ## How it works

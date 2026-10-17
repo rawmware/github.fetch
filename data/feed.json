@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T04:10:36.952Z",
- "totalGuides": 878,
+ "updatedAt": "2026-10-17T04:10:37.102Z",
+ "totalGuides": 879,
  "items": [
+  {
+   "fullName": "Outsidedelremedy/DBD-Respocket-AIO-Soft",
+   "owner": "Outsidedelremedy",
+   "name": "DBD-Respocket-AIO-Soft",
+   "url": "https://github.com/Outsidedelremedy/DBD-Respocket-AIO-Soft",
+   "avatar": "https://avatars.githubusercontent.com/u/337902282?v=4",
+   "description": "Best Software For DBD Yet",
+   "language": null,
+   "topics": [
+    "daylight",
+    "dbd-auto-skill-check",
+    "dbd-bypass",
+    "dbd-external",
+    "dbd-hit-select",
+    "dbd-injector",
+    "dbd-item-esp",
+    "dbd-overlay"
+   ],
+   "license": null,
+   "stars": 59,
+   "forks": 0,
+   "createdAt": "2026-10-16T15:02:02Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T04:10:37.101Z",
+   "stack": {
+    "kind": "other",
+    "label": "Code project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Outsidedelremedy/DBD-Respocket-AIO-Soft?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Outsidedelremedy/DBD-Respocket-AIO-Soft",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Outsidedelremedy/DBD-Respocket-AIO-Soft/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Outsidedelremedy/DBD-Respocket-AIO-Soft.git\ncd DBD-Respocket-AIO-Soft",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Outsidedelremedy/DBD-Respocket-AIO-Soft\nWhat it says it does: \"Best Software For DBD Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T04:10:37.101Z"
+  },
   {
    "fullName": "LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft",
    "owner": "LakeOrioleMagnify",
@@ -31590,68 +31654,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/opennookorg/betterwispr\nWhat it says it does: \"Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T05:55:32.488Z"
-  },
-  {
-   "fullName": "X-F1REBALL-X/HearBridge-PS5",
-   "owner": "X-F1REBALL-X",
-   "name": "HearBridge-PS5",
-   "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5",
-   "avatar": "https://avatars.githubusercontent.com/u/55192632?v=4",
-   "description": "Bluetooth A2DP audio bridge for PS5 homebrew",
-   "language": "C",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 57,
-   "forks": 4,
-   "createdAt": "2026-10-07T10:55:04Z",
-   "branch": "main",
-   "homepage": "https://x-f1reball-x.github.io/HearBridge-PS5/",
-   "addedAt": "2026-10-09T05:55:32.324Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/X-F1REBALL-X/HearBridge-PS5?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/X-F1REBALL-X/HearBridge-PS5",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/X-F1REBALL-X/HearBridge-PS5.git\ncd HearBridge-PS5",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/X-F1REBALL-X/HearBridge-PS5\nWhat it says it does: \"Bluetooth A2DP audio bridge for PS5 homebrew\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T05:55:32.324Z"
   }
  ],
  "levels": {
-  "account": 222,
-  "heavy": 99,
+  "account": 223,
+  "heavy": 98,
   "read": 139,
   "instant": 40
  }

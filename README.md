@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_918 guides written so far · last update 2026-10-17 18:23 UTC_
+_919 guides written so far · last update 2026-10-17 18:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dubrovskiy-yevhen-stakelogic/rdr1-quest](https://github.com/dubrovskiy-yevhen-stakelogic/rdr1-quest) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/dubrovskiy-yevhen-stakelogic/rdr1-quest.md) |
 | [Enhed/clawd-usage-winwidget](https://github.com/Enhed/clawd-usage-winwidget) | PowerShell project | Runs in the browser with a free account | [guide](guides/enhed/clawd-usage-winwidget.md) |
 | [apple-aiml-research/ml-rsi-inference-bench](https://github.com/apple-aiml-research/ml-rsi-inference-bench) | Python project | Runs in the browser with a free account | [guide](guides/apple-aiml-research/ml-rsi-inference-bench.md) |
 | [kerrdec97/PS5-Backport-GUI](https://github.com/kerrdec97/PS5-Backport-GUI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kerrdec97/ps5-backport-gui.md) |
@@ -38,7 +39,6 @@ _918 guides written so far · last update 2026-10-17 18:23 UTC_
 | [lvt1693/mashloop](https://github.com/lvt1693/mashloop) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lvt1693/mashloop.md) |
 | [lonely-dance-lab/cover-studio](https://github.com/lonely-dance-lab/cover-studio) | JavaScript project | Runs in the browser with a free account | [guide](guides/lonely-dance-lab/cover-studio.md) |
 | [OverkillLabs3/driveclub-recomp](https://github.com/OverkillLabs3/driveclub-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/overkilllabs3/driveclub-recomp.md) |
-| [byJoey/cfnew-panel](https://github.com/byJoey/cfnew-panel) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/byjoey/cfnew-panel.md) |
 <!-- latest:end -->
 
 ## How it works

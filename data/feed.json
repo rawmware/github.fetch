@@ -1,8 +1,68 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T15:53:01.986Z",
- "totalGuides": 912,
+ "updatedAt": "2026-10-17T18:23:42.395Z",
+ "totalGuides": 913,
  "items": [
+  {
+   "fullName": "MK27MK/uxed",
+   "owner": "MK27MK",
+   "name": "uxed",
+   "url": "https://github.com/MK27MK/uxed",
+   "avatar": "https://avatars.githubusercontent.com/u/156700887?v=4",
+   "description": "Agent skills that get you into flow state.",
+   "language": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-design",
+    "claude-code",
+    "vibe-coding"
+   ],
+   "license": null,
+   "stars": 56,
+   "forks": 2,
+   "createdAt": "2026-10-15T15:55:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T18:23:42.387Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/MK27MK/uxed?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/MK27MK/uxed",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/MK27MK/uxed/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/MK27MK/uxed.git\ncd uxed",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/MK27MK/uxed\nWhat it says it does: \"Agent skills that get you into flow state.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T18:23:42.387Z"
+  },
   {
    "fullName": "SakanaAI/AI-Scientist-v3",
    "owner": "SakanaAI",
@@ -31477,69 +31537,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Haircloboutique/Cubase\nWhat it says it does: \"Revolutionize your music production with this robust digital audio workstation and sound design suite - tailored to streamline workflows and deliver...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T18:51:45.806Z"
-  },
-  {
-   "fullName": "Blendtrabulwark/Discord-Server-Cloner",
-   "owner": "Blendtrabulwark",
-   "name": "Discord-Server-Cloner",
-   "url": "https://github.com/Blendtrabulwark/Discord-Server-Cloner",
-   "avatar": "https://avatars.githubusercontent.com/u/292113241?v=4",
-   "description": "Discord Server Cloner is a professional desktop utility that optimizes server management by replicating existing configurations in real-time.",
-   "language": null,
-   "topics": [
-    "discord-channel-cloner",
-    "discord-clone",
-    "discord-cloner",
-    "discord-cloner-bot",
-    "discord-dm-cloner",
-    "discord-exporter",
-    "discord-message-sender",
-    "discord-self-bot"
-   ],
-   "license": null,
-   "stars": 282,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:50:18Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T18:51:45.671Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Blendtrabulwark/Discord-Server-Cloner",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Blendtrabulwark/Discord-Server-Cloner/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Blendtrabulwark/Discord-Server-Cloner\nWhat it says it does: \"Discord Server Cloner is a professional desktop utility that optimizes server management by replicating existing configurations in real-time.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T18:51:45.671Z"
   }
  ],
  "levels": {
-  "account": 227,
+  "account": 228,
   "heavy": 102,
   "instant": 34,
-  "read": 137
+  "read": 136
  }
 }

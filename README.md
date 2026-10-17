@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_912 guides written so far · last update 2026-10-17 15:53 UTC_
+_913 guides written so far · last update 2026-10-17 18:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MK27MK/uxed](https://github.com/MK27MK/uxed) | JavaScript project | Runs in the browser with a free account | [guide](guides/mk27mk/uxed.md) |
 | [SakanaAI/AI-Scientist-v3](https://github.com/SakanaAI/AI-Scientist-v3) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sakanaai/ai-scientist-v3.md) |
 | [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/awakenchan/bloodbornebutpc.md) |
 | [lvt1693/mashloop](https://github.com/lvt1693/mashloop) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lvt1693/mashloop.md) |
@@ -38,7 +39,6 @@ _912 guides written so far · last update 2026-10-17 15:53 UTC_
 | [BreezeSolicitorMap/undress.ai](https://github.com/BreezeSolicitorMap/undress.ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breezesolicitormap/undress.ai.md) |
 | [rohit267/net-merge](https://github.com/rohit267/net-merge) | Go project | Runs in the browser with a free account | [guide](guides/rohit267/net-merge.md) |
 | [juinwei7/Shiyin](https://github.com/juinwei7/Shiyin) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/juinwei7/shiyin.md) |
-| [Interactive-Active-AI/OneWM](https://github.com/Interactive-Active-AI/OneWM) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/onewm.md) |
 <!-- latest:end -->
 
 ## How it works

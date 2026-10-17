@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_892 guides written so far · last update 2026-10-17 08:37 UTC_
+_893 guides written so far · last update 2026-10-17 12:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/anujasid/blender-ai-mcp-addon.md) |
 | [touri-ai/touri](https://github.com/touri-ai/touri) | Vite app | Runs in the browser with a free account | [guide](guides/touri-ai/touri.md) |
 | [loyraydi/meow_hud](https://github.com/loyraydi/meow_hud) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/loyraydi/meow_hud.md) |
 | [midagedev/mwoyeo](https://github.com/midagedev/mwoyeo) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/midagedev/mwoyeo.md) |
@@ -38,7 +39,6 @@ _892 guides written so far · last update 2026-10-17 08:37 UTC_
 | [azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge) | Go project | Runs in the browser with a free account | [guide](guides/azrinaldi/gemini-stealth-bridge.md) |
 | [Thang1191/Miku-Dating-Sim-GRUB-Theme](https://github.com/Thang1191/Miku-Dating-Sim-GRUB-Theme) | Shell project | Runs in the browser with a free account | [guide](guides/thang1191/miku-dating-sim-grub-theme.md) |
 | [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vitasid57/bluntcore-intimacy-lab.md) |
-| [cinderphysicianadapt/Respocket-Blooket-AIO-Soft](https://github.com/cinderphysicianadapt/Respocket-Blooket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cinderphysicianadapt/respocket-blooket-aio-soft.md) |
 <!-- latest:end -->
 
 ## How it works

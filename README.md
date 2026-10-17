@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_923 guides written so far · last update 2026-10-17 20:52 UTC_
+_924 guides written so far · last update 2026-10-17 20:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [leag1234/elixiroffice](https://github.com/leag1234/elixiroffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/leag1234/elixiroffice.md) |
 | [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) | Python project | Runs in the browser with a free account | [guide](guides/lucannez64/darling-lol.md) |
 | [evanbaker315/AttentionOS](https://github.com/evanbaker315/AttentionOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/evanbaker315/attentionos.md) |
 | [justxor/deepseek-local-guide-ru](https://github.com/justxor/deepseek-local-guide-ru) | Shell project | Runs in the browser with a free account | [guide](guides/justxor/deepseek-local-guide-ru.md) |
@@ -38,7 +39,6 @@ _923 guides written so far · last update 2026-10-17 20:52 UTC_
 | [kernelpanic0x11/instagram-api-workbench](https://github.com/kernelpanic0x11/instagram-api-workbench) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/kernelpanic0x11/instagram-api-workbench.md) |
 | [mu-zi-lee/Tangentry](https://github.com/mu-zi-lee/Tangentry) | Docker app | Runs in the browser with a free account | [guide](guides/mu-zi-lee/tangentry.md) |
 | [MK27MK/uxed](https://github.com/MK27MK/uxed) | JavaScript project | Runs in the browser with a free account | [guide](guides/mk27mk/uxed.md) |
-| [SakanaAI/AI-Scientist-v3](https://github.com/SakanaAI/AI-Scientist-v3) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sakanaai/ai-scientist-v3.md) |
 <!-- latest:end -->
 
 ## How it works

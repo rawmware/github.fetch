@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T20:52:49.416Z",
- "totalGuides": 923,
+ "updatedAt": "2026-10-17T20:52:49.563Z",
+ "totalGuides": 924,
  "items": [
+  {
+   "fullName": "leag1234/elixiroffice",
+   "owner": "leag1234",
+   "name": "elixiroffice",
+   "url": "https://github.com/leag1234/elixiroffice",
+   "avatar": "https://avatars.githubusercontent.com/u/57147261?v=4",
+   "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance",
+   "language": "JavaScript",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 317,
+   "forks": 9,
+   "createdAt": "2026-10-11T18:56:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T20:52:49.562Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/leag1234/elixiroffice?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/leag1234/elixiroffice",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/leag1234/elixiroffice/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/leag1234/elixiroffice.git\ncd elixiroffice",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/leag1234/elixiroffice\nWhat it says it does: \"Open Source Office suite for users used to MS Office - multi-platform, tuned for performance\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T20:52:49.562Z"
+  },
   {
    "fullName": "lucannez64/darling-lol",
    "owner": "lucannez64",
@@ -31525,69 +31580,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/KindStatesman/KMS-Pico\nWhat it says it does: \"Kms Pico Free optimizes your professional desktop environment by providing a tailored utility configuration that enhances workflow efficiency.' This...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T23:09:30.226Z"
-  },
-  {
-   "fullName": "Clawfitzfilter/Display-Fusion",
-   "owner": "Clawfitzfilter",
-   "name": "Display-Fusion",
-   "url": "https://github.com/Clawfitzfilter/Display-Fusion",
-   "avatar": "https://avatars.githubusercontent.com/u/292111231?v=4",
-   "description": "Display Fusion optimizes desktop software utility configurations by providing a robust and efficient management system that enhances productivity without...",
-   "language": null,
-   "topics": [
-    "desktop-tools",
-    "display-management",
-    "displayfusion",
-    "displayfusion-2026",
-    "displayfusion-multi-monitor-install-windows-2026",
-    "displayfusion-pro",
-    "displayfusion-setup",
-    "dual-monitor"
-   ],
-   "license": null,
-   "stars": 274,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:50:20Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T18:51:47.553Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Clawfitzfilter/Display-Fusion",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Clawfitzfilter/Display-Fusion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Clawfitzfilter/Display-Fusion\nWhat it says it does: \"Display Fusion optimizes desktop software utility configurations by providing a robust and efficient management system that enhances productivity without...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T18:51:47.553Z"
   }
  ],
  "levels": {
-  "account": 235,
+  "account": 236,
   "heavy": 104,
-  "read": 127,
+  "read": 126,
   "instant": 34
  }
 }

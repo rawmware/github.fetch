@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T18:23:42.395Z",
- "totalGuides": 913,
+ "updatedAt": "2026-10-17T18:23:42.569Z",
+ "totalGuides": 914,
  "items": [
+  {
+   "fullName": "mu-zi-lee/Tangentry",
+   "owner": "mu-zi-lee",
+   "name": "Tangentry",
+   "url": "https://github.com/mu-zi-lee/Tangentry",
+   "avatar": "https://avatars.githubusercontent.com/u/75201518?v=4",
+   "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+   "language": "Go",
+   "topics": [
+    "bilibili",
+    "douyin",
+    "mygo",
+    "rss",
+    "rsshub",
+    "xiaoyuzhou",
+    "youtube",
+    "youtube-downloader"
+   ],
+   "license": "MIT",
+   "stars": 55,
+   "forks": 3,
+   "createdAt": "2026-10-17T05:17:17Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T18:23:42.569Z",
+   "stack": {
+    "kind": "docker",
+    "label": "Docker app",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mu-zi-lee/Tangentry?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mu-zi-lee/Tangentry",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mu-zi-lee/Tangentry/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "docker compose up",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/mu-zi-lee/Tangentry.git\ncd Tangentry\ndocker compose up",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/mu-zi-lee/Tangentry\nWhat it says it does: \"沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T18:23:42.569Z"
+  },
   {
    "fullName": "MK27MK/uxed",
    "owner": "MK27MK",
@@ -31480,69 +31544,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/CoralFireRadial/StartAll-Back\nWhat it says it does: \"Startall Back optimizes desktop configurations by providing a comprehensive repository that streamlines your workflow and ensures an efficient computing...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T18:51:45.971Z"
-  },
-  {
-   "fullName": "Haircloboutique/Cubase",
-   "owner": "Haircloboutique",
-   "name": "Cubase",
-   "url": "https://github.com/Haircloboutique/Cubase",
-   "avatar": "https://avatars.githubusercontent.com/u/292112937?v=4",
-   "description": "Revolutionize your music production with this robust digital audio workstation and sound design suite - tailored to streamline workflows and deliver...",
-   "language": null,
-   "topics": [
-    "cubase",
-    "cubase-15",
-    "cubase-for-beginners",
-    "cubase-pro",
-    "cubase-pro-2026",
-    "cubase-setup",
-    "cubase-tutorial",
-    "cubase-windows-download"
-   ],
-   "license": null,
-   "stars": 282,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:49:03Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T18:51:45.806Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Haircloboutique/Cubase",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Haircloboutique/Cubase/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Haircloboutique/Cubase\nWhat it says it does: \"Revolutionize your music production with this robust digital audio workstation and sound design suite - tailored to streamline workflows and deliver...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T18:51:45.806Z"
   }
  ],
  "levels": {
-  "account": 228,
+  "account": 229,
   "heavy": 102,
   "instant": 34,
-  "read": 136
+  "read": 135
  }
 }

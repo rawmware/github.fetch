@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T12:28:11.189Z",
- "totalGuides": 902,
+ "updatedAt": "2026-10-17T12:28:11.333Z",
+ "totalGuides": 903,
  "items": [
+  {
+   "fullName": "rohit267/net-merge",
+   "owner": "rohit267",
+   "name": "net-merge",
+   "url": "https://github.com/rohit267/net-merge",
+   "avatar": "https://avatars.githubusercontent.com/u/28225593?v=4",
+   "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+   "language": "Go",
+   "topics": [
+    "bandwidth-aggregation",
+    "downloader",
+    "golang",
+    "linux",
+    "load-balancing",
+    "macos",
+    "networking",
+    "tethering"
+   ],
+   "license": "MIT",
+   "stars": 481,
+   "forks": 13,
+   "createdAt": "2026-10-12T19:28:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-17T12:28:11.333Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/rohit267/net-merge?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/rohit267/net-merge",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/rohit267/net-merge/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/rohit267/net-merge.git\ncd net-merge\ngo build ./...",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/rohit267/net-merge\nWhat it says it does: \"Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T12:28:11.333Z"
+  },
   {
    "fullName": "juinwei7/Shiyin",
    "owner": "juinwei7",
@@ -31481,68 +31545,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/RocoreMatrix/YANchor\nWhat it says it does: \"YANchor-4B: Effective Long-Horizon Reasoning in O(N) Time with O(1) Memory. Inference and evaluation code.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T13:05:36.757Z"
-  },
-  {
-   "fullName": "Astrofrogger/pluck",
-   "owner": "Astrofrogger",
-   "name": "pluck",
-   "url": "https://github.com/Astrofrogger/pluck",
-   "avatar": "https://avatars.githubusercontent.com/u/172807915?v=4",
-   "description": "A native macOS app for yt-dlp, with Spotify support and self-updating tools",
-   "language": "Swift",
-   "topics": [],
-   "license": null,
-   "stars": 47,
-   "forks": 4,
-   "createdAt": "2026-10-08T10:01:46Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T13:05:36.348Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Astrofrogger/pluck?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Astrofrogger/pluck",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Astrofrogger/pluck/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Astrofrogger/pluck.git\ncd pluck",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Astrofrogger/pluck\nWhat it says it does: \"A native macOS app for yt-dlp, with Spotify support and self-updating tools\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T13:05:36.348Z"
   }
  ],
  "levels": {
-  "heavy": 99,
-  "account": 227,
+  "account": 228,
+  "heavy": 98,
   "read": 141,
   "instant": 33
  }

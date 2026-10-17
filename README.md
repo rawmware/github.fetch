@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_902 guides written so far · last update 2026-10-17 12:28 UTC_
+_903 guides written so far · last update 2026-10-17 12:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rohit267/net-merge](https://github.com/rohit267/net-merge) | Go project | Runs in the browser with a free account | [guide](guides/rohit267/net-merge.md) |
 | [juinwei7/Shiyin](https://github.com/juinwei7/Shiyin) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/juinwei7/shiyin.md) |
 | [Interactive-Active-AI/OneWM](https://github.com/Interactive-Active-AI/OneWM) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/onewm.md) |
 | [linuxkid473/gbos-x86](https://github.com/linuxkid473/gbos-x86) | Python project | Runs in the browser with a free account | [guide](guides/linuxkid473/gbos-x86.md) |
@@ -38,7 +39,6 @@ _902 guides written so far · last update 2026-10-17 12:28 UTC_
 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python project | Runs in the browser with a free account | [guide](guides/aicodeking/leanrea.md) |
 | [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/anujasid/blender-ai-mcp-addon.md) |
 | [touri-ai/touri](https://github.com/touri-ai/touri) | Vite app | Runs in the browser with a free account | [guide](guides/touri-ai/touri.md) |
-| [loyraydi/meow_hud](https://github.com/loyraydi/meow_hud) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/loyraydi/meow_hud.md) |
 <!-- latest:end -->
 
 ## How it works

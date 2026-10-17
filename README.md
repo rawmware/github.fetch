@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_926 guides written so far · last update 2026-10-17 23:00 UTC_
+_927 guides written so far · last update 2026-10-17 23:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [cloudpatrontrolley/BorisFX](https://github.com/cloudpatrontrolley/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cloudpatrontrolley/borisfx.md) |
 | [blockadeformertrip/AIDA-64-Extreme](https://github.com/blockadeformertrip/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blockadeformertrip/aida-64-extreme.md) |
 | [deepfounder-ai/desigma](https://github.com/deepfounder-ai/desigma) | Rust project | Runs in the browser with a free account | [guide](guides/deepfounder-ai/desigma.md) |
 | [leag1234/elixiroffice](https://github.com/leag1234/elixiroffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/leag1234/elixiroffice.md) |
@@ -38,7 +39,6 @@ _926 guides written so far · last update 2026-10-17 23:00 UTC_
 | [Enhed/clawd-usage-winwidget](https://github.com/Enhed/clawd-usage-winwidget) | PowerShell project | Runs in the browser with a free account | [guide](guides/enhed/clawd-usage-winwidget.md) |
 | [apple-aiml-research/ml-rsi-inference-bench](https://github.com/apple-aiml-research/ml-rsi-inference-bench) | Python project | Runs in the browser with a free account | [guide](guides/apple-aiml-research/ml-rsi-inference-bench.md) |
 | [kerrdec97/PS5-Backport-GUI](https://github.com/kerrdec97/PS5-Backport-GUI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kerrdec97/ps5-backport-gui.md) |
-| [kernelpanic0x11/instagram-api-workbench](https://github.com/kernelpanic0x11/instagram-api-workbench) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/kernelpanic0x11/instagram-api-workbench.md) |
 <!-- latest:end -->
 
 ## How it works

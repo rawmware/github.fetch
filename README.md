@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_922 guides written so far · last update 2026-10-17 20:52 UTC_
+_923 guides written so far · last update 2026-10-17 20:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) | Python project | Runs in the browser with a free account | [guide](guides/lucannez64/darling-lol.md) |
 | [evanbaker315/AttentionOS](https://github.com/evanbaker315/AttentionOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/evanbaker315/attentionos.md) |
 | [justxor/deepseek-local-guide-ru](https://github.com/justxor/deepseek-local-guide-ru) | Shell project | Runs in the browser with a free account | [guide](guides/justxor/deepseek-local-guide-ru.md) |
 | [wusuoweiju48/google-anti-cn-doctor](https://github.com/wusuoweiju48/google-anti-cn-doctor) | Python project | Runs in the browser with a free account | [guide](guides/wusuoweiju48/google-anti-cn-doctor.md) |
@@ -38,7 +39,6 @@ _922 guides written so far · last update 2026-10-17 20:52 UTC_
 | [mu-zi-lee/Tangentry](https://github.com/mu-zi-lee/Tangentry) | Docker app | Runs in the browser with a free account | [guide](guides/mu-zi-lee/tangentry.md) |
 | [MK27MK/uxed](https://github.com/MK27MK/uxed) | JavaScript project | Runs in the browser with a free account | [guide](guides/mk27mk/uxed.md) |
 | [SakanaAI/AI-Scientist-v3](https://github.com/SakanaAI/AI-Scientist-v3) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/sakanaai/ai-scientist-v3.md) |
-| [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/awakenchan/bloodbornebutpc.md) |
 <!-- latest:end -->
 
 ## How it works

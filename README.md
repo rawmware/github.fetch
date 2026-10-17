@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_867 guides written so far · last update 2026-10-17 04:10 UTC_
+_868 guides written so far · last update 2026-10-17 04:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Noniv/web-ocean](https://github.com/Noniv/web-ocean) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/noniv/web-ocean.md) |
 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Python project | Runs in the browser with a free account | [guide](guides/cranebeaker/coop-anything.md) |
 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Rust project | Runs in the browser with a free account | [guide](guides/reason-machines/reason-network.md) |
 | [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | Python project | Runs in the browser with a free account | [guide](guides/zcbacxc/mcd-party-planner.md) |
@@ -38,7 +39,6 @@ _867 guides written so far · last update 2026-10-17 04:10 UTC_
 | [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction) | Python project | Runs in the browser with a free account | [guide](guides/gungnir-sanye/tee-attestation-extraction.md) |
 | [ZiZc3/LiveShell](https://github.com/ZiZc3/LiveShell) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zizc3/liveshell.md) |
 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/xscreensaver-official/xscreensaver.md) |
-| [BelmanteGu/SuperMarioWonderRecomp](https://github.com/BelmanteGu/SuperMarioWonderRecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/belmantegu/supermariowonderrecomp.md) |
 <!-- latest:end -->
 
 ## How it works

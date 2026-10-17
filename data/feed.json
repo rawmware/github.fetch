@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-17T12:28:11.042Z",
- "totalGuides": 901,
+ "updatedAt": "2026-10-17T12:28:11.189Z",
+ "totalGuides": 902,
  "items": [
+  {
+   "fullName": "juinwei7/Shiyin",
+   "owner": "juinwei7",
+   "name": "Shiyin",
+   "url": "https://github.com/juinwei7/Shiyin",
+   "avatar": "https://avatars.githubusercontent.com/u/105909292?v=4",
+   "description": "macOS meeting notes: live transcript, local transcription (Breeze ASR / whisper.cpp), speaker diarization, AI meeting notes with timestamps",
+   "language": "Swift",
+   "topics": [
+    "claude-code",
+    "macos",
+    "meeting-notes",
+    "speaker-diarization",
+    "swiftui",
+    "traditional-chinese",
+    "transcription",
+    "whisper-cpp"
+   ],
+   "license": "MIT",
+   "stars": 49,
+   "forks": 5,
+   "createdAt": "2026-10-15T14:33:40Z",
+   "branch": "main",
+   "homepage": "https://shiyin.weibuilds.com",
+   "addedAt": "2026-10-17T12:28:11.189Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/juinwei7/Shiyin?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/juinwei7/Shiyin",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/juinwei7/Shiyin/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/juinwei7/Shiyin.git\ncd Shiyin",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/juinwei7/Shiyin\nWhat it says it does: \"macOS meeting notes: live transcript, local transcription (Breeze ASR / whisper.cpp), speaker diarization, AI meeting notes with timestamps\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-17T12:28:11.189Z"
+  },
   {
    "fullName": "Interactive-Active-AI/OneWM",
    "owner": "Interactive-Active-AI",
@@ -31472,73 +31538,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Astrofrogger/pluck\nWhat it says it does: \"A native macOS app for yt-dlp, with Spotify support and self-updating tools\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-09T13:05:36.348Z"
-  },
-  {
-   "fullName": "zju3dv/SuperNav",
-   "owner": "zju3dv",
-   "name": "SuperNav",
-   "url": "https://github.com/zju3dv/SuperNav",
-   "avatar": "https://avatars.githubusercontent.com/u/48914724?v=4",
-   "description": "An Agentic Navigation System for Any Task in Any Scene",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 49,
-   "forks": 0,
-   "createdAt": "2026-10-08T07:05:40Z",
-   "branch": "main",
-   "homepage": "https://zju3dv.github.io/SuperNav/",
-   "addedAt": "2026-10-09T13:05:36.119Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/zju3dv/SuperNav/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/zju3dv/SuperNav?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/zju3dv/SuperNav",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/zju3dv/SuperNav/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/zju3dv/SuperNav.git\ncd SuperNav\npip install -e .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/zju3dv/SuperNav\nWhat it says it does: \"An Agentic Navigation System for Any Task in Any Scene\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T13:05:36.119Z"
   }
  ],
  "levels": {
-  "heavy": 98,
-  "account": 228,
+  "heavy": 99,
+  "account": 227,
   "read": 141,
   "instant": 33
  }

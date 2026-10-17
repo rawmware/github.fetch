@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_886 guides written so far · last update 2026-10-17 08:37 UTC_
+_887 guides written so far · last update 2026-10-17 08:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [GradeBureaucrat/Sims-4-Respocket-DLC-Tool](https://github.com/GradeBureaucrat/Sims-4-Respocket-DLC-Tool) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gradebureaucrat/sims-4-respocket-dlc-tool.md) |
 | [Infernopeak/FiveM-Respocket-AIO-Soft](https://github.com/Infernopeak/FiveM-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/infernopeak/fivem-respocket-aio-soft.md) |
 | [TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft](https://github.com/TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft) | HTML project | Runs in the browser with a free account | [guide](guides/termitedeliver/marvel-rivals-respocket-aio-soft.md) |
 | [azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge) | Go project | Runs in the browser with a free account | [guide](guides/azrinaldi/gemini-stealth-bridge.md) |
@@ -38,7 +39,6 @@ _886 guides written so far · last update 2026-10-17 08:37 UTC_
 | [LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft](https://github.com/LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft) | HTML project | Runs in the browser with a free account | [guide](guides/lakeoriolemagnify/respocket-albion-online-aio-soft.md) |
 | [HydromancerConsider/PC-Gaming-Tweaker](https://github.com/HydromancerConsider/PC-Gaming-Tweaker) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/hydromancerconsider/pc-gaming-tweaker.md) |
 | [FlyerPersist96/Resp-Blooket-AIO-Soft](https://github.com/FlyerPersist96/Resp-Blooket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/flyerpersist96/resp-blooket-aio-soft.md) |
-| [monsterelephantexist/Palworld-Respocket-AIO-Soft](https://github.com/monsterelephantexist/Palworld-Respocket-AIO-Soft) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/monsterelephantexist/palworld-respocket-aio-soft.md) |
 <!-- latest:end -->
 
 ## How it works

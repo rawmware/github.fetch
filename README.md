@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_889 guides written so far · last update 2026-10-17 08:37 UTC_
+_890 guides written so far · last update 2026-10-17 08:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [midagedev/mwoyeo](https://github.com/midagedev/mwoyeo) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/midagedev/mwoyeo.md) |
 | [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) | HTML project | Runs in the browser with a free account | [guide](guides/tongyi-mai/opengcua.md) |
 | [rezadesky/RSDVault](https://github.com/rezadesky/RSDVault) | React app | Runs in the browser with a free account | [guide](guides/rezadesky/rsdvault.md) |
 | [GradeBureaucrat/Sims-4-Respocket-DLC-Tool](https://github.com/GradeBureaucrat/Sims-4-Respocket-DLC-Tool) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gradebureaucrat/sims-4-respocket-dlc-tool.md) |
@@ -38,7 +39,6 @@ _889 guides written so far · last update 2026-10-17 08:37 UTC_
 | [cinderphysicianadapt/Respocket-Blooket-AIO-Soft](https://github.com/cinderphysicianadapt/Respocket-Blooket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cinderphysicianadapt/respocket-blooket-aio-soft.md) |
 | [CruelAlbatross46/Payday-3-Respocket-AIO-Soft](https://github.com/CruelAlbatross46/Payday-3-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/cruelalbatross46/payday-3-respocket-aio-soft.md) |
 | [Outsidedelremedy/DBD-Respocket-AIO-Soft](https://github.com/Outsidedelremedy/DBD-Respocket-AIO-Soft) | Code project | Runs in the browser with a free account | [guide](guides/outsidedelremedy/dbd-respocket-aio-soft.md) |
-| [LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft](https://github.com/LakeOrioleMagnify/Respocket-Albion-Online-AIO-Soft) | HTML project | Runs in the browser with a free account | [guide](guides/lakeoriolemagnify/respocket-albion-online-aio-soft.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_938 guides written so far · last update 2026-10-18 05:43 UTC_
+_939 guides written so far · last update 2026-10-18 05:43 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Metropolisioretreat/Movavi-Screen-Recorder](https://github.com/Metropolisioretreat/Movavi-Screen-Recorder) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metropolisioretreat/movavi-screen-recorder.md) |
 | [Maroonplocord/Movavi-Converter](https://github.com/Maroonplocord/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/maroonplocord/movavi-converter.md) |
 | [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gathin23/tv-vibehack.md) |
 | [GammaServicePlaza/Display-Fusion](https://github.com/GammaServicePlaza/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gammaserviceplaza/display-fusion.md) |
@@ -38,7 +39,6 @@ _938 guides written so far · last update 2026-10-18 05:43 UTC_
 | [Cyclonechivolt/Cinema-4d](https://github.com/Cyclonechivolt/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclonechivolt/cinema-4d.md) |
 | [ClimberDefend/Avid-Media-Composer](https://github.com/ClimberDefend/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/climberdefend/avid-media-composer.md) |
 | [ClutchApprentice/Burning-Studio](https://github.com/ClutchApprentice/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clutchapprentice/burning-studio.md) |
-| [cloudpatrontrolley/BorisFX](https://github.com/cloudpatrontrolley/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cloudpatrontrolley/borisfx.md) |
 <!-- latest:end -->
 
 ## How it works

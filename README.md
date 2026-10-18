@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_952 guides written so far · last update 2026-10-18 09:55 UTC_
+_953 guides written so far · last update 2026-10-18 09:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [psychezonequicken/SoundPad](https://github.com/psychezonequicken/SoundPad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/psychezonequicken/soundpad.md) |
 | [PolygonOceanNote/SketchUp-Pro](https://github.com/PolygonOceanNote/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polygonoceannote/sketchup-pro.md) |
 | [Postardetach/SlideShow-Video-Maker](https://github.com/Postardetach/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/postardetach/slideshow-video-maker.md) |
 | [PureShoutRemedy/StartAll-Back](https://github.com/PureShoutRemedy/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pureshoutremedy/startall-back.md) |
@@ -38,7 +39,6 @@ _952 guides written so far · last update 2026-10-18 09:55 UTC_
 | [Shardgrureduce/Wondshare-Recoverit](https://github.com/Shardgrureduce/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shardgrureduce/wondshare-recoverit.md) |
 | [ScorpionPlan/Wise-Care](https://github.com/ScorpionPlan/Wise-Care) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scorpionplan/wise-care.md) |
 | [originbatarm/Patreon-Viewer](https://github.com/originbatarm/Patreon-Viewer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/originbatarm/patreon-viewer.md) |
-| [PaintManager/Quicken-Deluxe](https://github.com/PaintManager/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paintmanager/quicken-deluxe.md) |
 <!-- latest:end -->
 
 ## How it works

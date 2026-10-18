@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T05:43:15.223Z",
- "totalGuides": 948,
+ "updatedAt": "2026-10-18T05:43:15.363Z",
+ "totalGuides": 949,
  "items": [
+  {
+   "fullName": "OverlordPrize/Power-Director",
+   "owner": "OverlordPrize",
+   "name": "Power-Director",
+   "url": "https://github.com/OverlordPrize/Power-Director",
+   "avatar": "https://avatars.githubusercontent.com/u/291372459?v=4",
+   "description": "Power Director 14.5, a robust professional-grade video editing software, is now available as a complete standalone setup ready to run with...",
+   "language": null,
+   "topics": [
+    "cyber-link",
+    "cyberlink-powerdirector",
+    "cyberlink-powerdirector-2026",
+    "cyberlink-powerdirector-install-setup-2026",
+    "cyberlink-powerdvd-ultra-dvd-support",
+    "cyberlink-screen-recorder-4-deluxe",
+    "motion-effects",
+    "powerdirector-download-windows-11"
+   ],
+   "license": null,
+   "stars": 255,
+   "forks": 0,
+   "createdAt": "2026-10-17T19:13:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T05:43:15.362Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/OverlordPrize/Power-Director",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/OverlordPrize/Power-Director/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/OverlordPrize/Power-Director\nWhat it says it does: \"Power Director 14.5, a robust professional-grade video editing software, is now available as a complete standalone setup ready to run with...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T05:43:15.362Z"
+  },
   {
    "fullName": "lineclericcode/Microsoft-365",
    "owner": "lineclericcode",
@@ -31530,58 +31587,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/BeachSlayerSplit/Adobe-Audition\nWhat it says it does: \"Enhance your audio editing process with Adobe Audition's dedicated professional desktop software utility configuration that expertly manages multitrack...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T08:53:55.398Z"
-  },
-  {
-   "fullName": "SymbolEggGaze/Ashampoo-Uninstaller",
-   "owner": "SymbolEggGaze",
-   "name": "Ashampoo-Uninstaller",
-   "url": "https://github.com/SymbolEggGaze/Ashampoo-Uninstaller",
-   "avatar": "https://avatars.githubusercontent.com/u/292109756?v=4",
-   "description": "Uninstall unwanted software swiftly and securely with the professional-grade Ashampoo Uninstaller.",
-   "language": null,
-   "topics": [
-    "ashampoo-gmbh",
-    "ashampoo-uninstaller-install-setup-windows-2026",
-    "uninstall-utility"
-   ],
-   "license": null,
-   "stars": 199,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:44:59Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-10T08:53:55.202Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/SymbolEggGaze/Ashampoo-Uninstaller",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SymbolEggGaze/Ashampoo-Uninstaller/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/SymbolEggGaze/Ashampoo-Uninstaller\nWhat it says it does: \"Uninstall unwanted software swiftly and securely with the professional-grade Ashampoo Uninstaller.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T08:53:55.202Z"
   }
  ],
  "levels": {

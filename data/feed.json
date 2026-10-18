@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T17:15:09.976Z",
- "totalGuides": 976,
+ "updatedAt": "2026-10-18T17:15:10.206Z",
+ "totalGuides": 977,
  "items": [
+  {
+   "fullName": "K0NL/B2recomp",
+   "owner": "K0NL",
+   "name": "B2recomp",
+   "url": "https://github.com/K0NL/B2recomp",
+   "avatar": "https://avatars.githubusercontent.com/u/181441546?v=4",
+   "description": "Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+   "language": "C",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 101,
+   "forks": 2,
+   "createdAt": "2026-10-17T16:04:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T17:15:10.205Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/K0NL/B2recomp?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/K0NL/B2recomp",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/K0NL/B2recomp/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/K0NL/B2recomp.git\ncd B2recomp",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/K0NL/B2recomp\nWhat it says it does: \"Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T17:15:10.205Z"
+  },
   {
    "fullName": "fzn0x/idx",
    "owner": "fzn0x",
@@ -31426,66 +31483,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/hubdragonminaret/VoiceMod\nWhat it says it does: \"Voicemod optimizes desktop software utilities with a unique configuration system that streamlines workflow and enhances overall performance without using...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T15:13:45.193Z"
-  },
-  {
-   "fullName": "RuoJi6/ARTEX",
-   "owner": "RuoJi6",
-   "name": "ARTEX",
-   "url": "https://github.com/RuoJi6/ARTEX",
-   "avatar": "https://avatars.githubusercontent.com/u/79234113?v=4",
-   "description": "Autumn-27/ARTEX 二开",
-   "language": "Go",
-   "topics": [],
-   "license": "AGPL-3.0",
-   "stars": 104,
-   "forks": 67,
-   "createdAt": "2026-10-09T00:56:36Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-10T15:13:45.046Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/RuoJi6/ARTEX?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/RuoJi6/ARTEX",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/RuoJi6/ARTEX/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/RuoJi6/ARTEX.git\ncd ARTEX\ngo build ./...",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/RuoJi6/ARTEX\nWhat it says it does: \"Autumn-27/ARTEX 二开\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T15:13:45.046Z"
   }
  ],
  "levels": {
-  "account": 227,
-  "heavy": 105,
+  "heavy": 106,
+  "account": 226,
   "read": 135,
   "instant": 33
  }

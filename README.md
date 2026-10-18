@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_976 guides written so far · last update 2026-10-18 17:15 UTC_
+_977 guides written so far · last update 2026-10-18 17:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [K0NL/B2recomp](https://github.com/K0NL/B2recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/k0nl/b2recomp.md) |
 | [fzn0x/idx](https://github.com/fzn0x/idx) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fzn0x/idx.md) |
 | [LTSharpe/OblivionRemasteredPerformanceFix](https://github.com/LTSharpe/OblivionRemasteredPerformanceFix) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/ltsharpe/oblivionremasteredperformancefix.md) |
 | [Domainsun/awesome-chinese-secondhand-slang](https://github.com/Domainsun/awesome-chinese-secondhand-slang) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/domainsun/awesome-chinese-secondhand-slang.md) |
@@ -38,7 +39,6 @@ _976 guides written so far · last update 2026-10-18 17:15 UTC_
 | [DegreeSeniorExcite33/IDM](https://github.com/DegreeSeniorExcite33/IDM) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/degreeseniorexcite33/idm.md) |
 | [Surfacepleblock/Autodesk-CFD](https://github.com/Surfacepleblock/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacepleblock/autodesk-cfd.md) |
 | [prismmizukageconquer/Windows-Optimizer](https://github.com/prismmizukageconquer/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismmizukageconquer/windows-optimizer.md) |
-| [bandwatchmanriddle/Clion](https://github.com/bandwatchmanriddle/Clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bandwatchmanriddle/clion.md) |
 <!-- latest:end -->
 
 ## How it works

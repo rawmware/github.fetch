@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T05:43:13.899Z",
- "totalGuides": 940,
+ "updatedAt": "2026-10-18T05:43:14.073Z",
+ "totalGuides": 941,
  "items": [
+  {
+   "fullName": "PaintManager/Quicken-Deluxe",
+   "owner": "PaintManager",
+   "name": "Quicken-Deluxe",
+   "url": "https://github.com/PaintManager/Quicken-Deluxe",
+   "avatar": "https://avatars.githubusercontent.com/u/291379609?v=4",
+   "description": "Quicken Deluxe 2026: Complete standalone setup ready to run, featuring full financial management tools and easy installation.",
+   "language": null,
+   "topics": [
+    "free-quicken-download",
+    "quicken",
+    "quicken-2026",
+    "quicken-classic-download",
+    "quicken-classic-premier-download",
+    "quicken-deluxe-2013-download",
+    "quicken-deluxe-download",
+    "quicken-install-setup-windows-2026-finance"
+   ],
+   "license": null,
+   "stars": 255,
+   "forks": 0,
+   "createdAt": "2026-10-17T19:13:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T05:43:14.072Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/PaintManager/Quicken-Deluxe",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PaintManager/Quicken-Deluxe/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/PaintManager/Quicken-Deluxe\nWhat it says it does: \"Quicken Deluxe 2026: Complete standalone setup ready to run, featuring full financial management tools and easy installation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T05:43:14.072Z"
+  },
   {
    "fullName": "NoviceAdjust19/PH-Downloader",
    "owner": "NoviceAdjust19",
@@ -31524,62 +31581,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Charactervefilter/Reason-14\nWhat it says it does: \"Revolutionize your workflow with 'Reason 14', a bespoke desktop utility designed to optimize complex configurations and facilitate seamless management in...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T02:23:54.588Z"
-  },
-  {
-   "fullName": "QuarkRealmEntrance/Ozone-12-Advanced",
-   "owner": "QuarkRealmEntrance",
-   "name": "Ozone-12-Advanced",
-   "url": "https://github.com/QuarkRealmEntrance/Ozone-12-Advanced",
-   "avatar": "https://avatars.githubusercontent.com/u/292114548?v=4",
-   "description": "Ozone 12 Advanced optimizes professional desktop utility configurations with a unique blend of functionality and ease-of-use.",
-   "language": null,
-   "topics": [
-    "izotope-ozone",
-    "izotope-rx-latest",
-    "machine-learning-audio",
-    "ozone",
-    "ozone-11-setup",
-    "podcast-audio-fix",
-    "podcast-editing"
-   ],
-   "license": null,
-   "stars": 200,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:55:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-10T02:23:54.454Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/QuarkRealmEntrance/Ozone-12-Advanced",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/QuarkRealmEntrance/Ozone-12-Advanced/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/QuarkRealmEntrance/Ozone-12-Advanced\nWhat it says it does: \"Ozone 12 Advanced optimizes professional desktop utility configurations with a unique blend of functionality and ease-of-use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T02:23:54.454Z"
   }
  ],
  "levels": {

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_960 guides written so far · last update 2026-10-18 09:55 UTC_
+_961 guides written so far · last update 2026-10-18 13:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [divergesoulpersist/IOBIT-Driver-Booster](https://github.com/divergesoulpersist/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/divergesoulpersist/iobit-driver-booster.md) |
 | [TamaribaEmu/OpenPS2BIOS](https://github.com/TamaribaEmu/OpenPS2BIOS) | C project | Needs a real machine (or a GPU) to run | [guide](guides/tamaribaemu/openps2bios.md) |
 | [DLSS-5-Swapper-DownIoad/.github](https://github.com/DLSS-5-Swapper-DownIoad/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-downioad/.github.md) |
 | [murkantor/Project-Midas](https://github.com/murkantor/Project-Midas) | Docker app | Runs in the browser with a free account | [guide](guides/murkantor/project-midas.md) |
@@ -38,7 +39,6 @@ _960 guides written so far · last update 2026-10-18 09:55 UTC_
 | [PolygonOceanNote/SketchUp-Pro](https://github.com/PolygonOceanNote/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polygonoceannote/sketchup-pro.md) |
 | [Postardetach/SlideShow-Video-Maker](https://github.com/Postardetach/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/postardetach/slideshow-video-maker.md) |
 | [PureShoutRemedy/StartAll-Back](https://github.com/PureShoutRemedy/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pureshoutremedy/startall-back.md) |
-| [OverlordPrize/Power-Director](https://github.com/OverlordPrize/Power-Director) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/overlordprize/power-director.md) |
 <!-- latest:end -->
 
 ## How it works

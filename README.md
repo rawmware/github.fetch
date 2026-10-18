@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_931 guides written so far · last update 2026-10-18 00:52 UTC_
+_932 guides written so far · last update 2026-10-18 00:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CyclopsGuard/Claude-Jailbreak-Prompt](https://github.com/CyclopsGuard/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopsguard/claude-jailbreak-prompt.md) |
 | [CyanDustObelisk/Cinebench](https://github.com/CyanDustObelisk/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyandustobelisk/cinebench.md) |
 | [Cyclonechivolt/Cinema-4d](https://github.com/Cyclonechivolt/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclonechivolt/cinema-4d.md) |
 | [ClimberDefend/Avid-Media-Composer](https://github.com/ClimberDefend/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/climberdefend/avid-media-composer.md) |
@@ -38,7 +39,6 @@ _931 guides written so far · last update 2026-10-18 00:52 UTC_
 | [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) | Python project | Runs in the browser with a free account | [guide](guides/lucannez64/darling-lol.md) |
 | [evanbaker315/AttentionOS](https://github.com/evanbaker315/AttentionOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/evanbaker315/attentionos.md) |
 | [justxor/deepseek-local-guide-ru](https://github.com/justxor/deepseek-local-guide-ru) | Shell project | Runs in the browser with a free account | [guide](guides/justxor/deepseek-local-guide-ru.md) |
-| [wusuoweiju48/google-anti-cn-doctor](https://github.com/wusuoweiju48/google-anti-cn-doctor) | Python project | Runs in the browser with a free account | [guide](guides/wusuoweiju48/google-anti-cn-doctor.md) |
 <!-- latest:end -->
 
 ## How it works

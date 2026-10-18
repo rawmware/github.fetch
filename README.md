@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_941 guides written so far · last update 2026-10-18 05:43 UTC_
+_942 guides written so far · last update 2026-10-18 05:43 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [originbatarm/Patreon-Viewer](https://github.com/originbatarm/Patreon-Viewer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/originbatarm/patreon-viewer.md) |
 | [PaintManager/Quicken-Deluxe](https://github.com/PaintManager/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paintmanager/quicken-deluxe.md) |
 | [NoviceAdjust19/PH-Downloader](https://github.com/NoviceAdjust19/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/noviceadjust19/ph-downloader.md) |
 | [Metropolisioretreat/Movavi-Screen-Recorder](https://github.com/Metropolisioretreat/Movavi-Screen-Recorder) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metropolisioretreat/movavi-screen-recorder.md) |
@@ -38,7 +39,6 @@ _941 guides written so far · last update 2026-10-18 05:43 UTC_
 | [drizzlechampionblast/DAEMON-Pro](https://github.com/drizzlechampionblast/DAEMON-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/drizzlechampionblast/daemon-pro.md) |
 | [CyclopsGuard/Claude-Jailbreak-Prompt](https://github.com/CyclopsGuard/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopsguard/claude-jailbreak-prompt.md) |
 | [CyanDustObelisk/Cinebench](https://github.com/CyanDustObelisk/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyandustobelisk/cinebench.md) |
-| [Cyclonechivolt/Cinema-4d](https://github.com/Cyclonechivolt/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclonechivolt/cinema-4d.md) |
 <!-- latest:end -->
 
 ## How it works

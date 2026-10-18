@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T21:46:06.739Z",
- "totalGuides": 989,
+ "updatedAt": "2026-10-18T21:46:06.965Z",
+ "totalGuides": 990,
  "items": [
+  {
+   "fullName": "Caveyeidentify/Discord-Server-Cloner",
+   "owner": "Caveyeidentify",
+   "name": "Discord-Server-Cloner",
+   "url": "https://github.com/Caveyeidentify/Discord-Server-Cloner",
+   "avatar": "https://avatars.githubusercontent.com/u/296686731?v=4",
+   "description": "Discord Server Cloner 2025: Full working installer ready to run, clone your Discord servers effortlessly.",
+   "language": null,
+   "topics": [
+    "discord-channel-cloner",
+    "discord-clone",
+    "discord-cloner",
+    "discord-cloner-bot",
+    "discord-dm-cloner",
+    "discord-exporter",
+    "discord-message-sender",
+    "discord-self-bot"
+   ],
+   "license": null,
+   "stars": 97,
+   "forks": 0,
+   "createdAt": "2026-10-18T10:01:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T21:46:06.965Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Caveyeidentify/Discord-Server-Cloner",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Caveyeidentify/Discord-Server-Cloner/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Caveyeidentify/Discord-Server-Cloner\nWhat it says it does: \"Discord Server Cloner 2025: Full working installer ready to run, clone your Discord servers effortlessly.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T21:46:06.965Z"
+  },
   {
    "fullName": "Desertreflow/Imei-Repair",
    "owner": "Desertreflow",
@@ -31297,78 +31354,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/eyalgolan/statecraft-israel\nWhat it says it does: \"A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T22:52:49.272Z"
-  },
-  {
-   "fullName": "ARahim3/DigUp",
-   "owner": "ARahim3",
-   "name": "DigUp",
-   "url": "https://github.com/ARahim3/DigUp",
-   "avatar": "https://avatars.githubusercontent.com/u/41390319?v=4",
-   "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-   "language": "Swift",
-   "topics": [
-    "embeddinggemma",
-    "embeddings",
-    "llama-cpp",
-    "local-first",
-    "macos",
-    "menubar-app",
-    "multimodal",
-    "on-device"
-   ],
-   "license": "MIT",
-   "stars": 158,
-   "forks": 14,
-   "createdAt": "2026-10-08T20:37:51Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-10T22:52:49.110Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ARahim3/DigUp?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ARahim3/DigUp",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ARahim3/DigUp/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/ARahim3/DigUp.git\ncd DigUp",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/ARahim3/DigUp\nWhat it says it does: \"Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T22:52:49.110Z"
   }
  ],
  "levels": {
-  "read": 142,
+  "read": 143,
   "account": 222,
   "instant": 32,
-  "heavy": 104
+  "heavy": 103
  }
 }

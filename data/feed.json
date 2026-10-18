@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T09:55:38.373Z",
- "totalGuides": 951,
+ "updatedAt": "2026-10-18T09:55:38.955Z",
+ "totalGuides": 952,
  "items": [
+  {
+   "fullName": "PolygonOceanNote/SketchUp-Pro",
+   "owner": "PolygonOceanNote",
+   "name": "SketchUp-Pro",
+   "url": "https://github.com/PolygonOceanNote/SketchUp-Pro",
+   "avatar": "https://avatars.githubusercontent.com/u/291375159?v=4",
+   "description": "Complete standalone setup for Sketchup Pro 2026. Ready-to-run desktop installation with all features activated.",
+   "language": null,
+   "topics": [
+    "3d-modeling-software",
+    "architectural-visualization",
+    "design-pipeline",
+    "measurement-tools",
+    "premium-software",
+    "render-ready",
+    "sketch-pro-download",
+    "sketch-up"
+   ],
+   "license": null,
+   "stars": 254,
+   "forks": 0,
+   "createdAt": "2026-10-17T19:14:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T09:55:38.955Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/PolygonOceanNote/SketchUp-Pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PolygonOceanNote/SketchUp-Pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/PolygonOceanNote/SketchUp-Pro\nWhat it says it does: \"Complete standalone setup for Sketchup Pro 2026. Ready-to-run desktop installation with all features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T09:55:38.955Z"
+  },
   {
    "fullName": "Postardetach/SlideShow-Video-Maker",
    "owner": "Postardetach",
@@ -31530,63 +31587,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Hurricanedroplunder/DVD-Creator\nWhat it says it does: \"Revolutionizes digital media management by crafting professional-grade DVDs with unparalleled precision and efficiency.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T08:53:56.016Z"
-  },
-  {
-   "fullName": "ApexFlameBurst/Cinema-4d",
-   "owner": "ApexFlameBurst",
-   "name": "Cinema-4d",
-   "url": "https://github.com/ApexFlameBurst/Cinema-4d",
-   "avatar": "https://avatars.githubusercontent.com/u/292112670?v=4",
-   "description": "Integrate professional desktop software utility configurations seamlessly with this unique Cinema 4D setup that provides a pre-activated framework...",
-   "language": null,
-   "topics": [
-    "c4d-plugin",
-    "cinema-4d",
-    "cinema-4d-2026",
-    "cinema-4d-free",
-    "cinema-4d-freel",
-    "cinema-4d-plugin",
-    "cinema-4d-plugin-maxon",
-    "cinema-4d-studio-pc"
-   ],
-   "license": null,
-   "stars": 199,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:48:56Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-10T08:53:55.824Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ApexFlameBurst/Cinema-4d",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ApexFlameBurst/Cinema-4d/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ApexFlameBurst/Cinema-4d\nWhat it says it does: \"Integrate professional desktop software utility configurations seamlessly with this unique Cinema 4D setup that provides a pre-activated framework...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T08:53:55.824Z"
   }
  ],
  "levels": {

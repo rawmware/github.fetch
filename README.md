@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_972 guides written so far · last update 2026-10-18 17:15 UTC_
+_973 guides written so far · last update 2026-10-18 17:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | Node command-line tool | Runs in the browser with a free account | [guide](guides/alchaincyf/huashu-motion.md) |
 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xiaoyang111222/cn-math-taxonomy.md) |
 | [ChaosCaptain/DVD-Creator](https://github.com/ChaosCaptain/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chaoscaptain/dvd-creator.md) |
 | [ArenaMotorman/Canva-Pro](https://github.com/ArenaMotorman/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arenamotorman/canva-pro.md) |
@@ -38,7 +39,6 @@ _972 guides written so far · last update 2026-10-18 17:15 UTC_
 | [EssenceCountCommand/Melodyne-5](https://github.com/EssenceCountCommand/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/essencecountcommand/melodyne-5.md) |
 | [CycloneSeamanQuicken/Adobe-Audition](https://github.com/CycloneSeamanQuicken/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cycloneseamanquicken/adobe-audition.md) |
 | [NobleLarvaCharge/SystemCare-Pro](https://github.com/NobleLarvaCharge/SystemCare-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/noblelarvacharge/systemcare-pro.md) |
-| [divergesoulpersist/IOBIT-Driver-Booster](https://github.com/divergesoulpersist/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/divergesoulpersist/iobit-driver-booster.md) |
 <!-- latest:end -->
 
 ## How it works

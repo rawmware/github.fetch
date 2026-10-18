@@ -1,8 +1,64 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T19:28:12.549Z",
- "totalGuides": 984,
+ "updatedAt": "2026-10-18T19:28:12.722Z",
+ "totalGuides": 985,
  "items": [
+  {
+   "fullName": "MixedShrimpVanquish/Ads-Blocker",
+   "owner": "MixedShrimpVanquish",
+   "name": "Ads-Blocker",
+   "url": "https://github.com/MixedShrimpVanquish/Ads-Blocker",
+   "avatar": "https://avatars.githubusercontent.com/u/292111455?v=4",
+   "description": "Ads Blocker 2025: Full working installer with enhanced blocking capabilities and user-friendly interface.",
+   "language": null,
+   "topics": [
+    "adblock-lists",
+    "adblocker-ultimate-list",
+    "adblockplus",
+    "adguard-list",
+    "adsblock",
+    "block-ads",
+    "dnsfilter"
+   ],
+   "license": null,
+   "stars": 97,
+   "forks": 0,
+   "createdAt": "2026-10-18T09:59:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T19:28:12.721Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/MixedShrimpVanquish/Ads-Blocker",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/MixedShrimpVanquish/Ads-Blocker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/MixedShrimpVanquish/Ads-Blocker\nWhat it says it does: \"Ads Blocker 2025: Full working installer with enhanced blocking capabilities and user-friendly interface.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T19:28:12.721Z"
+  },
   {
    "fullName": "squareswimmeryell/Easy-Worship",
    "owner": "squareswimmeryell",
@@ -31358,76 +31414,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/mariagorskikh/open-instinct\nWhat it says it does: \"Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T19:19:47.972Z"
-  },
-  {
-   "fullName": "fxgl/steamac",
-   "owner": "fxgl",
-   "name": "steamac",
-   "url": "https://github.com/fxgl/steamac",
-   "avatar": "https://avatars.githubusercontent.com/u/4425268?v=4",
-   "description": "Valve's official ARM64 SteamOS in a lightweight VM on Apple Silicon: libkrun + Venus + MoltenVK, controllers, CoreAudio sound",
-   "language": "Swift",
-   "topics": [
-    "apple-silicon",
-    "libkrun",
-    "macos",
-    "moltenvk",
-    "proton",
-    "steamos"
-   ],
-   "license": "Apache-2.0",
-   "stars": 314,
-   "forks": 13,
-   "createdAt": "2026-10-04T10:23:35Z",
-   "branch": "main",
-   "homepage": "https://fxgl.github.io/steamac/",
-   "addedAt": "2026-10-10T19:19:47.496Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/fxgl/steamac?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/fxgl/steamac",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/fxgl/steamac/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/fxgl/steamac.git\ncd steamac",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/fxgl/steamac\nWhat it says it does: \"Valve's official ARM64 SteamOS in a lightweight VM on Apple Silicon: libkrun + Venus + MoltenVK, controllers, CoreAudio sound\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T19:19:47.496Z"
   }
  ],
  "levels": {
-  "read": 139,
+  "read": 140,
   "instant": 32,
   "account": 223,
-  "heavy": 106
+  "heavy": 105
  }
 }

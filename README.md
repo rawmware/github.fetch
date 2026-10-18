@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_984 guides written so far · last update 2026-10-18 19:28 UTC_
+_985 guides written so far · last update 2026-10-18 19:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MixedShrimpVanquish/Ads-Blocker](https://github.com/MixedShrimpVanquish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixedshrimpvanquish/ads-blocker.md) |
 | [squareswimmeryell/Easy-Worship](https://github.com/squareswimmeryell/Easy-Worship) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/squareswimmeryell/easy-worship.md) |
 | [StylistMultiplexer/HitFilm](https://github.com/StylistMultiplexer/HitFilm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stylistmultiplexer/hitfilm.md) |
 | [SplendorCooper/ExitLag](https://github.com/SplendorCooper/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorcooper/exitlag.md) |
@@ -38,7 +39,6 @@ _984 guides written so far · last update 2026-10-18 19:28 UTC_
 | [fzn0x/idx](https://github.com/fzn0x/idx) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fzn0x/idx.md) |
 | [LTSharpe/OblivionRemasteredPerformanceFix](https://github.com/LTSharpe/OblivionRemasteredPerformanceFix) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/ltsharpe/oblivionremasteredperformancefix.md) |
 | [Domainsun/awesome-chinese-secondhand-slang](https://github.com/Domainsun/awesome-chinese-secondhand-slang) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/domainsun/awesome-chinese-secondhand-slang.md) |
-| [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | Node command-line tool | Runs in the browser with a free account | [guide](guides/alchaincyf/huashu-motion.md) |
 <!-- latest:end -->
 
 ## How it works

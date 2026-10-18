@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_962 guides written so far · last update 2026-10-18 13:55 UTC_
+_963 guides written so far · last update 2026-10-18 13:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CycloneSeamanQuicken/Adobe-Audition](https://github.com/CycloneSeamanQuicken/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cycloneseamanquicken/adobe-audition.md) |
 | [NobleLarvaCharge/SystemCare-Pro](https://github.com/NobleLarvaCharge/SystemCare-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/noblelarvacharge/systemcare-pro.md) |
 | [divergesoulpersist/IOBIT-Driver-Booster](https://github.com/divergesoulpersist/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/divergesoulpersist/iobit-driver-booster.md) |
 | [TamaribaEmu/OpenPS2BIOS](https://github.com/TamaribaEmu/OpenPS2BIOS) | C project | Needs a real machine (or a GPU) to run | [guide](guides/tamaribaemu/openps2bios.md) |
@@ -38,7 +39,6 @@ _962 guides written so far · last update 2026-10-18 13:55 UTC_
 | [Panelnyastage/Reason-14](https://github.com/Panelnyastage/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/panelnyastage/reason-14.md) |
 | [psychezonequicken/SoundPad](https://github.com/psychezonequicken/SoundPad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/psychezonequicken/soundpad.md) |
 | [PolygonOceanNote/SketchUp-Pro](https://github.com/PolygonOceanNote/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polygonoceannote/sketchup-pro.md) |
-| [Postardetach/SlideShow-Video-Maker](https://github.com/Postardetach/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/postardetach/slideshow-video-maker.md) |
 <!-- latest:end -->
 
 ## How it works

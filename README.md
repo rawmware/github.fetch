@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_933 guides written so far · last update 2026-10-18 00:52 UTC_
+_934 guides written so far · last update 2026-10-18 00:52 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DrizzleSpirit/Data-Grip](https://github.com/DrizzleSpirit/Data-Grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/drizzlespirit/data-grip.md) |
 | [drizzlechampionblast/DAEMON-Pro](https://github.com/drizzlechampionblast/DAEMON-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/drizzlechampionblast/daemon-pro.md) |
 | [CyclopsGuard/Claude-Jailbreak-Prompt](https://github.com/CyclopsGuard/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopsguard/claude-jailbreak-prompt.md) |
 | [CyanDustObelisk/Cinebench](https://github.com/CyanDustObelisk/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyandustobelisk/cinebench.md) |
@@ -38,7 +39,6 @@ _933 guides written so far · last update 2026-10-18 00:52 UTC_
 | [deepfounder-ai/desigma](https://github.com/deepfounder-ai/desigma) | Rust project | Runs in the browser with a free account | [guide](guides/deepfounder-ai/desigma.md) |
 | [leag1234/elixiroffice](https://github.com/leag1234/elixiroffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/leag1234/elixiroffice.md) |
 | [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) | Python project | Runs in the browser with a free account | [guide](guides/lucannez64/darling-lol.md) |
-| [evanbaker315/AttentionOS](https://github.com/evanbaker315/AttentionOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/evanbaker315/attentionos.md) |
 <!-- latest:end -->
 
 ## How it works

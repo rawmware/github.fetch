@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_937 guides written so far · last update 2026-10-18 05:43 UTC_
+_938 guides written so far · last update 2026-10-18 05:43 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Maroonplocord/Movavi-Converter](https://github.com/Maroonplocord/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/maroonplocord/movavi-converter.md) |
 | [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gathin23/tv-vibehack.md) |
 | [GammaServicePlaza/Display-Fusion](https://github.com/GammaServicePlaza/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gammaserviceplaza/display-fusion.md) |
 | [EnchanterOrbit/Designcenter-NX](https://github.com/EnchanterOrbit/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchanterorbit/designcenter-nx.md) |
@@ -38,7 +39,6 @@ _937 guides written so far · last update 2026-10-18 05:43 UTC_
 | [ClimberDefend/Avid-Media-Composer](https://github.com/ClimberDefend/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/climberdefend/avid-media-composer.md) |
 | [ClutchApprentice/Burning-Studio](https://github.com/ClutchApprentice/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clutchapprentice/burning-studio.md) |
 | [cloudpatrontrolley/BorisFX](https://github.com/cloudpatrontrolley/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cloudpatrontrolley/borisfx.md) |
-| [blockadeformertrip/AIDA-64-Extreme](https://github.com/blockadeformertrip/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blockadeformertrip/aida-64-extreme.md) |
 <!-- latest:end -->
 
 ## How it works

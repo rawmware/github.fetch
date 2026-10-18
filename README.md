@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_943 guides written so far · last update 2026-10-18 05:43 UTC_
+_944 guides written so far · last update 2026-10-18 05:43 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Shardgrureduce/Wondshare-Recoverit](https://github.com/Shardgrureduce/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shardgrureduce/wondshare-recoverit.md) |
 | [ScorpionPlan/Wise-Care](https://github.com/ScorpionPlan/Wise-Care) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scorpionplan/wise-care.md) |
 | [originbatarm/Patreon-Viewer](https://github.com/originbatarm/Patreon-Viewer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/originbatarm/patreon-viewer.md) |
 | [PaintManager/Quicken-Deluxe](https://github.com/PaintManager/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paintmanager/quicken-deluxe.md) |
@@ -38,7 +39,6 @@ _943 guides written so far · last update 2026-10-18 05:43 UTC_
 | [EnchanterOrbit/Designcenter-NX](https://github.com/EnchanterOrbit/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchanterorbit/designcenter-nx.md) |
 | [DrizzleSpirit/Data-Grip](https://github.com/DrizzleSpirit/Data-Grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/drizzlespirit/data-grip.md) |
 | [drizzlechampionblast/DAEMON-Pro](https://github.com/drizzlechampionblast/DAEMON-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/drizzlechampionblast/daemon-pro.md) |
-| [CyclopsGuard/Claude-Jailbreak-Prompt](https://github.com/CyclopsGuard/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopsguard/claude-jailbreak-prompt.md) |
 <!-- latest:end -->
 
 ## How it works

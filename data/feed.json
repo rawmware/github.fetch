@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T05:43:14.809Z",
- "totalGuides": 945,
+ "updatedAt": "2026-10-18T05:43:14.938Z",
+ "totalGuides": 946,
  "items": [
+  {
+   "fullName": "Smashflefurnish/CorelDraw",
+   "owner": "Smashflefurnish",
+   "name": "CorelDraw",
+   "url": "https://github.com/Smashflefurnish/CorelDraw",
+   "avatar": "https://avatars.githubusercontent.com/u/291376297?v=4",
+   "description": "CorelDRAW Suite 2025 complete standalone setup, fully activated and ready to run.",
+   "language": null,
+   "topics": [
+    "coreldraw-build",
+    "coreldraw-docs",
+    "coreldraw-windows-download",
+    "design-toolkit",
+    "graphic-design-software",
+    "vector-illustration"
+   ],
+   "license": null,
+   "stars": 255,
+   "forks": 0,
+   "createdAt": "2026-10-17T21:47:58Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T05:43:14.937Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Smashflefurnish/CorelDraw",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Smashflefurnish/CorelDraw/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Smashflefurnish/CorelDraw\nWhat it says it does: \"CorelDRAW Suite 2025 complete standalone setup, fully activated and ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T05:43:14.937Z"
+  },
   {
    "fullName": "OriginOstrichSignify/Photo-Commander",
    "owner": "OriginOstrichSignify",
@@ -31525,63 +31580,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ClientRevolution/SlideShow-Video-Maker\nWhat it says it does: \"Slideshow Video Maker optimizes your workflow by providing a comprehensive post-production plugin solution with advanced visual effects and seamless...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T08:53:54.814Z"
-  },
-  {
-   "fullName": "BoulevardCandlemaker/FL-Studio",
-   "owner": "BoulevardCandlemaker",
-   "name": "FL-Studio",
-   "url": "https://github.com/BoulevardCandlemaker/FL-Studio",
-   "avatar": "https://avatars.githubusercontent.com/u/292110621?v=4",
-   "description": "Fl Studio is an advanced digital audio workstation and sound design suite that enables users to create professional-grade music projects with ease; its...",
-   "language": null,
-   "topics": [
-    "audio-engineering",
-    "beat-making",
-    "digital-audio-workstation",
-    "fl",
-    "fl-studio-10",
-    "fl-studio-basic",
-    "fl-studio-classic",
-    "fruity-loops"
-   ],
-   "license": null,
-   "stars": 200,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:51:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-10T08:53:54.609Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/BoulevardCandlemaker/FL-Studio",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BoulevardCandlemaker/FL-Studio/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/BoulevardCandlemaker/FL-Studio\nWhat it says it does: \"Fl Studio is an advanced digital audio workstation and sound design suite that enables users to create professional-grade music projects with ease; its...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T08:53:54.609Z"
   }
  ],
  "levels": {

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_990 guides written so far · last update 2026-10-18 21:46 UTC_
+_991 guides written so far · last update 2026-10-18 21:46 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yarnvoicedesignate/ultra-Iso](https://github.com/yarnvoicedesignate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yarnvoicedesignate/ultra-iso.md) |
 | [Caveyeidentify/Discord-Server-Cloner](https://github.com/Caveyeidentify/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caveyeidentify/discord-server-cloner.md) |
 | [Desertreflow/Imei-Repair](https://github.com/Desertreflow/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/desertreflow/imei-repair.md) |
 | [VortexCuckoo/Autodesk-Inventor](https://github.com/VortexCuckoo/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexcuckoo/autodesk-inventor.md) |
@@ -38,7 +39,6 @@ _990 guides written so far · last update 2026-10-18 21:46 UTC_
 | [SplendorCooper/ExitLag](https://github.com/SplendorCooper/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorcooper/exitlag.md) |
 | [Leonxlnx/athenaion](https://github.com/Leonxlnx/athenaion) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/athenaion.md) |
 | [SNO2207/WindowSmash](https://github.com/SNO2207/WindowSmash) | Python project | Runs in the browser with a free account | [guide](guides/sno2207/windowsmash.md) |
-| [ThresholdTortoise/KMS-Pico](https://github.com/ThresholdTortoise/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdtortoise/kms-pico.md) |
 <!-- latest:end -->
 
 ## How it works

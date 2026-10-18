@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_987 guides written so far · last update 2026-10-18 21:46 UTC_
+_988 guides written so far · last update 2026-10-18 21:46 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VortexCuckoo/Autodesk-Inventor](https://github.com/VortexCuckoo/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexcuckoo/autodesk-inventor.md) |
 | [marcus-moorelab91a4/fps-optimizer-rust](https://github.com/marcus-moorelab91a4/fps-optimizer-rust) | Python project | Runs in the browser with a free account | [guide](guides/marcus-moorelab91a4/fps-optimizer-rust.md) |
 | [nickn-eng1989k7/Fortnite-FPS-Booster-Frame-Rate-Latency-Tuning-for-Windows](https://github.com/nickn-eng1989k7/Fortnite-FPS-Booster-Frame-Rate-Latency-Tuning-for-Windows) | Python project | Runs in the browser with a free account | [guide](guides/nickn-eng1989k7/fortnite-fps-booster-frame-rate-latency-tuning-for-windows.md) |
 | [MixedShrimpVanquish/Ads-Blocker](https://github.com/MixedShrimpVanquish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixedshrimpvanquish/ads-blocker.md) |
@@ -38,7 +39,6 @@ _987 guides written so far · last update 2026-10-18 21:46 UTC_
 | [ThresholdTortoise/KMS-Pico](https://github.com/ThresholdTortoise/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdtortoise/kms-pico.md) |
 | [Vampirekyosteeple/Microsoft-Visio](https://github.com/Vampirekyosteeple/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vampirekyosteeple/microsoft-visio.md) |
 | [K0NL/B2recomp](https://github.com/K0NL/B2recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/k0nl/b2recomp.md) |
-| [fzn0x/idx](https://github.com/fzn0x/idx) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fzn0x/idx.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T00:52:26.534Z",
- "totalGuides": 932,
+ "updatedAt": "2026-10-18T00:52:26.724Z",
+ "totalGuides": 933,
  "items": [
+  {
+   "fullName": "drizzlechampionblast/DAEMON-Pro",
+   "owner": "drizzlechampionblast",
+   "name": "DAEMON-Pro",
+   "url": "https://github.com/drizzlechampionblast/DAEMON-Pro",
+   "avatar": "https://avatars.githubusercontent.com/u/291377256?v=4",
+   "description": "Daemon Pro, a professional desktop software utility configuration, is now available as a complete standalone setup for seamless operation...",
+   "language": null,
+   "topics": [
+    "daemon-2026",
+    "daemon-tools",
+    "daemon-tools-install-setup-windows-2026",
+    "daemon-tools-pro-advanced",
+    "daemon-tools-pro-vs-ultra",
+    "daemon-tools-ultra",
+    "daemon-tools-ultra-2026",
+    "daemon-tools-ultra-download"
+   ],
+   "license": null,
+   "stars": 253,
+   "forks": 0,
+   "createdAt": "2026-10-17T19:10:34Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T00:52:26.723Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/drizzlechampionblast/DAEMON-Pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/drizzlechampionblast/DAEMON-Pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/drizzlechampionblast/DAEMON-Pro\nWhat it says it does: \"Daemon Pro, a professional desktop software utility configuration, is now available as a complete standalone setup for seamless operation...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T00:52:26.723Z"
+  },
   {
    "fullName": "CyclopsGuard/Claude-Jailbreak-Prompt",
    "owner": "CyclopsGuard",
@@ -31522,63 +31579,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/zeusinsight/FinderSearch\nWhat it says it does: \"A native macOS file browser with fast fuzzy filename search, powered by fsearch.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T02:23:53.292Z"
-  },
-  {
-   "fullName": "Sandstonecharepel/SketchUp-Pro",
-   "owner": "Sandstonecharepel",
-   "name": "SketchUp-Pro",
-   "url": "https://github.com/Sandstonecharepel/SketchUp-Pro",
-   "avatar": "https://avatars.githubusercontent.com/u/292115621?v=4",
-   "description": "Enhance workflow efficiency and design precision with Sketchup Pro's robust desktop utility that meticulously streamlines complex modeling tasks to enable...",
-   "language": null,
-   "topics": [
-    "3d-modeling-software",
-    "architectural-visualization",
-    "design-pipeline",
-    "measurement-tools",
-    "premium-software",
-    "render-ready",
-    "sketch-pro-download",
-    "sketch-up"
-   ],
-   "license": null,
-   "stars": 204,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:57:05Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-09T23:09:31.902Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Sandstonecharepel/SketchUp-Pro",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Sandstonecharepel/SketchUp-Pro/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Sandstonecharepel/SketchUp-Pro\nWhat it says it does: \"Enhance workflow efficiency and design precision with Sketchup Pro's robust desktop utility that meticulously streamlines complex modeling tasks to enable...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-09T23:09:31.902Z"
   }
  ],
  "levels": {

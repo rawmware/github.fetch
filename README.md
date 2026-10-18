@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_982 guides written so far · last update 2026-10-18 19:28 UTC_
+_983 guides written so far · last update 2026-10-18 19:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StylistMultiplexer/HitFilm](https://github.com/StylistMultiplexer/HitFilm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stylistmultiplexer/hitfilm.md) |
 | [SplendorCooper/ExitLag](https://github.com/SplendorCooper/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorcooper/exitlag.md) |
 | [Leonxlnx/athenaion](https://github.com/Leonxlnx/athenaion) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/athenaion.md) |
 | [SNO2207/WindowSmash](https://github.com/SNO2207/WindowSmash) | Python project | Runs in the browser with a free account | [guide](guides/sno2207/windowsmash.md) |
@@ -38,7 +39,6 @@ _982 guides written so far · last update 2026-10-18 19:28 UTC_
 | [Domainsun/awesome-chinese-secondhand-slang](https://github.com/Domainsun/awesome-chinese-secondhand-slang) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/domainsun/awesome-chinese-secondhand-slang.md) |
 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | Node command-line tool | Runs in the browser with a free account | [guide](guides/alchaincyf/huashu-motion.md) |
 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xiaoyang111222/cn-math-taxonomy.md) |
-| [ChaosCaptain/DVD-Creator](https://github.com/ChaosCaptain/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chaoscaptain/dvd-creator.md) |
 <!-- latest:end -->
 
 ## How it works

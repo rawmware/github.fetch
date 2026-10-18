@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_959 guides written so far · last update 2026-10-18 09:55 UTC_
+_960 guides written so far · last update 2026-10-18 09:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TamaribaEmu/OpenPS2BIOS](https://github.com/TamaribaEmu/OpenPS2BIOS) | C project | Needs a real machine (or a GPU) to run | [guide](guides/tamaribaemu/openps2bios.md) |
 | [DLSS-5-Swapper-DownIoad/.github](https://github.com/DLSS-5-Swapper-DownIoad/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-downioad/.github.md) |
 | [murkantor/Project-Midas](https://github.com/murkantor/Project-Midas) | Docker app | Runs in the browser with a free account | [guide](guides/murkantor/project-midas.md) |
 | [SentryOctopusEngage/Wise-Registrity](https://github.com/SentryOctopusEngage/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sentryoctopusengage/wise-registrity.md) |
@@ -38,7 +39,6 @@ _959 guides written so far · last update 2026-10-18 09:55 UTC_
 | [Postardetach/SlideShow-Video-Maker](https://github.com/Postardetach/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/postardetach/slideshow-video-maker.md) |
 | [PureShoutRemedy/StartAll-Back](https://github.com/PureShoutRemedy/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pureshoutremedy/startall-back.md) |
 | [OverlordPrize/Power-Director](https://github.com/OverlordPrize/Power-Director) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/overlordprize/power-director.md) |
-| [lineclericcode/Microsoft-365](https://github.com/lineclericcode/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lineclericcode/microsoft-365.md) |
 <!-- latest:end -->
 
 ## How it works

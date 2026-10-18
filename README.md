@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_963 guides written so far · last update 2026-10-18 13:55 UTC_
+_964 guides written so far · last update 2026-10-18 13:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [EssenceCountCommand/Melodyne-5](https://github.com/EssenceCountCommand/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/essencecountcommand/melodyne-5.md) |
 | [CycloneSeamanQuicken/Adobe-Audition](https://github.com/CycloneSeamanQuicken/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cycloneseamanquicken/adobe-audition.md) |
 | [NobleLarvaCharge/SystemCare-Pro](https://github.com/NobleLarvaCharge/SystemCare-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/noblelarvacharge/systemcare-pro.md) |
 | [divergesoulpersist/IOBIT-Driver-Booster](https://github.com/divergesoulpersist/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/divergesoulpersist/iobit-driver-booster.md) |
@@ -38,7 +39,6 @@ _963 guides written so far · last update 2026-10-18 13:55 UTC_
 | [StoneSniperStrip/Discord-Server-Cloner](https://github.com/StoneSniperStrip/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stonesniperstrip/discord-server-cloner.md) |
 | [Panelnyastage/Reason-14](https://github.com/Panelnyastage/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/panelnyastage/reason-14.md) |
 | [psychezonequicken/SoundPad](https://github.com/psychezonequicken/SoundPad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/psychezonequicken/soundpad.md) |
-| [PolygonOceanNote/SketchUp-Pro](https://github.com/PolygonOceanNote/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polygonoceannote/sketchup-pro.md) |
 <!-- latest:end -->
 
 ## How it works

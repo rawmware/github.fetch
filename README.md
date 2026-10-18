@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_946 guides written so far · last update 2026-10-18 05:43 UTC_
+_947 guides written so far · last update 2026-10-18 05:43 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Nestsarecall/Ozone-12-Advanced](https://github.com/Nestsarecall/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nestsarecall/ozone-12-advanced.md) |
 | [Smashflefurnish/CorelDraw](https://github.com/Smashflefurnish/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smashflefurnish/coreldraw.md) |
 | [OriginOstrichSignify/Photo-Commander](https://github.com/OriginOstrichSignify/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/originostrichsignify/photo-commander.md) |
 | [Shardgrureduce/Wondshare-Recoverit](https://github.com/Shardgrureduce/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shardgrureduce/wondshare-recoverit.md) |
@@ -38,7 +39,6 @@ _946 guides written so far · last update 2026-10-18 05:43 UTC_
 | [Maroonplocord/Movavi-Converter](https://github.com/Maroonplocord/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/maroonplocord/movavi-converter.md) |
 | [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gathin23/tv-vibehack.md) |
 | [GammaServicePlaza/Display-Fusion](https://github.com/GammaServicePlaza/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gammaserviceplaza/display-fusion.md) |
-| [EnchanterOrbit/Designcenter-NX](https://github.com/EnchanterOrbit/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchanterorbit/designcenter-nx.md) |
 <!-- latest:end -->
 
 ## How it works

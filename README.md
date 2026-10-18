@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_965 guides written so far · last update 2026-10-18 13:55 UTC_
+_966 guides written so far · last update 2026-10-18 13:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [prismmizukageconquer/Windows-Optimizer](https://github.com/prismmizukageconquer/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismmizukageconquer/windows-optimizer.md) |
 | [bandwatchmanriddle/Clion](https://github.com/bandwatchmanriddle/Clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bandwatchmanriddle/clion.md) |
 | [EssenceCountCommand/Melodyne-5](https://github.com/EssenceCountCommand/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/essencecountcommand/melodyne-5.md) |
 | [CycloneSeamanQuicken/Adobe-Audition](https://github.com/CycloneSeamanQuicken/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cycloneseamanquicken/adobe-audition.md) |
@@ -38,7 +39,6 @@ _965 guides written so far · last update 2026-10-18 13:55 UTC_
 | [SentryOctopusEngage/Wise-Registrity](https://github.com/SentryOctopusEngage/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sentryoctopusengage/wise-registrity.md) |
 | [RiggerVitalize/Uttorent](https://github.com/RiggerVitalize/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/riggervitalize/uttorent.md) |
 | [StoneSniperStrip/Discord-Server-Cloner](https://github.com/StoneSniperStrip/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stonesniperstrip/discord-server-cloner.md) |
-| [Panelnyastage/Reason-14](https://github.com/Panelnyastage/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/panelnyastage/reason-14.md) |
 <!-- latest:end -->
 
 ## How it works

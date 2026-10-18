@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_978 guides written so far · last update 2026-10-18 17:15 UTC_
+_979 guides written so far · last update 2026-10-18 17:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ThresholdTortoise/KMS-Pico](https://github.com/ThresholdTortoise/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdtortoise/kms-pico.md) |
 | [Vampirekyosteeple/Microsoft-Visio](https://github.com/Vampirekyosteeple/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vampirekyosteeple/microsoft-visio.md) |
 | [K0NL/B2recomp](https://github.com/K0NL/B2recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/k0nl/b2recomp.md) |
 | [fzn0x/idx](https://github.com/fzn0x/idx) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fzn0x/idx.md) |
@@ -38,7 +39,6 @@ _978 guides written so far · last update 2026-10-18 17:15 UTC_
 | [ArenaMotorman/Canva-Pro](https://github.com/ArenaMotorman/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arenamotorman/canva-pro.md) |
 | [Icontainertia/Adobe-Substance-3d](https://github.com/Icontainertia/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/icontainertia/adobe-substance-3d.md) |
 | [DegreeSeniorExcite33/IDM](https://github.com/DegreeSeniorExcite33/IDM) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/degreeseniorexcite33/idm.md) |
-| [Surfacepleblock/Autodesk-CFD](https://github.com/Surfacepleblock/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacepleblock/autodesk-cfd.md) |
 <!-- latest:end -->
 
 ## How it works

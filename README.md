@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_968 guides written so far · last update 2026-10-18 13:55 UTC_
+_969 guides written so far · last update 2026-10-18 13:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Icontainertia/Adobe-Substance-3d](https://github.com/Icontainertia/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/icontainertia/adobe-substance-3d.md) |
 | [DegreeSeniorExcite33/IDM](https://github.com/DegreeSeniorExcite33/IDM) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/degreeseniorexcite33/idm.md) |
 | [Surfacepleblock/Autodesk-CFD](https://github.com/Surfacepleblock/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacepleblock/autodesk-cfd.md) |
 | [prismmizukageconquer/Windows-Optimizer](https://github.com/prismmizukageconquer/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismmizukageconquer/windows-optimizer.md) |
@@ -38,7 +39,6 @@ _968 guides written so far · last update 2026-10-18 13:55 UTC_
 | [TamaribaEmu/OpenPS2BIOS](https://github.com/TamaribaEmu/OpenPS2BIOS) | C project | Needs a real machine (or a GPU) to run | [guide](guides/tamaribaemu/openps2bios.md) |
 | [DLSS-5-Swapper-DownIoad/.github](https://github.com/DLSS-5-Swapper-DownIoad/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-downioad/.github.md) |
 | [murkantor/Project-Midas](https://github.com/murkantor/Project-Midas) | Docker app | Runs in the browser with a free account | [guide](guides/murkantor/project-midas.md) |
-| [SentryOctopusEngage/Wise-Registrity](https://github.com/SentryOctopusEngage/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sentryoctopusengage/wise-registrity.md) |
 <!-- latest:end -->
 
 ## How it works

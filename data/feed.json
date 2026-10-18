@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T13:55:08.848Z",
- "totalGuides": 968,
+ "updatedAt": "2026-10-18T13:55:09.014Z",
+ "totalGuides": 969,
  "items": [
+  {
+   "fullName": "Icontainertia/Adobe-Substance-3d",
+   "owner": "Icontainertia",
+   "name": "Adobe-Substance-3d",
+   "url": "https://github.com/Icontainertia/Adobe-Substance-3d",
+   "avatar": "https://avatars.githubusercontent.com/u/292115675?v=4",
+   "description": "Creative Studio App 2026 – Full working installer with enhanced security protocols for secure digital asset deployment.",
+   "language": null,
+   "topics": [
+    "substance",
+    "substance-3d",
+    "substance-3d-painter",
+    "substance-abuse",
+    "substance-designer",
+    "substance-designer-allegorithmic",
+    "substance-painter",
+    "substance-use"
+   ],
+   "license": null,
+   "stars": 97,
+   "forks": 0,
+   "createdAt": "2026-10-18T09:59:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T13:55:09.013Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Icontainertia/Adobe-Substance-3d",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Icontainertia/Adobe-Substance-3d/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Icontainertia/Adobe-Substance-3d\nWhat it says it does: \"Creative Studio App 2026 – Full working installer with enhanced security protocols for secure digital asset deployment.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T13:55:09.013Z"
+  },
   {
    "fullName": "DegreeSeniorExcite33/IDM",
    "owner": "DegreeSeniorExcite33",
@@ -31409,63 +31466,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/marclou/mailcheap\nWhat it says it does: \"Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T15:13:43.652Z"
-  },
-  {
-   "fullName": "Ninjaclaplunder36/AnyDesk",
-   "owner": "Ninjaclaplunder36",
-   "name": "AnyDesk",
-   "url": "https://github.com/Ninjaclaplunder36/AnyDesk",
-   "avatar": "https://avatars.githubusercontent.com/u/292108234?v=4",
-   "description": "Anydesk optimizes your professional desktop environment by providing a streamlined utility that simplifies complex configurations and enhances overall...",
-   "language": null,
-   "topics": [
-    "ai-employees",
-    "anydesk-alternative",
-    "anydesk-api",
-    "anydesk-config",
-    "anydesk-integration",
-    "anydesk-latest",
-    "anydesk-portable",
-    "remote-attendance-tool"
-   ],
-   "license": null,
-   "stars": 119,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:44:56Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-10T15:13:43.399Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Ninjaclaplunder36/AnyDesk",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Ninjaclaplunder36/AnyDesk/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Ninjaclaplunder36/AnyDesk\nWhat it says it does: \"Anydesk optimizes your professional desktop environment by providing a streamlined utility that simplifies complex configurations and enhances overall...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T15:13:43.399Z"
   }
  ],
  "levels": {

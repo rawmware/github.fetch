@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-18T17:15:10.206Z",
- "totalGuides": 977,
+ "updatedAt": "2026-10-18T17:15:10.432Z",
+ "totalGuides": 978,
  "items": [
+  {
+   "fullName": "Vampirekyosteeple/Microsoft-Visio",
+   "owner": "Vampirekyosteeple",
+   "name": "Microsoft-Visio",
+   "url": "https://github.com/Vampirekyosteeple/Microsoft-Visio",
+   "avatar": "https://avatars.githubusercontent.com/u/296682809?v=4",
+   "description": "Microsoft Visio Professional 2025: Complete standalone setup, fully activated for immediate use on your desktop.",
+   "language": null,
+   "topics": [
+    "bentley-microstation-install-setup-windows-2026",
+    "diagram-software",
+    "infrastructure-design",
+    "microsoft-visio",
+    "microsoft-visio-2026",
+    "microsoft-visio-pro",
+    "microstation",
+    "microstation-2026"
+   ],
+   "license": null,
+   "stars": 97,
+   "forks": 0,
+   "createdAt": "2026-10-18T14:06:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-18T17:15:10.432Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Vampirekyosteeple/Microsoft-Visio",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Vampirekyosteeple/Microsoft-Visio/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Vampirekyosteeple/Microsoft-Visio\nWhat it says it does: \"Microsoft Visio Professional 2025: Complete standalone setup, fully activated for immediate use on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-18T17:15:10.432Z"
+  },
   {
    "fullName": "K0NL/B2recomp",
    "owner": "K0NL",
@@ -31426,69 +31483,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/n1tr00-10/tiktok-web-signature\nWhat it says it does: \"tiktok web signature reverse engineer generates valid tiktok signatures for API requets\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-10T19:19:45.791Z"
-  },
-  {
-   "fullName": "hubdragonminaret/VoiceMod",
-   "owner": "hubdragonminaret",
-   "name": "VoiceMod",
-   "url": "https://github.com/hubdragonminaret/VoiceMod",
-   "avatar": "https://avatars.githubusercontent.com/u/292115877?v=4",
-   "description": "Voicemod optimizes desktop software utilities with a unique configuration system that streamlines workflow and enhances overall performance without using...",
-   "language": null,
-   "topics": [
-    "aivoicechanger",
-    "gaming-utilities",
-    "how-to-install-voicemod-pro",
-    "voice-mod-github",
-    "voicemod-2026",
-    "voicemod-2026-crack",
-    "voicemod-2026-cracked",
-    "voicemod-2026-free"
-   ],
-   "license": null,
-   "stars": 103,
-   "forks": 0,
-   "createdAt": "2026-10-09T19:43:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-10T15:13:45.193Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/hubdragonminaret/VoiceMod",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/hubdragonminaret/VoiceMod/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/hubdragonminaret/VoiceMod\nWhat it says it does: \"Voicemod optimizes desktop software utilities with a unique configuration system that streamlines workflow and enhances overall performance without using...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-10T15:13:45.193Z"
   }
  ],
  "levels": {
+  "read": 135,
   "heavy": 106,
   "account": 226,
-  "read": 135,
   "instant": 33
  }
 }

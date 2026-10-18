@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_957 guides written so far · last update 2026-10-18 09:55 UTC_
+_958 guides written so far · last update 2026-10-18 09:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [murkantor/Project-Midas](https://github.com/murkantor/Project-Midas) | Docker app | Runs in the browser with a free account | [guide](guides/murkantor/project-midas.md) |
 | [SentryOctopusEngage/Wise-Registrity](https://github.com/SentryOctopusEngage/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sentryoctopusengage/wise-registrity.md) |
 | [RiggerVitalize/Uttorent](https://github.com/RiggerVitalize/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/riggervitalize/uttorent.md) |
 | [StoneSniperStrip/Discord-Server-Cloner](https://github.com/StoneSniperStrip/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stonesniperstrip/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _957 guides written so far · last update 2026-10-18 09:55 UTC_
 | [OverlordPrize/Power-Director](https://github.com/OverlordPrize/Power-Director) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/overlordprize/power-director.md) |
 | [lineclericcode/Microsoft-365](https://github.com/lineclericcode/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lineclericcode/microsoft-365.md) |
 | [Nestsarecall/Ozone-12-Advanced](https://github.com/Nestsarecall/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nestsarecall/ozone-12-advanced.md) |
-| [Smashflefurnish/CorelDraw](https://github.com/Smashflefurnish/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smashflefurnish/coreldraw.md) |
 <!-- latest:end -->
 
 ## How it works

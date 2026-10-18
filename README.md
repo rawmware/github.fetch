@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_949 guides written so far · last update 2026-10-18 05:43 UTC_
+_950 guides written so far · last update 2026-10-18 09:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PureShoutRemedy/StartAll-Back](https://github.com/PureShoutRemedy/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pureshoutremedy/startall-back.md) |
 | [OverlordPrize/Power-Director](https://github.com/OverlordPrize/Power-Director) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/overlordprize/power-director.md) |
 | [lineclericcode/Microsoft-365](https://github.com/lineclericcode/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lineclericcode/microsoft-365.md) |
 | [Nestsarecall/Ozone-12-Advanced](https://github.com/Nestsarecall/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nestsarecall/ozone-12-advanced.md) |
@@ -38,7 +39,6 @@ _949 guides written so far · last update 2026-10-18 05:43 UTC_
 | [PaintManager/Quicken-Deluxe](https://github.com/PaintManager/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/paintmanager/quicken-deluxe.md) |
 | [NoviceAdjust19/PH-Downloader](https://github.com/NoviceAdjust19/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/noviceadjust19/ph-downloader.md) |
 | [Metropolisioretreat/Movavi-Screen-Recorder](https://github.com/Metropolisioretreat/Movavi-Screen-Recorder) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metropolisioretreat/movavi-screen-recorder.md) |
-| [Maroonplocord/Movavi-Converter](https://github.com/Maroonplocord/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/maroonplocord/movavi-converter.md) |
 <!-- latest:end -->
 
 ## How it works

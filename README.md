@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_955 guides written so far · last update 2026-10-18 09:55 UTC_
+_956 guides written so far · last update 2026-10-18 09:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RiggerVitalize/Uttorent](https://github.com/RiggerVitalize/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/riggervitalize/uttorent.md) |
 | [StoneSniperStrip/Discord-Server-Cloner](https://github.com/StoneSniperStrip/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stonesniperstrip/discord-server-cloner.md) |
 | [Panelnyastage/Reason-14](https://github.com/Panelnyastage/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/panelnyastage/reason-14.md) |
 | [psychezonequicken/SoundPad](https://github.com/psychezonequicken/SoundPad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/psychezonequicken/soundpad.md) |
@@ -38,7 +39,6 @@ _955 guides written so far · last update 2026-10-18 09:55 UTC_
 | [Nestsarecall/Ozone-12-Advanced](https://github.com/Nestsarecall/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nestsarecall/ozone-12-advanced.md) |
 | [Smashflefurnish/CorelDraw](https://github.com/Smashflefurnish/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smashflefurnish/coreldraw.md) |
 | [OriginOstrichSignify/Photo-Commander](https://github.com/OriginOstrichSignify/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/originostrichsignify/photo-commander.md) |
-| [Shardgrureduce/Wondshare-Recoverit](https://github.com/Shardgrureduce/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shardgrureduce/wondshare-recoverit.md) |
 <!-- latest:end -->
 
 ## How it works

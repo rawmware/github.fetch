@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T14:34:50.216Z",
- "totalGuides": 1020,
+ "updatedAt": "2026-10-19T14:34:50.409Z",
+ "totalGuides": 1021,
  "items": [
+  {
+   "fullName": "stadiummidgeguide41/for-everyone",
+   "owner": "stadiummidgeguide41",
+   "name": "for-everyone",
+   "url": "https://github.com/stadiummidgeguide41/for-everyone",
+   "avatar": "https://avatars.githubusercontent.com/u/295650320?v=4",
+   "description": "After Effects: Full working installer with secure digital asset deployment pipeline, ready for immediate use.",
+   "language": null,
+   "topics": [
+    "adobe-after-effects",
+    "adobe-after-effects-for-windows",
+    "after-effects",
+    "after-effects-3d-animation-tools",
+    "after-effects-features",
+    "after-effects-free-24",
+    "after-effects-plugin",
+    "after-effects-plugin-ai"
+   ],
+   "license": null,
+   "stars": 115,
+   "forks": 0,
+   "createdAt": "2026-10-19T10:52:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T14:34:50.408Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/stadiummidgeguide41/for-everyone",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/stadiummidgeguide41/for-everyone/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/stadiummidgeguide41/for-everyone\nWhat it says it does: \"After Effects: Full working installer with secure digital asset deployment pipeline, ready for immediate use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T14:34:50.408Z"
+  },
   {
    "fullName": "horncanaryinterest93/BorisFX",
    "owner": "horncanaryinterest93",
@@ -31306,62 +31363,6 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/storytold/filmcraft\nWhat it says it does: \"An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T07:53:08.203Z"
-  },
-  {
-   "fullName": "RingLegislator/Claude-Jailbreak-Prompt",
-   "owner": "RingLegislator",
-   "name": "Claude-Jailbreak-Prompt",
-   "url": "https://github.com/RingLegislator/Claude-Jailbreak-Prompt",
-   "avatar": "https://avatars.githubusercontent.com/u/292111515?v=4",
-   "description": "Enables AI-driven prompt engineering solutions without any association to Apple products or mobile device hacking.",
-   "language": null,
-   "topics": [
-    "claude-jailbreak-2026",
-    "claude-jailbreak-3-5-sonnet",
-    "claude-jailbreak-opus",
-    "claude-jailbreak-sonnet",
-    "get-claude-jailbreak-free",
-    "jailbreak-claude-ai",
-    "jailbreak-testing"
-   ],
-   "license": null,
-   "stars": 98,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:48:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-11T07:53:08.064Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/RingLegislator/Claude-Jailbreak-Prompt",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/RingLegislator/Claude-Jailbreak-Prompt/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/RingLegislator/Claude-Jailbreak-Prompt\nWhat it says it does: \"Enables AI-driven prompt engineering solutions without any association to Apple products or mobile device hacking.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T07:53:08.064Z"
   }
  ],
  "levels": {

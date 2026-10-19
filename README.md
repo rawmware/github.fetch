@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1011 guides written so far · last update 2026-10-19 06:59 UTC_
+_1012 guides written so far · last update 2026-10-19 06:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [outerashcable97/AnyDesk](https://github.com/outerashcable97/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/outerashcable97/anydesk.md) |
 | [SwiftLarkClamp/AOMEI-Backupper](https://github.com/SwiftLarkClamp/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swiftlarkclamp/aomei-backupper.md) |
 | [ShopkeeperMystery/Cubase](https://github.com/ShopkeeperMystery/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shopkeepermystery/cubase.md) |
 | [VectorDestroyerTomb/Nero-Platinum](https://github.com/VectorDestroyerTomb/Nero-Platinum) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vectordestroyertomb/nero-platinum.md) |
@@ -38,7 +39,6 @@ _1011 guides written so far · last update 2026-10-19 06:59 UTC_
 | [kanaworksai-hue/audio-studio-mcp](https://github.com/kanaworksai-hue/audio-studio-mcp) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kanaworksai-hue/audio-studio-mcp.md) |
 | [RogueDonorGraph/BorisFX](https://github.com/RogueDonorGraph/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roguedonorgraph/borisfx.md) |
 | [VaultAssurance/PHP-Storm](https://github.com/VaultAssurance/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vaultassurance/php-storm.md) |
-| [PlanetPhaseRaid/VoiceMod](https://github.com/PlanetPhaseRaid/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetphaseraid/voicemod.md) |
 <!-- latest:end -->
 
 ## How it works

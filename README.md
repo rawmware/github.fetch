@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1038 guides written so far · last update 2026-10-19 20:14 UTC_
+_1039 guides written so far · last update 2026-10-19 20:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DeanOpen/MacViewer](https://github.com/DeanOpen/MacViewer) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/deanopen/macviewer.md) |
 | [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andreszymanski15/ai-jailbreaks.md) |
 | [bitwarden-app312/.gitp3d](https://github.com/bitwarden-app312/.gitp3d) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/bitwarden-app312/.gitp3d.md) |
 | [longbridge/nsh](https://github.com/longbridge/nsh) | Rust project | Runs in the browser with a free account | [guide](guides/longbridge/nsh.md) |
@@ -38,7 +39,6 @@ _1038 guides written so far · last update 2026-10-19 20:14 UTC_
 | [sandsheriffbeat/Cinebench](https://github.com/sandsheriffbeat/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandsheriffbeat/cinebench.md) |
 | [BandProtector/Instagram-Growth-Tools-2026](https://github.com/BandProtector/Instagram-Growth-Tools-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bandprotector/instagram-growth-tools-2026.md) |
 | [Digitalvetrough/Forza-Horizon-6-FPS-Optimizer-2026](https://github.com/Digitalvetrough/Forza-Horizon-6-FPS-Optimizer-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/digitalvetrough/forza-horizon-6-fps-optimizer-2026.md) |
-| [TownFletcherEstimate/Minecraft-PvP-Helper-2026](https://github.com/TownFletcherEstimate/Minecraft-PvP-Helper-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/townfletcherestimate/minecraft-pvp-helper-2026.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_995 guides written so far · last update 2026-10-19 01:48 UTC_
+_996 guides written so far · last update 2026-10-19 01:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [llamaboi55/DragShift](https://github.com/llamaboi55/DragShift) | Python project | Runs in the browser with a free account | [guide](guides/llamaboi55/dragshift.md) |
 | [justrach/nanoui](https://github.com/justrach/nanoui) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanoui.md) |
 | [Agent2API/agent2api](https://github.com/Agent2API/agent2api) | JavaScript project | Runs in the browser with a free account | [guide](guides/agent2api/agent2api.md) |
 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/ansub/tv-detox.md) |
@@ -38,7 +39,6 @@ _995 guides written so far · last update 2026-10-19 01:48 UTC_
 | [marcus-moorelab91a4/fps-optimizer-rust](https://github.com/marcus-moorelab91a4/fps-optimizer-rust) | Python project | Runs in the browser with a free account | [guide](guides/marcus-moorelab91a4/fps-optimizer-rust.md) |
 | [nickn-eng1989k7/Fortnite-FPS-Booster-Frame-Rate-Latency-Tuning-for-Windows](https://github.com/nickn-eng1989k7/Fortnite-FPS-Booster-Frame-Rate-Latency-Tuning-for-Windows) | Python project | Runs in the browser with a free account | [guide](guides/nickn-eng1989k7/fortnite-fps-booster-frame-rate-latency-tuning-for-windows.md) |
 | [MixedShrimpVanquish/Ads-Blocker](https://github.com/MixedShrimpVanquish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixedshrimpvanquish/ads-blocker.md) |
-| [squareswimmeryell/Easy-Worship](https://github.com/squareswimmeryell/Easy-Worship) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/squareswimmeryell/easy-worship.md) |
 <!-- latest:end -->
 
 ## How it works

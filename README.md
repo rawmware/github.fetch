@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1031 guides written so far · last update 2026-10-19 14:34 UTC_
+_1032 guides written so far · last update 2026-10-19 14:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/licincan/blender-ai-mcp-addon.md) |
 | [DustinYe/gesture-media-controller](https://github.com/DustinYe/gesture-media-controller) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/dustinye/gesture-media-controller.md) |
 | [sandsheriffbeat/Cinebench](https://github.com/sandsheriffbeat/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandsheriffbeat/cinebench.md) |
 | [BandProtector/Instagram-Growth-Tools-2026](https://github.com/BandProtector/Instagram-Growth-Tools-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bandprotector/instagram-growth-tools-2026.md) |
@@ -38,7 +39,6 @@ _1031 guides written so far · last update 2026-10-19 14:34 UTC_
 | [soniciso1/ps5-linux-loader](https://github.com/soniciso1/ps5-linux-loader) | C project | Needs a real machine (or a GPU) to run | [guide](guides/soniciso1/ps5-linux-loader.md) |
 | [soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny) | JavaScript project | Runs in the browser with a free account | [guide](guides/soumatheusgomes/editonny.md) |
 | [stadiummidgeguide41/for-everyone](https://github.com/stadiummidgeguide41/for-everyone) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stadiummidgeguide41/for-everyone.md) |
-| [horncanaryinterest93/BorisFX](https://github.com/horncanaryinterest93/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/horncanaryinterest93/borisfx.md) |
 <!-- latest:end -->
 
 ## How it works

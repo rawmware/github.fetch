@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_998 guides written so far · last update 2026-10-19 01:48 UTC_
+_999 guides written so far · last update 2026-10-19 01:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Eastmuamplify/Kontakt-8](https://github.com/Eastmuamplify/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eastmuamplify/kontakt-8.md) |
 | [oillovebirdbuild/Total-Commander](https://github.com/oillovebirdbuild/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oillovebirdbuild/total-commander.md) |
 | [Surfacenoexist/IBM-SPSS](https://github.com/Surfacenoexist/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacenoexist/ibm-spss.md) |
 | [llamaboi55/DragShift](https://github.com/llamaboi55/DragShift) | Python project | Runs in the browser with a free account | [guide](guides/llamaboi55/dragshift.md) |
@@ -38,7 +39,6 @@ _998 guides written so far · last update 2026-10-19 01:48 UTC_
 | [Caveyeidentify/Discord-Server-Cloner](https://github.com/Caveyeidentify/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caveyeidentify/discord-server-cloner.md) |
 | [Desertreflow/Imei-Repair](https://github.com/Desertreflow/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/desertreflow/imei-repair.md) |
 | [VortexCuckoo/Autodesk-Inventor](https://github.com/VortexCuckoo/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexcuckoo/autodesk-inventor.md) |
-| [marcus-moorelab91a4/fps-optimizer-rust](https://github.com/marcus-moorelab91a4/fps-optimizer-rust) | Python project | Runs in the browser with a free account | [guide](guides/marcus-moorelab91a4/fps-optimizer-rust.md) |
 <!-- latest:end -->
 
 ## How it works

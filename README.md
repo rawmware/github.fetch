@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1008 guides written so far · last update 2026-10-19 06:59 UTC_
+_1009 guides written so far · last update 2026-10-19 06:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VectorDestroyerTomb/Nero-Platinum](https://github.com/VectorDestroyerTomb/Nero-Platinum) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vectordestroyertomb/nero-platinum.md) |
 | [RopemakerCoil/Burning-Studio](https://github.com/RopemakerCoil/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ropemakercoil/burning-studio.md) |
 | [Stringkidoor/Glary-Utilities-Pro](https://github.com/Stringkidoor/Glary-Utilities-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stringkidoor/glary-utilities-pro.md) |
 | [wirecrewmankiln/Serato-DJ-Pro](https://github.com/wirecrewmankiln/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wirecrewmankiln/serato-dj-pro.md) |
@@ -38,7 +39,6 @@ _1008 guides written so far · last update 2026-10-19 06:59 UTC_
 | [PlanetPhaseRaid/VoiceMod](https://github.com/PlanetPhaseRaid/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetphaseraid/voicemod.md) |
 | [Eastmuamplify/Kontakt-8](https://github.com/Eastmuamplify/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eastmuamplify/kontakt-8.md) |
 | [oillovebirdbuild/Total-Commander](https://github.com/oillovebirdbuild/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oillovebirdbuild/total-commander.md) |
-| [Surfacenoexist/IBM-SPSS](https://github.com/Surfacenoexist/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacenoexist/ibm-spss.md) |
 <!-- latest:end -->
 
 ## How it works

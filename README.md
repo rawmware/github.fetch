@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1046 guides written so far · last update 2026-10-19 20:15 UTC_
+_1047 guides written so far · last update 2026-10-19 20:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jddevtime/open-lakehouse-compute-fabric](https://github.com/jddevtime/open-lakehouse-compute-fabric) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/jddevtime/open-lakehouse-compute-fabric.md) |
 | [songshikang0111/awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | Python project | Runs in the browser with a free account | [guide](guides/songshikang0111/awesome-rea-cases.md) |
 | [antfu/furifont](https://github.com/antfu/furifont) | Vite app | Runs in the browser with a free account | [guide](guides/antfu/furifont.md) |
 | [kitlangton/scrawl](https://github.com/kitlangton/scrawl) | Rust project | Runs in the browser with a free account | [guide](guides/kitlangton/scrawl.md) |
@@ -38,7 +39,6 @@ _1046 guides written so far · last update 2026-10-19 20:15 UTC_
 | [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andreszymanski15/ai-jailbreaks.md) |
 | [bitwarden-app312/.gitp3d](https://github.com/bitwarden-app312/.gitp3d) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/bitwarden-app312/.gitp3d.md) |
 | [longbridge/nsh](https://github.com/longbridge/nsh) | Rust project | Runs in the browser with a free account | [guide](guides/longbridge/nsh.md) |
-| [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet) | Python project | Runs in the browser with a free account | [guide](guides/dipa-studio/ios-sweet.md) |
 <!-- latest:end -->
 
 ## How it works

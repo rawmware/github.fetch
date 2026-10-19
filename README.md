@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1000 guides written so far · last update 2026-10-19 01:48 UTC_
+_1001 guides written so far · last update 2026-10-19 01:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VaultAssurance/PHP-Storm](https://github.com/VaultAssurance/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vaultassurance/php-storm.md) |
 | [PlanetPhaseRaid/VoiceMod](https://github.com/PlanetPhaseRaid/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetphaseraid/voicemod.md) |
 | [Eastmuamplify/Kontakt-8](https://github.com/Eastmuamplify/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eastmuamplify/kontakt-8.md) |
 | [oillovebirdbuild/Total-Commander](https://github.com/oillovebirdbuild/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oillovebirdbuild/total-commander.md) |
@@ -38,7 +39,6 @@ _1000 guides written so far · last update 2026-10-19 01:48 UTC_
 | [interplains/zero-breach](https://github.com/interplains/zero-breach) | Python project | Runs in the browser with a free account | [guide](guides/interplains/zero-breach.md) |
 | [yarnvoicedesignate/ultra-Iso](https://github.com/yarnvoicedesignate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yarnvoicedesignate/ultra-iso.md) |
 | [Caveyeidentify/Discord-Server-Cloner](https://github.com/Caveyeidentify/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caveyeidentify/discord-server-cloner.md) |
-| [Desertreflow/Imei-Repair](https://github.com/Desertreflow/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/desertreflow/imei-repair.md) |
 <!-- latest:end -->
 
 ## How it works

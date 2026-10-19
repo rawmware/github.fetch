@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1026 guides written so far · last update 2026-10-19 14:34 UTC_
+_1027 guides written so far · last update 2026-10-19 14:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TownFletcherEstimate/Minecraft-PvP-Helper-2026](https://github.com/TownFletcherEstimate/Minecraft-PvP-Helper-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/townfletcherestimate/minecraft-pvp-helper-2026.md) |
 | [iha2/superlite](https://github.com/iha2/superlite) | JavaScript project | Runs in the browser with a free account | [guide](guides/iha2/superlite.md) |
 | [nichochar/ari](https://github.com/nichochar/ari) | Vite app | Runs in a browser tab, no account needed | [guide](guides/nichochar/ari.md) |
 | [realskyrin/ns-game-apple-arm-port](https://github.com/realskyrin/ns-game-apple-arm-port) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/realskyrin/ns-game-apple-arm-port.md) |
@@ -38,7 +39,6 @@ _1026 guides written so far · last update 2026-10-19 14:34 UTC_
 | [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mihirgupta0900/tv-home.md) |
 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gathin23/cleanyourtv.md) |
 | [tilescreenchamber30/Microsoft-Office](https://github.com/tilescreenchamber30/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tilescreenchamber30/microsoft-office.md) |
-| [SwiftTurtleFlourish/Instagram-Liker-Bot](https://github.com/SwiftTurtleFlourish/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swiftturtleflourish/instagram-liker-bot.md) |
 <!-- latest:end -->
 
 ## How it works

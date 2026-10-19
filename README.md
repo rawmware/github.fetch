@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1021 guides written so far · last update 2026-10-19 14:34 UTC_
+_1022 guides written so far · last update 2026-10-19 14:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny) | JavaScript project | Runs in the browser with a free account | [guide](guides/soumatheusgomes/editonny.md) |
 | [stadiummidgeguide41/for-everyone](https://github.com/stadiummidgeguide41/for-everyone) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stadiummidgeguide41/for-everyone.md) |
 | [horncanaryinterest93/BorisFX](https://github.com/horncanaryinterest93/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/horncanaryinterest93/borisfx.md) |
 | [joeseesun/lexfridman-cn](https://github.com/joeseesun/lexfridman-cn) | HTML project | Runs in the browser with a free account | [guide](guides/joeseesun/lexfridman-cn.md) |
@@ -38,7 +39,6 @@ _1021 guides written so far · last update 2026-10-19 14:34 UTC_
 | [silverindustrialgap/Auslogics](https://github.com/silverindustrialgap/Auslogics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/silverindustrialgap/auslogics.md) |
 | [outerashcable97/AnyDesk](https://github.com/outerashcable97/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/outerashcable97/anydesk.md) |
 | [SwiftLarkClamp/AOMEI-Backupper](https://github.com/SwiftLarkClamp/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swiftlarkclamp/aomei-backupper.md) |
-| [ShopkeeperMystery/Cubase](https://github.com/ShopkeeperMystery/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shopkeepermystery/cubase.md) |
 <!-- latest:end -->
 
 ## How it works

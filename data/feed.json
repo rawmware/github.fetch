@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T06:59:01.715Z",
- "totalGuides": 1003,
+ "updatedAt": "2026-10-19T06:59:02.063Z",
+ "totalGuides": 1004,
  "items": [
+  {
+   "fullName": "finereli/whatsapp-mcp",
+   "owner": "finereli",
+   "name": "whatsapp-mcp",
+   "url": "https://github.com/finereli/whatsapp-mcp",
+   "avatar": "https://avatars.githubusercontent.com/u/816821?v=4",
+   "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 131,
+   "forks": 10,
+   "createdAt": "2026-10-18T21:01:54Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T06:59:02.062Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/finereli/whatsapp-mcp",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/finereli/whatsapp-mcp",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/finereli/whatsapp-mcp?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/finereli/whatsapp-mcp",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/finereli/whatsapp-mcp/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/finereli/whatsapp-mcp.git\ncd whatsapp-mcp\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/finereli/whatsapp-mcp\nWhat it says it does: \"A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T06:59:02.062Z"
+  },
   {
    "fullName": "kanaworksai-hue/audio-studio-mcp",
    "owner": "kanaworksai-hue",
@@ -31250,69 +31319,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/eternalkaisercraft45/Adobe-Photoshop\nWhat it says it does: \"Adobe Photoshop: A comprehensive desktop application that facilitates professional digital image editing and manipulation tasks with unparalleled precision.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T01:47:12.572Z"
-  },
-  {
-   "fullName": "EmirOvercome/Adobe-After-Effects",
-   "owner": "EmirOvercome",
-   "name": "Adobe-After-Effects",
-   "url": "https://github.com/EmirOvercome/Adobe-After-Effects",
-   "avatar": "https://avatars.githubusercontent.com/u/292114641?v=4",
-   "description": "Revolutionize video projects with this advanced post-production plugin solution that seamlessly integrates screen recording and VFX capabilities into a...",
-   "language": null,
-   "topics": [
-    "adobe-after-effects",
-    "adobe-after-effects-for-windows",
-    "after-effects",
-    "after-effects-3d-animation-tools",
-    "after-effects-features",
-    "after-effects-plugins-windows",
-    "after-effects-toolkit",
-    "plugins-after-effects"
-   ],
-   "license": null,
-   "stars": 101,
-   "forks": 0,
-   "createdAt": "2026-10-09T19:43:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-11T01:47:12.391Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/EmirOvercome/Adobe-After-Effects",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/EmirOvercome/Adobe-After-Effects/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/EmirOvercome/Adobe-After-Effects\nWhat it says it does: \"Revolutionize video projects with this advanced post-production plugin solution that seamlessly integrates screen recording and VFX capabilities into a...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T01:47:12.391Z"
   }
  ],
  "levels": {
+  "instant": 32,
   "heavy": 101,
-  "read": 148,
-  "account": 220,
-  "instant": 31
+  "read": 147,
+  "account": 220
  }
 }

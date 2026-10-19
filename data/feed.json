@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T20:15:02.156Z",
- "totalGuides": 1048,
+ "updatedAt": "2026-10-19T20:15:02.314Z",
+ "totalGuides": 1049,
  "items": [
+  {
+   "fullName": "TonF1917/claude-desktop-multiple-windows-different-api",
+   "owner": "TonF1917",
+   "name": "claude-desktop-multiple-windows-different-api",
+   "url": "https://github.com/TonF1917/claude-desktop-multiple-windows-different-api",
+   "avatar": "https://avatars.githubusercontent.com/u/266329044?v=4",
+   "description": "Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom / third-party APIs (cc-switch). Windows. 多开 Claude Desktop,多个窗口同时使用不同 API(官方订阅 + 第三方 API 同时工作)。",
+   "language": "PowerShell",
+   "topics": [
+    "anthropic",
+    "api-switcher",
+    "cc-switch",
+    "claude",
+    "claude-code",
+    "claude-desktop",
+    "custom-api",
+    "different-api"
+   ],
+   "license": "MIT",
+   "stars": 265,
+   "forks": 10,
+   "createdAt": "2026-10-14T11:42:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T20:15:02.313Z",
+   "stack": {
+    "kind": "other",
+    "label": "PowerShell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/TonF1917/claude-desktop-multiple-windows-different-api?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/TonF1917/claude-desktop-multiple-windows-different-api",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/TonF1917/claude-desktop-multiple-windows-different-api/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/TonF1917/claude-desktop-multiple-windows-different-api.git\ncd claude-desktop-multiple-windows-different-api",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/TonF1917/claude-desktop-multiple-windows-different-api\nWhat it says it does: \"Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom / third-party APIs (cc-switch). Windows. 多开 Claude Desktop,多个窗口同时使用不同 API(官方订阅 + 第三方 API 同时工作)。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T20:15:02.313Z"
+  },
   {
    "fullName": "EL4CTEO/blender-skills",
    "owner": "EL4CTEO",
@@ -31184,67 +31248,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/CopilotKit/OpenDots\nWhat it says it does: \"Your always-on AI coworkers that move between text, calls, and Slack.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T19:27:51.595Z"
-  },
-  {
-   "fullName": "storytold/effectcraft",
-   "owner": "storytold",
-   "name": "effectcraft",
-   "url": "https://github.com/storytold/effectcraft",
-   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
-   "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
-   "language": "Rust",
-   "topics": [
-    "art",
-    "compositing",
-    "compositing-software",
-    "motion-graphics",
-    "rust"
-   ],
-   "license": "Apache-2.0",
-   "stars": 5047,
-   "forks": 2441,
-   "createdAt": "2026-10-01T14:24:46Z",
-   "branch": "main",
-   "homepage": "https://getartcraft.com/apps/effectcraft",
-   "addedAt": "2026-10-11T19:27:51.342Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/storytold/effectcraft?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/storytold/effectcraft",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/storytold/effectcraft/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/storytold/effectcraft.git\ncd effectcraft\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/storytold/effectcraft\nWhat it says it does: \"EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T19:27:51.342Z"
   }
  ],
  "levels": {

@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T23:46:44.832Z",
- "totalGuides": 1052,
+ "updatedAt": "2026-10-19T23:46:45.062Z",
+ "totalGuides": 1053,
  "items": [
+  {
+   "fullName": "EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
+   "owner": "EpicRealmTitle",
+   "name": "call-of-duty-modern-warfare-4-fps-optimizer",
+   "url": "https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
+   "avatar": "https://avatars.githubusercontent.com/u/319657262?v=4",
+   "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
+   "language": "Python",
+   "topics": [
+    "fps-booster-no-lag",
+    "fps-booster-software",
+    "gaming",
+    "gaming-performance",
+    "gaming-tools",
+    "modern-warfare-4",
+    "mw4",
+    "mw4-optimizer"
+   ],
+   "license": null,
+   "stars": 126,
+   "forks": 0,
+   "createdAt": "2026-10-19T21:24:52Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T23:46:45.060Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer.git\ncd call-of-duty-modern-warfare-4-fps-optimizer",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer\nWhat it says it does: \"Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T23:46:45.060Z"
+  },
   {
    "fullName": "simbasjungles/free-my-tv",
    "owner": "simbasjungles",
@@ -31175,68 +31246,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/storytold/craft-libs\nWhat it says it does: \"Rust libraries for the Craft Apps\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T23:06:31.759Z"
-  },
-  {
-   "fullName": "Droid-Deck/DroidDeck",
-   "owner": "Droid-Deck",
-   "name": "DroidDeck",
-   "url": "https://github.com/Droid-Deck/DroidDeck",
-   "avatar": "https://avatars.githubusercontent.com/u/333418672?v=4",
-   "description": "DroidDeck brings the SteamOS experience to Android",
-   "language": "Kotlin",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 4686,
-   "forks": 191,
-   "createdAt": "2026-09-24T15:14:13Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-11T19:27:52.349Z",
-   "stack": {
-    "kind": "native",
-    "label": "Kotlin project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Droid-Deck/DroidDeck?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Droid-Deck/DroidDeck",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Droid-Deck/DroidDeck/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Droid-Deck/DroidDeck.git\ncd DroidDeck",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/Droid-Deck/DroidDeck\nWhat it says it does: \"DroidDeck brings the SteamOS experience to Android\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T19:27:52.349Z"
   }
  ],
  "levels": {
-  "heavy": 101,
-  "account": 216,
+  "account": 217,
+  "heavy": 100,
   "read": 151,
   "instant": 32
  }

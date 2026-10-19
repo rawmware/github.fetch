@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1017 guides written so far · last update 2026-10-19 14:34 UTC_
+_1018 guides written so far · last update 2026-10-19 14:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mihirgupta0900/tv-home.md) |
 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gathin23/cleanyourtv.md) |
 | [tilescreenchamber30/Microsoft-Office](https://github.com/tilescreenchamber30/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tilescreenchamber30/microsoft-office.md) |
 | [SwiftTurtleFlourish/Instagram-Liker-Bot](https://github.com/SwiftTurtleFlourish/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swiftturtleflourish/instagram-liker-bot.md) |
@@ -38,7 +39,6 @@ _1017 guides written so far · last update 2026-10-19 14:34 UTC_
 | [VectorDestroyerTomb/Nero-Platinum](https://github.com/VectorDestroyerTomb/Nero-Platinum) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vectordestroyertomb/nero-platinum.md) |
 | [RopemakerCoil/Burning-Studio](https://github.com/RopemakerCoil/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ropemakercoil/burning-studio.md) |
 | [Stringkidoor/Glary-Utilities-Pro](https://github.com/Stringkidoor/Glary-Utilities-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stringkidoor/glary-utilities-pro.md) |
-| [wirecrewmankiln/Serato-DJ-Pro](https://github.com/wirecrewmankiln/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wirecrewmankiln/serato-dj-pro.md) |
 <!-- latest:end -->
 
 ## How it works

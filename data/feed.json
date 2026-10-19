@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T20:15:02.477Z",
- "totalGuides": 1050,
+ "updatedAt": "2026-10-19T20:15:02.652Z",
+ "totalGuides": 1051,
  "items": [
+  {
+   "fullName": "KnifeLemon/Filee",
+   "owner": "KnifeLemon",
+   "name": "Filee",
+   "url": "https://github.com/KnifeLemon/Filee",
+   "avatar": "https://avatars.githubusercontent.com/u/13937016?v=4",
+   "description": "Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+   "language": "C#",
+   "topics": [
+    "audio-converter",
+    "avalonia",
+    "batch-conversion",
+    "converter",
+    "csharp",
+    "document-converter",
+    "docx-to-pdf",
+    "dotnet"
+   ],
+   "license": "MIT",
+   "stars": 6246,
+   "forks": 362,
+   "createdAt": "2026-09-29T20:05:15Z",
+   "branch": "main",
+   "homepage": "https://filee.sh",
+   "addedAt": "2026-10-19T20:15:02.651Z",
+   "stack": {
+    "kind": "native",
+    "label": "C# project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/KnifeLemon/Filee?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/KnifeLemon/Filee",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/KnifeLemon/Filee/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/KnifeLemon/Filee.git\ncd Filee",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/KnifeLemon/Filee\nWhat it says it does: \"Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T20:15:02.651Z"
+  },
   {
    "fullName": "tangency-labs/solidcraft",
    "owner": "tangency-labs",
@@ -31171,78 +31237,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/TheoLeeCJ/SemIf-OpenJev\nWhat it says it does: \"Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T19:27:52.127Z"
-  },
-  {
-   "fullName": "Louis-CFM/coucou",
-   "owner": "Louis-CFM",
-   "name": "coucou",
-   "url": "https://github.com/Louis-CFM/coucou",
-   "avatar": "https://avatars.githubusercontent.com/u/72659375?v=4",
-   "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
-   "language": "Swift",
-   "topics": [
-    "ai-agents",
-    "anthropic",
-    "antigravity",
-    "claude",
-    "claude-code",
-    "codex",
-    "cursor",
-    "dynamic-island"
-   ],
-   "license": "MIT",
-   "stars": 4792,
-   "forks": 802,
-   "createdAt": "2026-09-27T21:54:12Z",
-   "branch": "main",
-   "homepage": "https://louis-cfm.github.io/coucou/",
-   "addedAt": "2026-10-11T19:27:51.792Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Louis-CFM/coucou?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Louis-CFM/coucou",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Louis-CFM/coucou/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Louis-CFM/coucou.git\ncd coucou",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Louis-CFM/coucou\nWhat it says it does: \"A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T19:27:51.792Z"
   }
  ],
  "levels": {
+  "heavy": 101,
   "account": 216,
   "read": 151,
-  "heavy": 101,
   "instant": 32
  }
 }

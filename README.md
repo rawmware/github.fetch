@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1012 guides written so far · last update 2026-10-19 06:59 UTC_
+_1013 guides written so far · last update 2026-10-19 06:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [silverindustrialgap/Auslogics](https://github.com/silverindustrialgap/Auslogics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/silverindustrialgap/auslogics.md) |
 | [outerashcable97/AnyDesk](https://github.com/outerashcable97/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/outerashcable97/anydesk.md) |
 | [SwiftLarkClamp/AOMEI-Backupper](https://github.com/SwiftLarkClamp/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swiftlarkclamp/aomei-backupper.md) |
 | [ShopkeeperMystery/Cubase](https://github.com/ShopkeeperMystery/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shopkeepermystery/cubase.md) |
@@ -38,7 +39,6 @@ _1012 guides written so far · last update 2026-10-19 06:59 UTC_
 | [finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/finereli/whatsapp-mcp.md) |
 | [kanaworksai-hue/audio-studio-mcp](https://github.com/kanaworksai-hue/audio-studio-mcp) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kanaworksai-hue/audio-studio-mcp.md) |
 | [RogueDonorGraph/BorisFX](https://github.com/RogueDonorGraph/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roguedonorgraph/borisfx.md) |
-| [VaultAssurance/PHP-Storm](https://github.com/VaultAssurance/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vaultassurance/php-storm.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_996 guides written so far · last update 2026-10-19 01:48 UTC_
+_997 guides written so far · last update 2026-10-19 01:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Surfacenoexist/IBM-SPSS](https://github.com/Surfacenoexist/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacenoexist/ibm-spss.md) |
 | [llamaboi55/DragShift](https://github.com/llamaboi55/DragShift) | Python project | Runs in the browser with a free account | [guide](guides/llamaboi55/dragshift.md) |
 | [justrach/nanoui](https://github.com/justrach/nanoui) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanoui.md) |
 | [Agent2API/agent2api](https://github.com/Agent2API/agent2api) | JavaScript project | Runs in the browser with a free account | [guide](guides/agent2api/agent2api.md) |
@@ -38,7 +39,6 @@ _996 guides written so far · last update 2026-10-19 01:48 UTC_
 | [VortexCuckoo/Autodesk-Inventor](https://github.com/VortexCuckoo/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexcuckoo/autodesk-inventor.md) |
 | [marcus-moorelab91a4/fps-optimizer-rust](https://github.com/marcus-moorelab91a4/fps-optimizer-rust) | Python project | Runs in the browser with a free account | [guide](guides/marcus-moorelab91a4/fps-optimizer-rust.md) |
 | [nickn-eng1989k7/Fortnite-FPS-Booster-Frame-Rate-Latency-Tuning-for-Windows](https://github.com/nickn-eng1989k7/Fortnite-FPS-Booster-Frame-Rate-Latency-Tuning-for-Windows) | Python project | Runs in the browser with a free account | [guide](guides/nickn-eng1989k7/fortnite-fps-booster-frame-rate-latency-tuning-for-windows.md) |
-| [MixedShrimpVanquish/Ads-Blocker](https://github.com/MixedShrimpVanquish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixedshrimpvanquish/ads-blocker.md) |
 <!-- latest:end -->
 
 ## How it works

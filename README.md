@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1014 guides written so far · last update 2026-10-19 06:59 UTC_
+_1015 guides written so far · last update 2026-10-19 06:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SwiftTurtleFlourish/Instagram-Liker-Bot](https://github.com/SwiftTurtleFlourish/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swiftturtleflourish/instagram-liker-bot.md) |
 | [SegmentWarden/Data-Grip](https://github.com/SegmentWarden/Data-Grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/segmentwarden/data-grip.md) |
 | [silverindustrialgap/Auslogics](https://github.com/silverindustrialgap/Auslogics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/silverindustrialgap/auslogics.md) |
 | [outerashcable97/AnyDesk](https://github.com/outerashcable97/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/outerashcable97/anydesk.md) |
@@ -38,7 +39,6 @@ _1014 guides written so far · last update 2026-10-19 06:59 UTC_
 | [wirecrewmankiln/Serato-DJ-Pro](https://github.com/wirecrewmankiln/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wirecrewmankiln/serato-dj-pro.md) |
 | [spectersparrowsubway/Display-Fusion](https://github.com/spectersparrowsubway/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spectersparrowsubway/display-fusion.md) |
 | [finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/finereli/whatsapp-mcp.md) |
-| [kanaworksai-hue/audio-studio-mcp](https://github.com/kanaworksai-hue/audio-studio-mcp) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kanaworksai-hue/audio-studio-mcp.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1002 guides written so far · last update 2026-10-19 01:48 UTC_
+_1003 guides written so far · last update 2026-10-19 06:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kanaworksai-hue/audio-studio-mcp](https://github.com/kanaworksai-hue/audio-studio-mcp) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kanaworksai-hue/audio-studio-mcp.md) |
 | [RogueDonorGraph/BorisFX](https://github.com/RogueDonorGraph/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roguedonorgraph/borisfx.md) |
 | [VaultAssurance/PHP-Storm](https://github.com/VaultAssurance/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vaultassurance/php-storm.md) |
 | [PlanetPhaseRaid/VoiceMod](https://github.com/PlanetPhaseRaid/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetphaseraid/voicemod.md) |
@@ -38,7 +39,6 @@ _1002 guides written so far · last update 2026-10-19 01:48 UTC_
 | [Agent2API/agent2api](https://github.com/Agent2API/agent2api) | JavaScript project | Runs in the browser with a free account | [guide](guides/agent2api/agent2api.md) |
 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/ansub/tv-detox.md) |
 | [interplains/zero-breach](https://github.com/interplains/zero-breach) | Python project | Runs in the browser with a free account | [guide](guides/interplains/zero-breach.md) |
-| [yarnvoicedesignate/ultra-Iso](https://github.com/yarnvoicedesignate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yarnvoicedesignate/ultra-iso.md) |
 <!-- latest:end -->
 
 ## How it works

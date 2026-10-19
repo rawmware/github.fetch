@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1045 guides written so far · last update 2026-10-19 20:15 UTC_
+_1046 guides written so far · last update 2026-10-19 20:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [songshikang0111/awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | Python project | Runs in the browser with a free account | [guide](guides/songshikang0111/awesome-rea-cases.md) |
 | [antfu/furifont](https://github.com/antfu/furifont) | Vite app | Runs in the browser with a free account | [guide](guides/antfu/furifont.md) |
 | [kitlangton/scrawl](https://github.com/kitlangton/scrawl) | Rust project | Runs in the browser with a free account | [guide](guides/kitlangton/scrawl.md) |
 | [StraitShield/FL-Studio](https://github.com/StraitShield/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/straitshield/fl-studio.md) |
@@ -38,7 +39,6 @@ _1045 guides written so far · last update 2026-10-19 20:15 UTC_
 | [bitwarden-app312/.gitp3d](https://github.com/bitwarden-app312/.gitp3d) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/bitwarden-app312/.gitp3d.md) |
 | [longbridge/nsh](https://github.com/longbridge/nsh) | Rust project | Runs in the browser with a free account | [guide](guides/longbridge/nsh.md) |
 | [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet) | Python project | Runs in the browser with a free account | [guide](guides/dipa-studio/ios-sweet.md) |
-| [yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) | Python project | Runs in the browser with a free account | [guide](guides/yeqv111/mccarbon.md) |
 <!-- latest:end -->
 
 ## How it works

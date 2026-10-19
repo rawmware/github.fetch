@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1043 guides written so far · last update 2026-10-19 20:15 UTC_
+_1044 guides written so far · last update 2026-10-19 20:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kitlangton/scrawl](https://github.com/kitlangton/scrawl) | Rust project | Runs in the browser with a free account | [guide](guides/kitlangton/scrawl.md) |
 | [StraitShield/FL-Studio](https://github.com/StraitShield/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/straitshield/fl-studio.md) |
 | [QAQLeonard/a7c2-fl23-research](https://github.com/QAQLeonard/a7c2-fl23-research) | Python project | Runs in the browser with a free account | [guide](guides/qaqleonard/a7c2-fl23-research.md) |
 | [HeyChengC/wallstreet-explainer](https://github.com/HeyChengC/wallstreet-explainer) | JavaScript project | Runs in the browser with a free account | [guide](guides/heychengc/wallstreet-explainer.md) |
@@ -38,7 +39,6 @@ _1043 guides written so far · last update 2026-10-19 20:15 UTC_
 | [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet) | Python project | Runs in the browser with a free account | [guide](guides/dipa-studio/ios-sweet.md) |
 | [yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) | Python project | Runs in the browser with a free account | [guide](guides/yeqv111/mccarbon.md) |
 | [seedds/nxnative](https://github.com/seedds/nxnative) | C project | Needs a real machine (or a GPU) to run | [guide](guides/seedds/nxnative.md) |
-| [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/licincan/blender-ai-mcp-addon.md) |
 <!-- latest:end -->
 
 ## How it works

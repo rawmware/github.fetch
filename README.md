@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_993 guides written so far · last update 2026-10-18 23:43 UTC_
+_994 guides written so far · last update 2026-10-19 01:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Agent2API/agent2api](https://github.com/Agent2API/agent2api) | JavaScript project | Runs in the browser with a free account | [guide](guides/agent2api/agent2api.md) |
 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/ansub/tv-detox.md) |
 | [interplains/zero-breach](https://github.com/interplains/zero-breach) | Python project | Runs in the browser with a free account | [guide](guides/interplains/zero-breach.md) |
 | [yarnvoicedesignate/ultra-Iso](https://github.com/yarnvoicedesignate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yarnvoicedesignate/ultra-iso.md) |
@@ -38,7 +39,6 @@ _993 guides written so far · last update 2026-10-18 23:43 UTC_
 | [MixedShrimpVanquish/Ads-Blocker](https://github.com/MixedShrimpVanquish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixedshrimpvanquish/ads-blocker.md) |
 | [squareswimmeryell/Easy-Worship](https://github.com/squareswimmeryell/Easy-Worship) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/squareswimmeryell/easy-worship.md) |
 | [StylistMultiplexer/HitFilm](https://github.com/StylistMultiplexer/HitFilm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stylistmultiplexer/hitfilm.md) |
-| [SplendorCooper/ExitLag](https://github.com/SplendorCooper/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorcooper/exitlag.md) |
 <!-- latest:end -->
 
 ## How it works

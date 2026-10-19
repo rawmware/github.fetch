@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1028 guides written so far · last update 2026-10-19 14:34 UTC_
+_1029 guides written so far · last update 2026-10-19 14:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BandProtector/Instagram-Growth-Tools-2026](https://github.com/BandProtector/Instagram-Growth-Tools-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bandprotector/instagram-growth-tools-2026.md) |
 | [Digitalvetrough/Forza-Horizon-6-FPS-Optimizer-2026](https://github.com/Digitalvetrough/Forza-Horizon-6-FPS-Optimizer-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/digitalvetrough/forza-horizon-6-fps-optimizer-2026.md) |
 | [TownFletcherEstimate/Minecraft-PvP-Helper-2026](https://github.com/TownFletcherEstimate/Minecraft-PvP-Helper-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/townfletcherestimate/minecraft-pvp-helper-2026.md) |
 | [iha2/superlite](https://github.com/iha2/superlite) | JavaScript project | Runs in the browser with a free account | [guide](guides/iha2/superlite.md) |
@@ -38,7 +39,6 @@ _1028 guides written so far · last update 2026-10-19 14:34 UTC_
 | [horncanaryinterest93/BorisFX](https://github.com/horncanaryinterest93/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/horncanaryinterest93/borisfx.md) |
 | [joeseesun/lexfridman-cn](https://github.com/joeseesun/lexfridman-cn) | HTML project | Runs in the browser with a free account | [guide](guides/joeseesun/lexfridman-cn.md) |
 | [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mihirgupta0900/tv-home.md) |
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gathin23/cleanyourtv.md) |
 <!-- latest:end -->
 
 ## How it works

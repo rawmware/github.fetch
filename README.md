@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1037 guides written so far · last update 2026-10-19 20:14 UTC_
+_1038 guides written so far · last update 2026-10-19 20:14 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andreszymanski15/ai-jailbreaks.md) |
 | [bitwarden-app312/.gitp3d](https://github.com/bitwarden-app312/.gitp3d) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/bitwarden-app312/.gitp3d.md) |
 | [longbridge/nsh](https://github.com/longbridge/nsh) | Rust project | Runs in the browser with a free account | [guide](guides/longbridge/nsh.md) |
 | [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet) | Python project | Runs in the browser with a free account | [guide](guides/dipa-studio/ios-sweet.md) |
@@ -38,7 +39,6 @@ _1037 guides written so far · last update 2026-10-19 20:14 UTC_
 | [BandProtector/Instagram-Growth-Tools-2026](https://github.com/BandProtector/Instagram-Growth-Tools-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bandprotector/instagram-growth-tools-2026.md) |
 | [Digitalvetrough/Forza-Horizon-6-FPS-Optimizer-2026](https://github.com/Digitalvetrough/Forza-Horizon-6-FPS-Optimizer-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/digitalvetrough/forza-horizon-6-fps-optimizer-2026.md) |
 | [TownFletcherEstimate/Minecraft-PvP-Helper-2026](https://github.com/TownFletcherEstimate/Minecraft-PvP-Helper-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/townfletcherestimate/minecraft-pvp-helper-2026.md) |
-| [iha2/superlite](https://github.com/iha2/superlite) | JavaScript project | Runs in the browser with a free account | [guide](guides/iha2/superlite.md) |
 <!-- latest:end -->
 
 ## How it works

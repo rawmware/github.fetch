@@ -1,8 +1,64 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T20:14:59.774Z",
- "totalGuides": 1037,
+ "updatedAt": "2026-10-19T20:14:59.979Z",
+ "totalGuides": 1038,
  "items": [
+  {
+   "fullName": "AndreSzymanski15/ai-jailbreaks",
+   "owner": "AndreSzymanski15",
+   "name": "ai-jailbreaks",
+   "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+   "avatar": "https://avatars.githubusercontent.com/u/309140753?v=4",
+   "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+   "language": null,
+   "topics": [
+    "ai",
+    "ai-safety",
+    "jailbreak",
+    "jailbreaking",
+    "privacy",
+    "safety",
+    "security"
+   ],
+   "license": null,
+   "stars": 191,
+   "forks": 24,
+   "createdAt": "2026-10-19T17:14:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T20:14:59.978Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/AndreSzymanski15/ai-jailbreaks/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/AndreSzymanski15/ai-jailbreaks\nWhat it says it does: \"AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T20:14:59.978Z"
+  },
   {
    "fullName": "bitwarden-app312/.gitp3d",
    "owner": "bitwarden-app312",
@@ -31195,78 +31251,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/tamaratran/fast-jev-compaction\nWhat it says it does: \"Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T14:52:07.948Z"
-  },
-  {
-   "fullName": "jev-chat/jev-chat-jarvis",
-   "owner": "jev-chat",
-   "name": "jev-chat-jarvis",
-   "url": "https://github.com/jev-chat/jev-chat-jarvis",
-   "avatar": "https://avatars.githubusercontent.com/u/332283779?v=4",
-   "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
-   "language": "Kotlin",
-   "topics": [
-    "accessibility-service",
-    "ai-assistant",
-    "android",
-    "chat-assistant",
-    "chat-copilot",
-    "llm",
-    "ocr",
-    "qq"
-   ],
-   "license": "MIT",
-   "stars": 7600,
-   "forks": 1246,
-   "createdAt": "2026-09-21T11:12:53Z",
-   "branch": "main",
-   "homepage": "https://chatjevs.com",
-   "addedAt": "2026-10-11T14:52:07.655Z",
-   "stack": {
-    "kind": "native",
-    "label": "Kotlin project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/jev-chat/jev-chat-jarvis?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/jev-chat/jev-chat-jarvis",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/jev-chat/jev-chat-jarvis/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/jev-chat/jev-chat-jarvis.git\ncd jev-chat-jarvis",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/jev-chat/jev-chat-jarvis\nWhat it says it does: \"The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T14:52:07.655Z"
   }
  ],
  "levels": {
+  "read": 151,
   "instant": 32,
   "account": 216,
-  "heavy": 102,
-  "read": 150
+  "heavy": 101
  }
 }

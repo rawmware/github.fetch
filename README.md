@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1006 guides written so far · last update 2026-10-19 06:59 UTC_
+_1007 guides written so far · last update 2026-10-19 06:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Stringkidoor/Glary-Utilities-Pro](https://github.com/Stringkidoor/Glary-Utilities-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stringkidoor/glary-utilities-pro.md) |
 | [wirecrewmankiln/Serato-DJ-Pro](https://github.com/wirecrewmankiln/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wirecrewmankiln/serato-dj-pro.md) |
 | [spectersparrowsubway/Display-Fusion](https://github.com/spectersparrowsubway/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spectersparrowsubway/display-fusion.md) |
 | [finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/finereli/whatsapp-mcp.md) |
@@ -38,7 +39,6 @@ _1006 guides written so far · last update 2026-10-19 06:59 UTC_
 | [oillovebirdbuild/Total-Commander](https://github.com/oillovebirdbuild/Total-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/oillovebirdbuild/total-commander.md) |
 | [Surfacenoexist/IBM-SPSS](https://github.com/Surfacenoexist/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacenoexist/ibm-spss.md) |
 | [llamaboi55/DragShift](https://github.com/llamaboi55/DragShift) | Python project | Runs in the browser with a free account | [guide](guides/llamaboi55/dragshift.md) |
-| [justrach/nanoui](https://github.com/justrach/nanoui) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanoui.md) |
 <!-- latest:end -->
 
 ## How it works

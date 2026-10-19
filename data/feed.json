@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T20:15:00.664Z",
- "totalGuides": 1041,
+ "updatedAt": "2026-10-19T20:15:00.832Z",
+ "totalGuides": 1042,
  "items": [
+  {
+   "fullName": "QAQLeonard/a7c2-fl23-research",
+   "owner": "QAQLeonard",
+   "name": "a7c2-fl23-research",
+   "url": "https://github.com/QAQLeonard/a7c2-fl23-research",
+   "avatar": "https://avatars.githubusercontent.com/u/93310724?v=4",
+   "description": "FL2/FL3 porting and custom LUT/DCP import tools for Sony A7C II (ILCE-7CM2) firmware 2.01, with backup, installation, readback verification, and restoration workflows. Includes single-camera test results and known limitations.",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 99,
+   "forks": 25,
+   "createdAt": "2026-10-17T14:25:48Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T20:15:00.831Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/QAQLeonard/a7c2-fl23-research/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/QAQLeonard/a7c2-fl23-research?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/QAQLeonard/a7c2-fl23-research",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/QAQLeonard/a7c2-fl23-research/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/QAQLeonard/a7c2-fl23-research.git\ncd a7c2-fl23-research",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/QAQLeonard/a7c2-fl23-research\nWhat it says it does: \"FL2/FL3 porting and custom LUT/DCP import tools for Sony A7C II (ILCE-7CM2) firmware 2.01, with backup, installation, readback verification, and restoration workflows. Includes single-camera test results and known limitations.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T20:15:00.831Z"
+  },
   {
    "fullName": "HeyChengC/wallstreet-explainer",
    "owner": "HeyChengC",
@@ -31145,77 +31207,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/kevinerikjs/gta5-ios-port\nWhat it says it does: \"GTA V natively on iPhone: build it yourself from your own game files. Fan project, no game files included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T19:27:50.097Z"
-  },
-  {
-   "fullName": "Ayzzz123/mcd-coupon-strategist",
-   "owner": "Ayzzz123",
-   "name": "mcd-coupon-strategist",
-   "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
-   "avatar": "https://avatars.githubusercontent.com/u/249872811?v=4",
-   "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
-   "language": "Python",
-   "topics": [
-    "agent",
-    "cost-optimization",
-    "coupon",
-    "llm",
-    "mcd-mcp",
-    "mcdonalds",
-    "mcp",
-    "python"
-   ],
-   "license": "MIT",
-   "stars": 171,
-   "forks": 18,
-   "createdAt": "2026-10-10T12:59:19Z",
-   "branch": "main",
-   "homepage": "https://github.com/Ayzzz123/mcd-coupon-strategist/blob/main/MCP_INTEGRATION.md",
-   "addedAt": "2026-10-11T19:27:49.870Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Ayzzz123/mcd-coupon-strategist/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Ayzzz123/mcd-coupon-strategist?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Ayzzz123/mcd-coupon-strategist",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Ayzzz123/mcd-coupon-strategist/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Ayzzz123/mcd-coupon-strategist.git\ncd mcd-coupon-strategist",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Ayzzz123/mcd-coupon-strategist\nWhat it says it does: \"麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T19:27:49.870Z"
   }
  ],
  "levels": {

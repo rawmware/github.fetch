@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1041 guides written so far · last update 2026-10-19 20:15 UTC_
+_1042 guides written so far · last update 2026-10-19 20:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [QAQLeonard/a7c2-fl23-research](https://github.com/QAQLeonard/a7c2-fl23-research) | Python project | Runs in the browser with a free account | [guide](guides/qaqleonard/a7c2-fl23-research.md) |
 | [HeyChengC/wallstreet-explainer](https://github.com/HeyChengC/wallstreet-explainer) | JavaScript project | Runs in the browser with a free account | [guide](guides/heychengc/wallstreet-explainer.md) |
 | [OAleex/ShaolinMonksRecomp](https://github.com/OAleex/ShaolinMonksRecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/oaleex/shaolinmonksrecomp.md) |
 | [DeanOpen/MacViewer](https://github.com/DeanOpen/MacViewer) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/deanopen/macviewer.md) |
@@ -38,7 +39,6 @@ _1041 guides written so far · last update 2026-10-19 20:15 UTC_
 | [seedds/nxnative](https://github.com/seedds/nxnative) | C project | Needs a real machine (or a GPU) to run | [guide](guides/seedds/nxnative.md) |
 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/licincan/blender-ai-mcp-addon.md) |
 | [DustinYe/gesture-media-controller](https://github.com/DustinYe/gesture-media-controller) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/dustinye/gesture-media-controller.md) |
-| [sandsheriffbeat/Cinebench](https://github.com/sandsheriffbeat/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandsheriffbeat/cinebench.md) |
 <!-- latest:end -->
 
 ## How it works

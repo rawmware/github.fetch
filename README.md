@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1047 guides written so far · last update 2026-10-19 20:15 UTC_
+_1048 guides written so far · last update 2026-10-19 20:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | Python project | Runs in the browser with a free account | [guide](guides/el4cteo/blender-skills.md) |
 | [jddevtime/open-lakehouse-compute-fabric](https://github.com/jddevtime/open-lakehouse-compute-fabric) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/jddevtime/open-lakehouse-compute-fabric.md) |
 | [songshikang0111/awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | Python project | Runs in the browser with a free account | [guide](guides/songshikang0111/awesome-rea-cases.md) |
 | [antfu/furifont](https://github.com/antfu/furifont) | Vite app | Runs in the browser with a free account | [guide](guides/antfu/furifont.md) |
@@ -38,7 +39,6 @@ _1047 guides written so far · last update 2026-10-19 20:15 UTC_
 | [DeanOpen/MacViewer](https://github.com/DeanOpen/MacViewer) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/deanopen/macviewer.md) |
 | [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andreszymanski15/ai-jailbreaks.md) |
 | [bitwarden-app312/.gitp3d](https://github.com/bitwarden-app312/.gitp3d) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/bitwarden-app312/.gitp3d.md) |
-| [longbridge/nsh](https://github.com/longbridge/nsh) | Rust project | Runs in the browser with a free account | [guide](guides/longbridge/nsh.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T14:34:53.603Z",
- "totalGuides": 1034,
+ "updatedAt": "2026-10-19T14:34:53.751Z",
+ "totalGuides": 1035,
  "items": [
+  {
+   "fullName": "dipa-studio/ios-sweet",
+   "owner": "dipa-studio",
+   "name": "ios-sweet",
+   "url": "https://github.com/dipa-studio/ios-sweet",
+   "avatar": "https://avatars.githubusercontent.com/u/183933817?v=4",
+   "description": "iOS 16 userland + XNU on Redmi Note 10 Pro (sweet, SM7150)",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 373,
+   "forks": 123,
+   "createdAt": "2026-10-14T19:15:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T14:34:53.750Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/dipa-studio/ios-sweet/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/dipa-studio/ios-sweet?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/dipa-studio/ios-sweet",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/dipa-studio/ios-sweet/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/dipa-studio/ios-sweet.git\ncd ios-sweet",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/dipa-studio/ios-sweet\nWhat it says it does: \"iOS 16 userland + XNU on Redmi Note 10 Pro (sweet, SM7150)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T14:34:53.750Z"
+  },
   {
    "fullName": "yeqv111/mccarbon",
    "owner": "yeqv111",
@@ -31204,70 +31266,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Ebony-Vinyl/dsh-our-free-model\nWhat it says it does: \"在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T14:52:07.104Z"
-  },
-  {
-   "fullName": "storytold/pdfcraft",
-   "owner": "storytold",
-   "name": "pdfcraft",
-   "url": "https://github.com/storytold/pdfcraft",
-   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
-   "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
-   "language": "Rust",
-   "topics": [
-    "acrobat",
-    "acrobat-full",
-    "acrobat-pro",
-    "adobe",
-    "adobe-acrobat",
-    "document-processing",
-    "documents",
-    "pdf"
-   ],
-   "license": "Apache-2.0",
-   "stars": 8841,
-   "forks": 3280,
-   "createdAt": "2026-09-30T13:39:37Z",
-   "branch": "main",
-   "homepage": "https://getartcraft.com/apps/printcraft",
-   "addedAt": "2026-10-11T14:52:06.741Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/storytold/pdfcraft?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/storytold/pdfcraft",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/storytold/pdfcraft/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/storytold/pdfcraft.git\ncd pdfcraft\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/storytold/pdfcraft\nWhat it says it does: \"An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T14:52:06.741Z"
   }
  ],
  "levels": {

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1010 guides written so far · last update 2026-10-19 06:59 UTC_
+_1011 guides written so far · last update 2026-10-19 06:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SwiftLarkClamp/AOMEI-Backupper](https://github.com/SwiftLarkClamp/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/swiftlarkclamp/aomei-backupper.md) |
 | [ShopkeeperMystery/Cubase](https://github.com/ShopkeeperMystery/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shopkeepermystery/cubase.md) |
 | [VectorDestroyerTomb/Nero-Platinum](https://github.com/VectorDestroyerTomb/Nero-Platinum) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vectordestroyertomb/nero-platinum.md) |
 | [RopemakerCoil/Burning-Studio](https://github.com/RopemakerCoil/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ropemakercoil/burning-studio.md) |
@@ -38,7 +39,6 @@ _1010 guides written so far · last update 2026-10-19 06:59 UTC_
 | [RogueDonorGraph/BorisFX](https://github.com/RogueDonorGraph/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roguedonorgraph/borisfx.md) |
 | [VaultAssurance/PHP-Storm](https://github.com/VaultAssurance/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vaultassurance/php-storm.md) |
 | [PlanetPhaseRaid/VoiceMod](https://github.com/PlanetPhaseRaid/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetphaseraid/voicemod.md) |
-| [Eastmuamplify/Kontakt-8](https://github.com/Eastmuamplify/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eastmuamplify/kontakt-8.md) |
 <!-- latest:end -->
 
 ## How it works

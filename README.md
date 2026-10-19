@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1032 guides written so far · last update 2026-10-19 14:34 UTC_
+_1033 guides written so far · last update 2026-10-19 14:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [seedds/nxnative](https://github.com/seedds/nxnative) | C project | Needs a real machine (or a GPU) to run | [guide](guides/seedds/nxnative.md) |
 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | Python project | Runs in the browser with a free account | [guide](guides/licincan/blender-ai-mcp-addon.md) |
 | [DustinYe/gesture-media-controller](https://github.com/DustinYe/gesture-media-controller) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/dustinye/gesture-media-controller.md) |
 | [sandsheriffbeat/Cinebench](https://github.com/sandsheriffbeat/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandsheriffbeat/cinebench.md) |
@@ -38,7 +39,6 @@ _1032 guides written so far · last update 2026-10-19 14:34 UTC_
 | [realskyrin/ns-game-apple-arm-port](https://github.com/realskyrin/ns-game-apple-arm-port) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/realskyrin/ns-game-apple-arm-port.md) |
 | [soniciso1/ps5-linux-loader](https://github.com/soniciso1/ps5-linux-loader) | C project | Needs a real machine (or a GPU) to run | [guide](guides/soniciso1/ps5-linux-loader.md) |
 | [soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny) | JavaScript project | Runs in the browser with a free account | [guide](guides/soumatheusgomes/editonny.md) |
-| [stadiummidgeguide41/for-everyone](https://github.com/stadiummidgeguide41/for-everyone) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stadiummidgeguide41/for-everyone.md) |
 <!-- latest:end -->
 
 ## How it works

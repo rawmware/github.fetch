@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1018 guides written so far · last update 2026-10-19 14:34 UTC_
+_1019 guides written so far · last update 2026-10-19 14:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [joeseesun/lexfridman-cn](https://github.com/joeseesun/lexfridman-cn) | HTML project | Runs in the browser with a free account | [guide](guides/joeseesun/lexfridman-cn.md) |
 | [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mihirgupta0900/tv-home.md) |
 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/gathin23/cleanyourtv.md) |
 | [tilescreenchamber30/Microsoft-Office](https://github.com/tilescreenchamber30/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tilescreenchamber30/microsoft-office.md) |
@@ -38,7 +39,6 @@ _1018 guides written so far · last update 2026-10-19 14:34 UTC_
 | [ShopkeeperMystery/Cubase](https://github.com/ShopkeeperMystery/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shopkeepermystery/cubase.md) |
 | [VectorDestroyerTomb/Nero-Platinum](https://github.com/VectorDestroyerTomb/Nero-Platinum) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vectordestroyertomb/nero-platinum.md) |
 | [RopemakerCoil/Burning-Studio](https://github.com/RopemakerCoil/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ropemakercoil/burning-studio.md) |
-| [Stringkidoor/Glary-Utilities-Pro](https://github.com/Stringkidoor/Glary-Utilities-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stringkidoor/glary-utilities-pro.md) |
 <!-- latest:end -->
 
 ## How it works

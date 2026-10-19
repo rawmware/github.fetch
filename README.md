@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1004 guides written so far · last update 2026-10-19 06:59 UTC_
+_1005 guides written so far · last update 2026-10-19 06:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [spectersparrowsubway/Display-Fusion](https://github.com/spectersparrowsubway/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spectersparrowsubway/display-fusion.md) |
 | [finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/finereli/whatsapp-mcp.md) |
 | [kanaworksai-hue/audio-studio-mcp](https://github.com/kanaworksai-hue/audio-studio-mcp) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kanaworksai-hue/audio-studio-mcp.md) |
 | [RogueDonorGraph/BorisFX](https://github.com/RogueDonorGraph/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roguedonorgraph/borisfx.md) |
@@ -38,7 +39,6 @@ _1004 guides written so far · last update 2026-10-19 06:59 UTC_
 | [llamaboi55/DragShift](https://github.com/llamaboi55/DragShift) | Python project | Runs in the browser with a free account | [guide](guides/llamaboi55/dragshift.md) |
 | [justrach/nanoui](https://github.com/justrach/nanoui) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanoui.md) |
 | [Agent2API/agent2api](https://github.com/Agent2API/agent2api) | JavaScript project | Runs in the browser with a free account | [guide](guides/agent2api/agent2api.md) |
-| [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/ansub/tv-detox.md) |
 <!-- latest:end -->
 
 ## How it works

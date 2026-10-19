@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T06:59:02.063Z",
- "totalGuides": 1004,
+ "updatedAt": "2026-10-19T06:59:02.303Z",
+ "totalGuides": 1005,
  "items": [
+  {
+   "fullName": "spectersparrowsubway/Display-Fusion",
+   "owner": "spectersparrowsubway",
+   "name": "Display-Fusion",
+   "url": "https://github.com/spectersparrowsubway/Display-Fusion",
+   "avatar": "https://avatars.githubusercontent.com/u/296684685?v=4",
+   "description": "Display Fusion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "desktop-tools",
+    "display-management",
+    "displayfusion",
+    "displayfusion-2026",
+    "displayfusion-multi-monitor-install-windows-2026",
+    "displayfusion-pro",
+    "displayfusion-setup",
+    "dual-monitor"
+   ],
+   "license": null,
+   "stars": 96,
+   "forks": 0,
+   "createdAt": "2026-10-18T14:05:13Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T06:59:02.302Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/spectersparrowsubway/Display-Fusion",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/spectersparrowsubway/Display-Fusion/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/spectersparrowsubway/Display-Fusion\nWhat it says it does: \"Display Fusion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T06:59:02.302Z"
+  },
   {
    "fullName": "finereli/whatsapp-mcp",
    "owner": "finereli",
@@ -31262,69 +31319,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/joeseesun/qiaomu-cover-fonts\nWhat it says it does: \"乔木封面设计的默认开源字库：中文与英文 OFL 字体，子集化并附授权 · Default open-licence font library for Qiaomu Cover Design\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T01:47:12.769Z"
-  },
-  {
-   "fullName": "eternalkaisercraft45/Adobe-Photoshop",
-   "owner": "eternalkaisercraft45",
-   "name": "Adobe-Photoshop",
-   "url": "https://github.com/eternalkaisercraft45/Adobe-Photoshop",
-   "avatar": "https://avatars.githubusercontent.com/u/292116145?v=4",
-   "description": "Adobe Photoshop: A comprehensive desktop application that facilitates professional digital image editing and manipulation tasks with unparalleled precision.",
-   "language": null,
-   "topics": [
-    "adobe-creative-cloud",
-    "adobe-photoshop-2026-ai",
-    "adobe-photoshop-elements-download",
-    "adobe-photoshop-fix",
-    "advanced-image-editing-software",
-    "creative-cloud",
-    "generative-fill",
-    "lightroom-windows-photo-editing"
-   ],
-   "license": null,
-   "stars": 100,
-   "forks": 0,
-   "createdAt": "2026-10-09T19:43:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-11T01:47:12.572Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/eternalkaisercraft45/Adobe-Photoshop",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/eternalkaisercraft45/Adobe-Photoshop/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/eternalkaisercraft45/Adobe-Photoshop\nWhat it says it does: \"Adobe Photoshop: A comprehensive desktop application that facilitates professional digital image editing and manipulation tasks with unparalleled precision.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T01:47:12.572Z"
   }
  ],
  "levels": {
+  "read": 147,
   "instant": 32,
   "heavy": 101,
-  "read": 147,
   "account": 220
  }
 }

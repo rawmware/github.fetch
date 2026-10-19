@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T14:34:49.993Z",
- "totalGuides": 1019,
+ "updatedAt": "2026-10-19T14:34:50.216Z",
+ "totalGuides": 1020,
  "items": [
+  {
+   "fullName": "horncanaryinterest93/BorisFX",
+   "owner": "horncanaryinterest93",
+   "name": "BorisFX",
+   "url": "https://github.com/horncanaryinterest93/BorisFX",
+   "avatar": "https://avatars.githubusercontent.com/u/295650243?v=4",
+   "description": "Professional Borisfx visual effects suite 2026 - Full working installer with complete standalone setup, ready to run.",
+   "language": null,
+   "topics": [
+    "bcc-plugins-effects",
+    "boris-fx-plugin-sapphire",
+    "boris-fx-sapphire",
+    "borisfx",
+    "borisfx-plugin-free",
+    "free-boris-fx",
+    "plugins-after-effects",
+    "sapphire-download"
+   ],
+   "license": null,
+   "stars": 115,
+   "forks": 0,
+   "createdAt": "2026-10-19T10:52:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T14:34:50.215Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/horncanaryinterest93/BorisFX",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/horncanaryinterest93/BorisFX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/horncanaryinterest93/BorisFX\nWhat it says it does: \"Professional Borisfx visual effects suite 2026 - Full working installer with complete standalone setup, ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T14:34:50.215Z"
+  },
   {
    "fullName": "joeseesun/lexfridman-cn",
    "owner": "joeseesun",
@@ -31305,67 +31362,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/RingLegislator/Claude-Jailbreak-Prompt\nWhat it says it does: \"Enables AI-driven prompt engineering solutions without any association to Apple products or mobile device hacking.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T07:53:08.064Z"
-  },
-  {
-   "fullName": "AmpDugongIntroduce/Crash-Plan",
-   "owner": "AmpDugongIntroduce",
-   "name": "Crash-Plan",
-   "url": "https://github.com/AmpDugongIntroduce/Crash-Plan",
-   "avatar": "https://avatars.githubusercontent.com/u/292110853?v=4",
-   "description": "Crash Plan optimizes professional desktop software utility configurations by providing a comprehensive and user-friendly interface that allows seamless...",
-   "language": null,
-   "topics": [
-    "crashplan",
-    "crashplan-app",
-    "crashplan-for-small-business",
-    "crashplan-for-small-business-crack",
-    "crashplan-hack",
-    "crashplan-windows-setup-2026"
-   ],
-   "license": null,
-   "stars": 98,
-   "forks": 0,
-   "createdAt": "2026-10-09T13:48:59Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-11T07:53:07.931Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/AmpDugongIntroduce/Crash-Plan",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/AmpDugongIntroduce/Crash-Plan/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/AmpDugongIntroduce/Crash-Plan\nWhat it says it does: \"Crash Plan optimizes professional desktop software utility configurations by providing a comprehensive and user-friendly interface that allows seamless...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T07:53:07.931Z"
   }
  ],
  "levels": {
+  "read": 145,
   "account": 221,
   "heavy": 102,
-  "read": 145,
   "instant": 32
  }
 }

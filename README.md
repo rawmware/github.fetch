@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1044 guides written so far · last update 2026-10-19 20:15 UTC_
+_1045 guides written so far · last update 2026-10-19 20:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [antfu/furifont](https://github.com/antfu/furifont) | Vite app | Runs in the browser with a free account | [guide](guides/antfu/furifont.md) |
 | [kitlangton/scrawl](https://github.com/kitlangton/scrawl) | Rust project | Runs in the browser with a free account | [guide](guides/kitlangton/scrawl.md) |
 | [StraitShield/FL-Studio](https://github.com/StraitShield/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/straitshield/fl-studio.md) |
 | [QAQLeonard/a7c2-fl23-research](https://github.com/QAQLeonard/a7c2-fl23-research) | Python project | Runs in the browser with a free account | [guide](guides/qaqleonard/a7c2-fl23-research.md) |
@@ -38,7 +39,6 @@ _1044 guides written so far · last update 2026-10-19 20:15 UTC_
 | [longbridge/nsh](https://github.com/longbridge/nsh) | Rust project | Runs in the browser with a free account | [guide](guides/longbridge/nsh.md) |
 | [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet) | Python project | Runs in the browser with a free account | [guide](guides/dipa-studio/ios-sweet.md) |
 | [yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) | Python project | Runs in the browser with a free account | [guide](guides/yeqv111/mccarbon.md) |
-| [seedds/nxnative](https://github.com/seedds/nxnative) | C project | Needs a real machine (or a GPU) to run | [guide](guides/seedds/nxnative.md) |
 <!-- latest:end -->
 
 ## How it works

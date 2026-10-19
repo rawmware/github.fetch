@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1001 guides written so far · last update 2026-10-19 01:48 UTC_
+_1002 guides written so far · last update 2026-10-19 01:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RogueDonorGraph/BorisFX](https://github.com/RogueDonorGraph/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roguedonorgraph/borisfx.md) |
 | [VaultAssurance/PHP-Storm](https://github.com/VaultAssurance/PHP-Storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vaultassurance/php-storm.md) |
 | [PlanetPhaseRaid/VoiceMod](https://github.com/PlanetPhaseRaid/VoiceMod) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetphaseraid/voicemod.md) |
 | [Eastmuamplify/Kontakt-8](https://github.com/Eastmuamplify/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eastmuamplify/kontakt-8.md) |
@@ -38,7 +39,6 @@ _1001 guides written so far · last update 2026-10-19 01:48 UTC_
 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/ansub/tv-detox.md) |
 | [interplains/zero-breach](https://github.com/interplains/zero-breach) | Python project | Runs in the browser with a free account | [guide](guides/interplains/zero-breach.md) |
 | [yarnvoicedesignate/ultra-Iso](https://github.com/yarnvoicedesignate/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/yarnvoicedesignate/ultra-iso.md) |
-| [Caveyeidentify/Discord-Server-Cloner](https://github.com/Caveyeidentify/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caveyeidentify/discord-server-cloner.md) |
 <!-- latest:end -->
 
 ## How it works

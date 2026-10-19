@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T23:46:45.309Z",
- "totalGuides": 1054,
+ "updatedAt": "2026-10-19T23:46:45.547Z",
+ "totalGuides": 1055,
  "items": [
+  {
+   "fullName": "markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
+   "owner": "markklab1903d9",
+   "name": "CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
+   "url": "https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
+   "avatar": "https://avatars.githubusercontent.com/u/279166964?v=4",
+   "description": "Powerful CS2 FPS optimizer that boosts frame rate, reduces lag and optimizes system settings. One-click performance profiles, clean interface, fully configurable for Counter-Strike 2.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 125,
+   "forks": 34,
+   "createdAt": "2026-10-19T21:40:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T23:46:45.547Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026.git\ncd CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026\npython main.py",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026\nWhat it says it does: \"Powerful CS2 FPS optimizer that boosts frame rate, reduces lag and optimizes system settings. One-click performance profiles, clean interface, fully configurable for Counter-Strike 2.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T23:46:45.547Z"
+  },
   {
    "fullName": "james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026",
    "owner": "james-dev-lab2001x9",
@@ -31189,70 +31251,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/CopilotKit/openmuse\nWhat it says it does: \"A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T23:06:32.303Z"
-  },
-  {
-   "fullName": "bherbruck/solidcraft",
-   "owner": "bherbruck",
-   "name": "solidcraft",
-   "url": "https://github.com/bherbruck/solidcraft",
-   "avatar": "https://avatars.githubusercontent.com/u/5258126?v=4",
-   "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-   "language": "Rust",
-   "topics": [
-    "3d-modeling",
-    "brep",
-    "cad",
-    "egui",
-    "mcp",
-    "parametric-cad",
-    "rust",
-    "step"
-   ],
-   "license": "Apache-2.0",
-   "stars": 555,
-   "forks": 41,
-   "createdAt": "2026-10-07T18:57:48Z",
-   "branch": "main",
-   "homepage": "https://bherbruck.github.io/solidcraft/",
-   "addedAt": "2026-10-11T23:06:31.980Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/bherbruck/solidcraft?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/bherbruck/solidcraft",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/bherbruck/solidcraft/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/bherbruck/solidcraft.git\ncd solidcraft\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/bherbruck/solidcraft\nWhat it says it does: \"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T23:06:31.980Z"
   }
  ],
  "levels": {

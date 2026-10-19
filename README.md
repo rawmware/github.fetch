@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1054 guides written so far · last update 2026-10-19 23:46 UTC_
+_1055 guides written so far · last update 2026-10-19 23:46 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026](https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/markklab1903d9/cs2-fps-optimizer-performance-boost-lag-fix-tool-2026.md) |
 | [james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026](https://github.com/james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026) | Python project | Runs in the browser with a free account | [guide](guides/james-dev-lab2001x9/obs-countdown-timer-free-overlay-timer-plugin-for-streaming-2026.md) |
 | [EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer](https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer) | Python project | Runs in the browser with a free account | [guide](guides/epicrealmtitle/call-of-duty-modern-warfare-4-fps-optimizer.md) |
 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/simbasjungles/free-my-tv.md) |
@@ -38,7 +39,6 @@ _1054 guides written so far · last update 2026-10-19 23:46 UTC_
 | [songshikang0111/awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | Python project | Runs in the browser with a free account | [guide](guides/songshikang0111/awesome-rea-cases.md) |
 | [antfu/furifont](https://github.com/antfu/furifont) | Vite app | Runs in the browser with a free account | [guide](guides/antfu/furifont.md) |
 | [kitlangton/scrawl](https://github.com/kitlangton/scrawl) | Rust project | Runs in the browser with a free account | [guide](guides/kitlangton/scrawl.md) |
-| [StraitShield/FL-Studio](https://github.com/StraitShield/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/straitshield/fl-studio.md) |
 <!-- latest:end -->
 
 ## How it works

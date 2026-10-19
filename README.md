@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1049 guides written so far · last update 2026-10-19 20:15 UTC_
+_1050 guides written so far · last update 2026-10-19 20:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | Rust project | Runs in the browser with a free account | [guide](guides/tangency-labs/solidcraft.md) |
 | [TonF1917/claude-desktop-multiple-windows-different-api](https://github.com/TonF1917/claude-desktop-multiple-windows-different-api) | PowerShell project | Runs in the browser with a free account | [guide](guides/tonf1917/claude-desktop-multiple-windows-different-api.md) |
 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | Python project | Runs in the browser with a free account | [guide](guides/el4cteo/blender-skills.md) |
 | [jddevtime/open-lakehouse-compute-fabric](https://github.com/jddevtime/open-lakehouse-compute-fabric) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/jddevtime/open-lakehouse-compute-fabric.md) |
@@ -38,7 +39,6 @@ _1049 guides written so far · last update 2026-10-19 20:15 UTC_
 | [HeyChengC/wallstreet-explainer](https://github.com/HeyChengC/wallstreet-explainer) | JavaScript project | Runs in the browser with a free account | [guide](guides/heychengc/wallstreet-explainer.md) |
 | [OAleex/ShaolinMonksRecomp](https://github.com/OAleex/ShaolinMonksRecomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/oaleex/shaolinmonksrecomp.md) |
 | [DeanOpen/MacViewer](https://github.com/DeanOpen/MacViewer) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/deanopen/macviewer.md) |
-| [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andreszymanski15/ai-jailbreaks.md) |
 <!-- latest:end -->
 
 ## How it works

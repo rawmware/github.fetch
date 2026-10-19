@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T14:34:52.461Z",
- "totalGuides": 1029,
+ "updatedAt": "2026-10-19T14:34:52.675Z",
+ "totalGuides": 1030,
  "items": [
+  {
+   "fullName": "sandsheriffbeat/Cinebench",
+   "owner": "sandsheriffbeat",
+   "name": "Cinebench",
+   "url": "https://github.com/sandsheriffbeat/Cinebench",
+   "avatar": "https://avatars.githubusercontent.com/u/296690326?v=4",
+   "description": "Complete standalone Cinebench 2025 installation build. Ready-to-run, fully functional desktop utility.",
+   "language": null,
+   "topics": [
+    "cinebench",
+    "cinebench-2026",
+    "cinebench-crack",
+    "cinebench-free",
+    "cinebench-r23",
+    "cpu-benchmark",
+    "hardware-optimization",
+    "render-score"
+   ],
+   "license": null,
+   "stars": 96,
+   "forks": 0,
+   "createdAt": "2026-10-18T14:05:03Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-19T14:34:52.675Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/sandsheriffbeat/Cinebench",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/sandsheriffbeat/Cinebench/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/sandsheriffbeat/Cinebench\nWhat it says it does: \"Complete standalone Cinebench 2025 installation build. Ready-to-run, fully functional desktop utility.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-19T14:34:52.675Z"
+  },
   {
    "fullName": "BandProtector/Instagram-Growth-Tools-2026",
    "owner": "BandProtector",
@@ -31213,69 +31270,12 @@
    "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/bdg9412/artex-ko-plus\nWhat it says it does: \"ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-11T14:52:05.756Z"
-  },
-  {
-   "fullName": "unixzii/SimRun",
-   "owner": "unixzii",
-   "name": "SimRun",
-   "url": "https://github.com/unixzii/SimRun",
-   "avatar": "https://avatars.githubusercontent.com/u/3109144?v=4",
-   "description": "Run iOS Simulator apps directly on your Mac.",
-   "language": "Objective-C",
-   "topics": [],
-   "license": "MIT",
-   "stars": 105,
-   "forks": 4,
-   "createdAt": "2026-10-10T09:09:19Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-11T14:52:05.590Z",
-   "stack": {
-    "kind": "native",
-    "label": "Objective-C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/unixzii/SimRun?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/unixzii/SimRun",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/unixzii/SimRun/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Objective-C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/unixzii/SimRun.git\ncd SimRun",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/unixzii/SimRun\nWhat it says it does: \"Run iOS Simulator apps directly on your Mac.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T14:52:05.590Z"
   }
  ],
  "levels": {
-  "read": 149,
+  "read": 150,
   "account": 219,
   "instant": 31,
-  "heavy": 101
+  "heavy": 100
  }
 }

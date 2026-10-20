@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1067 guides written so far · last update 2026-10-20 02:10 UTC_
+_1068 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyoffice.md) |
 | [vortexlakecanal/Rufus](https://github.com/vortexlakecanal/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexlakecanal/rufus.md) |
 | [symboladvocateshaft/KeyShot-Pro](https://github.com/symboladvocateshaft/KeyShot-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/symboladvocateshaft/keyshot-pro.md) |
 | [ScarletSenator/Catia-Cad](https://github.com/ScarletSenator/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scarletsenator/catia-cad.md) |
@@ -38,7 +39,6 @@ _1067 guides written so far · last update 2026-10-20 02:10 UTC_
 | [timhengc/mai-shen-zai-ci](https://github.com/timhengc/mai-shen-zai-ci) | JavaScript project | Runs in the browser with a free account | [guide](guides/timhengc/mai-shen-zai-ci.md) |
 | [vercel-labs/fx0](https://github.com/vercel-labs/fx0) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/vercel-labs/fx0.md) |
 | [Krusty84/awesome-siemens-dis](https://github.com/Krusty84/awesome-siemens-dis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/krusty84/awesome-siemens-dis.md) |
-| [matt-pio00p9/YouTube-Views-Boost-Free-View-Booster-Growth-Tool-2026](https://github.com/matt-pio00p9/YouTube-Views-Boost-Free-View-Booster-Growth-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/matt-pio00p9/youtube-views-boost-free-view-booster-growth-tool-2026.md) |
 <!-- latest:end -->
 
 ## How it works

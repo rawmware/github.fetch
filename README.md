@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1080 guides written so far · last update 2026-10-20 07:41 UTC_
+_1081 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wee-b/Jotlet](https://github.com/wee-b/Jotlet) | Vite app | Runs in the browser with a free account | [guide](guides/wee-b/jotlet.md) |
 | [Hugo-Dz/spritefusion-sprite-normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) | Rust project | Runs in the browser with a free account | [guide](guides/hugo-dz/spritefusion-sprite-normals.md) |
 | [MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks) | Shell project | Runs in the browser with a free account | [guide](guides/miaai-lab/deepseek-v4.1-flash-1017-2x-dgx-sparks.md) |
 | [mclhm8182/tvhome-zh](https://github.com/mclhm8182/tvhome-zh) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mclhm8182/tvhome-zh.md) |
@@ -38,7 +39,6 @@ _1080 guides written so far · last update 2026-10-20 07:41 UTC_
 | [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) | Python project | Runs in the browser with a free account | [guide](guides/unixnu/unixnu.md) |
 | [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/toomramcharan/tv-vibehack.md) |
 | [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks) | Vite app | Runs in a browser tab, no account needed | [guide](guides/stackedlol/ascii-sharks.md) |
-| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joasasantos/rea-prompts.md) |
 <!-- latest:end -->
 
 ## How it works

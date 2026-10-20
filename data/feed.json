@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T13:02:58.350Z",
- "totalGuides": 1089,
+ "updatedAt": "2026-10-20T13:02:58.854Z",
+ "totalGuides": 1090,
  "items": [
+  {
+   "fullName": "JieChiang/VRS-Zhiyuan-Recommendation",
+   "owner": "JieChiang",
+   "name": "VRS-Zhiyuan-Recommendation",
+   "url": "https://github.com/JieChiang/VRS-Zhiyuan-Recommendation",
+   "avatar": "https://avatars.githubusercontent.com/u/344180871?v=4",
+   "description": "VRS志愿推荐系统：FastAPI + Neo4j + DeepSeek，浙江高考历史资料示例，含Excel数据模板。",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 97,
+   "forks": 2,
+   "createdAt": "2026-10-19T04:28:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T13:02:58.853Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/JieChiang/VRS-Zhiyuan-Recommendation/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/JieChiang/VRS-Zhiyuan-Recommendation?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/JieChiang/VRS-Zhiyuan-Recommendation",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/JieChiang/VRS-Zhiyuan-Recommendation/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/JieChiang/VRS-Zhiyuan-Recommendation.git\ncd VRS-Zhiyuan-Recommendation\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/JieChiang/VRS-Zhiyuan-Recommendation\nWhat it says it does: \"VRS志愿推荐系统：FastAPI + Neo4j + DeepSeek，浙江高考历史资料示例，含Excel数据模板。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T13:02:58.853Z"
+  },
   {
    "fullName": "lwh0630/SignalScope",
    "owner": "lwh0630",
@@ -31162,66 +31228,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/gillverd/accelerando-8192\nWhat it says it does: \"Accelerando-8192 — an 8,192-token alien glyph alphabet, interactive encoder, and complete visual atlas.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T09:40:40.786Z"
-  },
-  {
-   "fullName": "Nikii-w/McLife-Desk",
-   "owner": "Nikii-w",
-   "name": "McLife-Desk",
-   "url": "https://github.com/Nikii-w/McLife-Desk",
-   "avatar": "https://avatars.githubusercontent.com/u/260427430?v=4",
-   "description": "忙碌了一天，回到家，你打开麦当劳，却突然纠结：今天吃了什么？这周点了几次？这个月花了多少钱？热量会不会超标？ 于是有了 **McLife Desk 麦门人生工作台**。它记录每一次点麦：日期、餐品、金额与热量，生成专属点餐日历；按当月消费次数和金额解锁麦门等级，还能通过趣味测试发现自己的麦门消费人格。 它不劝你戒掉麦当劳，只陪你在忙碌、独处和奖励自己的时刻，看见自己的选择，管理预算与生活节奏。 **记录每一次点麦，也记录你的生活。**",
-   "language": "HTML",
-   "topics": [],
-   "license": null,
-   "stars": 52,
-   "forks": 3,
-   "createdAt": "2026-10-11T01:58:45Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T09:40:40.635Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Nikii-w/McLife-Desk?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Nikii-w/McLife-Desk",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Nikii-w/McLife-Desk/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Nikii-w/McLife-Desk.git\ncd McLife-Desk",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Nikii-w/McLife-Desk\nWhat it says it does: \"忙碌了一天，回到家，你打开麦当劳，却突然纠结：今天吃了什么？这周点了几次？这个月花了多少钱？热量会不会超标？ 于是有了 **McLife Desk 麦门人生工作台**。它记录每一次点麦：日期、餐品、金额与热量，生成专属点餐日历；按当月消费次数和金额解锁麦门等级，还能通过趣味测试发现自己的麦门消费人格。 它不劝你戒掉麦当劳，只陪你在忙碌、独处和奖励自己的时刻，看见自己的选择，管理预算与生活节奏。 **记录每一次点麦，也记录你的生活。**\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T09:40:40.635Z"
   }
  ],
  "levels": {
-  "heavy": 102,
   "account": 213,
+  "heavy": 102,
   "instant": 33,
   "read": 152
  }

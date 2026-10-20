@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1069 guides written so far · last update 2026-10-20 07:41 UTC_
+_1070 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks) | Vite app | Runs in a browser tab, no account needed | [guide](guides/stackedlol/ascii-sharks.md) |
 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joasasantos/rea-prompts.md) |
 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyoffice.md) |
 | [vortexlakecanal/Rufus](https://github.com/vortexlakecanal/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexlakecanal/rufus.md) |
@@ -38,7 +39,6 @@ _1069 guides written so far · last update 2026-10-20 07:41 UTC_
 | [Animal2404/xeno-executor](https://github.com/Animal2404/xeno-executor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/animal2404/xeno-executor.md) |
 | [zilvestro/grammai](https://github.com/zilvestro/grammai) | React app | Runs in the browser with a free account | [guide](guides/zilvestro/grammai.md) |
 | [timhengc/mai-shen-zai-ci](https://github.com/timhengc/mai-shen-zai-ci) | JavaScript project | Runs in the browser with a free account | [guide](guides/timhengc/mai-shen-zai-ci.md) |
-| [vercel-labs/fx0](https://github.com/vercel-labs/fx0) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/vercel-labs/fx0.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T07:41:26.605Z",
- "totalGuides": 1071,
+ "updatedAt": "2026-10-20T07:41:26.839Z",
+ "totalGuides": 1072,
  "items": [
+  {
+   "fullName": "UniXNU/UniXNU",
+   "owner": "UniXNU",
+   "name": "UniXNU",
+   "url": "https://github.com/UniXNU/UniXNU",
+   "avatar": "https://avatars.githubusercontent.com/u/344663807?v=4",
+   "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 153,
+   "forks": 15,
+   "createdAt": "2026-10-19T10:46:55Z",
+   "branch": "main",
+   "homepage": "https://unixnu.com",
+   "addedAt": "2026-10-20T07:41:26.838Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/UniXNU/UniXNU/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/UniXNU/UniXNU?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/UniXNU/UniXNU",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/UniXNU/UniXNU/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/UniXNU/UniXNU.git\ncd UniXNU",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/UniXNU/UniXNU\nWhat it says it does: \"Run iOS and macOS on non-Apple ARM64 hardware through UEFI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T07:41:26.838Z"
+  },
   {
    "fullName": "ToomRamcharan/tv-vibehack",
    "owner": "ToomRamcharan",
@@ -31157,74 +31219,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/shaongitbd/doory\nWhat it says it does: \"Open source canva alternative\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T09:40:36.944Z"
-  },
-  {
-   "fullName": "Caldalis/MiniCPM-Math-harness",
-   "owner": "Caldalis",
-   "name": "MiniCPM-Math-harness",
-   "url": "https://github.com/Caldalis/MiniCPM-Math-harness",
-   "avatar": "https://avatars.githubusercontent.com/u/149297479?v=4",
-   "description": "built around a 2.5B math model that fits on one GPU or a laptop.",
-   "language": "Python",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 62,
-   "forks": 0,
-   "createdAt": "2026-10-10T03:01:06Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T02:28:04.211Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Caldalis/MiniCPM-Math-harness/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Caldalis/MiniCPM-Math-harness?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Caldalis/MiniCPM-Math-harness",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Caldalis/MiniCPM-Math-harness/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Caldalis/MiniCPM-Math-harness.git\ncd MiniCPM-Math-harness\npip install -e .",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Caldalis/MiniCPM-Math-harness\nWhat it says it does: \"built around a 2.5B math model that fits on one GPU or a laptop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T02:28:04.211Z"
   }
  ],
  "levels": {
+  "account": 214,
   "heavy": 97,
   "instant": 34,
-  "read": 155,
-  "account": 214
+  "read": 155
  }
 }

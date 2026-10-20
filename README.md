@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1074 guides written so far · last update 2026-10-20 07:41 UTC_
+_1075 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wevm/ondine](https://github.com/wevm/ondine) | Vite app | Runs in the browser with a free account | [guide](guides/wevm/ondine.md) |
 | [C4rohan/Lampline](https://github.com/C4rohan/Lampline) | Python project | Runs in the browser with a free account | [guide](guides/c4rohan/lampline.md) |
 | [typecraft-dev/oma-cast](https://github.com/typecraft-dev/oma-cast) | JavaScript project | Runs in the browser with a free account | [guide](guides/typecraft-dev/oma-cast.md) |
 | [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) | Python project | Runs in the browser with a free account | [guide](guides/unixnu/unixnu.md) |
@@ -38,7 +39,6 @@ _1074 guides written so far · last update 2026-10-20 07:41 UTC_
 | [symboladvocateshaft/KeyShot-Pro](https://github.com/symboladvocateshaft/KeyShot-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/symboladvocateshaft/keyshot-pro.md) |
 | [ScarletSenator/Catia-Cad](https://github.com/ScarletSenator/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scarletsenator/catia-cad.md) |
 | [Separatepealter/Discord-Quest-Completer](https://github.com/Separatepealter/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/separatepealter/discord-quest-completer.md) |
-| [ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026](https://github.com/ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/ryan-bergio03h1/instagram-view-booster-free-reel-story-views-tool-2026.md) |
 <!-- latest:end -->
 
 ## How it works

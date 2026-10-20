@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1076 guides written so far · last update 2026-10-20 07:41 UTC_
+_1077 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [opentrap/opentrap](https://github.com/opentrap/opentrap) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/opentrap/opentrap.md) |
 | [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) | Python project | Runs in the browser with a free account | [guide](guides/memtensor/memt-1.0.md) |
 | [wevm/ondine](https://github.com/wevm/ondine) | Vite app | Runs in the browser with a free account | [guide](guides/wevm/ondine.md) |
 | [C4rohan/Lampline](https://github.com/C4rohan/Lampline) | Python project | Runs in the browser with a free account | [guide](guides/c4rohan/lampline.md) |
@@ -38,7 +39,6 @@ _1076 guides written so far · last update 2026-10-20 07:41 UTC_
 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyoffice.md) |
 | [vortexlakecanal/Rufus](https://github.com/vortexlakecanal/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexlakecanal/rufus.md) |
 | [symboladvocateshaft/KeyShot-Pro](https://github.com/symboladvocateshaft/KeyShot-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/symboladvocateshaft/keyshot-pro.md) |
-| [ScarletSenator/Catia-Cad](https://github.com/ScarletSenator/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scarletsenator/catia-cad.md) |
 <!-- latest:end -->
 
 ## How it works

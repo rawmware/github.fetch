@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1099 guides written so far · last update 2026-10-20 17:56 UTC_
+_1100 guides written so far · last update 2026-10-20 17:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kailashsr38/ascii-magic-art](https://github.com/kailashsr38/ascii-magic-art) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kailashsr38/ascii-magic-art.md) |
 | [garycaogan/ai-live-avatar](https://github.com/garycaogan/ai-live-avatar) | Python project | Runs in the browser with a free account | [guide](guides/garycaogan/ai-live-avatar.md) |
 | [dominikmartn/harp](https://github.com/dominikmartn/harp) | Rust project | Runs in the browser with a free account | [guide](guides/dominikmartn/harp.md) |
 | [cs-tool-s/.github](https://github.com/cs-tool-s/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cs-tool-s/.github.md) |
@@ -38,7 +39,6 @@ _1099 guides written so far · last update 2026-10-20 17:56 UTC_
 | [pastawithpesto/PS5-14.10-Jailbreak-Research](https://github.com/pastawithpesto/PS5-14.10-Jailbreak-Research) | JavaScript project | Runs in the browser with a free account | [guide](guides/pastawithpesto/ps5-14.10-jailbreak-research.md) |
 | [JieChiang/VRS-Zhiyuan-Recommendation](https://github.com/JieChiang/VRS-Zhiyuan-Recommendation) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/jiechiang/vrs-zhiyuan-recommendation.md) |
 | [lwh0630/SignalScope](https://github.com/lwh0630/SignalScope) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/lwh0630/signalscope.md) |
-| [OJZen/totk-mobile](https://github.com/OJZen/totk-mobile) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/ojzen/totk-mobile.md) |
 <!-- latest:end -->
 
 ## How it works

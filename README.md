@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1077 guides written so far · last update 2026-10-20 07:41 UTC_
+_1078 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mclhm8182/tvhome-zh](https://github.com/mclhm8182/tvhome-zh) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mclhm8182/tvhome-zh.md) |
 | [opentrap/opentrap](https://github.com/opentrap/opentrap) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/opentrap/opentrap.md) |
 | [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) | Python project | Runs in the browser with a free account | [guide](guides/memtensor/memt-1.0.md) |
 | [wevm/ondine](https://github.com/wevm/ondine) | Vite app | Runs in the browser with a free account | [guide](guides/wevm/ondine.md) |
@@ -38,7 +39,6 @@ _1077 guides written so far · last update 2026-10-20 07:41 UTC_
 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joasasantos/rea-prompts.md) |
 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyoffice.md) |
 | [vortexlakecanal/Rufus](https://github.com/vortexlakecanal/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexlakecanal/rufus.md) |
-| [symboladvocateshaft/KeyShot-Pro](https://github.com/symboladvocateshaft/KeyShot-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/symboladvocateshaft/keyshot-pro.md) |
 <!-- latest:end -->
 
 ## How it works

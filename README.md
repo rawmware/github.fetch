@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1068 guides written so far · last update 2026-10-20 07:41 UTC_
+_1069 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joasasantos/rea-prompts.md) |
 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyoffice.md) |
 | [vortexlakecanal/Rufus](https://github.com/vortexlakecanal/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexlakecanal/rufus.md) |
 | [symboladvocateshaft/KeyShot-Pro](https://github.com/symboladvocateshaft/KeyShot-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/symboladvocateshaft/keyshot-pro.md) |
@@ -38,7 +39,6 @@ _1068 guides written so far · last update 2026-10-20 07:41 UTC_
 | [zilvestro/grammai](https://github.com/zilvestro/grammai) | React app | Runs in the browser with a free account | [guide](guides/zilvestro/grammai.md) |
 | [timhengc/mai-shen-zai-ci](https://github.com/timhengc/mai-shen-zai-ci) | JavaScript project | Runs in the browser with a free account | [guide](guides/timhengc/mai-shen-zai-ci.md) |
 | [vercel-labs/fx0](https://github.com/vercel-labs/fx0) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/vercel-labs/fx0.md) |
-| [Krusty84/awesome-siemens-dis](https://github.com/Krusty84/awesome-siemens-dis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/krusty84/awesome-siemens-dis.md) |
 <!-- latest:end -->
 
 ## How it works

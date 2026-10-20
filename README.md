@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1113 guides written so far · last update 2026-10-20 21:31 UTC_
+_1114 guides written so far · last update 2026-10-20 21:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BlueHeisenberg/SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/blueheisenberg/scskiller.md) |
 | [omnirush-ai/omnirush-gui](https://github.com/omnirush-ai/omnirush-gui) | JavaScript project | Runs in the browser with a free account | [guide](guides/omnirush-ai/omnirush-gui.md) |
 | [Saffsanity/sill](https://github.com/Saffsanity/sill) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/saffsanity/sill.md) |
 | [OmkarK97/webos-vibehack](https://github.com/OmkarK97/webos-vibehack) | JavaScript project | Runs in the browser with a free account | [guide](guides/omkark97/webos-vibehack.md) |
@@ -38,7 +39,6 @@ _1113 guides written so far · last update 2026-10-20 21:31 UTC_
 | [kulwantnagi/android-tv-makeover](https://github.com/kulwantnagi/android-tv-makeover) | Python project | Runs in the browser with a free account | [guide](guides/kulwantnagi/android-tv-makeover.md) |
 | [MZhao-ouo/Touchable](https://github.com/MZhao-ouo/Touchable) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mzhao-ouo/touchable.md) |
 | [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame) | JavaScript project | Runs in the browser with a free account | [guide](guides/nthnclrk/cleanframe.md) |
-| [thebcd69/bcd-games](https://github.com/thebcd69/bcd-games) | C project | Needs a real machine (or a GPU) to run | [guide](guides/thebcd69/bcd-games.md) |
 <!-- latest:end -->
 
 ## How it works

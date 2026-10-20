@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T17:56:53.151Z",
- "totalGuides": 1103,
+ "updatedAt": "2026-10-20T17:56:53.353Z",
+ "totalGuides": 1104,
  "items": [
+  {
+   "fullName": "MZhao-ouo/Touchable",
+   "owner": "MZhao-ouo",
+   "name": "Touchable",
+   "url": "https://github.com/MZhao-ouo/Touchable",
+   "avatar": "https://avatars.githubusercontent.com/u/70903329?v=4",
+   "description": "A better gaming experience for Switch games ported to iOS.",
+   "language": "C",
+   "topics": [],
+   "license": null,
+   "stars": 105,
+   "forks": 18,
+   "createdAt": "2026-10-19T18:39:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T17:56:53.352Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/MZhao-ouo/Touchable?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/MZhao-ouo/Touchable",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/MZhao-ouo/Touchable/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/MZhao-ouo/Touchable.git\ncd Touchable",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/MZhao-ouo/Touchable\nWhat it says it does: \"A better gaming experience for Switch games ported to iOS.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T17:56:53.352Z"
+  },
   {
    "fullName": "nthnclrk/CleanFrame",
    "owner": "nthnclrk",
@@ -31254,69 +31311,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/StellarTyrant/ultra-Iso\nWhat it says it does: \"Ultra Iso optimizes your desktop software utility configuration with a streamlined approach to professional task management and efficiency enhancement...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T19:23:02.672Z"
-  },
-  {
-   "fullName": "ashcustodiandolmen/Cinebench",
-   "owner": "ashcustodiandolmen",
-   "name": "Cinebench",
-   "url": "https://github.com/ashcustodiandolmen/Cinebench",
-   "avatar": "https://avatars.githubusercontent.com/u/292123005?v=4",
-   "description": "Enhances professional desktop utility configurations through rigorous performance benchmarking and resource optimization.",
-   "language": null,
-   "topics": [
-    "cinebench",
-    "cinebench-2026",
-    "cinebench-crack",
-    "cinebench-free",
-    "cinebench-r23",
-    "cpu-benchmark",
-    "hardware-optimization",
-    "render-score"
-   ],
-   "license": null,
-   "stars": 85,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:13:59Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T19:23:02.433Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ashcustodiandolmen/Cinebench",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ashcustodiandolmen/Cinebench/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ashcustodiandolmen/Cinebench\nWhat it says it does: \"Enhances professional desktop utility configurations through rigorous performance benchmarking and resource optimization.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T19:23:02.433Z"
   }
  ],
  "levels": {
+  "heavy": 107,
   "account": 217,
-  "heavy": 106,
   "instant": 33,
-  "read": 144
+  "read": 143
  }
 }

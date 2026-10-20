@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1103 guides written so far · last update 2026-10-20 17:56 UTC_
+_1104 guides written so far · last update 2026-10-20 17:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MZhao-ouo/Touchable](https://github.com/MZhao-ouo/Touchable) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mzhao-ouo/touchable.md) |
 | [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame) | JavaScript project | Runs in the browser with a free account | [guide](guides/nthnclrk/cleanframe.md) |
 | [thebcd69/bcd-games](https://github.com/thebcd69/bcd-games) | C project | Needs a real machine (or a GPU) to run | [guide](guides/thebcd69/bcd-games.md) |
 | [indexable-inc/ra-jit](https://github.com/indexable-inc/ra-jit) | Rust project | Runs in the browser with a free account | [guide](guides/indexable-inc/ra-jit.md) |
@@ -38,7 +39,6 @@ _1103 guides written so far · last update 2026-10-20 17:56 UTC_
 | [Blapples/SekaiPop](https://github.com/Blapples/SekaiPop) | QML project | Runs in the browser with a free account | [guide](guides/blapples/sekaipop.md) |
 | [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/harkhowalia-1/macsubsystemforandroid.md) |
 | [mistralai/timestral](https://github.com/mistralai/timestral) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mistralai/timestral.md) |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/deepseek-ai/deepinfer.md) |
 <!-- latest:end -->
 
 ## How it works

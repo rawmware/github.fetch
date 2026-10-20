@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1107 guides written so far · last update 2026-10-20 17:56 UTC_
+_1108 guides written so far · last update 2026-10-20 17:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SandboxWorldOnline/Open-Terraria](https://github.com/SandboxWorldOnline/Open-Terraria) | Vite app | Runs in a browser tab, no account needed | [guide](guides/sandboxworldonline/open-terraria.md) |
 | [TobiasFriedly/smg-gba](https://github.com/TobiasFriedly/smg-gba) | C project | Needs a real machine (or a GPU) to run | [guide](guides/tobiasfriedly/smg-gba.md) |
 | [oil-oil/dsh-oil-ui](https://github.com/oil-oil/dsh-oil-ui) | JavaScript project | Runs in the browser with a free account | [guide](guides/oil-oil/dsh-oil-ui.md) |
 | [kulwantnagi/android-tv-makeover](https://github.com/kulwantnagi/android-tv-makeover) | Python project | Runs in the browser with a free account | [guide](guides/kulwantnagi/android-tv-makeover.md) |
@@ -38,7 +39,6 @@ _1107 guides written so far · last update 2026-10-20 17:56 UTC_
 | [garycaogan/ai-live-avatar](https://github.com/garycaogan/ai-live-avatar) | Python project | Runs in the browser with a free account | [guide](guides/garycaogan/ai-live-avatar.md) |
 | [dominikmartn/harp](https://github.com/dominikmartn/harp) | Rust project | Runs in the browser with a free account | [guide](guides/dominikmartn/harp.md) |
 | [cs-tool-s/.github](https://github.com/cs-tool-s/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cs-tool-s/.github.md) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | JavaScript project | Runs in the browser with a free account | [guide](guides/lemomo-ai/lemo-opuscar.md) |
 <!-- latest:end -->
 
 ## How it works

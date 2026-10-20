@@ -1,0 +1,54 @@
+# garycaogan/ai-live-avatar
+
+> AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）
+
+**Python project** · ★ 138 · Python · created 2026-10-19
+
+**In the browser:** Runs in the browser with a free account.
+
+## Open it in your browser
+
+| Where | What you need | |
+|---|---|---|
+| [Binder](https://mybinder.org/v2/gh/garycaogan/ai-live-avatar/main) | nothing | Free, no sign-in. Can take a few minutes to start. |
+| [GitHub Codespaces](https://codespaces.new/garycaogan/ai-live-avatar?quickstart=1) | free GitHub account | A whole Linux computer in your browser (60 free hours a month). Works for almost any repo. |
+| [Browse the code](https://github.dev/garycaogan/ai-live-avatar) | nothing | VS Code in the browser for reading and editing. |
+| [Make your own copy (fork)](https://github.com/garycaogan/ai-live-avatar/fork) | free GitHub account | Your own copy you can change and host for free. |
+
+## Commands to type (in Codespaces or StackBlitz terminal)
+
+```sh
+pip install -r requirements.txt
+python server.py
+```
+
+## Or run it on your own computer
+
+```sh
+git clone --depth 1 https://github.com/garycaogan/ai-live-avatar.git
+cd ai-live-avatar
+pip install -r requirements.txt
+python server.py
+```
+
+## Make it yours (paste this into ChatGPT, Claude or Gemini)
+
+```text
+I found this GitHub project: https://github.com/garycaogan/ai-live-avatar
+What it says it does: "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）"
+
+I want to run it and make my own version in my web browser, without installing anything on my computer.
+1. Explain what it does in plain English, in 3 sentences.
+2. Walk me through running it with Binder, step by step, one step at a time.
+3. Help me fork it and change one small thing so it's mine.
+4. Show me how to put my version online for free.
+Ask me questions first if anything is unclear.
+```
+
+## License
+
+MIT: you can use, change and share it — keep the license file and credit the author.
+
+---
+
+Found by [github.fetch](https://github.com/rawmware/github.fetch) on 2026-10-20 · [all fresh repos](https://www.aictuallyhelp.com/repos.html)

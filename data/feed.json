@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T13:02:58.037Z",
- "totalGuides": 1088,
+ "updatedAt": "2026-10-20T13:02:58.350Z",
+ "totalGuides": 1089,
  "items": [
+  {
+   "fullName": "lwh0630/SignalScope",
+   "owner": "lwh0630",
+   "name": "SignalScope",
+   "url": "https://github.com/lwh0630/SignalScope",
+   "avatar": "https://avatars.githubusercontent.com/u/79432134?v=4",
+   "description": "SignalScope — An Android network-signal inspector built with Flutter and Kotlin. SIM, LTE/5G, Wi-Fi, GNSS, and latency tests.",
+   "language": "Dart",
+   "topics": [],
+   "license": null,
+   "stars": 99,
+   "forks": 7,
+   "createdAt": "2026-10-18T14:22:44Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T13:02:58.350Z",
+   "stack": {
+    "kind": "native",
+    "label": "Dart project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/lwh0630/SignalScope?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/lwh0630/SignalScope",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/lwh0630/SignalScope/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Dart usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/lwh0630/SignalScope.git\ncd SignalScope",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/lwh0630/SignalScope\nWhat it says it does: \"SignalScope — An Android network-signal inspector built with Flutter and Kotlin. SIM, LTE/5G, Wi-Fi, GNSS, and latency tests.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T13:02:58.350Z"
+  },
   {
    "fullName": "OJZen/totk-mobile",
    "owner": "OJZen",
@@ -31160,82 +31217,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Nikii-w/McLife-Desk\nWhat it says it does: \"忙碌了一天，回到家，你打开麦当劳，却突然纠结：今天吃了什么？这周点了几次？这个月花了多少钱？热量会不会超标？ 于是有了 **McLife Desk 麦门人生工作台**。它记录每一次点麦：日期、餐品、金额与热量，生成专属点餐日历；按当月消费次数和金额解锁麦门等级，还能通过趣味测试发现自己的麦门消费人格。 它不劝你戒掉麦当劳，只陪你在忙碌、独处和奖励自己的时刻，看见自己的选择，管理预算与生活节奏。 **记录每一次点麦，也记录你的生活。**\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T09:40:40.635Z"
-  },
-  {
-   "fullName": "kedube/ha-iss-tracker",
-   "owner": "kedube",
-   "name": "ha-iss-tracker",
-   "url": "https://github.com/kedube/ha-iss-tracker",
-   "avatar": "https://avatars.githubusercontent.com/u/65140061?v=4",
-   "description": "ISS Tracker for Home Assistant: predicts when the International Space Station passes overhead and follows it on a 3D globe.",
-   "language": "Python",
-   "topics": [
-    "home-assistant",
-    "home-assistant-hacs",
-    "home-assistant-integration",
-    "homeassistant",
-    "homeassistant-hacs",
-    "homeassistant-integration",
-    "international-space-station",
-    "iss"
-   ],
-   "license": "GPL-3.0",
-   "stars": 52,
-   "forks": 1,
-   "createdAt": "2026-10-10T02:10:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T09:40:40.450Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/kedube/ha-iss-tracker/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/kedube/ha-iss-tracker?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/kedube/ha-iss-tracker",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kedube/ha-iss-tracker/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/kedube/ha-iss-tracker.git\ncd ha-iss-tracker\npip install -e .",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/kedube/ha-iss-tracker\nWhat it says it does: \"ISS Tracker for Home Assistant: predicts when the International Space Station passes overhead and follows it on a 3D globe.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T09:40:40.450Z"
   }
  ],
  "levels": {
-  "heavy": 101,
-  "account": 214,
+  "heavy": 102,
+  "account": 213,
   "instant": 33,
   "read": 152
  }

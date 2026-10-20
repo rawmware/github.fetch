@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1088 guides written so far · last update 2026-10-20 13:02 UTC_
+_1089 guides written so far · last update 2026-10-20 13:02 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lwh0630/SignalScope](https://github.com/lwh0630/SignalScope) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/lwh0630/signalscope.md) |
 | [OJZen/totk-mobile](https://github.com/OJZen/totk-mobile) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/ojzen/totk-mobile.md) |
 | [mihawk-99/PS5_MihawkOS](https://github.com/mihawk-99/PS5_MihawkOS) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mihawk-99/ps5_mihawkos.md) |
 | [ZiChuanLan/pi-purge](https://github.com/ZiChuanLan/pi-purge) | JavaScript project | Runs in the browser with a free account | [guide](guides/zichuanlan/pi-purge.md) |
@@ -38,7 +39,6 @@ _1088 guides written so far · last update 2026-10-20 13:02 UTC_
 | [Hugo-Dz/spritefusion-sprite-normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) | Rust project | Runs in the browser with a free account | [guide](guides/hugo-dz/spritefusion-sprite-normals.md) |
 | [MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks) | Shell project | Runs in the browser with a free account | [guide](guides/miaai-lab/deepseek-v4.1-flash-1017-2x-dgx-sparks.md) |
 | [mclhm8182/tvhome-zh](https://github.com/mclhm8182/tvhome-zh) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mclhm8182/tvhome-zh.md) |
-| [opentrap/opentrap](https://github.com/opentrap/opentrap) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/opentrap/opentrap.md) |
 <!-- latest:end -->
 
 ## How it works

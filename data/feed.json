@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T13:03:00.255Z",
- "totalGuides": 1094,
+ "updatedAt": "2026-10-20T13:03:00.468Z",
+ "totalGuides": 1095,
  "items": [
+  {
+   "fullName": "Blapples/SekaiPop",
+   "owner": "Blapples",
+   "name": "SekaiPop",
+   "url": "https://github.com/Blapples/SekaiPop",
+   "avatar": "https://avatars.githubusercontent.com/u/155346380?v=4",
+   "description": "a project sekai inspired quickshell rice",
+   "language": "QML",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 295,
+   "forks": 16,
+   "createdAt": "2026-10-14T08:59:25Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T13:03:00.468Z",
+   "stack": {
+    "kind": "other",
+    "label": "QML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Blapples/SekaiPop?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Blapples/SekaiPop",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Blapples/SekaiPop/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Blapples/SekaiPop.git\ncd SekaiPop",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/Blapples/SekaiPop\nWhat it says it does: \"a project sekai inspired quickshell rice\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T13:03:00.468Z"
+  },
   {
    "fullName": "harkhowalia-1/MacSubsystemForAndroid",
    "owner": "harkhowalia-1",
@@ -31162,73 +31217,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/CrownDemolisher/Discord-Server-Cloner\nWhat it says it does: \"Discord Server Cloner is a professional desktop software utility configuration that streamlines server replication by providing an intuitive interface to...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T19:23:00.930Z"
-  },
-  {
-   "fullName": "Dushiqi1987/codex-remote-bridge",
-   "owner": "Dushiqi1987",
-   "name": "codex-remote-bridge",
-   "url": "https://github.com/Dushiqi1987/codex-remote-bridge",
-   "avatar": "https://avatars.githubusercontent.com/u/120879481?v=4",
-   "description": "本地 Codex 连接服务器 Codex CLI：通过 SSH 反向隧道共享本地 HTTP 代理或直连网络，适用于 AutoDL 等 GPU 科研服务器。含 Python 转发器、PowerShell 隧道脚本、中文教程与测试。",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 88,
-   "forks": 10,
-   "createdAt": "2026-10-12T07:15:44Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T19:23:00.733Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Dushiqi1987/codex-remote-bridge/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Dushiqi1987/codex-remote-bridge?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Dushiqi1987/codex-remote-bridge",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Dushiqi1987/codex-remote-bridge/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Dushiqi1987/codex-remote-bridge.git\ncd codex-remote-bridge",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Dushiqi1987/codex-remote-bridge\nWhat it says it does: \"本地 Codex 连接服务器 Codex CLI：通过 SSH 反向隧道共享本地 HTTP 代理或直连网络，适用于 AutoDL 等 GPU 科研服务器。含 Python 转发器、PowerShell 隧道脚本、中文教程与测试。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T19:23:00.733Z"
   }
  ],
  "levels": {
-  "heavy": 105,
   "account": 211,
+  "heavy": 105,
   "instant": 32,
   "read": 152
  }

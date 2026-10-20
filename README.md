@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1086 guides written so far · last update 2026-10-20 13:02 UTC_
+_1087 guides written so far · last update 2026-10-20 13:02 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mihawk-99/PS5_MihawkOS](https://github.com/mihawk-99/PS5_MihawkOS) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mihawk-99/ps5_mihawkos.md) |
 | [ZiChuanLan/pi-purge](https://github.com/ZiChuanLan/pi-purge) | JavaScript project | Runs in the browser with a free account | [guide](guides/zichuanlan/pi-purge.md) |
 | [aicodeking/pandacode](https://github.com/aicodeking/pandacode) | Vite app | Runs in the browser with a free account | [guide](guides/aicodeking/pandacode.md) |
 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/pengchujin/aerial-tv.md) |
@@ -38,7 +39,6 @@ _1086 guides written so far · last update 2026-10-20 13:02 UTC_
 | [mclhm8182/tvhome-zh](https://github.com/mclhm8182/tvhome-zh) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mclhm8182/tvhome-zh.md) |
 | [opentrap/opentrap](https://github.com/opentrap/opentrap) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/opentrap/opentrap.md) |
 | [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) | Python project | Runs in the browser with a free account | [guide](guides/memtensor/memt-1.0.md) |
-| [wevm/ondine](https://github.com/wevm/ondine) | Vite app | Runs in the browser with a free account | [guide](guides/wevm/ondine.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1093 guides written so far · last update 2026-10-20 13:02 UTC_
+_1094 guides written so far · last update 2026-10-20 13:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/harkhowalia-1/macsubsystemforandroid.md) |
 | [mistralai/timestral](https://github.com/mistralai/timestral) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mistralai/timestral.md) |
 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/deepseek-ai/deepinfer.md) |
 | [pastawithpesto/PS5-14.10-Jailbreak-Research](https://github.com/pastawithpesto/PS5-14.10-Jailbreak-Research) | JavaScript project | Runs in the browser with a free account | [guide](guides/pastawithpesto/ps5-14.10-jailbreak-research.md) |
@@ -38,7 +39,6 @@ _1093 guides written so far · last update 2026-10-20 13:02 UTC_
 | [aicodeking/pandacode](https://github.com/aicodeking/pandacode) | Vite app | Runs in the browser with a free account | [guide](guides/aicodeking/pandacode.md) |
 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/pengchujin/aerial-tv.md) |
 | [val-tools/.github](https://github.com/val-tools/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/val-tools/.github.md) |
-| [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) | HTML project | Runs in the browser with a free account | [guide](guides/underleveledbuilder/awesome-short-drama-skills.md) |
 <!-- latest:end -->
 
 ## How it works

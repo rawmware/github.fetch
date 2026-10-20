@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T13:02:59.912Z",
- "totalGuides": 1093,
+ "updatedAt": "2026-10-20T13:03:00.255Z",
+ "totalGuides": 1094,
  "items": [
+  {
+   "fullName": "harkhowalia-1/MacSubsystemForAndroid",
+   "owner": "harkhowalia-1",
+   "name": "MacSubsystemForAndroid",
+   "url": "https://github.com/harkhowalia-1/MacSubsystemForAndroid",
+   "avatar": "https://avatars.githubusercontent.com/u/275804332?v=4",
+   "description": "Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + scrcpy).",
+   "language": "Swift",
+   "topics": [
+    "android",
+    "android-apps",
+    "android-emulator",
+    "android-on-mac",
+    "apk",
+    "apple-silicon",
+    "f-droid",
+    "hypervisor"
+   ],
+   "license": "GPL-3.0",
+   "stars": 311,
+   "forks": 14,
+   "createdAt": "2026-10-15T03:59:55Z",
+   "branch": "main",
+   "homepage": "https://harkhowalia-1.github.io/MacSubsystemForAndroid/",
+   "addedAt": "2026-10-20T13:03:00.254Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/harkhowalia-1/MacSubsystemForAndroid?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/harkhowalia-1/MacSubsystemForAndroid",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/harkhowalia-1/MacSubsystemForAndroid/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/harkhowalia-1/MacSubsystemForAndroid.git\ncd MacSubsystemForAndroid",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/harkhowalia-1/MacSubsystemForAndroid\nWhat it says it does: \"Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + scrcpy).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T13:03:00.254Z"
+  },
   {
    "fullName": "mistralai/timestral",
    "owner": "mistralai",
@@ -31158,75 +31224,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Dushiqi1987/codex-remote-bridge\nWhat it says it does: \"本地 Codex 连接服务器 Codex CLI：通过 SSH 反向隧道共享本地 HTTP 代理或直连网络，适用于 AutoDL 等 GPU 科研服务器。含 Python 转发器、PowerShell 隧道脚本、中文教程与测试。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T19:23:00.733Z"
-  },
-  {
-   "fullName": "juliobsz/skills",
-   "owner": "juliobsz",
-   "name": "skills",
-   "url": "https://github.com/juliobsz/skills",
-   "avatar": "https://avatars.githubusercontent.com/u/68253526?v=4",
-   "description": "An agent skill that builds award-caliber websites from one line",
-   "language": "JavaScript",
-   "topics": [
-    "agent-skills",
-    "astro",
-    "awwwards",
-    "claude-code",
-    "claude-skills",
-    "codex",
-    "creative-coding",
-    "frontend"
-   ],
-   "license": "MIT",
-   "stars": 153,
-   "forks": 2,
-   "createdAt": "2026-10-12T00:07:32Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T19:23:00.487Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/juliobsz/skills?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/juliobsz/skills",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/juliobsz/skills/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/juliobsz/skills.git\ncd skills",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/juliobsz/skills\nWhat it says it does: \"An agent skill that builds award-caliber websites from one line\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T19:23:00.487Z"
   }
  ],
  "levels": {
-  "heavy": 104,
-  "account": 212,
+  "heavy": 105,
+  "account": 211,
   "instant": 32,
   "read": 152
  }

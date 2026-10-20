@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1075 guides written so far · last update 2026-10-20 07:41 UTC_
+_1076 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) | Python project | Runs in the browser with a free account | [guide](guides/memtensor/memt-1.0.md) |
 | [wevm/ondine](https://github.com/wevm/ondine) | Vite app | Runs in the browser with a free account | [guide](guides/wevm/ondine.md) |
 | [C4rohan/Lampline](https://github.com/C4rohan/Lampline) | Python project | Runs in the browser with a free account | [guide](guides/c4rohan/lampline.md) |
 | [typecraft-dev/oma-cast](https://github.com/typecraft-dev/oma-cast) | JavaScript project | Runs in the browser with a free account | [guide](guides/typecraft-dev/oma-cast.md) |
@@ -38,7 +39,6 @@ _1075 guides written so far · last update 2026-10-20 07:41 UTC_
 | [vortexlakecanal/Rufus](https://github.com/vortexlakecanal/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexlakecanal/rufus.md) |
 | [symboladvocateshaft/KeyShot-Pro](https://github.com/symboladvocateshaft/KeyShot-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/symboladvocateshaft/keyshot-pro.md) |
 | [ScarletSenator/Catia-Cad](https://github.com/ScarletSenator/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scarletsenator/catia-cad.md) |
-| [Separatepealter/Discord-Quest-Completer](https://github.com/Separatepealter/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/separatepealter/discord-quest-completer.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T17:56:52.664Z",
- "totalGuides": 1101,
+ "updatedAt": "2026-10-20T17:56:52.862Z",
+ "totalGuides": 1102,
  "items": [
+  {
+   "fullName": "thebcd69/bcd-games",
+   "owner": "thebcd69",
+   "name": "bcd-games",
+   "url": "https://github.com/thebcd69/bcd-games",
+   "avatar": "https://avatars.githubusercontent.com/u/190844990?v=4",
+   "description": "BCD: Windows games on iPhone and iPad. Steam and GOG built in.",
+   "language": "C",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 112,
+   "forks": 14,
+   "createdAt": "2026-10-19T09:51:10Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T17:56:52.861Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/thebcd69/bcd-games?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/thebcd69/bcd-games",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/thebcd69/bcd-games/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/thebcd69/bcd-games.git\ncd bcd-games",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/thebcd69/bcd-games\nWhat it says it does: \"BCD: Windows games on iPhone and iPad. Steam and GOG built in.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T17:56:52.861Z"
+  },
   {
    "fullName": "indexable-inc/ra-jit",
    "owner": "indexable-inc",
@@ -31240,69 +31297,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Dreamorgutter/Discord-Nitro-Generator\nWhat it says it does: \"Discord Nitro Generator optimizes your desktop utility experience by providing a seamless and efficient process to generate unlimited in-game currency...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T19:23:02.240Z"
-  },
-  {
-   "fullName": "Grayencram22/Discord-Quest-Completer",
-   "owner": "Grayencram22",
-   "name": "Discord-Quest-Completer",
-   "url": "https://github.com/Grayencram22/Discord-Quest-Completer",
-   "avatar": "https://avatars.githubusercontent.com/u/292123289?v=4",
-   "description": "Discord Quest Completer is a professional desktop software utility configuration that optimizes your gaming experience by automatically completing in-game...",
-   "language": null,
-   "topics": [
-    "discord-automation",
-    "discord-orbs",
-    "discord-quest",
-    "discord-quest-completer-2026",
-    "discord-quest-completer-bot",
-    "discord-quest-completer-free",
-    "discord-quests",
-    "discord-rewards"
-   ],
-   "license": null,
-   "stars": 85,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:16:16Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T19:23:02.065Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Grayencram22/Discord-Quest-Completer",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Grayencram22/Discord-Quest-Completer/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Grayencram22/Discord-Quest-Completer\nWhat it says it does: \"Discord Quest Completer is a professional desktop software utility configuration that optimizes your gaming experience by automatically completing in-game...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T19:23:02.065Z"
   }
  ],
  "levels": {
+  "heavy": 106,
   "account": 216,
   "instant": 33,
-  "heavy": 105,
-  "read": 146
+  "read": 145
  }
 }

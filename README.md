@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1101 guides written so far · last update 2026-10-20 17:56 UTC_
+_1102 guides written so far · last update 2026-10-20 17:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [thebcd69/bcd-games](https://github.com/thebcd69/bcd-games) | C project | Needs a real machine (or a GPU) to run | [guide](guides/thebcd69/bcd-games.md) |
 | [indexable-inc/ra-jit](https://github.com/indexable-inc/ra-jit) | Rust project | Runs in the browser with a free account | [guide](guides/indexable-inc/ra-jit.md) |
 | [kailashsr38/ascii-magic-art](https://github.com/kailashsr38/ascii-magic-art) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kailashsr38/ascii-magic-art.md) |
 | [garycaogan/ai-live-avatar](https://github.com/garycaogan/ai-live-avatar) | Python project | Runs in the browser with a free account | [guide](guides/garycaogan/ai-live-avatar.md) |
@@ -38,7 +39,6 @@ _1101 guides written so far · last update 2026-10-20 17:56 UTC_
 | [mistralai/timestral](https://github.com/mistralai/timestral) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mistralai/timestral.md) |
 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/deepseek-ai/deepinfer.md) |
 | [pastawithpesto/PS5-14.10-Jailbreak-Research](https://github.com/pastawithpesto/PS5-14.10-Jailbreak-Research) | JavaScript project | Runs in the browser with a free account | [guide](guides/pastawithpesto/ps5-14.10-jailbreak-research.md) |
-| [JieChiang/VRS-Zhiyuan-Recommendation](https://github.com/JieChiang/VRS-Zhiyuan-Recommendation) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/jiechiang/vrs-zhiyuan-recommendation.md) |
 <!-- latest:end -->
 
 ## How it works

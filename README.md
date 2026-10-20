@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1059 guides written so far · last update 2026-10-20 02:10 UTC_
+_1060 guides written so far · last update 2026-10-20 02:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zilvestro/grammai](https://github.com/zilvestro/grammai) | React app | Runs in the browser with a free account | [guide](guides/zilvestro/grammai.md) |
 | [timhengc/mai-shen-zai-ci](https://github.com/timhengc/mai-shen-zai-ci) | JavaScript project | Runs in the browser with a free account | [guide](guides/timhengc/mai-shen-zai-ci.md) |
 | [vercel-labs/fx0](https://github.com/vercel-labs/fx0) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/vercel-labs/fx0.md) |
 | [Krusty84/awesome-siemens-dis](https://github.com/Krusty84/awesome-siemens-dis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/krusty84/awesome-siemens-dis.md) |
@@ -38,7 +39,6 @@ _1059 guides written so far · last update 2026-10-20 02:10 UTC_
 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/knifelemon/filee.md) |
 | [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | Rust project | Runs in the browser with a free account | [guide](guides/tangency-labs/solidcraft.md) |
 | [TonF1917/claude-desktop-multiple-windows-different-api](https://github.com/TonF1917/claude-desktop-multiple-windows-different-api) | PowerShell project | Runs in the browser with a free account | [guide](guides/tonf1917/claude-desktop-multiple-windows-different-api.md) |
-| [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | Python project | Runs in the browser with a free account | [guide](guides/el4cteo/blender-skills.md) |
 <!-- latest:end -->
 
 ## How it works

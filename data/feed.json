@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T13:02:56.052Z",
- "totalGuides": 1083,
+ "updatedAt": "2026-10-20T13:02:56.242Z",
+ "totalGuides": 1084,
  "items": [
+  {
+   "fullName": "pengchujin/aerial-tv",
+   "owner": "pengchujin",
+   "name": "aerial-tv",
+   "url": "https://github.com/pengchujin/aerial-tv",
+   "avatar": "https://avatars.githubusercontent.com/u/16513318?v=4",
+   "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+   "language": "Kotlin",
+   "topics": [],
+   "license": "MIT",
+   "stars": 143,
+   "forks": 8,
+   "createdAt": "2026-10-20T09:13:06Z",
+   "branch": "main",
+   "homepage": "https://aerial.qust.me",
+   "addedAt": "2026-10-20T13:02:56.241Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/pengchujin/aerial-tv?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/pengchujin/aerial-tv",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/pengchujin/aerial-tv/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/pengchujin/aerial-tv.git\ncd aerial-tv",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/pengchujin/aerial-tv\nWhat it says it does: \"给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T13:02:56.241Z"
+  },
   {
    "fullName": "val-tools/.github",
    "owner": "val-tools",
@@ -31194,60 +31251,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/carreypro/ict-trading-model\nWhat it says it does: \"ICT and SMC market-structure validation skill with deterministic OHLCV scanning\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T09:40:39.409Z"
-  },
-  {
-   "fullName": "Teraflopping/xrevive",
-   "owner": "Teraflopping",
-   "name": "xrevive",
-   "url": "https://github.com/Teraflopping/xrevive",
-   "avatar": "https://avatars.githubusercontent.com/u/340316852?v=4",
-   "description": "Desktop launcher for Xrecomp games with xb.live online services",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 60,
-   "forks": 1,
-   "createdAt": "2026-10-11T14:17:34Z",
-   "branch": "main",
-   "homepage": "https://teraflopping.github.io/xrevive/",
-   "addedAt": "2026-10-12T09:40:39.225Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Teraflopping/xrevive",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Teraflopping/xrevive/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Teraflopping/xrevive\nWhat it says it does: \"Desktop launcher for Xrecomp games with xb.live online services\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T09:40:39.225Z"
   }
  ],
  "levels": {
+  "heavy": 99,
   "instant": 34,
   "account": 215,
-  "heavy": 98,
-  "read": 153
+  "read": 152
  }
 }

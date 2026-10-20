@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1084 guides written so far · last update 2026-10-20 13:02 UTC_
+_1085 guides written so far · last update 2026-10-20 13:02 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aicodeking/pandacode](https://github.com/aicodeking/pandacode) | Vite app | Runs in the browser with a free account | [guide](guides/aicodeking/pandacode.md) |
 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/pengchujin/aerial-tv.md) |
 | [val-tools/.github](https://github.com/val-tools/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/val-tools/.github.md) |
 | [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) | HTML project | Runs in the browser with a free account | [guide](guides/underleveledbuilder/awesome-short-drama-skills.md) |
@@ -38,7 +39,6 @@ _1084 guides written so far · last update 2026-10-20 13:02 UTC_
 | [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) | Python project | Runs in the browser with a free account | [guide](guides/memtensor/memt-1.0.md) |
 | [wevm/ondine](https://github.com/wevm/ondine) | Vite app | Runs in the browser with a free account | [guide](guides/wevm/ondine.md) |
 | [C4rohan/Lampline](https://github.com/C4rohan/Lampline) | Python project | Runs in the browser with a free account | [guide](guides/c4rohan/lampline.md) |
-| [typecraft-dev/oma-cast](https://github.com/typecraft-dev/oma-cast) | JavaScript project | Runs in the browser with a free account | [guide](guides/typecraft-dev/oma-cast.md) |
 <!-- latest:end -->
 
 ## How it works

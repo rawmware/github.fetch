@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T02:10:16.573Z",
- "totalGuides": 1060,
+ "updatedAt": "2026-10-20T02:10:16.795Z",
+ "totalGuides": 1061,
  "items": [
+  {
+   "fullName": "Animal2404/xeno-executor",
+   "owner": "Animal2404",
+   "name": "xeno-executor",
+   "url": "https://github.com/Animal2404/xeno-executor",
+   "avatar": "https://avatars.githubusercontent.com/u/123326832?v=4",
+   "description": "Published: 2026-10-19",
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "executor",
+    "luau",
+    "mit",
+    "roblox",
+    "windows"
+   ],
+   "license": "MIT",
+   "stars": 110,
+   "forks": 3,
+   "createdAt": "2026-10-19T18:15:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T02:10:16.795Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Animal2404/xeno-executor?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Animal2404/xeno-executor",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Animal2404/xeno-executor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Animal2404/xeno-executor.git\ncd xeno-executor",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Animal2404/xeno-executor\nWhat it says it does: \"Published: 2026-10-19\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T02:10:16.795Z"
+  },
   {
    "fullName": "zilvestro/grammai",
    "owner": "zilvestro",
@@ -31187,74 +31251,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/cxmza/windle\nWhat it says it does: \"Ship or slash — onchain promises with collateral on Solana. Teams back promises, markets price them, the chain decides.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T02:28:02.083Z"
-  },
-  {
-   "fullName": "nykooi1/vibe-wise",
-   "owner": "nykooi1",
-   "name": "vibe-wise",
-   "url": "https://github.com/nykooi1/vibe-wise",
-   "avatar": "https://avatars.githubusercontent.com/u/74839315?v=4",
-   "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 3416,
-   "forks": 139,
-   "createdAt": "2026-09-29T01:29:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-11T23:06:33.283Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/nykooi1/vibe-wise/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/nykooi1/vibe-wise?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/nykooi1/vibe-wise",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/nykooi1/vibe-wise/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/nykooi1/vibe-wise.git\ncd vibe-wise",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/nykooi1/vibe-wise\nWhat it says it does: \"A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-11T23:06:33.283Z"
   }
  ],
  "levels": {
-  "account": 217,
+  "heavy": 100,
+  "account": 216,
   "instant": 33,
-  "read": 151,
-  "heavy": 99
+  "read": 151
  }
 }

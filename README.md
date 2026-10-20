@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1118 guides written so far · last update 2026-10-20 21:31 UTC_
+_1119 guides written so far · last update 2026-10-20 21:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [KingKongRobotics/jumper](https://github.com/KingKongRobotics/jumper) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kingkongrobotics/jumper.md) |
 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | JavaScript project | Runs in the browser with a free account | [guide](guides/dzhng/jevgrep.md) |
 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | TypeScript project | Runs in the browser with a free account | [guide](guides/mexicat/pdoom-video.md) |
 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/contrastive-lm/clm.md) |
@@ -38,7 +39,6 @@ _1118 guides written so far · last update 2026-10-20 21:31 UTC_
 | [fort-skins/.github](https://github.com/fort-skins/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/fort-skins/.github.md) |
 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | HTML project | Runs in the browser with a free account | [guide](guides/kaankiziltug/logo-design-skill.md) |
 | [SandboxWorldOnline/Open-Terraria](https://github.com/SandboxWorldOnline/Open-Terraria) | Vite app | Runs in a browser tab, no account needed | [guide](guides/sandboxworldonline/open-terraria.md) |
-| [TobiasFriedly/smg-gba](https://github.com/TobiasFriedly/smg-gba) | C project | Needs a real machine (or a GPU) to run | [guide](guides/tobiasfriedly/smg-gba.md) |
 <!-- latest:end -->
 
 ## How it works

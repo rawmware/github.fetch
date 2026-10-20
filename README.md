@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1061 guides written so far · last update 2026-10-20 02:10 UTC_
+_1062 guides written so far · last update 2026-10-20 02:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kylebrown-eng20w4/Minecraft-FPS-Booster](https://github.com/kylebrown-eng20w4/Minecraft-FPS-Booster) | Python project | Runs in the browser with a free account | [guide](guides/kylebrown-eng20w4/minecraft-fps-booster.md) |
 | [Animal2404/xeno-executor](https://github.com/Animal2404/xeno-executor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/animal2404/xeno-executor.md) |
 | [zilvestro/grammai](https://github.com/zilvestro/grammai) | React app | Runs in the browser with a free account | [guide](guides/zilvestro/grammai.md) |
 | [timhengc/mai-shen-zai-ci](https://github.com/timhengc/mai-shen-zai-ci) | JavaScript project | Runs in the browser with a free account | [guide](guides/timhengc/mai-shen-zai-ci.md) |
@@ -38,7 +39,6 @@ _1061 guides written so far · last update 2026-10-20 02:10 UTC_
 | [EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer](https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer) | Python project | Runs in the browser with a free account | [guide](guides/epicrealmtitle/call-of-duty-modern-warfare-4-fps-optimizer.md) |
 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/simbasjungles/free-my-tv.md) |
 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/knifelemon/filee.md) |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | Rust project | Runs in the browser with a free account | [guide](guides/tangency-labs/solidcraft.md) |
 <!-- latest:end -->
 
 ## How it works

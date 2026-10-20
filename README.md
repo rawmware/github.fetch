@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1062 guides written so far · last update 2026-10-20 02:10 UTC_
+_1063 guides written so far · last update 2026-10-20 02:10 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026](https://github.com/ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/ryan-bergio03h1/instagram-view-booster-free-reel-story-views-tool-2026.md) |
 | [kylebrown-eng20w4/Minecraft-FPS-Booster](https://github.com/kylebrown-eng20w4/Minecraft-FPS-Booster) | Python project | Runs in the browser with a free account | [guide](guides/kylebrown-eng20w4/minecraft-fps-booster.md) |
 | [Animal2404/xeno-executor](https://github.com/Animal2404/xeno-executor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/animal2404/xeno-executor.md) |
 | [zilvestro/grammai](https://github.com/zilvestro/grammai) | React app | Runs in the browser with a free account | [guide](guides/zilvestro/grammai.md) |
@@ -38,7 +39,6 @@ _1062 guides written so far · last update 2026-10-20 02:10 UTC_
 | [james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026](https://github.com/james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026) | Python project | Runs in the browser with a free account | [guide](guides/james-dev-lab2001x9/obs-countdown-timer-free-overlay-timer-plugin-for-streaming-2026.md) |
 | [EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer](https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer) | Python project | Runs in the browser with a free account | [guide](guides/epicrealmtitle/call-of-duty-modern-warfare-4-fps-optimizer.md) |
 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/simbasjungles/free-my-tv.md) |
-| [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/knifelemon/filee.md) |
 <!-- latest:end -->
 
 ## How it works

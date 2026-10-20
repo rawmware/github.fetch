@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1110 guides written so far · last update 2026-10-20 21:31 UTC_
+_1111 guides written so far · last update 2026-10-20 21:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [OmkarK97/webos-vibehack](https://github.com/OmkarK97/webos-vibehack) | JavaScript project | Runs in the browser with a free account | [guide](guides/omkark97/webos-vibehack.md) |
 | [fort-skins/.github](https://github.com/fort-skins/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/fort-skins/.github.md) |
 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | HTML project | Runs in the browser with a free account | [guide](guides/kaankiziltug/logo-design-skill.md) |
 | [SandboxWorldOnline/Open-Terraria](https://github.com/SandboxWorldOnline/Open-Terraria) | Vite app | Runs in a browser tab, no account needed | [guide](guides/sandboxworldonline/open-terraria.md) |
@@ -38,7 +39,6 @@ _1110 guides written so far · last update 2026-10-20 21:31 UTC_
 | [thebcd69/bcd-games](https://github.com/thebcd69/bcd-games) | C project | Needs a real machine (or a GPU) to run | [guide](guides/thebcd69/bcd-games.md) |
 | [indexable-inc/ra-jit](https://github.com/indexable-inc/ra-jit) | Rust project | Runs in the browser with a free account | [guide](guides/indexable-inc/ra-jit.md) |
 | [kailashsr38/ascii-magic-art](https://github.com/kailashsr38/ascii-magic-art) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kailashsr38/ascii-magic-art.md) |
-| [garycaogan/ai-live-avatar](https://github.com/garycaogan/ai-live-avatar) | Python project | Runs in the browser with a free account | [guide](guides/garycaogan/ai-live-avatar.md) |
 <!-- latest:end -->
 
 ## How it works

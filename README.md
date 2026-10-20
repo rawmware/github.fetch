@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1078 guides written so far · last update 2026-10-20 07:41 UTC_
+_1079 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks) | Shell project | Runs in the browser with a free account | [guide](guides/miaai-lab/deepseek-v4.1-flash-1017-2x-dgx-sparks.md) |
 | [mclhm8182/tvhome-zh](https://github.com/mclhm8182/tvhome-zh) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/mclhm8182/tvhome-zh.md) |
 | [opentrap/opentrap](https://github.com/opentrap/opentrap) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/opentrap/opentrap.md) |
 | [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) | Python project | Runs in the browser with a free account | [guide](guides/memtensor/memt-1.0.md) |
@@ -38,7 +39,6 @@ _1078 guides written so far · last update 2026-10-20 07:41 UTC_
 | [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks) | Vite app | Runs in a browser tab, no account needed | [guide](guides/stackedlol/ascii-sharks.md) |
 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joasasantos/rea-prompts.md) |
 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyoffice.md) |
-| [vortexlakecanal/Rufus](https://github.com/vortexlakecanal/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vortexlakecanal/rufus.md) |
 <!-- latest:end -->
 
 ## How it works

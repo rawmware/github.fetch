@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T07:41:26.431Z",
- "totalGuides": 1070,
+ "updatedAt": "2026-10-20T07:41:26.605Z",
+ "totalGuides": 1071,
  "items": [
+  {
+   "fullName": "ToomRamcharan/tv-vibehack",
+   "owner": "ToomRamcharan",
+   "name": "tv-vibehack",
+   "url": "https://github.com/ToomRamcharan/tv-vibehack",
+   "avatar": "https://avatars.githubusercontent.com/u/215864182?v=4",
+   "description": "Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player.",
+   "language": "Java",
+   "topics": [],
+   "license": null,
+   "stars": 158,
+   "forks": 8,
+   "createdAt": "2026-10-19T11:29:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T07:41:26.604Z",
+   "stack": {
+    "kind": "native",
+    "label": "Java project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ToomRamcharan/tv-vibehack?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ToomRamcharan/tv-vibehack",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ToomRamcharan/tv-vibehack/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/ToomRamcharan/tv-vibehack.git\ncd tv-vibehack",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ToomRamcharan/tv-vibehack\nWhat it says it does: \"Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T07:41:26.604Z"
+  },
   {
    "fullName": "stackedlol/ascii-sharks",
    "owner": "stackedlol",
@@ -31162,74 +31219,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Caldalis/MiniCPM-Math-harness\nWhat it says it does: \"built around a 2.5B math model that fits on one GPU or a laptop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T02:28:04.211Z"
-  },
-  {
-   "fullName": "matsuzaka-yuki/susfs-lkm-module",
-   "owner": "matsuzaka-yuki",
-   "name": "susfs-lkm-module",
-   "url": "https://github.com/matsuzaka-yuki/susfs-lkm-module",
-   "avatar": "https://avatars.githubusercontent.com/u/225602409?v=4",
-   "description": "KernelSU-compatible ZIP wrapper for pinned inforcqb SUSFS LKM; loader only, no rule management",
-   "language": "Python",
-   "topics": [],
-   "license": "GPL-2.0",
-   "stars": 67,
-   "forks": 5,
-   "createdAt": "2026-10-10T15:39:02Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T02:28:03.884Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/matsuzaka-yuki/susfs-lkm-module/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/matsuzaka-yuki/susfs-lkm-module?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/matsuzaka-yuki/susfs-lkm-module",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/matsuzaka-yuki/susfs-lkm-module/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/matsuzaka-yuki/susfs-lkm-module.git\ncd susfs-lkm-module",
-   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/matsuzaka-yuki/susfs-lkm-module\nWhat it says it does: \"KernelSU-compatible ZIP wrapper for pinned inforcqb SUSFS LKM; loader only, no rule management\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T02:28:03.884Z"
   }
  ],
  "levels": {
+  "heavy": 97,
   "instant": 34,
   "read": 155,
-  "account": 215,
-  "heavy": 96
+  "account": 214
  }
 }

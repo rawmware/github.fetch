@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1070 guides written so far · last update 2026-10-20 07:41 UTC_
+_1071 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/toomramcharan/tv-vibehack.md) |
 | [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks) | Vite app | Runs in a browser tab, no account needed | [guide](guides/stackedlol/ascii-sharks.md) |
 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/joasasantos/rea-prompts.md) |
 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyoffice.md) |
@@ -38,7 +39,6 @@ _1070 guides written so far · last update 2026-10-20 07:41 UTC_
 | [kylebrown-eng20w4/Minecraft-FPS-Booster](https://github.com/kylebrown-eng20w4/Minecraft-FPS-Booster) | Python project | Runs in the browser with a free account | [guide](guides/kylebrown-eng20w4/minecraft-fps-booster.md) |
 | [Animal2404/xeno-executor](https://github.com/Animal2404/xeno-executor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/animal2404/xeno-executor.md) |
 | [zilvestro/grammai](https://github.com/zilvestro/grammai) | React app | Runs in the browser with a free account | [guide](guides/zilvestro/grammai.md) |
-| [timhengc/mai-shen-zai-ci](https://github.com/timhengc/mai-shen-zai-ci) | JavaScript project | Runs in the browser with a free account | [guide](guides/timhengc/mai-shen-zai-ci.md) |
 <!-- latest:end -->
 
 ## How it works

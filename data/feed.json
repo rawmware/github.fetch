@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T21:31:17.791Z",
- "totalGuides": 1114,
+ "updatedAt": "2026-10-20T21:31:17.978Z",
+ "totalGuides": 1115,
  "items": [
+  {
+   "fullName": "tobi/disktree",
+   "owner": "tobi",
+   "name": "disktree",
+   "url": "https://github.com/tobi/disktree",
+   "avatar": "https://avatars.githubusercontent.com/u/347?v=4",
+   "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+   "language": "Rust",
+   "topics": [],
+   "license": "MIT",
+   "stars": 3111,
+   "forks": 190,
+   "createdAt": "2026-09-24T20:56:29Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T21:31:17.977Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/tobi/disktree?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/tobi/disktree",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/tobi/disktree/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/tobi/disktree.git\ncd disktree\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/tobi/disktree\nWhat it says it does: \"A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T21:31:17.977Z"
+  },
   {
    "fullName": "BlueHeisenberg/SCSKiller",
    "owner": "BlueHeisenberg",
@@ -31363,68 +31418,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Cometamongrouse79/Crash-Plan\nWhat it says it does: \"Crash Plan meticulously orchestrates complex desktop software configurations with absolute precision and efficiency.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T01:35:30.500Z"
-  },
-  {
-   "fullName": "ArmorerSpiral/Ads-Blocker",
-   "owner": "ArmorerSpiral",
-   "name": "Ads-Blocker",
-   "url": "https://github.com/ArmorerSpiral/Ads-Blocker",
-   "avatar": "https://avatars.githubusercontent.com/u/292120425?v=4",
-   "description": "Ads Blocker is a professional desktop software utility that streamlines your online experience by providing an ad-free browsing environment without...",
-   "language": null,
-   "topics": [
-    "adblock-lists",
-    "adblocker-ultimate-list",
-    "adblockplus",
-    "adguard-list",
-    "adsblock",
-    "block-ads",
-    "dnsfilter"
-   ],
-   "license": null,
-   "stars": 379,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:10:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T01:35:30.297Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ArmorerSpiral/Ads-Blocker",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ArmorerSpiral/Ads-Blocker/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ArmorerSpiral/Ads-Blocker\nWhat it says it does: \"Ads Blocker is a professional desktop software utility that streamlines your online experience by providing an ad-free browsing environment without...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T01:35:30.297Z"
   }
  ],
  "levels": {
+  "account": 223,
   "heavy": 110,
-  "account": 222,
   "instant": 35,
-  "read": 133
+  "read": 132
  }
 }

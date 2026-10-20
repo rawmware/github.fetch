@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T13:02:59.536Z",
- "totalGuides": 1092,
+ "updatedAt": "2026-10-20T13:02:59.912Z",
+ "totalGuides": 1093,
  "items": [
+  {
+   "fullName": "mistralai/timestral",
+   "owner": "mistralai",
+   "name": "timestral",
+   "url": "https://github.com/mistralai/timestral",
+   "avatar": "https://avatars.githubusercontent.com/u/132372032?v=4",
+   "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 633,
+   "forks": 47,
+   "createdAt": "2026-10-15T10:20:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T13:02:59.911Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "colab-new",
+   "launch": [
+    {
+     "id": "colab-new",
+     "label": "Google Colab",
+     "url": "https://colab.research.google.com/",
+     "needs": "free Google account",
+     "note": "New notebook, then run: !git clone https://github.com/mistralai/timestral"
+    },
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/mistralai/timestral/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mistralai/timestral?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mistralai/timestral",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mistralai/timestral/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [
+    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one."
+   ],
+   "local": "git clone --depth 1 https://github.com/mistralai/timestral.git\ncd timestral\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/mistralai/timestral\nWhat it says it does: \"Repository for Timestral, the time-series foundation model by Mistral AI\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T13:02:59.911Z"
+  },
   {
    "fullName": "deepseek-ai/DeepInfer",
    "owner": "deepseek-ai",
@@ -31151,72 +31222,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/juliobsz/skills\nWhat it says it does: \"An agent skill that builds award-caliber websites from one line\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T19:23:00.487Z"
-  },
-  {
-   "fullName": "opengeos/RustGIS",
-   "owner": "opengeos",
-   "name": "RustGIS",
-   "url": "https://github.com/opengeos/RustGIS",
-   "avatar": "https://avatars.githubusercontent.com/u/129896036?v=4",
-   "description": "A fast, free and open-source GIS in pure Rust.",
-   "language": "Rust",
-   "topics": [
-    "geospatial",
-    "gis",
-    "remote-sensing",
-    "rust",
-    "rust-lang"
-   ],
-   "license": "Apache-2.0",
-   "stars": 162,
-   "forks": 19,
-   "createdAt": "2026-10-10T18:45:41Z",
-   "branch": "main",
-   "homepage": "https://rustgis.app",
-   "addedAt": "2026-10-12T19:23:00.293Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/opengeos/RustGIS?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/opengeos/RustGIS",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/opengeos/RustGIS/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/opengeos/RustGIS.git\ncd RustGIS\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/opengeos/RustGIS\nWhat it says it does: \"A fast, free and open-source GIS in pure Rust.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T19:23:00.293Z"
   }
  ],
  "levels": {
-  "heavy": 103,
-  "account": 213,
+  "heavy": 104,
+  "account": 212,
   "instant": 32,
   "read": 152
  }

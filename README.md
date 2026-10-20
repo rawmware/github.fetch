@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1072 guides written so far · last update 2026-10-20 07:41 UTC_
+_1073 guides written so far · last update 2026-10-20 07:41 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [typecraft-dev/oma-cast](https://github.com/typecraft-dev/oma-cast) | JavaScript project | Runs in the browser with a free account | [guide](guides/typecraft-dev/oma-cast.md) |
 | [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) | Python project | Runs in the browser with a free account | [guide](guides/unixnu/unixnu.md) |
 | [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/toomramcharan/tv-vibehack.md) |
 | [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks) | Vite app | Runs in a browser tab, no account needed | [guide](guides/stackedlol/ascii-sharks.md) |
@@ -38,7 +39,6 @@ _1072 guides written so far · last update 2026-10-20 07:41 UTC_
 | [Separatepealter/Discord-Quest-Completer](https://github.com/Separatepealter/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/separatepealter/discord-quest-completer.md) |
 | [ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026](https://github.com/ryan-bergio03h1/Instagram-View-Booster-Free-Reel-Story-Views-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/ryan-bergio03h1/instagram-view-booster-free-reel-story-views-tool-2026.md) |
 | [kylebrown-eng20w4/Minecraft-FPS-Booster](https://github.com/kylebrown-eng20w4/Minecraft-FPS-Booster) | Python project | Runs in the browser with a free account | [guide](guides/kylebrown-eng20w4/minecraft-fps-booster.md) |
-| [Animal2404/xeno-executor](https://github.com/Animal2404/xeno-executor) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/animal2404/xeno-executor.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T17:56:53.353Z",
- "totalGuides": 1104,
+ "updatedAt": "2026-10-20T17:56:53.657Z",
+ "totalGuides": 1105,
  "items": [
+  {
+   "fullName": "kulwantnagi/android-tv-makeover",
+   "owner": "kulwantnagi",
+   "name": "android-tv-makeover",
+   "url": "https://github.com/kulwantnagi/android-tv-makeover",
+   "avatar": "https://avatars.githubusercontent.com/u/3816435?v=4",
+   "description": "Debloat an Android TV, replace its home screen with a clean Apple TV style launcher, and add a fast Indian live TV app. Reversible, over Wi-Fi ADB.",
+   "language": "Java",
+   "topics": [],
+   "license": "MIT",
+   "stars": 103,
+   "forks": 21,
+   "createdAt": "2026-10-19T04:48:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-20T17:56:53.657Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/kulwantnagi/android-tv-makeover/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/kulwantnagi/android-tv-makeover?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/kulwantnagi/android-tv-makeover",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kulwantnagi/android-tv-makeover/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/kulwantnagi/android-tv-makeover.git\ncd android-tv-makeover\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/kulwantnagi/android-tv-makeover\nWhat it says it does: \"Debloat an Android TV, replace its home screen with a clean Apple TV style launcher, and add a fast Indian live TV app. Reversible, over Wi-Fi ADB.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-20T17:56:53.657Z"
+  },
   {
    "fullName": "MZhao-ouo/Touchable",
    "owner": "MZhao-ouo",
@@ -31258,65 +31320,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Aquafitzdisconnect/Discord-Server-Raider\nWhat it says it does: \"Discord Server Raider is an AI-driven tool that automates server management and moderation tasks, allowing seamless user experience and efficient resource...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-12T19:23:02.865Z"
-  },
-  {
-   "fullName": "StellarTyrant/ultra-Iso",
-   "owner": "StellarTyrant",
-   "name": "ultra-Iso",
-   "url": "https://github.com/StellarTyrant/ultra-Iso",
-   "avatar": "https://avatars.githubusercontent.com/u/292120501?v=4",
-   "description": "Ultra Iso optimizes your desktop software utility configuration with a streamlined approach to professional task management and efficiency enhancement...",
-   "language": null,
-   "topics": [
-    "iso-editor",
-    "iso-image",
-    "ultraiso-2026",
-    "ultraiso-download-windows"
-   ],
-   "license": null,
-   "stars": 85,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:24:54Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-12T19:23:02.672Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/StellarTyrant/ultra-Iso",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/StellarTyrant/ultra-Iso/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/StellarTyrant/ultra-Iso\nWhat it says it does: \"Ultra Iso optimizes your desktop software utility configuration with a streamlined approach to professional task management and efficiency enhancement...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-12T19:23:02.672Z"
   }
  ],
  "levels": {
+  "account": 218,
   "heavy": 107,
-  "account": 217,
   "instant": 33,
-  "read": 143
+  "read": 142
  }
 }

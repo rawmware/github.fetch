@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1104 guides written so far · last update 2026-10-20 17:56 UTC_
+_1105 guides written so far · last update 2026-10-20 17:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kulwantnagi/android-tv-makeover](https://github.com/kulwantnagi/android-tv-makeover) | Python project | Runs in the browser with a free account | [guide](guides/kulwantnagi/android-tv-makeover.md) |
 | [MZhao-ouo/Touchable](https://github.com/MZhao-ouo/Touchable) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mzhao-ouo/touchable.md) |
 | [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame) | JavaScript project | Runs in the browser with a free account | [guide](guides/nthnclrk/cleanframe.md) |
 | [thebcd69/bcd-games](https://github.com/thebcd69/bcd-games) | C project | Needs a real machine (or a GPU) to run | [guide](guides/thebcd69/bcd-games.md) |
@@ -38,7 +39,6 @@ _1104 guides written so far · last update 2026-10-20 17:56 UTC_
 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | JavaScript project | Runs in the browser with a free account | [guide](guides/lemomo-ai/lemo-opuscar.md) |
 | [Blapples/SekaiPop](https://github.com/Blapples/SekaiPop) | QML project | Runs in the browser with a free account | [guide](guides/blapples/sekaipop.md) |
 | [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/harkhowalia-1/macsubsystemforandroid.md) |
-| [mistralai/timestral](https://github.com/mistralai/timestral) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/mistralai/timestral.md) |
 <!-- latest:end -->
 
 ## How it works

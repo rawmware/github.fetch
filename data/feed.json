@@ -1,8 +1,76 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T22:39:22.710Z",
- "totalGuides": 1179,
+ "updatedAt": "2026-10-21T22:39:23.100Z",
+ "totalGuides": 1180,
  "items": [
+  {
+   "fullName": "OpenSmash-Ultimate/WindowSmash",
+   "owner": "OpenSmash-Ultimate",
+   "name": "WindowSmash",
+   "url": "https://github.com/OpenSmash-Ultimate/WindowSmash",
+   "avatar": "https://avatars.githubusercontent.com/u/344691012?v=4",
+   "description": "Experimental Windows x64 native porting toolkit for Super Smash Bros. Ultimate: static AArch64 recompilation, a D3D11 runtime, and Local Wireless relay netplay.",
+   "language": "C",
+   "topics": [
+    "aarch64",
+    "direct3d11",
+    "native-port",
+    "static-recompilation",
+    "windows"
+   ],
+   "license": "GPL-3.0",
+   "stars": 325,
+   "forks": 32,
+   "createdAt": "2026-10-18T00:50:53Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T22:39:23.099Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/OpenSmash-Ultimate/WindowSmash/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/OpenSmash-Ultimate/WindowSmash?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/OpenSmash-Ultimate/WindowSmash",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/OpenSmash-Ultimate/WindowSmash/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/OpenSmash-Ultimate/WindowSmash.git\ncd WindowSmash\npip install -r requirements.txt",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/OpenSmash-Ultimate/WindowSmash\nWhat it says it does: \"Experimental Windows x64 native porting toolkit for Super Smash Bros. Ultimate: static AArch64 recompilation, a D3D11 runtime, and Local Wireless relay netplay.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T22:39:23.099Z"
+  },
   {
    "fullName": "dev-null-sh/dev-null.sh",
    "owner": "dev-null-sh",
@@ -31506,77 +31574,6 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/Dmaryqsotterman/VyManager\nWhat it says it does: \"Multi-tenant network management platform to configure, deploy, and monitor VyOS instances across multiple sites.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T05:19:46.722Z"
-  },
-  {
-   "fullName": "semrincaballero/Polymarket-Prediction-Bot",
-   "owner": "semrincaballero",
-   "name": "Polymarket-Prediction-Bot",
-   "url": "https://github.com/semrincaballero/Polymarket-Prediction-Bot",
-   "avatar": "https://avatars.githubusercontent.com/u/310689237?v=4",
-   "description": "Polymarket trading bot for prediction markets — browse CLOB markets, watch the order book in the terminal, run edge detection, liquidity provision and cross-market arbitrage strategies with paper trading and risk limits. Educational open-source toolkit — not financial advice. Uno",
-   "language": "Python",
-   "topics": [
-    "15min",
-    "5min",
-    "autotrader-polymarket",
-    "btc-updown",
-    "copy-trade",
-    "dca-bot",
-    "defi-arb-bot",
-    "defi-automation"
-   ],
-   "license": "MIT",
-   "stars": 148,
-   "forks": 25,
-   "createdAt": "2026-10-12T11:25:05Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T05:19:46.394Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/semrincaballero/Polymarket-Prediction-Bot/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/semrincaballero/Polymarket-Prediction-Bot?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/semrincaballero/Polymarket-Prediction-Bot",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/semrincaballero/Polymarket-Prediction-Bot/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": "python main.py",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/semrincaballero/Polymarket-Prediction-Bot.git\ncd Polymarket-Prediction-Bot\npip install -r requirements.txt\npython main.py",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/semrincaballero/Polymarket-Prediction-Bot\nWhat it says it does: \"Polymarket trading bot for prediction markets — browse CLOB markets, watch the order book in the terminal, run edge detection, liquidity provision and cross-market arbitrage strategies with paper trading and risk limits. Educational open-source toolkit — not financial advice. Uno\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T05:19:46.394Z"
   }
  ],
  "levels": {

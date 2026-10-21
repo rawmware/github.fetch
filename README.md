@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1180 guides written so far · last update 2026-10-21 22:39 UTC_
+_1181 guides written so far · last update 2026-10-21 22:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Jakeschincariol/trader-skill](https://github.com/Jakeschincariol/trader-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/trader-skill.md) |
 | [OpenSmash-Ultimate/WindowSmash](https://github.com/OpenSmash-Ultimate/WindowSmash) | Python project | Runs in the browser with a free account | [guide](guides/opensmash-ultimate/windowsmash.md) |
 | [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) | Vite app | Runs in the browser with a free account | [guide](guides/dev-null-sh/dev-null.sh.md) |
 | [Fangx-AI/geo-doctor](https://github.com/Fangx-AI/geo-doctor) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fangx-ai/geo-doctor.md) |
@@ -38,7 +39,6 @@ _1180 guides written so far · last update 2026-10-21 22:39 UTC_
 | [shareshellrelease/Cinema-4d](https://github.com/shareshellrelease/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shareshellrelease/cinema-4d.md) |
 | [browser-use/rl-env-use](https://github.com/browser-use/rl-env-use) | Python project | Runs in the browser with a free account | [guide](guides/browser-use/rl-env-use.md) |
 | [vladocar/Sumi.css](https://github.com/vladocar/Sumi.css) | HTML project | Runs in the browser with a free account | [guide](guides/vladocar/sumi.css.md) |
-| [Monopoly0024/simple-checker-v1](https://github.com/Monopoly0024/simple-checker-v1) | Python project | Runs in the browser with a free account | [guide](guides/monopoly0024/simple-checker-v1.md) |
 <!-- latest:end -->
 
 ## How it works

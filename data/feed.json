@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T00:05:35.863Z",
- "totalGuides": 1124,
+ "updatedAt": "2026-10-21T04:57:48.461Z",
+ "totalGuides": 1125,
  "items": [
+  {
+   "fullName": "lesnolie/Tigris",
+   "owner": "lesnolie",
+   "name": "Tigris",
+   "url": "https://github.com/lesnolie/Tigris",
+   "avatar": "https://avatars.githubusercontent.com/u/81410185?v=4",
+   "description": "Tigris — tvOS 26 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+   "language": "Kotlin",
+   "topics": [],
+   "license": "MIT",
+   "stars": 115,
+   "forks": 7,
+   "createdAt": "2026-10-20T10:12:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T04:57:48.446Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/lesnolie/Tigris?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/lesnolie/Tigris",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/lesnolie/Tigris/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/lesnolie/Tigris.git\ncd Tigris",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/lesnolie/Tigris\nWhat it says it does: \"Tigris — tvOS 26 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:48.446Z"
+  },
   {
    "fullName": "zensers/zensers",
    "owner": "zensers",
@@ -31473,69 +31530,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ashdefenderdevastate/Adobe-Substance-3d\nWhat it says it does: \"Adobe Substance 3D is a professional desktop software utility that provides an advanced configuration platform; it optimizes workflows and streamlines...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:36.180Z"
-  },
-  {
-   "fullName": "SpiralStarlingModify/Microsoft-365",
-   "owner": "SpiralStarlingModify",
-   "name": "Microsoft-365",
-   "url": "https://github.com/SpiralStarlingModify/Microsoft-365",
-   "avatar": "https://avatars.githubusercontent.com/u/292124486?v=4",
-   "description": "Microsoft 365 optimizes enterprise productivity by providing a comprehensive suite of professional desktop software utilities tailored to streamline...",
-   "language": null,
-   "topics": [
-    "excel-automation",
-    "libreoffice-extension",
-    "microsoft-excel-advanced",
-    "microsoft-keys",
-    "microsoft-office",
-    "microsoft-suite",
-    "microsoft-word",
-    "microsoft-word-free"
-   ],
-   "license": null,
-   "stars": 274,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:19:53Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:35.980Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/SpiralStarlingModify/Microsoft-365",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SpiralStarlingModify/Microsoft-365/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/SpiralStarlingModify/Microsoft-365\nWhat it says it does: \"Microsoft 365 optimizes enterprise productivity by providing a comprehensive suite of professional desktop software utilities tailored to streamline...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:35.980Z"
   }
  ],
  "levels": {
+  "heavy": 115,
   "account": 227,
-  "heavy": 114,
   "instant": 36,
-  "read": 123
+  "read": 122
  }
 }

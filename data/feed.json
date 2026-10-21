@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T10:00:25.201Z",
- "totalGuides": 1146,
+ "updatedAt": "2026-10-21T10:00:25.555Z",
+ "totalGuides": 1147,
  "items": [
+  {
+   "fullName": "rosehahah/the-machine",
+   "owner": "rosehahah",
+   "name": "the-machine",
+   "url": "https://github.com/rosehahah/the-machine",
+   "avatar": "https://avatars.githubusercontent.com/u/156568457?v=4",
+   "description": "A fan-made, open-source recreation of The Machine from Person of Interest — MPOV on your own cameras, plus the console. With deep thanks to POI.",
+   "language": "JavaScript",
+   "topics": [
+    "computer-vision",
+    "fan-project",
+    "person-of-interest",
+    "the-machine"
+   ],
+   "license": null,
+   "stars": 69,
+   "forks": 10,
+   "createdAt": "2026-10-19T08:30:54Z",
+   "branch": "main",
+   "homepage": "https://rosehahah.github.io/the-machine/",
+   "addedAt": "2026-10-21T10:00:25.554Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/rosehahah/the-machine/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/rosehahah/the-machine?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/rosehahah/the-machine",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/rosehahah/the-machine/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/rosehahah/the-machine.git\ncd the-machine\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/rosehahah/the-machine\nWhat it says it does: \"A fan-made, open-source recreation of The Machine from Person of Interest — MPOV on your own cameras, plus the console. With deep thanks to POI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T10:00:25.554Z"
+  },
   {
    "fullName": "gojko/lights-on-software-factory",
    "owner": "gojko",
@@ -31532,86 +31603,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/jumpersun/meal-puzzle\nWhat it says it does: \"套餐拼图 · 把每个人想吃的拼成一桌：真实麦当劳菜单、心愿组合、官方核价与按人分餐。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T16:22:43.577Z"
-  },
-  {
-   "fullName": "AirsupHQ/machine-skill",
-   "owner": "AirsupHQ",
-   "name": "machine-skill",
-   "url": "https://github.com/AirsupHQ/machine-skill",
-   "avatar": "https://avatars.githubusercontent.com/u/335045975?v=4",
-   "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
-   "language": "JavaScript",
-   "topics": [
-    "agent-skills",
-    "claude",
-    "claude-code",
-    "claude-skill",
-    "cutaway",
-    "engineering",
-    "physics",
-    "simulation"
-   ],
-   "license": "MIT",
-   "stars": 107,
-   "forks": 7,
-   "createdAt": "2026-10-12T23:10:01Z",
-   "branch": "main",
-   "homepage": "https://airsup.ai/lab/skill",
-   "addedAt": "2026-10-13T16:22:43.213Z",
-   "stack": {
-    "kind": "node",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/AirsupHQ/machine-skill",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/AirsupHQ/machine-skill",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/AirsupHQ/machine-skill?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/AirsupHQ/machine-skill",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/AirsupHQ/machine-skill/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": null,
-   "notes": [
-    "Uses playwright, which can't run inside a browser tab. Use Codespaces instead."
-   ],
-   "local": "git clone --depth 1 https://github.com/AirsupHQ/machine-skill.git\ncd machine-skill\nnpm install",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/AirsupHQ/machine-skill\nWhat it says it does: \"Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T16:22:43.213Z"
   }
  ],
  "levels": {

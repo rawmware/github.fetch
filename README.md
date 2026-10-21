@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1145 guides written so far · last update 2026-10-21 10:00 UTC_
+_1146 guides written so far · last update 2026-10-21 10:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [gojko/lights-on-software-factory](https://github.com/gojko/lights-on-software-factory) | JavaScript project | Runs in the browser with a free account | [guide](guides/gojko/lights-on-software-factory.md) |
 | [HalfVulpes/Deepinfer-SM80](https://github.com/HalfVulpes/Deepinfer-SM80) | Python project | Runs in the browser with a free account | [guide](guides/halfvulpes/deepinfer-sm80.md) |
 | [h563k/chat-keeper](https://github.com/h563k/chat-keeper) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/h563k/chat-keeper.md) |
 | [VictorTran1023/tcl-tv-toolkit](https://github.com/VictorTran1023/tcl-tv-toolkit) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/tcl-tv-toolkit.md) |
@@ -38,7 +39,6 @@ _1145 guides written so far · last update 2026-10-21 10:00 UTC_
 | [pmarket-14/polymarket-ai-trading-codex-and-claude-bot](https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pmarket-14/polymarket-ai-trading-codex-and-claude-bot.md) |
 | [WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/woyun520/dsh-purge.md) |
 | [Networkapbridge/dll-decryptor](https://github.com/Networkapbridge/dll-decryptor) | Python project | Runs in the browser with a free account | [guide](guides/networkapbridge/dll-decryptor.md) |
-| [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) | Python project | Runs in the browser with a free account | [guide](guides/ethanarbuckle/fairplay-decrypt.md) |
 <!-- latest:end -->
 
 ## How it works

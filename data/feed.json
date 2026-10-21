@@ -1,8 +1,93 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T04:57:51.141Z",
- "totalGuides": 1136,
+ "updatedAt": "2026-10-21T04:57:51.328Z",
+ "totalGuides": 1137,
  "items": [
+  {
+   "fullName": "pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
+   "owner": "pmarket-14",
+   "name": "polymarket-ai-trading-codex-and-claude-bot",
+   "url": "https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
+   "avatar": "https://avatars.githubusercontent.com/u/345549330?v=4",
+   "description": "polymarket tools",
+   "language": "HTML",
+   "topics": [
+    "ai-prediction-market",
+    "ai-trading-arbitrage",
+    "claude-trading-bot",
+    "codex-trading-bot",
+    "free-ai-trading-bot",
+    "llm-trading-bot",
+    "polymarket-ai-2026",
+    "polymarket-ai-arbitrage"
+   ],
+   "license": null,
+   "stars": 68,
+   "forks": 31,
+   "createdAt": "2026-10-20T22:18:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T04:57:51.328Z",
+   "stack": {
+    "kind": "static",
+    "label": "Static website (HTML/CSS/JS)",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "live",
+   "launch": [
+    {
+     "id": "live",
+     "label": "Open it live",
+     "url": "https://raw.githack.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot/main/index.html",
+     "needs": "nothing",
+     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
+    },
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
+     "needs": "nothing",
+     "note": "A full editor and preview in your tab."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/pmarket-14/polymarket-ai-trading-codex-and-claude-bot?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/pmarket-14/polymarket-ai-trading-codex-and-claude-bot",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "npx serve .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot.git\ncd polymarket-ai-trading-codex-and-claude-bot\nnpx serve .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot\nWhat it says it does: \"polymarket tools\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:51.328Z"
+  },
   {
    "fullName": "WoYun520/dsh-purge",
    "owner": "WoYun520",
@@ -31534,69 +31619,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/followermelodylaud/Catia-Cad\nWhat it says it does: \"A professional desktop software utility configuration tailored to optimize your workflow by providing a versatile and comprehensive interface for managing...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:39.630Z"
-  },
-  {
-   "fullName": "weavecorebond/DVD-Creator",
-   "owner": "weavecorebond",
-   "name": "DVD-Creator",
-   "url": "https://github.com/weavecorebond/DVD-Creator",
-   "avatar": "https://avatars.githubusercontent.com/u/292122767?v=4",
-   "description": "Dvd Creator is a professional desktop utility that facilitates comprehensive DVD authoring and burning tasks with uncompromising reliability.",
-   "language": null,
-   "topics": [
-    "acer-nitro",
-    "ais-data",
-    "aiseesoft-data-recovery-speed-comparison",
-    "aiseesoft-fonelab-for-ios",
-    "aiseesoft-recover-deleted-files",
-    "aiseesoft-video-converter-pc",
-    "aosp-build",
-    "compound-engineering"
-   ],
-   "license": null,
-   "stars": 175,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:16:39Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:39.440Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/weavecorebond/DVD-Creator",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/weavecorebond/DVD-Creator/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/weavecorebond/DVD-Creator\nWhat it says it does: \"Dvd Creator is a professional desktop utility that facilitates comprehensive DVD authoring and burning tasks with uncompromising reliability.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:39.440Z"
   }
  ],
  "levels": {
+  "instant": 38,
   "account": 232,
-  "instant": 37,
   "heavy": 114,
-  "read": 117
+  "read": 116
  }
 }

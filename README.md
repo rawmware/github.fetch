@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1160 guides written so far · last update 2026-10-21 15:04 UTC_
+_1161 guides written so far · last update 2026-10-21 15:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [skate6743/skate2-rust-port](https://github.com/skate6743/skate2-rust-port) | Rust project | Runs in the browser with a free account | [guide](guides/skate6743/skate2-rust-port.md) |
 | [hongheting/antifouling-coating-simulator](https://github.com/hongheting/antifouling-coating-simulator) | HTML project | Runs in the browser with a free account | [guide](guides/hongheting/antifouling-coating-simulator.md) |
 | [VictorTran1023/android-tv-toolkit](https://github.com/VictorTran1023/android-tv-toolkit) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/android-tv-toolkit.md) |
 | [helloianneo/ian-xhs-carousel](https://github.com/helloianneo/ian-xhs-carousel) | HTML project | Runs in the browser with a free account | [guide](guides/helloianneo/ian-xhs-carousel.md) |
@@ -38,7 +39,6 @@ _1160 guides written so far · last update 2026-10-21 15:04 UTC_
 | [eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) | Shell project | Runs in the browser with a free account | [guide](guides/eness/php2shell-cve-2026-109618-cve-2026-109619-poc.md) |
 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | Python project | Runs in the browser with a free account | [guide](guides/ikow/php2shell-poc.md) |
 | [peterroe/magpie-usage-display](https://github.com/peterroe/magpie-usage-display) | C project | Needs a real machine (or a GPU) to run | [guide](guides/peterroe/magpie-usage-display.md) |
-| [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyterminal.md) |
 <!-- latest:end -->
 
 ## How it works

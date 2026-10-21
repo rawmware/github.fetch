@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1167 guides written so far · last update 2026-10-21 19:20 UTC_
+_1168 guides written so far · last update 2026-10-21 19:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [abcampbel/open-bots](https://github.com/abcampbel/open-bots) | Vite app | Runs in a browser tab, no account needed | [guide](guides/abcampbel/open-bots.md) |
 | [duliangkuan/deepinfer-studio](https://github.com/duliangkuan/deepinfer-studio) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/duliangkuan/deepinfer-studio.md) |
 | [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alejandros17487/ai-jailbreaks.md) |
 | [renjiegod/dyt-ashare-cli](https://github.com/renjiegod/dyt-ashare-cli) | Rust project | Runs in the browser with a free account | [guide](guides/renjiegod/dyt-ashare-cli.md) |
@@ -38,7 +39,6 @@ _1167 guides written so far · last update 2026-10-21 19:20 UTC_
 | [VictorTran1023/android-tv-toolkit](https://github.com/VictorTran1023/android-tv-toolkit) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/android-tv-toolkit.md) |
 | [helloianneo/ian-xhs-carousel](https://github.com/helloianneo/ian-xhs-carousel) | HTML project | Runs in the browser with a free account | [guide](guides/helloianneo/ian-xhs-carousel.md) |
 | [ilAoC/mcd-gacha-collector](https://github.com/ilAoC/mcd-gacha-collector) | Python project | Runs in the browser with a free account | [guide](guides/ilaoc/mcd-gacha-collector.md) |
-| [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp) | Python project | Runs in the browser with a free account | [guide](guides/smm2recomp/smm2recomp.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,81 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T19:20:44.825Z",
- "totalGuides": 1167,
+ "updatedAt": "2026-10-21T19:20:45.077Z",
+ "totalGuides": 1168,
  "items": [
+  {
+   "fullName": "abcampbel/open-bots",
+   "owner": "abcampbel",
+   "name": "open-bots",
+   "url": "https://github.com/abcampbel/open-bots",
+   "avatar": "https://avatars.githubusercontent.com/u/10499090?v=4",
+   "description": "Open-source AI agents : web search, code sandbox, file analysis, agent teamwork, payments and sign-ups. Hosted or fully local.",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 89,
+   "forks": 12,
+   "createdAt": "2026-10-20T21:35:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T19:20:45.076Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React",
+     "Express"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/abcampbel/open-bots",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/abcampbel/open-bots",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/abcampbel/open-bots?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/abcampbel/open-bots",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/abcampbel/open-bots/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/abcampbel/open-bots.git\ncd open-bots\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/abcampbel/open-bots\nWhat it says it does: \"Open-source AI agents : web search, code sandbox, file analysis, agent teamwork, payments and sign-ups. Hosted or fully local.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T19:20:45.076Z"
+  },
   {
    "fullName": "duliangkuan/deepinfer-studio",
    "owner": "duliangkuan",
@@ -31503,67 +31576,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/bbylw/rea-cn\nWhat it says it does: \"REA：逆向一切 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。 看到喜欢的功能，弄清它的工作原理，深入到二进制层面。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T21:29:38.660Z"
-  },
-  {
-   "fullName": "michaelshimeles/glide",
-   "owner": "michaelshimeles",
-   "name": "glide",
-   "url": "https://github.com/michaelshimeles/glide",
-   "avatar": "https://avatars.githubusercontent.com/u/69605071?v=4",
-   "description": "Open-source Screen Studio, built in Rust",
-   "language": "Rust",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 85,
-   "forks": 5,
-   "createdAt": "2026-10-13T03:49:21Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T21:29:38.259Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/michaelshimeles/glide?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/michaelshimeles/glide",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/michaelshimeles/glide/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/michaelshimeles/glide.git\ncd glide\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/michaelshimeles/glide\nWhat it says it does: \"Open-source Screen Studio, built in Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T21:29:38.259Z"
   }
  ],
  "levels": {
+  "instant": 38,
   "heavy": 115,
   "read": 115,
-  "account": 233,
-  "instant": 37
+  "account": 232
  }
 }

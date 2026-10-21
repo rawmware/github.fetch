@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T00:05:35.322Z",
- "totalGuides": 1122,
+ "updatedAt": "2026-10-21T00:05:35.538Z",
+ "totalGuides": 1123,
  "items": [
+  {
+   "fullName": "TobiasVeiga00/soloist-mpris",
+   "owner": "TobiasVeiga00",
+   "name": "soloist-mpris",
+   "url": "https://github.com/TobiasVeiga00/soloist-mpris",
+   "avatar": "https://avatars.githubusercontent.com/u/75316027?v=4",
+   "description": "Spotify on Linux in ~60 MB: Spotify's official Soloist player as an MPRIS player, so bars, media keys and playerctl just work.",
+   "language": "Rust",
+   "topics": [
+    "hyprland",
+    "linux",
+    "mpris",
+    "playerctl",
+    "rust",
+    "soloist",
+    "spotify",
+    "spotify-connect"
+   ],
+   "license": "MIT",
+   "stars": 90,
+   "forks": 0,
+   "createdAt": "2026-10-20T02:30:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T00:05:35.537Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/TobiasVeiga00/soloist-mpris?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/TobiasVeiga00/soloist-mpris",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/TobiasVeiga00/soloist-mpris/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/TobiasVeiga00/soloist-mpris.git\ncd soloist-mpris\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/TobiasVeiga00/soloist-mpris\nWhat it says it does: \"Spotify on Linux in ~60 MB: Spotify's official Soloist player as an MPRIS player, so bars, media keys and playerctl just work.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T00:05:35.537Z"
+  },
   {
    "fullName": "krllmrzv/Sweetch",
    "owner": "krllmrzv",
@@ -31454,69 +31518,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/WireCaptainPalace/Cubase\nWhat it says it does: \"Revolutionizes professional sound creation with its state-of-the-art digital audio workstation and comprehensive sound design suite.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:35.745Z"
-  },
-  {
-   "fullName": "RestBossGuard/Microsoft-Office",
-   "owner": "RestBossGuard",
-   "name": "Microsoft-Office",
-   "url": "https://github.com/RestBossGuard/Microsoft-Office",
-   "avatar": "https://avatars.githubusercontent.com/u/292120619?v=4",
-   "description": "A comprehensive solution tailored to professional desktop software utility configurations, the 'Microsoft Office' GitHub repository provides a...",
-   "language": null,
-   "topics": [
-    "excel-automation",
-    "libreoffice-extension",
-    "microsoft-excel-advanced",
-    "microsoft-keys",
-    "microsoft-office",
-    "microsoft-suite",
-    "microsoft-word",
-    "microsoft-word-free"
-   ],
-   "license": null,
-   "stars": 275,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:20:21Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:35.510Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/RestBossGuard/Microsoft-Office",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/RestBossGuard/Microsoft-Office/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/RestBossGuard/Microsoft-Office\nWhat it says it does: \"A comprehensive solution tailored to professional desktop software utility configurations, the 'Microsoft Office' GitHub repository provides a...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:35.510Z"
   }
  ],
  "levels": {
+  "account": 226,
   "heavy": 114,
   "instant": 36,
-  "account": 225,
-  "read": 125
+  "read": 124
  }
 }

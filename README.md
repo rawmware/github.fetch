@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1122 guides written so far · last update 2026-10-21 00:05 UTC_
+_1123 guides written so far · last update 2026-10-21 00:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TobiasVeiga00/soloist-mpris](https://github.com/TobiasVeiga00/soloist-mpris) | Rust project | Runs in the browser with a free account | [guide](guides/tobiasveiga00/soloist-mpris.md) |
 | [krllmrzv/Sweetch](https://github.com/krllmrzv/Sweetch) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/krllmrzv/sweetch.md) |
 | [blendi-remade/prompt2rig](https://github.com/blendi-remade/prompt2rig) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/blendi-remade/prompt2rig.md) |
 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/eagle-hq/eagle-4.md) |
@@ -38,7 +39,6 @@ _1122 guides written so far · last update 2026-10-21 00:05 UTC_
 | [BlueHeisenberg/SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/blueheisenberg/scskiller.md) |
 | [omnirush-ai/omnirush-gui](https://github.com/omnirush-ai/omnirush-gui) | JavaScript project | Runs in the browser with a free account | [guide](guides/omnirush-ai/omnirush-gui.md) |
 | [Saffsanity/sill](https://github.com/Saffsanity/sill) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/saffsanity/sill.md) |
-| [OmkarK97/webos-vibehack](https://github.com/OmkarK97/webos-vibehack) | JavaScript project | Runs in the browser with a free account | [guide](guides/omkark97/webos-vibehack.md) |
 <!-- latest:end -->
 
 ## How it works

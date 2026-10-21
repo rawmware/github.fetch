@@ -1,8 +1,71 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T15:04:28.292Z",
- "totalGuides": 1161,
+ "updatedAt": "2026-10-21T15:04:28.451Z",
+ "totalGuides": 1162,
  "items": [
+  {
+   "fullName": "qiniu/xhub",
+   "owner": "qiniu",
+   "name": "xhub",
+   "url": "https://github.com/qiniu/xhub",
+   "avatar": "https://avatars.githubusercontent.com/u/1563636?v=4",
+   "description": "A self-hosted AI gateway for enterprises. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+   "language": "TypeScript",
+   "topics": [
+    "ai-gateway",
+    "anthropic",
+    "gemini",
+    "litellm",
+    "openai",
+    "seeddance",
+    "tokenhub"
+   ],
+   "license": "MIT",
+   "stars": 67,
+   "forks": 1,
+   "createdAt": "2026-10-19T06:01:06Z",
+   "branch": "main",
+   "homepage": "https://qiniu.github.io/xhub/en",
+   "addedAt": "2026-10-21T15:04:28.451Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/qiniu/xhub?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/qiniu/xhub",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/qiniu/xhub/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/qiniu/xhub.git\ncd xhub\ngo build ./...",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/qiniu/xhub\nWhat it says it does: \"A self-hosted AI gateway for enterprises. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T15:04:28.451Z"
+  },
   {
    "fullName": "skate6743/skate2-rust-port",
    "owner": "skate6743",
@@ -31505,67 +31568,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Grav1ty666/ResumeBuilder\nWhat it says it does: \"简历生成器：单文件 EXE 与 Inno Setup 安装包，离线可用\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T21:29:36.811Z"
-  },
-  {
-   "fullName": "HeyPuter/everything",
-   "owner": "HeyPuter",
-   "name": "everything",
-   "url": "https://github.com/HeyPuter/everything",
-   "avatar": "https://avatars.githubusercontent.com/u/103972607?v=4",
-   "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-   "language": "JavaScript",
-   "topics": [
-    "adobe",
-    "cad",
-    "office",
-    "photoshop",
-    "spreadsheet"
-   ],
-   "license": "MIT",
-   "stars": 104,
-   "forks": 14,
-   "createdAt": "2026-10-13T16:18:22Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T21:29:36.565Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/HeyPuter/everything?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/HeyPuter/everything",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/HeyPuter/everything/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/HeyPuter/everything.git\ncd everything",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/HeyPuter/everything\nWhat it says it does: \"We're rebuilding and open-sourcing the world’s software from scratch.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T21:29:36.565Z"
   }
  ],
  "levels": {

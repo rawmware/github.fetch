@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1175 guides written so far · last update 2026-10-21 19:20 UTC_
+_1176 guides written so far · last update 2026-10-21 22:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NCSC-NL/php2shell](https://github.com/NCSC-NL/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/ncsc-nl/php2shell.md) |
 | [Torrentthefoundry/KMS-Pico](https://github.com/Torrentthefoundry/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/torrentthefoundry/kms-pico.md) |
 | [slaterockweb/BorisFX](https://github.com/slaterockweb/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slaterockweb/borisfx.md) |
 | [ThresholdSummoner/Camtasia](https://github.com/ThresholdSummoner/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdsummoner/camtasia.md) |
@@ -38,7 +39,6 @@ _1175 guides written so far · last update 2026-10-21 19:20 UTC_
 | [duliangkuan/deepinfer-studio](https://github.com/duliangkuan/deepinfer-studio) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/duliangkuan/deepinfer-studio.md) |
 | [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alejandros17487/ai-jailbreaks.md) |
 | [renjiegod/dyt-ashare-cli](https://github.com/renjiegod/dyt-ashare-cli) | Rust project | Runs in the browser with a free account | [guide](guides/renjiegod/dyt-ashare-cli.md) |
-| [parthh01/sphinx](https://github.com/parthh01/sphinx) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/parthh01/sphinx.md) |
 <!-- latest:end -->
 
 ## How it works

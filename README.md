@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1171 guides written so far · last update 2026-10-21 19:20 UTC_
+_1172 guides written so far · last update 2026-10-21 19:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [shareshellrelease/Cinema-4d](https://github.com/shareshellrelease/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shareshellrelease/cinema-4d.md) |
 | [browser-use/rl-env-use](https://github.com/browser-use/rl-env-use) | Python project | Runs in the browser with a free account | [guide](guides/browser-use/rl-env-use.md) |
 | [vladocar/Sumi.css](https://github.com/vladocar/Sumi.css) | HTML project | Runs in the browser with a free account | [guide](guides/vladocar/sumi.css.md) |
 | [Monopoly0024/simple-checker-v1](https://github.com/Monopoly0024/simple-checker-v1) | Python project | Runs in the browser with a free account | [guide](guides/monopoly0024/simple-checker-v1.md) |
@@ -38,7 +39,6 @@ _1171 guides written so far · last update 2026-10-21 19:20 UTC_
 | [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) | JavaScript project | Runs in the browser with a free account | [guide](guides/c1overzz/dsh-bili-scroll.md) |
 | [qiniu/xhub](https://github.com/qiniu/xhub) | Go project | Runs in the browser with a free account | [guide](guides/qiniu/xhub.md) |
 | [skate6743/skate2-rust-port](https://github.com/skate6743/skate2-rust-port) | Rust project | Runs in the browser with a free account | [guide](guides/skate6743/skate2-rust-port.md) |
-| [hongheting/antifouling-coating-simulator](https://github.com/hongheting/antifouling-coating-simulator) | HTML project | Runs in the browser with a free account | [guide](guides/hongheting/antifouling-coating-simulator.md) |
 <!-- latest:end -->
 
 ## How it works

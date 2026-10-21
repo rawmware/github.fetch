@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1178 guides written so far · last update 2026-10-21 22:39 UTC_
+_1179 guides written so far · last update 2026-10-21 22:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) | Vite app | Runs in the browser with a free account | [guide](guides/dev-null-sh/dev-null.sh.md) |
 | [Fangx-AI/geo-doctor](https://github.com/Fangx-AI/geo-doctor) | Node command-line tool | Runs in the browser with a free account | [guide](guides/fangx-ai/geo-doctor.md) |
 | [xue-y-su/clove-api-1.0.6](https://github.com/xue-y-su/clove-api-1.0.6) | Go project | Runs in the browser with a free account | [guide](guides/xue-y-su/clove-api-1.0.6.md) |
 | [NCSC-NL/php2shell](https://github.com/NCSC-NL/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/ncsc-nl/php2shell.md) |
@@ -38,7 +39,6 @@ _1178 guides written so far · last update 2026-10-21 22:39 UTC_
 | [vladocar/Sumi.css](https://github.com/vladocar/Sumi.css) | HTML project | Runs in the browser with a free account | [guide](guides/vladocar/sumi.css.md) |
 | [Monopoly0024/simple-checker-v1](https://github.com/Monopoly0024/simple-checker-v1) | Python project | Runs in the browser with a free account | [guide](guides/monopoly0024/simple-checker-v1.md) |
 | [abcampbel/open-bots](https://github.com/abcampbel/open-bots) | Vite app | Runs in a browser tab, no account needed | [guide](guides/abcampbel/open-bots.md) |
-| [duliangkuan/deepinfer-studio](https://github.com/duliangkuan/deepinfer-studio) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/duliangkuan/deepinfer-studio.md) |
 <!-- latest:end -->
 
 ## How it works

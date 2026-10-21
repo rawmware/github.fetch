@@ -1,8 +1,83 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T22:39:22.314Z",
- "totalGuides": 1178,
+ "updatedAt": "2026-10-21T22:39:22.710Z",
+ "totalGuides": 1179,
  "items": [
+  {
+   "fullName": "dev-null-sh/dev-null.sh",
+   "owner": "dev-null-sh",
+   "name": "dev-null.sh",
+   "url": "https://github.com/dev-null-sh/dev-null.sh",
+   "avatar": "https://avatars.githubusercontent.com/u/344393722?v=4",
+   "description": "a social media for devs",
+   "language": "PHP",
+   "topics": [],
+   "license": null,
+   "stars": 458,
+   "forks": 196,
+   "createdAt": "2026-10-15T09:14:32Z",
+   "branch": "production",
+   "homepage": null,
+   "addedAt": "2026-10-21T22:39:22.710Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/dev-null-sh/dev-null.sh",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/dev-null-sh/dev-null.sh",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/dev-null-sh/dev-null.sh?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/dev-null-sh/dev-null.sh",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/dev-null-sh/dev-null.sh/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [
+    "Uses playwright, which can't run inside a browser tab. Use Codespaces instead.",
+    "Made with Bun. If npm gives trouble, open it in Codespaces and use bun."
+   ],
+   "local": "git clone --depth 1 https://github.com/dev-null-sh/dev-null.sh.git\ncd dev-null.sh\nnpm install\nnpm run dev",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/dev-null-sh/dev-null.sh\nWhat it says it does: \"a social media for devs\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T22:39:22.710Z"
+  },
   {
    "fullName": "Fangx-AI/geo-doctor",
    "owner": "Fangx-AI",
@@ -31502,70 +31577,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/semrincaballero/Polymarket-Prediction-Bot\nWhat it says it does: \"Polymarket trading bot for prediction markets — browse CLOB markets, watch the order book in the terminal, run edge detection, liquidity provision and cross-market arbitrage strategies with paper trading and risk limits. Educational open-source toolkit — not financial advice. Uno\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T05:19:46.394Z"
-  },
-  {
-   "fullName": "wavepostmansteal/discord-zapret",
-   "owner": "wavepostmansteal",
-   "name": "discord-zapret",
-   "url": "https://github.com/wavepostmansteal/discord-zapret",
-   "avatar": "https://avatars.githubusercontent.com/u/292128746?v=4",
-   "description": "NEW FIX 1.10.3 Как Обойти Блокировку Дискорда В России ?! Новый Дискорд Обход Для ПК ! Запрет Дискорд & Фикс ДС !",
-   "language": "Batchfile",
-   "topics": [
-    "discord",
-    "discord-fix",
-    "discord-proxy",
-    "discord-unblock",
-    "discordfix",
-    "dpi-bypass",
-    "fix-discord",
-    "fixdiscord"
-   ],
-   "license": null,
-   "stars": 70,
-   "forks": 25,
-   "createdAt": "2026-10-13T18:48:15Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T00:33:25.729Z",
-   "stack": {
-    "kind": "other",
-    "label": "Batchfile project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/wavepostmansteal/discord-zapret?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/wavepostmansteal/discord-zapret",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/wavepostmansteal/discord-zapret/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/wavepostmansteal/discord-zapret.git\ncd discord-zapret",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/wavepostmansteal/discord-zapret\nWhat it says it does: \"NEW FIX 1.10.3 Как Обойти Блокировку Дискорда В России ?! Новый Дискорд Обход Для ПК ! Запрет Дискорд & Фикс ДС !\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T00:33:25.729Z"
   }
  ],
  "levels": {

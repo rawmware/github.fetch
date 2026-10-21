@@ -1,8 +1,92 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T04:57:49.966Z",
- "totalGuides": 1132,
+ "updatedAt": "2026-10-21T04:57:50.164Z",
+ "totalGuides": 1133,
  "items": [
+  {
+   "fullName": "aidenleads/css-animation-snippets",
+   "owner": "aidenleads",
+   "name": "css-animation-snippets",
+   "url": "https://github.com/aidenleads/css-animation-snippets",
+   "avatar": "https://avatars.githubusercontent.com/u/253620089?v=4",
+   "description": "Free copy-paste CSS animations for business websites. No frameworks, no build step, accessible by default. Love Yall ❤️",
+   "language": "CSS",
+   "topics": [
+    "css",
+    "css-animations",
+    "free-resources",
+    "frontend",
+    "small-business",
+    "ui",
+    "web-design"
+   ],
+   "license": "MIT",
+   "stars": 74,
+   "forks": 16,
+   "createdAt": "2026-10-19T03:47:01Z",
+   "branch": "main",
+   "homepage": "https://aidenleads.github.io/css-animation-snippets/",
+   "addedAt": "2026-10-21T04:57:50.163Z",
+   "stack": {
+    "kind": "static",
+    "label": "Static website (HTML/CSS/JS)",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "live",
+   "launch": [
+    {
+     "id": "live",
+     "label": "Open it live",
+     "url": "https://raw.githack.com/aidenleads/css-animation-snippets/main/index.html",
+     "needs": "nothing",
+     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
+    },
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/aidenleads/css-animation-snippets",
+     "needs": "nothing",
+     "note": "A full editor and preview in your tab."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/aidenleads/css-animation-snippets",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/aidenleads/css-animation-snippets?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/aidenleads/css-animation-snippets",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/aidenleads/css-animation-snippets/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "npx serve .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/aidenleads/css-animation-snippets.git\ncd css-animation-snippets\nnpx serve .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/aidenleads/css-animation-snippets\nWhat it says it does: \"Free copy-paste CSS animations for business websites. No frameworks, no build step, accessible by default. Love Yall ❤️\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:50.163Z"
+  },
   {
    "fullName": "VictorTran1023/tcl-tv-adb-proxy",
    "owner": "VictorTran1023",
@@ -31476,69 +31560,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/madeyexz/louisa-wifi\nWhat it says it does: \"自動連上全台任何一家路易莎咖啡的 Wi-Fi（macOS menu bar app + Raycast）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:38.816Z"
-  },
-  {
-   "fullName": "PS5Dev/Byepervisor-Reborn",
-   "owner": "PS5Dev",
-   "name": "Byepervisor-Reborn",
-   "url": "https://github.com/PS5Dev/Byepervisor-Reborn",
-   "avatar": "https://avatars.githubusercontent.com/u/116930581?v=4",
-   "description": "Somehow, Byepervisor returned...",
-   "language": "C",
-   "topics": [],
-   "license": null,
-   "stars": 203,
-   "forks": 62,
-   "createdAt": "2026-10-12T22:26:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:38.635Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/PS5Dev/Byepervisor-Reborn?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/PS5Dev/Byepervisor-Reborn",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/PS5Dev/Byepervisor-Reborn/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/PS5Dev/Byepervisor-Reborn.git\ncd Byepervisor-Reborn",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/PS5Dev/Byepervisor-Reborn\nWhat it says it does: \"Somehow, Byepervisor returned...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:38.635Z"
   }
  ],
  "levels": {
+  "instant": 37,
   "account": 229,
-  "heavy": 116,
-  "read": 119,
-  "instant": 36
+  "heavy": 115,
+  "read": 119
  }
 }

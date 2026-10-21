@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1132 guides written so far · last update 2026-10-21 04:57 UTC_
+_1133 guides written so far · last update 2026-10-21 04:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aidenleads/css-animation-snippets](https://github.com/aidenleads/css-animation-snippets) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aidenleads/css-animation-snippets.md) |
 | [VictorTran1023/tcl-tv-adb-proxy](https://github.com/VictorTran1023/tcl-tv-adb-proxy) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/tcl-tv-adb-proxy.md) |
 | [Castlesea/infamous-second-son-pc-port](https://github.com/Castlesea/infamous-second-son-pc-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/castlesea/infamous-second-son-pc-port.md) |
 | [lovisdotio/motion2code](https://github.com/lovisdotio/motion2code) | HTML project | Runs in the browser with a free account | [guide](guides/lovisdotio/motion2code.md) |
@@ -38,7 +39,6 @@ _1132 guides written so far · last update 2026-10-21 04:57 UTC_
 | [zensers/zensers](https://github.com/zensers/zensers) | JavaScript project | Runs in the browser with a free account | [guide](guides/zensers/zensers.md) |
 | [TobiasVeiga00/soloist-mpris](https://github.com/TobiasVeiga00/soloist-mpris) | Rust project | Runs in the browser with a free account | [guide](guides/tobiasveiga00/soloist-mpris.md) |
 | [krllmrzv/Sweetch](https://github.com/krllmrzv/Sweetch) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/krllmrzv/sweetch.md) |
-| [blendi-remade/prompt2rig](https://github.com/blendi-remade/prompt2rig) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/blendi-remade/prompt2rig.md) |
 <!-- latest:end -->
 
 ## How it works

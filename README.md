@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1130 guides written so far · last update 2026-10-21 04:57 UTC_
+_1131 guides written so far · last update 2026-10-21 04:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Castlesea/infamous-second-son-pc-port](https://github.com/Castlesea/infamous-second-son-pc-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/castlesea/infamous-second-son-pc-port.md) |
 | [lovisdotio/motion2code](https://github.com/lovisdotio/motion2code) | HTML project | Runs in the browser with a free account | [guide](guides/lovisdotio/motion2code.md) |
 | [abdiraimov-otabek/dashboard-design-skill](https://github.com/abdiraimov-otabek/dashboard-design-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/abdiraimov-otabek/dashboard-design-skill.md) |
 | [0c-biggo/0c-ime](https://github.com/0c-biggo/0c-ime) | Go project | Runs in the browser with a free account | [guide](guides/0c-biggo/0c-ime.md) |
@@ -38,7 +39,6 @@ _1130 guides written so far · last update 2026-10-21 04:57 UTC_
 | [krllmrzv/Sweetch](https://github.com/krllmrzv/Sweetch) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/krllmrzv/sweetch.md) |
 | [blendi-remade/prompt2rig](https://github.com/blendi-remade/prompt2rig) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/blendi-remade/prompt2rig.md) |
 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/eagle-hq/eagle-4.md) |
-| [KingKongRobotics/jumper](https://github.com/KingKongRobotics/jumper) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kingkongrobotics/jumper.md) |
 <!-- latest:end -->
 
 ## How it works

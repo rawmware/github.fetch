@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T04:57:49.430Z",
- "totalGuides": 1130,
+ "updatedAt": "2026-10-21T04:57:49.651Z",
+ "totalGuides": 1131,
  "items": [
+  {
+   "fullName": "Castlesea/infamous-second-son-pc-port",
+   "owner": "Castlesea",
+   "name": "infamous-second-son-pc-port",
+   "url": "https://github.com/Castlesea/infamous-second-son-pc-port",
+   "avatar": "https://avatars.githubusercontent.com/u/206963839?v=4",
+   "description": "Native Windows port of inFAMOUS Second Son (PS4): custom runtime + Vulkan renderer derived from shadPS4. Bring your own game.",
+   "language": "C++",
+   "topics": [],
+   "license": null,
+   "stars": 77,
+   "forks": 6,
+   "createdAt": "2026-10-19T20:22:29Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T04:57:49.650Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Castlesea/infamous-second-son-pc-port?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Castlesea/infamous-second-son-pc-port",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Castlesea/infamous-second-son-pc-port/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Castlesea/infamous-second-son-pc-port.git\ncd infamous-second-son-pc-port",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Castlesea/infamous-second-son-pc-port\nWhat it says it does: \"Native Windows port of inFAMOUS Second Son (PS4): custom runtime + Vulkan renderer derived from shadPS4. Bring your own game.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:49.650Z"
+  },
   {
    "fullName": "lovisdotio/motion2code",
    "owner": "lovisdotio",
@@ -31468,81 +31525,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/w16638771062/mccarbon\nWhat it says it does: \"麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:38.433Z"
-  },
-  {
-   "fullName": "Arekejoker/qwen21-nsfw-pose-skill",
-   "owner": "Arekejoker",
-   "name": "qwen21-nsfw-pose-skill",
-   "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-   "avatar": "https://avatars.githubusercontent.com/u/131444687?v=4",
-   "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-   "language": "Python",
-   "topics": [
-    "agent-skill",
-    "comfyui",
-    "image-generation",
-    "openclaw",
-    "pose-control",
-    "qwen-image"
-   ],
-   "license": null,
-   "stars": 267,
-   "forks": 61,
-   "createdAt": "2026-10-13T03:09:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:38.087Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Arekejoker/qwen21-nsfw-pose-skill/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Arekejoker/qwen21-nsfw-pose-skill?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Arekejoker/qwen21-nsfw-pose-skill",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Arekejoker/qwen21-nsfw-pose-skill.git\ncd qwen21-nsfw-pose-skill",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Arekejoker/qwen21-nsfw-pose-skill\nWhat it says it does: \"Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:38.087Z"
   }
  ],
  "levels": {
-  "account": 230,
+  "heavy": 116,
+  "account": 229,
   "read": 119,
-  "heavy": 115,
   "instant": 36
  }
 }

@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T15:04:29.191Z",
- "totalGuides": 1164,
+ "updatedAt": "2026-10-21T19:20:44.222Z",
+ "totalGuides": 1165,
  "items": [
+  {
+   "fullName": "renjiegod/dyt-ashare-cli",
+   "owner": "renjiegod",
+   "name": "dyt-ashare-cli",
+   "url": "https://github.com/renjiegod/dyt-ashare-cli",
+   "avatar": "https://avatars.githubusercontent.com/u/39329230?v=4",
+   "description": "DYT CN: reproducible China-market research CLI and agent skills",
+   "language": "Rust",
+   "topics": [],
+   "license": "MIT",
+   "stars": 301,
+   "forks": 0,
+   "createdAt": "2026-10-20T10:00:24Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T19:20:44.207Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/renjiegod/dyt-ashare-cli?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/renjiegod/dyt-ashare-cli",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/renjiegod/dyt-ashare-cli/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/renjiegod/dyt-ashare-cli.git\ncd dyt-ashare-cli\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/renjiegod/dyt-ashare-cli\nWhat it says it does: \"DYT CN: reproducible China-market research CLI and agent skills\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T19:20:44.207Z"
+  },
   {
    "fullName": "parthh01/sphinx",
    "owner": "parthh01",
@@ -31504,73 +31559,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/sepehr071/awesome-iran-mcp\nWhat it says it does: \"19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T21:29:37.871Z"
-  },
-  {
-   "fullName": "Fengzdadi/memory-bench-registry",
-   "owner": "Fengzdadi",
-   "name": "memory-bench-registry",
-   "url": "https://github.com/Fengzdadi/memory-bench-registry",
-   "avatar": "https://avatars.githubusercontent.com/u/98084480?v=4",
-   "description": "Structured registry of agent memory benchmarks, with every field traced to its source",
-   "language": "HTML",
-   "topics": [],
-   "license": "MIT",
-   "stars": 93,
-   "forks": 5,
-   "createdAt": "2026-10-11T20:06:31Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T21:29:37.614Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Fengzdadi/memory-bench-registry/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Fengzdadi/memory-bench-registry?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Fengzdadi/memory-bench-registry",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Fengzdadi/memory-bench-registry/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Fengzdadi/memory-bench-registry.git\ncd memory-bench-registry\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Fengzdadi/memory-bench-registry\nWhat it says it does: \"Structured registry of agent memory benchmarks, with every field traced to its source\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T21:29:37.614Z"
   }
  ],
  "levels": {
-  "instant": 37,
   "account": 234,
+  "instant": 37,
   "heavy": 115,
   "read": 114
  }

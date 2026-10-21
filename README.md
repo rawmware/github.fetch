@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1157 guides written so far · last update 2026-10-21 15:04 UTC_
+_1158 guides written so far · last update 2026-10-21 15:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [helloianneo/ian-xhs-carousel](https://github.com/helloianneo/ian-xhs-carousel) | HTML project | Runs in the browser with a free account | [guide](guides/helloianneo/ian-xhs-carousel.md) |
 | [ilAoC/mcd-gacha-collector](https://github.com/ilAoC/mcd-gacha-collector) | Python project | Runs in the browser with a free account | [guide](guides/ilaoc/mcd-gacha-collector.md) |
 | [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp) | Python project | Runs in the browser with a free account | [guide](guides/smm2recomp/smm2recomp.md) |
 | [lol-tools-new/.github](https://github.com/lol-tools-new/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/lol-tools-new/.github.md) |
@@ -38,7 +39,6 @@ _1157 guides written so far · last update 2026-10-21 15:04 UTC_
 | [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyterminal.md) |
 | [andrisgauracs/whistle-esp32](https://github.com/andrisgauracs/whistle-esp32) | C project | Needs a real machine (or a GPU) to run | [guide](guides/andrisgauracs/whistle-esp32.md) |
 | [rosehahah/the-machine](https://github.com/rosehahah/the-machine) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/rosehahah/the-machine.md) |
-| [gojko/lights-on-software-factory](https://github.com/gojko/lights-on-software-factory) | JavaScript project | Runs in the browser with a free account | [guide](guides/gojko/lights-on-software-factory.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T19:20:45.494Z",
- "totalGuides": 1170,
+ "updatedAt": "2026-10-21T19:20:45.775Z",
+ "totalGuides": 1171,
  "items": [
+  {
+   "fullName": "browser-use/rl-env-use",
+   "owner": "browser-use",
+   "name": "rl-env-use",
+   "url": "https://github.com/browser-use/rl-env-use",
+   "avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
+   "description": "Build RL environments for any domain from real cases that Browser Use agents mine from the web",
+   "language": "HTML",
+   "topics": [],
+   "license": "MIT",
+   "stars": 82,
+   "forks": 4,
+   "createdAt": "2026-10-21T04:31:55Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T19:20:45.775Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/browser-use/rl-env-use/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/browser-use/rl-env-use?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/browser-use/rl-env-use",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/browser-use/rl-env-use/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/browser-use/rl-env-use.git\ncd rl-env-use\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/browser-use/rl-env-use\nWhat it says it does: \"Build RL environments for any domain from real cases that Browser Use agents mine from the web\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T19:20:45.775Z"
+  },
   {
    "fullName": "vladocar/Sumi.css",
    "owner": "vladocar",
@@ -31483,77 +31545,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/theghostonline/PS5-LZ4-Compression\nWhat it says it does: \"LZ4 compression for games, done entirely on the PS5\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T21:29:39.516Z"
-  },
-  {
-   "fullName": "recepyagmur/EnglishPractice",
-   "owner": "recepyagmur",
-   "name": "EnglishPractice",
-   "url": "https://github.com/recepyagmur/EnglishPractice",
-   "avatar": "https://avatars.githubusercontent.com/u/75523619?v=4",
-   "description": "Yerel, çevrimdışı ve taşınabilir İngilizce pratik uygulaması (Türkçe konuşanlar için): yapay zekâyla sesli/yazılı sohbet ve anında düzeltme, A1–C1 dersler ve sınavlar, Türkçe sesli öğretmen, kelime ve kalıp çalışma, YDS tarzı süreli testler. Windows ve Linux. Ollama + Gemma 4, Wh",
-   "language": "Python",
-   "topics": [
-    "english-learning",
-    "fastapi",
-    "gemma",
-    "kokoro-tts",
-    "language-learning",
-    "offline",
-    "ollama",
-    "portable"
-   ],
-   "license": "MIT",
-   "stars": 83,
-   "forks": 4,
-   "createdAt": "2026-10-11T19:29:17Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T21:29:39.278Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/recepyagmur/EnglishPractice/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/recepyagmur/EnglishPractice?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/recepyagmur/EnglishPractice",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/recepyagmur/EnglishPractice/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/recepyagmur/EnglishPractice.git\ncd EnglishPractice",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/recepyagmur/EnglishPractice\nWhat it says it does: \"Yerel, çevrimdışı ve taşınabilir İngilizce pratik uygulaması (Türkçe konuşanlar için): yapay zekâyla sesli/yazılı sohbet ve anında düzeltme, A1–C1 dersler ve sınavlar, Türkçe sesli öğretmen, kelime ve kalıp çalışma, YDS tarzı süreli testler. Windows ve Linux. Ollama + Gemma 4, Wh\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T21:29:39.278Z"
   }
  ],
  "levels": {

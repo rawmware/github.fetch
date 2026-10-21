@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1133 guides written so far · last update 2026-10-21 04:57 UTC_
+_1134 guides written so far · last update 2026-10-21 04:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) | Python project | Runs in the browser with a free account | [guide](guides/ethanarbuckle/fairplay-decrypt.md) |
 | [aidenleads/css-animation-snippets](https://github.com/aidenleads/css-animation-snippets) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aidenleads/css-animation-snippets.md) |
 | [VictorTran1023/tcl-tv-adb-proxy](https://github.com/VictorTran1023/tcl-tv-adb-proxy) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/tcl-tv-adb-proxy.md) |
 | [Castlesea/infamous-second-son-pc-port](https://github.com/Castlesea/infamous-second-son-pc-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/castlesea/infamous-second-son-pc-port.md) |
@@ -38,7 +39,6 @@ _1133 guides written so far · last update 2026-10-21 04:57 UTC_
 | [lesnolie/Tigris](https://github.com/lesnolie/Tigris) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/lesnolie/tigris.md) |
 | [zensers/zensers](https://github.com/zensers/zensers) | JavaScript project | Runs in the browser with a free account | [guide](guides/zensers/zensers.md) |
 | [TobiasVeiga00/soloist-mpris](https://github.com/TobiasVeiga00/soloist-mpris) | Rust project | Runs in the browser with a free account | [guide](guides/tobiasveiga00/soloist-mpris.md) |
-| [krllmrzv/Sweetch](https://github.com/krllmrzv/Sweetch) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/krllmrzv/sweetch.md) |
 <!-- latest:end -->
 
 ## How it works

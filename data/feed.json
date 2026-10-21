@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T04:57:50.164Z",
- "totalGuides": 1133,
+ "updatedAt": "2026-10-21T04:57:50.458Z",
+ "totalGuides": 1134,
  "items": [
+  {
+   "fullName": "EthanArbuckle/fairplay-decrypt",
+   "owner": "EthanArbuckle",
+   "name": "fairplay-decrypt",
+   "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+   "avatar": "https://avatars.githubusercontent.com/u/4250718?v=4",
+   "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+   "language": "C",
+   "topics": [],
+   "license": null,
+   "stars": 74,
+   "forks": 10,
+   "createdAt": "2026-10-19T10:07:58Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T04:57:50.458Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/EthanArbuckle/fairplay-decrypt/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/EthanArbuckle/fairplay-decrypt?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/EthanArbuckle/fairplay-decrypt",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/EthanArbuckle/fairplay-decrypt/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/EthanArbuckle/fairplay-decrypt.git\ncd fairplay-decrypt\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/EthanArbuckle/fairplay-decrypt\nWhat it says it does: \"Offline FairPlay App Store IPA decryption with independent key derivation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:50.458Z"
+  },
   {
    "fullName": "aidenleads/css-animation-snippets",
    "owner": "aidenleads",
@@ -31503,69 +31565,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Barrierdrapersonify/Auslogics\nWhat it says it does: \"Auslogics is an innovative digital audio workstation and sound design suite that empowers users with its cutting-edge features and intuitive interface,...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:39.017Z"
-  },
-  {
-   "fullName": "madeyexz/louisa-wifi",
-   "owner": "madeyexz",
-   "name": "louisa-wifi",
-   "url": "https://github.com/madeyexz/louisa-wifi",
-   "avatar": "https://avatars.githubusercontent.com/u/45984618?v=4",
-   "description": "自動連上全台任何一家路易莎咖啡的 Wi-Fi（macOS menu bar app + Raycast）",
-   "language": "Swift",
-   "topics": [],
-   "license": "MIT",
-   "stars": 182,
-   "forks": 5,
-   "createdAt": "2026-10-12T08:20:09Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:38.816Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/madeyexz/louisa-wifi?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/madeyexz/louisa-wifi",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/madeyexz/louisa-wifi/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/madeyexz/louisa-wifi.git\ncd louisa-wifi",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/madeyexz/louisa-wifi\nWhat it says it does: \"自動連上全台任何一家路易莎咖啡的 Wi-Fi（macOS menu bar app + Raycast）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:38.816Z"
   }
  ],
  "levels": {
+  "account": 230,
   "instant": 37,
-  "account": 229,
-  "heavy": 115,
+  "heavy": 114,
   "read": 119
  }
 }

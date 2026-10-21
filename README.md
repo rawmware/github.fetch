@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1144 guides written so far · last update 2026-10-21 10:00 UTC_
+_1145 guides written so far · last update 2026-10-21 10:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HalfVulpes/Deepinfer-SM80](https://github.com/HalfVulpes/Deepinfer-SM80) | Python project | Runs in the browser with a free account | [guide](guides/halfvulpes/deepinfer-sm80.md) |
 | [h563k/chat-keeper](https://github.com/h563k/chat-keeper) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/h563k/chat-keeper.md) |
 | [VictorTran1023/tcl-tv-toolkit](https://github.com/VictorTran1023/tcl-tv-toolkit) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/tcl-tv-toolkit.md) |
 | [Xc1Ym/LumaDock](https://github.com/Xc1Ym/LumaDock) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/xc1ym/lumadock.md) |
@@ -38,7 +39,6 @@ _1144 guides written so far · last update 2026-10-21 10:00 UTC_
 | [WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/woyun520/dsh-purge.md) |
 | [Networkapbridge/dll-decryptor](https://github.com/Networkapbridge/dll-decryptor) | Python project | Runs in the browser with a free account | [guide](guides/networkapbridge/dll-decryptor.md) |
 | [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) | Python project | Runs in the browser with a free account | [guide](guides/ethanarbuckle/fairplay-decrypt.md) |
-| [aidenleads/css-animation-snippets](https://github.com/aidenleads/css-animation-snippets) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aidenleads/css-animation-snippets.md) |
 <!-- latest:end -->
 
 ## How it works

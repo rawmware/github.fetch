@@ -1,8 +1,78 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T04:57:49.651Z",
- "totalGuides": 1131,
+ "updatedAt": "2026-10-21T04:57:49.966Z",
+ "totalGuides": 1132,
  "items": [
+  {
+   "fullName": "VictorTran1023/tcl-tv-adb-proxy",
+   "owner": "VictorTran1023",
+   "name": "tcl-tv-adb-proxy",
+   "url": "https://github.com/VictorTran1023/tcl-tv-adb-proxy",
+   "avatar": "https://avatars.githubusercontent.com/u/10486415?v=4",
+   "description": "TCL 电视调试与优化手册：ADB 授权 · 侧载 · 代理 · 去广告 · 低负载 · HUD · 回归测试",
+   "language": "Java",
+   "topics": [
+    "adb",
+    "android-tv",
+    "debloat",
+    "flclash",
+    "smarttube",
+    "tcl",
+    "tutorial"
+   ],
+   "license": "MIT",
+   "stars": 77,
+   "forks": 9,
+   "createdAt": "2026-10-19T02:53:28Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T04:57:49.965Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/VictorTran1023/tcl-tv-adb-proxy/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/VictorTran1023/tcl-tv-adb-proxy?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/VictorTran1023/tcl-tv-adb-proxy",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/VictorTran1023/tcl-tv-adb-proxy/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/VictorTran1023/tcl-tv-adb-proxy.git\ncd tcl-tv-adb-proxy\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/VictorTran1023/tcl-tv-adb-proxy\nWhat it says it does: \"TCL 电视调试与优化手册：ADB 授权 · 侧载 · 代理 · 去广告 · 低负载 · HUD · 回归测试\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:49.965Z"
+  },
   {
    "fullName": "Castlesea/infamous-second-son-pc-port",
    "owner": "Castlesea",
@@ -31463,73 +31533,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/PS5Dev/Byepervisor-Reborn\nWhat it says it does: \"Somehow, Byepervisor returned...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:38.635Z"
-  },
-  {
-   "fullName": "w16638771062/mccarbon",
-   "owner": "w16638771062",
-   "name": "mccarbon",
-   "url": "https://github.com/w16638771062/mccarbon",
-   "avatar": "https://avatars.githubusercontent.com/u/97033493?v=4",
-   "description": "麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 206,
-   "forks": 18,
-   "createdAt": "2026-10-12T09:45:08Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:38.433Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/w16638771062/mccarbon/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/w16638771062/mccarbon?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/w16638771062/mccarbon",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/w16638771062/mccarbon/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/w16638771062/mccarbon.git\ncd mccarbon\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/w16638771062/mccarbon\nWhat it says it does: \"麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:38.433Z"
   }
  ],
  "levels": {
-  "heavy": 116,
   "account": 229,
+  "heavy": 116,
   "read": 119,
   "instant": 36
  }

@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T04:57:50.458Z",
- "totalGuides": 1134,
+ "updatedAt": "2026-10-21T04:57:50.831Z",
+ "totalGuides": 1135,
  "items": [
+  {
+   "fullName": "Networkapbridge/dll-decryptor",
+   "owner": "Networkapbridge",
+   "name": "dll-decryptor",
+   "url": "https://github.com/Networkapbridge/dll-decryptor",
+   "avatar": "https://avatars.githubusercontent.com/u/312920123?v=4",
+   "description": "dll decryptor — dumps encrypted DLL payloads, resolves imports, rebuilds PE headers, exports or memory-maps the decrypted module",
+   "language": "HTML",
+   "topics": [
+    "assembly-decryptor",
+    "binary-analysis",
+    "csharp-decompiler",
+    "dll-decryption",
+    "dll-decryptor",
+    "dll-unpacker",
+    "dll-unpacking",
+    "dnspy"
+   ],
+   "license": "MIT",
+   "stars": 72,
+   "forks": 31,
+   "createdAt": "2026-10-20T11:55:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T04:57:50.830Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Networkapbridge/dll-decryptor/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Networkapbridge/dll-decryptor?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Networkapbridge/dll-decryptor",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Networkapbridge/dll-decryptor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Networkapbridge/dll-decryptor.git\ncd dll-decryptor\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Networkapbridge/dll-decryptor\nWhat it says it does: \"dll decryptor — dumps encrypted DLL payloads, resolves imports, rebuilds PE headers, exports or memory-maps the decrypted module\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:50.830Z"
+  },
   {
    "fullName": "EthanArbuckle/fairplay-decrypt",
    "owner": "EthanArbuckle",
@@ -31508,69 +31579,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/surgeduelistjourney/BorisFX\nWhat it says it does: \"Revolutionize your video editing workflow with this innovative plugin that seamlessly integrates powerful VFX and screen recording capabilities into your...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:39.255Z"
-  },
-  {
-   "fullName": "Barrierdrapersonify/Auslogics",
-   "owner": "Barrierdrapersonify",
-   "name": "Auslogics",
-   "url": "https://github.com/Barrierdrapersonify/Auslogics",
-   "avatar": "https://avatars.githubusercontent.com/u/292125980?v=4",
-   "description": "Auslogics is an innovative digital audio workstation and sound design suite that empowers users with its cutting-edge features and intuitive interface,...",
-   "language": null,
-   "topics": [
-    "auslogics",
-    "auslogics-2026",
-    "auslogics-boostspeed",
-    "auslogics-boostspeed-2026",
-    "auslogics-crack",
-    "auslogics-driver-updater",
-    "auslogics-free",
-    "boostspeed-install-setup-windows-2026"
-   ],
-   "license": null,
-   "stars": 176,
-   "forks": 0,
-   "createdAt": "2026-10-12T19:21:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:39.017Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Barrierdrapersonify/Auslogics",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Barrierdrapersonify/Auslogics/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Barrierdrapersonify/Auslogics\nWhat it says it does: \"Auslogics is an innovative digital audio workstation and sound design suite that empowers users with its cutting-edge features and intuitive interface,...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:39.017Z"
   }
  ],
  "levels": {
-  "account": 230,
+  "account": 231,
   "instant": 37,
   "heavy": 114,
-  "read": 119
+  "read": 118
  }
 }

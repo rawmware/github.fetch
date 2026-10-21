@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1134 guides written so far · last update 2026-10-21 04:57 UTC_
+_1135 guides written so far · last update 2026-10-21 04:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Networkapbridge/dll-decryptor](https://github.com/Networkapbridge/dll-decryptor) | Python project | Runs in the browser with a free account | [guide](guides/networkapbridge/dll-decryptor.md) |
 | [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) | Python project | Runs in the browser with a free account | [guide](guides/ethanarbuckle/fairplay-decrypt.md) |
 | [aidenleads/css-animation-snippets](https://github.com/aidenleads/css-animation-snippets) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aidenleads/css-animation-snippets.md) |
 | [VictorTran1023/tcl-tv-adb-proxy](https://github.com/VictorTran1023/tcl-tv-adb-proxy) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/tcl-tv-adb-proxy.md) |
@@ -38,7 +39,6 @@ _1134 guides written so far · last update 2026-10-21 04:57 UTC_
 | [DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-download-2026/.github.md) |
 | [lesnolie/Tigris](https://github.com/lesnolie/Tigris) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/lesnolie/tigris.md) |
 | [zensers/zensers](https://github.com/zensers/zensers) | JavaScript project | Runs in the browser with a free account | [guide](guides/zensers/zensers.md) |
-| [TobiasVeiga00/soloist-mpris](https://github.com/TobiasVeiga00/soloist-mpris) | Rust project | Runs in the browser with a free account | [guide](guides/tobiasveiga00/soloist-mpris.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1169 guides written so far · last update 2026-10-21 19:20 UTC_
+_1170 guides written so far · last update 2026-10-21 19:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [vladocar/Sumi.css](https://github.com/vladocar/Sumi.css) | HTML project | Runs in the browser with a free account | [guide](guides/vladocar/sumi.css.md) |
 | [Monopoly0024/simple-checker-v1](https://github.com/Monopoly0024/simple-checker-v1) | Python project | Runs in the browser with a free account | [guide](guides/monopoly0024/simple-checker-v1.md) |
 | [abcampbel/open-bots](https://github.com/abcampbel/open-bots) | Vite app | Runs in a browser tab, no account needed | [guide](guides/abcampbel/open-bots.md) |
 | [duliangkuan/deepinfer-studio](https://github.com/duliangkuan/deepinfer-studio) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/duliangkuan/deepinfer-studio.md) |
@@ -38,7 +39,6 @@ _1169 guides written so far · last update 2026-10-21 19:20 UTC_
 | [skate6743/skate2-rust-port](https://github.com/skate6743/skate2-rust-port) | Rust project | Runs in the browser with a free account | [guide](guides/skate6743/skate2-rust-port.md) |
 | [hongheting/antifouling-coating-simulator](https://github.com/hongheting/antifouling-coating-simulator) | HTML project | Runs in the browser with a free account | [guide](guides/hongheting/antifouling-coating-simulator.md) |
 | [VictorTran1023/android-tv-toolkit](https://github.com/VictorTran1023/android-tv-toolkit) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/android-tv-toolkit.md) |
-| [helloianneo/ian-xhs-carousel](https://github.com/helloianneo/ian-xhs-carousel) | HTML project | Runs in the browser with a free account | [guide](guides/helloianneo/ian-xhs-carousel.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T15:04:28.451Z",
- "totalGuides": 1162,
+ "updatedAt": "2026-10-21T15:04:28.751Z",
+ "totalGuides": 1163,
  "items": [
+  {
+   "fullName": "c1overzz/dsh-bili-scroll",
+   "owner": "c1overzz",
+   "name": "dsh-bili-scroll",
+   "url": "https://github.com/c1overzz/dsh-bili-scroll",
+   "avatar": "https://avatars.githubusercontent.com/u/336343453?v=4",
+   "description": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+   "language": "JavaScript",
+   "topics": [
+    "dsh-plugin"
+   ],
+   "license": "MIT",
+   "stars": 326,
+   "forks": 41,
+   "createdAt": "2026-10-14T09:03:43Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T15:04:28.750Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/c1overzz/dsh-bili-scroll",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/c1overzz/dsh-bili-scroll",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/c1overzz/dsh-bili-scroll?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/c1overzz/dsh-bili-scroll",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/c1overzz/dsh-bili-scroll/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/c1overzz/dsh-bili-scroll.git\ncd dsh-bili-scroll\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/c1overzz/dsh-bili-scroll\nWhat it says it does: \"DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T15:04:28.750Z"
+  },
   {
    "fullName": "qiniu/xhub",
    "owner": "qiniu",
@@ -31506,68 +31577,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/rzc156/dreamforge\nWhat it says it does: \"Turn world-model imagination into corrective training data for robot policies — a single-GPU, falsifiable pipeline (SmolVLA · LIBERO · CEM · paired simulator replays).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T21:29:37.203Z"
-  },
-  {
-   "fullName": "Grav1ty666/ResumeBuilder",
-   "owner": "Grav1ty666",
-   "name": "ResumeBuilder",
-   "url": "https://github.com/Grav1ty666/ResumeBuilder",
-   "avatar": "https://avatars.githubusercontent.com/u/108891310?v=4",
-   "description": "简历生成器：单文件 EXE 与 Inno Setup 安装包，离线可用",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 101,
-   "forks": 4,
-   "createdAt": "2026-10-13T07:59:25Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T21:29:36.811Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Grav1ty666/ResumeBuilder/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Grav1ty666/ResumeBuilder?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Grav1ty666/ResumeBuilder",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Grav1ty666/ResumeBuilder/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Grav1ty666/ResumeBuilder.git\ncd ResumeBuilder",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Grav1ty666/ResumeBuilder\nWhat it says it does: \"简历生成器：单文件 EXE 与 Inno Setup 安装包，离线可用\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T21:29:36.811Z"
   }
  ],
  "levels": {

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1120 guides written so far · last update 2026-10-21 00:05 UTC_
+_1121 guides written so far · last update 2026-10-21 00:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [blendi-remade/prompt2rig](https://github.com/blendi-remade/prompt2rig) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/blendi-remade/prompt2rig.md) |
 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/eagle-hq/eagle-4.md) |
 | [KingKongRobotics/jumper](https://github.com/KingKongRobotics/jumper) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kingkongrobotics/jumper.md) |
 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | JavaScript project | Runs in the browser with a free account | [guide](guides/dzhng/jevgrep.md) |
@@ -38,7 +39,6 @@ _1120 guides written so far · last update 2026-10-21 00:05 UTC_
 | [Saffsanity/sill](https://github.com/Saffsanity/sill) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/saffsanity/sill.md) |
 | [OmkarK97/webos-vibehack](https://github.com/OmkarK97/webos-vibehack) | JavaScript project | Runs in the browser with a free account | [guide](guides/omkark97/webos-vibehack.md) |
 | [fort-skins/.github](https://github.com/fort-skins/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/fort-skins/.github.md) |
-| [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | HTML project | Runs in the browser with a free account | [guide](guides/kaankiziltug/logo-design-skill.md) |
 <!-- latest:end -->
 
 ## How it works

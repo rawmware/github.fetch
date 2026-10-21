@@ -1,8 +1,76 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T10:00:23.647Z",
- "totalGuides": 1140,
+ "updatedAt": "2026-10-21T10:00:23.869Z",
+ "totalGuides": 1141,
  "items": [
+  {
+   "fullName": "Jakeschincariol/day-trader-skill",
+   "owner": "Jakeschincariol",
+   "name": "day-trader-skill",
+   "url": "https://github.com/Jakeschincariol/day-trader-skill",
+   "avatar": "https://avatars.githubusercontent.com/u/196724947?v=4",
+   "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+   "language": "Python",
+   "topics": [
+    "backtesting",
+    "claude",
+    "claude-skills",
+    "day-trading",
+    "stock-market"
+   ],
+   "license": "MIT",
+   "stars": 87,
+   "forks": 19,
+   "createdAt": "2026-10-20T14:17:54Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T10:00:23.869Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Jakeschincariol/day-trader-skill/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Jakeschincariol/day-trader-skill?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Jakeschincariol/day-trader-skill",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Jakeschincariol/day-trader-skill/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Jakeschincariol/day-trader-skill.git\ncd day-trader-skill",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Jakeschincariol/day-trader-skill\nWhat it says it does: \"11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T10:00:23.869Z"
+  },
   {
    "fullName": "op7418/guizang-tv",
    "owner": "op7418",
@@ -31589,73 +31657,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/SouravBeraAkaSpeed/xiryn\nWhat it says it does: \"Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T16:22:41.432Z"
-  },
-  {
-   "fullName": "spideymooon/McOracle",
-   "owner": "spideymooon",
-   "name": "McOracle",
-   "url": "https://github.com/spideymooon/McOracle",
-   "avatar": "https://avatars.githubusercontent.com/u/64072576?v=4",
-   "description": "不要问 AI，问薯条。一个结合麦当劳 MCP 与 AI 答案之书的 Skill。",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 153,
-   "forks": 0,
-   "createdAt": "2026-10-12T15:44:21Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T16:22:40.954Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/spideymooon/McOracle/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/spideymooon/McOracle?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/spideymooon/McOracle",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/spideymooon/McOracle/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/spideymooon/McOracle.git\ncd McOracle",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/spideymooon/McOracle\nWhat it says it does: \"不要问 AI，问薯条。一个结合麦当劳 MCP 与 AI 答案之书的 Skill。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T16:22:40.954Z"
   }
  ],
  "levels": {
-  "heavy": 116,
   "account": 232,
+  "heavy": 116,
   "instant": 38,
   "read": 114
  }

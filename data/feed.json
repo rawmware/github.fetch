@@ -1,8 +1,86 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T22:39:21.876Z",
- "totalGuides": 1177,
+ "updatedAt": "2026-10-21T22:39:22.314Z",
+ "totalGuides": 1178,
  "items": [
+  {
+   "fullName": "Fangx-AI/geo-doctor",
+   "owner": "Fangx-AI",
+   "name": "geo-doctor",
+   "url": "https://github.com/Fangx-AI/geo-doctor",
+   "avatar": "https://avatars.githubusercontent.com/u/53320920?v=4",
+   "description": "GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。",
+   "language": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-overviews",
+    "ai-search",
+    "chatgpt",
+    "chinese",
+    "deepseek",
+    "doubao",
+    "generative-engine-optimization"
+   ],
+   "license": "MIT",
+   "stars": 606,
+   "forks": 119,
+   "createdAt": "2026-10-14T01:19:15Z",
+   "branch": "master",
+   "homepage": null,
+   "addedAt": "2026-10-21T22:39:22.313Z",
+   "stack": {
+    "kind": "node",
+    "label": "Node command-line tool",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Fangx-AI/geo-doctor",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`node cli/geo-audit.mjs`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Fangx-AI/geo-doctor",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Fangx-AI/geo-doctor?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Fangx-AI/geo-doctor",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Fangx-AI/geo-doctor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "node cli/geo-audit.mjs",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Fangx-AI/geo-doctor.git\ncd geo-doctor\nnpm install\nnode cli/geo-audit.mjs",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Fangx-AI/geo-doctor\nWhat it says it does: \"GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T22:39:22.313Z"
+  },
   {
    "fullName": "xue-y-su/clove-api-1.0.6",
    "owner": "xue-y-su",
@@ -31488,69 +31566,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/wavepostmansteal/discord-zapret\nWhat it says it does: \"NEW FIX 1.10.3 Как Обойти Блокировку Дискорда В России ?! Новый Дискорд Обход Для ПК ! Запрет Дискорд & Фикс ДС !\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T00:33:25.729Z"
-  },
-  {
-   "fullName": "ikooc/baidujiexi_app",
-   "owner": "ikooc",
-   "name": "baidujiexi_app",
-   "url": "https://github.com/ikooc/baidujiexi_app",
-   "avatar": "https://avatars.githubusercontent.com/u/119422672?v=4",
-   "description": "百度网盘直链解析助手 Flutter 客户端（Android / Windows）：远端配置 + 直链解析 + 内置 Gopeed 多线程下载",
-   "language": "Dart",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 72,
-   "forks": 20,
-   "createdAt": "2026-10-12T08:12:04Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T00:33:25.541Z",
-   "stack": {
-    "kind": "native",
-    "label": "Dart project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ikooc/baidujiexi_app?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ikooc/baidujiexi_app",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ikooc/baidujiexi_app/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Dart usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/ikooc/baidujiexi_app.git\ncd baidujiexi_app",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/ikooc/baidujiexi_app\nWhat it says it does: \"百度网盘直链解析助手 Flutter 客户端（Android / Windows）：远端配置 + 直链解析 + 内置 Gopeed 多线程下载\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T00:33:25.541Z"
   }
  ],
  "levels": {
-  "account": 233,
+  "account": 234,
   "read": 118,
   "instant": 37,
-  "heavy": 112
+  "heavy": 111
  }
 }

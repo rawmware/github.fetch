@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1174 guides written so far · last update 2026-10-21 19:20 UTC_
+_1175 guides written so far · last update 2026-10-21 19:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Torrentthefoundry/KMS-Pico](https://github.com/Torrentthefoundry/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/torrentthefoundry/kms-pico.md) |
 | [slaterockweb/BorisFX](https://github.com/slaterockweb/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slaterockweb/borisfx.md) |
 | [ThresholdSummoner/Camtasia](https://github.com/ThresholdSummoner/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdsummoner/camtasia.md) |
 | [shareshellrelease/Cinema-4d](https://github.com/shareshellrelease/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shareshellrelease/cinema-4d.md) |
@@ -38,7 +39,6 @@ _1174 guides written so far · last update 2026-10-21 19:20 UTC_
 | [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alejandros17487/ai-jailbreaks.md) |
 | [renjiegod/dyt-ashare-cli](https://github.com/renjiegod/dyt-ashare-cli) | Rust project | Runs in the browser with a free account | [guide](guides/renjiegod/dyt-ashare-cli.md) |
 | [parthh01/sphinx](https://github.com/parthh01/sphinx) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/parthh01/sphinx.md) |
-| [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) | JavaScript project | Runs in the browser with a free account | [guide](guides/c1overzz/dsh-bili-scroll.md) |
 <!-- latest:end -->
 
 ## How it works

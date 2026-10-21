@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T19:20:46.325Z",
- "totalGuides": 1174,
+ "updatedAt": "2026-10-21T19:20:46.530Z",
+ "totalGuides": 1175,
  "items": [
+  {
+   "fullName": "Torrentthefoundry/KMS-Pico",
+   "owner": "Torrentthefoundry",
+   "name": "KMS-Pico",
+   "url": "https://github.com/Torrentthefoundry/KMS-Pico",
+   "avatar": "https://avatars.githubusercontent.com/u/295650926?v=4",
+   "description": "Kms Pico Free 2026: Full working installer for professional desktop software utility configuration, ready to run without activation hassles.",
+   "language": null,
+   "topics": [
+    "activation-fix",
+    "free-excel-word",
+    "key-management-system",
+    "kms-auto-2026",
+    "kms-auto-get",
+    "kms-pico-free",
+    "kmsauto-get",
+    "microsoft-office-26"
+   ],
+   "license": null,
+   "stars": 80,
+   "forks": 0,
+   "createdAt": "2026-10-21T15:50:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T19:20:46.529Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Torrentthefoundry/KMS-Pico",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Torrentthefoundry/KMS-Pico/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Torrentthefoundry/KMS-Pico\nWhat it says it does: \"Kms Pico Free 2026: Full working installer for professional desktop software utility configuration, ready to run without activation hassles.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T19:20:46.529Z"
+  },
   {
    "fullName": "slaterockweb/BorisFX",
    "owner": "slaterockweb",
@@ -31481,69 +31538,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ivandilelio/kybes\nWhat it says it does: \"Know Your Backend is a Plugin that help your AI to generate a structured Model/View/Controller application, witouth surprise, code duplication and different modality in a different project\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T00:33:25.208Z"
-  },
-  {
-   "fullName": "AjncSystem/ShadowOfTheColossus-PC",
-   "owner": "AjncSystem",
-   "name": "ShadowOfTheColossus-PC",
-   "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-   "avatar": "https://avatars.githubusercontent.com/u/305895304?v=4",
-   "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
-   "language": "C++",
-   "topics": [],
-   "license": "GPL-2.0",
-   "stars": 83,
-   "forks": 0,
-   "createdAt": "2026-10-12T13:11:53Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T00:33:25.048Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/AjncSystem/ShadowOfTheColossus-PC?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/AjncSystem/ShadowOfTheColossus-PC",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/AjncSystem/ShadowOfTheColossus-PC.git\ncd ShadowOfTheColossus-PC",
-   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/AjncSystem/ShadowOfTheColossus-PC\nWhat it says it does: \"Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T00:33:25.048Z"
   }
  ],
  "levels": {
-  "read": 118,
+  "read": 119,
   "account": 232,
   "instant": 37,
-  "heavy": 113
+  "heavy": 112
  }
 }

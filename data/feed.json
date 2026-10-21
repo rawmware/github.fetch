@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T10:00:23.124Z",
- "totalGuides": 1138,
+ "updatedAt": "2026-10-21T10:00:23.402Z",
+ "totalGuides": 1139,
  "items": [
+  {
+   "fullName": "raymondchins/Bridgeplay",
+   "owner": "raymondchins",
+   "name": "Bridgeplay",
+   "url": "https://github.com/raymondchins/Bridgeplay",
+   "avatar": "https://avatars.githubusercontent.com/u/12913191?v=4",
+   "description": "Windows Steam games on Apple Silicon Macs, installed in one click",
+   "language": "Scala",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 113,
+   "forks": 3,
+   "createdAt": "2026-10-20T03:13:58Z",
+   "branch": "main",
+   "homepage": "https://bridgeplay.dev",
+   "addedAt": "2026-10-21T10:00:23.401Z",
+   "stack": {
+    "kind": "other",
+    "label": "Scala project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/raymondchins/Bridgeplay?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/raymondchins/Bridgeplay",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/raymondchins/Bridgeplay/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/raymondchins/Bridgeplay.git\ncd Bridgeplay",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/raymondchins/Bridgeplay\nWhat it says it does: \"Windows Steam games on Apple Silicon Macs, installed in one click\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T10:00:23.401Z"
+  },
   {
    "fullName": "inclusionAI/Ming-3.0-tts",
    "owner": "inclusionAI",
@@ -31588,60 +31643,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/threerocks/sweety-handdraw-video\nWhat it says it does: \"从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T16:22:40.743Z"
-  },
-  {
-   "fullName": "overdriveps5/overdrive-releases",
-   "owner": "overdriveps5",
-   "name": "overdrive-releases",
-   "url": "https://github.com/overdriveps5/overdrive-releases",
-   "avatar": "https://avatars.githubusercontent.com/u/341640090?v=4",
-   "description": "Overdrive releases for jailbroken PS5",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 206,
-   "forks": 20,
-   "createdAt": "2026-10-12T19:35:03Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T16:22:40.506Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/overdriveps5/overdrive-releases",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/overdriveps5/overdrive-releases/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/overdriveps5/overdrive-releases\nWhat it says it does: \"Overdrive releases for jailbroken PS5\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T16:22:40.506Z"
   }
  ],
  "levels": {
+  "account": 233,
   "heavy": 115,
   "instant": 38,
-  "account": 232,
-  "read": 115
+  "read": 114
  }
 }

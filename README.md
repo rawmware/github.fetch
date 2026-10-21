@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1147 guides written so far · last update 2026-10-21 10:00 UTC_
+_1148 guides written so far · last update 2026-10-21 10:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [andrisgauracs/whistle-esp32](https://github.com/andrisgauracs/whistle-esp32) | C project | Needs a real machine (or a GPU) to run | [guide](guides/andrisgauracs/whistle-esp32.md) |
 | [rosehahah/the-machine](https://github.com/rosehahah/the-machine) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/rosehahah/the-machine.md) |
 | [gojko/lights-on-software-factory](https://github.com/gojko/lights-on-software-factory) | JavaScript project | Runs in the browser with a free account | [guide](guides/gojko/lights-on-software-factory.md) |
 | [HalfVulpes/Deepinfer-SM80](https://github.com/HalfVulpes/Deepinfer-SM80) | Python project | Runs in the browser with a free account | [guide](guides/halfvulpes/deepinfer-sm80.md) |
@@ -38,7 +39,6 @@ _1147 guides written so far · last update 2026-10-21 10:00 UTC_
 | [raymondchins/Bridgeplay](https://github.com/raymondchins/Bridgeplay) | Scala project | Runs in the browser with a free account | [guide](guides/raymondchins/bridgeplay.md) |
 | [inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/inclusionai/ming-3.0-tts.md) |
 | [pmarket-14/polymarket-ai-trading-codex-and-claude-bot](https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pmarket-14/polymarket-ai-trading-codex-and-claude-bot.md) |
-| [WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/woyun520/dsh-purge.md) |
 <!-- latest:end -->
 
 ## How it works

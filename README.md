@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1125 guides written so far · last update 2026-10-21 04:57 UTC_
+_1126 guides written so far · last update 2026-10-21 04:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-download-2026/.github.md) |
 | [lesnolie/Tigris](https://github.com/lesnolie/Tigris) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/lesnolie/tigris.md) |
 | [zensers/zensers](https://github.com/zensers/zensers) | JavaScript project | Runs in the browser with a free account | [guide](guides/zensers/zensers.md) |
 | [TobiasVeiga00/soloist-mpris](https://github.com/TobiasVeiga00/soloist-mpris) | Rust project | Runs in the browser with a free account | [guide](guides/tobiasveiga00/soloist-mpris.md) |
@@ -38,7 +39,6 @@ _1125 guides written so far · last update 2026-10-21 04:57 UTC_
 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | TypeScript project | Runs in the browser with a free account | [guide](guides/mexicat/pdoom-video.md) |
 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/contrastive-lm/clm.md) |
 | [tobi/disktree](https://github.com/tobi/disktree) | Rust project | Runs in the browser with a free account | [guide](guides/tobi/disktree.md) |
-| [BlueHeisenberg/SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/blueheisenberg/scskiller.md) |
 <!-- latest:end -->
 
 ## How it works

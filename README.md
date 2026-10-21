@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1155 guides written so far · last update 2026-10-21 15:04 UTC_
+_1156 guides written so far · last update 2026-10-21 15:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp) | Python project | Runs in the browser with a free account | [guide](guides/smm2recomp/smm2recomp.md) |
 | [lol-tools-new/.github](https://github.com/lol-tools-new/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/lol-tools-new/.github.md) |
 | [Umair/stalemap](https://github.com/Umair/stalemap) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/umair/stalemap.md) |
 | [calmsprite2001/mcd-mailu](https://github.com/calmsprite2001/mcd-mailu) | Python project | Runs in the browser with a free account | [guide](guides/calmsprite2001/mcd-mailu.md) |
@@ -38,7 +39,6 @@ _1155 guides written so far · last update 2026-10-21 15:04 UTC_
 | [rosehahah/the-machine](https://github.com/rosehahah/the-machine) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/rosehahah/the-machine.md) |
 | [gojko/lights-on-software-factory](https://github.com/gojko/lights-on-software-factory) | JavaScript project | Runs in the browser with a free account | [guide](guides/gojko/lights-on-software-factory.md) |
 | [HalfVulpes/Deepinfer-SM80](https://github.com/HalfVulpes/Deepinfer-SM80) | Python project | Runs in the browser with a free account | [guide](guides/halfvulpes/deepinfer-sm80.md) |
-| [h563k/chat-keeper](https://github.com/h563k/chat-keeper) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/h563k/chat-keeper.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1119 guides written so far · last update 2026-10-20 21:31 UTC_
+_1120 guides written so far · last update 2026-10-21 00:05 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/eagle-hq/eagle-4.md) |
 | [KingKongRobotics/jumper](https://github.com/KingKongRobotics/jumper) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kingkongrobotics/jumper.md) |
 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | JavaScript project | Runs in the browser with a free account | [guide](guides/dzhng/jevgrep.md) |
 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | TypeScript project | Runs in the browser with a free account | [guide](guides/mexicat/pdoom-video.md) |
@@ -38,7 +39,6 @@ _1119 guides written so far · last update 2026-10-20 21:31 UTC_
 | [OmkarK97/webos-vibehack](https://github.com/OmkarK97/webos-vibehack) | JavaScript project | Runs in the browser with a free account | [guide](guides/omkark97/webos-vibehack.md) |
 | [fort-skins/.github](https://github.com/fort-skins/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/fort-skins/.github.md) |
 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | HTML project | Runs in the browser with a free account | [guide](guides/kaankiziltug/logo-design-skill.md) |
-| [SandboxWorldOnline/Open-Terraria](https://github.com/SandboxWorldOnline/Open-Terraria) | Vite app | Runs in a browser tab, no account needed | [guide](guides/sandboxworldonline/open-terraria.md) |
 <!-- latest:end -->
 
 ## How it works

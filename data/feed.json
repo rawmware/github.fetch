@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T15:04:26.135Z",
- "totalGuides": 1152,
+ "updatedAt": "2026-10-21T15:04:26.327Z",
+ "totalGuides": 1153,
  "items": [
+  {
+   "fullName": "calmsprite2001/mcd-mailu",
+   "owner": "calmsprite2001",
+   "name": "mcd-mailu",
+   "url": "https://github.com/calmsprite2001/mcd-mailu",
+   "avatar": "https://avatars.githubusercontent.com/u/312113347?v=4",
+   "description": "麦途 · 读懂你已经点过的麦当劳 | 基于麦当劳官方 MCP 的历史订单场景叙事 Skill | 麦当劳程序员创意开发大赛参赛作品",
+   "language": "Python",
+   "topics": [
+    "ai-agent",
+    "mcdonalds",
+    "mcp",
+    "python",
+    "skill",
+    "workbuddy"
+   ],
+   "license": null,
+   "stars": 117,
+   "forks": 5,
+   "createdAt": "2026-10-19T05:10:33Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T15:04:26.326Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/calmsprite2001/mcd-mailu/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/calmsprite2001/mcd-mailu?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/calmsprite2001/mcd-mailu",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/calmsprite2001/mcd-mailu/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/calmsprite2001/mcd-mailu.git\ncd mcd-mailu",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/calmsprite2001/mcd-mailu\nWhat it says it does: \"麦途 · 读懂你已经点过的麦当劳 | 基于麦当劳官方 MCP 的历史订单场景叙事 Skill | 麦当劳程序员创意开发大赛参赛作品\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T15:04:26.326Z"
+  },
   {
    "fullName": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
    "owner": "eness",
@@ -31474,68 +31543,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/jonwheatley/pixel-path\nWhat it says it does: \"Turn any two places into a pixel-art fly-through of the real road. A Claude Code skill.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T16:22:45.568Z"
-  },
-  {
-   "fullName": "jiayx/d2r-mobile-build",
-   "owner": "jiayx",
-   "name": "d2r-mobile-build",
-   "url": "https://github.com/jiayx/d2r-mobile-build",
-   "avatar": "https://avatars.githubusercontent.com/u/6910037?v=4",
-   "description": "GitHub Actions builds for jhaizhou-ops/d2r-mobile. iPhone/iPad IPA and game resources in Releases.",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 94,
-   "forks": 39,
-   "createdAt": "2026-10-12T09:31:24Z",
-   "branch": "main",
-   "homepage": "https://github.com/jiayx/d2r-mobile-build/releases/latest",
-   "addedAt": "2026-10-13T16:22:45.367Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/jiayx/d2r-mobile-build/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/jiayx/d2r-mobile-build?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/jiayx/d2r-mobile-build",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/jiayx/d2r-mobile-build/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/jiayx/d2r-mobile-build.git\ncd d2r-mobile-build\npip install -r requirements.txt",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/jiayx/d2r-mobile-build\nWhat it says it does: \"GitHub Actions builds for jhaizhou-ops/d2r-mobile. iPhone/iPad IPA and game resources in Releases.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T16:22:45.367Z"
   }
  ],
  "levels": {

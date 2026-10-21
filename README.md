@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1142 guides written so far · last update 2026-10-21 10:00 UTC_
+_1143 guides written so far · last update 2026-10-21 10:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VictorTran1023/tcl-tv-toolkit](https://github.com/VictorTran1023/tcl-tv-toolkit) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/tcl-tv-toolkit.md) |
 | [Xc1Ym/LumaDock](https://github.com/Xc1Ym/LumaDock) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/xc1ym/lumadock.md) |
 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/day-trader-skill.md) |
 | [op7418/guizang-tv](https://github.com/op7418/guizang-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/op7418/guizang-tv.md) |
@@ -38,7 +39,6 @@ _1142 guides written so far · last update 2026-10-21 10:00 UTC_
 | [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) | Python project | Runs in the browser with a free account | [guide](guides/ethanarbuckle/fairplay-decrypt.md) |
 | [aidenleads/css-animation-snippets](https://github.com/aidenleads/css-animation-snippets) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aidenleads/css-animation-snippets.md) |
 | [VictorTran1023/tcl-tv-adb-proxy](https://github.com/VictorTran1023/tcl-tv-adb-proxy) | Python project | Runs in the browser with a free account | [guide](guides/victortran1023/tcl-tv-adb-proxy.md) |
-| [Castlesea/infamous-second-son-pc-port](https://github.com/Castlesea/infamous-second-son-pc-port) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/castlesea/infamous-second-son-pc-port.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T15:04:27.618Z",
- "totalGuides": 1158,
+ "updatedAt": "2026-10-21T15:04:27.929Z",
+ "totalGuides": 1159,
  "items": [
+  {
+   "fullName": "VictorTran1023/android-tv-toolkit",
+   "owner": "VictorTran1023",
+   "name": "android-tv-toolkit",
+   "url": "https://github.com/VictorTran1023/android-tv-toolkit",
+   "avatar": "https://avatars.githubusercontent.com/u/10486415?v=4",
+   "description": "品牌无关的 Android TV 调试与调优工具箱：ADB 授权、分品牌侧载、去广告、状态 HUD、回归测试 | Brand-agnostic Android TV toolkit: ADB auth, per-brand sideloading, debloat, status HUD, regression tests",
+   "language": "Java",
+   "topics": [
+    "adb",
+    "android-tv",
+    "android-tv-toolkit",
+    "debloat",
+    "flclash",
+    "handbook",
+    "hud",
+    "overlay"
+   ],
+   "license": "MIT",
+   "stars": 79,
+   "forks": 9,
+   "createdAt": "2026-10-19T02:53:28Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T15:04:27.928Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/VictorTran1023/android-tv-toolkit/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/VictorTran1023/android-tv-toolkit?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/VictorTran1023/android-tv-toolkit",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/VictorTran1023/android-tv-toolkit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/VictorTran1023/android-tv-toolkit.git\ncd android-tv-toolkit\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/VictorTran1023/android-tv-toolkit\nWhat it says it does: \"品牌无关的 Android TV 调试与调优工具箱：ADB 授权、分品牌侧载、去广告、状态 HUD、回归测试 | Brand-agnostic Android TV toolkit: ADB auth, per-brand sideloading, debloat, status HUD, regression tests\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T15:04:27.928Z"
+  },
   {
    "fullName": "helloianneo/ian-xhs-carousel",
    "owner": "helloianneo",
@@ -31519,77 +31590,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/yeyuxin777/baoyan-agent-benchmark\nWhat it says it does: \"Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T21:29:35.984Z"
-  },
-  {
-   "fullName": "egotoadcitadel/palette-from-image-ai",
-   "owner": "egotoadcitadel",
-   "name": "palette-from-image-ai",
-   "url": "https://github.com/egotoadcitadel/palette-from-image-ai",
-   "avatar": "https://avatars.githubusercontent.com/u/335218241?v=4",
-   "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
-   "language": "Python",
-   "topics": [
-    "ai-color-extraction",
-    "ai-color-palette",
-    "color-extraction",
-    "color-palette-generator",
-    "color-picker",
-    "color-quantization",
-    "color-scheme-extractor",
-    "desktop-app"
-   ],
-   "license": "MIT",
-   "stars": 300,
-   "forks": 78,
-   "createdAt": "2026-10-13T17:08:53Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T21:29:35.630Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/egotoadcitadel/palette-from-image-ai/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/egotoadcitadel/palette-from-image-ai?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/egotoadcitadel/palette-from-image-ai",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/egotoadcitadel/palette-from-image-ai/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/egotoadcitadel/palette-from-image-ai.git\ncd palette-from-image-ai\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/egotoadcitadel/palette-from-image-ai\nWhat it says it does: \"AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T21:29:35.630Z"
   }
  ],
  "levels": {

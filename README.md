@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1137 guides written so far · last update 2026-10-21 04:57 UTC_
+_1138 guides written so far · last update 2026-10-21 10:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/inclusionai/ming-3.0-tts.md) |
 | [pmarket-14/polymarket-ai-trading-codex-and-claude-bot](https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pmarket-14/polymarket-ai-trading-codex-and-claude-bot.md) |
 | [WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/woyun520/dsh-purge.md) |
 | [Networkapbridge/dll-decryptor](https://github.com/Networkapbridge/dll-decryptor) | Python project | Runs in the browser with a free account | [guide](guides/networkapbridge/dll-decryptor.md) |
@@ -38,7 +39,6 @@ _1137 guides written so far · last update 2026-10-21 04:57 UTC_
 | [abdiraimov-otabek/dashboard-design-skill](https://github.com/abdiraimov-otabek/dashboard-design-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/abdiraimov-otabek/dashboard-design-skill.md) |
 | [0c-biggo/0c-ime](https://github.com/0c-biggo/0c-ime) | Go project | Runs in the browser with a free account | [guide](guides/0c-biggo/0c-ime.md) |
 | [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) | Go project | Runs in the browser with a free account | [guide](guides/fluepke/emudrahahahahaha.md) |
-| [DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-download-2026/.github.md) |
 <!-- latest:end -->
 
 ## How it works

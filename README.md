@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1128 guides written so far · last update 2026-10-21 04:57 UTC_
+_1129 guides written so far · last update 2026-10-21 04:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [abdiraimov-otabek/dashboard-design-skill](https://github.com/abdiraimov-otabek/dashboard-design-skill) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/abdiraimov-otabek/dashboard-design-skill.md) |
 | [0c-biggo/0c-ime](https://github.com/0c-biggo/0c-ime) | Go project | Runs in the browser with a free account | [guide](guides/0c-biggo/0c-ime.md) |
 | [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) | Go project | Runs in the browser with a free account | [guide](guides/fluepke/emudrahahahahaha.md) |
 | [DLSS-5-Swapper-Download-2026/.github](https://github.com/DLSS-5-Swapper-Download-2026/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-download-2026/.github.md) |
@@ -38,7 +39,6 @@ _1128 guides written so far · last update 2026-10-21 04:57 UTC_
 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/eagle-hq/eagle-4.md) |
 | [KingKongRobotics/jumper](https://github.com/KingKongRobotics/jumper) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/kingkongrobotics/jumper.md) |
 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | JavaScript project | Runs in the browser with a free account | [guide](guides/dzhng/jevgrep.md) |
-| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | TypeScript project | Runs in the browser with a free account | [guide](guides/mexicat/pdoom-video.md) |
 <!-- latest:end -->
 
 ## How it works

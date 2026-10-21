@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T04:57:49.079Z",
- "totalGuides": 1128,
+ "updatedAt": "2026-10-21T04:57:49.240Z",
+ "totalGuides": 1129,
  "items": [
+  {
+   "fullName": "abdiraimov-otabek/dashboard-design-skill",
+   "owner": "abdiraimov-otabek",
+   "name": "dashboard-design-skill",
+   "url": "https://github.com/abdiraimov-otabek/dashboard-design-skill",
+   "avatar": "https://avatars.githubusercontent.com/u/189417695?v=4",
+   "description": "A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards.",
+   "language": null,
+   "topics": [
+    "agent-skills",
+    "analytics",
+    "claude-code",
+    "claude-skill",
+    "dashboard",
+    "dashboard-design",
+    "data-visualization",
+    "tailwindcss"
+   ],
+   "license": "MIT",
+   "stars": 81,
+   "forks": 6,
+   "createdAt": "2026-10-20T06:20:46Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T04:57:49.239Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/abdiraimov-otabek/dashboard-design-skill",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/abdiraimov-otabek/dashboard-design-skill/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/abdiraimov-otabek/dashboard-design-skill\nWhat it says it does: \"A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:49.239Z"
+  },
   {
    "fullName": "0c-biggo/0c-ime",
    "owner": "0c-biggo",
@@ -31474,68 +31531,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/LogoTortoise47/Canva-Pro\nWhat it says it does: \"Canva Pro enables businesses to efficiently streamline their design process with its robust desktop software utility that provides a comprehensive suite...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:37.928Z"
-  },
-  {
-   "fullName": "Boardirrouter/Microsoft-Project",
-   "owner": "Boardirrouter",
-   "name": "Microsoft-Project",
-   "url": "https://github.com/Boardirrouter/Microsoft-Project",
-   "avatar": "https://avatars.githubusercontent.com/u/292123052?v=4",
-   "description": "Microsoft Project optimizes professional project management tasks with its pre-activated framework tailored to streamline resource allocation and budget...",
-   "language": null,
-   "topics": [
-    "business-planning",
-    "enterprise-tools",
-    "how-to-install-ms-project",
-    "microsoft-project",
-    "microsoft-project-2026",
-    "microsoft-project-profession",
-    "microsoft-project-profession-2026",
-    "microsoft-project-profession-pc"
-   ],
-   "license": null,
-   "stars": 274,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:20:36Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:37.751Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Boardirrouter/Microsoft-Project",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Boardirrouter/Microsoft-Project/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Boardirrouter/Microsoft-Project\nWhat it says it does: \"Microsoft Project optimizes professional project management tasks with its pre-activated framework tailored to streamline resource allocation and budget...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:37.751Z"
   }
  ],
  "levels": {
-  "account": 229,
   "read": 120,
+  "account": 229,
   "heavy": 115,
   "instant": 36
  }

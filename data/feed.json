@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T04:57:48.865Z",
- "totalGuides": 1127,
+ "updatedAt": "2026-10-21T04:57:49.079Z",
+ "totalGuides": 1128,
  "items": [
+  {
+   "fullName": "0c-biggo/0c-ime",
+   "owner": "0c-biggo",
+   "name": "0c-ime",
+   "url": "https://github.com/0c-biggo/0c-ime",
+   "avatar": "https://avatars.githubusercontent.com/u/344968002?v=4",
+   "description": "免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
+   "language": "Go",
+   "topics": [
+    "bopomofo",
+    "chinese-input-method",
+    "fcitx5",
+    "go",
+    "ibus",
+    "ime",
+    "input-method",
+    "language-model"
+   ],
+   "license": "AGPL-3.0",
+   "stars": 93,
+   "forks": 1,
+   "createdAt": "2026-10-19T19:00:19Z",
+   "branch": "main",
+   "homepage": "https://0c.biggo.com",
+   "addedAt": "2026-10-21T04:57:49.078Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/0c-biggo/0c-ime?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/0c-biggo/0c-ime",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/0c-biggo/0c-ime/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/0c-biggo/0c-ime.git\ncd 0c-ime\ngo build ./...",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/0c-biggo/0c-ime\nWhat it says it does: \"免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T04:57:49.078Z"
+  },
   {
    "fullName": "Fluepke/emudrahahahahaha",
    "owner": "Fluepke",
@@ -31467,68 +31531,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Boardirrouter/Microsoft-Project\nWhat it says it does: \"Microsoft Project optimizes professional project management tasks with its pre-activated framework tailored to streamline resource allocation and budget...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T08:31:37.751Z"
-  },
-  {
-   "fullName": "GeninFlange29/AnyUnlock",
-   "owner": "GeninFlange29",
-   "name": "AnyUnlock",
-   "url": "https://github.com/GeninFlange29/AnyUnlock",
-   "avatar": "https://avatars.githubusercontent.com/u/292121729?v=4",
-   "description": "Anyunlock optimizes your professional desktop utility configurations by providing a secure and seamless integration solution with unique features tailored...",
-   "language": null,
-   "topics": [
-    "apple-id-remove",
-    "apple-id-remover",
-    "device-tool",
-    "frp-tool",
-    "ios-bypass",
-    "ios-find-my-bypass",
-    "ios-jailbreak",
-    "ios-mdm-bypass"
-   ],
-   "license": null,
-   "stars": 274,
-   "forks": 0,
-   "createdAt": "2026-10-12T17:10:51Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T08:31:37.565Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/GeninFlange29/AnyUnlock",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/GeninFlange29/AnyUnlock/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/GeninFlange29/AnyUnlock\nWhat it says it does: \"Anyunlock optimizes your professional desktop utility configurations by providing a secure and seamless integration solution with unique features tailored...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T08:31:37.565Z"
   }
  ],
  "levels": {
-  "account": 228,
-  "read": 121,
+  "account": 229,
+  "read": 120,
   "heavy": 115,
   "instant": 36
  }

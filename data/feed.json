@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T10:00:25.788Z",
- "totalGuides": 1148,
+ "updatedAt": "2026-10-21T10:00:26.008Z",
+ "totalGuides": 1149,
  "items": [
+  {
+   "fullName": "ELY-Open-Source/ELYTerminal",
+   "owner": "ELY-Open-Source",
+   "name": "ELYTerminal",
+   "url": "https://github.com/ELY-Open-Source/ELYTerminal",
+   "avatar": "https://avatars.githubusercontent.com/u/345003095?v=4",
+   "description": "A terminal on GPUI and Ely components",
+   "language": "Rust",
+   "topics": [],
+   "license": "MIT",
+   "stars": 65,
+   "forks": 8,
+   "createdAt": "2026-10-20T00:23:23Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-21T10:00:26.008Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ELY-Open-Source/ELYTerminal?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ELY-Open-Source/ELYTerminal",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ELY-Open-Source/ELYTerminal/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ELY-Open-Source/ELYTerminal.git\ncd ELYTerminal\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/ELY-Open-Source/ELYTerminal\nWhat it says it does: \"A terminal on GPUI and Ely components\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-21T10:00:26.008Z"
+  },
   {
    "fullName": "andrisgauracs/whistle-esp32",
    "owner": "andrisgauracs",
@@ -31513,94 +31568,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/DiracQuantum/dirac_quantum\nWhat it says it does: \"Post-quantum identity for Solana: passports, seals, encrypted inboxes and quantum playgrounds.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-13T16:22:44.179Z"
-  },
-  {
-   "fullName": "ArchDiverYank/lrt",
-   "owner": "ArchDiverYank",
-   "name": "lrt",
-   "url": "https://github.com/ArchDiverYank/lrt",
-   "avatar": "https://avatars.githubusercontent.com/u/331668653?v=4",
-   "description": "🔥 Polymarket-Crypto-Trading-Arbitrage-Bot 🔥",
-   "language": "HTML",
-   "topics": [
-    "arbitrage-bot-2026",
-    "polymarket-crypto-trading-arbitrage-bot",
-    "polymarket-strategies-2026",
-    "polymarket-tutorial",
-    "trading-bot-guide"
-   ],
-   "license": null,
-   "stars": 99,
-   "forks": 117,
-   "createdAt": "2026-10-13T00:29:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-13T16:22:43.818Z",
-   "stack": {
-    "kind": "static",
-    "label": "Static website (HTML/CSS/JS)",
-    "frameworks": []
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "live",
-   "launch": [
-    {
-     "id": "live",
-     "label": "Open it live",
-     "url": "https://raw.githack.com/ArchDiverYank/lrt/main/index.html",
-     "needs": "nothing",
-     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
-    },
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/ArchDiverYank/lrt",
-     "needs": "nothing",
-     "note": "A full editor and preview in your tab."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/ArchDiverYank/lrt",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ArchDiverYank/lrt?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ArchDiverYank/lrt",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ArchDiverYank/lrt/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "npx serve .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ArchDiverYank/lrt.git\ncd lrt\nnpx serve .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ArchDiverYank/lrt\nWhat it says it does: \"🔥 Polymarket-Crypto-Trading-Arbitrage-Bot 🔥\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-13T16:22:43.818Z"
   }
  ],
  "levels": {
+  "account": 233,
   "heavy": 117,
-  "account": 232,
-  "instant": 37,
+  "instant": 36,
   "read": 114
  }
 }

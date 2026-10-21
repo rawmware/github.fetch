@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1148 guides written so far · last update 2026-10-21 10:00 UTC_
+_1149 guides written so far · last update 2026-10-21 10:00 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal) | Rust project | Runs in the browser with a free account | [guide](guides/ely-open-source/elyterminal.md) |
 | [andrisgauracs/whistle-esp32](https://github.com/andrisgauracs/whistle-esp32) | C project | Needs a real machine (or a GPU) to run | [guide](guides/andrisgauracs/whistle-esp32.md) |
 | [rosehahah/the-machine](https://github.com/rosehahah/the-machine) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/rosehahah/the-machine.md) |
 | [gojko/lights-on-software-factory](https://github.com/gojko/lights-on-software-factory) | JavaScript project | Runs in the browser with a free account | [guide](guides/gojko/lights-on-software-factory.md) |
@@ -38,7 +39,6 @@ _1148 guides written so far · last update 2026-10-21 10:00 UTC_
 | [op7418/guizang-tv](https://github.com/op7418/guizang-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/op7418/guizang-tv.md) |
 | [raymondchins/Bridgeplay](https://github.com/raymondchins/Bridgeplay) | Scala project | Runs in the browser with a free account | [guide](guides/raymondchins/bridgeplay.md) |
 | [inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/inclusionai/ming-3.0-tts.md) |
-| [pmarket-14/polymarket-ai-trading-codex-and-claude-bot](https://github.com/pmarket-14/polymarket-ai-trading-codex-and-claude-bot) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pmarket-14/polymarket-ai-trading-codex-and-claude-bot.md) |
 <!-- latest:end -->
 
 ## How it works

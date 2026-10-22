@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T11:38:19.689Z",
- "totalGuides": 1210,
+ "updatedAt": "2026-10-22T11:38:19.903Z",
+ "totalGuides": 1211,
  "items": [
+  {
+   "fullName": "syrex1013/php2shell",
+   "owner": "syrex1013",
+   "name": "php2shell",
+   "url": "https://github.com/syrex1013/php2shell",
+   "avatar": "https://avatars.githubusercontent.com/u/31669127?v=4",
+   "description": "CVE-2026-109618/109619 PoC — PHP session.upload_progress heap use-after-free (CVSS 9.2)",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 79,
+   "forks": 49,
+   "createdAt": "2026-10-21T15:06:33Z",
+   "branch": "master",
+   "homepage": null,
+   "addedAt": "2026-10-22T11:38:19.902Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/syrex1013/php2shell/master",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/syrex1013/php2shell?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/syrex1013/php2shell",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/syrex1013/php2shell/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/syrex1013/php2shell.git\ncd php2shell",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/syrex1013/php2shell\nWhat it says it does: \"CVE-2026-109618/109619 PoC — PHP session.upload_progress heap use-after-free (CVSS 9.2)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T11:38:19.902Z"
+  },
   {
    "fullName": "Zafer-Liu/claude-super-sidebar",
    "owner": "Zafer-Liu",
@@ -31574,78 +31636,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/0xProbabillity/house-control\nWhat it says it does: \"Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T15:26:16.968Z"
-  },
-  {
-   "fullName": "Classmg22/BBSC",
-   "owner": "Classmg22",
-   "name": "BBSC",
-   "url": "https://github.com/Classmg22/BBSC",
-   "avatar": "https://avatars.githubusercontent.com/u/130563892?v=4",
-   "description": "Bloodborne Seamless Co-op: a shadPS4 mod that keeps co-op alive through deaths, lamps, areas, bosses and the Hunter's Dream - up to 5 hunters.",
-   "language": "C++",
-   "topics": [
-    "bloodborne",
-    "bloodborne-pc",
-    "co-op",
-    "fromsoftware-mods",
-    "game-mods-pc",
-    "multiplayer",
-    "ps4-emulator",
-    "seamless-coop"
-   ],
-   "license": "GPL-2.0",
-   "stars": 76,
-   "forks": 1,
-   "createdAt": "2026-10-13T12:23:47Z",
-   "branch": "main",
-   "homepage": "https://discord.gg/Df7BCmfWdt",
-   "addedAt": "2026-10-14T15:26:16.776Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Classmg22/BBSC?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Classmg22/BBSC",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Classmg22/BBSC/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Classmg22/BBSC.git\ncd BBSC",
-   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/Classmg22/BBSC\nWhat it says it does: \"Bloodborne Seamless Co-op: a shadPS4 mod that keeps co-op alive through deaths, lamps, areas, bosses and the Hunter's Dream - up to 5 hunters.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T15:26:16.776Z"
   }
  ],
  "levels": {
-  "account": 237,
+  "account": 238,
   "read": 119,
-  "heavy": 107,
+  "heavy": 106,
   "instant": 37
  }
 }

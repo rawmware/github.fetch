@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1203 guides written so far · last update 2026-10-22 05:58 UTC_
+_1204 guides written so far · last update 2026-10-22 11:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python project | Runs in the browser with a free account | [guide](guides/9bie/php2shell-bypass-aslr-exp.md) |
 | [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc) | Python project | Runs in the browser with a free account | [guide](guides/dinosn/php-cve-2026-10961x-lab-poc.md) |
 | [keegan0521/CinderVM](https://github.com/keegan0521/CinderVM) | Rust project | Runs in the browser with a free account | [guide](guides/keegan0521/cindervm.md) |
 | [llm-xiaoye/cc-connect-dy-author](https://github.com/llm-xiaoye/cc-connect-dy-author) | Python project | Runs in the browser with a free account | [guide](guides/llm-xiaoye/cc-connect-dy-author.md) |
@@ -38,7 +39,6 @@ _1203 guides written so far · last update 2026-10-22 05:58 UTC_
 | [Acelogic/Snapintosh](https://github.com/Acelogic/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/acelogic/snapintosh.md) |
 | [Jimu888/home-tv-cn](https://github.com/Jimu888/home-tv-cn) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jimu888/home-tv-cn.md) |
 | [xingjian-bai/opal](https://github.com/xingjian-bai/opal) | Python project | Runs in the browser with a free account | [guide](guides/xingjian-bai/opal.md) |
-| [zita-ch/supermimic_vibed](https://github.com/zita-ch/supermimic_vibed) | Python project | Runs in the browser with a free account | [guide](guides/zita-ch/supermimic_vibed.md) |
 <!-- latest:end -->
 
 ## How it works

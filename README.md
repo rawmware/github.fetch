@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1202 guides written so far · last update 2026-10-22 05:58 UTC_
+_1203 guides written so far · last update 2026-10-22 05:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc) | Python project | Runs in the browser with a free account | [guide](guides/dinosn/php-cve-2026-10961x-lab-poc.md) |
 | [keegan0521/CinderVM](https://github.com/keegan0521/CinderVM) | Rust project | Runs in the browser with a free account | [guide](guides/keegan0521/cindervm.md) |
 | [llm-xiaoye/cc-connect-dy-author](https://github.com/llm-xiaoye/cc-connect-dy-author) | Python project | Runs in the browser with a free account | [guide](guides/llm-xiaoye/cc-connect-dy-author.md) |
 | [JoasASantos/php2shell-scanner](https://github.com/JoasASantos/php2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/joasasantos/php2shell-scanner.md) |
@@ -38,7 +39,6 @@ _1202 guides written so far · last update 2026-10-22 05:58 UTC_
 | [Jimu888/home-tv-cn](https://github.com/Jimu888/home-tv-cn) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jimu888/home-tv-cn.md) |
 | [xingjian-bai/opal](https://github.com/xingjian-bai/opal) | Python project | Runs in the browser with a free account | [guide](guides/xingjian-bai/opal.md) |
 | [zita-ch/supermimic_vibed](https://github.com/zita-ch/supermimic_vibed) | Python project | Runs in the browser with a free account | [guide](guides/zita-ch/supermimic_vibed.md) |
-| [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | Rust project | Runs in the browser with a free account | [guide](guides/torrentplayer/torrentplayer.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,86 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T11:38:19.360Z",
- "totalGuides": 1209,
+ "updatedAt": "2026-10-22T11:38:19.689Z",
+ "totalGuides": 1210,
  "items": [
+  {
+   "fullName": "Zafer-Liu/claude-super-sidebar",
+   "owner": "Zafer-Liu",
+   "name": "claude-super-sidebar",
+   "url": "https://github.com/Zafer-Liu/claude-super-sidebar",
+   "avatar": "https://avatars.githubusercontent.com/u/273271302?v=4",
+   "description": "A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.",
+   "language": "JavaScript",
+   "topics": [
+    "agent-visualization",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "multi-agent",
+    "nodejs"
+   ],
+   "license": "Apache-2.0",
+   "stars": 82,
+   "forks": 8,
+   "createdAt": "2026-10-20T06:18:04Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T11:38:19.688Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Zafer-Liu/claude-super-sidebar",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Zafer-Liu/claude-super-sidebar",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Zafer-Liu/claude-super-sidebar?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Zafer-Liu/claude-super-sidebar",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Zafer-Liu/claude-super-sidebar/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Zafer-Liu/claude-super-sidebar.git\ncd claude-super-sidebar\nnpm install",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Zafer-Liu/claude-super-sidebar\nWhat it says it does: \"A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T11:38:19.688Z"
+  },
   {
    "fullName": "y0usaf/pi-ampersand",
    "owner": "y0usaf",
@@ -31562,78 +31640,12 @@
    "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/Classmg22/BBSC\nWhat it says it does: \"Bloodborne Seamless Co-op: a shadPS4 mod that keeps co-op alive through deaths, lamps, areas, bosses and the Hunter's Dream - up to 5 hunters.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T15:26:16.776Z"
-  },
-  {
-   "fullName": "PiggyBackBayonet/MiAuto",
-   "owner": "PiggyBackBayonet",
-   "name": "MiAuto",
-   "url": "https://github.com/PiggyBackBayonet/MiAuto",
-   "avatar": "https://avatars.githubusercontent.com/u/73511303?v=4",
-   "description": "小米 / OPPO / vivo 等 ICCOA CarLink 手机投上车机：无线连接，无需转接盒、无需 root。Car-side ICCOA CarLink receiver for Xiaomi CarWith, OPPO Car+ and vivo Jovi InCar.",
-   "language": "Kotlin",
-   "topics": [
-    "agpl",
-    "android",
-    "carlink",
-    "carwith",
-    "headunit",
-    "iccoa",
-    "oppo",
-    "screen-mirroring"
-   ],
-   "license": "AGPL-3.0",
-   "stars": 78,
-   "forks": 9,
-   "createdAt": "2026-10-13T07:54:44Z",
-   "branch": "main",
-   "homepage": "https://piggybackbayonet.github.io/MiAuto/",
-   "addedAt": "2026-10-14T15:26:16.560Z",
-   "stack": {
-    "kind": "native",
-    "label": "Kotlin project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/PiggyBackBayonet/MiAuto?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/PiggyBackBayonet/MiAuto",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/PiggyBackBayonet/MiAuto/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/PiggyBackBayonet/MiAuto.git\ncd MiAuto",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/PiggyBackBayonet/MiAuto\nWhat it says it does: \"小米 / OPPO / vivo 等 ICCOA CarLink 手机投上车机：无线连接，无需转接盒、无需 root。Car-side ICCOA CarLink receiver for Xiaomi CarWith, OPPO Car+ and vivo Jovi InCar.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T15:26:16.560Z"
   }
  ],
  "levels": {
-  "account": 236,
+  "account": 237,
   "read": 119,
-  "heavy": 108,
+  "heavy": 107,
   "instant": 37
  }
 }

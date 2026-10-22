@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1205 guides written so far · last update 2026-10-22 11:38 UTC_
+_1206 guides written so far · last update 2026-10-22 11:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [atbfun/ATBGamePort](https://github.com/atbfun/ATBGamePort) | JavaScript project | Runs in the browser with a free account | [guide](guides/atbfun/atbgameport.md) |
 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Node command-line tool | Runs in the browser with a free account | [guide](guides/colinhacks/reylo.md) |
 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python project | Runs in the browser with a free account | [guide](guides/9bie/php2shell-bypass-aslr-exp.md) |
 | [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc) | Python project | Runs in the browser with a free account | [guide](guides/dinosn/php-cve-2026-10961x-lab-poc.md) |
@@ -38,7 +39,6 @@ _1205 guides written so far · last update 2026-10-22 11:38 UTC_
 | [recursive-oss/rec](https://github.com/recursive-oss/rec) | Python project | Runs in the browser with a free account | [guide](guides/recursive-oss/rec.md) |
 | [JulioNectar/Hackintosh-XPS13Plus-IrisXe-Tahoe](https://github.com/JulioNectar/Hackintosh-XPS13Plus-IrisXe-Tahoe) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/julionectar/hackintosh-xps13plus-irisxe-tahoe.md) |
 | [Acelogic/Snapintosh](https://github.com/Acelogic/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/acelogic/snapintosh.md) |
-| [Jimu888/home-tv-cn](https://github.com/Jimu888/home-tv-cn) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jimu888/home-tv-cn.md) |
 <!-- latest:end -->
 
 ## How it works

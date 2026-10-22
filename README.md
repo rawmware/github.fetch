@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1183 guides written so far · last update 2026-10-21 22:39 UTC_
+_1184 guides written so far · last update 2026-10-22 00:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [qianshuixia/shrimpreel](https://github.com/qianshuixia/shrimpreel) | Vite app | Runs in a browser tab, no account needed | [guide](guides/qianshuixia/shrimpreel.md) |
 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python project | Runs in the browser with a free account | [guide](guides/feitangyuan/onetake.md) |
 | [obsidianmd/pele](https://github.com/obsidianmd/pele) | JavaScript project | Runs in the browser with a free account | [guide](guides/obsidianmd/pele.md) |
 | [Jakeschincariol/trader-skill](https://github.com/Jakeschincariol/trader-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/trader-skill.md) |
@@ -38,7 +39,6 @@ _1183 guides written so far · last update 2026-10-21 22:39 UTC_
 | [Torrentthefoundry/KMS-Pico](https://github.com/Torrentthefoundry/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/torrentthefoundry/kms-pico.md) |
 | [slaterockweb/BorisFX](https://github.com/slaterockweb/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slaterockweb/borisfx.md) |
 | [ThresholdSummoner/Camtasia](https://github.com/ThresholdSummoner/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdsummoner/camtasia.md) |
-| [shareshellrelease/Cinema-4d](https://github.com/shareshellrelease/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shareshellrelease/cinema-4d.md) |
 <!-- latest:end -->
 
 ## How it works

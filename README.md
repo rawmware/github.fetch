@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1235 guides written so far · last update 2026-10-22 20:11 UTC_
+_1236 guides written so far · last update 2026-10-22 20:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [syhunt/php2shell-protection](https://github.com/syhunt/php2shell-protection) | PHP project | Runs in the browser with a free account | [guide](guides/syhunt/php2shell-protection.md) |
 | [Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer](https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer) | JavaScript project | Runs in the browser with a free account | [guide](guides/needlepewall/onimusha-way-of-the-sword-fps-optimizer.md) |
 | [devploit/php2shell](https://github.com/devploit/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/devploit/php2shell.md) |
 | [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra) | Jupyter notebook | Runs in the browser with a free account | [guide](guides/yuatemycat/superghidra.md) |
@@ -38,7 +39,6 @@ _1235 guides written so far · last update 2026-10-22 20:11 UTC_
 | [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/cuboileo/supermimic-reproduced.md) |
 | [hkcjsyzbcgqq/twitch-viewer-bot-ai](https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai) | Python project | Runs in the browser with a free account | [guide](guides/hkcjsyzbcgqq/twitch-viewer-bot-ai.md) |
 | [nevenaywgmhe/tiktok-dm-blaster](https://github.com/nevenaywgmhe/tiktok-dm-blaster) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/nevenaywgmhe/tiktok-dm-blaster.md) |
-| [eqyvlbekmlqq/tiktok-view-bot](https://github.com/eqyvlbekmlqq/tiktok-view-bot) | Python project | Runs in the browser with a free account | [guide](guides/eqyvlbekmlqq/tiktok-view-bot.md) |
 <!-- latest:end -->
 
 ## How it works

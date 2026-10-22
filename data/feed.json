@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T20:11:37.899Z",
- "totalGuides": 1237,
+ "updatedAt": "2026-10-22T20:11:38.172Z",
+ "totalGuides": 1238,
  "items": [
+  {
+   "fullName": "nothinx/naskah-id",
+   "owner": "nothinx",
+   "name": "naskah-id",
+   "url": "https://github.com/nothinx/naskah-id",
+   "avatar": "https://avatars.githubusercontent.com/u/112056942?v=4",
+   "description": "Skill agen AI untuk menulis dan menyunting karya ilmiah berbahasa Indonesia yang natural, baku (EYD V, KBBI), dan jujur.",
+   "language": "Python",
+   "topics": [
+    "academic-writing",
+    "agent-skills",
+    "bahasa-indonesia",
+    "claude-code",
+    "eyd",
+    "indonesian",
+    "jurnal",
+    "kbbi"
+   ],
+   "license": null,
+   "stars": 74,
+   "forks": 15,
+   "createdAt": "2026-10-21T15:04:19Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T20:11:38.172Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/nothinx/naskah-id/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/nothinx/naskah-id?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/nothinx/naskah-id",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/nothinx/naskah-id/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/nothinx/naskah-id.git\ncd naskah-id",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/nothinx/naskah-id\nWhat it says it does: \"Skill agen AI untuk menulis dan menyunting karya ilmiah berbahasa Indonesia yang natural, baku (EYD V, KBBI), dan jujur.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T20:11:38.172Z"
+  },
   {
    "fullName": "danisiber/rom-cli",
    "owner": "danisiber",
@@ -31620,68 +31691,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Sam1983Aing/casa-serra\nWhat it says it does: \"A flat floor plan that becomes a house as you scroll. Work in progress.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T00:57:45.880Z"
-  },
-  {
-   "fullName": "ShizeChen-ene/youtube-tiktok-video-manager",
-   "owner": "ShizeChen-ene",
-   "name": "youtube-tiktok-video-manager",
-   "url": "https://github.com/ShizeChen-ene/youtube-tiktok-video-manager",
-   "avatar": "https://avatars.githubusercontent.com/u/282830071?v=4",
-   "description": "Effortless video sync and management for YouTube and TikTok creators",
-   "language": null,
-   "topics": [
-    "analytics",
-    "api-integration",
-    "automation",
-    "content-creator-tools",
-    "digital-marketing",
-    "performance-tracking",
-    "social-media",
-    "tiktok"
-   ],
-   "license": "Apache-2.0",
-   "stars": 85,
-   "forks": 1,
-   "createdAt": "2026-10-14T23:51:08Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T00:57:45.571Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ShizeChen-ene/youtube-tiktok-video-manager",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ShizeChen-ene/youtube-tiktok-video-manager/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/ShizeChen-ene/youtube-tiktok-video-manager\nWhat it says it does: \"Effortless video sync and management for YouTube and TikTok creators\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T00:57:45.571Z"
   }
  ],
  "levels": {
-  "account": 233,
-  "read": 122,
+  "account": 234,
+  "read": 121,
   "heavy": 105,
   "instant": 40
  }

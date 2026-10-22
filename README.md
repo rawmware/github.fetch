@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1219 guides written so far · last update 2026-10-22 11:38 UTC_
+_1220 guides written so far · last update 2026-10-22 16:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | Vite app | Runs in a browser tab, no account needed | [guide](guides/wesbos/3d-model-anything.md) |
 | [Jelly10086/PCL-Re.Download_PATCH](https://github.com/Jelly10086/PCL-Re.Download_PATCH) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/jelly10086/pcl-re.download_patch.md) |
 | [ChungKit-WAN/Quant-research-lab-v0.1.0](https://github.com/ChungKit-WAN/Quant-research-lab-v0.1.0) | Python project | Runs in the browser with a free account | [guide](guides/chungkit-wan/quant-research-lab-v0.1.0.md) |
 | [unixzii/Champagne](https://github.com/unixzii/Champagne) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/unixzii/champagne.md) |
@@ -38,7 +39,6 @@ _1219 guides written so far · last update 2026-10-22 11:38 UTC_
 | [syrex1013/php2shell](https://github.com/syrex1013/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/syrex1013/php2shell.md) |
 | [Zafer-Liu/claude-super-sidebar](https://github.com/Zafer-Liu/claude-super-sidebar) | JavaScript project | Runs in the browser with a free account | [guide](guides/zafer-liu/claude-super-sidebar.md) |
 | [y0usaf/pi-ampersand](https://github.com/y0usaf/pi-ampersand) | JavaScript project | Runs in the browser with a free account | [guide](guides/y0usaf/pi-ampersand.md) |
-| [ZiyuanDu/deepinfer-unpacked](https://github.com/ZiyuanDu/deepinfer-unpacked) | Python project | Runs in the browser with a free account | [guide](guides/ziyuandu/deepinfer-unpacked.md) |
 <!-- latest:end -->
 
 ## How it works

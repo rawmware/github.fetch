@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T11:38:18.761Z",
- "totalGuides": 1207,
+ "updatedAt": "2026-10-22T11:38:19.016Z",
+ "totalGuides": 1208,
  "items": [
+  {
+   "fullName": "ZiyuanDu/deepinfer-unpacked",
+   "owner": "ZiyuanDu",
+   "name": "deepinfer-unpacked",
+   "url": "https://github.com/ZiyuanDu/deepinfer-unpacked",
+   "avatar": "https://avatars.githubusercontent.com/u/293714537?v=4",
+   "description": "Bringing thousands of learners together to unpack DeepInfer through peer-reviewed explanations, documentation, and hands-on examples.",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 87,
+   "forks": 8,
+   "createdAt": "2026-10-21T00:55:11Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T11:38:19.015Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/ZiyuanDu/deepinfer-unpacked/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ZiyuanDu/deepinfer-unpacked?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ZiyuanDu/deepinfer-unpacked",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ZiyuanDu/deepinfer-unpacked/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ZiyuanDu/deepinfer-unpacked.git\ncd deepinfer-unpacked",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/ZiyuanDu/deepinfer-unpacked\nWhat it says it does: \"Bringing thousands of learners together to unpack DeepInfer through peer-reviewed explanations, documentation, and hands-on examples.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T11:38:19.015Z"
+  },
   {
    "fullName": "assetnote/php2shell-scanner",
    "owner": "assetnote",
@@ -31566,77 +31628,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/sola1039/HAST-SEC\nWhat it says it does: \"武汉光影流明科技有限公司 | 本地中文交互与连续角色运动 | 非商业早期研究版 | 寻求技术合作与融资\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T15:26:16.390Z"
-  },
-  {
-   "fullName": "i12bp8/decomp.wtf",
-   "owner": "i12bp8",
-   "name": "decomp.wtf",
-   "url": "https://github.com/i12bp8/decomp.wtf",
-   "avatar": "https://avatars.githubusercontent.com/u/57963363?v=4",
-   "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-   "language": "Python",
-   "topics": [
-    "ai-agents",
-    "claude-code",
-    "decomp",
-    "decompilation",
-    "decompiler",
-    "matching-decompilation",
-    "mcp",
-    "n64"
-   ],
-   "license": "MIT",
-   "stars": 88,
-   "forks": 2,
-   "createdAt": "2026-10-13T08:19:01Z",
-   "branch": "main",
-   "homepage": "https://decomp.wtf",
-   "addedAt": "2026-10-14T15:26:16.196Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/i12bp8/decomp.wtf/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/i12bp8/decomp.wtf?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/i12bp8/decomp.wtf",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/i12bp8/decomp.wtf/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/i12bp8/decomp.wtf.git\ncd decomp.wtf\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/i12bp8/decomp.wtf\nWhat it says it does: \"What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T15:26:16.196Z"
   }
  ],
  "levels": {

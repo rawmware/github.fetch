@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1212 guides written so far · last update 2026-10-22 11:38 UTC_
+_1213 guides written so far · last update 2026-10-22 11:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rossark0/rossark-motion-skill.md) |
 | [HOSTED-POWER/php_uploadprogress_guard](https://github.com/HOSTED-POWER/php_uploadprogress_guard) | C project | Needs a real machine (or a GPU) to run | [guide](guides/hosted-power/php_uploadprogress_guard.md) |
 | [syrex1013/php2shell](https://github.com/syrex1013/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/syrex1013/php2shell.md) |
 | [Zafer-Liu/claude-super-sidebar](https://github.com/Zafer-Liu/claude-super-sidebar) | JavaScript project | Runs in the browser with a free account | [guide](guides/zafer-liu/claude-super-sidebar.md) |
@@ -38,7 +39,6 @@ _1212 guides written so far · last update 2026-10-22 11:38 UTC_
 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python project | Runs in the browser with a free account | [guide](guides/9bie/php2shell-bypass-aslr-exp.md) |
 | [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc) | Python project | Runs in the browser with a free account | [guide](guides/dinosn/php-cve-2026-10961x-lab-poc.md) |
 | [keegan0521/CinderVM](https://github.com/keegan0521/CinderVM) | Rust project | Runs in the browser with a free account | [guide](guides/keegan0521/cindervm.md) |
-| [llm-xiaoye/cc-connect-dy-author](https://github.com/llm-xiaoye/cc-connect-dy-author) | Python project | Runs in the browser with a free account | [guide](guides/llm-xiaoye/cc-connect-dy-author.md) |
 <!-- latest:end -->
 
 ## How it works

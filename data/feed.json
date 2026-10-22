@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T23:26:39.020Z",
- "totalGuides": 1243,
+ "updatedAt": "2026-10-22T23:26:39.283Z",
+ "totalGuides": 1244,
  "items": [
+  {
+   "fullName": "tek-sys-hub/Rubix-lang",
+   "owner": "tek-sys-hub",
+   "name": "Rubix-lang",
+   "url": "https://github.com/tek-sys-hub/Rubix-lang",
+   "avatar": "https://avatars.githubusercontent.com/u/249392719?v=4",
+   "description": "The 100% Pure x86-64 Assembly Systems Language",
+   "language": "Assembly",
+   "topics": [
+    "assembler",
+    "assembly",
+    "assembly-lang",
+    "assembly-language",
+    "assembly-language-programming",
+    "assembly-x86-64",
+    "native-compiler",
+    "programming"
+   ],
+   "license": "MIT",
+   "stars": 1902,
+   "forks": 2,
+   "createdAt": "2026-10-19T05:34:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T23:26:39.282Z",
+   "stack": {
+    "kind": "native",
+    "label": "Assembly project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/tek-sys-hub/Rubix-lang?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/tek-sys-hub/Rubix-lang",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/tek-sys-hub/Rubix-lang/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Assembly usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/tek-sys-hub/Rubix-lang.git\ncd Rubix-lang",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/tek-sys-hub/Rubix-lang\nWhat it says it does: \"The 100% Pure x86-64 Assembly Systems Language\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T23:26:39.282Z"
+  },
   {
    "fullName": "NousResearch/hermes-labs-plugins",
    "owner": "NousResearch",
@@ -31645,67 +31711,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/CarterT27/scion\nWhat it says it does: \"Implementation of Anthropic's version control system\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T05:47:30.214Z"
-  },
-  {
-   "fullName": "pgrundev/pgsync",
-   "owner": "pgrundev",
-   "name": "pgsync",
-   "url": "https://github.com/pgrundev/pgsync",
-   "avatar": "https://avatars.githubusercontent.com/u/300654937?v=4",
-   "description": "PGSync — Real-time PostgreSQL replication",
-   "language": "Rust",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 55,
-   "forks": 3,
-   "createdAt": "2026-10-13T05:44:49Z",
-   "branch": "pgsync-rust-replication-engine",
-   "homepage": null,
-   "addedAt": "2026-10-15T00:57:46.831Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/pgrundev/pgsync?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/pgrundev/pgsync",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/pgrundev/pgsync/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/pgrundev/pgsync.git\ncd pgsync\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/pgrundev/pgsync\nWhat it says it does: \"PGSync — Real-time PostgreSQL replication\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T00:57:46.831Z"
   }
  ],
  "levels": {
-  "account": 237,
+  "heavy": 105,
+  "account": 236,
   "instant": 39,
-  "read": 120,
-  "heavy": 104
+  "read": 120
  }
 }

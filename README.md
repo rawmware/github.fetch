@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1243 guides written so far · last update 2026-10-22 23:26 UTC_
+_1244 guides written so far · last update 2026-10-22 23:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang) | Assembly project | Needs a real machine (or a GPU) to run | [guide](guides/tek-sys-hub/rubix-lang.md) |
 | [NousResearch/hermes-labs-plugins](https://github.com/NousResearch/hermes-labs-plugins) | Python project | Runs in the browser with a free account | [guide](guides/nousresearch/hermes-labs-plugins.md) |
 | [Spectrmachina/Ztrust](https://github.com/Spectrmachina/Ztrust) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/spectrmachina/ztrust.md) |
 | [SukkaW/speed.skk.moe](https://github.com/SukkaW/speed.skk.moe) | Next.js app | Runs in the browser with a free account | [guide](guides/sukkaw/speed.skk.moe.md) |
@@ -38,7 +39,6 @@ _1243 guides written so far · last update 2026-10-22 23:26 UTC_
 | [Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer](https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer) | JavaScript project | Runs in the browser with a free account | [guide](guides/needlepewall/onimusha-way-of-the-sword-fps-optimizer.md) |
 | [devploit/php2shell](https://github.com/devploit/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/devploit/php2shell.md) |
 | [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra) | Jupyter notebook | Runs in the browser with a free account | [guide](guides/yuatemycat/superghidra.md) |
-| [7API/uncensored-ai-api](https://github.com/7API/uncensored-ai-api) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/7api/uncensored-ai-api.md) |
 <!-- latest:end -->
 
 ## How it works

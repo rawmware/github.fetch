@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1200 guides written so far · last update 2026-10-22 05:58 UTC_
+_1201 guides written so far · last update 2026-10-22 05:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [llm-xiaoye/cc-connect-dy-author](https://github.com/llm-xiaoye/cc-connect-dy-author) | Python project | Runs in the browser with a free account | [guide](guides/llm-xiaoye/cc-connect-dy-author.md) |
 | [JoasASantos/php2shell-scanner](https://github.com/JoasASantos/php2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/joasasantos/php2shell-scanner.md) |
 | [haiou-666/Haiou-workshop](https://github.com/haiou-666/Haiou-workshop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/haiou-666/haiou-workshop.md) |
 | [lklbar666/mcd-saver-checkup](https://github.com/lklbar666/mcd-saver-checkup) | Python project | Runs in the browser with a free account | [guide](guides/lklbar666/mcd-saver-checkup.md) |
@@ -38,7 +39,6 @@ _1200 guides written so far · last update 2026-10-22 05:58 UTC_
 | [zita-ch/supermimic_vibed](https://github.com/zita-ch/supermimic_vibed) | Python project | Runs in the browser with a free account | [guide](guides/zita-ch/supermimic_vibed.md) |
 | [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | Rust project | Runs in the browser with a free account | [guide](guides/torrentplayer/torrentplayer.md) |
 | [isabekastsuc/CinderVM](https://github.com/isabekastsuc/CinderVM) | Rust project | Runs in the browser with a free account | [guide](guides/isabekastsuc/cindervm.md) |
-| [jss8649/quiet-tizen](https://github.com/jss8649/quiet-tizen) | Python project | Runs in the browser with a free account | [guide](guides/jss8649/quiet-tizen.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T05:58:58.371Z",
- "totalGuides": 1200,
+ "updatedAt": "2026-10-22T05:58:58.591Z",
+ "totalGuides": 1201,
  "items": [
+  {
+   "fullName": "llm-xiaoye/cc-connect-dy-author",
+   "owner": "llm-xiaoye",
+   "name": "cc-connect-dy-author",
+   "url": "https://github.com/llm-xiaoye/cc-connect-dy-author",
+   "avatar": "https://avatars.githubusercontent.com/u/210254414?v=4",
+   "description": "独立的 /dy-author Skill：将抖音作者作品整理为 Obsidian 知识笔记与面试题，支持个人配置与 cc-connect。",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 66,
+   "forks": 6,
+   "createdAt": "2026-10-20T14:10:57Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T05:58:58.590Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/llm-xiaoye/cc-connect-dy-author/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/llm-xiaoye/cc-connect-dy-author?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/llm-xiaoye/cc-connect-dy-author",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/llm-xiaoye/cc-connect-dy-author/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/llm-xiaoye/cc-connect-dy-author.git\ncd cc-connect-dy-author",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/llm-xiaoye/cc-connect-dy-author\nWhat it says it does: \"独立的 /dy-author Skill：将抖音作者作品整理为 Obsidian 知识笔记与面试题，支持个人配置与 cc-connect。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T05:58:58.590Z"
+  },
   {
    "fullName": "JoasASantos/php2shell-scanner",
    "owner": "JoasASantos",
@@ -31542,78 +31604,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Yukinodot/XiYuan-QRNG\nWhat it says it does: \"曦源项目：Qiskit QRNG 后处理研究，偏置/死时间建模、一阶熵代理、Toeplitz 提取与可审计逐位回放。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T10:32:03.978Z"
-  },
-  {
-   "fullName": "deeeeone/gitdrive",
-   "owner": "deeeeone",
-   "name": "gitdrive",
-   "url": "https://github.com/deeeeone/gitdrive",
-   "avatar": "https://avatars.githubusercontent.com/u/142283066?v=4",
-   "description": "Turn GitHub into an iCloud-style drive for macOS. Native Finder integration, files on demand, real git history, Git LFS, and optional ML-KEM + X25519 encryption where GitHub sees only random data.",
-   "language": "Swift",
-   "topics": [
-    "cloud-storage",
-    "dropbox-alternative",
-    "encryption",
-    "end-to-end-encryption",
-    "file-provider",
-    "finder",
-    "git",
-    "git-lfs"
-   ],
-   "license": "MIT",
-   "stars": 66,
-   "forks": 7,
-   "createdAt": "2026-10-14T01:51:24Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T10:32:03.655Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/deeeeone/gitdrive?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/deeeeone/gitdrive",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/deeeeone/gitdrive/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/deeeeone/gitdrive.git\ncd gitdrive",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/deeeeone/gitdrive\nWhat it says it does: \"Turn GitHub into an iCloud-style drive for macOS. Native Finder integration, files on demand, real git history, Git LFS, and optional ML-KEM + X25519 encryption where GitHub sees only random data.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T10:32:03.655Z"
   }
  ],
  "levels": {
-  "account": 232,
+  "account": 233,
   "read": 119,
-  "heavy": 111,
+  "heavy": 110,
   "instant": 38
  }
 }

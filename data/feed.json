@@ -1,8 +1,84 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T23:26:39.671Z",
- "totalGuides": 1246,
+ "updatedAt": "2026-10-22T23:26:40.000Z",
+ "totalGuides": 1247,
  "items": [
+  {
+   "fullName": "JeffKeeping/dsh-purge-plus",
+   "owner": "JeffKeeping",
+   "name": "dsh-purge-plus",
+   "url": "https://github.com/JeffKeeping/dsh-purge-plus",
+   "avatar": "https://avatars.githubusercontent.com/u/154228543?v=4",
+   "description": "dsh-purge 的非官方分支（fork）：适配 DeepSeek Harness 0.2.1-rc.2、破甲内核 v3、设置页 UI 重做 / unofficial fork of YuJunZhiXue/dsh-purge (MIT)",
+   "language": "JavaScript",
+   "topics": [
+    "deepseek-harness",
+    "dsh",
+    "fork",
+    "jailbreak",
+    "prompt-engineering",
+    "red-team"
+   ],
+   "license": "MIT",
+   "stars": 324,
+   "forks": 306,
+   "createdAt": "2026-10-18T10:32:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T23:26:39.999Z",
+   "stack": {
+    "kind": "node",
+    "label": "Node command-line tool",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/JeffKeeping/dsh-purge-plus",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`node bin/dsh-purge.js`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/JeffKeeping/dsh-purge-plus",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/JeffKeeping/dsh-purge-plus?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/JeffKeeping/dsh-purge-plus",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/JeffKeeping/dsh-purge-plus/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "node bin/dsh-purge.js",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/JeffKeeping/dsh-purge-plus.git\ncd dsh-purge-plus\nnpm install\nnode bin/dsh-purge.js",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/JeffKeeping/dsh-purge-plus\nWhat it says it does: \"dsh-purge 的非官方分支（fork）：适配 DeepSeek Harness 0.2.1-rc.2、破甲内核 v3、设置页 UI 重做 / unofficial fork of YuJunZhiXue/dsh-purge (MIT)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T23:26:39.999Z"
+  },
   {
    "fullName": "Revivedx/SavageWindRecomp",
    "owner": "Revivedx",
@@ -31665,68 +31741,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/GhostParakeet/deadlock-tool\nWhat it says it does: \"Bypassing deadlocks without vacating threads in concurrent systems\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T05:47:30.894Z"
-  },
-  {
-   "fullName": "TG-Twilight/c001apk",
-   "owner": "TG-Twilight",
-   "name": "c001apk",
-   "url": "https://github.com/TG-Twilight/c001apk",
-   "avatar": "https://avatars.githubusercontent.com/u/121682528?v=4",
-   "description": "一个轻量的非官方酷安客户端",
-   "language": "Dart",
-   "topics": [],
-   "license": "AGPL-3.0",
-   "stars": 80,
-   "forks": 1,
-   "createdAt": "2026-10-14T07:11:28Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T05:47:30.680Z",
-   "stack": {
-    "kind": "native",
-    "label": "Dart project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/TG-Twilight/c001apk?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/TG-Twilight/c001apk",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/TG-Twilight/c001apk/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Dart usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/TG-Twilight/c001apk.git\ncd c001apk",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/TG-Twilight/c001apk\nWhat it says it does: \"一个轻量的非官方酷安客户端\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T05:47:30.680Z"
   }
  ],
  "levels": {
-  "heavy": 106,
-  "account": 235,
+  "account": 236,
+  "heavy": 105,
   "instant": 39,
   "read": 120
  }

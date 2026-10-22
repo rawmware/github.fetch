@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T20:11:37.617Z",
- "totalGuides": 1236,
+ "updatedAt": "2026-10-22T20:11:37.899Z",
+ "totalGuides": 1237,
  "items": [
+  {
+   "fullName": "danisiber/rom-cli",
+   "owner": "danisiber",
+   "name": "rom-cli",
+   "url": "https://github.com/danisiber/rom-cli",
+   "avatar": "https://avatars.githubusercontent.com/u/197707372?v=4",
+   "description": "Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.",
+   "language": "Python",
+   "topics": [
+    "cli",
+    "game-downloader",
+    "python",
+    "retro-gaming",
+    "rom-cli",
+    "roms",
+    "switch",
+    "textual"
+   ],
+   "license": null,
+   "stars": 77,
+   "forks": 15,
+   "createdAt": "2026-10-22T08:38:38Z",
+   "branch": "main",
+   "homepage": "https://github.com/danisiber/rom-cli",
+   "addedAt": "2026-10-22T20:11:37.898Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/danisiber/rom-cli/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/danisiber/rom-cli?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/danisiber/rom-cli",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/danisiber/rom-cli/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/danisiber/rom-cli.git\ncd rom-cli",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/danisiber/rom-cli\nWhat it says it does: \"Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T20:11:37.898Z"
+  },
   {
    "fullName": "syhunt/php2shell-protection",
    "owner": "syhunt",
@@ -31606,73 +31677,6 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/ShizeChen-ene/youtube-tiktok-video-manager\nWhat it says it does: \"Effortless video sync and management for YouTube and TikTok creators\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T00:57:45.571Z"
-  },
-  {
-   "fullName": "Gen-Verse/RSI-Anything",
-   "owner": "Gen-Verse",
-   "name": "RSI-Anything",
-   "url": "https://github.com/Gen-Verse/RSI-Anything",
-   "avatar": "https://avatars.githubusercontent.com/u/197493814?v=4",
-   "description": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
-   "language": "HTML",
-   "topics": [
-    "jepa",
-    "llm-agents",
-    "recursive-self-improvement",
-    "world-models"
-   ],
-   "license": "Apache-2.0",
-   "stars": 710,
-   "forks": 62,
-   "createdAt": "2026-10-08T22:52:16Z",
-   "branch": "main",
-   "homepage": "https://arxiv.org/abs/2610.13912",
-   "addedAt": "2026-10-14T22:41:36.762Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Gen-Verse/RSI-Anything/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Gen-Verse/RSI-Anything?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Gen-Verse/RSI-Anything",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Gen-Verse/RSI-Anything/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Gen-Verse/RSI-Anything.git\ncd RSI-Anything\npip install -e .",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Gen-Verse/RSI-Anything\nWhat it says it does: \"RSI-Anything: Unlocking Recursive Self-Improvement with World Models\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T22:41:36.762Z"
   }
  ],
  "levels": {

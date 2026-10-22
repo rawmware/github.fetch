@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T16:04:49.226Z",
- "totalGuides": 1225,
+ "updatedAt": "2026-10-22T16:04:49.654Z",
+ "totalGuides": 1226,
  "items": [
+  {
+   "fullName": "hkcjsyzbcgqq/twitch-viewer-bot-ai",
+   "owner": "hkcjsyzbcgqq",
+   "name": "twitch-viewer-bot-ai",
+   "url": "https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai",
+   "avatar": "https://avatars.githubusercontent.com/u/334723811?v=4",
+   "description": "Twitch viewer bot with AI chat: multi-threaded viewer injection, proxy rotation, GPT-powered chat responders, auto follow/raid.",
+   "language": "Python",
+   "topics": [
+    "ai-chat-bot",
+    "ai-viewer-bot",
+    "stream-boost",
+    "twitch-analytics",
+    "twitch-api",
+    "twitch-automation",
+    "twitch-chat-bot",
+    "twitch-farming"
+   ],
+   "license": "MIT",
+   "stars": 89,
+   "forks": 54,
+   "createdAt": "2026-10-22T11:40:02Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T16:04:49.653Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/hkcjsyzbcgqq/twitch-viewer-bot-ai/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/hkcjsyzbcgqq/twitch-viewer-bot-ai?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/hkcjsyzbcgqq/twitch-viewer-bot-ai",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai.git\ncd twitch-viewer-bot-ai\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai\nWhat it says it does: \"Twitch viewer bot with AI chat: multi-threaded viewer injection, proxy rotation, GPT-powered chat responders, auto follow/raid.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T16:04:49.653Z"
+  },
   {
    "fullName": "nevenaywgmhe/tiktok-dm-blaster",
    "owner": "nevenaywgmhe",
@@ -31588,66 +31659,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/0xS4N4TG/papercut-explainer\nWhat it says it does: \"Claude Code skills + a Remotion library for short vertical cut-paper explainer reels: strategy, hook, script, storyboard, voice, build, QA.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T19:38:52.449Z"
-  },
-  {
-   "fullName": "caveman-ai/trim-1",
-   "owner": "caveman-ai",
-   "name": "trim-1",
-   "url": "https://github.com/caveman-ai/trim-1",
-   "avatar": "https://avatars.githubusercontent.com/u/312528318?v=4",
-   "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
-   "language": "Go",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 61,
-   "forks": 5,
-   "createdAt": "2026-10-14T03:05:27Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T19:38:52.262Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/caveman-ai/trim-1?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/caveman-ai/trim-1",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/caveman-ai/trim-1/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/caveman-ai/trim-1.git\ncd trim-1\ngo build ./...",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/caveman-ai/trim-1\nWhat it says it does: \"trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T19:38:52.262Z"
   }
  ],
  "levels": {
-  "instant": 40,
   "account": 236,
+  "instant": 40,
   "heavy": 105,
   "read": 119
  }

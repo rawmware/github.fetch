@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1234 guides written so far · last update 2026-10-22 20:11 UTC_
+_1235 guides written so far · last update 2026-10-22 20:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer](https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer) | JavaScript project | Runs in the browser with a free account | [guide](guides/needlepewall/onimusha-way-of-the-sword-fps-optimizer.md) |
 | [devploit/php2shell](https://github.com/devploit/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/devploit/php2shell.md) |
 | [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra) | Jupyter notebook | Runs in the browser with a free account | [guide](guides/yuatemycat/superghidra.md) |
 | [7API/uncensored-ai-api](https://github.com/7API/uncensored-ai-api) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/7api/uncensored-ai-api.md) |
@@ -38,7 +39,6 @@ _1234 guides written so far · last update 2026-10-22 20:11 UTC_
 | [hkcjsyzbcgqq/twitch-viewer-bot-ai](https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai) | Python project | Runs in the browser with a free account | [guide](guides/hkcjsyzbcgqq/twitch-viewer-bot-ai.md) |
 | [nevenaywgmhe/tiktok-dm-blaster](https://github.com/nevenaywgmhe/tiktok-dm-blaster) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/nevenaywgmhe/tiktok-dm-blaster.md) |
 | [eqyvlbekmlqq/tiktok-view-bot](https://github.com/eqyvlbekmlqq/tiktok-view-bot) | Python project | Runs in the browser with a free account | [guide](guides/eqyvlbekmlqq/tiktok-view-bot.md) |
-| [ezosizcojoaj/roblox-account-switcher](https://github.com/ezosizcojoaj/roblox-account-switcher) | Python project | Runs in the browser with a free account | [guide](guides/ezosizcojoaj/roblox-account-switcher.md) |
 <!-- latest:end -->
 
 ## How it works

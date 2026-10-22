@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T20:11:37.000Z",
- "totalGuides": 1234,
+ "updatedAt": "2026-10-22T20:11:37.323Z",
+ "totalGuides": 1235,
  "items": [
+  {
+   "fullName": "Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer",
+   "owner": "Needlepewall",
+   "name": "Onimusha-Way-of-the-Sword-FPS-Optimizer",
+   "url": "https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer",
+   "avatar": "https://avatars.githubusercontent.com/u/319657319?v=4",
+   "description": "Lightweight desktop tool for Onimusha: Way of the Sword. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability in Capcom’s action-adventure title. Regularly updated",
+   "language": "JavaScript",
+   "topics": [
+    "fps-booster-no-lag",
+    "fps-booster-software",
+    "fps-tweak",
+    "gaming",
+    "gaming-tools",
+    "onimusha",
+    "onimusha-2026",
+    "onimusha-way-of-the-sword"
+   ],
+   "license": null,
+   "stars": 84,
+   "forks": 0,
+   "createdAt": "2026-10-22T16:05:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T20:11:37.322Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer.git\ncd Onimusha-Way-of-the-Sword-FPS-Optimizer",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer\nWhat it says it does: \"Lightweight desktop tool for Onimusha: Way of the Sword. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability in Capcom’s action-adventure title. Regularly updated\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T20:11:37.322Z"
+  },
   {
    "fullName": "devploit/php2shell",
    "owner": "devploit",
@@ -31619,69 +31683,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/YeonwooSung/my-claude-code-mods\nWhat it says it does: \"Custom Claude Code Mods that I need\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T22:41:36.443Z"
-  },
-  {
-   "fullName": "snuri00/ps2-web-recomp",
-   "owner": "snuri00",
-   "name": "ps2-web-recomp",
-   "url": "https://github.com/snuri00/ps2-web-recomp",
-   "avatar": "https://avatars.githubusercontent.com/u/142660054?v=4",
-   "description": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
-   "language": "C++",
-   "topics": [],
-   "license": "MIT",
-   "stars": 851,
-   "forks": 74,
-   "createdAt": "2026-10-08T07:06:56Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T22:41:36.172Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/snuri00/ps2-web-recomp?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/snuri00/ps2-web-recomp",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/snuri00/ps2-web-recomp/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/snuri00/ps2-web-recomp.git\ncd ps2-web-recomp",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/snuri00/ps2-web-recomp\nWhat it says it does: \"PS2 games in the browser: static recompilation to WebAssembly with a native runtime\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T22:41:36.172Z"
   }
  ],
  "levels": {
-  "account": 232,
+  "account": 233,
   "read": 122,
-  "heavy": 106,
+  "heavy": 105,
   "instant": 40
  }
 }

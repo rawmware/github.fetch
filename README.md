@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1193 guides written so far · last update 2026-10-22 05:58 UTC_
+_1194 guides written so far · last update 2026-10-22 05:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Jimu888/home-tv-cn](https://github.com/Jimu888/home-tv-cn) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jimu888/home-tv-cn.md) |
 | [xingjian-bai/opal](https://github.com/xingjian-bai/opal) | Python project | Runs in the browser with a free account | [guide](guides/xingjian-bai/opal.md) |
 | [zita-ch/supermimic_vibed](https://github.com/zita-ch/supermimic_vibed) | Python project | Runs in the browser with a free account | [guide](guides/zita-ch/supermimic_vibed.md) |
 | [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | Rust project | Runs in the browser with a free account | [guide](guides/torrentplayer/torrentplayer.md) |
@@ -38,7 +39,6 @@ _1193 guides written so far · last update 2026-10-22 05:58 UTC_
 | [llm-xiaoye/douyin-to-obsidian](https://github.com/llm-xiaoye/douyin-to-obsidian) | Python project | Runs in the browser with a free account | [guide](guides/llm-xiaoye/douyin-to-obsidian.md) |
 | [qianshuixia/shrimpreel](https://github.com/qianshuixia/shrimpreel) | Vite app | Runs in a browser tab, no account needed | [guide](guides/qianshuixia/shrimpreel.md) |
 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python project | Runs in the browser with a free account | [guide](guides/feitangyuan/onetake.md) |
-| [obsidianmd/pele](https://github.com/obsidianmd/pele) | JavaScript project | Runs in the browser with a free account | [guide](guides/obsidianmd/pele.md) |
 <!-- latest:end -->
 
 ## How it works

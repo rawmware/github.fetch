@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T05:58:58.591Z",
- "totalGuides": 1201,
+ "updatedAt": "2026-10-22T05:58:58.764Z",
+ "totalGuides": 1202,
  "items": [
+  {
+   "fullName": "keegan0521/CinderVM",
+   "owner": "keegan0521",
+   "name": "CinderVM",
+   "url": "https://github.com/keegan0521/CinderVM",
+   "avatar": "https://avatars.githubusercontent.com/u/30556977?v=4",
+   "description": "Deterministic bytecode VM for agent execution - verified images, snapshots and a hash-chained replay journal",
+   "language": "Rust",
+   "topics": [
+    "bytecode",
+    "cli",
+    "deterministic-execution",
+    "interpreter",
+    "performance",
+    "replay",
+    "rust",
+    "sandbox"
+   ],
+   "license": "MIT",
+   "stars": 65,
+   "forks": 28,
+   "createdAt": "2026-10-21T16:19:30Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T05:58:58.764Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/keegan0521/CinderVM?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/keegan0521/CinderVM",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/keegan0521/CinderVM/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/keegan0521/CinderVM.git\ncd CinderVM\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/keegan0521/CinderVM\nWhat it says it does: \"Deterministic bytecode VM for agent execution - verified images, snapshots and a hash-chained replay journal\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T05:58:58.764Z"
+  },
   {
    "fullName": "llm-xiaoye/cc-connect-dy-author",
    "owner": "llm-xiaoye",
@@ -31542,68 +31606,6 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/mosheng1/QcClip\nWhat it says it does: \"QcClip 是一款使用纯 Rust、基于 GPUI 框架原生渲染的高性能剪贴板工具\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T10:32:04.180Z"
-  },
-  {
-   "fullName": "Yukinodot/XiYuan-QRNG",
-   "owner": "Yukinodot",
-   "name": "XiYuan-QRNG",
-   "url": "https://github.com/Yukinodot/XiYuan-QRNG",
-   "avatar": "https://avatars.githubusercontent.com/u/209341321?v=4",
-   "description": "曦源项目：Qiskit QRNG 后处理研究，偏置/死时间建模、一阶熵代理、Toeplitz 提取与可审计逐位回放。",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 65,
-   "forks": 0,
-   "createdAt": "2026-10-13T12:57:51Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T10:32:03.978Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Yukinodot/XiYuan-QRNG/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Yukinodot/XiYuan-QRNG?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Yukinodot/XiYuan-QRNG",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Yukinodot/XiYuan-QRNG/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Yukinodot/XiYuan-QRNG.git\ncd XiYuan-QRNG\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Yukinodot/XiYuan-QRNG\nWhat it says it does: \"曦源项目：Qiskit QRNG 后处理研究，偏置/死时间建模、一阶熵代理、Toeplitz 提取与可审计逐位回放。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T10:32:03.978Z"
   }
  ],
  "levels": {

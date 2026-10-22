@@ -1,8 +1,86 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T20:11:36.091Z",
- "totalGuides": 1232,
+ "updatedAt": "2026-10-22T20:11:36.599Z",
+ "totalGuides": 1233,
  "items": [
+  {
+   "fullName": "yuatemycat/SuperGhidra",
+   "owner": "yuatemycat",
+   "name": "SuperGhidra",
+   "url": "https://github.com/yuatemycat/SuperGhidra",
+   "avatar": "https://avatars.githubusercontent.com/u/344623529?v=4",
+   "description": "Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG deflattener, and Ghidra cache daemon.",
+   "language": "Python",
+   "topics": [
+    "arm64",
+    "binary-analysis",
+    "decompiler",
+    "disassembler",
+    "ghidra",
+    "mcp",
+    "pcode",
+    "python"
+   ],
+   "license": "AGPL-3.0",
+   "stars": 88,
+   "forks": 6,
+   "createdAt": "2026-10-20T08:22:31Z",
+   "branch": "master",
+   "homepage": "https://github.com/yuatemycat/SuperGhidra",
+   "addedAt": "2026-10-22T20:11:36.599Z",
+   "stack": {
+    "kind": "notebook",
+    "label": "Jupyter notebook",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "colab",
+   "launch": [
+    {
+     "id": "colab",
+     "label": "Colab: colab_cloud_orchestrator.ipynb",
+     "url": "https://colab.research.google.com/github/yuatemycat/SuperGhidra/blob/master/colab_cloud_orchestrator.ipynb",
+     "needs": "free Google account",
+     "note": "Runs the notebook on Google's computers, with a free GPU if you need one."
+    },
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/yuatemycat/SuperGhidra/master",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/yuatemycat/SuperGhidra?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/yuatemycat/SuperGhidra",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/yuatemycat/SuperGhidra/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/yuatemycat/SuperGhidra.git\ncd SuperGhidra",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/yuatemycat/SuperGhidra\nWhat it says it does: \"Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG deflattener, and Ghidra cache daemon.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Colab: colab_cloud_orchestrator.ipynb, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T20:11:36.599Z"
+  },
   {
    "fullName": "7API/uncensored-ai-api",
    "owner": "7API",
@@ -31586,66 +31664,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/storytold/figcraft\nWhat it says it does: \"FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T22:41:35.954Z"
-  },
-  {
-   "fullName": "trhhubsd/ARTEXX",
-   "owner": "trhhubsd",
-   "name": "ARTEXX",
-   "url": "https://github.com/trhhubsd/ARTEXX",
-   "avatar": "https://avatars.githubusercontent.com/u/91248508?v=4",
-   "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-   "language": "Go",
-   "topics": [],
-   "license": "AGPL-3.0",
-   "stars": 1206,
-   "forks": 11,
-   "createdAt": "2026-10-08T20:35:22Z",
-   "branch": "main",
-   "homepage": "https://artex-demo.vercel.app/",
-   "addedAt": "2026-10-14T22:41:35.769Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/trhhubsd/ARTEXX?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/trhhubsd/ARTEXX",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/trhhubsd/ARTEXX/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/trhhubsd/ARTEXX.git\ncd ARTEXX\ngo build ./...",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/trhhubsd/ARTEXX\nWhat it says it does: \"AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T22:41:35.769Z"
   }
  ],
  "levels": {
-  "read": 122,
   "account": 232,
+  "read": 122,
   "heavy": 106,
   "instant": 40
  }

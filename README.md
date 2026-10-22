@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1184 guides written so far · last update 2026-10-22 00:57 UTC_
+_1185 guides written so far · last update 2026-10-22 00:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [llm-xiaoye/douyin-to-obsidian](https://github.com/llm-xiaoye/douyin-to-obsidian) | Python project | Runs in the browser with a free account | [guide](guides/llm-xiaoye/douyin-to-obsidian.md) |
 | [qianshuixia/shrimpreel](https://github.com/qianshuixia/shrimpreel) | Vite app | Runs in a browser tab, no account needed | [guide](guides/qianshuixia/shrimpreel.md) |
 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python project | Runs in the browser with a free account | [guide](guides/feitangyuan/onetake.md) |
 | [obsidianmd/pele](https://github.com/obsidianmd/pele) | JavaScript project | Runs in the browser with a free account | [guide](guides/obsidianmd/pele.md) |
@@ -38,7 +39,6 @@ _1184 guides written so far · last update 2026-10-22 00:57 UTC_
 | [NCSC-NL/php2shell](https://github.com/NCSC-NL/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/ncsc-nl/php2shell.md) |
 | [Torrentthefoundry/KMS-Pico](https://github.com/Torrentthefoundry/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/torrentthefoundry/kms-pico.md) |
 | [slaterockweb/BorisFX](https://github.com/slaterockweb/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slaterockweb/borisfx.md) |
-| [ThresholdSummoner/Camtasia](https://github.com/ThresholdSummoner/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdsummoner/camtasia.md) |
 <!-- latest:end -->
 
 ## How it works

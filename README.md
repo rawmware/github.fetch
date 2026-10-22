@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1190 guides written so far · last update 2026-10-22 00:57 UTC_
+_1191 guides written so far · last update 2026-10-22 05:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | Rust project | Runs in the browser with a free account | [guide](guides/torrentplayer/torrentplayer.md) |
 | [isabekastsuc/CinderVM](https://github.com/isabekastsuc/CinderVM) | Rust project | Runs in the browser with a free account | [guide](guides/isabekastsuc/cindervm.md) |
 | [jss8649/quiet-tizen](https://github.com/jss8649/quiet-tizen) | Python project | Runs in the browser with a free account | [guide](guides/jss8649/quiet-tizen.md) |
 | [migasrias2/geckobox](https://github.com/migasrias2/geckobox) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/migasrias2/geckobox.md) |
@@ -38,7 +39,6 @@ _1190 guides written so far · last update 2026-10-22 00:57 UTC_
 | [obsidianmd/pele](https://github.com/obsidianmd/pele) | JavaScript project | Runs in the browser with a free account | [guide](guides/obsidianmd/pele.md) |
 | [Jakeschincariol/trader-skill](https://github.com/Jakeschincariol/trader-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/trader-skill.md) |
 | [OpenSmash-Ultimate/WindowSmash](https://github.com/OpenSmash-Ultimate/WindowSmash) | Python project | Runs in the browser with a free account | [guide](guides/opensmash-ultimate/windowsmash.md) |
-| [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) | Vite app | Runs in the browser with a free account | [guide](guides/dev-null-sh/dev-null.sh.md) |
 <!-- latest:end -->
 
 ## How it works

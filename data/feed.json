@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T23:26:39.283Z",
- "totalGuides": 1244,
+ "updatedAt": "2026-10-22T23:26:39.479Z",
+ "totalGuides": 1245,
  "items": [
+  {
+   "fullName": "humblemuzzu/dumbtv",
+   "owner": "humblemuzzu",
+   "name": "dumbtv",
+   "url": "https://github.com/humblemuzzu/dumbtv",
+   "avatar": "https://avatars.githubusercontent.com/u/107297384?v=4",
+   "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+   "language": "Java",
+   "topics": [
+    "ad-blocking",
+    "adb",
+    "android-tv",
+    "debloat",
+    "dns-filter",
+    "fire-os",
+    "fire-tv",
+    "firetv"
+   ],
+   "license": null,
+   "stars": 1301,
+   "forks": 108,
+   "createdAt": "2026-10-18T17:04:12Z",
+   "branch": "main",
+   "homepage": "https://dumbtv.org",
+   "addedAt": "2026-10-22T23:26:39.478Z",
+   "stack": {
+    "kind": "native",
+    "label": "Java project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/humblemuzzu/dumbtv?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/humblemuzzu/dumbtv",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/humblemuzzu/dumbtv/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/humblemuzzu/dumbtv.git\ncd dumbtv",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/humblemuzzu/dumbtv\nWhat it says it does: \"Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T23:26:39.478Z"
+  },
   {
    "fullName": "tek-sys-hub/Rubix-lang",
    "owner": "tek-sys-hub",
@@ -31656,66 +31722,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ahwootech/BRUTAL\nWhat it says it does: \"A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T05:47:30.430Z"
-  },
-  {
-   "fullName": "CarterT27/scion",
-   "owner": "CarterT27",
-   "name": "scion",
-   "url": "https://github.com/CarterT27/scion",
-   "avatar": "https://avatars.githubusercontent.com/u/67401383?v=4",
-   "description": "Implementation of Anthropic's version control system",
-   "language": "Rust",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 108,
-   "forks": 6,
-   "createdAt": "2026-10-14T18:58:07Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T05:47:30.214Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/CarterT27/scion?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/CarterT27/scion",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/CarterT27/scion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/CarterT27/scion.git\ncd scion\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/CarterT27/scion\nWhat it says it does: \"Implementation of Anthropic's version control system\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T05:47:30.214Z"
   }
  ],
  "levels": {
-  "heavy": 105,
-  "account": 236,
+  "heavy": 106,
+  "account": 235,
   "instant": 39,
   "read": 120
  }

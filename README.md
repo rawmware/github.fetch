@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1227 guides written so far · last update 2026-10-22 16:04 UTC_
+_1228 guides written so far · last update 2026-10-22 16:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mornyeapp/Mornye-Desktop](https://github.com/mornyeapp/Mornye-Desktop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mornyeapp/mornye-desktop.md) |
 | [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/cuboileo/supermimic-reproduced.md) |
 | [hkcjsyzbcgqq/twitch-viewer-bot-ai](https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai) | Python project | Runs in the browser with a free account | [guide](guides/hkcjsyzbcgqq/twitch-viewer-bot-ai.md) |
 | [nevenaywgmhe/tiktok-dm-blaster](https://github.com/nevenaywgmhe/tiktok-dm-blaster) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/nevenaywgmhe/tiktok-dm-blaster.md) |
@@ -38,7 +39,6 @@ _1227 guides written so far · last update 2026-10-22 16:04 UTC_
 | [Jelly10086/PCL-Re.Download_PATCH](https://github.com/Jelly10086/PCL-Re.Download_PATCH) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/jelly10086/pcl-re.download_patch.md) |
 | [ChungKit-WAN/Quant-research-lab-v0.1.0](https://github.com/ChungKit-WAN/Quant-research-lab-v0.1.0) | Python project | Runs in the browser with a free account | [guide](guides/chungkit-wan/quant-research-lab-v0.1.0.md) |
 | [unixzii/Champagne](https://github.com/unixzii/Champagne) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/unixzii/champagne.md) |
-| [LNPANDY/nxnative-romfs-archive](https://github.com/LNPANDY/nxnative-romfs-archive) | C project | Needs a real machine (or a GPU) to run | [guide](guides/lnpandy/nxnative-romfs-archive.md) |
 <!-- latest:end -->
 
 ## How it works

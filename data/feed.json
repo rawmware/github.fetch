@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T16:04:50.007Z",
- "totalGuides": 1227,
+ "updatedAt": "2026-10-22T16:04:50.336Z",
+ "totalGuides": 1228,
  "items": [
+  {
+   "fullName": "mornyeapp/Mornye-Desktop",
+   "owner": "mornyeapp",
+   "name": "Mornye-Desktop",
+   "url": "https://github.com/mornyeapp/Mornye-Desktop",
+   "avatar": "https://avatars.githubusercontent.com/u/275997661?v=4",
+   "description": "Mornye for macOS, Windows and Linux. Available Now.",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 78,
+   "forks": 1,
+   "createdAt": "2026-10-20T20:50:25Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T16:04:50.335Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/mornyeapp/Mornye-Desktop",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mornyeapp/Mornye-Desktop/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/mornyeapp/Mornye-Desktop\nWhat it says it does: \"Mornye for macOS, Windows and Linux. Available Now.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T16:04:50.335Z"
+  },
   {
    "fullName": "CuboiLeo/SuperMimic-Reproduced",
    "owner": "CuboiLeo",
@@ -31597,81 +31645,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Fei2411/DeepSeek-Bot\nWhat it says it does: \"A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T19:38:52.995Z"
-  },
-  {
-   "fullName": "ziplab/ATAS",
-   "owner": "ziplab",
-   "name": "ATAS",
-   "url": "https://github.com/ziplab/ATAS",
-   "avatar": "https://avatars.githubusercontent.com/u/79640140?v=4",
-   "description": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
-   "language": "Python",
-   "topics": [
-    "agentic-video-generation",
-    "mutli-agent",
-    "mutli-agent-system",
-    "spatial-consistency",
-    "video-generation",
-    "video-generator"
-   ],
-   "license": "MIT",
-   "stars": 59,
-   "forks": 0,
-   "createdAt": "2026-10-12T02:32:56Z",
-   "branch": "main",
-   "homepage": "https://lhmd.top/atas",
-   "addedAt": "2026-10-14T19:38:52.695Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/ziplab/ATAS/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ziplab/ATAS?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ziplab/ATAS",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ziplab/ATAS/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ziplab/ATAS.git\ncd ATAS",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/ziplab/ATAS\nWhat it says it does: \"Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T19:38:52.695Z"
   }
  ],
  "levels": {
+  "read": 120,
   "heavy": 106,
-  "account": 235,
-  "instant": 40,
-  "read": 119
+  "account": 234,
+  "instant": 40
  }
 }

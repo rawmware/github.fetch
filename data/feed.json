@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T05:58:57.801Z",
- "totalGuides": 1197,
+ "updatedAt": "2026-10-22T05:58:58.004Z",
+ "totalGuides": 1198,
  "items": [
+  {
+   "fullName": "lklbar666/mcd-saver-checkup",
+   "owner": "lklbar666",
+   "name": "mcd-saver-checkup",
+   "url": "https://github.com/lklbar666/mcd-saver-checkup",
+   "avatar": "https://avatars.githubusercontent.com/u/90894131?v=4",
+   "description": "麦当劳省钱体检：不看你想吃什么，先看你已经亏在哪。基于麦当劳中国 MCP 的差价审计 Skill——枚举所有买法，用 calculate-price 逐个复算，报差额、归因与凑单临界点。",
+   "language": "Python",
+   "topics": [
+    "agent-skill",
+    "chinese",
+    "mcdonalds",
+    "mcp",
+    "price-audit",
+    "python"
+   ],
+   "license": "MIT",
+   "stars": 69,
+   "forks": 8,
+   "createdAt": "2026-10-21T03:28:42Z",
+   "branch": "main",
+   "homepage": "https://ima.qq.com/skill?shareId=9e1fecab05fd48e299b7df116d884c0a",
+   "addedAt": "2026-10-22T05:58:58.003Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/lklbar666/mcd-saver-checkup/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/lklbar666/mcd-saver-checkup?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/lklbar666/mcd-saver-checkup",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/lklbar666/mcd-saver-checkup/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/lklbar666/mcd-saver-checkup.git\ncd mcd-saver-checkup",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/lklbar666/mcd-saver-checkup\nWhat it says it does: \"麦当劳省钱体检：不看你想吃什么，先看你已经亏在哪。基于麦当劳中国 MCP 的差价审计 Skill——枚举所有买法，用 calculate-price 逐个复算，报差额、归因与凑单临界点。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T05:58:58.003Z"
+  },
   {
    "fullName": "recursive-oss/rec",
    "owner": "recursive-oss",
@@ -31525,61 +31594,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/gabrielgreco1/LGwebOS-menubar\nWhat it says it does: \"Native macOS menu bar remote for LG webOS TVs\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T10:32:03.223Z"
-  },
-  {
-   "fullName": "derekross/omarchy-mobile",
-   "owner": "derekross",
-   "name": "omarchy-mobile",
-   "url": "https://github.com/derekross/omarchy-mobile",
-   "avatar": "https://avatars.githubusercontent.com/u/755144?v=4",
-   "description": "Omarchy Mobile: native Omarchy on Google Pixel phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)",
-   "language": "QML",
-   "topics": [],
-   "license": "MIT",
-   "stars": 74,
-   "forks": 6,
-   "createdAt": "2026-10-12T02:03:22Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-14T10:32:03.027Z",
-   "stack": {
-    "kind": "other",
-    "label": "QML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/derekross/omarchy-mobile?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/derekross/omarchy-mobile",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/derekross/omarchy-mobile/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/derekross/omarchy-mobile.git\ncd omarchy-mobile",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/derekross/omarchy-mobile\nWhat it says it does: \"Omarchy Mobile: native Omarchy on Google Pixel phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T10:32:03.027Z"
   }
  ],
  "levels": {

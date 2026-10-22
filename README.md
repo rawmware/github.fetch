@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1197 guides written so far · last update 2026-10-22 05:58 UTC_
+_1198 guides written so far · last update 2026-10-22 05:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lklbar666/mcd-saver-checkup](https://github.com/lklbar666/mcd-saver-checkup) | Python project | Runs in the browser with a free account | [guide](guides/lklbar666/mcd-saver-checkup.md) |
 | [recursive-oss/rec](https://github.com/recursive-oss/rec) | Python project | Runs in the browser with a free account | [guide](guides/recursive-oss/rec.md) |
 | [JulioNectar/Hackintosh-XPS13Plus-IrisXe-Tahoe](https://github.com/JulioNectar/Hackintosh-XPS13Plus-IrisXe-Tahoe) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/julionectar/hackintosh-xps13plus-irisxe-tahoe.md) |
 | [Acelogic/Snapintosh](https://github.com/Acelogic/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/acelogic/snapintosh.md) |
@@ -38,7 +39,6 @@ _1197 guides written so far · last update 2026-10-22 05:58 UTC_
 | [jss8649/quiet-tizen](https://github.com/jss8649/quiet-tizen) | Python project | Runs in the browser with a free account | [guide](guides/jss8649/quiet-tizen.md) |
 | [migasrias2/geckobox](https://github.com/migasrias2/geckobox) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/migasrias2/geckobox.md) |
 | [h9-tec/ai-roadmap-2026](https://github.com/h9-tec/ai-roadmap-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/h9-tec/ai-roadmap-2026.md) |
-| [DLSS-5-Swapper-Update-Download/.github](https://github.com/DLSS-5-Swapper-Update-Download/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-update-download/.github.md) |
 <!-- latest:end -->
 
 ## How it works

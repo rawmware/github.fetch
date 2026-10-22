@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1214 guides written so far · last update 2026-10-22 11:38 UTC_
+_1215 guides written so far · last update 2026-10-22 11:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [InariNGT-Ofiicial/dsh-bili-humanism](https://github.com/InariNGT-Ofiicial/dsh-bili-humanism) | Node command-line tool | Runs in the browser with a free account | [guide](guides/inaringt-ofiicial/dsh-bili-humanism.md) |
 | [NelsonEU/arn0-tv](https://github.com/NelsonEU/arn0-tv) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nelsoneu/arn0-tv.md) |
 | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rossark0/rossark-motion-skill.md) |
 | [HOSTED-POWER/php_uploadprogress_guard](https://github.com/HOSTED-POWER/php_uploadprogress_guard) | C project | Needs a real machine (or a GPU) to run | [guide](guides/hosted-power/php_uploadprogress_guard.md) |
@@ -38,7 +39,6 @@ _1214 guides written so far · last update 2026-10-22 11:38 UTC_
 | [atbfun/ATBGamePort](https://github.com/atbfun/ATBGamePort) | JavaScript project | Runs in the browser with a free account | [guide](guides/atbfun/atbgameport.md) |
 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Node command-line tool | Runs in the browser with a free account | [guide](guides/colinhacks/reylo.md) |
 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python project | Runs in the browser with a free account | [guide](guides/9bie/php2shell-bypass-aslr-exp.md) |
-| [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc) | Python project | Runs in the browser with a free account | [guide](guides/dinosn/php-cve-2026-10961x-lab-poc.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T23:26:39.479Z",
- "totalGuides": 1245,
+ "updatedAt": "2026-10-22T23:26:39.671Z",
+ "totalGuides": 1246,
  "items": [
+  {
+   "fullName": "Revivedx/SavageWindRecomp",
+   "owner": "Revivedx",
+   "name": "SavageWindRecomp",
+   "url": "https://github.com/Revivedx/SavageWindRecomp",
+   "avatar": "https://avatars.githubusercontent.com/u/82332536?v=4",
+   "description": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+   "language": "C",
+   "topics": [],
+   "license": null,
+   "stars": 485,
+   "forks": 16,
+   "createdAt": "2026-10-16T17:34:55Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T23:26:39.670Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Revivedx/SavageWindRecomp?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Revivedx/SavageWindRecomp",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Revivedx/SavageWindRecomp/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Revivedx/SavageWindRecomp.git\ncd SavageWindRecomp",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Revivedx/SavageWindRecomp\nWhat it says it does: \"Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T23:26:39.670Z"
+  },
   {
    "fullName": "humblemuzzu/dumbtv",
    "owner": "humblemuzzu",
@@ -31665,63 +31722,6 @@
    "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/TG-Twilight/c001apk\nWhat it says it does: \"一个轻量的非官方酷安客户端\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T05:47:30.680Z"
-  },
-  {
-   "fullName": "ahwootech/BRUTAL",
-   "owner": "ahwootech",
-   "name": "BRUTAL",
-   "url": "https://github.com/ahwootech/BRUTAL",
-   "avatar": "https://avatars.githubusercontent.com/u/189169933?v=4",
-   "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-   "language": "C#",
-   "topics": [],
-   "license": null,
-   "stars": 97,
-   "forks": 7,
-   "createdAt": "2026-10-14T19:33:56Z",
-   "branch": "main",
-   "homepage": "https://ahwoo.com/brutal",
-   "addedAt": "2026-10-15T05:47:30.430Z",
-   "stack": {
-    "kind": "native",
-    "label": "C# project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ahwootech/BRUTAL?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ahwootech/BRUTAL",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ahwootech/BRUTAL/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/ahwootech/BRUTAL.git\ncd BRUTAL",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ahwootech/BRUTAL\nWhat it says it does: \"A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T05:47:30.430Z"
   }
  ],
  "levels": {

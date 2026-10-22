@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1245 guides written so far · last update 2026-10-22 23:26 UTC_
+_1246 guides written so far · last update 2026-10-22 23:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/revivedx/savagewindrecomp.md) |
 | [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/humblemuzzu/dumbtv.md) |
 | [tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang) | Assembly project | Needs a real machine (or a GPU) to run | [guide](guides/tek-sys-hub/rubix-lang.md) |
 | [NousResearch/hermes-labs-plugins](https://github.com/NousResearch/hermes-labs-plugins) | Python project | Runs in the browser with a free account | [guide](guides/nousresearch/hermes-labs-plugins.md) |
@@ -38,7 +39,6 @@ _1245 guides written so far · last update 2026-10-22 23:26 UTC_
 | [danisiber/rom-cli](https://github.com/danisiber/rom-cli) | Python project | Runs in the browser with a free account | [guide](guides/danisiber/rom-cli.md) |
 | [syhunt/php2shell-protection](https://github.com/syhunt/php2shell-protection) | PHP project | Runs in the browser with a free account | [guide](guides/syhunt/php2shell-protection.md) |
 | [Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer](https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer) | JavaScript project | Runs in the browser with a free account | [guide](guides/needlepewall/onimusha-way-of-the-sword-fps-optimizer.md) |
-| [devploit/php2shell](https://github.com/devploit/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/devploit/php2shell.md) |
 <!-- latest:end -->
 
 ## How it works

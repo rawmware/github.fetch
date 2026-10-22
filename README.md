@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1208 guides written so far · last update 2026-10-22 11:38 UTC_
+_1209 guides written so far · last update 2026-10-22 11:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [y0usaf/pi-ampersand](https://github.com/y0usaf/pi-ampersand) | JavaScript project | Runs in the browser with a free account | [guide](guides/y0usaf/pi-ampersand.md) |
 | [ZiyuanDu/deepinfer-unpacked](https://github.com/ZiyuanDu/deepinfer-unpacked) | Python project | Runs in the browser with a free account | [guide](guides/ziyuandu/deepinfer-unpacked.md) |
 | [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/assetnote/php2shell-scanner.md) |
 | [atbfun/ATBGamePort](https://github.com/atbfun/ATBGamePort) | JavaScript project | Runs in the browser with a free account | [guide](guides/atbfun/atbgameport.md) |
@@ -38,7 +39,6 @@ _1208 guides written so far · last update 2026-10-22 11:38 UTC_
 | [JoasASantos/php2shell-scanner](https://github.com/JoasASantos/php2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/joasasantos/php2shell-scanner.md) |
 | [haiou-666/Haiou-workshop](https://github.com/haiou-666/Haiou-workshop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/haiou-666/haiou-workshop.md) |
 | [lklbar666/mcd-saver-checkup](https://github.com/lklbar666/mcd-saver-checkup) | Python project | Runs in the browser with a free account | [guide](guides/lklbar666/mcd-saver-checkup.md) |
-| [recursive-oss/rec](https://github.com/recursive-oss/rec) | Python project | Runs in the browser with a free account | [guide](guides/recursive-oss/rec.md) |
 <!-- latest:end -->
 
 ## How it works

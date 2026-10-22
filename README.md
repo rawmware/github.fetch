@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1216 guides written so far · last update 2026-10-22 11:38 UTC_
+_1217 guides written so far · last update 2026-10-22 11:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [unixzii/Champagne](https://github.com/unixzii/Champagne) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/unixzii/champagne.md) |
 | [LNPANDY/nxnative-romfs-archive](https://github.com/LNPANDY/nxnative-romfs-archive) | C project | Needs a real machine (or a GPU) to run | [guide](guides/lnpandy/nxnative-romfs-archive.md) |
 | [InariNGT-Ofiicial/dsh-bili-humanism](https://github.com/InariNGT-Ofiicial/dsh-bili-humanism) | Node command-line tool | Runs in the browser with a free account | [guide](guides/inaringt-ofiicial/dsh-bili-humanism.md) |
 | [NelsonEU/arn0-tv](https://github.com/NelsonEU/arn0-tv) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nelsoneu/arn0-tv.md) |
@@ -38,7 +39,6 @@ _1216 guides written so far · last update 2026-10-22 11:38 UTC_
 | [ZiyuanDu/deepinfer-unpacked](https://github.com/ZiyuanDu/deepinfer-unpacked) | Python project | Runs in the browser with a free account | [guide](guides/ziyuandu/deepinfer-unpacked.md) |
 | [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/assetnote/php2shell-scanner.md) |
 | [atbfun/ATBGamePort](https://github.com/atbfun/ATBGamePort) | JavaScript project | Runs in the browser with a free account | [guide](guides/atbfun/atbgameport.md) |
-| [colinhacks/reylo](https://github.com/colinhacks/reylo) | Node command-line tool | Runs in the browser with a free account | [guide](guides/colinhacks/reylo.md) |
 <!-- latest:end -->
 
 ## How it works

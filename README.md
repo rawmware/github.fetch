@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1185 guides written so far · last update 2026-10-22 00:57 UTC_
+_1186 guides written so far · last update 2026-10-22 00:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DLSS-5-Swapper-Update-Download/.github](https://github.com/DLSS-5-Swapper-Update-Download/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-update-download/.github.md) |
 | [llm-xiaoye/douyin-to-obsidian](https://github.com/llm-xiaoye/douyin-to-obsidian) | Python project | Runs in the browser with a free account | [guide](guides/llm-xiaoye/douyin-to-obsidian.md) |
 | [qianshuixia/shrimpreel](https://github.com/qianshuixia/shrimpreel) | Vite app | Runs in a browser tab, no account needed | [guide](guides/qianshuixia/shrimpreel.md) |
 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python project | Runs in the browser with a free account | [guide](guides/feitangyuan/onetake.md) |
@@ -38,7 +39,6 @@ _1185 guides written so far · last update 2026-10-22 00:57 UTC_
 | [xue-y-su/clove-api-1.0.6](https://github.com/xue-y-su/clove-api-1.0.6) | Go project | Runs in the browser with a free account | [guide](guides/xue-y-su/clove-api-1.0.6.md) |
 | [NCSC-NL/php2shell](https://github.com/NCSC-NL/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/ncsc-nl/php2shell.md) |
 | [Torrentthefoundry/KMS-Pico](https://github.com/Torrentthefoundry/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/torrentthefoundry/kms-pico.md) |
-| [slaterockweb/BorisFX](https://github.com/slaterockweb/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/slaterockweb/borisfx.md) |
 <!-- latest:end -->
 
 ## How it works

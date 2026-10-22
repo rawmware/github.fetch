@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1241 guides written so far · last update 2026-10-22 20:11 UTC_
+_1242 guides written so far · last update 2026-10-22 23:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Spectrmachina/Ztrust](https://github.com/Spectrmachina/Ztrust) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/spectrmachina/ztrust.md) |
 | [SukkaW/speed.skk.moe](https://github.com/SukkaW/speed.skk.moe) | Next.js app | Runs in the browser with a free account | [guide](guides/sukkaw/speed.skk.moe.md) |
 | [berteotti/custom-tv](https://github.com/berteotti/custom-tv) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/berteotti/custom-tv.md) |
 | [WeWaffles/OneLineage](https://github.com/WeWaffles/OneLineage) | Shell project | Runs in the browser with a free account | [guide](guides/wewaffles/onelineage.md) |
@@ -38,7 +39,6 @@ _1241 guides written so far · last update 2026-10-22 20:11 UTC_
 | [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra) | Jupyter notebook | Runs in the browser with a free account | [guide](guides/yuatemycat/superghidra.md) |
 | [7API/uncensored-ai-api](https://github.com/7API/uncensored-ai-api) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/7api/uncensored-ai-api.md) |
 | [7API/glm-5.3-abliterated](https://github.com/7API/glm-5.3-abliterated) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/7api/glm-5.3-abliterated.md) |
-| [guanmo-ai/design-style](https://github.com/guanmo-ai/design-style) | React app | Runs in the browser with a free account | [guide](guides/guanmo-ai/design-style.md) |
 <!-- latest:end -->
 
 ## How it works

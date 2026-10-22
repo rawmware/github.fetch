@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T20:11:39.510Z",
- "totalGuides": 1241,
+ "updatedAt": "2026-10-22T23:26:38.802Z",
+ "totalGuides": 1242,
  "items": [
+  {
+   "fullName": "Spectrmachina/Ztrust",
+   "owner": "Spectrmachina",
+   "name": "Ztrust",
+   "url": "https://github.com/Spectrmachina/Ztrust",
+   "avatar": "https://avatars.githubusercontent.com/u/29523192?v=4",
+   "description": "Zero-trust supply-chain security for open source: detects malicious & vulnerable dependencies, typosquats, leaked secrets and unsafe GitHub Actions — and pays independent researchers in shielded Zcash via a front-running-proof bounty protocol.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 102,
+   "forks": 0,
+   "createdAt": "2026-10-22T18:38:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-22T23:26:38.787Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Spectrmachina/Ztrust/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Spectrmachina/Ztrust?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Spectrmachina/Ztrust",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Spectrmachina/Ztrust/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/Spectrmachina/Ztrust.git\ncd Ztrust\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Spectrmachina/Ztrust\nWhat it says it does: \"Zero-trust supply-chain security for open source: detects malicious & vulnerable dependencies, typosquats, leaked secrets and unsafe GitHub Actions — and pays independent researchers in shielded Zcash via a front-running-proof bounty protocol.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T23:26:38.787Z"
+  },
   {
    "fullName": "SukkaW/speed.skk.moe",
    "owner": "SukkaW",
@@ -31623,78 +31689,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/exatoneshock/Modern-FPS-Booster-Win\nWhat it says it does: \"Modern FPS Booster Tweaker for Windows\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T00:57:46.600Z"
-  },
-  {
-   "fullName": "kota-zo/myspoti",
-   "owner": "kota-zo",
-   "name": "myspoti",
-   "url": "https://github.com/kota-zo/myspoti",
-   "avatar": "https://avatars.githubusercontent.com/u/193484410?v=4",
-   "description": "Native Android client for Spotify, built with Jetpack Compose",
-   "language": "Kotlin",
-   "topics": [
-    "ad-free",
-    "adblock",
-    "android",
-    "jetpack-compose",
-    "kotlin",
-    "lyrics",
-    "music-player",
-    "music-video"
-   ],
-   "license": "GPL-3.0",
-   "stars": 61,
-   "forks": 1,
-   "createdAt": "2026-10-14T13:01:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T00:57:46.437Z",
-   "stack": {
-    "kind": "native",
-    "label": "Kotlin project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/kota-zo/myspoti?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/kota-zo/myspoti",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kota-zo/myspoti/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/kota-zo/myspoti.git\ncd myspoti",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/kota-zo/myspoti\nWhat it says it does: \"Native Android client for Spotify, built with Jetpack Compose\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T00:57:46.437Z"
   }
  ],
  "levels": {
-  "account": 235,
+  "account": 236,
   "instant": 39,
   "read": 121,
-  "heavy": 105
+  "heavy": 104
  }
 }

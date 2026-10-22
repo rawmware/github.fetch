@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1222 guides written so far · last update 2026-10-22 16:04 UTC_
+_1223 guides written so far · last update 2026-10-22 16:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ezosizcojoaj/roblox-account-switcher](https://github.com/ezosizcojoaj/roblox-account-switcher) | Python project | Runs in the browser with a free account | [guide](guides/ezosizcojoaj/roblox-account-switcher.md) |
 | [bwuxqdmgyeub/pdf-annotate](https://github.com/bwuxqdmgyeub/pdf-annotate) | Python project | Runs in the browser with a free account | [guide](guides/bwuxqdmgyeub/pdf-annotate.md) |
 | [yatrjzgbwurs/yt-view-bot](https://github.com/yatrjzgbwurs/yt-view-bot) | Python project | Runs in the browser with a free account | [guide](guides/yatrjzgbwurs/yt-view-bot.md) |
 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | Vite app | Runs in a browser tab, no account needed | [guide](guides/wesbos/3d-model-anything.md) |
@@ -38,7 +39,6 @@ _1222 guides written so far · last update 2026-10-22 16:04 UTC_
 | [NelsonEU/arn0-tv](https://github.com/NelsonEU/arn0-tv) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nelsoneu/arn0-tv.md) |
 | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rossark0/rossark-motion-skill.md) |
 | [HOSTED-POWER/php_uploadprogress_guard](https://github.com/HOSTED-POWER/php_uploadprogress_guard) | C project | Needs a real machine (or a GPU) to run | [guide](guides/hosted-power/php_uploadprogress_guard.md) |
-| [syrex1013/php2shell](https://github.com/syrex1013/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/syrex1013/php2shell.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1206 guides written so far · last update 2026-10-22 11:38 UTC_
+_1207 guides written so far · last update 2026-10-22 11:38 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/assetnote/php2shell-scanner.md) |
 | [atbfun/ATBGamePort](https://github.com/atbfun/ATBGamePort) | JavaScript project | Runs in the browser with a free account | [guide](guides/atbfun/atbgameport.md) |
 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Node command-line tool | Runs in the browser with a free account | [guide](guides/colinhacks/reylo.md) |
 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python project | Runs in the browser with a free account | [guide](guides/9bie/php2shell-bypass-aslr-exp.md) |
@@ -38,7 +39,6 @@ _1206 guides written so far · last update 2026-10-22 11:38 UTC_
 | [lklbar666/mcd-saver-checkup](https://github.com/lklbar666/mcd-saver-checkup) | Python project | Runs in the browser with a free account | [guide](guides/lklbar666/mcd-saver-checkup.md) |
 | [recursive-oss/rec](https://github.com/recursive-oss/rec) | Python project | Runs in the browser with a free account | [guide](guides/recursive-oss/rec.md) |
 | [JulioNectar/Hackintosh-XPS13Plus-IrisXe-Tahoe](https://github.com/JulioNectar/Hackintosh-XPS13Plus-IrisXe-Tahoe) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/julionectar/hackintosh-xps13plus-irisxe-tahoe.md) |
-| [Acelogic/Snapintosh](https://github.com/Acelogic/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/acelogic/snapintosh.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1229 guides written so far · last update 2026-10-22 16:04 UTC_
+_1230 guides written so far · last update 2026-10-22 16:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [guanmo-ai/design-style](https://github.com/guanmo-ai/design-style) | React app | Runs in the browser with a free account | [guide](guides/guanmo-ai/design-style.md) |
 | [cocombee/glass-tv](https://github.com/cocombee/glass-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/cocombee/glass-tv.md) |
 | [mornyeapp/Mornye-Desktop](https://github.com/mornyeapp/Mornye-Desktop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mornyeapp/mornye-desktop.md) |
 | [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/cuboileo/supermimic-reproduced.md) |
@@ -38,7 +39,6 @@ _1229 guides written so far · last update 2026-10-22 16:04 UTC_
 | [yatrjzgbwurs/yt-view-bot](https://github.com/yatrjzgbwurs/yt-view-bot) | Python project | Runs in the browser with a free account | [guide](guides/yatrjzgbwurs/yt-view-bot.md) |
 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | Vite app | Runs in a browser tab, no account needed | [guide](guides/wesbos/3d-model-anything.md) |
 | [Jelly10086/PCL-Re.Download_PATCH](https://github.com/Jelly10086/PCL-Re.Download_PATCH) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/jelly10086/pcl-re.download_patch.md) |
-| [ChungKit-WAN/Quant-research-lab-v0.1.0](https://github.com/ChungKit-WAN/Quant-research-lab-v0.1.0) | Python project | Runs in the browser with a free account | [guide](guides/chungkit-wan/quant-research-lab-v0.1.0.md) |
 <!-- latest:end -->
 
 ## How it works

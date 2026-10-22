@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-22T16:04:51.475Z",
- "totalGuides": 1230,
+ "updatedAt": "2026-10-22T20:11:35.793Z",
+ "totalGuides": 1231,
  "items": [
+  {
+   "fullName": "7API/glm-5.3-abliterated",
+   "owner": "7API",
+   "name": "glm-5.3-abliterated",
+   "url": "https://github.com/7API/glm-5.3-abliterated",
+   "avatar": "https://avatars.githubusercontent.com/u/346469733?v=4",
+   "description": "GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.",
+   "language": null,
+   "topics": [
+    "abliterated",
+    "abliterated-models",
+    "ai-jailbreaks",
+    "anthropic-compatible",
+    "claude-code",
+    "glm",
+    "glm-5-3",
+    "glm-5-3-abliterated"
+   ],
+   "license": "MIT",
+   "stars": 154,
+   "forks": 34,
+   "createdAt": "2026-10-22T16:07:16Z",
+   "branch": "main",
+   "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
+   "addedAt": "2026-10-22T20:11:35.779Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/7API/glm-5.3-abliterated",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/7API/glm-5.3-abliterated/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/7API/glm-5.3-abliterated\nWhat it says it does: \"GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-22T20:11:35.779Z"
+  },
   {
    "fullName": "guanmo-ai/design-style",
    "owner": "guanmo-ai",
@@ -31584,81 +31641,12 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/deciocrytek/Skipii\nWhat it says it does: \"Ad-free YouTube player for Android (Material 3 Expressive)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-14T22:41:35.557Z"
-  },
-  {
-   "fullName": "Entelligence-AI/agentplay",
-   "owner": "Entelligence-AI",
-   "name": "agentplay",
-   "url": "https://github.com/Entelligence-AI/agentplay",
-   "avatar": "https://avatars.githubusercontent.com/u/142467192?v=4",
-   "description": "Replay your coding agent sessions as a map and a timeline",
-   "language": "Python",
-   "topics": [
-    "claude-code",
-    "codex",
-    "coding-agents",
-    "cursor",
-    "developer-tools",
-    "observability"
-   ],
-   "license": "Apache-2.0",
-   "stars": 70,
-   "forks": 3,
-   "createdAt": "2026-10-14T09:06:49Z",
-   "branch": "main",
-   "homepage": "https://entelligence.ai/agentplay",
-   "addedAt": "2026-10-14T22:41:35.361Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Entelligence-AI/agentplay/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Entelligence-AI/agentplay?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Entelligence-AI/agentplay",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Entelligence-AI/agentplay/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Entelligence-AI/agentplay.git\ncd agentplay",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Entelligence-AI/agentplay\nWhat it says it does: \"Replay your coding agent sessions as a map and a timeline\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-14T22:41:35.361Z"
   }
  ],
  "levels": {
-  "account": 233,
+  "read": 121,
+  "account": 232,
   "heavy": 107,
-  "read": 120,
   "instant": 40
  }
 }

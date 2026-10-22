@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1192 guides written so far · last update 2026-10-22 05:58 UTC_
+_1193 guides written so far · last update 2026-10-22 05:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [xingjian-bai/opal](https://github.com/xingjian-bai/opal) | Python project | Runs in the browser with a free account | [guide](guides/xingjian-bai/opal.md) |
 | [zita-ch/supermimic_vibed](https://github.com/zita-ch/supermimic_vibed) | Python project | Runs in the browser with a free account | [guide](guides/zita-ch/supermimic_vibed.md) |
 | [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | Rust project | Runs in the browser with a free account | [guide](guides/torrentplayer/torrentplayer.md) |
 | [isabekastsuc/CinderVM](https://github.com/isabekastsuc/CinderVM) | Rust project | Runs in the browser with a free account | [guide](guides/isabekastsuc/cindervm.md) |
@@ -38,7 +39,6 @@ _1192 guides written so far · last update 2026-10-22 05:58 UTC_
 | [qianshuixia/shrimpreel](https://github.com/qianshuixia/shrimpreel) | Vite app | Runs in a browser tab, no account needed | [guide](guides/qianshuixia/shrimpreel.md) |
 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python project | Runs in the browser with a free account | [guide](guides/feitangyuan/onetake.md) |
 | [obsidianmd/pele](https://github.com/obsidianmd/pele) | JavaScript project | Runs in the browser with a free account | [guide](guides/obsidianmd/pele.md) |
-| [Jakeschincariol/trader-skill](https://github.com/Jakeschincariol/trader-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/trader-skill.md) |
 <!-- latest:end -->
 
 ## How it works

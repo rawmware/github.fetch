@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1224 guides written so far · last update 2026-10-22 16:04 UTC_
+_1225 guides written so far · last update 2026-10-22 16:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [nevenaywgmhe/tiktok-dm-blaster](https://github.com/nevenaywgmhe/tiktok-dm-blaster) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/nevenaywgmhe/tiktok-dm-blaster.md) |
 | [eqyvlbekmlqq/tiktok-view-bot](https://github.com/eqyvlbekmlqq/tiktok-view-bot) | Python project | Runs in the browser with a free account | [guide](guides/eqyvlbekmlqq/tiktok-view-bot.md) |
 | [ezosizcojoaj/roblox-account-switcher](https://github.com/ezosizcojoaj/roblox-account-switcher) | Python project | Runs in the browser with a free account | [guide](guides/ezosizcojoaj/roblox-account-switcher.md) |
 | [bwuxqdmgyeub/pdf-annotate](https://github.com/bwuxqdmgyeub/pdf-annotate) | Python project | Runs in the browser with a free account | [guide](guides/bwuxqdmgyeub/pdf-annotate.md) |
@@ -38,7 +39,6 @@ _1224 guides written so far · last update 2026-10-22 16:04 UTC_
 | [LNPANDY/nxnative-romfs-archive](https://github.com/LNPANDY/nxnative-romfs-archive) | C project | Needs a real machine (or a GPU) to run | [guide](guides/lnpandy/nxnative-romfs-archive.md) |
 | [InariNGT-Ofiicial/dsh-bili-humanism](https://github.com/InariNGT-Ofiicial/dsh-bili-humanism) | Node command-line tool | Runs in the browser with a free account | [guide](guides/inaringt-ofiicial/dsh-bili-humanism.md) |
 | [NelsonEU/arn0-tv](https://github.com/NelsonEU/arn0-tv) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/nelsoneu/arn0-tv.md) |
-| [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rossark0/rossark-motion-skill.md) |
 <!-- latest:end -->
 
 ## How it works

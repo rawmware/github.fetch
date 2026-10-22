@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1239 guides written so far · last update 2026-10-22 20:11 UTC_
+_1240 guides written so far · last update 2026-10-22 20:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [berteotti/custom-tv](https://github.com/berteotti/custom-tv) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/berteotti/custom-tv.md) |
 | [WeWaffles/OneLineage](https://github.com/WeWaffles/OneLineage) | Shell project | Runs in the browser with a free account | [guide](guides/wewaffles/onelineage.md) |
 | [nothinx/naskah-id](https://github.com/nothinx/naskah-id) | Python project | Runs in the browser with a free account | [guide](guides/nothinx/naskah-id.md) |
 | [danisiber/rom-cli](https://github.com/danisiber/rom-cli) | Python project | Runs in the browser with a free account | [guide](guides/danisiber/rom-cli.md) |
@@ -38,7 +39,6 @@ _1239 guides written so far · last update 2026-10-22 20:11 UTC_
 | [7API/glm-5.3-abliterated](https://github.com/7API/glm-5.3-abliterated) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/7api/glm-5.3-abliterated.md) |
 | [guanmo-ai/design-style](https://github.com/guanmo-ai/design-style) | React app | Runs in the browser with a free account | [guide](guides/guanmo-ai/design-style.md) |
 | [cocombee/glass-tv](https://github.com/cocombee/glass-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/cocombee/glass-tv.md) |
-| [mornyeapp/Mornye-Desktop](https://github.com/mornyeapp/Mornye-Desktop) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mornyeapp/mornye-desktop.md) |
 <!-- latest:end -->
 
 ## How it works

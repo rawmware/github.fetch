@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1248 guides written so far · last update 2026-10-23 01:50 UTC_
+_1249 guides written so far · last update 2026-10-23 01:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/dr-xu193/syncnote-community.md) |
 | [Anton-Barinov/php2shell-patches](https://github.com/Anton-Barinov/php2shell-patches) | Shell project | Runs in the browser with a free account | [guide](guides/anton-barinov/php2shell-patches.md) |
 | [JeffKeeping/dsh-purge-plus](https://github.com/JeffKeeping/dsh-purge-plus) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jeffkeeping/dsh-purge-plus.md) |
 | [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/revivedx/savagewindrecomp.md) |
@@ -38,7 +39,6 @@ _1248 guides written so far · last update 2026-10-23 01:50 UTC_
 | [berteotti/custom-tv](https://github.com/berteotti/custom-tv) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/berteotti/custom-tv.md) |
 | [WeWaffles/OneLineage](https://github.com/WeWaffles/OneLineage) | Shell project | Runs in the browser with a free account | [guide](guides/wewaffles/onelineage.md) |
 | [nothinx/naskah-id](https://github.com/nothinx/naskah-id) | Python project | Runs in the browser with a free account | [guide](guides/nothinx/naskah-id.md) |
-| [danisiber/rom-cli](https://github.com/danisiber/rom-cli) | Python project | Runs in the browser with a free account | [guide](guides/danisiber/rom-cli.md) |
 <!-- latest:end -->
 
 ## How it works

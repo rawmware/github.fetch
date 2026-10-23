@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1287 guides written so far · last update 2026-10-23 17:50 UTC_
+_1288 guides written so far · last update 2026-10-23 17:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [verity-mods/verity-enhanced](https://github.com/verity-mods/verity-enhanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/verity-mods/verity-enhanced.md) |
 | [EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/egorbo/blazingfastdotnet.md) |
 | [iam567/rich4-renew-app](https://github.com/iam567/rich4-renew-app) | TypeScript project | Runs in the browser with a free account | [guide](guides/iam567/rich4-renew-app.md) |
 | [sit-in/awesome-grokbot-playbooks](https://github.com/sit-in/awesome-grokbot-playbooks) | HTML project | Runs in the browser with a free account | [guide](guides/sit-in/awesome-grokbot-playbooks.md) |
@@ -38,7 +39,6 @@ _1287 guides written so far · last update 2026-10-23 17:50 UTC_
 | [openmathmodel/open-math-harness](https://github.com/openmathmodel/open-math-harness) | Rust project | Runs in the browser with a free account | [guide](guides/openmathmodel/open-math-harness.md) |
 | [Motphys/Uni-SuperMimic](https://github.com/Motphys/Uni-SuperMimic) | Python project | Runs in the browser with a free account | [guide](guides/motphys/uni-supermimic.md) |
 | [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/appariciojunior/video-editor-skills.md) |
-| [Tom123223/maimen-xinshi](https://github.com/Tom123223/maimen-xinshi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tom123223/maimen-xinshi.md) |
 <!-- latest:end -->
 
 ## How it works

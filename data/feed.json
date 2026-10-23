@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T12:49:22.426Z",
- "totalGuides": 1276,
+ "updatedAt": "2026-10-23T12:49:22.640Z",
+ "totalGuides": 1277,
  "items": [
+  {
+   "fullName": "appariciojunior/video-editor-skills",
+   "owner": "appariciojunior",
+   "name": "video-editor-skills",
+   "url": "https://github.com/appariciojunior/video-editor-skills",
+   "avatar": "https://avatars.githubusercontent.com/u/53934066?v=4",
+   "description": "Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, music & SFX, clean captions, motion graphics, YouTube export. CC BY-NC 4.0 (no commercial use).",
+   "language": null,
+   "topics": [
+    "claude-code",
+    "claude-skills",
+    "davinci-resolve",
+    "remotion",
+    "video-editing",
+    "youtube"
+   ],
+   "license": null,
+   "stars": 72,
+   "forks": 12,
+   "createdAt": "2026-10-23T07:51:02Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T12:49:22.639Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/appariciojunior/video-editor-skills",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/appariciojunior/video-editor-skills/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/appariciojunior/video-editor-skills\nWhat it says it does: \"Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, music & SFX, clean captions, motion graphics, YouTube export. CC BY-NC 4.0 (no commercial use).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T12:49:22.639Z"
+  },
   {
    "fullName": "Tom123223/maimen-xinshi",
    "owner": "Tom123223",
@@ -31819,67 +31874,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Liu-PenPen/Agent-OS\nWhat it says it does: \"智能体操作系统Agent OS\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T15:18:25.770Z"
-  },
-  {
-   "fullName": "tinyhumansai/openscion",
-   "owner": "tinyhumansai",
-   "name": "openscion",
-   "url": "https://github.com/tinyhumansai/openscion",
-   "avatar": "https://avatars.githubusercontent.com/u/246003628?v=4",
-   "description": "OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion",
-   "language": "Rust",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 59,
-   "forks": 8,
-   "createdAt": "2026-10-13T20:59:08Z",
-   "branch": "main",
-   "homepage": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "addedAt": "2026-10-15T15:18:25.453Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/tinyhumansai/openscion?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/tinyhumansai/openscion",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/tinyhumansai/openscion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/tinyhumansai/openscion.git\ncd openscion\ncargo build --release\ncargo run",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/tinyhumansai/openscion\nWhat it says it does: \"OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T15:18:25.453Z"
   }
  ],
  "levels": {
+  "read": 120,
   "instant": 41,
-  "account": 237,
-  "heavy": 103,
-  "read": 119
+  "account": 236,
+  "heavy": 103
  }
 }

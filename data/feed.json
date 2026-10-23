@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T01:50:05.222Z",
- "totalGuides": 1251,
+ "updatedAt": "2026-10-23T01:50:05.441Z",
+ "totalGuides": 1252,
  "items": [
+  {
+   "fullName": "IvanIVGrozny/iOS27.0.1-SPTM-Research",
+   "owner": "IvanIVGrozny",
+   "name": "iOS27.0.1-SPTM-Research",
+   "url": "https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research",
+   "avatar": "https://avatars.githubusercontent.com/u/24865459?v=4",
+   "description": "Summary of the SPTM research on iOS 27.0.1, iPhone Air",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 65,
+   "forks": 13,
+   "createdAt": "2026-10-21T10:44:59Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T01:50:05.440Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/IvanIVGrozny/iOS27.0.1-SPTM-Research/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/IvanIVGrozny/iOS27.0.1-SPTM-Research?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/IvanIVGrozny/iOS27.0.1-SPTM-Research",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research.git\ncd iOS27.0.1-SPTM-Research",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research\nWhat it says it does: \"Summary of the SPTM research on iOS 27.0.1, iPhone Air\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T01:50:05.440Z"
+  },
   {
    "fullName": "rolottr/bambu-bar",
    "owner": "rolottr",
@@ -31683,79 +31745,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/aiwithremy/content-principles\nWhat it says it does: \"A Claude skill that teaches AI how to think about short-form content, instead of filling in a template.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T05:47:32.129Z"
-  },
-  {
-   "fullName": "LSPosed/dexsql-release",
-   "owner": "LSPosed",
-   "name": "dexsql-release",
-   "url": "https://github.com/LSPosed/dexsql-release",
-   "avatar": "https://avatars.githubusercontent.com/u/75879071?v=4",
-   "description": "SQL for Android apk and dex files",
-   "language": "Python",
-   "topics": [
-    "agent",
-    "android",
-    "dex",
-    "mcp-server",
-    "reverse-engineering"
-   ],
-   "license": null,
-   "stars": 72,
-   "forks": 5,
-   "createdAt": "2026-10-14T11:50:40Z",
-   "branch": "master",
-   "homepage": "https://dexsql.lsposed.org",
-   "addedAt": "2026-10-15T05:47:31.912Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/LSPosed/dexsql-release/master",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/LSPosed/dexsql-release?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/LSPosed/dexsql-release",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/LSPosed/dexsql-release/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/LSPosed/dexsql-release.git\ncd dexsql-release",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/LSPosed/dexsql-release\nWhat it says it does: \"SQL for Android apk and dex files\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T05:47:31.912Z"
   }
  ],
  "levels": {
-  "heavy": 105,
   "account": 237,
+  "heavy": 105,
   "instant": 39,
   "read": 119
  }

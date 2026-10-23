@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1251 guides written so far · last update 2026-10-23 01:50 UTC_
+_1252 guides written so far · last update 2026-10-23 01:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [IvanIVGrozny/iOS27.0.1-SPTM-Research](https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research) | Python project | Runs in the browser with a free account | [guide](guides/ivanivgrozny/ios27.0.1-sptm-research.md) |
 | [rolottr/bambu-bar](https://github.com/rolottr/bambu-bar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rolottr/bambu-bar.md) |
 | [alexturkey/voxcpm2-turkce-ses-tasarimi](https://github.com/alexturkey/voxcpm2-turkce-ses-tasarimi) | Python project | Runs in the browser with a free account | [guide](guides/alexturkey/voxcpm2-turkce-ses-tasarimi.md) |
 | [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/dr-xu193/syncnote-community.md) |
@@ -38,7 +39,6 @@ _1251 guides written so far · last update 2026-10-23 01:50 UTC_
 | [NousResearch/hermes-labs-plugins](https://github.com/NousResearch/hermes-labs-plugins) | Python project | Runs in the browser with a free account | [guide](guides/nousresearch/hermes-labs-plugins.md) |
 | [Spectrmachina/Ztrust](https://github.com/Spectrmachina/Ztrust) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/spectrmachina/ztrust.md) |
 | [SukkaW/speed.skk.moe](https://github.com/SukkaW/speed.skk.moe) | Next.js app | Runs in the browser with a free account | [guide](guides/sukkaw/speed.skk.moe.md) |
-| [berteotti/custom-tv](https://github.com/berteotti/custom-tv) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/berteotti/custom-tv.md) |
 <!-- latest:end -->
 
 ## How it works

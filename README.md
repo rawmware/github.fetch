@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1301 guides written so far · last update 2026-10-23 21:18 UTC_
+_1302 guides written so far · last update 2026-10-23 21:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ravensclawx/HBLauncher](https://github.com/ravensclawx/HBLauncher) | JavaScript project | Runs in the browser with a free account | [guide](guides/ravensclawx/hblauncher.md) |
 | [akhiranandan-04/neverlose](https://github.com/akhiranandan-04/neverlose) | PowerShell project | Runs in the browser with a free account | [guide](guides/akhiranandan-04/neverlose.md) |
 | [hiyfoeorihly/ram-purge](https://github.com/hiyfoeorihly/ram-purge) | Python project | Runs in the browser with a free account | [guide](guides/hiyfoeorihly/ram-purge.md) |
 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | Python project | Runs in the browser with a free account | [guide](guides/oil-oil/oil-ui.md) |
@@ -38,7 +39,6 @@ _1301 guides written so far · last update 2026-10-23 21:18 UTC_
 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | Python project | Runs in the browser with a free account | [guide](guides/nanaism/yomiyasu.md) |
 | [egoist/mygo](https://github.com/egoist/mygo) | JavaScript project | Runs in the browser with a free account | [guide](guides/egoist/mygo.md) |
 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | Astro app | Runs in a browser tab, no account needed | [guide](guides/folkbench/folkbench.md) |
-| [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) | C project | Needs a real machine (or a GPU) to run | [guide](guides/stencil-hq/dquickts.md) |
 <!-- latest:end -->
 
 ## How it works

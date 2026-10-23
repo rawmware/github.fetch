@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1250 guides written so far · last update 2026-10-23 01:50 UTC_
+_1251 guides written so far · last update 2026-10-23 01:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rolottr/bambu-bar](https://github.com/rolottr/bambu-bar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rolottr/bambu-bar.md) |
 | [alexturkey/voxcpm2-turkce-ses-tasarimi](https://github.com/alexturkey/voxcpm2-turkce-ses-tasarimi) | Python project | Runs in the browser with a free account | [guide](guides/alexturkey/voxcpm2-turkce-ses-tasarimi.md) |
 | [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/dr-xu193/syncnote-community.md) |
 | [Anton-Barinov/php2shell-patches](https://github.com/Anton-Barinov/php2shell-patches) | Shell project | Runs in the browser with a free account | [guide](guides/anton-barinov/php2shell-patches.md) |
@@ -38,7 +39,6 @@ _1250 guides written so far · last update 2026-10-23 01:50 UTC_
 | [Spectrmachina/Ztrust](https://github.com/Spectrmachina/Ztrust) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/spectrmachina/ztrust.md) |
 | [SukkaW/speed.skk.moe](https://github.com/SukkaW/speed.skk.moe) | Next.js app | Runs in the browser with a free account | [guide](guides/sukkaw/speed.skk.moe.md) |
 | [berteotti/custom-tv](https://github.com/berteotti/custom-tv) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/berteotti/custom-tv.md) |
-| [WeWaffles/OneLineage](https://github.com/WeWaffles/OneLineage) | Shell project | Runs in the browser with a free account | [guide](guides/wewaffles/onelineage.md) |
 <!-- latest:end -->
 
 ## How it works

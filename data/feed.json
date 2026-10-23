@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T01:50:05.013Z",
- "totalGuides": 1250,
+ "updatedAt": "2026-10-23T01:50:05.222Z",
+ "totalGuides": 1251,
  "items": [
+  {
+   "fullName": "rolottr/bambu-bar",
+   "owner": "rolottr",
+   "name": "bambu-bar",
+   "url": "https://github.com/rolottr/bambu-bar",
+   "avatar": "https://avatars.githubusercontent.com/u/85008132?v=4",
+   "description": "Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.",
+   "language": "Swift",
+   "topics": [
+    "3d-printing",
+    "bambu-lab",
+    "macos",
+    "menu-bar",
+    "swiftui",
+    "widgetkit"
+   ],
+   "license": "MIT",
+   "stars": 67,
+   "forks": 4,
+   "createdAt": "2026-10-22T09:33:07Z",
+   "branch": "main",
+   "homepage": "https://x.com/rolottr",
+   "addedAt": "2026-10-23T01:50:05.221Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/rolottr/bambu-bar?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/rolottr/bambu-bar",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/rolottr/bambu-bar/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/rolottr/bambu-bar.git\ncd bambu-bar",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/rolottr/bambu-bar\nWhat it says it does: \"Native macOS menu bar app for Bambu Lab 3D printers. Live progress, time left, temperatures, AMS spools and errors, print controls, several printers and desktop widgets. Local network, no account or cloud.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T01:50:05.221Z"
+  },
   {
    "fullName": "alexturkey/voxcpm2-turkce-ses-tasarimi",
    "owner": "alexturkey",
@@ -31687,74 +31751,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/LSPosed/dexsql-release\nWhat it says it does: \"SQL for Android apk and dex files\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T05:47:31.912Z"
-  },
-  {
-   "fullName": "ananhq/anan-iphone-use",
-   "owner": "ananhq",
-   "name": "anan-iphone-use",
-   "url": "https://github.com/ananhq/anan-iphone-use",
-   "avatar": "https://avatars.githubusercontent.com/u/335435508?v=4",
-   "description": "ESP32 MCP firmware for iPhone USB input, built for M5Stack StopWatch with guided board adaptation",
-   "language": "C",
-   "topics": [
-    "agent-infra",
-    "esp32",
-    "esp32-s3",
-    "iphone-use",
-    "phone-use"
-   ],
-   "license": "GPL-3.0",
-   "stars": 73,
-   "forks": 13,
-   "createdAt": "2026-10-13T12:32:16Z",
-   "branch": "main",
-   "homepage": "https://anan.sh/iphone-use",
-   "addedAt": "2026-10-15T05:47:31.729Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ananhq/anan-iphone-use?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ananhq/anan-iphone-use",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ananhq/anan-iphone-use/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/ananhq/anan-iphone-use.git\ncd anan-iphone-use",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/ananhq/anan-iphone-use\nWhat it says it does: \"ESP32 MCP firmware for iPhone USB input, built for M5Stack StopWatch with guided board adaptation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T05:47:31.729Z"
   }
  ],
  "levels": {
-  "account": 237,
   "heavy": 105,
+  "account": 237,
   "instant": 39,
   "read": 119
  }

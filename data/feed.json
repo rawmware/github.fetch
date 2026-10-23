@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T12:49:24.655Z",
- "totalGuides": 1284,
+ "updatedAt": "2026-10-23T12:49:24.882Z",
+ "totalGuides": 1285,
  "items": [
+  {
+   "fullName": "sit-in/awesome-grokbot-playbooks",
+   "owner": "sit-in",
+   "name": "awesome-grokbot-playbooks",
+   "url": "https://github.com/sit-in/awesome-grokbot-playbooks",
+   "avatar": "https://avatars.githubusercontent.com/u/2328167?v=4",
+   "description": "中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks",
+   "language": "HTML",
+   "topics": [
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "chinese",
+    "grok",
+    "grok-bot",
+    "multi-agent",
+    "playbooks"
+   ],
+   "license": "MIT",
+   "stars": 360,
+   "forks": 40,
+   "createdAt": "2026-10-17T15:47:00Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T12:49:24.881Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/sit-in/awesome-grokbot-playbooks?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/sit-in/awesome-grokbot-playbooks",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/sit-in/awesome-grokbot-playbooks/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/sit-in/awesome-grokbot-playbooks.git\ncd awesome-grokbot-playbooks",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/sit-in/awesome-grokbot-playbooks\nWhat it says it does: \"中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T12:49:24.881Z"
+  },
   {
    "fullName": "nace-ai/kapitsa",
    "owner": "nace-ai",
@@ -31790,82 +31854,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/AsaneNAY/Software-Tools-Collection\nWhat it says it does: \"Software Tools Collection\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T19:15:29.239Z"
-  },
-  {
-   "fullName": "Ayi914/paperchecker",
-   "owner": "Ayi914",
-   "name": "paperchecker",
-   "url": "https://github.com/Ayi914/paperchecker",
-   "avatar": "https://avatars.githubusercontent.com/u/181542453?v=4",
-   "description": "a totally PRIVATE paper agent that help you review your own paper.Prevent other AI company steal your paper and publish as their own work :)",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 56,
-   "forks": 1,
-   "createdAt": "2026-10-15T07:11:33Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T19:15:28.992Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "colab-new",
-   "launch": [
-    {
-     "id": "colab-new",
-     "label": "Google Colab",
-     "url": "https://colab.research.google.com/",
-     "needs": "free Google account",
-     "note": "New notebook, then run: !git clone https://github.com/Ayi914/paperchecker"
-    },
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Ayi914/paperchecker/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Ayi914/paperchecker?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Ayi914/paperchecker",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Ayi914/paperchecker/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [
-    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one."
-   ],
-   "local": "git clone --depth 1 https://github.com/Ayi914/paperchecker.git\ncd paperchecker\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Ayi914/paperchecker\nWhat it says it does: \"a totally PRIVATE paper agent that help you review your own paper.Prevent other AI company steal your paper and publish as their own work :)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T19:15:28.992Z"
   }
  ],
  "levels": {
-  "heavy": 105,
-  "account": 234,
+  "account": 235,
+  "heavy": 104,
   "instant": 41,
   "read": 120
  }

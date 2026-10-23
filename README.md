@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1274 guides written so far · last update 2026-10-23 12:49 UTC_
+_1275 guides written so far · last update 2026-10-23 12:49 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BEN020406/maimen-order-manager](https://github.com/BEN020406/maimen-order-manager) | Python project | Runs in the browser with a free account | [guide](guides/ben020406/maimen-order-manager.md) |
 | [Monopoly0024/simple-reviewer-v1](https://github.com/Monopoly0024/simple-reviewer-v1) | Python project | Runs in the browser with a free account | [guide](guides/monopoly0024/simple-reviewer-v1.md) |
 | [actionow-ai/vvv](https://github.com/actionow-ai/vvv) | Python project | Runs in the browser with a free account | [guide](guides/actionow-ai/vvv.md) |
 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | Rust project | Runs in the browser with a free account | [guide](guides/xevrion/hatchzip.md) |
@@ -38,7 +39,6 @@ _1274 guides written so far · last update 2026-10-23 12:49 UTC_
 | [UCYBERS/PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) | Python project | Runs in the browser with a free account | [guide](guides/ucybers/phonehackscan.md) |
 | [hassan-algo/open-sesame](https://github.com/hassan-algo/open-sesame) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hassan-algo/open-sesame.md) |
 | [nicobailon/pi-cached-compaction](https://github.com/nicobailon/pi-cached-compaction) | JavaScript project | Runs in the browser with a free account | [guide](guides/nicobailon/pi-cached-compaction.md) |
-| [ios151/One-releases](https://github.com/ios151/One-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ios151/one-releases.md) |
 <!-- latest:end -->
 
 ## How it works

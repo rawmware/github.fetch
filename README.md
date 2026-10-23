@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1282 guides written so far · last update 2026-10-23 12:49 UTC_
+_1283 guides written so far · last update 2026-10-23 12:49 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mozihe/z-localization](https://github.com/mozihe/z-localization) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/mozihe/z-localization.md) |
 | [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs) | Rocq Prover project | Runs in the browser with a free account | [guide](guides/theorem-labs/oss-verify-proofs.md) |
 | [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent/wevisone-vl.md) |
 | [PlusF666/mctaste-lab](https://github.com/PlusF666/mctaste-lab) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/plusf666/mctaste-lab.md) |
@@ -38,7 +39,6 @@ _1282 guides written so far · last update 2026-10-23 12:49 UTC_
 | [Monopoly0024/simple-reviewer-v1](https://github.com/Monopoly0024/simple-reviewer-v1) | Python project | Runs in the browser with a free account | [guide](guides/monopoly0024/simple-reviewer-v1.md) |
 | [actionow-ai/vvv](https://github.com/actionow-ai/vvv) | Python project | Runs in the browser with a free account | [guide](guides/actionow-ai/vvv.md) |
 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | Rust project | Runs in the browser with a free account | [guide](guides/xevrion/hatchzip.md) |
-| [BastionPHP/Bastion](https://github.com/BastionPHP/Bastion) | Go project | Runs in the browser with a free account | [guide](guides/bastionphp/bastion.md) |
 <!-- latest:end -->
 
 ## How it works

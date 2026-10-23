@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1290 guides written so far · last update 2026-10-23 17:50 UTC_
+_1291 guides written so far · last update 2026-10-23 17:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | Astro app | Runs in a browser tab, no account needed | [guide](guides/folkbench/folkbench.md) |
 | [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) | C project | Needs a real machine (or a GPU) to run | [guide](guides/stencil-hq/dquickts.md) |
 | [mrcen3204097569-spec/lean-electron-vue](https://github.com/mrcen3204097569-spec/lean-electron-vue) | Vite app | Runs in the browser with a free account | [guide](guides/mrcen3204097569-spec/lean-electron-vue.md) |
 | [verity-mods/verity-enhanced](https://github.com/verity-mods/verity-enhanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/verity-mods/verity-enhanced.md) |
@@ -38,7 +39,6 @@ _1290 guides written so far · last update 2026-10-23 17:50 UTC_
 | [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs) | Rocq Prover project | Runs in the browser with a free account | [guide](guides/theorem-labs/oss-verify-proofs.md) |
 | [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent/wevisone-vl.md) |
 | [PlusF666/mctaste-lab](https://github.com/PlusF666/mctaste-lab) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/plusf666/mctaste-lab.md) |
-| [openmathmodel/open-math-harness](https://github.com/openmathmodel/open-math-harness) | Rust project | Runs in the browser with a free account | [guide](guides/openmathmodel/open-math-harness.md) |
 <!-- latest:end -->
 
 ## How it works

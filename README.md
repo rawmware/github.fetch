@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1310 guides written so far · last update 2026-10-23 23:53 UTC_
+_1311 guides written so far · last update 2026-10-23 23:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [xynbspqmochf/.github](https://github.com/xynbspqmochf/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xynbspqmochf/.github.md) |
 | [onchain-trading-bot/.github](https://github.com/onchain-trading-bot/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/onchain-trading-bot/.github.md) |
 | [tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop](https://github.com/tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop.md) |
 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/trhhubsd/artex.md) |
@@ -38,7 +39,6 @@ _1310 guides written so far · last update 2026-10-23 23:53 UTC_
 | [ravensclawx/HBLauncher](https://github.com/ravensclawx/HBLauncher) | JavaScript project | Runs in the browser with a free account | [guide](guides/ravensclawx/hblauncher.md) |
 | [akhiranandan-04/neverlose](https://github.com/akhiranandan-04/neverlose) | PowerShell project | Runs in the browser with a free account | [guide](guides/akhiranandan-04/neverlose.md) |
 | [hiyfoeorihly/ram-purge](https://github.com/hiyfoeorihly/ram-purge) | Python project | Runs in the browser with a free account | [guide](guides/hiyfoeorihly/ram-purge.md) |
-| [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | Python project | Runs in the browser with a free account | [guide](guides/oil-oil/oil-ui.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1305 guides written so far · last update 2026-10-23 21:18 UTC_
+_1306 guides written so far · last update 2026-10-23 21:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [perplexityai/SPACE](https://github.com/perplexityai/SPACE) | Python project | Runs in the browser with a free account | [guide](guides/perplexityai/space.md) |
 | [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | Scala project | Runs in the browser with a free account | [guide](guides/notprotonnot/notproton.md) |
 | [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/mmparko/dsh-purge.md) |
 | [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Python project | Runs in the browser with a free account | [guide](guides/reacher-z/awesome-rea.md) |
@@ -38,7 +39,6 @@ _1305 guides written so far · last update 2026-10-23 21:18 UTC_
 | [852wa/JIZURA](https://github.com/852wa/JIZURA) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/852wa/jizura.md) |
 | [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) | Go project | Runs in the browser with a free account | [guide](guides/jiwoochris/artex-global.md) |
 | [openfilm/openfilm](https://github.com/openfilm/openfilm) | JavaScript project | Runs in the browser with a free account | [guide](guides/openfilm/openfilm.md) |
-| [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/nano-muse/nanomuse.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T21:18:56.158Z",
- "totalGuides": 1305,
+ "updatedAt": "2026-10-23T21:18:56.493Z",
+ "totalGuides": 1306,
  "items": [
+  {
+   "fullName": "perplexityai/SPACE",
+   "owner": "perplexityai",
+   "name": "SPACE",
+   "url": "https://github.com/perplexityai/SPACE",
+   "avatar": "https://avatars.githubusercontent.com/u/185426709?v=4",
+   "description": "Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.",
+   "language": "Rust",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 1907,
+   "forks": 163,
+   "createdAt": "2026-10-01T18:43:46Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T21:18:56.493Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/perplexityai/SPACE/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/perplexityai/SPACE?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/perplexityai/SPACE",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/perplexityai/SPACE/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/perplexityai/SPACE.git\ncd SPACE\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/perplexityai/SPACE\nWhat it says it does: \"Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T21:18:56.493Z"
+  },
   {
    "fullName": "NotProtonNot/NotProton",
    "owner": "NotProtonNot",
@@ -31881,68 +31943,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/kungec/kunpanel\nWhat it says it does: \"坤面板 KunPanel —— Go 单二进制轻量级服务器运维管理面板(网站/应用商店/Docker/WAF/监控/终端),支持 Linux 全系统与 Windows 一键安装。Single-binary server management panel in Go.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T00:40:21.820Z"
-  },
-  {
-   "fullName": "JeffLi1993/open-growth-skills",
-   "owner": "JeffLi1993",
-   "name": "open-growth-skills",
-   "url": "https://github.com/JeffLi1993/open-growth-skills",
-   "avatar": "https://avatars.githubusercontent.com/u/6890948?v=4",
-   "description": "All in one AI Agent Skills for Growth",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 46,
-   "forks": 11,
-   "createdAt": "2026-10-14T03:00:21Z",
-   "branch": "main",
-   "homepage": "https://bysocket.com/",
-   "addedAt": "2026-10-16T00:40:21.625Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/JeffLi1993/open-growth-skills/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/JeffLi1993/open-growth-skills?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/JeffLi1993/open-growth-skills",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/JeffLi1993/open-growth-skills/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/JeffLi1993/open-growth-skills.git\ncd open-growth-skills",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/JeffLi1993/open-growth-skills\nWhat it says it does: \"All in one AI Agent Skills for Growth\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T00:40:21.625Z"
   }
  ],
  "levels": {

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1299 guides written so far · last update 2026-10-23 17:50 UTC_
+_1300 guides written so far · last update 2026-10-23 21:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hiyfoeorihly/ram-purge](https://github.com/hiyfoeorihly/ram-purge) | Python project | Runs in the browser with a free account | [guide](guides/hiyfoeorihly/ram-purge.md) |
 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | Python project | Runs in the browser with a free account | [guide](guides/oil-oil/oil-ui.md) |
 | [oxc-project/tsrs](https://github.com/oxc-project/tsrs) | JavaScript project | Runs in the browser with a free account | [guide](guides/oxc-project/tsrs.md) |
 | [852wa/JIZURA](https://github.com/852wa/JIZURA) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/852wa/jizura.md) |
@@ -38,7 +39,6 @@ _1299 guides written so far · last update 2026-10-23 17:50 UTC_
 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | Astro app | Runs in a browser tab, no account needed | [guide](guides/folkbench/folkbench.md) |
 | [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) | C project | Needs a real machine (or a GPU) to run | [guide](guides/stencil-hq/dquickts.md) |
 | [mrcen3204097569-spec/lean-electron-vue](https://github.com/mrcen3204097569-spec/lean-electron-vue) | Vite app | Runs in the browser with a free account | [guide](guides/mrcen3204097569-spec/lean-electron-vue.md) |
-| [verity-mods/verity-enhanced](https://github.com/verity-mods/verity-enhanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/verity-mods/verity-enhanced.md) |
 <!-- latest:end -->
 
 ## How it works

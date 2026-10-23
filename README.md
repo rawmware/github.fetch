@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1286 guides written so far · last update 2026-10-23 12:49 UTC_
+_1287 guides written so far · last update 2026-10-23 17:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/egorbo/blazingfastdotnet.md) |
 | [iam567/rich4-renew-app](https://github.com/iam567/rich4-renew-app) | TypeScript project | Runs in the browser with a free account | [guide](guides/iam567/rich4-renew-app.md) |
 | [sit-in/awesome-grokbot-playbooks](https://github.com/sit-in/awesome-grokbot-playbooks) | HTML project | Runs in the browser with a free account | [guide](guides/sit-in/awesome-grokbot-playbooks.md) |
 | [nace-ai/kapitsa](https://github.com/nace-ai/kapitsa) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/nace-ai/kapitsa.md) |
@@ -38,7 +39,6 @@ _1286 guides written so far · last update 2026-10-23 12:49 UTC_
 | [Motphys/Uni-SuperMimic](https://github.com/Motphys/Uni-SuperMimic) | Python project | Runs in the browser with a free account | [guide](guides/motphys/uni-supermimic.md) |
 | [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/appariciojunior/video-editor-skills.md) |
 | [Tom123223/maimen-xinshi](https://github.com/Tom123223/maimen-xinshi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tom123223/maimen-xinshi.md) |
-| [BEN020406/maimen-order-manager](https://github.com/BEN020406/maimen-order-manager) | Python project | Runs in the browser with a free account | [guide](guides/ben020406/maimen-order-manager.md) |
 <!-- latest:end -->
 
 ## How it works

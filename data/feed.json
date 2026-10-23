@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T12:49:21.274Z",
- "totalGuides": 1272,
+ "updatedAt": "2026-10-23T12:49:21.658Z",
+ "totalGuides": 1273,
  "items": [
+  {
+   "fullName": "actionow-ai/vvv",
+   "owner": "actionow-ai",
+   "name": "vvv",
+   "url": "https://github.com/actionow-ai/vvv",
+   "avatar": "https://avatars.githubusercontent.com/u/255481024?v=4",
+   "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 208,
+   "forks": 56,
+   "createdAt": "2026-10-22T07:29:54Z",
+   "branch": "main",
+   "homepage": "https://vibevision.video",
+   "addedAt": "2026-10-23T12:49:21.657Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/actionow-ai/vvv/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/actionow-ai/vvv?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/actionow-ai/vvv",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/actionow-ai/vvv/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/actionow-ai/vvv.git\ncd vvv\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/actionow-ai/vvv\nWhat it says it does: \"Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T12:49:21.657Z"
+  },
   {
    "fullName": "xevrion/hatchzip",
    "owner": "xevrion",
@@ -31783,69 +31845,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/antirez/c64-hw-simulator\nWhat it says it does: \"Commodore 64 hardware simulator\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T15:18:24.869Z"
-  },
-  {
-   "fullName": "centimotormancavity/youtube-tiktok-video-manager-downloader",
-   "owner": "centimotormancavity",
-   "name": "youtube-tiktok-video-manager-downloader",
-   "url": "https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader",
-   "avatar": "https://avatars.githubusercontent.com/u/319473369?v=4",
-   "description": "youtube-tiktok-video-manager, video organization, multi-platform sharing, content scheduling, analytics tracking",
-   "language": null,
-   "topics": [
-    "analytics-tools",
-    "content-creation",
-    "content-organization",
-    "cross-platform-sharing",
-    "social-media-integration",
-    "social-media-tools",
-    "tiktok-api",
-    "user-engagement"
-   ],
-   "license": "Apache-2.0",
-   "stars": 99,
-   "forks": 0,
-   "createdAt": "2026-10-15T13:48:38Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T15:18:24.644Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader\nWhat it says it does: \"youtube-tiktok-video-manager, video organization, multi-platform sharing, content scheduling, analytics tracking\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T15:18:24.644Z"
   }
  ],
  "levels": {
-  "account": 234,
+  "account": 235,
   "heavy": 106,
   "instant": 40,
-  "read": 120
+  "read": 119
  }
 }

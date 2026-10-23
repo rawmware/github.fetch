@@ -1,8 +1,69 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T21:18:55.043Z",
- "totalGuides": 1300,
+ "updatedAt": "2026-10-23T21:18:55.242Z",
+ "totalGuides": 1301,
  "items": [
+  {
+   "fullName": "akhiranandan-04/neverlose",
+   "owner": "akhiranandan-04",
+   "name": "neverlose",
+   "url": "https://github.com/akhiranandan-04/neverlose",
+   "avatar": "https://avatars.githubusercontent.com/u/184222546?v=4",
+   "description": "Published: 2026-10-23",
+   "language": "PowerShell",
+   "topics": [
+    "community",
+    "csgo",
+    "documentation",
+    "gaming",
+    "neverlose"
+   ],
+   "license": "MIT",
+   "stars": 84,
+   "forks": 0,
+   "createdAt": "2026-10-23T19:29:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T21:18:55.241Z",
+   "stack": {
+    "kind": "other",
+    "label": "PowerShell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/akhiranandan-04/neverlose?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/akhiranandan-04/neverlose",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/akhiranandan-04/neverlose/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/akhiranandan-04/neverlose.git\ncd neverlose",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/akhiranandan-04/neverlose\nWhat it says it does: \"Published: 2026-10-23\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T21:18:55.241Z"
+  },
   {
    "fullName": "hiyfoeorihly/ram-purge",
    "owner": "hiyfoeorihly",
@@ -31860,66 +31921,6 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/TasnadiAttila/onlyfans-ai-creator-video-downloader-uploader-free\nWhat it says it does: \"Creator media management suite: batch downloading, scheduled uploads, AI asset generation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T00:40:20.907Z"
-  },
-  {
-   "fullName": "storytold/designcraft",
-   "owner": "storytold",
-   "name": "designcraft",
-   "url": "https://github.com/storytold/designcraft",
-   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
-   "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
-   "language": "Rust",
-   "topics": [
-    "art",
-    "layout",
-    "print",
-    "rust"
-   ],
-   "license": "Apache-2.0",
-   "stars": 4085,
-   "forks": 2797,
-   "createdAt": "2026-10-01T13:13:14Z",
-   "branch": "main",
-   "homepage": "https://getartcraft.com/apps/designcraft",
-   "addedAt": "2026-10-15T22:27:17.631Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/storytold/designcraft?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/storytold/designcraft",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/storytold/designcraft/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/storytold/designcraft.git\ncd designcraft\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/storytold/designcraft\nWhat it says it does: \"DesignCraft: An open-source page and layout design editor written by scratch in pure Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T22:27:17.631Z"
   }
  ],
  "levels": {

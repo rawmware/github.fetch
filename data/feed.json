@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T21:18:56.493Z",
- "totalGuides": 1306,
+ "updatedAt": "2026-10-23T21:18:56.706Z",
+ "totalGuides": 1307,
  "items": [
+  {
+   "fullName": "angusdevgo/Seep-Reverse-Lab",
+   "owner": "angusdevgo",
+   "name": "Seep-Reverse-Lab",
+   "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+   "avatar": "https://avatars.githubusercontent.com/u/89133686?v=4",
+   "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+   "language": "Lua",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 1827,
+   "forks": 676,
+   "createdAt": "2026-09-23T18:05:31Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T21:18:56.705Z",
+   "stack": {
+    "kind": "other",
+    "label": "Lua project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/angusdevgo/Seep-Reverse-Lab?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/angusdevgo/Seep-Reverse-Lab",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/angusdevgo/Seep-Reverse-Lab/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/angusdevgo/Seep-Reverse-Lab.git\ncd Seep-Reverse-Lab",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/angusdevgo/Seep-Reverse-Lab\nWhat it says it does: \"Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T21:18:56.705Z"
+  },
   {
    "fullName": "perplexityai/SPACE",
    "owner": "perplexityai",
@@ -31888,61 +31943,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/shishir0x/GoogleUnlimited\nWhat it says it does: \"Unlimited Google Photos auto-sync on Windows with Pixel original quality spoofing — native, portable, and zero-quota.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T05:08:20.615Z"
-  },
-  {
-   "fullName": "kungec/kunpanel",
-   "owner": "kungec",
-   "name": "kunpanel",
-   "url": "https://github.com/kungec/kunpanel",
-   "avatar": "https://avatars.githubusercontent.com/u/330999056?v=4",
-   "description": "坤面板 KunPanel —— Go 单二进制轻量级服务器运维管理面板(网站/应用商店/Docker/WAF/监控/终端),支持 Linux 全系统与 Windows 一键安装。Single-binary server management panel in Go.",
-   "language": "Go",
-   "topics": [],
-   "license": "MIT",
-   "stars": 45,
-   "forks": 11,
-   "createdAt": "2026-10-14T16:26:24Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T00:40:21.820Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/kungec/kunpanel?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/kungec/kunpanel",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kungec/kunpanel/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": "go run .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/kungec/kunpanel.git\ncd kunpanel\ngo build ./...\ngo run .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/kungec/kunpanel\nWhat it says it does: \"坤面板 KunPanel —— Go 单二进制轻量级服务器运维管理面板(网站/应用商店/Docker/WAF/监控/终端),支持 Linux 全系统与 Windows 一键安装。Single-binary server management panel in Go.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T00:40:21.820Z"
   }
  ],
  "levels": {

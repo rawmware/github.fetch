@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1258 guides written so far · last update 2026-10-23 07:21 UTC_
+_1259 guides written so far · last update 2026-10-23 07:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dex-tool-best/.github](https://github.com/dex-tool-best/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/dex-tool-best/.github.md) |
 | [df-tools-bn/.github](https://github.com/df-tools-bn/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/df-tools-bn/.github.md) |
 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/snapintosh/snapintosh.md) |
 | [talharaziq/Advanced-Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talharaziq/advanced-bioinformatics.md) |
@@ -38,7 +39,6 @@ _1258 guides written so far · last update 2026-10-23 07:21 UTC_
 | [alexturkey/voxcpm2-turkce-ses-tasarimi](https://github.com/alexturkey/voxcpm2-turkce-ses-tasarimi) | Python project | Runs in the browser with a free account | [guide](guides/alexturkey/voxcpm2-turkce-ses-tasarimi.md) |
 | [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/dr-xu193/syncnote-community.md) |
 | [Anton-Barinov/php2shell-patches](https://github.com/Anton-Barinov/php2shell-patches) | Shell project | Runs in the browser with a free account | [guide](guides/anton-barinov/php2shell-patches.md) |
-| [JeffKeeping/dsh-purge-plus](https://github.com/JeffKeeping/dsh-purge-plus) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jeffkeeping/dsh-purge-plus.md) |
 <!-- latest:end -->
 
 ## How it works

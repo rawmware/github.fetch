@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T17:50:14.579Z",
- "totalGuides": 1292,
+ "updatedAt": "2026-10-23T17:50:14.948Z",
+ "totalGuides": 1293,
  "items": [
+  {
+   "fullName": "nanaism/yomiyasu",
+   "owner": "nanaism",
+   "name": "yomiyasu",
+   "url": "https://github.com/nanaism/yomiyasu",
+   "avatar": "https://avatars.githubusercontent.com/u/72681409?v=4",
+   "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-writing",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini",
+    "japanese"
+   ],
+   "license": "MIT",
+   "stars": 2436,
+   "forks": 64,
+   "createdAt": "2026-09-30T11:49:32Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T17:50:14.947Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/nanaism/yomiyasu/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/nanaism/yomiyasu?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/nanaism/yomiyasu",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/nanaism/yomiyasu/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/nanaism/yomiyasu.git\ncd yomiyasu",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/nanaism/yomiyasu\nWhat it says it does: \"AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T17:50:14.947Z"
+  },
   {
    "fullName": "egoist/mygo",
    "owner": "egoist",
@@ -31804,92 +31875,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/wanderingspirit03/ambition-skill\nWhat it says it does: \"Claude Code skill: rewrite a task into a more ambitious version (altitude, depth, range)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T22:27:15.913Z"
-  },
-  {
-   "fullName": "thesysdev/open-intelligent-ui",
-   "owner": "thesysdev",
-   "name": "open-intelligent-ui",
-   "url": "https://github.com/thesysdev/open-intelligent-ui",
-   "avatar": "https://avatars.githubusercontent.com/u/155424887?v=4",
-   "description": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
-   "language": "TypeScript",
-   "topics": [
-    "agents",
-    "ai",
-    "ai-agents",
-    "ai-ui",
-    "chat-ui",
-    "chatgpt",
-    "generative-ui",
-    "intelligent-ui"
-   ],
-   "license": null,
-   "stars": 385,
-   "forks": 27,
-   "createdAt": "2026-10-08T05:37:45Z",
-   "branch": "main",
-   "homepage": "https://www.openui.com/demo/intelligent-ui",
-   "addedAt": "2026-10-15T19:15:31.361Z",
-   "stack": {
-    "kind": "node",
-    "label": "Next.js app",
-    "frameworks": [
-     "Next.js",
-     "React"
-    ]
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/thesysdev/open-intelligent-ui",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/thesysdev/open-intelligent-ui",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/thesysdev/open-intelligent-ui?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/thesysdev/open-intelligent-ui",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/thesysdev/open-intelligent-ui/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm run dev",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/thesysdev/open-intelligent-ui.git\ncd open-intelligent-ui\nnpm install\nnpm run dev",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/thesysdev/open-intelligent-ui\nWhat it says it does: \"An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T19:15:31.361Z"
   }
  ],
  "levels": {
-  "account": 235,
-  "instant": 41,
+  "account": 236,
+  "instant": 40,
   "heavy": 105,
   "read": 119
  }

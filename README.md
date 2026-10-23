@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1292 guides written so far · last update 2026-10-23 17:50 UTC_
+_1293 guides written so far · last update 2026-10-23 17:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | Python project | Runs in the browser with a free account | [guide](guides/nanaism/yomiyasu.md) |
 | [egoist/mygo](https://github.com/egoist/mygo) | JavaScript project | Runs in the browser with a free account | [guide](guides/egoist/mygo.md) |
 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | Astro app | Runs in a browser tab, no account needed | [guide](guides/folkbench/folkbench.md) |
 | [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) | C project | Needs a real machine (or a GPU) to run | [guide](guides/stencil-hq/dquickts.md) |
@@ -38,7 +39,6 @@ _1292 guides written so far · last update 2026-10-23 17:50 UTC_
 | [nace-ai/kapitsa](https://github.com/nace-ai/kapitsa) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/nace-ai/kapitsa.md) |
 | [mozihe/z-localization](https://github.com/mozihe/z-localization) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/mozihe/z-localization.md) |
 | [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs) | Rocq Prover project | Runs in the browser with a free account | [guide](guides/theorem-labs/oss-verify-proofs.md) |
-| [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent/wevisone-vl.md) |
 <!-- latest:end -->
 
 ## How it works

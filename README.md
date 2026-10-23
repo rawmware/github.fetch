@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1263 guides written so far · last update 2026-10-23 07:21 UTC_
+_1264 guides written so far · last update 2026-10-23 07:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [nicobailon/pi-cached-compaction](https://github.com/nicobailon/pi-cached-compaction) | JavaScript project | Runs in the browser with a free account | [guide](guides/nicobailon/pi-cached-compaction.md) |
 | [ios151/One-releases](https://github.com/ios151/One-releases) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ios151/one-releases.md) |
 | [Wunsch2048/codex-bailong-desktop-pet](https://github.com/Wunsch2048/codex-bailong-desktop-pet) | Python project | Runs in the browser with a free account | [guide](guides/wunsch2048/codex-bailong-desktop-pet.md) |
 | [DLSS5-Swapper-2026-Download/.github](https://github.com/DLSS5-Swapper-2026-Download/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss5-swapper-2026-download/.github.md) |
@@ -38,7 +39,6 @@ _1263 guides written so far · last update 2026-10-23 07:21 UTC_
 | [JMS1717/ming-voice](https://github.com/JMS1717/ming-voice) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/jms1717/ming-voice.md) |
 | [Mrquillwing/hello_world-](https://github.com/Mrquillwing/hello_world-) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mrquillwing/hello_world-.md) |
 | [TencentARC/Looking-Ahead](https://github.com/TencentARC/Looking-Ahead) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/tencentarc/looking-ahead.md) |
-| [IvanIVGrozny/iOS27.0.1-SPTM-Research](https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research) | Python project | Runs in the browser with a free account | [guide](guides/ivanivgrozny/ios27.0.1-sptm-research.md) |
 <!-- latest:end -->
 
 ## How it works

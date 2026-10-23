@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1266 guides written so far · last update 2026-10-23 07:21 UTC_
+_1267 guides written so far · last update 2026-10-23 07:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [leontdi/marco-familiar-dashboard](https://github.com/leontdi/marco-familiar-dashboard) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/leontdi/marco-familiar-dashboard.md) |
 | [UCYBERS/PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) | Python project | Runs in the browser with a free account | [guide](guides/ucybers/phonehackscan.md) |
 | [hassan-algo/open-sesame](https://github.com/hassan-algo/open-sesame) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hassan-algo/open-sesame.md) |
 | [nicobailon/pi-cached-compaction](https://github.com/nicobailon/pi-cached-compaction) | JavaScript project | Runs in the browser with a free account | [guide](guides/nicobailon/pi-cached-compaction.md) |
@@ -38,7 +39,6 @@ _1266 guides written so far · last update 2026-10-23 07:21 UTC_
 | [df-tools-bn/.github](https://github.com/df-tools-bn/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/df-tools-bn/.github.md) |
 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/snapintosh/snapintosh.md) |
 | [talharaziq/Advanced-Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talharaziq/advanced-bioinformatics.md) |
-| [JMS1717/ming-voice](https://github.com/JMS1717/ming-voice) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/jms1717/ming-voice.md) |
 <!-- latest:end -->
 
 ## How it works

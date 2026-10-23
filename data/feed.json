@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T12:49:24.408Z",
- "totalGuides": 1283,
+ "updatedAt": "2026-10-23T12:49:24.655Z",
+ "totalGuides": 1284,
  "items": [
+  {
+   "fullName": "nace-ai/kapitsa",
+   "owner": "nace-ai",
+   "name": "kapitsa",
+   "url": "https://github.com/nace-ai/kapitsa",
+   "avatar": "https://avatars.githubusercontent.com/u/167709996?v=4",
+   "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
+   "language": "C++",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 373,
+   "forks": 55,
+   "createdAt": "2026-10-16T00:41:59Z",
+   "branch": "main",
+   "homepage": "https://x.com/kapitsaserve",
+   "addedAt": "2026-10-23T12:49:24.655Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/nace-ai/kapitsa?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/nace-ai/kapitsa",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/nace-ai/kapitsa/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/nace-ai/kapitsa.git\ncd kapitsa",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/nace-ai/kapitsa\nWhat it says it does: \"Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T12:49:24.655Z"
+  },
   {
    "fullName": "mozihe/z-localization",
    "owner": "mozihe",
@@ -31804,63 +31861,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Ayi914/paperchecker\nWhat it says it does: \"a totally PRIVATE paper agent that help you review your own paper.Prevent other AI company steal your paper and publish as their own work :)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T19:15:28.992Z"
-  },
-  {
-   "fullName": "0herculabs/hl360-Forza2",
-   "owner": "0herculabs",
-   "name": "hl360-Forza2",
-   "url": "https://github.com/0herculabs/hl360-Forza2",
-   "avatar": "https://avatars.githubusercontent.com/u/268227196?v=4",
-   "description": "Forza Motorsport 2 native on PC",
-   "language": "C++",
-   "topics": [],
-   "license": null,
-   "stars": 56,
-   "forks": 4,
-   "createdAt": "2026-10-13T12:23:04Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T19:15:28.639Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/0herculabs/hl360-Forza2?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/0herculabs/hl360-Forza2",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/0herculabs/hl360-Forza2/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/0herculabs/hl360-Forza2.git\ncd hl360-Forza2",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/0herculabs/hl360-Forza2\nWhat it says it does: \"Forza Motorsport 2 native on PC\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T19:15:28.639Z"
   }
  ],
  "levels": {

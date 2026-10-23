@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1283 guides written so far · last update 2026-10-23 12:49 UTC_
+_1284 guides written so far · last update 2026-10-23 12:49 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [nace-ai/kapitsa](https://github.com/nace-ai/kapitsa) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/nace-ai/kapitsa.md) |
 | [mozihe/z-localization](https://github.com/mozihe/z-localization) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/mozihe/z-localization.md) |
 | [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs) | Rocq Prover project | Runs in the browser with a free account | [guide](guides/theorem-labs/oss-verify-proofs.md) |
 | [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent/wevisone-vl.md) |
@@ -38,7 +39,6 @@ _1283 guides written so far · last update 2026-10-23 12:49 UTC_
 | [BEN020406/maimen-order-manager](https://github.com/BEN020406/maimen-order-manager) | Python project | Runs in the browser with a free account | [guide](guides/ben020406/maimen-order-manager.md) |
 | [Monopoly0024/simple-reviewer-v1](https://github.com/Monopoly0024/simple-reviewer-v1) | Python project | Runs in the browser with a free account | [guide](guides/monopoly0024/simple-reviewer-v1.md) |
 | [actionow-ai/vvv](https://github.com/actionow-ai/vvv) | Python project | Runs in the browser with a free account | [guide](guides/actionow-ai/vvv.md) |
-| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | Rust project | Runs in the browser with a free account | [guide](guides/xevrion/hatchzip.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1267 guides written so far · last update 2026-10-23 07:21 UTC_
+_1268 guides written so far · last update 2026-10-23 07:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pentestershell/php2shellbt](https://github.com/pentestershell/php2shellbt) | Python project | Runs in the browser with a free account | [guide](guides/pentestershell/php2shellbt.md) |
 | [leontdi/marco-familiar-dashboard](https://github.com/leontdi/marco-familiar-dashboard) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/leontdi/marco-familiar-dashboard.md) |
 | [UCYBERS/PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) | Python project | Runs in the browser with a free account | [guide](guides/ucybers/phonehackscan.md) |
 | [hassan-algo/open-sesame](https://github.com/hassan-algo/open-sesame) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hassan-algo/open-sesame.md) |
@@ -38,7 +39,6 @@ _1267 guides written so far · last update 2026-10-23 07:21 UTC_
 | [dex-tool-best/.github](https://github.com/dex-tool-best/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/dex-tool-best/.github.md) |
 | [df-tools-bn/.github](https://github.com/df-tools-bn/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/df-tools-bn/.github.md) |
 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/snapintosh/snapintosh.md) |
-| [talharaziq/Advanced-Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talharaziq/advanced-bioinformatics.md) |
 <!-- latest:end -->
 
 ## How it works

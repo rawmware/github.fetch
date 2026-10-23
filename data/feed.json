@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T07:21:23.047Z",
- "totalGuides": 1271,
+ "updatedAt": "2026-10-23T12:49:21.274Z",
+ "totalGuides": 1272,
  "items": [
+  {
+   "fullName": "xevrion/hatchzip",
+   "owner": "xevrion",
+   "name": "hatchzip",
+   "url": "https://github.com/xevrion/hatchzip",
+   "avatar": "https://avatars.githubusercontent.com/u/77008538?v=4",
+   "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+   "language": "Rust",
+   "topics": [
+    "7z",
+    "archive",
+    "cli",
+    "crash-safe",
+    "disk-space",
+    "extract",
+    "extractor",
+    "gui"
+   ],
+   "license": "Apache-2.0",
+   "stars": 310,
+   "forks": 8,
+   "createdAt": "2026-10-21T17:29:28Z",
+   "branch": "main",
+   "homepage": "https://xevrion.github.io/hatchzip/",
+   "addedAt": "2026-10-23T12:49:21.259Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/xevrion/hatchzip?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/xevrion/hatchzip",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/xevrion/hatchzip/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/xevrion/hatchzip.git\ncd hatchzip\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/xevrion/hatchzip\nWhat it says it does: \"Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T12:49:21.259Z"
+  },
   {
    "fullName": "BastionPHP/Bastion",
    "owner": "BastionPHP",
@@ -31776,61 +31840,6 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/centimotormancavity/youtube-tiktok-video-manager-downloader\nWhat it says it does: \"youtube-tiktok-video-manager, video organization, multi-platform sharing, content scheduling, analytics tracking\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T15:18:24.644Z"
-  },
-  {
-   "fullName": "ctresb/leis",
-   "owner": "ctresb",
-   "name": "leis",
-   "url": "https://github.com/ctresb/leis",
-   "avatar": "https://avatars.githubusercontent.com/u/48084136?v=4",
-   "description": "Todas as leis do Brasil",
-   "language": "HTML",
-   "topics": [],
-   "license": null,
-   "stars": 101,
-   "forks": 16,
-   "createdAt": "2026-10-15T01:40:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T15:18:24.380Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ctresb/leis?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ctresb/leis",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ctresb/leis/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ctresb/leis.git\ncd leis",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ctresb/leis\nWhat it says it does: \"Todas as leis do Brasil\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T15:18:24.380Z"
   }
  ],
  "levels": {

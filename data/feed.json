@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T12:49:22.957Z",
- "totalGuides": 1278,
+ "updatedAt": "2026-10-23T12:49:23.142Z",
+ "totalGuides": 1279,
  "items": [
+  {
+   "fullName": "openmathmodel/open-math-harness",
+   "owner": "openmathmodel",
+   "name": "open-math-harness",
+   "url": "https://github.com/openmathmodel/open-math-harness",
+   "avatar": "https://avatars.githubusercontent.com/u/330179988?v=4",
+   "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
+   "language": "Rust",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 69,
+   "forks": 4,
+   "createdAt": "2026-10-22T08:17:44Z",
+   "branch": "main",
+   "homepage": "https://www.openmathmodel.org/",
+   "addedAt": "2026-10-23T12:49:23.141Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/openmathmodel/open-math-harness?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/openmathmodel/open-math-harness",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/openmathmodel/open-math-harness/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/openmathmodel/open-math-harness.git\ncd open-math-harness\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/openmathmodel/open-math-harness\nWhat it says it does: \"The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T12:49:23.141Z"
+  },
   {
    "fullName": "Motphys/Uni-SuperMimic",
    "owner": "Motphys",
@@ -31806,74 +31861,6 @@
    "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/Ernket/CodeScan-Artex\nWhat it says it does: \"二开artex的代码审计平台\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T15:18:26.165Z"
-  },
-  {
-   "fullName": "10291124jcjc-dotcom/ancient-rap-battle",
-   "owner": "10291124jcjc-dotcom",
-   "name": "ancient-rap-battle",
-   "url": "https://github.com/10291124jcjc-dotcom/ancient-rap-battle",
-   "avatar": "https://avatars.githubusercontent.com/u/275983648?v=4",
-   "description": "古人说唱 Battle：一句话做一期 AI 历史人物说唱对决视频的 Claude Code Skill（Suno + Midjourney + MiniMax H3 对口型）",
-   "language": "Python",
-   "topics": [
-    "ai-video",
-    "claude-code",
-    "claude-skill",
-    "minimax",
-    "rap-battle"
-   ],
-   "license": "MIT",
-   "stars": 56,
-   "forks": 9,
-   "createdAt": "2026-10-13T15:38:55Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T15:18:25.970Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/10291124jcjc-dotcom/ancient-rap-battle/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/10291124jcjc-dotcom/ancient-rap-battle?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/10291124jcjc-dotcom/ancient-rap-battle",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/10291124jcjc-dotcom/ancient-rap-battle/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/10291124jcjc-dotcom/ancient-rap-battle.git\ncd ancient-rap-battle",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/10291124jcjc-dotcom/ancient-rap-battle\nWhat it says it does: \"古人说唱 Battle：一句话做一期 AI 历史人物说唱对决视频的 Claude Code Skill（Suno + Midjourney + MiniMax H3 对口型）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T15:18:25.970Z"
   }
  ],
  "levels": {

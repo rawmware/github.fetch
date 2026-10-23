@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1278 guides written so far · last update 2026-10-23 12:49 UTC_
+_1279 guides written so far · last update 2026-10-23 12:49 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [openmathmodel/open-math-harness](https://github.com/openmathmodel/open-math-harness) | Rust project | Runs in the browser with a free account | [guide](guides/openmathmodel/open-math-harness.md) |
 | [Motphys/Uni-SuperMimic](https://github.com/Motphys/Uni-SuperMimic) | Python project | Runs in the browser with a free account | [guide](guides/motphys/uni-supermimic.md) |
 | [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/appariciojunior/video-editor-skills.md) |
 | [Tom123223/maimen-xinshi](https://github.com/Tom123223/maimen-xinshi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tom123223/maimen-xinshi.md) |
@@ -38,7 +39,6 @@ _1278 guides written so far · last update 2026-10-23 12:49 UTC_
 | [hieunc229/mailflare-macos](https://github.com/hieunc229/mailflare-macos) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/hieunc229/mailflare-macos.md) |
 | [JoasASantos/php2shell-exploit](https://github.com/JoasASantos/php2shell-exploit) | Python project | Runs in the browser with a free account | [guide](guides/joasasantos/php2shell-exploit.md) |
 | [pentestershell/php2shellbt](https://github.com/pentestershell/php2shellbt) | Python project | Runs in the browser with a free account | [guide](guides/pentestershell/php2shellbt.md) |
-| [leontdi/marco-familiar-dashboard](https://github.com/leontdi/marco-familiar-dashboard) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/leontdi/marco-familiar-dashboard.md) |
 <!-- latest:end -->
 
 ## How it works

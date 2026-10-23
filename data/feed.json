@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T07:21:20.989Z",
- "totalGuides": 1262,
+ "updatedAt": "2026-10-23T07:21:21.205Z",
+ "totalGuides": 1263,
  "items": [
+  {
+   "fullName": "ios151/One-releases",
+   "owner": "ios151",
+   "name": "One-releases",
+   "url": "https://github.com/ios151/One-releases",
+   "avatar": "https://avatars.githubusercontent.com/u/338882408?v=4",
+   "description": "One 的安装包发布页（只发布 IPA，不含源码）",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 64,
+   "forks": 1,
+   "createdAt": "2026-10-22T23:30:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T07:21:21.204Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ios151/One-releases",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ios151/One-releases/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ios151/One-releases\nWhat it says it does: \"One 的安装包发布页（只发布 IPA，不含源码）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T07:21:21.204Z"
+  },
   {
    "fullName": "Wunsch2048/codex-bailong-desktop-pet",
    "owner": "Wunsch2048",
@@ -31740,66 +31788,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/1weiho/cinematic-shot\nWhat it says it does: \"An agent skill for directing cinematic product launch films\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T10:22:54.410Z"
-  },
-  {
-   "fullName": "Binaryify/MonitorBar",
-   "owner": "Binaryify",
-   "name": "MonitorBar",
-   "url": "https://github.com/Binaryify/MonitorBar",
-   "avatar": "https://avatars.githubusercontent.com/u/12221718?v=4",
-   "description": "macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
-   "language": "Go",
-   "topics": [],
-   "license": "MIT",
-   "stars": 67,
-   "forks": 3,
-   "createdAt": "2026-10-15T02:12:52Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T10:22:54.210Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Binaryify/MonitorBar?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Binaryify/MonitorBar",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Binaryify/MonitorBar/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": "go run .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Binaryify/MonitorBar.git\ncd MonitorBar\ngo build ./...\ngo run .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Binaryify/MonitorBar\nWhat it says it does: \"macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T10:22:54.210Z"
   }
  ],
  "levels": {
-  "account": 236,
-  "read": 120,
+  "read": 121,
+  "account": 235,
   "instant": 40,
   "heavy": 104
  }

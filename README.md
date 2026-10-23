@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1277 guides written so far · last update 2026-10-23 12:49 UTC_
+_1278 guides written so far · last update 2026-10-23 12:49 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Motphys/Uni-SuperMimic](https://github.com/Motphys/Uni-SuperMimic) | Python project | Runs in the browser with a free account | [guide](guides/motphys/uni-supermimic.md) |
 | [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/appariciojunior/video-editor-skills.md) |
 | [Tom123223/maimen-xinshi](https://github.com/Tom123223/maimen-xinshi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tom123223/maimen-xinshi.md) |
 | [BEN020406/maimen-order-manager](https://github.com/BEN020406/maimen-order-manager) | Python project | Runs in the browser with a free account | [guide](guides/ben020406/maimen-order-manager.md) |
@@ -38,7 +39,6 @@ _1277 guides written so far · last update 2026-10-23 12:49 UTC_
 | [JoasASantos/php2shell-exploit](https://github.com/JoasASantos/php2shell-exploit) | Python project | Runs in the browser with a free account | [guide](guides/joasasantos/php2shell-exploit.md) |
 | [pentestershell/php2shellbt](https://github.com/pentestershell/php2shellbt) | Python project | Runs in the browser with a free account | [guide](guides/pentestershell/php2shellbt.md) |
 | [leontdi/marco-familiar-dashboard](https://github.com/leontdi/marco-familiar-dashboard) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/leontdi/marco-familiar-dashboard.md) |
-| [UCYBERS/PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) | Python project | Runs in the browser with a free account | [guide](guides/ucybers/phonehackscan.md) |
 <!-- latest:end -->
 
 ## How it works

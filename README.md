@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1294 guides written so far · last update 2026-10-23 17:50 UTC_
+_1295 guides written so far · last update 2026-10-23 17:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [openfilm/openfilm](https://github.com/openfilm/openfilm) | JavaScript project | Runs in the browser with a free account | [guide](guides/openfilm/openfilm.md) |
 | [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/nano-muse/nanomuse.md) |
 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | Python project | Runs in the browser with a free account | [guide](guides/nanaism/yomiyasu.md) |
 | [egoist/mygo](https://github.com/egoist/mygo) | JavaScript project | Runs in the browser with a free account | [guide](guides/egoist/mygo.md) |
@@ -38,7 +39,6 @@ _1294 guides written so far · last update 2026-10-23 17:50 UTC_
 | [iam567/rich4-renew-app](https://github.com/iam567/rich4-renew-app) | TypeScript project | Runs in the browser with a free account | [guide](guides/iam567/rich4-renew-app.md) |
 | [sit-in/awesome-grokbot-playbooks](https://github.com/sit-in/awesome-grokbot-playbooks) | HTML project | Runs in the browser with a free account | [guide](guides/sit-in/awesome-grokbot-playbooks.md) |
 | [nace-ai/kapitsa](https://github.com/nace-ai/kapitsa) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/nace-ai/kapitsa.md) |
-| [mozihe/z-localization](https://github.com/mozihe/z-localization) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/mozihe/z-localization.md) |
 <!-- latest:end -->
 
 ## How it works

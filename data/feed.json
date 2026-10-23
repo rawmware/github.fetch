@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T07:21:22.431Z",
- "totalGuides": 1268,
+ "updatedAt": "2026-10-23T07:21:22.646Z",
+ "totalGuides": 1269,
  "items": [
+  {
+   "fullName": "JoasASantos/php2shell-exploit",
+   "owner": "JoasASantos",
+   "name": "php2shell-exploit",
+   "url": "https://github.com/JoasASantos/php2shell-exploit",
+   "avatar": "https://avatars.githubusercontent.com/u/34966120?v=4",
+   "description": "PHP2Shell exploit framework — CVE-2026-109618/619 PHP session.upload_progress UAF to RCE",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 59,
+   "forks": 14,
+   "createdAt": "2026-10-22T12:53:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T07:21:22.645Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/JoasASantos/php2shell-exploit/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/JoasASantos/php2shell-exploit?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/JoasASantos/php2shell-exploit",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/JoasASantos/php2shell-exploit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/JoasASantos/php2shell-exploit.git\ncd php2shell-exploit",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/JoasASantos/php2shell-exploit\nWhat it says it does: \"PHP2Shell exploit framework — CVE-2026-109618/619 PHP session.upload_progress UAF to RCE\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T07:21:22.645Z"
+  },
   {
    "fullName": "pentestershell/php2shellbt",
    "owner": "pentestershell",
@@ -31774,68 +31836,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/feder-cr/open_scion\nWhat it says it does: \"Open-source version of Scion: version control built for coding agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T15:18:23.940Z"
-  },
-  {
-   "fullName": "jburgess-r7/CVE-2026-97229-PoC",
-   "owner": "jburgess-r7",
-   "name": "CVE-2026-97229-PoC",
-   "url": "https://github.com/jburgess-r7/CVE-2026-97229-PoC",
-   "avatar": "https://avatars.githubusercontent.com/u/260676638?v=4",
-   "description": "GitLab CI lint integer-overflow RCE PoC for CVE-2026-97229, validated against the official 19.4.1 CE amd64 image",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 53,
-   "forks": 8,
-   "createdAt": "2026-10-13T09:39:17Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T10:22:56.501Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/jburgess-r7/CVE-2026-97229-PoC/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/jburgess-r7/CVE-2026-97229-PoC?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/jburgess-r7/CVE-2026-97229-PoC",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/jburgess-r7/CVE-2026-97229-PoC/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/jburgess-r7/CVE-2026-97229-PoC.git\ncd CVE-2026-97229-PoC",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/jburgess-r7/CVE-2026-97229-PoC\nWhat it says it does: \"GitLab CI lint integer-overflow RCE PoC for CVE-2026-97229, validated against the official 19.4.1 CE amd64 image\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T10:22:56.501Z"
   }
  ],
  "levels": {

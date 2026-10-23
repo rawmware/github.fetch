@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1307 guides written so far · last update 2026-10-23 21:18 UTC_
+_1308 guides written so far · last update 2026-10-23 21:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/trhhubsd/artex.md) |
 | [angusdevgo/Seep-Reverse-Lab](https://github.com/angusdevgo/Seep-Reverse-Lab) | Lua project | Runs in the browser with a free account | [guide](guides/angusdevgo/seep-reverse-lab.md) |
 | [perplexityai/SPACE](https://github.com/perplexityai/SPACE) | Python project | Runs in the browser with a free account | [guide](guides/perplexityai/space.md) |
 | [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | Scala project | Runs in the browser with a free account | [guide](guides/notprotonnot/notproton.md) |
@@ -38,7 +39,6 @@ _1307 guides written so far · last update 2026-10-23 21:18 UTC_
 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | Python project | Runs in the browser with a free account | [guide](guides/oil-oil/oil-ui.md) |
 | [oxc-project/tsrs](https://github.com/oxc-project/tsrs) | JavaScript project | Runs in the browser with a free account | [guide](guides/oxc-project/tsrs.md) |
 | [852wa/JIZURA](https://github.com/852wa/JIZURA) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/852wa/jizura.md) |
-| [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) | Go project | Runs in the browser with a free account | [guide](guides/jiwoochris/artex-global.md) |
 <!-- latest:end -->
 
 ## How it works

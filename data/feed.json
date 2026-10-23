@@ -1,8 +1,93 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T07:21:20.264Z",
- "totalGuides": 1259,
+ "updatedAt": "2026-10-23T07:21:20.529Z",
+ "totalGuides": 1260,
  "items": [
+  {
+   "fullName": "dex-tools-new/.github",
+   "owner": "dex-tools-new",
+   "name": ".github",
+   "url": "https://github.com/dex-tools-new/.github",
+   "avatar": "https://avatars.githubusercontent.com/u/346544820?v=4",
+   "description": "dex sniper bot",
+   "language": "HTML",
+   "topics": [
+    "anti-rug-sniper",
+    "defi-sniper-bot",
+    "dex-sniper-2026",
+    "dex-sniper-download",
+    "dex-sniper-free",
+    "free-dex-sniper",
+    "honeypot-checker",
+    "memecoin-sniper-bot"
+   ],
+   "license": null,
+   "stars": 173,
+   "forks": 116,
+   "createdAt": "2026-10-23T03:05:19Z",
+   "branch": "main",
+   "homepage": "https://dex-tools-new.github.io/.github/",
+   "addedAt": "2026-10-23T07:21:20.529Z",
+   "stack": {
+    "kind": "static",
+    "label": "Static website (HTML/CSS/JS)",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "live",
+   "launch": [
+    {
+     "id": "live",
+     "label": "Open it live",
+     "url": "https://raw.githack.com/dex-tools-new/.github/main/index.html",
+     "needs": "nothing",
+     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
+    },
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/dex-tools-new/.github",
+     "needs": "nothing",
+     "note": "A full editor and preview in your tab."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/dex-tools-new/.github",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/dex-tools-new/.github?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/dex-tools-new/.github",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/dex-tools-new/.github/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "npx serve .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/dex-tools-new/.github.git\ncd .github\nnpx serve .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/dex-tools-new/.github\nWhat it says it does: \"dex sniper bot\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T07:21:20.529Z"
+  },
   {
    "fullName": "dex-tool-best/.github",
    "owner": "dex-tool-best",
@@ -31732,82 +31817,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/HayatoG/iss_pc\nWhat it says it does: \"Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T10:22:53.774Z"
-  },
-  {
-   "fullName": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-   "owner": "heqiangdiao-wq",
-   "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
-   "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-   "avatar": "https://avatars.githubusercontent.com/u/307923402?v=4",
-   "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
-   "language": "Python",
-   "topics": [
-    "ai-agents",
-    "cross-border-ecommerce",
-    "ecommerce",
-    "llm",
-    "mercado-livre",
-    "prompt-engineering",
-    "shopee",
-    "sop"
-   ],
-   "license": "MIT",
-   "stars": 79,
-   "forks": 83,
-   "createdAt": "2026-10-13T10:13:21Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T10:22:53.630Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit.git\ncd AI-Cross-Border-Ecommerce-Agent-Toolkit",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit\nWhat it says it does: \"AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T10:22:53.630Z"
   }
  ],
  "levels": {
-  "instant": 39,
-  "account": 237,
+  "instant": 40,
+  "account": 236,
   "read": 119,
   "heavy": 105
  }

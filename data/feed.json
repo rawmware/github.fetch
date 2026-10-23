@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T01:50:06.375Z",
- "totalGuides": 1256,
+ "updatedAt": "2026-10-23T07:21:19.744Z",
+ "totalGuides": 1257,
  "items": [
+  {
+   "fullName": "Snapintosh/Snapintosh",
+   "owner": "Snapintosh",
+   "name": "Snapintosh",
+   "url": "https://github.com/Snapintosh/Snapintosh",
+   "avatar": "https://avatars.githubusercontent.com/u/346728985?v=4",
+   "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 632,
+   "forks": 37,
+   "createdAt": "2026-10-22T01:40:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T07:21:19.732Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Snapintosh/Snapintosh/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Snapintosh/Snapintosh?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Snapintosh/Snapintosh",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Snapintosh/Snapintosh/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Snapintosh/Snapintosh.git\ncd Snapintosh",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Snapintosh/Snapintosh\nWhat it says it does: \"EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T07:21:19.732Z"
+  },
   {
    "fullName": "talharaziq/Advanced-Bioinformatics",
    "owner": "talharaziq",
@@ -31699,69 +31761,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/chenglou/handwired\nWhat it says it does: \"Turn your regular JavaScript code into a neural net.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T10:22:53.228Z"
-  },
-  {
-   "fullName": "apenasdouglas/ai-motion-library",
-   "owner": "apenasdouglas",
-   "name": "ai-motion-library",
-   "url": "https://github.com/apenasdouglas/ai-motion-library",
-   "avatar": "https://avatars.githubusercontent.com/u/8376199?v=4",
-   "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
-   "language": null,
-   "topics": [
-    "agent-skills",
-    "ai",
-    "animation",
-    "brasil",
-    "canal-dark",
-    "claude-code",
-    "claude-skills",
-    "easing"
-   ],
-   "license": "MIT",
-   "stars": 56,
-   "forks": 0,
-   "createdAt": "2026-10-14T13:13:47Z",
-   "branch": "main",
-   "homepage": "https://apenasdouglas.github.io/ai-motion-library/",
-   "addedAt": "2026-10-15T05:47:33.306Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/apenasdouglas/ai-motion-library",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/apenasdouglas/ai-motion-library/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/apenasdouglas/ai-motion-library\nWhat it says it does: \"Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T05:47:33.306Z"
   }
  ],
  "levels": {
-  "read": 120,
+  "account": 237,
+  "read": 119,
   "heavy": 106,
-  "account": 236,
   "instant": 38
  }
 }

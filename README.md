@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1256 guides written so far · last update 2026-10-23 01:50 UTC_
+_1257 guides written so far · last update 2026-10-23 07:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/snapintosh/snapintosh.md) |
 | [talharaziq/Advanced-Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talharaziq/advanced-bioinformatics.md) |
 | [JMS1717/ming-voice](https://github.com/JMS1717/ming-voice) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/jms1717/ming-voice.md) |
 | [Mrquillwing/hello_world-](https://github.com/Mrquillwing/hello_world-) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mrquillwing/hello_world-.md) |
@@ -38,7 +39,6 @@ _1256 guides written so far · last update 2026-10-23 01:50 UTC_
 | [Anton-Barinov/php2shell-patches](https://github.com/Anton-Barinov/php2shell-patches) | Shell project | Runs in the browser with a free account | [guide](guides/anton-barinov/php2shell-patches.md) |
 | [JeffKeeping/dsh-purge-plus](https://github.com/JeffKeeping/dsh-purge-plus) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jeffkeeping/dsh-purge-plus.md) |
 | [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/revivedx/savagewindrecomp.md) |
-| [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/humblemuzzu/dumbtv.md) |
 <!-- latest:end -->
 
 ## How it works

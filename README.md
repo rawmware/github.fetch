@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1253 guides written so far · last update 2026-10-23 01:50 UTC_
+_1254 guides written so far · last update 2026-10-23 01:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Mrquillwing/hello_world-](https://github.com/Mrquillwing/hello_world-) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mrquillwing/hello_world-.md) |
 | [TencentARC/Looking-Ahead](https://github.com/TencentARC/Looking-Ahead) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/tencentarc/looking-ahead.md) |
 | [IvanIVGrozny/iOS27.0.1-SPTM-Research](https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research) | Python project | Runs in the browser with a free account | [guide](guides/ivanivgrozny/ios27.0.1-sptm-research.md) |
 | [rolottr/bambu-bar](https://github.com/rolottr/bambu-bar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rolottr/bambu-bar.md) |
@@ -38,7 +39,6 @@ _1253 guides written so far · last update 2026-10-23 01:50 UTC_
 | [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/humblemuzzu/dumbtv.md) |
 | [tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang) | Assembly project | Needs a real machine (or a GPU) to run | [guide](guides/tek-sys-hub/rubix-lang.md) |
 | [NousResearch/hermes-labs-plugins](https://github.com/NousResearch/hermes-labs-plugins) | Python project | Runs in the browser with a free account | [guide](guides/nousresearch/hermes-labs-plugins.md) |
-| [Spectrmachina/Ztrust](https://github.com/Spectrmachina/Ztrust) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/spectrmachina/ztrust.md) |
 <!-- latest:end -->
 
 ## How it works

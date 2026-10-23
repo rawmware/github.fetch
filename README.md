@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1289 guides written so far · last update 2026-10-23 17:50 UTC_
+_1290 guides written so far · last update 2026-10-23 17:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts) | C project | Needs a real machine (or a GPU) to run | [guide](guides/stencil-hq/dquickts.md) |
 | [mrcen3204097569-spec/lean-electron-vue](https://github.com/mrcen3204097569-spec/lean-electron-vue) | Vite app | Runs in the browser with a free account | [guide](guides/mrcen3204097569-spec/lean-electron-vue.md) |
 | [verity-mods/verity-enhanced](https://github.com/verity-mods/verity-enhanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/verity-mods/verity-enhanced.md) |
 | [EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/egorbo/blazingfastdotnet.md) |
@@ -38,7 +39,6 @@ _1289 guides written so far · last update 2026-10-23 17:50 UTC_
 | [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent/wevisone-vl.md) |
 | [PlusF666/mctaste-lab](https://github.com/PlusF666/mctaste-lab) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/plusf666/mctaste-lab.md) |
 | [openmathmodel/open-math-harness](https://github.com/openmathmodel/open-math-harness) | Rust project | Runs in the browser with a free account | [guide](guides/openmathmodel/open-math-harness.md) |
-| [Motphys/Uni-SuperMimic](https://github.com/Motphys/Uni-SuperMimic) | Python project | Runs in the browser with a free account | [guide](guides/motphys/uni-supermimic.md) |
 <!-- latest:end -->
 
 ## How it works

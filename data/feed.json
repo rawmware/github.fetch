@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T07:21:22.646Z",
- "totalGuides": 1269,
+ "updatedAt": "2026-10-23T07:21:22.849Z",
+ "totalGuides": 1270,
  "items": [
+  {
+   "fullName": "hieunc229/mailflare-macos",
+   "owner": "hieunc229",
+   "name": "mailflare-macos",
+   "url": "https://github.com/hieunc229/mailflare-macos",
+   "avatar": "https://avatars.githubusercontent.com/u/8464869?v=4",
+   "description": "Email client for macOS",
+   "language": "Swift",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 58,
+   "forks": 5,
+   "createdAt": "2026-10-21T11:32:12Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T07:21:22.849Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/hieunc229/mailflare-macos?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/hieunc229/mailflare-macos",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/hieunc229/mailflare-macos/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/hieunc229/mailflare-macos.git\ncd mailflare-macos",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/hieunc229/mailflare-macos\nWhat it says it does: \"Email client for macOS\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T07:21:22.849Z"
+  },
   {
    "fullName": "JoasASantos/php2shell-exploit",
    "owner": "JoasASantos",
@@ -31774,73 +31831,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/MaryCache/imozuru\nWhat it says it does: \"知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T15:18:24.142Z"
-  },
-  {
-   "fullName": "feder-cr/open_scion",
-   "owner": "feder-cr",
-   "name": "open_scion",
-   "url": "https://github.com/feder-cr/open_scion",
-   "avatar": "https://avatars.githubusercontent.com/u/85809106?v=4",
-   "description": "Open-source version of Scion: version control built for coding agents.",
-   "language": "Go",
-   "topics": [
-    "ai-agents",
-    "coding-agents",
-    "git",
-    "golang",
-    "scion",
-    "version-control"
-   ],
-   "license": null,
-   "stars": 171,
-   "forks": 19,
-   "createdAt": "2026-10-15T13:12:02Z",
-   "branch": "main",
-   "homepage": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "addedAt": "2026-10-15T15:18:23.940Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/feder-cr/open_scion?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/feder-cr/open_scion",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/feder-cr/open_scion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/feder-cr/open_scion.git\ncd open_scion\ngo build ./...",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/feder-cr/open_scion\nWhat it says it does: \"Open-source version of Scion: version control built for coding agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T15:18:23.940Z"
   }
  ],
  "levels": {
-  "account": 235,
-  "heavy": 105,
+  "heavy": 106,
+  "account": 234,
   "instant": 40,
   "read": 120
  }

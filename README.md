@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1269 guides written so far · last update 2026-10-23 07:21 UTC_
+_1270 guides written so far · last update 2026-10-23 07:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hieunc229/mailflare-macos](https://github.com/hieunc229/mailflare-macos) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/hieunc229/mailflare-macos.md) |
 | [JoasASantos/php2shell-exploit](https://github.com/JoasASantos/php2shell-exploit) | Python project | Runs in the browser with a free account | [guide](guides/joasasantos/php2shell-exploit.md) |
 | [pentestershell/php2shellbt](https://github.com/pentestershell/php2shellbt) | Python project | Runs in the browser with a free account | [guide](guides/pentestershell/php2shellbt.md) |
 | [leontdi/marco-familiar-dashboard](https://github.com/leontdi/marco-familiar-dashboard) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/leontdi/marco-familiar-dashboard.md) |
@@ -38,7 +39,6 @@ _1269 guides written so far · last update 2026-10-23 07:21 UTC_
 | [DLSS5-Swapper-2026-Download/.github](https://github.com/DLSS5-Swapper-2026-Download/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss5-swapper-2026-download/.github.md) |
 | [dex-tools-new/.github](https://github.com/dex-tools-new/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/dex-tools-new/.github.md) |
 | [dex-tool-best/.github](https://github.com/dex-tool-best/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/dex-tool-best/.github.md) |
-| [df-tools-bn/.github](https://github.com/df-tools-bn/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/df-tools-bn/.github.md) |
 <!-- latest:end -->
 
 ## How it works

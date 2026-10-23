@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T07:21:20.529Z",
- "totalGuides": 1260,
+ "updatedAt": "2026-10-23T07:21:20.767Z",
+ "totalGuides": 1261,
  "items": [
+  {
+   "fullName": "DLSS5-Swapper-2026-Download/.github",
+   "owner": "DLSS5-Swapper-2026-Download",
+   "name": ".github",
+   "url": "https://github.com/DLSS5-Swapper-2026-Download/.github",
+   "avatar": "https://avatars.githubusercontent.com/u/346624957?v=4",
+   "description": "DLSS 5 Swapper is a graphics-oriented utility for users who want to manage supported rendering components and experiment with compatible game configurations.",
+   "language": null,
+   "topics": [
+    "dlss-5",
+    "dlss-5-game",
+    "dlss-5-games",
+    "dlss-5-swapper",
+    "dlss-5-swapper-windows-download",
+    "dlss-swapper",
+    "dlss-swapper-download",
+    "dlss5"
+   ],
+   "license": null,
+   "stars": 85,
+   "forks": 0,
+   "createdAt": "2026-10-22T23:23:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T07:21:20.766Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/DLSS5-Swapper-2026-Download/.github",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/DLSS5-Swapper-2026-Download/.github/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/DLSS5-Swapper-2026-Download/.github\nWhat it says it does: \"DLSS 5 Swapper is a graphics-oriented utility for users who want to manage supported rendering components and experiment with compatible game configurations.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T07:21:20.766Z"
+  },
   {
    "fullName": "dex-tools-new/.github",
    "owner": "dex-tools-new",
@@ -31751,78 +31808,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/yaojingang/profound-clone\nWhat it says it does: \"Profound (tryprofound.com) 前后台 1:1 学习复刻 · Next.js 16 / React 19 / SQLite · Educational replica for learning only, not affiliated with Profound Inc.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T10:22:54.028Z"
-  },
-  {
-   "fullName": "HayatoG/iss_pc",
-   "owner": "HayatoG",
-   "name": "iss_pc",
-   "url": "https://github.com/HayatoG/iss_pc",
-   "avatar": "https://avatars.githubusercontent.com/u/22659047?v=4",
-   "description": "Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump.",
-   "language": "C++",
-   "topics": [
-    "game-preservation",
-    "homebrew",
-    "infamous-second-son",
-    "linux",
-    "native-port",
-    "pc-port",
-    "playstation-4",
-    "ps4"
-   ],
-   "license": null,
-   "stars": 76,
-   "forks": 4,
-   "createdAt": "2026-10-13T21:48:17Z",
-   "branch": "main",
-   "homepage": "https://www.youtube.com/@hayatog-dev",
-   "addedAt": "2026-10-15T10:22:53.774Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/HayatoG/iss_pc?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/HayatoG/iss_pc",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/HayatoG/iss_pc/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/HayatoG/iss_pc.git\ncd iss_pc",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/HayatoG/iss_pc\nWhat it says it does: \"Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T10:22:53.774Z"
   }
  ],
  "levels": {
+  "read": 120,
   "instant": 40,
   "account": 236,
-  "read": 119,
-  "heavy": 105
+  "heavy": 104
  }
 }

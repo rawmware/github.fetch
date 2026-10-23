@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1260 guides written so far · last update 2026-10-23 07:21 UTC_
+_1261 guides written so far · last update 2026-10-23 07:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DLSS5-Swapper-2026-Download/.github](https://github.com/DLSS5-Swapper-2026-Download/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss5-swapper-2026-download/.github.md) |
 | [dex-tools-new/.github](https://github.com/dex-tools-new/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/dex-tools-new/.github.md) |
 | [dex-tool-best/.github](https://github.com/dex-tool-best/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/dex-tool-best/.github.md) |
 | [df-tools-bn/.github](https://github.com/df-tools-bn/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/df-tools-bn/.github.md) |
@@ -38,7 +39,6 @@ _1260 guides written so far · last update 2026-10-23 07:21 UTC_
 | [IvanIVGrozny/iOS27.0.1-SPTM-Research](https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research) | Python project | Runs in the browser with a free account | [guide](guides/ivanivgrozny/ios27.0.1-sptm-research.md) |
 | [rolottr/bambu-bar](https://github.com/rolottr/bambu-bar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/rolottr/bambu-bar.md) |
 | [alexturkey/voxcpm2-turkce-ses-tasarimi](https://github.com/alexturkey/voxcpm2-turkce-ses-tasarimi) | Python project | Runs in the browser with a free account | [guide](guides/alexturkey/voxcpm2-turkce-ses-tasarimi.md) |
-| [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/dr-xu193/syncnote-community.md) |
 <!-- latest:end -->
 
 ## How it works

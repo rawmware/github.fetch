@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1297 guides written so far · last update 2026-10-23 17:50 UTC_
+_1298 guides written so far · last update 2026-10-23 17:50 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [oxc-project/tsrs](https://github.com/oxc-project/tsrs) | JavaScript project | Runs in the browser with a free account | [guide](guides/oxc-project/tsrs.md) |
 | [852wa/JIZURA](https://github.com/852wa/JIZURA) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/852wa/jizura.md) |
 | [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) | Go project | Runs in the browser with a free account | [guide](guides/jiwoochris/artex-global.md) |
 | [openfilm/openfilm](https://github.com/openfilm/openfilm) | JavaScript project | Runs in the browser with a free account | [guide](guides/openfilm/openfilm.md) |
@@ -38,7 +39,6 @@ _1297 guides written so far · last update 2026-10-23 17:50 UTC_
 | [mrcen3204097569-spec/lean-electron-vue](https://github.com/mrcen3204097569-spec/lean-electron-vue) | Vite app | Runs in the browser with a free account | [guide](guides/mrcen3204097569-spec/lean-electron-vue.md) |
 | [verity-mods/verity-enhanced](https://github.com/verity-mods/verity-enhanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/verity-mods/verity-enhanced.md) |
 | [EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/egorbo/blazingfastdotnet.md) |
-| [iam567/rich4-renew-app](https://github.com/iam567/rich4-renew-app) | TypeScript project | Runs in the browser with a free account | [guide](guides/iam567/rich4-renew-app.md) |
 <!-- latest:end -->
 
 ## How it works

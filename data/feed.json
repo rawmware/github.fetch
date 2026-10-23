@@ -1,8 +1,82 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T12:49:23.558Z",
- "totalGuides": 1280,
+ "updatedAt": "2026-10-23T12:49:23.958Z",
+ "totalGuides": 1281,
  "items": [
+  {
+   "fullName": "Tencent/WeVisOne-VL",
+   "owner": "Tencent",
+   "name": "WeVisOne-VL",
+   "url": "https://github.com/Tencent/WeVisOne-VL",
+   "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
+   "description": "WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.",
+   "language": "Jupyter Notebook",
+   "topics": [],
+   "license": null,
+   "stars": 66,
+   "forks": 3,
+   "createdAt": "2026-10-22T08:58:16Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-23T12:49:23.951Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python Gradio app",
+    "frameworks": [
+     "Gradio"
+    ]
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "colab-new",
+   "launch": [
+    {
+     "id": "colab-new",
+     "label": "Google Colab",
+     "url": "https://colab.research.google.com/",
+     "needs": "free Google account",
+     "note": "New notebook, then run: !git clone https://github.com/Tencent/WeVisOne-VL"
+    },
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Tencent/WeVisOne-VL/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Tencent/WeVisOne-VL?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Tencent/WeVisOne-VL",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Tencent/WeVisOne-VL/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [
+    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one.",
+    "Has a Gradio web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/Tencent/WeVisOne-VL.git\ncd WeVisOne-VL\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Tencent/WeVisOne-VL\nWhat it says it does: \"WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-23T12:49:23.951Z"
+  },
   {
    "fullName": "PlusF666/mctaste-lab",
    "owner": "PlusF666",
@@ -31817,70 +31891,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/fitzforge/polestar\nWhat it says it does: \"Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-15T15:18:26.681Z"
-  },
-  {
-   "fullName": "huacnlee/gpui-shell-benchs",
-   "owner": "huacnlee",
-   "name": "gpui-shell-benchs",
-   "url": "https://github.com/huacnlee/gpui-shell-benchs",
-   "avatar": "https://avatars.githubusercontent.com/u/5518?v=4",
-   "description": "A collection of gpui-shell applications generated from scratch by AI coding agents.",
-   "language": "JavaScript",
-   "topics": [
-    "gpui-kit",
-    "gpui-shell"
-   ],
-   "license": "MIT",
-   "stars": 55,
-   "forks": 2,
-   "createdAt": "2026-10-13T01:52:01Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-15T15:18:26.382Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/huacnlee/gpui-shell-benchs?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/huacnlee/gpui-shell-benchs",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/huacnlee/gpui-shell-benchs/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/huacnlee/gpui-shell-benchs.git\ncd gpui-shell-benchs",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/huacnlee/gpui-shell-benchs\nWhat it says it does: \"A collection of gpui-shell applications generated from scratch by AI coding agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-15T15:18:26.382Z"
   }
  ],
  "levels": {
+  "heavy": 104,
   "instant": 42,
-  "account": 235,
-  "read": 120,
-  "heavy": 103
+  "account": 234,
+  "read": 120
  }
 }

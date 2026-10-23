@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1280 guides written so far · last update 2026-10-23 12:49 UTC_
+_1281 guides written so far · last update 2026-10-23 12:49 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent/wevisone-vl.md) |
 | [PlusF666/mctaste-lab](https://github.com/PlusF666/mctaste-lab) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/plusf666/mctaste-lab.md) |
 | [openmathmodel/open-math-harness](https://github.com/openmathmodel/open-math-harness) | Rust project | Runs in the browser with a free account | [guide](guides/openmathmodel/open-math-harness.md) |
 | [Motphys/Uni-SuperMimic](https://github.com/Motphys/Uni-SuperMimic) | Python project | Runs in the browser with a free account | [guide](guides/motphys/uni-supermimic.md) |
@@ -38,7 +39,6 @@ _1280 guides written so far · last update 2026-10-23 12:49 UTC_
 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | Rust project | Runs in the browser with a free account | [guide](guides/xevrion/hatchzip.md) |
 | [BastionPHP/Bastion](https://github.com/BastionPHP/Bastion) | Go project | Runs in the browser with a free account | [guide](guides/bastionphp/bastion.md) |
 | [hieunc229/mailflare-macos](https://github.com/hieunc229/mailflare-macos) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/hieunc229/mailflare-macos.md) |
-| [JoasASantos/php2shell-exploit](https://github.com/JoasASantos/php2shell-exploit) | Python project | Runs in the browser with a free account | [guide](guides/joasasantos/php2shell-exploit.md) |
 <!-- latest:end -->
 
 ## How it works

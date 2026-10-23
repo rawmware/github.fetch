@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1304 guides written so far · last update 2026-10-23 21:18 UTC_
+_1305 guides written so far · last update 2026-10-23 21:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | Scala project | Runs in the browser with a free account | [guide](guides/notprotonnot/notproton.md) |
 | [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/mmparko/dsh-purge.md) |
 | [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Python project | Runs in the browser with a free account | [guide](guides/reacher-z/awesome-rea.md) |
 | [ravensclawx/HBLauncher](https://github.com/ravensclawx/HBLauncher) | JavaScript project | Runs in the browser with a free account | [guide](guides/ravensclawx/hblauncher.md) |
@@ -38,7 +39,6 @@ _1304 guides written so far · last update 2026-10-23 21:18 UTC_
 | [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) | Go project | Runs in the browser with a free account | [guide](guides/jiwoochris/artex-global.md) |
 | [openfilm/openfilm](https://github.com/openfilm/openfilm) | JavaScript project | Runs in the browser with a free account | [guide](guides/openfilm/openfilm.md) |
 | [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/nano-muse/nanomuse.md) |
-| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | Python project | Runs in the browser with a free account | [guide](guides/nanaism/yomiyasu.md) |
 <!-- latest:end -->
 
 ## How it works

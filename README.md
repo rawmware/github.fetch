@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1275 guides written so far · last update 2026-10-23 12:49 UTC_
+_1276 guides written so far · last update 2026-10-23 12:49 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Tom123223/maimen-xinshi](https://github.com/Tom123223/maimen-xinshi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tom123223/maimen-xinshi.md) |
 | [BEN020406/maimen-order-manager](https://github.com/BEN020406/maimen-order-manager) | Python project | Runs in the browser with a free account | [guide](guides/ben020406/maimen-order-manager.md) |
 | [Monopoly0024/simple-reviewer-v1](https://github.com/Monopoly0024/simple-reviewer-v1) | Python project | Runs in the browser with a free account | [guide](guides/monopoly0024/simple-reviewer-v1.md) |
 | [actionow-ai/vvv](https://github.com/actionow-ai/vvv) | Python project | Runs in the browser with a free account | [guide](guides/actionow-ai/vvv.md) |
@@ -38,7 +39,6 @@ _1275 guides written so far · last update 2026-10-23 12:49 UTC_
 | [leontdi/marco-familiar-dashboard](https://github.com/leontdi/marco-familiar-dashboard) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/leontdi/marco-familiar-dashboard.md) |
 | [UCYBERS/PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) | Python project | Runs in the browser with a free account | [guide](guides/ucybers/phonehackscan.md) |
 | [hassan-algo/open-sesame](https://github.com/hassan-algo/open-sesame) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hassan-algo/open-sesame.md) |
-| [nicobailon/pi-cached-compaction](https://github.com/nicobailon/pi-cached-compaction) | JavaScript project | Runs in the browser with a free account | [guide](guides/nicobailon/pi-cached-compaction.md) |
 <!-- latest:end -->
 
 ## How it works

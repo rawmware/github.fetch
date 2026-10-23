@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1257 guides written so far · last update 2026-10-23 07:21 UTC_
+_1258 guides written so far · last update 2026-10-23 07:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [df-tools-bn/.github](https://github.com/df-tools-bn/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/df-tools-bn/.github.md) |
 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python project | Runs in the browser with a free account | [guide](guides/snapintosh/snapintosh.md) |
 | [talharaziq/Advanced-Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talharaziq/advanced-bioinformatics.md) |
 | [JMS1717/ming-voice](https://github.com/JMS1717/ming-voice) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/jms1717/ming-voice.md) |
@@ -38,7 +39,6 @@ _1257 guides written so far · last update 2026-10-23 07:21 UTC_
 | [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) | Dart project | Needs a real machine (or a GPU) to run | [guide](guides/dr-xu193/syncnote-community.md) |
 | [Anton-Barinov/php2shell-patches](https://github.com/Anton-Barinov/php2shell-patches) | Shell project | Runs in the browser with a free account | [guide](guides/anton-barinov/php2shell-patches.md) |
 | [JeffKeeping/dsh-purge-plus](https://github.com/JeffKeeping/dsh-purge-plus) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jeffkeeping/dsh-purge-plus.md) |
-| [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/revivedx/savagewindrecomp.md) |
 <!-- latest:end -->
 
 ## How it works

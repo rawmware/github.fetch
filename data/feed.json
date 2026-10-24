@@ -1,8 +1,91 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T04:23:49.794Z",
- "totalGuides": 1312,
+ "updatedAt": "2026-10-24T04:23:50.019Z",
+ "totalGuides": 1313,
  "items": [
+  {
+   "fullName": "aotoycffyxns/delta",
+   "owner": "aotoycffyxns",
+   "name": "delta",
+   "url": "https://github.com/aotoycffyxns/delta",
+   "avatar": "https://avatars.githubusercontent.com/u/346543447?v=4",
+   "description": "executor-pc",
+   "language": "HTML",
+   "topics": [
+    "delta-injector",
+    "delta-key",
+    "delta-mobile",
+    "delta-pc-download",
+    "delta-script-hub",
+    "free-delta-executor"
+   ],
+   "license": null,
+   "stars": 133,
+   "forks": 133,
+   "createdAt": "2026-10-23T19:23:23Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T04:23:50.018Z",
+   "stack": {
+    "kind": "static",
+    "label": "Static website (HTML/CSS/JS)",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "live",
+   "launch": [
+    {
+     "id": "live",
+     "label": "Open it live",
+     "url": "https://raw.githack.com/aotoycffyxns/delta/main/index.html",
+     "needs": "nothing",
+     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
+    },
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/aotoycffyxns/delta",
+     "needs": "nothing",
+     "note": "A full editor and preview in your tab."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/aotoycffyxns/delta",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/aotoycffyxns/delta?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/aotoycffyxns/delta",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/aotoycffyxns/delta/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "npx serve .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/aotoycffyxns/delta.git\ncd delta\nnpx serve .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/aotoycffyxns/delta\nWhat it says it does: \"executor-pc\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T04:23:50.018Z"
+  },
   {
    "fullName": "felippe-regazio/verifiqueosfatos",
    "owner": "felippe-regazio",
@@ -31933,82 +32016,11 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/PedroMarinhoDev/ComfyUI-Drama3\nWhat it says it does: \"Fish Audio Drama 3 text to speech, natively in ComfyUI: voice cloning, dialogue and inline cues on cards from 8 GB, plus a native Qwen3-ASR. Built with Fish Audio.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T05:08:22.034Z"
-  },
-  {
-   "fullName": "zgsfsec/Full-Chain-Sentinel-System",
-   "owner": "zgsfsec",
-   "name": "Full-Chain-Sentinel-System",
-   "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
-   "avatar": "https://avatars.githubusercontent.com/u/88515720?v=4",
-   "description": "【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。",
-   "language": "TypeScript",
-   "topics": [],
-   "license": "MIT",
-   "stars": 51,
-   "forks": 20,
-   "createdAt": "2026-10-16T04:05:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T05:08:21.834Z",
-   "stack": {
-    "kind": "node",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/zgsfsec/Full-Chain-Sentinel-System",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run start:web`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/zgsfsec/Full-Chain-Sentinel-System",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/zgsfsec/Full-Chain-Sentinel-System?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/zgsfsec/Full-Chain-Sentinel-System",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm run start:web",
-   "notes": [
-    "It's a monorepo (several packages in one). Check the README for which folder to start in."
-   ],
-   "local": "git clone --depth 1 https://github.com/zgsfsec/Full-Chain-Sentinel-System.git\ncd Full-Chain-Sentinel-System\nnpm install\nnpm run start:web",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/zgsfsec/Full-Chain-Sentinel-System\nWhat it says it does: \"【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T05:08:21.834Z"
   }
  ],
  "levels": {
-  "instant": 43,
-  "account": 241,
+  "instant": 44,
+  "account": 240,
   "heavy": 101,
   "read": 115
  }

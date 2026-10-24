@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1312 guides written so far · last update 2026-10-24 04:23 UTC_
+_1313 guides written so far · last update 2026-10-24 04:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aotoycffyxns/delta](https://github.com/aotoycffyxns/delta) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aotoycffyxns/delta.md) |
 | [felippe-regazio/verifiqueosfatos](https://github.com/felippe-regazio/verifiqueosfatos) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/felippe-regazio/verifiqueosfatos.md) |
 | [xynbspqmochf/.github](https://github.com/xynbspqmochf/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xynbspqmochf/.github.md) |
 | [onchain-trading-bot/.github](https://github.com/onchain-trading-bot/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/onchain-trading-bot/.github.md) |
@@ -38,7 +39,6 @@ _1312 guides written so far · last update 2026-10-24 04:23 UTC_
 | [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/mmparko/dsh-purge.md) |
 | [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Python project | Runs in the browser with a free account | [guide](guides/reacher-z/awesome-rea.md) |
 | [ravensclawx/HBLauncher](https://github.com/ravensclawx/HBLauncher) | JavaScript project | Runs in the browser with a free account | [guide](guides/ravensclawx/hblauncher.md) |
-| [akhiranandan-04/neverlose](https://github.com/akhiranandan-04/neverlose) | PowerShell project | Runs in the browser with a free account | [guide](guides/akhiranandan-04/neverlose.md) |
 <!-- latest:end -->
 
 ## How it works

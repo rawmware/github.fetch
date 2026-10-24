@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1336 guides written so far · last update 2026-10-24 09:03 UTC_
+_1337 guides written so far · last update 2026-10-24 09:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mhzsajan/ns2jb](https://github.com/mhzsajan/ns2jb) | JavaScript project | Runs in the browser with a free account | [guide](guides/mhzsajan/ns2jb.md) |
 | [ravensclawx/ftpd-sb](https://github.com/ravensclawx/ftpd-sb) | GLSL project | Runs in the browser with a free account | [guide](guides/ravensclawx/ftpd-sb.md) |
 | [Chenkin-x/ComfyUI-Moss-Image-Edit](https://github.com/Chenkin-x/ComfyUI-Moss-Image-Edit) | Python project | Runs in the browser with a free account | [guide](guides/chenkin-x/comfyui-moss-image-edit.md) |
 | [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) | Shell project | Runs in the browser with a free account | [guide](guides/theorem-labs/oss-verify.md) |
@@ -38,7 +39,6 @@ _1336 guides written so far · last update 2026-10-24 09:03 UTC_
 | [aimeoa/hanshuang-inject-tool](https://github.com/aimeoa/hanshuang-inject-tool) | Vite app | Runs in the browser with a free account | [guide](guides/aimeoa/hanshuang-inject-tool.md) |
 | [anomalyco/rune](https://github.com/anomalyco/rune) | Rust project | Runs in the browser with a free account | [guide](guides/anomalyco/rune.md) |
 | [PandaSI-Labs/pandasi-agent](https://github.com/PandaSI-Labs/pandasi-agent) | Python project | Runs in the browser with a free account | [guide](guides/pandasi-labs/pandasi-agent.md) |
-| [haplollc/Vesalius](https://github.com/haplollc/Vesalius) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/haplollc/vesalius.md) |
 <!-- latest:end -->
 
 ## How it works

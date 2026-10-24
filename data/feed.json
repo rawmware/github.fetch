@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T04:23:51.842Z",
- "totalGuides": 1323,
+ "updatedAt": "2026-10-24T04:23:52.034Z",
+ "totalGuides": 1324,
  "items": [
+  {
+   "fullName": "cpypwn/mac2jb",
+   "owner": "cpypwn",
+   "name": "mac2jb",
+   "url": "https://github.com/cpypwn/mac2jb",
+   "avatar": "https://avatars.githubusercontent.com/u/5100258?v=4",
+   "description": "Use your Apple Silicon Mac as a USB HID keyboard to transfer the ns2jb bootstrap and automate post-bootstrap commands on Nintendo Switch 2.",
+   "language": "Swift",
+   "topics": [],
+   "license": "MIT",
+   "stars": 68,
+   "forks": 12,
+   "createdAt": "2026-10-22T18:42:23Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T04:23:52.033Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/cpypwn/mac2jb?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/cpypwn/mac2jb",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/cpypwn/mac2jb/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/cpypwn/mac2jb.git\ncd mac2jb",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/cpypwn/mac2jb\nWhat it says it does: \"Use your Apple Silicon Mac as a USB HID keyboard to transfer the ns2jb bootstrap and automate post-bootstrap commands on Nintendo Switch 2.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T04:23:52.033Z"
+  },
   {
    "fullName": "Addition2000/mcd-diet-guard",
    "owner": "Addition2000",
@@ -31958,75 +32015,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/cschalle/hw-harness\nWhat it says it does: \"Small set of tools for helping with reverse engineering Linux drivers\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T09:54:40.554Z"
-  },
-  {
-   "fullName": "leekt/skim",
-   "owner": "leekt",
-   "name": "skim",
-   "url": "https://github.com/leekt/skim",
-   "avatar": "https://avatars.githubusercontent.com/u/15259621?v=4",
-   "description": "Application-specific Ethereum state client: sync (and archive) only the state your app needs, straight from P2P. BAL-driven, verified, local eth_call in ms.",
-   "language": "Rust",
-   "topics": [
-    "eip-7928",
-    "ethereum",
-    "evm",
-    "glamsterdam",
-    "light-client",
-    "p2p",
-    "revm",
-    "rust"
-   ],
-   "license": "Apache-2.0",
-   "stars": 52,
-   "forks": 2,
-   "createdAt": "2026-10-15T06:13:06Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T09:54:40.345Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/leekt/skim?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/leekt/skim",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/leekt/skim/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/leekt/skim.git\ncd skim\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/leekt/skim\nWhat it says it does: \"Application-specific Ethereum state client: sync (and archive) only the state your app needs, straight from P2P. BAL-driven, verified, local eth_call in ms.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T09:54:40.345Z"
   }
  ],
  "levels": {
-  "account": 238,
-  "heavy": 101,
+  "heavy": 102,
+  "account": 237,
   "instant": 47,
   "read": 114
  }

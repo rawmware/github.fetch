@@ -1,8 +1,88 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T09:03:43.517Z",
- "totalGuides": 1328,
+ "updatedAt": "2026-10-24T09:03:43.927Z",
+ "totalGuides": 1329,
  "items": [
+  {
+   "fullName": "Sam1983Aing/ticket-tear",
+   "owner": "Sam1983Aing",
+   "name": "ticket-tear",
+   "url": "https://github.com/Sam1983Aing/ticket-tear",
+   "avatar": "https://avatars.githubusercontent.com/u/169861563?v=4",
+   "description": "A 3D ticket you can bend, flip and tear off. Verlet paper physics, holographic GLSL foil and a rip sound made in code. Built with Gemini 4 Argon.",
+   "language": "TypeScript",
+   "topics": [
+    "antigravity",
+    "gemini",
+    "glsl",
+    "physics",
+    "shaders",
+    "threejs",
+    "typescript",
+    "verlet"
+   ],
+   "license": null,
+   "stars": 62,
+   "forks": 5,
+   "createdAt": "2026-10-22T12:43:31Z",
+   "branch": "main",
+   "homepage": "https://sam1983aing.github.io/ticket-tear/",
+   "addedAt": "2026-10-24T09:03:43.926Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Sam1983Aing/ticket-tear",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Sam1983Aing/ticket-tear",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Sam1983Aing/ticket-tear?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Sam1983Aing/ticket-tear",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Sam1983Aing/ticket-tear/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Sam1983Aing/ticket-tear.git\ncd ticket-tear\nnpm install\nnpm run dev",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Sam1983Aing/ticket-tear\nWhat it says it does: \"A 3D ticket you can bend, flip and tear off. Verlet paper physics, holographic GLSL foil and a rip sound made in code. Built with Gemini 4 Argon.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T09:03:43.926Z"
+  },
   {
    "fullName": "aimeoa/hanshuang-inject-tool",
    "owner": "aimeoa",
@@ -31935,67 +32015,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/mod-manager/mod-manager.github.io\nWhat it says it does: \"Эта программа предназначена для автоматической установки модов для большого количества игр, удобного их хранения, отключения ненужных и т.д. Программа интуитивно понятна, разобраться в ней не составит труда.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T09:54:41.828Z"
-  },
-  {
-   "fullName": "ardiri/dev-palmos",
-   "owner": "ardiri",
-   "name": "dev-palmos",
-   "url": "https://github.com/ardiri/dev-palmos",
-   "avatar": "https://avatars.githubusercontent.com/u/7701132?v=4",
-   "description": "Historical Palm OS development resources, SDKs, documentation and utilities",
-   "language": "HTML",
-   "topics": [],
-   "license": null,
-   "stars": 48,
-   "forks": 4,
-   "createdAt": "2026-10-15T13:34:58Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T09:54:41.675Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ardiri/dev-palmos?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ardiri/dev-palmos",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ardiri/dev-palmos/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ardiri/dev-palmos.git\ncd dev-palmos",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ardiri/dev-palmos\nWhat it says it does: \"Historical Palm OS development resources, SDKs, documentation and utilities\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T09:54:41.675Z"
   }
  ],
  "levels": {
-  "account": 237,
+  "instant": 48,
+  "account": 236,
   "heavy": 102,
-  "instant": 47,
   "read": 114
  }
 }

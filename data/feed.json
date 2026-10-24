@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T04:23:50.741Z",
- "totalGuides": 1317,
+ "updatedAt": "2026-10-24T04:23:50.897Z",
+ "totalGuides": 1318,
  "items": [
+  {
+   "fullName": "Xinge2333/codex-quota-bar",
+   "owner": "Xinge2333",
+   "name": "codex-quota-bar",
+   "url": "https://github.com/Xinge2333/codex-quota-bar",
+   "avatar": "https://avatars.githubusercontent.com/u/111623990?v=4",
+   "description": "macOS Codex quota menu bar with an optional desktop overlay. 中文 / English guides.",
+   "language": "Swift",
+   "topics": [],
+   "license": null,
+   "stars": 73,
+   "forks": 5,
+   "createdAt": "2026-10-22T09:25:13Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T04:23:50.896Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Xinge2333/codex-quota-bar?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Xinge2333/codex-quota-bar",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Xinge2333/codex-quota-bar/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Xinge2333/codex-quota-bar.git\ncd codex-quota-bar",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Xinge2333/codex-quota-bar\nWhat it says it does: \"macOS Codex quota menu bar with an optional desktop overlay. 中文 / English guides.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T04:23:50.896Z"
+  },
   {
    "fullName": "qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop",
    "owner": "qxqfvfpjzxnv",
@@ -31997,76 +32054,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/MartinPuli/taste-library\nWhat it says it does: \"Design references from Cosign's top 40 High Taste Companies, extracted with TasteLabs and indexed for AI agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T05:08:23.377Z"
-  },
-  {
-   "fullName": "WoodStoryConverter/Gta-V-Respocket-AIO-Soft",
-   "owner": "WoodStoryConverter",
-   "name": "Gta-V-Respocket-AIO-Soft",
-   "url": "https://github.com/WoodStoryConverter/Gta-V-Respocket-AIO-Soft",
-   "avatar": "https://avatars.githubusercontent.com/u/336756526?v=4",
-   "description": "Best Software For GTA V Yet",
-   "language": null,
-   "topics": [
-    "gta-rage",
-    "gta-v-modding",
-    "gta5-enhanced",
-    "gta5-helper",
-    "gta5-optimizer",
-    "gta5-performance-tweak-windows",
-    "gta5-scripthook",
-    "gta5-toolkit"
-   ],
-   "license": null,
-   "stars": 44,
-   "forks": 0,
-   "createdAt": "2026-10-15T07:14:43Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T05:08:23.071Z",
-   "stack": {
-    "kind": "other",
-    "label": "Code project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/WoodStoryConverter/Gta-V-Respocket-AIO-Soft?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/WoodStoryConverter/Gta-V-Respocket-AIO-Soft",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/WoodStoryConverter/Gta-V-Respocket-AIO-Soft/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/WoodStoryConverter/Gta-V-Respocket-AIO-Soft.git\ncd Gta-V-Respocket-AIO-Soft",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/WoodStoryConverter/Gta-V-Respocket-AIO-Soft\nWhat it says it does: \"Best Software For GTA V Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T05:08:23.071Z"
   }
  ],
  "levels": {
+  "heavy": 102,
   "instant": 47,
-  "account": 237,
-  "heavy": 101,
+  "account": 236,
   "read": 115
  }
 }

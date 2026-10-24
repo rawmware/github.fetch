@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1345 guides written so far · last update 2026-10-24 13:16 UTC_
+_1346 guides written so far · last update 2026-10-24 13:16 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [xkx121029/mcd-vibe-commit](https://github.com/xkx121029/mcd-vibe-commit) | Python project | Runs in the browser with a free account | [guide](guides/xkx121029/mcd-vibe-commit.md) |
 | [jouaaaaaa/mcd-self-butler](https://github.com/jouaaaaaa/mcd-self-butler) | Python project | Runs in the browser with a free account | [guide](guides/jouaaaaaa/mcd-self-butler.md) |
 | [Charonyuu/whatsmyagentdoing](https://github.com/Charonyuu/whatsmyagentdoing) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/charonyuu/whatsmyagentdoing.md) |
 | [CH-LaTiao/lumina-guide](https://github.com/CH-LaTiao/lumina-guide) | Python project | Runs in the browser with a free account | [guide](guides/ch-latiao/lumina-guide.md) |
@@ -38,7 +39,6 @@ _1345 guides written so far · last update 2026-10-24 13:16 UTC_
 | [mhzsajan/ns2jb](https://github.com/mhzsajan/ns2jb) | JavaScript project | Runs in the browser with a free account | [guide](guides/mhzsajan/ns2jb.md) |
 | [ravensclawx/ftpd-sb](https://github.com/ravensclawx/ftpd-sb) | GLSL project | Runs in the browser with a free account | [guide](guides/ravensclawx/ftpd-sb.md) |
 | [Chenkin-x/ComfyUI-Moss-Image-Edit](https://github.com/Chenkin-x/ComfyUI-Moss-Image-Edit) | Python project | Runs in the browser with a free account | [guide](guides/chenkin-x/comfyui-moss-image-edit.md) |
-| [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) | Shell project | Runs in the browser with a free account | [guide](guides/theorem-labs/oss-verify.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T16:42:10.154Z",
- "totalGuides": 1356,
+ "updatedAt": "2026-10-24T16:42:10.446Z",
+ "totalGuides": 1357,
  "items": [
+  {
+   "fullName": "Alterssss/dsh-bili-whale",
+   "owner": "Alterssss",
+   "name": "dsh-bili-whale",
+   "url": "https://github.com/Alterssss/dsh-bili-whale",
+   "avatar": "https://avatars.githubusercontent.com/u/49617268?v=4",
+   "description": "给 DSH 装一条有日子的鱼：自己按作息刷 B 站、真看懂视频、写两本日记，把值得的 @ 你。",
+   "language": "JavaScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 346,
+   "forks": 34,
+   "createdAt": "2026-10-17T17:17:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T16:42:10.446Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Alterssss/dsh-bili-whale",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Alterssss/dsh-bili-whale",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Alterssss/dsh-bili-whale?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Alterssss/dsh-bili-whale",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Alterssss/dsh-bili-whale/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Alterssss/dsh-bili-whale.git\ncd dsh-bili-whale\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Alterssss/dsh-bili-whale\nWhat it says it does: \"给 DSH 装一条有日子的鱼：自己按作息刷 B 站、真看懂视频、写两本日记，把值得的 @ 你。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T16:42:10.446Z"
+  },
   {
    "fullName": "adhiprib/humanizer-indonesia",
    "owner": "adhiprib",
@@ -31944,60 +32013,12 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/ZiZc3/LiveShell\nWhat it says it does: \"Animated backgrounds for PS5 home screen.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T21:37:18.799Z"
-  },
-  {
-   "fullName": "xscreensaver-official/xscreensaver",
-   "owner": "xscreensaver-official",
-   "name": "xscreensaver",
-   "url": "https://github.com/xscreensaver-official/xscreensaver",
-   "avatar": "https://avatars.githubusercontent.com/u/343638566?v=4",
-   "description": "There is no official XScreenSaver GitHub repository.",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 91,
-   "forks": 1,
-   "createdAt": "2026-10-16T16:24:44Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T21:37:18.632Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/xscreensaver-official/xscreensaver",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/xscreensaver-official/xscreensaver/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/xscreensaver-official/xscreensaver\nWhat it says it does: \"There is no official XScreenSaver GitHub repository.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T21:37:18.632Z"
   }
  ],
  "levels": {
-  "account": 242,
+  "account": 243,
   "heavy": 92,
   "instant": 49,
-  "read": 117
+  "read": 116
  }
 }

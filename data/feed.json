@@ -1,8 +1,69 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T09:03:44.810Z",
- "totalGuides": 1333,
+ "updatedAt": "2026-10-24T09:03:45.008Z",
+ "totalGuides": 1334,
  "items": [
+  {
+   "fullName": "theorem-labs/oss-verify",
+   "owner": "theorem-labs",
+   "name": "oss-verify",
+   "url": "https://github.com/theorem-labs/oss-verify",
+   "avatar": "https://avatars.githubusercontent.com/u/212152656?v=4",
+   "description": "OSS Verify: enrollment and build instructions for formally verifying open-source fuzz targets",
+   "language": "Shell",
+   "topics": [
+    "formal-verification",
+    "fuzzing",
+    "oss-fuzz",
+    "riscv",
+    "rocq"
+   ],
+   "license": "Apache-2.0",
+   "stars": 54,
+   "forks": 8,
+   "createdAt": "2026-10-22T10:09:57Z",
+   "branch": "main",
+   "homepage": "https://theorem.dev/oss-verify/",
+   "addedAt": "2026-10-24T09:03:45.008Z",
+   "stack": {
+    "kind": "other",
+    "label": "Shell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/theorem-labs/oss-verify?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/theorem-labs/oss-verify",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/theorem-labs/oss-verify/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/theorem-labs/oss-verify.git\ncd oss-verify",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/theorem-labs/oss-verify\nWhat it says it does: \"OSS Verify: enrollment and build instructions for formally verifying open-source fuzz targets\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T09:03:45.008Z"
+  },
   {
    "fullName": "YUME-hu/mctime-capsule",
    "owner": "YUME-hu",
@@ -31922,77 +31983,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/nunomaduro/dev-null.sh\nWhat it says it does: \"dev-null.sh\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T14:44:01.375Z"
-  },
-  {
-   "fullName": "anujasid/mcp-for-blender-pro",
-   "owner": "anujasid",
-   "name": "mcp-for-blender-pro",
-   "url": "https://github.com/anujasid/mcp-for-blender-pro",
-   "avatar": "https://avatars.githubusercontent.com/u/343139124?v=4",
-   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.",
-   "language": "Python",
-   "topics": [
-    "3d",
-    "3d-automation",
-    "3d-modeling",
-    "ai-agents",
-    "ai-assistant",
-    "blender",
-    "blender-addon",
-    "blender-ai"
-   ],
-   "license": "MIT",
-   "stars": 76,
-   "forks": 0,
-   "createdAt": "2026-10-15T22:30:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T14:44:00.974Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/anujasid/mcp-for-blender-pro/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/anujasid/mcp-for-blender-pro?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/anujasid/mcp-for-blender-pro",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/anujasid/mcp-for-blender-pro/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/anujasid/mcp-for-blender-pro.git\ncd mcp-for-blender-pro",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/anujasid/mcp-for-blender-pro\nWhat it says it does: \"AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T14:44:00.974Z"
   }
  ],
  "levels": {

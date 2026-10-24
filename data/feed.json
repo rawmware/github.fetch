@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T13:16:21.769Z",
- "totalGuides": 1342,
+ "updatedAt": "2026-10-24T13:16:22.030Z",
+ "totalGuides": 1343,
  "items": [
+  {
+   "fullName": "CH-LaTiao/lumina-guide",
+   "owner": "CH-LaTiao",
+   "name": "lumina-guide",
+   "url": "https://github.com/CH-LaTiao/lumina-guide",
+   "avatar": "https://avatars.githubusercontent.com/u/59132903?v=4",
+   "description": "LUMINA Guide / 灵犀: Jetson + Orbbec RGB-D wearable navigation assistant prototype",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 86,
+   "forks": 1,
+   "createdAt": "2026-10-23T16:50:21Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T13:16:22.030Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/CH-LaTiao/lumina-guide/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/CH-LaTiao/lumina-guide?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/CH-LaTiao/lumina-guide",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/CH-LaTiao/lumina-guide/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/CH-LaTiao/lumina-guide.git\ncd lumina-guide",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/CH-LaTiao/lumina-guide\nWhat it says it does: \"LUMINA Guide / 灵犀: Jetson + Orbbec RGB-D wearable navigation assistant prototype\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T13:16:22.030Z"
+  },
   {
    "fullName": "xMazaki/unbloat-android-tv",
    "owner": "xMazaki",
@@ -31882,66 +31944,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/SakanaAI/AutoIllustrate\nWhat it says it does: \"Generate publication-ready, editable draw.io figures for research papers from a methods section, using LLM agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T14:44:04.145Z"
-  },
-  {
-   "fullName": "Haryy985/yunkun-console-preview",
-   "owner": "Haryy985",
-   "name": "yunkun-console-preview",
-   "url": "https://github.com/Haryy985/yunkun-console-preview",
-   "avatar": "https://avatars.githubusercontent.com/u/181617185?v=4",
-   "description": "云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
-   "language": "Go",
-   "topics": [],
-   "license": null,
-   "stars": 50,
-   "forks": 2,
-   "createdAt": "2026-10-15T02:45:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T14:44:03.590Z",
-   "stack": {
-    "kind": "other",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Haryy985/yunkun-console-preview?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Haryy985/yunkun-console-preview",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Haryy985/yunkun-console-preview/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Haryy985/yunkun-console-preview.git\ncd yunkun-console-preview",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Haryy985/yunkun-console-preview\nWhat it says it does: \"云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T14:44:03.590Z"
   }
  ],
  "levels": {
-  "heavy": 99,
   "account": 240,
+  "heavy": 99,
   "read": 115,
   "instant": 46
  }

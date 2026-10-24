@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1342 guides written so far · last update 2026-10-24 13:16 UTC_
+_1343 guides written so far · last update 2026-10-24 13:16 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CH-LaTiao/lumina-guide](https://github.com/CH-LaTiao/lumina-guide) | Python project | Runs in the browser with a free account | [guide](guides/ch-latiao/lumina-guide.md) |
 | [xMazaki/unbloat-android-tv](https://github.com/xMazaki/unbloat-android-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/xmazaki/unbloat-android-tv.md) |
 | [Krusty84/yaDisk-Health](https://github.com/Krusty84/yaDisk-Health) | Python project | Runs in the browser with a free account | [guide](guides/krusty84/yadisk-health.md) |
 | [aancw/php2shell-scanner](https://github.com/aancw/php2shell-scanner) | Go project | Runs in the browser with a free account | [guide](guides/aancw/php2shell-scanner.md) |
@@ -38,7 +39,6 @@ _1342 guides written so far · last update 2026-10-24 13:16 UTC_
 | [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) | Shell project | Runs in the browser with a free account | [guide](guides/theorem-labs/oss-verify.md) |
 | [YUME-hu/mctime-capsule](https://github.com/YUME-hu/mctime-capsule) | JavaScript project | Runs in the browser with a free account | [guide](guides/yume-hu/mctime-capsule.md) |
 | [Qsnh/php2shell-fixed](https://github.com/Qsnh/php2shell-fixed) | Shell project | Runs in the browser with a free account | [guide](guides/qsnh/php2shell-fixed.md) |
-| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | Python project | Runs in the browser with a free account | [guide](guides/rddmwmddr/android-ad-cleaner.md) |
 <!-- latest:end -->
 
 ## How it works

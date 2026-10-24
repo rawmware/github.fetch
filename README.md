@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1325 guides written so far · last update 2026-10-24 04:23 UTC_
+_1326 guides written so far · last update 2026-10-24 04:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PandaSI-Labs/pandasi-agent](https://github.com/PandaSI-Labs/pandasi-agent) | Python project | Runs in the browser with a free account | [guide](guides/pandasi-labs/pandasi-agent.md) |
 | [haplollc/Vesalius](https://github.com/haplollc/Vesalius) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/haplollc/vesalius.md) |
 | [cpypwn/mac2jb](https://github.com/cpypwn/mac2jb) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/cpypwn/mac2jb.md) |
 | [Addition2000/mcd-diet-guard](https://github.com/Addition2000/mcd-diet-guard) | Python project | Runs in the browser with a free account | [guide](guides/addition2000/mcd-diet-guard.md) |
@@ -38,7 +39,6 @@ _1325 guides written so far · last update 2026-10-24 04:23 UTC_
 | [qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop](https://github.com/qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop.md) |
 | [zengshuangzi/mcd-money-saver](https://github.com/zengshuangzi/mcd-money-saver) | Python project | Runs in the browser with a free account | [guide](guides/zengshuangzi/mcd-money-saver.md) |
 | [jchumcrfbluw/roblox-solara-executor-pc-desktop](https://github.com/jchumcrfbluw/roblox-solara-executor-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/jchumcrfbluw/roblox-solara-executor-pc-desktop.md) |
-| [onchain-whale-tracker-pc-desktop/.github](https://github.com/onchain-whale-tracker-pc-desktop/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/onchain-whale-tracker-pc-desktop/.github.md) |
 <!-- latest:end -->
 
 ## How it works

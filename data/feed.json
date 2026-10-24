@@ -1,8 +1,78 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T13:16:22.322Z",
- "totalGuides": 1344,
+ "updatedAt": "2026-10-24T13:16:22.507Z",
+ "totalGuides": 1345,
  "items": [
+  {
+   "fullName": "jouaaaaaa/mcd-self-butler",
+   "owner": "jouaaaaaa",
+   "name": "mcd-self-butler",
+   "url": "https://github.com/jouaaaaaa/mcd-self-butler",
+   "avatar": "https://avatars.githubusercontent.com/u/186379871?v=4",
+   "description": "麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。",
+   "language": "Python",
+   "topics": [
+    "credit-scoring",
+    "mcdonalds",
+    "mcp",
+    "nutrition",
+    "python",
+    "skill",
+    "workbuddy"
+   ],
+   "license": "MIT",
+   "stars": 72,
+   "forks": 3,
+   "createdAt": "2026-10-24T04:34:37Z",
+   "branch": "main",
+   "homepage": "https://jouaaaaaa.github.io/mcd-self-butler/",
+   "addedAt": "2026-10-24T13:16:22.507Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/jouaaaaaa/mcd-self-butler/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/jouaaaaaa/mcd-self-butler?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/jouaaaaaa/mcd-self-butler",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/jouaaaaaa/mcd-self-butler/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/jouaaaaaa/mcd-self-butler.git\ncd mcd-self-butler",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/jouaaaaaa/mcd-self-butler\nWhat it says it does: \"麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T13:16:22.507Z"
+  },
   {
    "fullName": "Charonyuu/whatsmyagentdoing",
    "owner": "Charonyuu",
@@ -31893,69 +31963,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Xenoesclaw44704/Arc-Raiders-Respocket-FPS-Booster\nWhat it says it does: \"Best Software For Arc Raiders Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T18:26:20.727Z"
-  },
-  {
-   "fullName": "ClickingMaster/ssrecomp",
-   "owner": "ClickingMaster",
-   "name": "ssrecomp",
-   "url": "https://github.com/ClickingMaster/ssrecomp",
-   "avatar": "https://avatars.githubusercontent.com/u/342343931?v=4",
-   "description": "A recomp of Pokemon Soul Silver for single screen devices",
-   "language": "C++",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 48,
-   "forks": 2,
-   "createdAt": "2026-10-14T05:48:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T14:44:04.342Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ClickingMaster/ssrecomp?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ClickingMaster/ssrecomp",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ClickingMaster/ssrecomp/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/ClickingMaster/ssrecomp.git\ncd ssrecomp",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/ClickingMaster/ssrecomp\nWhat it says it does: \"A recomp of Pokemon Soul Silver for single screen devices\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T14:44:04.342Z"
   }
  ],
  "levels": {
+  "account": 240,
   "instant": 47,
-  "account": 239,
-  "heavy": 99,
+  "heavy": 98,
   "read": 115
  }
 }

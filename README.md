@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1344 guides written so far · last update 2026-10-24 13:16 UTC_
+_1345 guides written so far · last update 2026-10-24 13:16 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jouaaaaaa/mcd-self-butler](https://github.com/jouaaaaaa/mcd-self-butler) | Python project | Runs in the browser with a free account | [guide](guides/jouaaaaaa/mcd-self-butler.md) |
 | [Charonyuu/whatsmyagentdoing](https://github.com/Charonyuu/whatsmyagentdoing) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/charonyuu/whatsmyagentdoing.md) |
 | [CH-LaTiao/lumina-guide](https://github.com/CH-LaTiao/lumina-guide) | Python project | Runs in the browser with a free account | [guide](guides/ch-latiao/lumina-guide.md) |
 | [xMazaki/unbloat-android-tv](https://github.com/xMazaki/unbloat-android-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/xmazaki/unbloat-android-tv.md) |
@@ -38,7 +39,6 @@ _1344 guides written so far · last update 2026-10-24 13:16 UTC_
 | [ravensclawx/ftpd-sb](https://github.com/ravensclawx/ftpd-sb) | GLSL project | Runs in the browser with a free account | [guide](guides/ravensclawx/ftpd-sb.md) |
 | [Chenkin-x/ComfyUI-Moss-Image-Edit](https://github.com/Chenkin-x/ComfyUI-Moss-Image-Edit) | Python project | Runs in the browser with a free account | [guide](guides/chenkin-x/comfyui-moss-image-edit.md) |
 | [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) | Shell project | Runs in the browser with a free account | [guide](guides/theorem-labs/oss-verify.md) |
-| [YUME-hu/mctime-capsule](https://github.com/YUME-hu/mctime-capsule) | JavaScript project | Runs in the browser with a free account | [guide](guides/yume-hu/mctime-capsule.md) |
 <!-- latest:end -->
 
 ## How it works

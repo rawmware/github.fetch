@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1362 guides written so far · last update 2026-10-24 19:04 UTC_
+_1363 guides written so far · last update 2026-10-24 19:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Python project | Runs in the browser with a free account | [guide](guides/morganlinton/beautifulrust.md) |
 | [mirkobrombin/raven](https://github.com/mirkobrombin/raven) | Go project | Runs in the browser with a free account | [guide](guides/mirkobrombin/raven.md) |
 | [routerhubSI/uncensored-ai-api](https://github.com/routerhubSI/uncensored-ai-api) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/routerhubsi/uncensored-ai-api.md) |
 | [glanderness/BeefTV](https://github.com/glanderness/BeefTV) | Docker app | Runs in the browser with a free account | [guide](guides/glanderness/beeftv.md) |
@@ -38,7 +39,6 @@ _1362 guides written so far · last update 2026-10-24 19:04 UTC_
 | [SkyZeroZx/corner-shop](https://github.com/SkyZeroZx/corner-shop) | Angular app | Runs in the browser with a free account | [guide](guides/skyzerozx/corner-shop.md) |
 | [rjgyzakqgfiv/.github](https://github.com/rjgyzakqgfiv/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rjgyzakqgfiv/.github.md) |
 | [songjianyang/xss-audit](https://github.com/songjianyang/xss-audit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/songjianyang/xss-audit.md) |
-| [WallScorpion/Imei-Repair](https://github.com/WallScorpion/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wallscorpion/imei-repair.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1350 guides written so far · last update 2026-10-24 13:16 UTC_
+_1351 guides written so far · last update 2026-10-24 13:16 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [WallScorpion/Imei-Repair](https://github.com/WallScorpion/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wallscorpion/imei-repair.md) |
 | [ethanplusai/astro-conversion-kit](https://github.com/ethanplusai/astro-conversion-kit) | JavaScript project | Runs in the browser with a free account | [guide](guides/ethanplusai/astro-conversion-kit.md) |
 | [mbsintegrations/LG-TV-HA-Home-Launcher](https://github.com/mbsintegrations/LG-TV-HA-Home-Launcher) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/mbsintegrations/lg-tv-ha-home-launcher.md) |
 | [outerdeckhandquilt/Lossless-Scaling](https://github.com/outerdeckhandquilt/Lossless-Scaling) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/outerdeckhandquilt/lossless-scaling.md) |
@@ -38,7 +39,6 @@ _1350 guides written so far · last update 2026-10-24 13:16 UTC_
 | [xMazaki/unbloat-android-tv](https://github.com/xMazaki/unbloat-android-tv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/xmazaki/unbloat-android-tv.md) |
 | [Krusty84/yaDisk-Health](https://github.com/Krusty84/yaDisk-Health) | Python project | Runs in the browser with a free account | [guide](guides/krusty84/yadisk-health.md) |
 | [aancw/php2shell-scanner](https://github.com/aancw/php2shell-scanner) | Go project | Runs in the browser with a free account | [guide](guides/aancw/php2shell-scanner.md) |
-| [Marooniogrip/Discord-Quest-Completer](https://github.com/Marooniogrip/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marooniogrip/discord-quest-completer.md) |
 <!-- latest:end -->
 
 ## How it works

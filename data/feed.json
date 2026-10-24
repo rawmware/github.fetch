@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T13:16:23.671Z",
- "totalGuides": 1351,
+ "updatedAt": "2026-10-24T16:42:09.292Z",
+ "totalGuides": 1352,
  "items": [
+  {
+   "fullName": "songjianyang/xss-audit",
+   "owner": "songjianyang",
+   "name": "xss-audit",
+   "url": "https://github.com/songjianyang/xss-audit",
+   "avatar": "https://avatars.githubusercontent.com/u/12623816?v=4",
+   "description": "Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaScript projects.",
+   "language": null,
+   "topics": [],
+   "license": "MIT",
+   "stars": 127,
+   "forks": 32,
+   "createdAt": "2026-10-24T11:32:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T16:42:09.275Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/songjianyang/xss-audit",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/songjianyang/xss-audit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/songjianyang/xss-audit\nWhat it says it does: \"Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaScript projects.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T16:42:09.275Z"
+  },
   {
    "fullName": "WallScorpion/Imei-Repair",
    "owner": "WallScorpion",
@@ -31903,75 +31951,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/BPaladin52914/Respocket-Yuzu-Emulator-Reworked-v2\nWhat it says it does: \"Yuzu Emulator Ultimate Toolkit is an all‑in‑one package built to make emulating your Switch library on PC as smooth as possible\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T18:26:22.094Z"
-  },
-  {
-   "fullName": "Jackacwing97836/FC27-Respocket-AIO-Soft",
-   "owner": "Jackacwing97836",
-   "name": "FC27-Respocket-AIO-Soft",
-   "url": "https://github.com/Jackacwing97836/FC27-Respocket-AIO-Soft",
-   "avatar": "https://avatars.githubusercontent.com/u/340104314?v=4",
-   "description": "Free/Best Software for FC27 Yet",
-   "language": "CSS",
-   "topics": [
-    "autobidder",
-    "autobuyer",
-    "clubs",
-    "ea",
-    "ea-sports-fc-27",
-    "eafc",
-    "eafc25",
-    "eafc26"
-   ],
-   "license": null,
-   "stars": 71,
-   "forks": 0,
-   "createdAt": "2026-10-16T15:02:24Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T18:26:21.893Z",
-   "stack": {
-    "kind": "other",
-    "label": "CSS project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Jackacwing97836/FC27-Respocket-AIO-Soft?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Jackacwing97836/FC27-Respocket-AIO-Soft",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Jackacwing97836/FC27-Respocket-AIO-Soft/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Jackacwing97836/FC27-Respocket-AIO-Soft.git\ncd FC27-Respocket-AIO-Soft",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Jackacwing97836/FC27-Respocket-AIO-Soft\nWhat it says it does: \"Free/Best Software for FC27 Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T18:26:21.893Z"
   }
  ],
  "levels": {
-  "read": 116,
-  "account": 242,
+  "read": 117,
+  "account": 241,
   "instant": 48,
   "heavy": 94
  }

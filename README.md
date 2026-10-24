@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1373 guides written so far · last update 2026-10-24 21:34 UTC_
+_1374 guides written so far · last update 2026-10-24 23:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [tian1326/mcd-coupon-assistant](https://github.com/tian1326/mcd-coupon-assistant) | Python project | Runs in the browser with a free account | [guide](guides/tian1326/mcd-coupon-assistant.md) |
 | [wuyoscar/AISafetyHot](https://github.com/wuyoscar/AISafetyHot) | TeX project | Runs in the browser with a free account | [guide](guides/wuyoscar/aisafetyhot.md) |
 | [philips71017/Hiddify-Manager](https://github.com/philips71017/Hiddify-Manager) | Python project | Runs in the browser with a free account | [guide](guides/philips71017/hiddify-manager.md) |
 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/udhaykumarbala/cleanyourtv-app.md) |
@@ -38,7 +39,6 @@ _1373 guides written so far · last update 2026-10-24 21:34 UTC_
 | [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) | Python project | Runs in the browser with a free account | [guide](guides/routerhubsi/glm-5.3-abliterated.md) |
 | [ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native) | Python project | Runs in the browser with a free account | [guide](guides/ryderclanky/botw-native.md) |
 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Python project | Runs in the browser with a free account | [guide](guides/morganlinton/beautifulrust.md) |
-| [mirkobrombin/raven](https://github.com/mirkobrombin/raven) | Go project | Runs in the browser with a free account | [guide](guides/mirkobrombin/raven.md) |
 <!-- latest:end -->
 
 ## How it works

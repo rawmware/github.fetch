@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T23:40:33.627Z",
- "totalGuides": 1374,
+ "updatedAt": "2026-10-24T23:40:33.841Z",
+ "totalGuides": 1375,
  "items": [
+  {
+   "fullName": "mamcjr/BOTWRecompAndroid",
+   "owner": "mamcjr",
+   "name": "BOTWRecompAndroid",
+   "url": "https://github.com/mamcjr/BOTWRecompAndroid",
+   "avatar": "https://avatars.githubusercontent.com/u/26612066?v=4",
+   "description": "Static recompilation of The Legend of Zelda: Breath of the Wild (Switch 1.0.0 / 1.6.0 / 1.8.2) for Android - no game files included",
+   "language": "C",
+   "topics": [],
+   "license": null,
+   "stars": 74,
+   "forks": 1,
+   "createdAt": "2026-10-24T00:53:21Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T23:40:33.841Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mamcjr/BOTWRecompAndroid?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mamcjr/BOTWRecompAndroid",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mamcjr/BOTWRecompAndroid/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/mamcjr/BOTWRecompAndroid.git\ncd BOTWRecompAndroid",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/mamcjr/BOTWRecompAndroid\nWhat it says it does: \"Static recompilation of The Legend of Zelda: Breath of the Wild (Switch 1.0.0 / 1.6.0 / 1.8.2) for Android - no game files included\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T23:40:33.841Z"
+  },
   {
    "fullName": "tian1326/mcd-coupon-assistant",
    "owner": "tian1326",
@@ -31967,77 +32024,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/FlyerPersist96/Resp-Blooket-AIO-Soft\nWhat it says it does: \"Best Software For Blooket Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T04:10:36.632Z"
-  },
-  {
-   "fullName": "monsterelephantexist/Palworld-Respocket-AIO-Soft",
-   "owner": "monsterelephantexist",
-   "name": "Palworld-Respocket-AIO-Soft",
-   "url": "https://github.com/monsterelephantexist/Palworld-Respocket-AIO-Soft",
-   "avatar": "https://avatars.githubusercontent.com/u/337902173?v=4",
-   "description": "Best Software For Palworld Yet",
-   "language": "C++",
-   "topics": [
-    "fps-booster-no-lag",
-    "optimization",
-    "palworld",
-    "palworld-ammo",
-    "palworld-breeding-calculator",
-    "palworld-catch-rate",
-    "palworld-cheat-2026",
-    "palworld-craft"
-   ],
-   "license": null,
-   "stars": 59,
-   "forks": 0,
-   "createdAt": "2026-10-16T15:03:05Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T04:10:36.493Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/monsterelephantexist/Palworld-Respocket-AIO-Soft?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/monsterelephantexist/Palworld-Respocket-AIO-Soft",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/monsterelephantexist/Palworld-Respocket-AIO-Soft/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/monsterelephantexist/Palworld-Respocket-AIO-Soft.git\ncd Palworld-Respocket-AIO-Soft",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/monsterelephantexist/Palworld-Respocket-AIO-Soft\nWhat it says it does: \"Best Software For Palworld Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T04:10:36.493Z"
   }
  ],
  "levels": {
-  "account": 245,
   "heavy": 90,
+  "account": 245,
   "instant": 49,
   "read": 116
  }

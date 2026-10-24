@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1374 guides written so far · last update 2026-10-24 23:40 UTC_
+_1375 guides written so far · last update 2026-10-24 23:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mamcjr/BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mamcjr/botwrecompandroid.md) |
 | [tian1326/mcd-coupon-assistant](https://github.com/tian1326/mcd-coupon-assistant) | Python project | Runs in the browser with a free account | [guide](guides/tian1326/mcd-coupon-assistant.md) |
 | [wuyoscar/AISafetyHot](https://github.com/wuyoscar/AISafetyHot) | TeX project | Runs in the browser with a free account | [guide](guides/wuyoscar/aisafetyhot.md) |
 | [philips71017/Hiddify-Manager](https://github.com/philips71017/Hiddify-Manager) | Python project | Runs in the browser with a free account | [guide](guides/philips71017/hiddify-manager.md) |
@@ -38,7 +39,6 @@ _1374 guides written so far · last update 2026-10-24 23:40 UTC_
 | [e14tech/flag.txt](https://github.com/e14tech/flag.txt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/e14tech/flag.txt.md) |
 | [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) | Python project | Runs in the browser with a free account | [guide](guides/routerhubsi/glm-5.3-abliterated.md) |
 | [ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native) | Python project | Runs in the browser with a free account | [guide](guides/ryderclanky/botw-native.md) |
-| [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Python project | Runs in the browser with a free account | [guide](guides/morganlinton/beautifulrust.md) |
 <!-- latest:end -->
 
 ## How it works

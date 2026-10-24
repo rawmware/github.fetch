@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T04:23:50.395Z",
- "totalGuides": 1315,
+ "updatedAt": "2026-10-24T04:23:50.567Z",
+ "totalGuides": 1316,
  "items": [
+  {
+   "fullName": "zengshuangzi/mcd-money-saver",
+   "owner": "zengshuangzi",
+   "name": "mcd-money-saver",
+   "url": "https://github.com/zengshuangzi/mcd-money-saver",
+   "avatar": "https://avatars.githubusercontent.com/u/206506905?v=4",
+   "description": "基于麦当劳MCP的智能省钱助手",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 84,
+   "forks": 11,
+   "createdAt": "2026-10-22T08:15:03Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T04:23:50.566Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/zengshuangzi/mcd-money-saver/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zengshuangzi/mcd-money-saver?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zengshuangzi/mcd-money-saver",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zengshuangzi/mcd-money-saver/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/zengshuangzi/mcd-money-saver.git\ncd mcd-money-saver",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/zengshuangzi/mcd-money-saver\nWhat it says it does: \"基于麦当劳MCP的智能省钱助手\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T04:23:50.566Z"
+  },
   {
    "fullName": "jchumcrfbluw/roblox-solara-executor-pc-desktop",
    "owner": "jchumcrfbluw",
@@ -31969,86 +32031,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/YOURSJEYO/claude-switcher\nWhat it says it does: \"Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— 让真实IP在物理上无法泄漏\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T05:08:22.865Z"
-  },
-  {
-   "fullName": "2430816465/campus-knowledge-agent",
-   "owner": "2430816465",
-   "name": "campus-knowledge-agent",
-   "url": "https://github.com/2430816465/campus-knowledge-agent",
-   "avatar": "https://avatars.githubusercontent.com/u/331902176?v=4",
-   "description": "校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。",
-   "language": "Python",
-   "topics": [
-    "agent",
-    "document-processing",
-    "fastapi",
-    "human-in-the-loop",
-    "knowledge-base",
-    "ollama",
-    "python",
-    "rag"
-   ],
-   "license": null,
-   "stars": 45,
-   "forks": 0,
-   "createdAt": "2026-10-14T02:04:31Z",
-   "branch": "main",
-   "homepage": "https://zlyb.cloud",
-   "addedAt": "2026-10-16T05:08:22.689Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python FastAPI app",
-    "frameworks": [
-     "FastAPI"
-    ]
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/2430816465/campus-knowledge-agent/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/2430816465/campus-knowledge-agent?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/2430816465/campus-knowledge-agent",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/2430816465/campus-knowledge-agent/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [
-    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
-   ],
-   "local": "git clone --depth 1 https://github.com/2430816465/campus-knowledge-agent.git\ncd campus-knowledge-agent\npip install -r requirements.txt",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/2430816465/campus-knowledge-agent\nWhat it says it does: \"校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T05:08:22.689Z"
   }
  ],
  "levels": {
-  "instant": 46,
   "account": 238,
+  "instant": 46,
   "heavy": 101,
   "read": 115
  }

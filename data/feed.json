@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T13:16:22.669Z",
- "totalGuides": 1346,
+ "updatedAt": "2026-10-24T13:16:22.825Z",
+ "totalGuides": 1347,
  "items": [
+  {
+   "fullName": "liyupi/dafeiyu-cleaner",
+   "owner": "liyupi",
+   "name": "dafeiyu-cleaner",
+   "url": "https://github.com/liyupi/dafeiyu-cleaner",
+   "avatar": "https://avatars.githubusercontent.com/u/26037703?v=4",
+   "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
+   "language": "JavaScript",
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-content-detection",
+    "ai-detection",
+    "aigc",
+    "anti-spam",
+    "bilibili",
+    "bilibili-comments"
+   ],
+   "license": null,
+   "stars": 59,
+   "forks": 2,
+   "createdAt": "2026-10-23T03:39:33Z",
+   "branch": "main",
+   "homepage": "https://www.bilibili.com/video/BV1Ywn46EEyF",
+   "addedAt": "2026-10-24T13:16:22.824Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/liyupi/dafeiyu-cleaner?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/liyupi/dafeiyu-cleaner",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/liyupi/dafeiyu-cleaner/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/liyupi/dafeiyu-cleaner.git\ncd dafeiyu-cleaner",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/liyupi/dafeiyu-cleaner\nWhat it says it does: \"DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T13:16:22.824Z"
+  },
   {
    "fullName": "xkx121029/mcd-vibe-commit",
    "owner": "xkx121029",
@@ -31893,78 +31957,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC\nWhat it says it does: \"Modify Crimson Desert save files to change character stats, inventory, money, and quest progress with a direct interface.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T18:26:21.137Z"
-  },
-  {
-   "fullName": "assassinpebbleglide/Respocket-cs2-External-v1",
-   "owner": "assassinpebbleglide",
-   "name": "Respocket-cs2-External-v1",
-   "url": "https://github.com/assassinpebbleglide/Respocket-cs2-External-v1",
-   "avatar": "https://avatars.githubusercontent.com/u/337903571?v=4",
-   "description": "Best Software For cs2 Yet",
-   "language": "C++",
-   "topics": [
-    "anti-cheat-update",
-    "bunny-hop",
-    "bunnyhop",
-    "counter-strike",
-    "counter-strike-2",
-    "counter-strike-2-driver",
-    "cs2-aim-2026",
-    "cs2-cheat-esp"
-   ],
-   "license": null,
-   "stars": 72,
-   "forks": 0,
-   "createdAt": "2026-10-16T15:02:00Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T18:26:20.936Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/assassinpebbleglide/Respocket-cs2-External-v1?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/assassinpebbleglide/Respocket-cs2-External-v1",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/assassinpebbleglide/Respocket-cs2-External-v1/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/assassinpebbleglide/Respocket-cs2-External-v1.git\ncd Respocket-cs2-External-v1",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/assassinpebbleglide/Respocket-cs2-External-v1\nWhat it says it does: \"Best Software For cs2 Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T18:26:20.936Z"
   }
  ],
  "levels": {
-  "account": 241,
+  "account": 242,
   "instant": 47,
-  "heavy": 97,
+  "heavy": 96,
   "read": 115
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1338 guides written so far · last update 2026-10-24 09:03 UTC_
+_1339 guides written so far · last update 2026-10-24 09:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Marooniogrip/Discord-Quest-Completer](https://github.com/Marooniogrip/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marooniogrip/discord-quest-completer.md) |
 | [Th3chef/Treasure-Radar](https://github.com/Th3chef/Treasure-Radar) | Python project | Runs in the browser with a free account | [guide](guides/th3chef/treasure-radar.md) |
 | [mhzsajan/ns2jb](https://github.com/mhzsajan/ns2jb) | JavaScript project | Runs in the browser with a free account | [guide](guides/mhzsajan/ns2jb.md) |
 | [ravensclawx/ftpd-sb](https://github.com/ravensclawx/ftpd-sb) | GLSL project | Runs in the browser with a free account | [guide](guides/ravensclawx/ftpd-sb.md) |
@@ -38,7 +39,6 @@ _1338 guides written so far · last update 2026-10-24 09:03 UTC_
 | [Jakeschincariol/console-skill](https://github.com/Jakeschincariol/console-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/console-skill.md) |
 | [Sam1983Aing/ticket-tear](https://github.com/Sam1983Aing/ticket-tear) | Vite app | Runs in a browser tab, no account needed | [guide](guides/sam1983aing/ticket-tear.md) |
 | [aimeoa/hanshuang-inject-tool](https://github.com/aimeoa/hanshuang-inject-tool) | Vite app | Runs in the browser with a free account | [guide](guides/aimeoa/hanshuang-inject-tool.md) |
-| [anomalyco/rune](https://github.com/anomalyco/rune) | Rust project | Runs in the browser with a free account | [guide](guides/anomalyco/rune.md) |
 <!-- latest:end -->
 
 ## How it works

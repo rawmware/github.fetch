@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1321 guides written so far · last update 2026-10-24 04:23 UTC_
+_1322 guides written so far · last update 2026-10-24 04:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [stockedge/manga-generator](https://github.com/stockedge/manga-generator) | JavaScript project | Runs in the browser with a free account | [guide](guides/stockedge/manga-generator.md) |
 | [cookiengineer/actual-php2shell](https://github.com/cookiengineer/actual-php2shell) | HTML project | Runs in the browser with a free account | [guide](guides/cookiengineer/actual-php2shell.md) |
 | [josiahg2502-glitch/BrawlRecompiled](https://github.com/josiahg2502-glitch/BrawlRecompiled) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/josiahg2502-glitch/brawlrecompiled.md) |
 | [ivarvong/lantern](https://github.com/ivarvong/lantern) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/ivarvong/lantern.md) |
@@ -38,7 +39,6 @@ _1321 guides written so far · last update 2026-10-24 04:23 UTC_
 | [aotoycffyxns/delta](https://github.com/aotoycffyxns/delta) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aotoycffyxns/delta.md) |
 | [felippe-regazio/verifiqueosfatos](https://github.com/felippe-regazio/verifiqueosfatos) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/felippe-regazio/verifiqueosfatos.md) |
 | [xynbspqmochf/.github](https://github.com/xynbspqmochf/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xynbspqmochf/.github.md) |
-| [onchain-trading-bot/.github](https://github.com/onchain-trading-bot/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/onchain-trading-bot/.github.md) |
 <!-- latest:end -->
 
 ## How it works

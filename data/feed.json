@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T19:04:07.142Z",
- "totalGuides": 1366,
+ "updatedAt": "2026-10-24T21:34:11.784Z",
+ "totalGuides": 1367,
  "items": [
+  {
+   "fullName": "YoyoLin008/mcreplay",
+   "owner": "YoyoLin008",
+   "name": "mcreplay",
+   "url": "https://github.com/YoyoLin008/mcreplay",
+   "avatar": "https://avatars.githubusercontent.com/u/196116611?v=4",
+   "description": "McReplay（麦回放）— Structural snapshots, change reports, and local MCP replay for McDonald's China integrations.",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 104,
+   "forks": 6,
+   "createdAt": "2026-10-24T17:14:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T21:34:11.770Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/YoyoLin008/mcreplay/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/YoyoLin008/mcreplay?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/YoyoLin008/mcreplay",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/YoyoLin008/mcreplay/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/YoyoLin008/mcreplay.git\ncd mcreplay\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/YoyoLin008/mcreplay\nWhat it says it does: \"McReplay（麦回放）— Structural snapshots, change reports, and local MCP replay for McDonald's China integrations.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T21:34:11.770Z"
+  },
   {
    "fullName": "e14tech/flag.txt",
    "owner": "e14tech",
@@ -31950,73 +32012,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Noniv/web-ocean\nWhat it says it does: \"Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from a single 61 KB HTML file in Chrome.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T04:10:35.238Z"
-  },
-  {
-   "fullName": "cranebeaker/coop-anything",
-   "owner": "cranebeaker",
-   "name": "coop-anything",
-   "url": "https://github.com/cranebeaker/coop-anything",
-   "avatar": "https://avatars.githubusercontent.com/u/343430477?v=4",
-   "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 75,
-   "forks": 8,
-   "createdAt": "2026-10-16T11:12:03Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T04:10:35.002Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/cranebeaker/coop-anything/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/cranebeaker/coop-anything?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/cranebeaker/coop-anything",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/cranebeaker/coop-anything/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/cranebeaker/coop-anything.git\ncd coop-anything",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/cranebeaker/coop-anything\nWhat it says it does: \"Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T04:10:35.002Z"
   }
  ],
  "levels": {
-  "read": 117,
   "account": 244,
+  "read": 117,
   "instant": 49,
   "heavy": 90
  }

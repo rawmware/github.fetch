@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1316 guides written so far · last update 2026-10-24 04:23 UTC_
+_1317 guides written so far · last update 2026-10-24 04:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop](https://github.com/qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop.md) |
 | [zengshuangzi/mcd-money-saver](https://github.com/zengshuangzi/mcd-money-saver) | Python project | Runs in the browser with a free account | [guide](guides/zengshuangzi/mcd-money-saver.md) |
 | [jchumcrfbluw/roblox-solara-executor-pc-desktop](https://github.com/jchumcrfbluw/roblox-solara-executor-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/jchumcrfbluw/roblox-solara-executor-pc-desktop.md) |
 | [onchain-whale-tracker-pc-desktop/.github](https://github.com/onchain-whale-tracker-pc-desktop/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/onchain-whale-tracker-pc-desktop/.github.md) |
@@ -38,7 +39,6 @@ _1316 guides written so far · last update 2026-10-24 04:23 UTC_
 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/trhhubsd/artex.md) |
 | [angusdevgo/Seep-Reverse-Lab](https://github.com/angusdevgo/Seep-Reverse-Lab) | Lua project | Runs in the browser with a free account | [guide](guides/angusdevgo/seep-reverse-lab.md) |
 | [perplexityai/SPACE](https://github.com/perplexityai/SPACE) | Python project | Runs in the browser with a free account | [guide](guides/perplexityai/space.md) |
-| [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | Scala project | Runs in the browser with a free account | [guide](guides/notprotonnot/notproton.md) |
 <!-- latest:end -->
 
 ## How it works

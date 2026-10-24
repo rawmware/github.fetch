@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T13:16:22.825Z",
- "totalGuides": 1347,
+ "updatedAt": "2026-10-24T13:16:22.979Z",
+ "totalGuides": 1348,
  "items": [
+  {
+   "fullName": "outerdeckhandquilt/Lossless-Scaling",
+   "owner": "outerdeckhandquilt",
+   "name": "Lossless-Scaling",
+   "url": "https://github.com/outerdeckhandquilt/Lossless-Scaling",
+   "avatar": "https://avatars.githubusercontent.com/u/293965160?v=4",
+   "description": "Advanced Lossless Scaling fork: boost FPS, enable Frame Gen & upscale any game.",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 57,
+   "forks": 12,
+   "createdAt": "2026-10-24T12:04:30Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T13:16:22.978Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/outerdeckhandquilt/Lossless-Scaling",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/outerdeckhandquilt/Lossless-Scaling/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/outerdeckhandquilt/Lossless-Scaling\nWhat it says it does: \"Advanced Lossless Scaling fork: boost FPS, enable Frame Gen & upscale any game.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T13:16:22.978Z"
+  },
   {
    "fullName": "liyupi/dafeiyu-cleaner",
    "owner": "liyupi",
@@ -31891,78 +31939,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/XOmiod40291/99-Nights-Respocket-Free-Script\nWhat it says it does: \"Free keyless 99 Nights In The Forest script for PC — Auto Farm, God Mode, Kill All, Fly & Noclip\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T18:26:21.340Z"
-  },
-  {
-   "fullName": "meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC",
-   "owner": "meshmindtruss",
-   "name": "Crimson-Desert-Save-Editor-Mod-For-PC",
-   "url": "https://github.com/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC",
-   "avatar": "https://avatars.githubusercontent.com/u/337902423?v=4",
-   "description": "Modify Crimson Desert save files to change character stats, inventory, money, and quest progress with a direct interface.",
-   "language": "C++",
-   "topics": [
-    "character-editor",
-    "crimson-desert",
-    "crimson-desert-mods",
-    "crimson-desert-save",
-    "crimson-desert-save-editor",
-    "crimson-desert-tools",
-    "desktop",
-    "game-editor"
-   ],
-   "license": null,
-   "stars": 72,
-   "forks": 0,
-   "createdAt": "2026-10-16T15:01:59Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T18:26:21.137Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC.git\ncd Crimson-Desert-Save-Editor-Mod-For-PC",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/meshmindtruss/Crimson-Desert-Save-Editor-Mod-For-PC\nWhat it says it does: \"Modify Crimson Desert save files to change character stats, inventory, money, and quest progress with a direct interface.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T18:26:21.137Z"
   }
  ],
  "levels": {
+  "read": 116,
   "account": 242,
   "instant": 47,
-  "heavy": 96,
-  "read": 115
+  "heavy": 95
  }
 }

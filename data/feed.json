@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T16:42:10.446Z",
- "totalGuides": 1357,
+ "updatedAt": "2026-10-24T16:42:10.669Z",
+ "totalGuides": 1358,
  "items": [
+  {
+   "fullName": "LNPANDY/NX2Apple",
+   "owner": "LNPANDY",
+   "name": "NX2Apple",
+   "url": "https://github.com/LNPANDY/NX2Apple",
+   "avatar": "https://avatars.githubusercontent.com/u/90243050?v=4",
+   "description": "Play your own Switch games on iPhone/iPad — GUI fork of nxnative: RomFS archiving, 48 games, auto-sync",
+   "language": "C",
+   "topics": [
+    "custom-format",
+    "homebrew",
+    "ios",
+    "ipad",
+    "iphone",
+    "metal",
+    "nintendo-switch",
+    "romfs"
+   ],
+   "license": null,
+   "stars": 307,
+   "forks": 37,
+   "createdAt": "2026-10-20T18:16:07Z",
+   "branch": "main",
+   "homepage": "https://github.com/LNPANDY/NX2Apple#readme",
+   "addedAt": "2026-10-24T16:42:10.668Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/LNPANDY/NX2Apple?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/LNPANDY/NX2Apple",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LNPANDY/NX2Apple/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/LNPANDY/NX2Apple.git\ncd NX2Apple",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/LNPANDY/NX2Apple\nWhat it says it does: \"Play your own Switch games on iPhone/iPad — GUI fork of nxnative: RomFS archiving, 48 games, auto-sync\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T16:42:10.668Z"
+  },
   {
    "fullName": "Alterssss/dsh-bili-whale",
    "owner": "Alterssss",
@@ -31953,71 +32019,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/gungnir-sanye/tee-attestation-extraction\nWhat it says it does: \"面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T21:37:18.978Z"
-  },
-  {
-   "fullName": "ZiZc3/LiveShell",
-   "owner": "ZiZc3",
-   "name": "LiveShell",
-   "url": "https://github.com/ZiZc3/LiveShell",
-   "avatar": "https://avatars.githubusercontent.com/u/60833584?v=4",
-   "description": "Animated backgrounds for PS5 home screen.",
-   "language": "C++",
-   "topics": [
-    "animated-backgrounds",
-    "ps5"
-   ],
-   "license": "GPL-3.0",
-   "stars": 77,
-   "forks": 2,
-   "createdAt": "2026-10-15T19:19:59Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T21:37:18.799Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ZiZc3/LiveShell?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ZiZc3/LiveShell",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ZiZc3/LiveShell/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/ZiZc3/LiveShell.git\ncd LiveShell",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/ZiZc3/LiveShell\nWhat it says it does: \"Animated backgrounds for PS5 home screen.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T21:37:18.799Z"
   }
  ],
  "levels": {
-  "account": 243,
   "heavy": 92,
+  "account": 243,
   "instant": 49,
   "read": 116
  }

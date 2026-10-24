@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1357 guides written so far · last update 2026-10-24 16:42 UTC_
+_1358 guides written so far · last update 2026-10-24 16:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) | C project | Needs a real machine (or a GPU) to run | [guide](guides/lnpandy/nx2apple.md) |
 | [Alterssss/dsh-bili-whale](https://github.com/Alterssss/dsh-bili-whale) | JavaScript project | Runs in the browser with a free account | [guide](guides/alterssss/dsh-bili-whale.md) |
 | [adhiprib/humanizer-indonesia](https://github.com/adhiprib/humanizer-indonesia) | Python project | Runs in the browser with a free account | [guide](guides/adhiprib/humanizer-indonesia.md) |
 | [0xProbabillity/house-control-android](https://github.com/0xProbabillity/house-control-android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/0xprobabillity/house-control-android.md) |
@@ -38,7 +39,6 @@ _1357 guides written so far · last update 2026-10-24 16:42 UTC_
 | [mbsintegrations/LG-TV-HA-Home-Launcher](https://github.com/mbsintegrations/LG-TV-HA-Home-Launcher) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/mbsintegrations/lg-tv-ha-home-launcher.md) |
 | [outerdeckhandquilt/Lossless-Scaling](https://github.com/outerdeckhandquilt/Lossless-Scaling) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/outerdeckhandquilt/lossless-scaling.md) |
 | [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) | JavaScript project | Runs in the browser with a free account | [guide](guides/liyupi/dafeiyu-cleaner.md) |
-| [xkx121029/mcd-vibe-commit](https://github.com/xkx121029/mcd-vibe-commit) | Python project | Runs in the browser with a free account | [guide](guides/xkx121029/mcd-vibe-commit.md) |
 <!-- latest:end -->
 
 ## How it works

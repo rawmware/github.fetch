@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T09:03:44.631Z",
- "totalGuides": 1332,
+ "updatedAt": "2026-10-24T09:03:44.810Z",
+ "totalGuides": 1333,
  "items": [
+  {
+   "fullName": "YUME-hu/mctime-capsule",
+   "owner": "YUME-hu",
+   "name": "mctime-capsule",
+   "url": "https://github.com/YUME-hu/mctime-capsule",
+   "avatar": "https://avatars.githubusercontent.com/u/207306856?v=4",
+   "description": "把一单麦当劳寄存给未来的自己 | 麦当劳 MCP 创意开发大赛参赛作品",
+   "language": "JavaScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 54,
+   "forks": 0,
+   "createdAt": "2026-10-22T13:18:08Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T09:03:44.809Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/YUME-hu/mctime-capsule?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/YUME-hu/mctime-capsule",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/YUME-hu/mctime-capsule/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/YUME-hu/mctime-capsule.git\ncd mctime-capsule",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/YUME-hu/mctime-capsule\nWhat it says it does: \"把一单麦当劳寄存给未来的自己 | 麦当劳 MCP 创意开发大赛参赛作品\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T09:03:44.809Z"
+  },
   {
    "fullName": "Qsnh/php2shell-fixed",
    "owner": "Qsnh",
@@ -31938,68 +31993,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/anujasid/mcp-for-blender-pro\nWhat it says it does: \"AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T14:44:00.974Z"
-  },
-  {
-   "fullName": "feder-cr/git-ai",
-   "owner": "feder-cr",
-   "name": "git-ai",
-   "url": "https://github.com/feder-cr/git-ai",
-   "avatar": "https://avatars.githubusercontent.com/u/85809106?v=4",
-   "description": "Git designed for AI agents.",
-   "language": "Go",
-   "topics": [
-    "ai-agents",
-    "coding-agents",
-    "git",
-    "golang",
-    "scion",
-    "version-control"
-   ],
-   "license": null,
-   "stars": 1033,
-   "forks": 109,
-   "createdAt": "2026-10-15T13:12:02Z",
-   "branch": "main",
-   "homepage": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "addedAt": "2026-10-16T14:44:00.717Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/feder-cr/git-ai?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/feder-cr/git-ai",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/feder-cr/git-ai/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/feder-cr/git-ai.git\ncd git-ai\ngo build ./...",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/feder-cr/git-ai\nWhat it says it does: \"Git designed for AI agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T14:44:00.717Z"
   }
  ],
  "levels": {

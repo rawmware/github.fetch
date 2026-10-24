@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1332 guides written so far · last update 2026-10-24 09:03 UTC_
+_1333 guides written so far · last update 2026-10-24 09:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [YUME-hu/mctime-capsule](https://github.com/YUME-hu/mctime-capsule) | JavaScript project | Runs in the browser with a free account | [guide](guides/yume-hu/mctime-capsule.md) |
 | [Qsnh/php2shell-fixed](https://github.com/Qsnh/php2shell-fixed) | Shell project | Runs in the browser with a free account | [guide](guides/qsnh/php2shell-fixed.md) |
 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | Python project | Runs in the browser with a free account | [guide](guides/rddmwmddr/android-ad-cleaner.md) |
 | [Jakeschincariol/console-skill](https://github.com/Jakeschincariol/console-skill) | Python project | Runs in the browser with a free account | [guide](guides/jakeschincariol/console-skill.md) |
@@ -38,7 +39,6 @@ _1332 guides written so far · last update 2026-10-24 09:03 UTC_
 | [cpypwn/mac2jb](https://github.com/cpypwn/mac2jb) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/cpypwn/mac2jb.md) |
 | [Addition2000/mcd-diet-guard](https://github.com/Addition2000/mcd-diet-guard) | Python project | Runs in the browser with a free account | [guide](guides/addition2000/mcd-diet-guard.md) |
 | [stockedge/manga-generator](https://github.com/stockedge/manga-generator) | JavaScript project | Runs in the browser with a free account | [guide](guides/stockedge/manga-generator.md) |
-| [cookiengineer/actual-php2shell](https://github.com/cookiengineer/actual-php2shell) | HTML project | Runs in the browser with a free account | [guide](guides/cookiengineer/actual-php2shell.md) |
 <!-- latest:end -->
 
 ## How it works

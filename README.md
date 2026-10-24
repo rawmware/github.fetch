@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1314 guides written so far · last update 2026-10-24 04:23 UTC_
+_1315 guides written so far · last update 2026-10-24 04:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jchumcrfbluw/roblox-solara-executor-pc-desktop](https://github.com/jchumcrfbluw/roblox-solara-executor-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/jchumcrfbluw/roblox-solara-executor-pc-desktop.md) |
 | [onchain-whale-tracker-pc-desktop/.github](https://github.com/onchain-whale-tracker-pc-desktop/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/onchain-whale-tracker-pc-desktop/.github.md) |
 | [aotoycffyxns/delta](https://github.com/aotoycffyxns/delta) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/aotoycffyxns/delta.md) |
 | [felippe-regazio/verifiqueosfatos](https://github.com/felippe-regazio/verifiqueosfatos) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/felippe-regazio/verifiqueosfatos.md) |
@@ -38,7 +39,6 @@ _1314 guides written so far · last update 2026-10-24 04:23 UTC_
 | [perplexityai/SPACE](https://github.com/perplexityai/SPACE) | Python project | Runs in the browser with a free account | [guide](guides/perplexityai/space.md) |
 | [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | Scala project | Runs in the browser with a free account | [guide](guides/notprotonnot/notproton.md) |
 | [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/mmparko/dsh-purge.md) |
-| [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Python project | Runs in the browser with a free account | [guide](guides/reacher-z/awesome-rea.md) |
 <!-- latest:end -->
 
 ## How it works

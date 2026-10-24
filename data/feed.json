@@ -1,8 +1,88 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T13:16:23.206Z",
- "totalGuides": 1349,
+ "updatedAt": "2026-10-24T13:16:23.491Z",
+ "totalGuides": 1350,
  "items": [
+  {
+   "fullName": "ethanplusai/astro-conversion-kit",
+   "owner": "ethanplusai",
+   "name": "astro-conversion-kit",
+   "url": "https://github.com/ethanplusai/astro-conversion-kit",
+   "avatar": "https://avatars.githubusercontent.com/u/249879463?v=4",
+   "description": "Agent Skills that convert a WordPress site (or any live site) into a static Astro site with URL, SEO, content and pixel parity, then take it through launch. Works in Claude Code, Codex and any agent that reads SKILL.md.",
+   "language": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "astro",
+    "claude-code",
+    "cloudflare-pages",
+    "codex",
+    "jamstack",
+    "playwright"
+   ],
+   "license": "MIT",
+   "stars": 51,
+   "forks": 8,
+   "createdAt": "2026-10-22T21:37:28Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T13:16:23.490Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/ethanplusai/astro-conversion-kit",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/ethanplusai/astro-conversion-kit",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ethanplusai/astro-conversion-kit?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ethanplusai/astro-conversion-kit",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ethanplusai/astro-conversion-kit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [
+    "Uses playwright, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/ethanplusai/astro-conversion-kit.git\ncd astro-conversion-kit\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/ethanplusai/astro-conversion-kit\nWhat it says it does: \"Agent Skills that convert a WordPress site (or any live site) into a static Astro site with URL, SEO, content and pixel parity, then take it through launch. Works in Claude Code, Codex and any agent that reads SKILL.md.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T13:16:23.490Z"
+  },
   {
    "fullName": "mbsintegrations/LG-TV-HA-Home-Launcher",
    "owner": "mbsintegrations",
@@ -31887,78 +31967,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/shalehostcatch/Respocket-Performance-Booster-Utility\nWhat it says it does: \"Boost your gaming FPS with advanced system tweaks, process prioritization, and memory optimization. Free utility for Windows 10/11.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T18:26:21.693Z"
-  },
-  {
-   "fullName": "Deathodward/Apex-Respocket-AIO-Soft",
-   "owner": "Deathodward",
-   "name": "Apex-Respocket-AIO-Soft",
-   "url": "https://github.com/Deathodward/Apex-Respocket-AIO-Soft",
-   "avatar": "https://avatars.githubusercontent.com/u/340105936?v=4",
-   "description": "Best Software For Apex Legends Yet",
-   "language": "C++",
-   "topics": [
-    "apex-2026",
-    "apex-aim-2026",
-    "apex-aim-hack",
-    "apex-aimbot-undetected",
-    "apex-crack",
-    "apex-legends-config",
-    "apex-legends-fps-boost-2026",
-    "apex-legends-glitch-2026"
-   ],
-   "license": null,
-   "stars": 72,
-   "forks": 0,
-   "createdAt": "2026-10-16T15:01:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T18:26:21.513Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Deathodward/Apex-Respocket-AIO-Soft?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Deathodward/Apex-Respocket-AIO-Soft",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Deathodward/Apex-Respocket-AIO-Soft/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Deathodward/Apex-Respocket-AIO-Soft.git\ncd Apex-Respocket-AIO-Soft",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Deathodward/Apex-Respocket-AIO-Soft\nWhat it says it does: \"Best Software For Apex Legends Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T18:26:21.513Z"
   }
  ],
  "levels": {
+  "account": 242,
   "instant": 48,
   "read": 116,
-  "account": 241,
-  "heavy": 95
+  "heavy": 94
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1367 guides written so far · last update 2026-10-24 21:34 UTC_
+_1368 guides written so far · last update 2026-10-24 21:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wahaha-potato/mcd-coupon-xray](https://github.com/wahaha-potato/mcd-coupon-xray) | Python project | Runs in the browser with a free account | [guide](guides/wahaha-potato/mcd-coupon-xray.md) |
 | [YoyoLin008/mcreplay](https://github.com/YoyoLin008/mcreplay) | Python project | Runs in the browser with a free account | [guide](guides/yoyolin008/mcreplay.md) |
 | [e14tech/flag.txt](https://github.com/e14tech/flag.txt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/e14tech/flag.txt.md) |
 | [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) | Python project | Runs in the browser with a free account | [guide](guides/routerhubsi/glm-5.3-abliterated.md) |
@@ -38,7 +39,6 @@ _1367 guides written so far · last update 2026-10-24 21:34 UTC_
 | [dsmurrell/onkey](https://github.com/dsmurrell/onkey) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/dsmurrell/onkey.md) |
 | [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) | C project | Needs a real machine (or a GPU) to run | [guide](guides/lnpandy/nx2apple.md) |
 | [Alterssss/dsh-bili-whale](https://github.com/Alterssss/dsh-bili-whale) | JavaScript project | Runs in the browser with a free account | [guide](guides/alterssss/dsh-bili-whale.md) |
-| [adhiprib/humanizer-indonesia](https://github.com/adhiprib/humanizer-indonesia) | Python project | Runs in the browser with a free account | [guide](guides/adhiprib/humanizer-indonesia.md) |
 <!-- latest:end -->
 
 ## How it works

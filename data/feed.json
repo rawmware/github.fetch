@@ -1,8 +1,76 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T09:03:45.604Z",
- "totalGuides": 1337,
+ "updatedAt": "2026-10-24T09:03:45.764Z",
+ "totalGuides": 1338,
  "items": [
+  {
+   "fullName": "Th3chef/Treasure-Radar",
+   "owner": "Th3chef",
+   "name": "Treasure-Radar",
+   "url": "https://github.com/Th3chef/Treasure-Radar",
+   "avatar": "https://avatars.githubusercontent.com/u/42616956?v=4",
+   "description": "Helldivers 2 mod: a sonar radar with every sample, medal, Super Credit, Requisition Slip and supply around you, where your map opens.",
+   "language": "Python",
+   "topics": [
+    "game-mod",
+    "helldivers-2-mod",
+    "helldivers2",
+    "lua",
+    "python"
+   ],
+   "license": null,
+   "stars": 48,
+   "forks": 0,
+   "createdAt": "2026-10-22T03:41:45Z",
+   "branch": "main",
+   "homepage": "https://ayakamods.com/mods/treasure-radar.5548/",
+   "addedAt": "2026-10-24T09:03:45.764Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Th3chef/Treasure-Radar/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Th3chef/Treasure-Radar?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Th3chef/Treasure-Radar",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Th3chef/Treasure-Radar/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Th3chef/Treasure-Radar.git\ncd Treasure-Radar",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Th3chef/Treasure-Radar\nWhat it says it does: \"Helldivers 2 mod: a sonar radar with every sample, medal, Super Credit, Requisition Slip and supply around you, where your map opens.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T09:03:45.764Z"
+  },
   {
    "fullName": "mhzsajan/ns2jb",
    "owner": "mhzsajan",
@@ -31897,69 +31965,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/shuyu-labs/transwork\nWhat it says it does: \"企业级桌面 AI Agent 工作台，让技能、知识与任务在同一处协作。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T14:44:02.496Z"
-  },
-  {
-   "fullName": "athasdev/browser",
-   "owner": "athasdev",
-   "name": "browser",
-   "url": "https://github.com/athasdev/browser",
-   "avatar": "https://avatars.githubusercontent.com/u/217342284?v=4",
-   "description": "Native macOS browser built with SwiftUI and WebKit",
-   "language": "Swift",
-   "topics": [],
-   "license": "AGPL-3.0",
-   "stars": 51,
-   "forks": 4,
-   "createdAt": "2026-10-15T17:19:08Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T14:44:02.275Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/athasdev/browser?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/athasdev/browser",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/athasdev/browser/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/athasdev/browser.git\ncd browser",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/athasdev/browser\nWhat it says it does: \"Native macOS browser built with SwiftUI and WebKit\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T14:44:02.275Z"
   }
  ],
  "levels": {
-  "account": 239,
+  "account": 240,
   "instant": 46,
-  "heavy": 101,
+  "heavy": 100,
   "read": 114
  }
 }

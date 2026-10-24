@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T16:42:11.127Z",
- "totalGuides": 1360,
+ "updatedAt": "2026-10-24T19:04:06.145Z",
+ "totalGuides": 1361,
  "items": [
+  {
+   "fullName": "routerhubSI/uncensored-ai-api",
+   "owner": "routerhubSI",
+   "name": "uncensored-ai-api",
+   "url": "https://github.com/routerhubSI/uncensored-ai-api",
+   "avatar": "https://avatars.githubusercontent.com/u/347402468?v=4",
+   "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+   "language": null,
+   "topics": [
+    "abliterated-models",
+    "ai-api",
+    "ai-gateway",
+    "anthropic-compatible",
+    "claude-api",
+    "claude-code",
+    "cursor",
+    "deepseek-api"
+   ],
+   "license": "MIT",
+   "stars": 80,
+   "forks": 5,
+   "createdAt": "2026-10-24T16:55:17Z",
+   "branch": "main",
+   "homepage": "https://routerhub.si",
+   "addedAt": "2026-10-24T19:04:06.130Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/routerhubSI/uncensored-ai-api",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/routerhubSI/uncensored-ai-api/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/routerhubSI/uncensored-ai-api\nWhat it says it does: \"Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T19:04:06.130Z"
+  },
   {
    "fullName": "glanderness/BeefTV",
    "owner": "glanderness",
@@ -31959,81 +32016,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/TeamBoatswain/Respocket-FH-Trainer-Mod-Menu\nWhat it says it does: \"Advanced trainer for FH6 or Forza Horizon 6\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T21:37:19.698Z"
-  },
-  {
-   "fullName": "kergee/mcd-undercover",
-   "owner": "kergee",
-   "name": "mcd-undercover",
-   "url": "https://github.com/kergee/mcd-undercover",
-   "avatar": "https://avatars.githubusercontent.com/u/3995388?v=4",
-   "description": "把真实门店菜单变成 3～8 人的同机谁是卧底游戏（麦当劳 MCP 参赛项目）",
-   "language": "JavaScript",
-   "topics": [],
-   "license": null,
-   "stars": 68,
-   "forks": 3,
-   "createdAt": "2026-10-16T01:11:25Z",
-   "branch": "main",
-   "homepage": "https://mcd-undercover.app.workbuddy.host/",
-   "addedAt": "2026-10-16T21:37:19.448Z",
-   "stack": {
-    "kind": "node",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/kergee/mcd-undercover",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm start`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/kergee/mcd-undercover",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/kergee/mcd-undercover?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/kergee/mcd-undercover",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kergee/mcd-undercover/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm start",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/kergee/mcd-undercover.git\ncd mcd-undercover\nnpm install\nnpm start",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/kergee/mcd-undercover\nWhat it says it does: \"把真实门店菜单变成 3～8 人的同机谁是卧底游戏（麦当劳 MCP 参赛项目）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T21:37:19.448Z"
   }
  ],
  "levels": {
+  "read": 117,
   "account": 242,
-  "instant": 50,
-  "heavy": 92,
-  "read": 116
+  "instant": 49,
+  "heavy": 92
  }
 }

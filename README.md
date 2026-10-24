@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1359 guides written so far · last update 2026-10-24 16:42 UTC_
+_1360 guides written so far · last update 2026-10-24 16:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [glanderness/BeefTV](https://github.com/glanderness/BeefTV) | Docker app | Runs in the browser with a free account | [guide](guides/glanderness/beeftv.md) |
 | [dsmurrell/onkey](https://github.com/dsmurrell/onkey) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/dsmurrell/onkey.md) |
 | [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) | C project | Needs a real machine (or a GPU) to run | [guide](guides/lnpandy/nx2apple.md) |
 | [Alterssss/dsh-bili-whale](https://github.com/Alterssss/dsh-bili-whale) | JavaScript project | Runs in the browser with a free account | [guide](guides/alterssss/dsh-bili-whale.md) |
@@ -38,7 +39,6 @@ _1359 guides written so far · last update 2026-10-24 16:42 UTC_
 | [WallScorpion/Imei-Repair](https://github.com/WallScorpion/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wallscorpion/imei-repair.md) |
 | [ethanplusai/astro-conversion-kit](https://github.com/ethanplusai/astro-conversion-kit) | JavaScript project | Runs in the browser with a free account | [guide](guides/ethanplusai/astro-conversion-kit.md) |
 | [mbsintegrations/LG-TV-HA-Home-Launcher](https://github.com/mbsintegrations/LG-TV-HA-Home-Launcher) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/mbsintegrations/lg-tv-ha-home-launcher.md) |
-| [outerdeckhandquilt/Lossless-Scaling](https://github.com/outerdeckhandquilt/Lossless-Scaling) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/outerdeckhandquilt/lossless-scaling.md) |
 <!-- latest:end -->
 
 ## How it works

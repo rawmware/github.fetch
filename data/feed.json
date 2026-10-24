@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T16:42:10.921Z",
- "totalGuides": 1359,
+ "updatedAt": "2026-10-24T16:42:11.127Z",
+ "totalGuides": 1360,
  "items": [
+  {
+   "fullName": "glanderness/BeefTV",
+   "owner": "glanderness",
+   "name": "BeefTV",
+   "url": "https://github.com/glanderness/BeefTV",
+   "avatar": "https://avatars.githubusercontent.com/u/58928515?v=4",
+   "description": "High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。",
+   "language": "TypeScript",
+   "topics": [
+    "ai-image-generation",
+    "ai-video",
+    "ai-video-generation",
+    "ai-workspace",
+    "aigc",
+    "creative-tools",
+    "infinite-canvas",
+    "local-first"
+   ],
+   "license": null,
+   "stars": 1810,
+   "forks": 356,
+   "createdAt": "2026-09-24T05:20:03Z",
+   "branch": "main",
+   "homepage": "https://beeftv.app/",
+   "addedAt": "2026-10-24T16:42:11.127Z",
+   "stack": {
+    "kind": "docker",
+    "label": "Docker app",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/glanderness/BeefTV?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/glanderness/BeefTV",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/glanderness/BeefTV/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "docker compose up",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/glanderness/BeefTV.git\ncd BeefTV\ndocker compose up",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/glanderness/BeefTV\nWhat it says it does: \"High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T16:42:11.127Z"
+  },
   {
    "fullName": "dsmurrell/onkey",
    "owner": "dsmurrell",
@@ -31964,83 +32028,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/kergee/mcd-undercover\nWhat it says it does: \"把真实门店菜单变成 3～8 人的同机谁是卧底游戏（麦当劳 MCP 参赛项目）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T21:37:19.448Z"
-  },
-  {
-   "fullName": "christos-antono/NPCTalk",
-   "owner": "christos-antono",
-   "name": "NPCTalk",
-   "url": "https://github.com/christos-antono/NPCTalk",
-   "avatar": "https://avatars.githubusercontent.com/u/232431629?v=4",
-   "description": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
-   "language": "Python",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "fish-audio",
-    "game-modding",
-    "gta5",
-    "llm",
-    "npc",
-    "text-to-speech"
-   ],
-   "license": "MIT",
-   "stars": 70,
-   "forks": 6,
-   "createdAt": "2026-10-15T23:37:25Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T21:37:19.190Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/christos-antono/NPCTalk/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/christos-antono/NPCTalk?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/christos-antono/NPCTalk",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/christos-antono/NPCTalk/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/christos-antono/NPCTalk.git\ncd NPCTalk\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/christos-antono/NPCTalk\nWhat it says it does: \"Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T21:37:19.190Z"
   }
  ],
  "levels": {
+  "account": 242,
   "instant": 50,
   "heavy": 92,
-  "account": 242,
   "read": 116
  }
 }

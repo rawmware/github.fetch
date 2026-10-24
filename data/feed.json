@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T16:42:09.826Z",
- "totalGuides": 1354,
+ "updatedAt": "2026-10-24T16:42:09.996Z",
+ "totalGuides": 1355,
  "items": [
+  {
+   "fullName": "0xProbabillity/house-control-android",
+   "owner": "0xProbabillity",
+   "name": "house-control-android",
+   "url": "https://github.com/0xProbabillity/house-control-android",
+   "avatar": "https://avatars.githubusercontent.com/u/342495785?v=4",
+   "description": "House Control on Android phones and tablets: your home as a live 3D model — lights, ACs and scenes via Smart Life, Home Assistant and Philips Hue. No Mac needed.",
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-widget",
+    "home-assistant",
+    "home-automation",
+    "jetpack-compose",
+    "kotlin",
+    "philips-hue",
+    "smart-home"
+   ],
+   "license": "MIT",
+   "stars": 57,
+   "forks": 4,
+   "createdAt": "2026-10-22T20:57:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T16:42:09.995Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/0xProbabillity/house-control-android?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/0xProbabillity/house-control-android",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/0xProbabillity/house-control-android/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/0xProbabillity/house-control-android.git\ncd house-control-android",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/0xProbabillity/house-control-android\nWhat it says it does: \"House Control on Android phones and tablets: your home as a live 3D model — lights, ACs and scenes via Smart Life, Home Assistant and Philips Hue. No Mac needed.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T16:42:09.995Z"
+  },
   {
    "fullName": "SkyZeroZx/corner-shop",
    "owner": "SkyZeroZx",
@@ -31913,78 +31979,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/BelmanteGu/SuperMarioWonderRecomp\nWhat it says it does: \"Super Mario Bros. Wonder static recompilation (NVN on Vulkan/MoltenVK), macOS, Android and Windows. No game assets.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T21:37:18.480Z"
-  },
-  {
-   "fullName": "limitemuwhirl/mm2-free-script",
-   "owner": "limitemuwhirl",
-   "name": "mm2-free-script",
-   "url": "https://github.com/limitemuwhirl/mm2-free-script",
-   "avatar": "https://avatars.githubusercontent.com/u/319474981?v=4",
-   "description": "Free keyless Murder Mystery 2 (MM2) script for PC — Role ESP, Auto Farm, Silent Aim, God Mode, Kill All, Fly & Noclip",
-   "language": "C++",
-   "topics": [
-    "how-to-get-mm2-script",
-    "mm-2-script",
-    "mm2",
-    "mm2-dupe-script",
-    "murder-mystery",
-    "murder-mystery-dupe",
-    "murder-mystery-hack",
-    "murdery-mistery-2-script"
-   ],
-   "license": null,
-   "stars": 71,
-   "forks": 0,
-   "createdAt": "2026-10-16T15:02:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T18:26:22.547Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/limitemuwhirl/mm2-free-script?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/limitemuwhirl/mm2-free-script",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/limitemuwhirl/mm2-free-script/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/limitemuwhirl/mm2-free-script.git\ncd mm2-free-script",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/limitemuwhirl/mm2-free-script\nWhat it says it does: \"Free keyless Murder Mystery 2 (MM2) script for PC — Role ESP, Auto Farm, Silent Aim, God Mode, Kill All, Fly & Noclip\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T18:26:22.547Z"
   }
  ],
  "levels": {
+  "heavy": 93,
   "account": 241,
   "instant": 49,
-  "read": 117,
-  "heavy": 93
+  "read": 117
  }
 }

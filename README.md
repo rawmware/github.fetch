@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1354 guides written so far · last update 2026-10-24 16:42 UTC_
+_1355 guides written so far · last update 2026-10-24 16:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [0xProbabillity/house-control-android](https://github.com/0xProbabillity/house-control-android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/0xprobabillity/house-control-android.md) |
 | [SkyZeroZx/corner-shop](https://github.com/SkyZeroZx/corner-shop) | Angular app | Runs in the browser with a free account | [guide](guides/skyzerozx/corner-shop.md) |
 | [rjgyzakqgfiv/.github](https://github.com/rjgyzakqgfiv/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rjgyzakqgfiv/.github.md) |
 | [songjianyang/xss-audit](https://github.com/songjianyang/xss-audit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/songjianyang/xss-audit.md) |
@@ -38,7 +39,6 @@ _1354 guides written so far · last update 2026-10-24 16:42 UTC_
 | [xkx121029/mcd-vibe-commit](https://github.com/xkx121029/mcd-vibe-commit) | Python project | Runs in the browser with a free account | [guide](guides/xkx121029/mcd-vibe-commit.md) |
 | [jouaaaaaa/mcd-self-butler](https://github.com/jouaaaaaa/mcd-self-butler) | Python project | Runs in the browser with a free account | [guide](guides/jouaaaaaa/mcd-self-butler.md) |
 | [Charonyuu/whatsmyagentdoing](https://github.com/Charonyuu/whatsmyagentdoing) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/charonyuu/whatsmyagentdoing.md) |
-| [CH-LaTiao/lumina-guide](https://github.com/CH-LaTiao/lumina-guide) | Python project | Runs in the browser with a free account | [guide](guides/ch-latiao/lumina-guide.md) |
 <!-- latest:end -->
 
 ## How it works

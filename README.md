@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1365 guides written so far · last update 2026-10-24 19:04 UTC_
+_1366 guides written so far · last update 2026-10-24 19:04 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [e14tech/flag.txt](https://github.com/e14tech/flag.txt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/e14tech/flag.txt.md) |
 | [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) | Python project | Runs in the browser with a free account | [guide](guides/routerhubsi/glm-5.3-abliterated.md) |
 | [ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native) | Python project | Runs in the browser with a free account | [guide](guides/ryderclanky/botw-native.md) |
 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Python project | Runs in the browser with a free account | [guide](guides/morganlinton/beautifulrust.md) |
@@ -38,7 +39,6 @@ _1365 guides written so far · last update 2026-10-24 19:04 UTC_
 | [Alterssss/dsh-bili-whale](https://github.com/Alterssss/dsh-bili-whale) | JavaScript project | Runs in the browser with a free account | [guide](guides/alterssss/dsh-bili-whale.md) |
 | [adhiprib/humanizer-indonesia](https://github.com/adhiprib/humanizer-indonesia) | Python project | Runs in the browser with a free account | [guide](guides/adhiprib/humanizer-indonesia.md) |
 | [0xProbabillity/house-control-android](https://github.com/0xProbabillity/house-control-android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/0xprobabillity/house-control-android.md) |
-| [SkyZeroZx/corner-shop](https://github.com/SkyZeroZx/corner-shop) | Angular app | Runs in the browser with a free account | [guide](guides/skyzerozx/corner-shop.md) |
 <!-- latest:end -->
 
 ## How it works

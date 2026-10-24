@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T19:04:06.989Z",
- "totalGuides": 1365,
+ "updatedAt": "2026-10-24T19:04:07.142Z",
+ "totalGuides": 1366,
  "items": [
+  {
+   "fullName": "e14tech/flag.txt",
+   "owner": "e14tech",
+   "name": "flag.txt",
+   "url": "https://github.com/e14tech/flag.txt",
+   "avatar": "https://avatars.githubusercontent.com/u/32233573?v=4",
+   "description": "flag.txt file to deter AI agents",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 61,
+   "forks": 4,
+   "createdAt": "2026-10-23T19:33:46Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T19:04:07.142Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/e14tech/flag.txt",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/e14tech/flag.txt/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/e14tech/flag.txt\nWhat it says it does: \"flag.txt file to deter AI agents\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T19:04:07.142Z"
+  },
   {
    "fullName": "routerhubSI/glm-5.3-abliterated",
    "owner": "routerhubSI",
@@ -31964,72 +32012,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/cranebeaker/coop-anything\nWhat it says it does: \"Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T04:10:35.002Z"
-  },
-  {
-   "fullName": "reason-machines/reason-network",
-   "owner": "reason-machines",
-   "name": "reason-network",
-   "url": "https://github.com/reason-machines/reason-network",
-   "avatar": "https://avatars.githubusercontent.com/u/259454516?v=4",
-   "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-   "language": "Rust",
-   "topics": [
-    "coding-agents",
-    "iroh",
-    "mcp",
-    "peer-to-peer",
-    "reason"
-   ],
-   "license": "Apache-2.0",
-   "stars": 88,
-   "forks": 8,
-   "createdAt": "2026-10-16T15:34:34Z",
-   "branch": "main",
-   "homepage": "https://reasonmachines.com",
-   "addedAt": "2026-10-17T04:10:34.780Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/reason-machines/reason-network?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/reason-machines/reason-network",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/reason-machines/reason-network/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/reason-machines/reason-network.git\ncd reason-network\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/reason-machines/reason-network\nWhat it says it does: \"Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T04:10:34.780Z"
   }
  ],
  "levels": {
-  "account": 245,
-  "read": 116,
+  "read": 117,
+  "account": 244,
   "instant": 49,
   "heavy": 90
  }

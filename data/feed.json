@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T21:34:13.056Z",
- "totalGuides": 1372,
+ "updatedAt": "2026-10-24T21:34:13.264Z",
+ "totalGuides": 1373,
  "items": [
+  {
+   "fullName": "wuyoscar/AISafetyHot",
+   "owner": "wuyoscar",
+   "name": "AISafetyHot",
+   "url": "https://github.com/wuyoscar/AISafetyHot",
+   "avatar": "https://avatars.githubusercontent.com/u/72287536?v=4",
+   "description": "Safety News & Research Monitor. https://aisafetyhot.com",
+   "language": "TeX",
+   "topics": [],
+   "license": null,
+   "stars": 1822,
+   "forks": 24,
+   "createdAt": "2026-10-01T11:33:59Z",
+   "branch": "main",
+   "homepage": "https://aisafetyhot.com",
+   "addedAt": "2026-10-24T21:34:13.263Z",
+   "stack": {
+    "kind": "other",
+    "label": "TeX project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/wuyoscar/AISafetyHot?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/wuyoscar/AISafetyHot",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/wuyoscar/AISafetyHot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/wuyoscar/AISafetyHot.git\ncd AISafetyHot",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/wuyoscar/AISafetyHot\nWhat it says it does: \"Safety News & Research Monitor. https://aisafetyhot.com\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T21:34:13.263Z"
+  },
   {
    "fullName": "philips71017/Hiddify-Manager",
    "owner": "philips71017",
@@ -31980,69 +32035,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/classserfchisel/DayZ-Respocket-AIO-Soft\nWhat it says it does: \"Best Software For DayZ Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T04:10:36.339Z"
-  },
-  {
-   "fullName": "SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge",
-   "owner": "SmokeMotorman",
-   "name": "Respocket-Rebirth-Pub-Save-Forge",
-   "url": "https://github.com/SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge",
-   "avatar": "https://avatars.githubusercontent.com/u/337902997?v=4",
-   "description": "An independent Rebirth Pub savefile workshop released by the respocket team. Edit gold, AP, stamina, relationships, inventory, and character stats with live previews, integrity checks, automatic backups, and a snapshot timeline — all local, offline, and reversible.",
-   "language": null,
-   "topics": [
-    "cheat-tool-for-gamers",
-    "encryption",
-    "game-hacking",
-    "game-hacking-tool",
-    "game-modding-tool",
-    "python",
-    "python-app",
-    "python-script"
-   ],
-   "license": null,
-   "stars": 59,
-   "forks": 0,
-   "createdAt": "2026-10-16T15:03:31Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T04:10:36.163Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/SmokeMotorman/Respocket-Rebirth-Pub-Save-Forge\nWhat it says it does: \"An independent Rebirth Pub savefile workshop released by the respocket team. Edit gold, AP, stamina, relationships, inventory, and character stats with live previews, integrity checks, automatic backups, and a snapshot timeline — all local, offline, and reversible.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T04:10:36.163Z"
   }
  ],
  "levels": {
-  "account": 243,
+  "account": 244,
   "heavy": 91,
   "instant": 49,
-  "read": 117
+  "read": 116
  }
 }

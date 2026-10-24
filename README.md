@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1372 guides written so far · last update 2026-10-24 21:34 UTC_
+_1373 guides written so far · last update 2026-10-24 21:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wuyoscar/AISafetyHot](https://github.com/wuyoscar/AISafetyHot) | TeX project | Runs in the browser with a free account | [guide](guides/wuyoscar/aisafetyhot.md) |
 | [philips71017/Hiddify-Manager](https://github.com/philips71017/Hiddify-Manager) | Python project | Runs in the browser with a free account | [guide](guides/philips71017/hiddify-manager.md) |
 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/udhaykumarbala/cleanyourtv-app.md) |
 | [xanthichi/mcd-meal-mate](https://github.com/xanthichi/mcd-meal-mate) | Vite app | Runs in a browser tab, no account needed | [guide](guides/xanthichi/mcd-meal-mate.md) |
@@ -38,7 +39,6 @@ _1372 guides written so far · last update 2026-10-24 21:34 UTC_
 | [ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native) | Python project | Runs in the browser with a free account | [guide](guides/ryderclanky/botw-native.md) |
 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Python project | Runs in the browser with a free account | [guide](guides/morganlinton/beautifulrust.md) |
 | [mirkobrombin/raven](https://github.com/mirkobrombin/raven) | Go project | Runs in the browser with a free account | [guide](guides/mirkobrombin/raven.md) |
-| [routerhubSI/uncensored-ai-api](https://github.com/routerhubSI/uncensored-ai-api) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/routerhubsi/uncensored-ai-api.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-24T13:16:21.577Z",
- "totalGuides": 1341,
+ "updatedAt": "2026-10-24T13:16:21.769Z",
+ "totalGuides": 1342,
  "items": [
+  {
+   "fullName": "xMazaki/unbloat-android-tv",
+   "owner": "xMazaki",
+   "name": "unbloat-android-tv",
+   "url": "https://github.com/xMazaki/unbloat-android-tv",
+   "avatar": "https://avatars.githubusercontent.com/u/108530688?v=4",
+   "description": "Slim down any Android TV (ads, telemetry) + minimalist Apple TV-style home screen. Reversible, one double-click. 🇫🇷 Allégez n'importe quelle TV Android (pubs, télémétrie) + écran d'accueil minimaliste façon Apple TV. Réversible, en un double-clic.",
+   "language": "Java",
+   "topics": [],
+   "license": null,
+   "stars": 92,
+   "forks": 8,
+   "createdAt": "2026-10-24T07:16:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-24T13:16:21.768Z",
+   "stack": {
+    "kind": "native",
+    "label": "Java project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/xMazaki/unbloat-android-tv?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/xMazaki/unbloat-android-tv",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/xMazaki/unbloat-android-tv/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/xMazaki/unbloat-android-tv.git\ncd unbloat-android-tv",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/xMazaki/unbloat-android-tv\nWhat it says it does: \"Slim down any Android TV (ads, telemetry) + minimalist Apple TV-style home screen. Reversible, one double-click. 🇫🇷 Allégez n'importe quelle TV Android (pubs, télémétrie) + écran d'accueil minimaliste façon Apple TV. Réversible, en un double-clic.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-24T13:16:21.768Z"
+  },
   {
    "fullName": "Krusty84/yaDisk-Health",
    "owner": "Krusty84",
@@ -31880,78 +31937,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Haryy985/yunkun-console-preview\nWhat it says it does: \"云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-16T14:44:03.590Z"
-  },
-  {
-   "fullName": "CluvexStudio/Strata",
-   "owner": "CluvexStudio",
-   "name": "Strata",
-   "url": "https://github.com/CluvexStudio/Strata",
-   "avatar": "https://avatars.githubusercontent.com/u/125141320?v=4",
-   "description": "An open-source file manager for Android: two panes, archives, APK and DEX editing, a code editor, network storages and an encrypted vault. No ads, no accounts, no tracking.",
-   "language": "Kotlin",
-   "topics": [
-    "7zip",
-    "android",
-    "android-file-manager",
-    "apk",
-    "apk-signer",
-    "dex",
-    "file-manager",
-    "ftp"
-   ],
-   "license": "AGPL-3.0",
-   "stars": 50,
-   "forks": 0,
-   "createdAt": "2026-10-16T04:16:39Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-16T14:44:03.341Z",
-   "stack": {
-    "kind": "native",
-    "label": "Kotlin project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/CluvexStudio/Strata?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/CluvexStudio/Strata",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/CluvexStudio/Strata/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/CluvexStudio/Strata.git\ncd Strata",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/CluvexStudio/Strata\nWhat it says it does: \"An open-source file manager for Android: two panes, archives, APK and DEX editing, a code editor, network storages and an encrypted vault. No ads, no accounts, no tracking.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-16T14:44:03.341Z"
   }
  ],
  "levels": {
+  "heavy": 99,
   "account": 240,
   "read": 115,
-  "instant": 46,
-  "heavy": 99
+  "instant": 46
  }
 }

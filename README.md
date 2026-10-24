@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1319 guides written so far · last update 2026-10-24 04:23 UTC_
+_1320 guides written so far · last update 2026-10-24 04:23 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [josiahg2502-glitch/BrawlRecompiled](https://github.com/josiahg2502-glitch/BrawlRecompiled) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/josiahg2502-glitch/brawlrecompiled.md) |
 | [ivarvong/lantern](https://github.com/ivarvong/lantern) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/ivarvong/lantern.md) |
 | [Xinge2333/codex-quota-bar](https://github.com/Xinge2333/codex-quota-bar) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/xinge2333/codex-quota-bar.md) |
 | [qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop](https://github.com/qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/qxqfvfpjzxnv/liquidity-sniping-bot-pc-desktop.md) |
@@ -38,7 +39,6 @@ _1319 guides written so far · last update 2026-10-24 04:23 UTC_
 | [xynbspqmochf/.github](https://github.com/xynbspqmochf/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xynbspqmochf/.github.md) |
 | [onchain-trading-bot/.github](https://github.com/onchain-trading-bot/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/onchain-trading-bot/.github.md) |
 | [tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop](https://github.com/tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop.md) |
-| [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | Go project | Runs in the browser with a free account | [guide](guides/trhhubsd/artex.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T12:29:54.655Z",
- "totalGuides": 1412,
+ "updatedAt": "2026-10-25T12:29:54.945Z",
+ "totalGuides": 1413,
  "items": [
+  {
+   "fullName": "lalalune/pumpfun-source",
+   "owner": "lalalune",
+   "name": "pumpfun-source",
+   "url": "https://github.com/lalalune/pumpfun-source",
+   "avatar": "https://avatars.githubusercontent.com/u/18633264?v=4",
+   "description": "Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)",
+   "language": "Assembly",
+   "topics": [],
+   "license": null,
+   "stars": 59,
+   "forks": 26,
+   "createdAt": "2026-10-24T23:37:50Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T12:29:54.945Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/lalalune/pumpfun-source/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/lalalune/pumpfun-source?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/lalalune/pumpfun-source",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/lalalune/pumpfun-source/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/lalalune/pumpfun-source.git\ncd pumpfun-source\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/lalalune/pumpfun-source\nWhat it says it does: \"Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T12:29:54.945Z"
+  },
   {
    "fullName": "null0526/dario-genesis",
    "owner": "null0526",
@@ -32053,66 +32115,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/mu-zi-lee/Tangentry\nWhat it says it does: \"沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T18:23:42.569Z"
-  },
-  {
-   "fullName": "MK27MK/uxed",
-   "owner": "MK27MK",
-   "name": "uxed",
-   "url": "https://github.com/MK27MK/uxed",
-   "avatar": "https://avatars.githubusercontent.com/u/156700887?v=4",
-   "description": "Agent skills that get you into flow state.",
-   "language": "JavaScript",
-   "topics": [
-    "agent-skills",
-    "ai-design",
-    "claude-code",
-    "vibe-coding"
-   ],
-   "license": null,
-   "stars": 56,
-   "forks": 2,
-   "createdAt": "2026-10-15T15:55:36Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T18:23:42.387Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/MK27MK/uxed?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/MK27MK/uxed",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/MK27MK/uxed/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/MK27MK/uxed.git\ncd uxed",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/MK27MK/uxed\nWhat it says it does: \"Agent skills that get you into flow state.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T18:23:42.387Z"
   }
  ],
  "levels": {

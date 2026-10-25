@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1424 guides written so far · last update 2026-10-25 16:45 UTC_
+_1425 guides written so far · last update 2026-10-25 19:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jhontandazo008/CleanLauncher](https://github.com/jhontandazo008/CleanLauncher) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/jhontandazo008/cleanlauncher.md) |
 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ly05010419/macnativegames.md) |
 | [agharsallah/esp-labs-web](https://github.com/agharsallah/esp-labs-web) | Vite app | Runs in the browser with a free account | [guide](guides/agharsallah/esp-labs-web.md) |
 | [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lyramakesmusic/neuron-explorer.md) |
@@ -38,7 +39,6 @@ _1424 guides written so far · last update 2026-10-25 16:45 UTC_
 | [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/misshexa66/ouncecake.md) |
 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | Vite app | Runs in the browser with a free account | [guide](guides/designfuchen/word-atlas.md) |
 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python project | Runs in the browser with a free account | [guide](guides/denissergeevitch/ex-ussr-kinship-research.md) |
-| [lalalune/pumpfun-source](https://github.com/lalalune/pumpfun-source) | Python project | Runs in the browser with a free account | [guide](guides/lalalune/pumpfun-source.md) |
 <!-- latest:end -->
 
 ## How it works

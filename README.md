@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1394 guides written so far · last update 2026-10-25 06:57 UTC_
+_1395 guides written so far · last update 2026-10-25 06:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [JellyFlow/Mcdonalds_in_RokidGlasses](https://github.com/JellyFlow/Mcdonalds_in_RokidGlasses) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jellyflow/mcdonalds_in_rokidglasses.md) |
 | [lordon1a/agents.md](https://github.com/lordon1a/agents.md) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lordon1a/agents.md.md) |
 | [aarsaputra/php2shell](https://github.com/aarsaputra/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/aarsaputra/php2shell.md) |
 | [Leonxlnx/napali](https://github.com/Leonxlnx/napali) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/napali.md) |
@@ -38,7 +39,6 @@ _1394 guides written so far · last update 2026-10-25 06:57 UTC_
 | [kqgzhkbiqutr/dex-sniper-bot-pc-desktop](https://github.com/kqgzhkbiqutr/dex-sniper-bot-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kqgzhkbiqutr/dex-sniper-bot-pc-desktop.md) |
 | [wpeikxyrjnps/.github](https://github.com/wpeikxyrjnps/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/wpeikxyrjnps/.github.md) |
 | [Shaitrish/37studio](https://github.com/Shaitrish/37studio) | Go project | Runs in the browser with a free account | [guide](guides/shaitrish/37studio.md) |
-| [prototux/AARE](https://github.com/prototux/AARE) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/prototux/aare.md) |
 <!-- latest:end -->
 
 ## How it works

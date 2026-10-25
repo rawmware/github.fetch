@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1390 guides written so far · last update 2026-10-25 06:57 UTC_
+_1391 guides written so far · last update 2026-10-25 06:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [xx20050823xx/McMate](https://github.com/xx20050823xx/McMate) | Python project | Runs in the browser with a free account | [guide](guides/xx20050823xx/mcmate.md) |
 | [mokevnin/dev-quality-gates](https://github.com/mokevnin/dev-quality-gates) | JavaScript project | Runs in the browser with a free account | [guide](guides/mokevnin/dev-quality-gates.md) |
 | [XRayLau1/maitaiyi](https://github.com/XRayLau1/maitaiyi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xraylau1/maitaiyi.md) |
 | [LittleChest/mcd-withwork-skills](https://github.com/LittleChest/mcd-withwork-skills) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/littlechest/mcd-withwork-skills.md) |
@@ -38,7 +39,6 @@ _1390 guides written so far · last update 2026-10-25 06:57 UTC_
 | [lillyguisnet/sam3-segmentation](https://github.com/lillyguisnet/sam3-segmentation) | Python project | Runs in the browser with a free account | [guide](guides/lillyguisnet/sam3-segmentation.md) |
 | [mokevnin/dev-guardrails](https://github.com/mokevnin/dev-guardrails) | JavaScript project | Runs in the browser with a free account | [guide](guides/mokevnin/dev-guardrails.md) |
 | [oscarlosu-lab/USBAnywhere](https://github.com/oscarlosu-lab/USBAnywhere) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/oscarlosu-lab/usbanywhere.md) |
-| [aideveloper-web/Free-Deepseek](https://github.com/aideveloper-web/Free-Deepseek) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/free-deepseek.md) |
 <!-- latest:end -->
 
 ## How it works

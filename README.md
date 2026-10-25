@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1416 guides written so far · last update 2026-10-25 16:44 UTC_
+_1417 guides written so far · last update 2026-10-25 16:45 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [keoyyo85/FoundPhone-Studio](https://github.com/keoyyo85/FoundPhone-Studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/keoyyo85/foundphone-studio.md) |
 | [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/misshexa66/ouncecake.md) |
 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | Vite app | Runs in the browser with a free account | [guide](guides/designfuchen/word-atlas.md) |
 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python project | Runs in the browser with a free account | [guide](guides/denissergeevitch/ex-ussr-kinship-research.md) |
@@ -38,7 +39,6 @@ _1416 guides written so far · last update 2026-10-25 16:44 UTC_
 | [TUcookie/mcd-deal-hunter](https://github.com/TUcookie/mcd-deal-hunter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tucookie/mcd-deal-hunter.md) |
 | [BaoZ-XHG/MaiMen-Saver](https://github.com/BaoZ-XHG/MaiMen-Saver) | Python project | Runs in the browser with a free account | [guide](guides/baoz-xhg/maimen-saver.md) |
 | [Alex-star-arch/mcd-burger-studio](https://github.com/Alex-star-arch/mcd-burger-studio) | HTML project | Runs in the browser with a free account | [guide](guides/alex-star-arch/mcd-burger-studio.md) |
-| [CRFXN5C/mcd-mcp-kit](https://github.com/CRFXN5C/mcd-mcp-kit) | Python project | Runs in the browser with a free account | [guide](guides/crfxn5c/mcd-mcp-kit.md) |
 <!-- latest:end -->
 
 ## How it works

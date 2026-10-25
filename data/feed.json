@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T21:55:12.175Z",
- "totalGuides": 1432,
+ "updatedAt": "2026-10-25T21:55:12.442Z",
+ "totalGuides": 1433,
  "items": [
+  {
+   "fullName": "guillaumemeyer/watermarks-remover",
+   "owner": "guillaumemeyer",
+   "name": "watermarks-remover",
+   "url": "https://github.com/guillaumemeyer/watermarks-remover",
+   "avatar": "https://avatars.githubusercontent.com/u/1385518?v=4",
+   "description": "A privacy-first app that strips AI watermarks from content you own.",
+   "language": "Python",
+   "topics": [
+    "agent-skill",
+    "ai",
+    "anthropic",
+    "c2pa",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "openai"
+   ],
+   "license": "MIT",
+   "stars": 24880,
+   "forks": 2859,
+   "createdAt": "2026-08-11T16:32:38Z",
+   "branch": "main",
+   "homepage": "https://github.com/guillaumemeyer/watermarks-remover",
+   "addedAt": "2026-10-25T21:55:12.441Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/guillaumemeyer/watermarks-remover/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/guillaumemeyer/watermarks-remover?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/guillaumemeyer/watermarks-remover",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/guillaumemeyer/watermarks-remover/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/guillaumemeyer/watermarks-remover.git\ncd watermarks-remover",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/guillaumemeyer/watermarks-remover\nWhat it says it does: \"A privacy-first app that strips AI watermarks from content you own.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T21:55:12.441Z"
+  },
   {
    "fullName": "hevnsnt/CVEngine",
    "owner": "hevnsnt",
@@ -32268,69 +32339,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/DrizzleSpirit/Data-Grip\nWhat it says it does: \"Data Grip 2026 ready-to-run desktop installation build, fully functional with all features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T00:52:26.903Z"
-  },
-  {
-   "fullName": "drizzlechampionblast/DAEMON-Pro",
-   "owner": "drizzlechampionblast",
-   "name": "DAEMON-Pro",
-   "url": "https://github.com/drizzlechampionblast/DAEMON-Pro",
-   "avatar": "https://avatars.githubusercontent.com/u/291377256?v=4",
-   "description": "Daemon Pro, a professional desktop software utility configuration, is now available as a complete standalone setup for seamless operation...",
-   "language": null,
-   "topics": [
-    "daemon-2026",
-    "daemon-tools",
-    "daemon-tools-install-setup-windows-2026",
-    "daemon-tools-pro-advanced",
-    "daemon-tools-pro-vs-ultra",
-    "daemon-tools-ultra",
-    "daemon-tools-ultra-2026",
-    "daemon-tools-ultra-download"
-   ],
-   "license": null,
-   "stars": 253,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:10:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T00:52:26.723Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/drizzlechampionblast/DAEMON-Pro",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/drizzlechampionblast/DAEMON-Pro/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/drizzlechampionblast/DAEMON-Pro\nWhat it says it does: \"Daemon Pro, a professional desktop software utility configuration, is now available as a complete standalone setup for seamless operation...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T00:52:26.723Z"
   }
  ],
  "levels": {
-  "account": 246,
+  "account": 247,
   "heavy": 83,
   "instant": 58,
-  "read": 113
+  "read": 112
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1432 guides written so far · last update 2026-10-25 21:55 UTC_
+_1433 guides written so far · last update 2026-10-25 21:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Python project | Runs in the browser with a free account | [guide](guides/guillaumemeyer/watermarks-remover.md) |
 | [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine) | Python project | Runs in the browser with a free account | [guide](guides/hevnsnt/cvengine.md) |
 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Node command-line tool | Runs in the browser with a free account | [guide](guides/hypit-ai/hypit.md) |
 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | TypeScript project | Runs in the browser with a free account | [guide](guides/anywhere-labs/dsh-desktop.md) |
@@ -38,7 +39,6 @@ _1432 guides written so far · last update 2026-10-25 21:55 UTC_
 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ly05010419/macnativegames.md) |
 | [agharsallah/esp-labs-web](https://github.com/agharsallah/esp-labs-web) | Vite app | Runs in the browser with a free account | [guide](guides/agharsallah/esp-labs-web.md) |
 | [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lyramakesmusic/neuron-explorer.md) |
-| [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Rust project | Runs in the browser with a free account | [guide](guides/indexable-inc/blaze.md) |
 <!-- latest:end -->
 
 ## How it works

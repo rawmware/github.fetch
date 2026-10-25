@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T01:44:08.365Z",
- "totalGuides": 1382,
+ "updatedAt": "2026-10-25T01:44:08.545Z",
+ "totalGuides": 1383,
  "items": [
+  {
+   "fullName": "prototux/AARE",
+   "owner": "prototux",
+   "name": "AARE",
+   "url": "https://github.com/prototux/AARE",
+   "avatar": "https://avatars.githubusercontent.com/u/1549232?v=4",
+   "description": "A proof-of-concept opensource implementation of Android Auto's client side (phone side)",
+   "language": "Kotlin",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 64,
+   "forks": 0,
+   "createdAt": "2026-10-23T01:25:32Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T01:44:08.544Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/prototux/AARE?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/prototux/AARE",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/prototux/AARE/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/prototux/AARE.git\ncd AARE",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/prototux/AARE\nWhat it says it does: \"A proof-of-concept opensource implementation of Android Auto's client side (phone side)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T01:44:08.544Z"
+  },
   {
    "fullName": "lillyguisnet/sam3-segmentation",
    "owner": "lillyguisnet",
@@ -31989,75 +32046,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/azrinaldi/gemini-stealth-bridge\nWhat it says it does: \"Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T08:37:53.512Z"
-  },
-  {
-   "fullName": "Thang1191/Miku-Dating-Sim-GRUB-Theme",
-   "owner": "Thang1191",
-   "name": "Miku-Dating-Sim-GRUB-Theme",
-   "url": "https://github.com/Thang1191/Miku-Dating-Sim-GRUB-Theme",
-   "avatar": "https://avatars.githubusercontent.com/u/101631480?v=4",
-   "description": "Hatsune Miku dating sim themed GRUB theme",
-   "language": "Shell",
-   "topics": [
-    "bootloader",
-    "customization",
-    "grub-theme",
-    "grub-themes",
-    "grub2",
-    "grub2-theme",
-    "hatsune-miku",
-    "linux"
-   ],
-   "license": null,
-   "stars": 62,
-   "forks": 0,
-   "createdAt": "2026-10-16T11:39:00Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T08:37:53.366Z",
-   "stack": {
-    "kind": "other",
-    "label": "Shell project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Thang1191/Miku-Dating-Sim-GRUB-Theme?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Thang1191/Miku-Dating-Sim-GRUB-Theme",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Thang1191/Miku-Dating-Sim-GRUB-Theme/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Thang1191/Miku-Dating-Sim-GRUB-Theme.git\ncd Miku-Dating-Sim-GRUB-Theme",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Thang1191/Miku-Dating-Sim-GRUB-Theme\nWhat it says it does: \"Hatsune Miku dating sim themed GRUB theme\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T08:37:53.366Z"
   }
  ],
  "levels": {
-  "account": 243,
-  "heavy": 89,
+  "heavy": 90,
+  "account": 242,
   "read": 118,
   "instant": 50
  }

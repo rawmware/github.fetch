@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1396 guides written so far · last update 2026-10-25 06:57 UTC_
+_1397 guides written so far · last update 2026-10-25 06:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aideveloper-web/free-claude-code](https://github.com/aideveloper-web/free-claude-code) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/free-claude-code.md) |
 | [thomasunise/argus](https://github.com/thomasunise/argus) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/thomasunise/argus.md) |
 | [JellyFlow/Mcdonalds_in_RokidGlasses](https://github.com/JellyFlow/Mcdonalds_in_RokidGlasses) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jellyflow/mcdonalds_in_rokidglasses.md) |
 | [lordon1a/agents.md](https://github.com/lordon1a/agents.md) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lordon1a/agents.md.md) |
@@ -38,7 +39,6 @@ _1396 guides written so far · last update 2026-10-25 06:57 UTC_
 | [LittleChest/mcd-withwork-skills](https://github.com/LittleChest/mcd-withwork-skills) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/littlechest/mcd-withwork-skills.md) |
 | [wangrongding/tv-fresh](https://github.com/wangrongding/tv-fresh) | Shell project | Runs in the browser with a free account | [guide](guides/wangrongding/tv-fresh.md) |
 | [kqgzhkbiqutr/dex-sniper-bot-pc-desktop](https://github.com/kqgzhkbiqutr/dex-sniper-bot-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kqgzhkbiqutr/dex-sniper-bot-pc-desktop.md) |
-| [wpeikxyrjnps/.github](https://github.com/wpeikxyrjnps/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/wpeikxyrjnps/.github.md) |
 <!-- latest:end -->
 
 ## How it works

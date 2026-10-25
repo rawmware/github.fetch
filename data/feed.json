@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T06:57:18.062Z",
- "totalGuides": 1396,
+ "updatedAt": "2026-10-25T06:57:18.249Z",
+ "totalGuides": 1397,
  "items": [
+  {
+   "fullName": "aideveloper-web/free-claude-code",
+   "owner": "aideveloper-web",
+   "name": "free-claude-code",
+   "url": "https://github.com/aideveloper-web/free-claude-code",
+   "avatar": "https://avatars.githubusercontent.com/u/347546139?v=4",
+   "description": "Explore Free Claude Code Fable 5.1 and discover AI-powered coding workflows, developer tools, and resources for modern software development.",
+   "language": null,
+   "topics": [
+    "claude-ai",
+    "claude-api",
+    "claude-api-free",
+    "claude-api-key",
+    "claudecode",
+    "claudecode-tool",
+    "fable5",
+    "free-claude-ai"
+   ],
+   "license": "MIT",
+   "stars": 62,
+   "forks": 11,
+   "createdAt": "2026-10-24T22:59:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T06:57:18.248Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/aideveloper-web/free-claude-code",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/aideveloper-web/free-claude-code/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/aideveloper-web/free-claude-code\nWhat it says it does: \"Explore Free Claude Code Fable 5.1 and discover AI-powered coding workflows, developer tools, and resources for modern software development.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T06:57:18.248Z"
+  },
   {
    "fullName": "thomasunise/argus",
    "owner": "thomasunise",
@@ -32087,76 +32144,12 @@
    "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/kividbio/kividb\nWhat it says it does: \"Redis®-compatible in-memory database written in Rust, with full-text and vector search\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T12:28:10.334Z"
-  },
-  {
-   "fullName": "yapfast/yapfast",
-   "owner": "yapfast",
-   "name": "yapfast",
-   "url": "https://github.com/yapfast/yapfast",
-   "avatar": "https://avatars.githubusercontent.com/u/343140022?v=4",
-   "description": "The chat app that doesn't eat your PC. A lightweight, native Discord client in Rust.",
-   "language": "Rust",
-   "topics": [
-    "chat",
-    "desktop-app",
-    "discord",
-    "discord-client",
-    "lightweight",
-    "linux",
-    "low-memory",
-    "matrix"
-   ],
-   "license": "GPL-3.0",
-   "stars": 54,
-   "forks": 4,
-   "createdAt": "2026-10-16T14:59:44Z",
-   "branch": "main",
-   "homepage": "https://yapfast.com",
-   "addedAt": "2026-10-17T12:28:10.104Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/yapfast/yapfast?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/yapfast/yapfast",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/yapfast/yapfast/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/yapfast/yapfast.git\ncd yapfast\ncargo build --release\ncargo run",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/yapfast/yapfast\nWhat it says it does: \"The chat app that doesn't eat your PC. A lightweight, native Discord client in Rust.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T12:28:10.104Z"
   }
  ],
  "levels": {
-  "account": 239,
+  "read": 119,
+  "account": 238,
   "instant": 56,
-  "read": 118,
   "heavy": 87
  }
 }

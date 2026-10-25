@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1427 guides written so far · last update 2026-10-25 19:18 UTC_
+_1428 guides written so far · last update 2026-10-25 19:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [darrenprx/lolPing](https://github.com/darrenprx/lolPing) | Vite app | Runs in the browser with a free account | [guide](guides/darrenprx/lolping.md) |
 | [ludovic111/horizon](https://github.com/ludovic111/horizon) | Rust project | Runs in the browser with a free account | [guide](guides/ludovic111/horizon.md) |
 | [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) | Docker app | Runs in the browser with a free account | [guide](guides/fei2411/ds-bot.md) |
 | [jhontandazo008/CleanLauncher](https://github.com/jhontandazo008/CleanLauncher) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/jhontandazo008/cleanlauncher.md) |
@@ -38,7 +39,6 @@ _1427 guides written so far · last update 2026-10-25 19:18 UTC_
 | [cyber-xiaoya/cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/cyber-xiaoya/cyber-xiaoya-live.md) |
 | [chenkezhen480/dsh-world](https://github.com/chenkezhen480/dsh-world) | JavaScript project | Runs in the browser with a free account | [guide](guides/chenkezhen480/dsh-world.md) |
 | [keoyyo85/FoundPhone-Studio](https://github.com/keoyyo85/FoundPhone-Studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/keoyyo85/foundphone-studio.md) |
-| [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/misshexa66/ouncecake.md) |
 <!-- latest:end -->
 
 ## How it works

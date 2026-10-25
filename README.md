@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1411 guides written so far · last update 2026-10-25 12:29 UTC_
+_1412 guides written so far · last update 2026-10-25 12:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [null0526/dario-genesis](https://github.com/null0526/dario-genesis) | Python project | Runs in the browser with a free account | [guide](guides/null0526/dario-genesis.md) |
 | [x86rc/unthemidator](https://github.com/x86rc/unthemidator) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/x86rc/unthemidator.md) |
 | [vxcn/mcd-kcal-picker](https://github.com/vxcn/mcd-kcal-picker) | Python project | Runs in the browser with a free account | [guide](guides/vxcn/mcd-kcal-picker.md) |
 | [ChinaOpenClaw/mcd-nutrition-expert](https://github.com/ChinaOpenClaw/mcd-nutrition-expert) | Python project | Runs in the browser with a free account | [guide](guides/chinaopenclaw/mcd-nutrition-expert.md) |
@@ -38,7 +39,6 @@ _1411 guides written so far · last update 2026-10-25 12:29 UTC_
 | [holdcloud/mcd-calendar-buddy](https://github.com/holdcloud/mcd-calendar-buddy) | Python project | Runs in the browser with a free account | [guide](guides/holdcloud/mcd-calendar-buddy.md) |
 | [surendrapandar/minilytics](https://github.com/surendrapandar/minilytics) | Vite app | Runs in a browser tab, no account needed | [guide](guides/surendrapandar/minilytics.md) |
 | [Driveuoexhibit/KMS-Pico](https://github.com/Driveuoexhibit/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driveuoexhibit/kms-pico.md) |
-| [auragrubportico/Adobe-Audition](https://github.com/auragrubportico/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/auragrubportico/adobe-audition.md) |
 <!-- latest:end -->
 
 ## How it works

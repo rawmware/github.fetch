@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T12:29:54.495Z",
- "totalGuides": 1411,
+ "updatedAt": "2026-10-25T12:29:54.655Z",
+ "totalGuides": 1412,
  "items": [
+  {
+   "fullName": "null0526/dario-genesis",
+   "owner": "null0526",
+   "name": "dario-genesis",
+   "url": "https://github.com/null0526/dario-genesis",
+   "avatar": "https://avatars.githubusercontent.com/u/190335650?v=4",
+   "description": "达里奥创世录：一部画面和声音全由代码生成的 AI 短片（Claude / GPT 分工制作）· 源码、声音合成器与制作经验",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 61,
+   "forks": 6,
+   "createdAt": "2026-10-24T07:51:03Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T12:29:54.655Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/null0526/dario-genesis/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/null0526/dario-genesis?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/null0526/dario-genesis",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/null0526/dario-genesis/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/null0526/dario-genesis.git\ncd dario-genesis",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/null0526/dario-genesis\nWhat it says it does: \"达里奥创世录：一部画面和声音全由代码生成的 AI 短片（Claude / GPT 分工制作）· 源码、声音合成器与制作经验\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T12:29:54.655Z"
+  },
   {
    "fullName": "x86rc/unthemidator",
    "owner": "x86rc",
@@ -32051,77 +32113,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/MK27MK/uxed\nWhat it says it does: \"Agent skills that get you into flow state.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T18:23:42.387Z"
-  },
-  {
-   "fullName": "SakanaAI/AI-Scientist-v3",
-   "owner": "SakanaAI",
-   "name": "AI-Scientist-v3",
-   "url": "https://github.com/SakanaAI/AI-Scientist-v3",
-   "avatar": "https://avatars.githubusercontent.com/u/140988036?v=4",
-   "description": "The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery",
-   "language": "Python",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 329,
-   "forks": 54,
-   "createdAt": "2026-10-11T13:20:48Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T15:53:01.985Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python FastAPI app",
-    "frameworks": [
-     "FastAPI"
-    ]
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/SakanaAI/AI-Scientist-v3/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/SakanaAI/AI-Scientist-v3?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/SakanaAI/AI-Scientist-v3",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SakanaAI/AI-Scientist-v3/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [
-    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
-   ],
-   "local": "git clone --depth 1 https://github.com/SakanaAI/AI-Scientist-v3.git\ncd AI-Scientist-v3\npip install -e .",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/SakanaAI/AI-Scientist-v3\nWhat it says it does: \"The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T15:53:01.985Z"
   }
  ],
  "levels": {
-  "heavy": 81,
   "account": 242,
+  "heavy": 81,
   "read": 121,
   "instant": 56
  }

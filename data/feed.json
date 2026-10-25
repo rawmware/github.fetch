@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T12:29:52.976Z",
- "totalGuides": 1403,
+ "updatedAt": "2026-10-25T12:29:53.117Z",
+ "totalGuides": 1404,
  "items": [
+  {
+   "fullName": "dvbs2000/liuchunlin-shufa",
+   "owner": "dvbs2000",
+   "name": "liuchunlin-shufa",
+   "url": "https://github.com/dvbs2000/liuchunlin-shufa",
+   "avatar": "https://avatars.githubusercontent.com/u/24581161?v=4",
+   "description": "刘春霖小楷书房 · 在线诗词书法生成系统",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 95,
+   "forks": 23,
+   "createdAt": "2026-10-24T14:40:17Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T12:29:53.117Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/dvbs2000/liuchunlin-shufa/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/dvbs2000/liuchunlin-shufa?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/dvbs2000/liuchunlin-shufa",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/dvbs2000/liuchunlin-shufa/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/dvbs2000/liuchunlin-shufa.git\ncd liuchunlin-shufa",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/dvbs2000/liuchunlin-shufa\nWhat it says it does: \"刘春霖小楷书房 · 在线诗词书法生成系统\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T12:29:53.117Z"
+  },
   {
    "fullName": "holdcloud/mcd-calendar-buddy",
    "owner": "holdcloud",
@@ -32061,63 +32123,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Apolinario-coder/SkyRecomp\nWhat it says it does: \"Static recompilation of The Legend of Zelda: Skyward Sword for PC\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T15:53:00.536Z"
-  },
-  {
-   "fullName": "BreezeSolicitorMap/undress.ai",
-   "owner": "BreezeSolicitorMap",
-   "name": "undress.ai",
-   "url": "https://github.com/BreezeSolicitorMap/undress.ai",
-   "avatar": "https://avatars.githubusercontent.com/u/270958146?v=4",
-   "description": "Virtual clothing try-on from a single photo — mobile web app. Upload a person and a garment, get a photorealistic result.",
-   "language": null,
-   "topics": [
-    "exhentai",
-    "sex"
-   ],
-   "license": "MIT",
-   "stars": 119,
-   "forks": 0,
-   "createdAt": "2026-10-17T13:39:11Z",
-   "branch": "main",
-   "homepage": "https://templace-sr4.icu",
-   "addedAt": "2026-10-17T15:53:00.372Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/BreezeSolicitorMap/undress.ai",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BreezeSolicitorMap/undress.ai/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/BreezeSolicitorMap/undress.ai\nWhat it says it does: \"Virtual clothing try-on from a single photo — mobile web app. Upload a person and a garment, get a photorealistic result.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T15:53:00.372Z"
   }
  ],
  "levels": {
-  "account": 237,
+  "account": 238,
   "instant": 57,
-  "read": 121,
+  "read": 120,
   "heavy": 85
  }
 }

@@ -1,8 +1,73 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T19:18:46.273Z",
- "totalGuides": 1428,
+ "updatedAt": "2026-10-25T19:18:46.467Z",
+ "totalGuides": 1429,
  "items": [
+  {
+   "fullName": "boykopovar/AnyPS5",
+   "owner": "boykopovar",
+   "name": "AnyPS5",
+   "url": "https://github.com/boykopovar/AnyPS5",
+   "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
+   "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+   "language": "C++",
+   "topics": [
+    "anyps5",
+    "dynamic-library",
+    "game-porting",
+    "ps5",
+    "ps5-tools",
+    "spir-v",
+    "vulkan"
+   ],
+   "license": "GPL-2.0",
+   "stars": 48189,
+   "forks": 4528,
+   "createdAt": "2026-08-03T21:30:25Z",
+   "branch": "main",
+   "homepage": "https://boykopovar.github.io/AnyPS5/",
+   "addedAt": "2026-10-25T19:18:46.467Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/boykopovar/AnyPS5?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/boykopovar/AnyPS5",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/boykopovar/AnyPS5/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/boykopovar/AnyPS5.git\ncd AnyPS5",
+   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/boykopovar/AnyPS5\nWhat it says it does: \"Tool for automatic PS5 executables porting to Linux and Windows\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T19:18:46.467Z"
+  },
   {
    "fullName": "darrenprx/lolPing",
    "owner": "darrenprx",
@@ -32215,69 +32280,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Cyclonechivolt/Cinema-4d\nWhat it says it does: \"Complete standalone setup of Cinema 4D 2026 ready to run, featuring pre-activated desktop edition with all tools included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T00:52:26.166Z"
-  },
-  {
-   "fullName": "ClimberDefend/Avid-Media-Composer",
-   "owner": "ClimberDefend",
-   "name": "Avid-Media-Composer",
-   "url": "https://github.com/ClimberDefend/Avid-Media-Composer",
-   "avatar": "https://avatars.githubusercontent.com/u/291376241?v=4",
-   "description": "Complete standalone setup for Avid Media Composer 17. Ready-to-run, fully activated desktop installation.",
-   "language": null,
-   "topics": [
-    "avid-media-composer",
-    "avid-media-composer-14",
-    "avid-media-composer-download",
-    "avid-media-composer-editing-workflow",
-    "avid-media-composer-media-management",
-    "avid-media-composer-settings-setup",
-    "avid-media-composer-tutorial",
-    "avid-media-composer-ultimate-download"
-   ],
-   "license": null,
-   "stars": 79,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:09:35Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T23:00:32.483Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ClimberDefend/Avid-Media-Composer",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ClimberDefend/Avid-Media-Composer/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ClimberDefend/Avid-Media-Composer\nWhat it says it does: \"Complete standalone setup for Avid Media Composer 17. Ready-to-run, fully activated desktop installation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T23:00:32.483Z"
   }
  ],
  "levels": {
+  "heavy": 83,
   "account": 243,
-  "heavy": 82,
   "instant": 58,
-  "read": 117
+  "read": 116
  }
 }

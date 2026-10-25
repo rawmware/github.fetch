@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1436 guides written so far · last update 2026-10-25 21:55 UTC_
+_1437 guides written so far · last update 2026-10-25 21:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [peach-mitao/peach](https://github.com/peach-mitao/peach) | JavaScript project | Runs in the browser with a free account | [guide](guides/peach-mitao/peach.md) |
 | [yc-software/qm](https://github.com/yc-software/qm) | Fastify app | Runs in a browser tab, no account needed | [guide](guides/yc-software/qm.md) |
 | [lexmount/moli](https://github.com/lexmount/moli) | Rust project | Runs in the browser with a free account | [guide](guides/lexmount/moli.md) |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | JavaScript project | Runs in the browser with a free account | [guide](guides/awesome-dsh-plugin/awesome-dsh-plugin.md) |
@@ -38,7 +39,6 @@ _1436 guides written so far · last update 2026-10-25 21:55 UTC_
 | [darrenprx/lolPing](https://github.com/darrenprx/lolPing) | Vite app | Runs in the browser with a free account | [guide](guides/darrenprx/lolping.md) |
 | [ludovic111/horizon](https://github.com/ludovic111/horizon) | Rust project | Runs in the browser with a free account | [guide](guides/ludovic111/horizon.md) |
 | [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) | Docker app | Runs in the browser with a free account | [guide](guides/fei2411/ds-bot.md) |
-| [jhontandazo008/CleanLauncher](https://github.com/jhontandazo008/CleanLauncher) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/jhontandazo008/cleanlauncher.md) |
 <!-- latest:end -->
 
 ## How it works

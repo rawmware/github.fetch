@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1381 guides written so far · last update 2026-10-25 01:44 UTC_
+_1382 guides written so far · last update 2026-10-25 01:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lillyguisnet/sam3-segmentation](https://github.com/lillyguisnet/sam3-segmentation) | Python project | Runs in the browser with a free account | [guide](guides/lillyguisnet/sam3-segmentation.md) |
 | [mokevnin/dev-guardrails](https://github.com/mokevnin/dev-guardrails) | JavaScript project | Runs in the browser with a free account | [guide](guides/mokevnin/dev-guardrails.md) |
 | [oscarlosu-lab/USBAnywhere](https://github.com/oscarlosu-lab/USBAnywhere) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/oscarlosu-lab/usbanywhere.md) |
 | [aideveloper-web/Free-Deepseek](https://github.com/aideveloper-web/Free-Deepseek) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/free-deepseek.md) |
@@ -38,7 +39,6 @@ _1381 guides written so far · last update 2026-10-25 01:44 UTC_
 | [wuyoscar/AISafetyHot](https://github.com/wuyoscar/AISafetyHot) | TeX project | Runs in the browser with a free account | [guide](guides/wuyoscar/aisafetyhot.md) |
 | [philips71017/Hiddify-Manager](https://github.com/philips71017/Hiddify-Manager) | Python project | Runs in the browser with a free account | [guide](guides/philips71017/hiddify-manager.md) |
 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/udhaykumarbala/cleanyourtv-app.md) |
-| [xanthichi/mcd-meal-mate](https://github.com/xanthichi/mcd-meal-mate) | Vite app | Runs in a browser tab, no account needed | [guide](guides/xanthichi/mcd-meal-mate.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1406 guides written so far · last update 2026-10-25 12:29 UTC_
+_1407 guides written so far · last update 2026-10-25 12:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BaoZ-XHG/MaiMen-Saver](https://github.com/BaoZ-XHG/MaiMen-Saver) | Python project | Runs in the browser with a free account | [guide](guides/baoz-xhg/maimen-saver.md) |
 | [Alex-star-arch/mcd-burger-studio](https://github.com/Alex-star-arch/mcd-burger-studio) | HTML project | Runs in the browser with a free account | [guide](guides/alex-star-arch/mcd-burger-studio.md) |
 | [CRFXN5C/mcd-mcp-kit](https://github.com/CRFXN5C/mcd-mcp-kit) | Python project | Runs in the browser with a free account | [guide](guides/crfxn5c/mcd-mcp-kit.md) |
 | [dvbs2000/liuchunlin-shufa](https://github.com/dvbs2000/liuchunlin-shufa) | Python project | Runs in the browser with a free account | [guide](guides/dvbs2000/liuchunlin-shufa.md) |
@@ -38,7 +39,6 @@ _1406 guides written so far · last update 2026-10-25 12:29 UTC_
 | [tractordev/webframe](https://github.com/tractordev/webframe) | Go project | Runs in the browser with a free account | [guide](guides/tractordev/webframe.md) |
 | [aideveloper-web/free-claude-code](https://github.com/aideveloper-web/free-claude-code) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/free-claude-code.md) |
 | [thomasunise/argus](https://github.com/thomasunise/argus) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/thomasunise/argus.md) |
-| [JellyFlow/Mcdonalds_in_RokidGlasses](https://github.com/JellyFlow/Mcdonalds_in_RokidGlasses) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jellyflow/mcdonalds_in_rokidglasses.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T19:18:46.945Z",
- "totalGuides": 1431,
+ "updatedAt": "2026-10-25T21:55:12.175Z",
+ "totalGuides": 1432,
  "items": [
+  {
+   "fullName": "hevnsnt/CVEngine",
+   "owner": "hevnsnt",
+   "name": "CVEngine",
+   "url": "https://github.com/hevnsnt/CVEngine",
+   "avatar": "https://avatars.githubusercontent.com/u/4072860?v=4",
+   "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+   "language": "Python",
+   "topics": [
+    "ai",
+    "attack-surface-management",
+    "bbot",
+    "cybersecurity",
+    "mcp",
+    "nmap",
+    "nuclei",
+    "vulnerability-scanner"
+   ],
+   "license": "GPL-3.0",
+   "stars": 104,
+   "forks": 16,
+   "createdAt": "2026-10-24T22:34:43Z",
+   "branch": "master",
+   "homepage": null,
+   "addedAt": "2026-10-25T21:55:12.160Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/hevnsnt/CVEngine/master",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/hevnsnt/CVEngine?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/hevnsnt/CVEngine",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/hevnsnt/CVEngine/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/hevnsnt/CVEngine.git\ncd CVEngine",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/hevnsnt/CVEngine\nWhat it says it does: \"AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T21:55:12.160Z"
+  },
   {
    "fullName": "hypit-ai/hypit",
    "owner": "hypit-ai",
@@ -32254,68 +32325,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/drizzlechampionblast/DAEMON-Pro\nWhat it says it does: \"Daemon Pro, a professional desktop software utility configuration, is now available as a complete standalone setup for seamless operation...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T00:52:26.723Z"
-  },
-  {
-   "fullName": "CyclopsGuard/Claude-Jailbreak-Prompt",
-   "owner": "CyclopsGuard",
-   "name": "Claude-Jailbreak-Prompt",
-   "url": "https://github.com/CyclopsGuard/Claude-Jailbreak-Prompt",
-   "avatar": "https://avatars.githubusercontent.com/u/291376316?v=4",
-   "description": "Full pre-activated desktop edition of Claude AI local tools. Everything included in the installer.",
-   "language": null,
-   "topics": [
-    "claude-jailbreak-2026",
-    "claude-jailbreak-3-5-sonnet",
-    "claude-jailbreak-opus",
-    "claude-jailbreak-sonnet",
-    "get-claude-jailbreak-free",
-    "jailbreak-claude-ai",
-    "jailbreak-testing"
-   ],
-   "license": null,
-   "stars": 255,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:10:14Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T00:52:26.533Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/CyclopsGuard/Claude-Jailbreak-Prompt",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/CyclopsGuard/Claude-Jailbreak-Prompt/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/CyclopsGuard/Claude-Jailbreak-Prompt\nWhat it says it does: \"Full pre-activated desktop edition of Claude AI local tools. Everything included in the installer.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T00:52:26.533Z"
   }
  ],
  "levels": {
-  "account": 245,
+  "account": 246,
   "heavy": 83,
   "instant": 58,
-  "read": 114
+  "read": 113
  }
 }

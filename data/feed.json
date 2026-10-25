@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T19:18:46.467Z",
- "totalGuides": 1429,
+ "updatedAt": "2026-10-25T19:18:46.713Z",
+ "totalGuides": 1430,
  "items": [
+  {
+   "fullName": "anywhere-labs/dsh-desktop",
+   "owner": "anywhere-labs",
+   "name": "dsh-desktop",
+   "url": "https://github.com/anywhere-labs/dsh-desktop",
+   "avatar": "https://avatars.githubusercontent.com/u/286827603?v=4",
+   "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+   "language": "TypeScript",
+   "topics": [
+    "cordis",
+    "cordis-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "desktop",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugin-desktop"
+   ],
+   "license": "MIT",
+   "stars": 33088,
+   "forks": 1511,
+   "createdAt": "2026-08-13T16:30:50Z",
+   "branch": "master",
+   "homepage": "https://dshdesktop.cn",
+   "addedAt": "2026-10-25T19:18:46.712Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/anywhere-labs/dsh-desktop?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/anywhere-labs/dsh-desktop",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/anywhere-labs/dsh-desktop/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/anywhere-labs/dsh-desktop.git\ncd dsh-desktop",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/anywhere-labs/dsh-desktop\nWhat it says it does: \"为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T19:18:46.712Z"
+  },
   {
    "fullName": "boykopovar/AnyPS5",
    "owner": "boykopovar",
@@ -32223,69 +32287,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/CyanDustObelisk/Cinebench\nWhat it says it does: \"Full working installer for Cinebench 16, ready to run with all benchmarks included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T00:52:26.362Z"
-  },
-  {
-   "fullName": "Cyclonechivolt/Cinema-4d",
-   "owner": "Cyclonechivolt",
-   "name": "Cinema-4d",
-   "url": "https://github.com/Cyclonechivolt/Cinema-4d",
-   "avatar": "https://avatars.githubusercontent.com/u/291373474?v=4",
-   "description": "Complete standalone setup of Cinema 4D 2026 ready to run, featuring pre-activated desktop edition with all tools included.",
-   "language": null,
-   "topics": [
-    "c4d-plugin",
-    "cinema-4d",
-    "cinema-4d-2026",
-    "cinema-4d-free",
-    "cinema-4d-freel",
-    "cinema-4d-plugin",
-    "cinema-4d-plugin-maxon",
-    "cinema-4d-studio-pc"
-   ],
-   "license": null,
-   "stars": 256,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:10:09Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T00:52:26.166Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Cyclonechivolt/Cinema-4d",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Cyclonechivolt/Cinema-4d/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Cyclonechivolt/Cinema-4d\nWhat it says it does: \"Complete standalone setup of Cinema 4D 2026 ready to run, featuring pre-activated desktop edition with all tools included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T00:52:26.166Z"
   }
  ],
  "levels": {
+  "account": 244,
   "heavy": 83,
-  "account": 243,
   "instant": 58,
-  "read": 116
+  "read": 115
  }
 }

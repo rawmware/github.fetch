@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1429 guides written so far · last update 2026-10-25 19:18 UTC_
+_1430 guides written so far · last update 2026-10-25 19:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | TypeScript project | Runs in the browser with a free account | [guide](guides/anywhere-labs/dsh-desktop.md) |
 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/boykopovar/anyps5.md) |
 | [darrenprx/lolPing](https://github.com/darrenprx/lolPing) | Vite app | Runs in the browser with a free account | [guide](guides/darrenprx/lolping.md) |
 | [ludovic111/horizon](https://github.com/ludovic111/horizon) | Rust project | Runs in the browser with a free account | [guide](guides/ludovic111/horizon.md) |
@@ -38,7 +39,6 @@ _1429 guides written so far · last update 2026-10-25 19:18 UTC_
 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Rust project | Runs in the browser with a free account | [guide](guides/indexable-inc/blaze.md) |
 | [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) | Rust project | Runs in the browser with a free account | [guide](guides/hffgzktbcc-blip/ounce-core.md) |
 | [cyber-xiaoya/cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/cyber-xiaoya/cyber-xiaoya-live.md) |
-| [chenkezhen480/dsh-world](https://github.com/chenkezhen480/dsh-world) | JavaScript project | Runs in the browser with a free account | [guide](guides/chenkezhen480/dsh-world.md) |
 <!-- latest:end -->
 
 ## How it works

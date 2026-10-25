@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1417 guides written so far · last update 2026-10-25 16:45 UTC_
+_1418 guides written so far · last update 2026-10-25 16:45 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [chenkezhen480/dsh-world](https://github.com/chenkezhen480/dsh-world) | JavaScript project | Runs in the browser with a free account | [guide](guides/chenkezhen480/dsh-world.md) |
 | [keoyyo85/FoundPhone-Studio](https://github.com/keoyyo85/FoundPhone-Studio) | Vite app | Runs in a browser tab, no account needed | [guide](guides/keoyyo85/foundphone-studio.md) |
 | [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/misshexa66/ouncecake.md) |
 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | Vite app | Runs in the browser with a free account | [guide](guides/designfuchen/word-atlas.md) |
@@ -38,7 +39,6 @@ _1417 guides written so far · last update 2026-10-25 16:45 UTC_
 | [ChinaOpenClaw/mcd-nutrition-expert](https://github.com/ChinaOpenClaw/mcd-nutrition-expert) | Python project | Runs in the browser with a free account | [guide](guides/chinaopenclaw/mcd-nutrition-expert.md) |
 | [TUcookie/mcd-deal-hunter](https://github.com/TUcookie/mcd-deal-hunter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tucookie/mcd-deal-hunter.md) |
 | [BaoZ-XHG/MaiMen-Saver](https://github.com/BaoZ-XHG/MaiMen-Saver) | Python project | Runs in the browser with a free account | [guide](guides/baoz-xhg/maimen-saver.md) |
-| [Alex-star-arch/mcd-burger-studio](https://github.com/Alex-star-arch/mcd-burger-studio) | HTML project | Runs in the browser with a free account | [guide](guides/alex-star-arch/mcd-burger-studio.md) |
 <!-- latest:end -->
 
 ## How it works

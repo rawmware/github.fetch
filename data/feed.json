@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T21:55:13.613Z",
- "totalGuides": 1437,
+ "updatedAt": "2026-10-25T21:55:13.794Z",
+ "totalGuides": 1438,
  "items": [
+  {
+   "fullName": "pollen-robotics/microduck",
+   "owner": "pollen-robotics",
+   "name": "microduck",
+   "url": "https://github.com/pollen-robotics/microduck",
+   "avatar": "https://avatars.githubusercontent.com/u/19241070?v=4",
+   "description": "A Tiny biped duck robot 🦆",
+   "language": "Rust",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 11573,
+   "forks": 1477,
+   "createdAt": "2026-07-29T07:52:16Z",
+   "branch": "main",
+   "homepage": "https://pollen-robotics.com/microduck",
+   "addedAt": "2026-10-25T21:55:13.794Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/pollen-robotics/microduck?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/pollen-robotics/microduck",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/pollen-robotics/microduck/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/pollen-robotics/microduck.git\ncd microduck\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/pollen-robotics/microduck\nWhat it says it does: \"A Tiny biped duck robot 🦆\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T21:55:13.794Z"
+  },
   {
    "fullName": "peach-mitao/peach",
    "owner": "peach-mitao",
@@ -32340,69 +32395,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Metropolisioretreat/Movavi-Screen-Recorder\nWhat it says it does: \"Pre-activated desktop edition of Movavi Screen Recorder 13.6, ready-to-run full installation build with all features enabled.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T05:43:13.744Z"
-  },
-  {
-   "fullName": "Maroonplocord/Movavi-Converter",
-   "owner": "Maroonplocord",
-   "name": "Movavi-Converter",
-   "url": "https://github.com/Maroonplocord/Movavi-Converter",
-   "avatar": "https://avatars.githubusercontent.com/u/291373702?v=4",
-   "description": "Complete standalone setup for Movavi Converter 2026. Ready-to-run, fully functional desktop installation with all features pre-activated.",
-   "language": null,
-   "topics": [
-    "chroma-key-windows-editor",
-    "media-management-windows-system",
-    "movavi-suite-audio-editing",
-    "movavi-suite-screen-recording",
-    "movavi-suite-voiceover-feature",
-    "movavi-video-editor-mac",
-    "movavi-video-suite-15",
-    "movavi-video-suite-media-management"
-   ],
-   "license": null,
-   "stars": 255,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:12:54Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T05:43:13.605Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Maroonplocord/Movavi-Converter",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Maroonplocord/Movavi-Converter/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Maroonplocord/Movavi-Converter\nWhat it says it does: \"Complete standalone setup for Movavi Converter 2026. Ready-to-run, fully functional desktop installation with all features pre-activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T05:43:13.605Z"
   }
  ],
  "levels": {
-  "account": 250,
+  "account": 251,
   "instant": 59,
   "heavy": 82,
-  "read": 109
+  "read": 108
  }
 }

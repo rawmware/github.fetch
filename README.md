@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1437 guides written so far · last update 2026-10-25 21:55 UTC_
+_1438 guides written so far · last update 2026-10-25 21:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust project | Runs in the browser with a free account | [guide](guides/pollen-robotics/microduck.md) |
 | [peach-mitao/peach](https://github.com/peach-mitao/peach) | JavaScript project | Runs in the browser with a free account | [guide](guides/peach-mitao/peach.md) |
 | [yc-software/qm](https://github.com/yc-software/qm) | Fastify app | Runs in a browser tab, no account needed | [guide](guides/yc-software/qm.md) |
 | [lexmount/moli](https://github.com/lexmount/moli) | Rust project | Runs in the browser with a free account | [guide](guides/lexmount/moli.md) |
@@ -38,7 +39,6 @@ _1437 guides written so far · last update 2026-10-25 21:55 UTC_
 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/boykopovar/anyps5.md) |
 | [darrenprx/lolPing](https://github.com/darrenprx/lolPing) | Vite app | Runs in the browser with a free account | [guide](guides/darrenprx/lolping.md) |
 | [ludovic111/horizon](https://github.com/ludovic111/horizon) | Rust project | Runs in the browser with a free account | [guide](guides/ludovic111/horizon.md) |
-| [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) | Docker app | Runs in the browser with a free account | [guide](guides/fei2411/ds-bot.md) |
 <!-- latest:end -->
 
 ## How it works

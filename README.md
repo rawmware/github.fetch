@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1421 guides written so far · last update 2026-10-25 16:45 UTC_
+_1422 guides written so far · last update 2026-10-25 16:45 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lyramakesmusic/neuron-explorer.md) |
 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Rust project | Runs in the browser with a free account | [guide](guides/indexable-inc/blaze.md) |
 | [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) | Rust project | Runs in the browser with a free account | [guide](guides/hffgzktbcc-blip/ounce-core.md) |
 | [cyber-xiaoya/cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/cyber-xiaoya/cyber-xiaoya-live.md) |
@@ -38,7 +39,6 @@ _1421 guides written so far · last update 2026-10-25 16:45 UTC_
 | [lalalune/pumpfun-source](https://github.com/lalalune/pumpfun-source) | Python project | Runs in the browser with a free account | [guide](guides/lalalune/pumpfun-source.md) |
 | [null0526/dario-genesis](https://github.com/null0526/dario-genesis) | Python project | Runs in the browser with a free account | [guide](guides/null0526/dario-genesis.md) |
 | [x86rc/unthemidator](https://github.com/x86rc/unthemidator) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/x86rc/unthemidator.md) |
-| [vxcn/mcd-kcal-picker](https://github.com/vxcn/mcd-kcal-picker) | Python project | Runs in the browser with a free account | [guide](guides/vxcn/mcd-kcal-picker.md) |
 <!-- latest:end -->
 
 ## How it works

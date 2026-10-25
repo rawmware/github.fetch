@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1408 guides written so far · last update 2026-10-25 12:29 UTC_
+_1409 guides written so far · last update 2026-10-25 12:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ChinaOpenClaw/mcd-nutrition-expert](https://github.com/ChinaOpenClaw/mcd-nutrition-expert) | Python project | Runs in the browser with a free account | [guide](guides/chinaopenclaw/mcd-nutrition-expert.md) |
 | [TUcookie/mcd-deal-hunter](https://github.com/TUcookie/mcd-deal-hunter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tucookie/mcd-deal-hunter.md) |
 | [BaoZ-XHG/MaiMen-Saver](https://github.com/BaoZ-XHG/MaiMen-Saver) | Python project | Runs in the browser with a free account | [guide](guides/baoz-xhg/maimen-saver.md) |
 | [Alex-star-arch/mcd-burger-studio](https://github.com/Alex-star-arch/mcd-burger-studio) | HTML project | Runs in the browser with a free account | [guide](guides/alex-star-arch/mcd-burger-studio.md) |
@@ -38,7 +39,6 @@ _1408 guides written so far · last update 2026-10-25 12:29 UTC_
 | [auragrubportico/Adobe-Audition](https://github.com/auragrubportico/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/auragrubportico/adobe-audition.md) |
 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust project | Runs in the browser with a free account | [guide](guides/mizorewww/gdirect.md) |
 | [tractordev/webframe](https://github.com/tractordev/webframe) | Go project | Runs in the browser with a free account | [guide](guides/tractordev/webframe.md) |
-| [aideveloper-web/free-claude-code](https://github.com/aideveloper-web/free-claude-code) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/free-claude-code.md) |
 <!-- latest:end -->
 
 ## How it works

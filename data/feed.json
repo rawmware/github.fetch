@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T12:29:53.117Z",
- "totalGuides": 1404,
+ "updatedAt": "2026-10-25T12:29:53.284Z",
+ "totalGuides": 1405,
  "items": [
+  {
+   "fullName": "CRFXN5C/mcd-mcp-kit",
+   "owner": "CRFXN5C",
+   "name": "mcd-mcp-kit",
+   "url": "https://github.com/CRFXN5C/mcd-mcp-kit",
+   "avatar": "https://avatars.githubusercontent.com/u/196936990?v=4",
+   "description": "MCP integration health check and measured pitfalls for McDonald's China MCP Server",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 92,
+   "forks": 0,
+   "createdAt": "2026-10-23T12:56:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T12:29:53.283Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/CRFXN5C/mcd-mcp-kit/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/CRFXN5C/mcd-mcp-kit?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/CRFXN5C/mcd-mcp-kit",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/CRFXN5C/mcd-mcp-kit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/CRFXN5C/mcd-mcp-kit.git\ncd mcd-mcp-kit",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/CRFXN5C/mcd-mcp-kit\nWhat it says it does: \"MCP integration health check and measured pitfalls for McDonald's China MCP Server\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T12:29:53.283Z"
+  },
   {
    "fullName": "dvbs2000/liuchunlin-shufa",
    "owner": "dvbs2000",
@@ -32066,69 +32128,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/VantaCode420/SmartHdrManager\nWhat it says it does: \"Automatic Windows HDR switching for games, YouTube HDR and RTX Video HDR\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T15:53:00.671Z"
-  },
-  {
-   "fullName": "Apolinario-coder/SkyRecomp",
-   "owner": "Apolinario-coder",
-   "name": "SkyRecomp",
-   "url": "https://github.com/Apolinario-coder/SkyRecomp",
-   "avatar": "https://avatars.githubusercontent.com/u/200193372?v=4",
-   "description": "Static recompilation of The Legend of Zelda: Skyward Sword for PC",
-   "language": "C",
-   "topics": [],
-   "license": null,
-   "stars": 72,
-   "forks": 2,
-   "createdAt": "2026-10-17T09:17:49Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T15:53:00.536Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Apolinario-coder/SkyRecomp?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Apolinario-coder/SkyRecomp",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Apolinario-coder/SkyRecomp/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Apolinario-coder/SkyRecomp.git\ncd SkyRecomp",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Apolinario-coder/SkyRecomp\nWhat it says it does: \"Static recompilation of The Legend of Zelda: Skyward Sword for PC\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T15:53:00.536Z"
   }
  ],
  "levels": {
-  "account": 238,
+  "account": 239,
   "instant": 57,
   "read": 120,
-  "heavy": 85
+  "heavy": 84
  }
 }

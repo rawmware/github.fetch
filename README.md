@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1385 guides written so far · last update 2026-10-25 06:57 UTC_
+_1386 guides written so far · last update 2026-10-25 06:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kqgzhkbiqutr/dex-sniper-bot-pc-desktop](https://github.com/kqgzhkbiqutr/dex-sniper-bot-pc-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kqgzhkbiqutr/dex-sniper-bot-pc-desktop.md) |
 | [wpeikxyrjnps/.github](https://github.com/wpeikxyrjnps/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/wpeikxyrjnps/.github.md) |
 | [Shaitrish/37studio](https://github.com/Shaitrish/37studio) | Go project | Runs in the browser with a free account | [guide](guides/shaitrish/37studio.md) |
 | [prototux/AARE](https://github.com/prototux/AARE) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/prototux/aare.md) |
@@ -38,7 +39,6 @@ _1385 guides written so far · last update 2026-10-25 06:57 UTC_
 | [qnzqfmbacrkk/.github](https://github.com/qnzqfmbacrkk/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/qnzqfmbacrkk/.github.md) |
 | [Release-DLSS-5-Swapper/.github](https://github.com/Release-DLSS-5-Swapper/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/release-dlss-5-swapper/.github.md) |
 | [mamcjr/BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mamcjr/botwrecompandroid.md) |
-| [tian1326/mcd-coupon-assistant](https://github.com/tian1326/mcd-coupon-assistant) | Python project | Runs in the browser with a free account | [guide](guides/tian1326/mcd-coupon-assistant.md) |
 <!-- latest:end -->
 
 ## How it works

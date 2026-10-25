@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1392 guides written so far · last update 2026-10-25 06:57 UTC_
+_1393 guides written so far · last update 2026-10-25 06:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aarsaputra/php2shell](https://github.com/aarsaputra/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/aarsaputra/php2shell.md) |
 | [Leonxlnx/napali](https://github.com/Leonxlnx/napali) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/napali.md) |
 | [xx20050823xx/McMate](https://github.com/xx20050823xx/McMate) | Python project | Runs in the browser with a free account | [guide](guides/xx20050823xx/mcmate.md) |
 | [mokevnin/dev-quality-gates](https://github.com/mokevnin/dev-quality-gates) | JavaScript project | Runs in the browser with a free account | [guide](guides/mokevnin/dev-quality-gates.md) |
@@ -38,7 +39,6 @@ _1392 guides written so far · last update 2026-10-25 06:57 UTC_
 | [Shaitrish/37studio](https://github.com/Shaitrish/37studio) | Go project | Runs in the browser with a free account | [guide](guides/shaitrish/37studio.md) |
 | [prototux/AARE](https://github.com/prototux/AARE) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/prototux/aare.md) |
 | [lillyguisnet/sam3-segmentation](https://github.com/lillyguisnet/sam3-segmentation) | Python project | Runs in the browser with a free account | [guide](guides/lillyguisnet/sam3-segmentation.md) |
-| [mokevnin/dev-guardrails](https://github.com/mokevnin/dev-guardrails) | JavaScript project | Runs in the browser with a free account | [guide](guides/mokevnin/dev-guardrails.md) |
 <!-- latest:end -->
 
 ## How it works

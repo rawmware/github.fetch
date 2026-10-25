@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T06:57:17.023Z",
- "totalGuides": 1392,
+ "updatedAt": "2026-10-25T06:57:17.309Z",
+ "totalGuides": 1393,
  "items": [
+  {
+   "fullName": "aarsaputra/php2shell",
+   "owner": "aarsaputra",
+   "name": "php2shell",
+   "url": "https://github.com/aarsaputra/php2shell",
+   "avatar": "https://avatars.githubusercontent.com/u/96281224?v=4",
+   "description": "Unauthenticated RCE toolkit for PHP 5.4–8.4.26 (CVE-2026-109619/109618) — pure-HTTP chain, JA3 impersonation, prpenetration-testingoof-of-access design",
+   "language": "Python",
+   "topics": [
+    "cve",
+    "exploit",
+    "penetration-testing",
+    "php",
+    "php2shell",
+    "php2shell-cve",
+    "php2shell-cve-2026",
+    "php2shell-vulnerability"
+   ],
+   "license": null,
+   "stars": 65,
+   "forks": 40,
+   "createdAt": "2026-10-23T13:49:52Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T06:57:17.308Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/aarsaputra/php2shell/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/aarsaputra/php2shell?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/aarsaputra/php2shell",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/aarsaputra/php2shell/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/aarsaputra/php2shell.git\ncd php2shell\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/aarsaputra/php2shell\nWhat it says it does: \"Unauthenticated RCE toolkit for PHP 5.4–8.4.26 (CVE-2026-109619/109618) — pure-HTTP chain, JA3 impersonation, prpenetration-testingoof-of-access design\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T06:57:17.308Z"
+  },
   {
    "fullName": "Leonxlnx/napali",
    "owner": "Leonxlnx",
@@ -32044,82 +32115,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/aicodeking/leanrea\nWhat it says it does: \"One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T12:28:09.618Z"
-  },
-  {
-   "fullName": "anujasid/blender-ai-mcp-addon",
-   "owner": "anujasid",
-   "name": "blender-ai-mcp-addon",
-   "url": "https://github.com/anujasid/blender-ai-mcp-addon",
-   "avatar": "https://avatars.githubusercontent.com/u/343139124?v=4",
-   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-   "language": "Python",
-   "topics": [
-    "3d-modeling",
-    "ai-assistant",
-    "blender",
-    "blender-addon",
-    "blender-ai",
-    "blender-extension",
-    "blender-mcp",
-    "blender-plugin"
-   ],
-   "license": "MIT",
-   "stars": 414,
-   "forks": 1,
-   "createdAt": "2026-10-15T22:30:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T12:28:09.430Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/anujasid/blender-ai-mcp-addon/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/anujasid/blender-ai-mcp-addon?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/anujasid/blender-ai-mcp-addon",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/anujasid/blender-ai-mcp-addon/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/anujasid/blender-ai-mcp-addon.git\ncd blender-ai-mcp-addon",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/anujasid/blender-ai-mcp-addon\nWhat it says it does: \"AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T12:28:09.430Z"
   }
  ],
  "levels": {
-  "instant": 55,
   "account": 241,
+  "instant": 55,
   "heavy": 87,
   "read": 117
  }

@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T01:44:08.545Z",
- "totalGuides": 1383,
+ "updatedAt": "2026-10-25T01:44:08.748Z",
+ "totalGuides": 1384,
  "items": [
+  {
+   "fullName": "Shaitrish/37studio",
+   "owner": "Shaitrish",
+   "name": "37studio",
+   "url": "https://github.com/Shaitrish/37studio",
+   "avatar": "https://avatars.githubusercontent.com/u/174145742?v=4",
+   "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+   "language": "Go",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "docker",
+    "golang",
+    "hyperframes",
+    "mcp",
+    "mcp-server"
+   ],
+   "license": "MIT",
+   "stars": 63,
+   "forks": 10,
+   "createdAt": "2026-10-23T00:26:52Z",
+   "branch": "main",
+   "homepage": "https://studio.shaitrish.com",
+   "addedAt": "2026-10-25T01:44:08.747Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Shaitrish/37studio?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Shaitrish/37studio",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Shaitrish/37studio/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Shaitrish/37studio.git\ncd 37studio\ngo build ./...",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Shaitrish/37studio\nWhat it says it does: \"Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T01:44:08.747Z"
+  },
   {
    "fullName": "prototux/AARE",
    "owner": "prototux",
@@ -31982,75 +32046,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/TermiteDeliver/Marvel-Rivals-Respocket-AIO-Soft\nWhat it says it does: \"Best Software For Marvel Rivals Yet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T08:37:53.676Z"
-  },
-  {
-   "fullName": "azrinaldi/gemini-stealth-bridge",
-   "owner": "azrinaldi",
-   "name": "gemini-stealth-bridge",
-   "url": "https://github.com/azrinaldi/gemini-stealth-bridge",
-   "avatar": "https://avatars.githubusercontent.com/u/90147569?v=4",
-   "description": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
-   "language": "Go",
-   "topics": [
-    "bridge",
-    "gemini",
-    "gemini-api",
-    "golang",
-    "http2",
-    "llm",
-    "openai-compatible",
-    "reverse-proxy"
-   ],
-   "license": "MIT",
-   "stars": 61,
-   "forks": 5,
-   "createdAt": "2026-10-16T04:42:00Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T08:37:53.512Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/azrinaldi/gemini-stealth-bridge?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/azrinaldi/gemini-stealth-bridge",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/azrinaldi/gemini-stealth-bridge/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/azrinaldi/gemini-stealth-bridge.git\ncd gemini-stealth-bridge\ngo build ./...",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/azrinaldi/gemini-stealth-bridge\nWhat it says it does: \"Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T08:37:53.512Z"
   }
  ],
  "levels": {
-  "heavy": 90,
   "account": 242,
+  "heavy": 90,
   "read": 118,
   "instant": 50
  }

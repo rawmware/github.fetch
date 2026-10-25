@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1383 guides written so far · last update 2026-10-25 01:44 UTC_
+_1384 guides written so far · last update 2026-10-25 01:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Shaitrish/37studio](https://github.com/Shaitrish/37studio) | Go project | Runs in the browser with a free account | [guide](guides/shaitrish/37studio.md) |
 | [prototux/AARE](https://github.com/prototux/AARE) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/prototux/aare.md) |
 | [lillyguisnet/sam3-segmentation](https://github.com/lillyguisnet/sam3-segmentation) | Python project | Runs in the browser with a free account | [guide](guides/lillyguisnet/sam3-segmentation.md) |
 | [mokevnin/dev-guardrails](https://github.com/mokevnin/dev-guardrails) | JavaScript project | Runs in the browser with a free account | [guide](guides/mokevnin/dev-guardrails.md) |
@@ -38,7 +39,6 @@ _1383 guides written so far · last update 2026-10-25 01:44 UTC_
 | [mamcjr/BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mamcjr/botwrecompandroid.md) |
 | [tian1326/mcd-coupon-assistant](https://github.com/tian1326/mcd-coupon-assistant) | Python project | Runs in the browser with a free account | [guide](guides/tian1326/mcd-coupon-assistant.md) |
 | [wuyoscar/AISafetyHot](https://github.com/wuyoscar/AISafetyHot) | TeX project | Runs in the browser with a free account | [guide](guides/wuyoscar/aisafetyhot.md) |
-| [philips71017/Hiddify-Manager](https://github.com/philips71017/Hiddify-Manager) | Python project | Runs in the browser with a free account | [guide](guides/philips71017/hiddify-manager.md) |
 <!-- latest:end -->
 
 ## How it works

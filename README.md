@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1400 guides written so far · last update 2026-10-25 12:29 UTC_
+_1401 guides written so far · last update 2026-10-25 12:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Driveuoexhibit/KMS-Pico](https://github.com/Driveuoexhibit/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driveuoexhibit/kms-pico.md) |
 | [auragrubportico/Adobe-Audition](https://github.com/auragrubportico/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/auragrubportico/adobe-audition.md) |
 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust project | Runs in the browser with a free account | [guide](guides/mizorewww/gdirect.md) |
 | [tractordev/webframe](https://github.com/tractordev/webframe) | Go project | Runs in the browser with a free account | [guide](guides/tractordev/webframe.md) |
@@ -38,7 +39,6 @@ _1400 guides written so far · last update 2026-10-25 12:29 UTC_
 | [Leonxlnx/napali](https://github.com/Leonxlnx/napali) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/napali.md) |
 | [xx20050823xx/McMate](https://github.com/xx20050823xx/McMate) | Python project | Runs in the browser with a free account | [guide](guides/xx20050823xx/mcmate.md) |
 | [mokevnin/dev-quality-gates](https://github.com/mokevnin/dev-quality-gates) | JavaScript project | Runs in the browser with a free account | [guide](guides/mokevnin/dev-quality-gates.md) |
-| [XRayLau1/maitaiyi](https://github.com/XRayLau1/maitaiyi) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/xraylau1/maitaiyi.md) |
 <!-- latest:end -->
 
 ## How it works

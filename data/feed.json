@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T12:29:53.284Z",
- "totalGuides": 1405,
+ "updatedAt": "2026-10-25T12:29:53.492Z",
+ "totalGuides": 1406,
  "items": [
+  {
+   "fullName": "Alex-star-arch/mcd-burger-studio",
+   "owner": "Alex-star-arch",
+   "name": "mcd-burger-studio",
+   "url": "https://github.com/Alex-star-arch/mcd-burger-studio",
+   "avatar": "https://avatars.githubusercontent.com/u/58266515?v=4",
+   "description": "麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way",
+   "language": "HTML",
+   "topics": [
+    "food-tech",
+    "hackathon",
+    "mcdonalds",
+    "mcp",
+    "python",
+    "threejs",
+    "voting",
+    "workbuddy"
+   ],
+   "license": null,
+   "stars": 87,
+   "forks": 0,
+   "createdAt": "2026-10-23T07:58:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T12:29:53.491Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Alex-star-arch/mcd-burger-studio?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Alex-star-arch/mcd-burger-studio",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Alex-star-arch/mcd-burger-studio/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Alex-star-arch/mcd-burger-studio.git\ncd mcd-burger-studio",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Alex-star-arch/mcd-burger-studio\nWhat it says it does: \"麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T12:29:53.491Z"
+  },
   {
    "fullName": "CRFXN5C/mcd-mcp-kit",
    "owner": "CRFXN5C",
@@ -32071,69 +32135,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/byJoey/cfnew-panel\nWhat it says it does: \"CFnew 独立面板：Vercel 一键部署、订阅生成与 Worker 配置管理\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T15:53:00.952Z"
-  },
-  {
-   "fullName": "VantaCode420/SmartHdrManager",
-   "owner": "VantaCode420",
-   "name": "SmartHdrManager",
-   "url": "https://github.com/VantaCode420/SmartHdrManager",
-   "avatar": "https://avatars.githubusercontent.com/u/107490225?v=4",
-   "description": "Automatic Windows HDR switching for games, YouTube HDR and RTX Video HDR",
-   "language": "C#",
-   "topics": [],
-   "license": "MIT",
-   "stars": 67,
-   "forks": 2,
-   "createdAt": "2026-10-15T16:37:18Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T15:53:00.671Z",
-   "stack": {
-    "kind": "native",
-    "label": "C# project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/VantaCode420/SmartHdrManager?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/VantaCode420/SmartHdrManager",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/VantaCode420/SmartHdrManager/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/VantaCode420/SmartHdrManager.git\ncd SmartHdrManager",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/VantaCode420/SmartHdrManager\nWhat it says it does: \"Automatic Windows HDR switching for games, YouTube HDR and RTX Video HDR\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T15:53:00.671Z"
   }
  ],
  "levels": {
-  "account": 239,
+  "account": 240,
   "instant": 57,
   "read": 120,
-  "heavy": 84
+  "heavy": 83
  }
 }

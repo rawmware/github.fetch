@@ -1,8 +1,81 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T12:29:52.397Z",
- "totalGuides": 1401,
+ "updatedAt": "2026-10-25T12:29:52.688Z",
+ "totalGuides": 1402,
  "items": [
+  {
+   "fullName": "surendrapandar/minilytics",
+   "owner": "surendrapandar",
+   "name": "minilytics",
+   "url": "https://github.com/surendrapandar/minilytics",
+   "avatar": "https://avatars.githubusercontent.com/u/71205618?v=4",
+   "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 129,
+   "forks": 30,
+   "createdAt": "2026-10-23T19:27:24Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T12:29:52.687Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React",
+     "Hono"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/surendrapandar/minilytics",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/surendrapandar/minilytics",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/surendrapandar/minilytics?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/surendrapandar/minilytics",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/surendrapandar/minilytics/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/surendrapandar/minilytics.git\ncd minilytics\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/surendrapandar/minilytics\nWhat it says it does: \"Opensource Revenue-first analytics for indie hackers & solo founders\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T12:29:52.687Z"
+  },
   {
    "fullName": "Driveuoexhibit/KMS-Pico",
    "owner": "Driveuoexhibit",
@@ -32041,78 +32114,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/rohit267/net-merge\nWhat it says it does: \"Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T12:28:11.333Z"
-  },
-  {
-   "fullName": "juinwei7/Shiyin",
-   "owner": "juinwei7",
-   "name": "Shiyin",
-   "url": "https://github.com/juinwei7/Shiyin",
-   "avatar": "https://avatars.githubusercontent.com/u/105909292?v=4",
-   "description": "macOS meeting notes: live transcript, local transcription (Breeze ASR / whisper.cpp), speaker diarization, AI meeting notes with timestamps",
-   "language": "Swift",
-   "topics": [
-    "claude-code",
-    "macos",
-    "meeting-notes",
-    "speaker-diarization",
-    "swiftui",
-    "traditional-chinese",
-    "transcription",
-    "whisper-cpp"
-   ],
-   "license": "MIT",
-   "stars": 49,
-   "forks": 5,
-   "createdAt": "2026-10-15T14:33:40Z",
-   "branch": "main",
-   "homepage": "https://shiyin.weibuilds.com",
-   "addedAt": "2026-10-17T12:28:11.189Z",
-   "stack": {
-    "kind": "native",
-    "label": "Swift project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/juinwei7/Shiyin?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/juinwei7/Shiyin",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/juinwei7/Shiyin/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/juinwei7/Shiyin.git\ncd Shiyin",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/juinwei7/Shiyin\nWhat it says it does: \"macOS meeting notes: live transcript, local transcription (Breeze ASR / whisper.cpp), speaker diarization, AI meeting notes with timestamps\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T12:28:11.189Z"
   }
  ],
  "levels": {
+  "instant": 57,
   "read": 121,
   "account": 237,
-  "instant": 56,
-  "heavy": 86
+  "heavy": 85
  }
 }

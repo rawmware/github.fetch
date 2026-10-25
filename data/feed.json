@@ -1,8 +1,84 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T21:55:12.934Z",
- "totalGuides": 1435,
+ "updatedAt": "2026-10-25T21:55:13.298Z",
+ "totalGuides": 1436,
  "items": [
+  {
+   "fullName": "yc-software/qm",
+   "owner": "yc-software",
+   "name": "qm",
+   "url": "https://github.com/yc-software/qm",
+   "avatar": "https://avatars.githubusercontent.com/u/153323858?v=4",
+   "description": "Multiplayer agent harness for work.",
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "assistant",
+    "harness",
+    "qm"
+   ],
+   "license": "MIT",
+   "stars": 15533,
+   "forks": 1927,
+   "createdAt": "2026-07-29T20:03:08Z",
+   "branch": "main",
+   "homepage": "https://x.com/qm__dev",
+   "addedAt": "2026-10-25T21:55:13.297Z",
+   "stack": {
+    "kind": "node",
+    "label": "Fastify app",
+    "frameworks": [
+     "Fastify"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/yc-software/qm",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/yc-software/qm",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/yc-software/qm?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/yc-software/qm",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/yc-software/qm/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/yc-software/qm.git\ncd qm\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/yc-software/qm\nWhat it says it does: \"Multiplayer agent harness for work.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T21:55:13.297Z"
+  },
   {
    "fullName": "lexmount/moli",
    "owner": "lexmount",
@@ -32307,69 +32383,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Gathin23/tv-vibehack\nWhat it says it does: \"Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T05:43:13.405Z"
-  },
-  {
-   "fullName": "GammaServicePlaza/Display-Fusion",
-   "owner": "GammaServicePlaza",
-   "name": "Display-Fusion",
-   "url": "https://github.com/GammaServicePlaza/Display-Fusion",
-   "avatar": "https://avatars.githubusercontent.com/u/291371257?v=4",
-   "description": "Display Fusion 8.6 released - Full working installer with enhanced UI and compatibility updates, ready for desktop installation.",
-   "language": null,
-   "topics": [
-    "desktop-tools",
-    "display-management",
-    "displayfusion",
-    "displayfusion-2026",
-    "displayfusion-multi-monitor-install-windows-2026",
-    "displayfusion-pro",
-    "displayfusion-setup",
-    "dual-monitor"
-   ],
-   "license": null,
-   "stars": 251,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:10:56Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T00:52:27.310Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/GammaServicePlaza/Display-Fusion",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/GammaServicePlaza/Display-Fusion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/GammaServicePlaza/Display-Fusion\nWhat it says it does: \"Display Fusion 8.6 released - Full working installer with enhanced UI and compatibility updates, ready for desktop installation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T00:52:27.310Z"
   }
  ],
  "levels": {
+  "instant": 59,
   "account": 249,
   "heavy": 83,
-  "instant": 58,
-  "read": 110
+  "read": 109
  }
 }

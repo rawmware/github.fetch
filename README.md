@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1430 guides written so far · last update 2026-10-25 19:18 UTC_
+_1431 guides written so far · last update 2026-10-25 19:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Node command-line tool | Runs in the browser with a free account | [guide](guides/hypit-ai/hypit.md) |
 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | TypeScript project | Runs in the browser with a free account | [guide](guides/anywhere-labs/dsh-desktop.md) |
 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/boykopovar/anyps5.md) |
 | [darrenprx/lolPing](https://github.com/darrenprx/lolPing) | Vite app | Runs in the browser with a free account | [guide](guides/darrenprx/lolping.md) |
@@ -38,7 +39,6 @@ _1430 guides written so far · last update 2026-10-25 19:18 UTC_
 | [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) | Python FastAPI app | Needs a real machine (or a GPU) to run | [guide](guides/lyramakesmusic/neuron-explorer.md) |
 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Rust project | Runs in the browser with a free account | [guide](guides/indexable-inc/blaze.md) |
 | [hffgzktbcc-blip/ounce-core](https://github.com/hffgzktbcc-blip/ounce-core) | Rust project | Runs in the browser with a free account | [guide](guides/hffgzktbcc-blip/ounce-core.md) |
-| [cyber-xiaoya/cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/cyber-xiaoya/cyber-xiaoya-live.md) |
 <!-- latest:end -->
 
 ## How it works

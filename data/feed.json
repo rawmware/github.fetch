@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T16:45:01.213Z",
- "totalGuides": 1419,
+ "updatedAt": "2026-10-25T16:45:01.796Z",
+ "totalGuides": 1420,
  "items": [
+  {
+   "fullName": "hffgzktbcc-blip/ounce-core",
+   "owner": "hffgzktbcc-blip",
+   "name": "ounce-core",
+   "url": "https://github.com/hffgzktbcc-blip/ounce-core",
+   "avatar": "https://avatars.githubusercontent.com/u/316626863?v=4",
+   "description": "Clean-room Nintendo Switch 2 (Tegra T239 / Horizon OS FW 23.0.1) Emulator Engine in Pure Rust",
+   "language": "Rust",
+   "topics": [],
+   "license": null,
+   "stars": 64,
+   "forks": 7,
+   "createdAt": "2026-10-24T19:32:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T16:45:01.796Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/hffgzktbcc-blip/ounce-core?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/hffgzktbcc-blip/ounce-core",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/hffgzktbcc-blip/ounce-core/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/hffgzktbcc-blip/ounce-core.git\ncd ounce-core\ncargo build --release\ncargo run",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/hffgzktbcc-blip/ounce-core\nWhat it says it does: \"Clean-room Nintendo Switch 2 (Tegra T239 / Horizon OS FW 23.0.1) Emulator Engine in Pure Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T16:45:01.796Z"
+  },
   {
    "fullName": "cyber-xiaoya/cyber-xiaoya-live",
    "owner": "cyber-xiaoya",
@@ -32139,68 +32194,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/justxor/deepseek-local-guide-ru\nWhat it says it does: \"🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T20:52:48.918Z"
-  },
-  {
-   "fullName": "wusuoweiju48/google-anti-cn-doctor",
-   "owner": "wusuoweiju48",
-   "name": "google-anti-cn-doctor",
-   "url": "https://github.com/wusuoweiju48/google-anti-cn-doctor",
-   "avatar": "https://avatars.githubusercontent.com/u/251982461?v=4",
-   "description": "☔ AI Passport — Google/Gemini 送中与锁区自诊工具箱:四阶状态机问诊 + 节点照妖镜 + 本机环境体检。给第一次触摸 AI 的人撑一把伞。",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 63,
-   "forks": 2,
-   "createdAt": "2026-10-16T01:48:45Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T20:52:48.729Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/wusuoweiju48/google-anti-cn-doctor/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/wusuoweiju48/google-anti-cn-doctor?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/wusuoweiju48/google-anti-cn-doctor",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/wusuoweiju48/google-anti-cn-doctor/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/wusuoweiju48/google-anti-cn-doctor.git\ncd google-anti-cn-doctor",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/wusuoweiju48/google-anti-cn-doctor\nWhat it says it does: \"☔ AI Passport — Google/Gemini 送中与锁区自诊工具箱:四阶状态机问诊 + 节点照妖镜 + 本机环境体检。给第一次触摸 AI 的人撑一把伞。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T20:52:48.729Z"
   }
  ],
  "levels": {

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T12:29:52.688Z",
- "totalGuides": 1402,
+ "updatedAt": "2026-10-25T12:29:52.976Z",
+ "totalGuides": 1403,
  "items": [
+  {
+   "fullName": "holdcloud/mcd-calendar-buddy",
+   "owner": "holdcloud",
+   "name": "mcd-calendar-buddy",
+   "url": "https://github.com/holdcloud/mcd-calendar-buddy",
+   "avatar": "https://avatars.githubusercontent.com/u/52072884?v=4",
+   "description": "作为一个J人&麦门信徒，是时候把优惠活动日期添加到我的日历了。疯狂星期四（just kidding~",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 120,
+   "forks": 0,
+   "createdAt": "2026-10-25T03:36:29Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T12:29:52.975Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/holdcloud/mcd-calendar-buddy/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/holdcloud/mcd-calendar-buddy?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/holdcloud/mcd-calendar-buddy",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/holdcloud/mcd-calendar-buddy/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/holdcloud/mcd-calendar-buddy.git\ncd mcd-calendar-buddy\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/holdcloud/mcd-calendar-buddy\nWhat it says it does: \"作为一个J人&麦门信徒，是时候把优惠活动日期添加到我的日历了。疯狂星期四（just kidding~\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T12:29:52.975Z"
+  },
   {
    "fullName": "surendrapandar/minilytics",
    "owner": "surendrapandar",
@@ -32050,76 +32112,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/BreezeSolicitorMap/undress.ai\nWhat it says it does: \"Virtual clothing try-on from a single photo — mobile web app. Upload a person and a garment, get a photorealistic result.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T15:53:00.372Z"
-  },
-  {
-   "fullName": "rohit267/net-merge",
-   "owner": "rohit267",
-   "name": "net-merge",
-   "url": "https://github.com/rohit267/net-merge",
-   "avatar": "https://avatars.githubusercontent.com/u/28225593?v=4",
-   "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
-   "language": "Go",
-   "topics": [
-    "bandwidth-aggregation",
-    "downloader",
-    "golang",
-    "linux",
-    "load-balancing",
-    "macos",
-    "networking",
-    "tethering"
-   ],
-   "license": "MIT",
-   "stars": 481,
-   "forks": 13,
-   "createdAt": "2026-10-12T19:28:45Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T12:28:11.333Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/rohit267/net-merge?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/rohit267/net-merge",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/rohit267/net-merge/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/rohit267/net-merge.git\ncd net-merge\ngo build ./...",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/rohit267/net-merge\nWhat it says it does: \"Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T12:28:11.333Z"
   }
  ],
  "levels": {
+  "account": 237,
   "instant": 57,
   "read": 121,
-  "account": 237,
   "heavy": 85
  }
 }

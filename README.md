@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1402 guides written so far · last update 2026-10-25 12:29 UTC_
+_1403 guides written so far · last update 2026-10-25 12:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [holdcloud/mcd-calendar-buddy](https://github.com/holdcloud/mcd-calendar-buddy) | Python project | Runs in the browser with a free account | [guide](guides/holdcloud/mcd-calendar-buddy.md) |
 | [surendrapandar/minilytics](https://github.com/surendrapandar/minilytics) | Vite app | Runs in a browser tab, no account needed | [guide](guides/surendrapandar/minilytics.md) |
 | [Driveuoexhibit/KMS-Pico](https://github.com/Driveuoexhibit/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driveuoexhibit/kms-pico.md) |
 | [auragrubportico/Adobe-Audition](https://github.com/auragrubportico/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/auragrubportico/adobe-audition.md) |
@@ -38,7 +39,6 @@ _1402 guides written so far · last update 2026-10-25 12:29 UTC_
 | [lordon1a/agents.md](https://github.com/lordon1a/agents.md) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lordon1a/agents.md.md) |
 | [aarsaputra/php2shell](https://github.com/aarsaputra/php2shell) | Python project | Runs in the browser with a free account | [guide](guides/aarsaputra/php2shell.md) |
 | [Leonxlnx/napali](https://github.com/Leonxlnx/napali) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/leonxlnx/napali.md) |
-| [xx20050823xx/McMate](https://github.com/xx20050823xx/McMate) | Python project | Runs in the browser with a free account | [guide](guides/xx20050823xx/mcmate.md) |
 <!-- latest:end -->
 
 ## How it works

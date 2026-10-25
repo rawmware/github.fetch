@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1413 guides written so far · last update 2026-10-25 12:29 UTC_
+_1414 guides written so far · last update 2026-10-25 16:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python project | Runs in the browser with a free account | [guide](guides/denissergeevitch/ex-ussr-kinship-research.md) |
 | [lalalune/pumpfun-source](https://github.com/lalalune/pumpfun-source) | Python project | Runs in the browser with a free account | [guide](guides/lalalune/pumpfun-source.md) |
 | [null0526/dario-genesis](https://github.com/null0526/dario-genesis) | Python project | Runs in the browser with a free account | [guide](guides/null0526/dario-genesis.md) |
 | [x86rc/unthemidator](https://github.com/x86rc/unthemidator) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/x86rc/unthemidator.md) |
@@ -38,7 +39,6 @@ _1413 guides written so far · last update 2026-10-25 12:29 UTC_
 | [CRFXN5C/mcd-mcp-kit](https://github.com/CRFXN5C/mcd-mcp-kit) | Python project | Runs in the browser with a free account | [guide](guides/crfxn5c/mcd-mcp-kit.md) |
 | [dvbs2000/liuchunlin-shufa](https://github.com/dvbs2000/liuchunlin-shufa) | Python project | Runs in the browser with a free account | [guide](guides/dvbs2000/liuchunlin-shufa.md) |
 | [holdcloud/mcd-calendar-buddy](https://github.com/holdcloud/mcd-calendar-buddy) | Python project | Runs in the browser with a free account | [guide](guides/holdcloud/mcd-calendar-buddy.md) |
-| [surendrapandar/minilytics](https://github.com/surendrapandar/minilytics) | Vite app | Runs in a browser tab, no account needed | [guide](guides/surendrapandar/minilytics.md) |
 <!-- latest:end -->
 
 ## How it works

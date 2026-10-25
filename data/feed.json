@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T12:29:53.809Z",
- "totalGuides": 1407,
+ "updatedAt": "2026-10-25T12:29:53.996Z",
+ "totalGuides": 1408,
  "items": [
+  {
+   "fullName": "TUcookie/mcd-deal-hunter",
+   "owner": "TUcookie",
+   "name": "mcd-deal-hunter",
+   "url": "https://github.com/TUcookie/mcd-deal-hunter",
+   "avatar": "https://avatars.githubusercontent.com/u/183565588?v=4",
+   "description": "点麦当劳之前，先让它算算哪种点法最省钱",
+   "language": null,
+   "topics": [],
+   "license": null,
+   "stars": 81,
+   "forks": 0,
+   "createdAt": "2026-10-24T04:33:32Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T12:29:53.995Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/TUcookie/mcd-deal-hunter",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/TUcookie/mcd-deal-hunter/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/TUcookie/mcd-deal-hunter\nWhat it says it does: \"点麦当劳之前，先让它算算哪种点法最省钱\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T12:29:53.995Z"
+  },
   {
    "fullName": "BaoZ-XHG/MaiMen-Saver",
    "owner": "BaoZ-XHG",
@@ -32071,69 +32119,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/lonely-dance-lab/cover-studio\nWhat it says it does: \"AI 生图、图片拆层与图层编辑工作台，支持封面、小红书和电商海报创作，可本地运行或部署到 Cloudflare。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T15:53:01.308Z"
-  },
-  {
-   "fullName": "OverkillLabs3/driveclub-recomp",
-   "owner": "OverkillLabs3",
-   "name": "driveclub-recomp",
-   "url": "https://github.com/OverkillLabs3/driveclub-recomp",
-   "avatar": "https://avatars.githubusercontent.com/u/338085035?v=4",
-   "description": "DriveClub (PS4, version 1.28) running natively on Windows",
-   "language": "C++",
-   "topics": [],
-   "license": "GPL-2.0",
-   "stars": 57,
-   "forks": 2,
-   "createdAt": "2026-10-16T20:43:28Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T15:53:01.166Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/OverkillLabs3/driveclub-recomp?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/OverkillLabs3/driveclub-recomp",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/OverkillLabs3/driveclub-recomp/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/OverkillLabs3/driveclub-recomp.git\ncd driveclub-recomp",
-   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/OverkillLabs3/driveclub-recomp\nWhat it says it does: \"DriveClub (PS4, version 1.28) running natively on Windows\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T15:53:01.166Z"
   }
  ],
  "levels": {
+  "read": 121,
   "account": 241,
   "instant": 56,
-  "read": 120,
-  "heavy": 83
+  "heavy": 82
  }
 }

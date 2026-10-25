@@ -1,8 +1,68 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T19:18:45.543Z",
- "totalGuides": 1425,
+ "updatedAt": "2026-10-25T19:18:45.730Z",
+ "totalGuides": 1426,
  "items": [
+  {
+   "fullName": "Fei2411/DS-Bot",
+   "owner": "Fei2411",
+   "name": "DS-Bot",
+   "url": "https://github.com/Fei2411/DS-Bot",
+   "avatar": "https://avatars.githubusercontent.com/u/279467036?v=4",
+   "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+   "language": "JavaScript",
+   "topics": [
+    "bot",
+    "deepseek-harness",
+    "dsh-plugin",
+    "multi-agent"
+   ],
+   "license": "Apache-2.0",
+   "stars": 3868,
+   "forks": 363,
+   "createdAt": "2026-10-07T15:37:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T19:18:45.729Z",
+   "stack": {
+    "kind": "docker",
+    "label": "Docker app",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Fei2411/DS-Bot?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Fei2411/DS-Bot",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Fei2411/DS-Bot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "docker compose up",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Fei2411/DS-Bot.git\ncd DS-Bot\ndocker compose up",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Fei2411/DS-Bot\nWhat it says it does: \"A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T19:18:45.729Z"
+  },
   {
    "fullName": "jhontandazo008/CleanLauncher",
    "owner": "jhontandazo008",
@@ -32179,69 +32239,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/cloudpatrontrolley/BorisFX\nWhat it says it does: \"Complete standalone setup of Borisfx, featuring advanced VFX tools and ready-to-run desktop installation for professional video editing and...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T23:00:32.115Z"
-  },
-  {
-   "fullName": "blockadeformertrip/AIDA-64-Extreme",
-   "owner": "blockadeformertrip",
-   "name": "AIDA-64-Extreme",
-   "url": "https://github.com/blockadeformertrip/AIDA-64-Extreme",
-   "avatar": "https://avatars.githubusercontent.com/u/291379362?v=4",
-   "description": "Complete standalone setup for Aida 64 Extreme 2026. Fully functional and ready-to-run desktop installation.",
-   "language": null,
-   "topics": [
-    "aida64",
-    "aida64-extreme-compatibility-check",
-    "aida64-extreme-detailed-reporting",
-    "aida64-extreme-hardware-diagnostics",
-    "aida64-extreme-setup",
-    "aida64-extreme-system-information",
-    "aida64-free-setup",
-    "pc-diagnostics-windows-platform"
-   ],
-   "license": null,
-   "stars": 81,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:08:58Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T23:00:31.916Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/blockadeformertrip/AIDA-64-Extreme",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/blockadeformertrip/AIDA-64-Extreme/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/blockadeformertrip/AIDA-64-Extreme\nWhat it says it does: \"Complete standalone setup for Aida 64 Extreme 2026. Fully functional and ready-to-run desktop installation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T23:00:31.916Z"
   }
  ],
  "levels": {
+  "account": 241,
   "heavy": 82,
-  "account": 240,
   "instant": 58,
-  "read": 120
+  "read": 119
  }
 }

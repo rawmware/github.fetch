@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1378 guides written so far · last update 2026-10-25 01:44 UTC_
+_1379 guides written so far · last update 2026-10-25 01:44 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aideveloper-web/Free-Deepseek](https://github.com/aideveloper-web/Free-Deepseek) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/free-deepseek.md) |
 | [breakbrawlerheart/pixeluxe-ai](https://github.com/breakbrawlerheart/pixeluxe-ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breakbrawlerheart/pixeluxe-ai.md) |
 | [qnzqfmbacrkk/.github](https://github.com/qnzqfmbacrkk/.github) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/qnzqfmbacrkk/.github.md) |
 | [Release-DLSS-5-Swapper/.github](https://github.com/Release-DLSS-5-Swapper/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/release-dlss-5-swapper/.github.md) |
@@ -38,7 +39,6 @@ _1378 guides written so far · last update 2026-10-25 01:44 UTC_
 | [xanthichi/mcd-meal-mate](https://github.com/xanthichi/mcd-meal-mate) | Vite app | Runs in a browser tab, no account needed | [guide](guides/xanthichi/mcd-meal-mate.md) |
 | [xiaozhangup/Oh-My-McDonald](https://github.com/xiaozhangup/Oh-My-McDonald) | Python project | Runs in the browser with a free account | [guide](guides/xiaozhangup/oh-my-mcdonald.md) |
 | [wahaha-potato/mcd-coupon-xray](https://github.com/wahaha-potato/mcd-coupon-xray) | Python project | Runs in the browser with a free account | [guide](guides/wahaha-potato/mcd-coupon-xray.md) |
-| [YoyoLin008/mcreplay](https://github.com/YoyoLin008/mcreplay) | Python project | Runs in the browser with a free account | [guide](guides/yoyolin008/mcreplay.md) |
 <!-- latest:end -->
 
 ## How it works

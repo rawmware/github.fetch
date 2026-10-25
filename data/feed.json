@@ -1,8 +1,91 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T16:45:02.483Z",
- "totalGuides": 1422,
+ "updatedAt": "2026-10-25T16:45:02.789Z",
+ "totalGuides": 1423,
  "items": [
+  {
+   "fullName": "agharsallah/esp-labs-web",
+   "owner": "agharsallah",
+   "name": "esp-labs-web",
+   "url": "https://github.com/agharsallah/esp-labs-web",
+   "avatar": "https://avatars.githubusercontent.com/u/17379925?v=4",
+   "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).",
+   "language": "TypeScript",
+   "topics": [
+    "education",
+    "electronics",
+    "embedded",
+    "esp32",
+    "esp32-s3",
+    "i18n",
+    "interactive-learning",
+    "pinout"
+   ],
+   "license": null,
+   "stars": 269,
+   "forks": 43,
+   "createdAt": "2026-10-21T13:40:04Z",
+   "branch": "main",
+   "homepage": "https://esp-labs-web.vercel.app",
+   "addedAt": "2026-10-25T16:45:02.788Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/agharsallah/esp-labs-web",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`pnpm dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/agharsallah/esp-labs-web",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/agharsallah/esp-labs-web?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/agharsallah/esp-labs-web",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/agharsallah/esp-labs-web/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pnpm install",
+   "run": "pnpm dev",
+   "notes": [
+    "It's a monorepo (several packages in one). Check the README for which folder to start in."
+   ],
+   "local": "git clone --depth 1 https://github.com/agharsallah/esp-labs-web.git\ncd esp-labs-web\npnpm install\npnpm dev",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/agharsallah/esp-labs-web\nWhat it says it does: \"The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T16:45:02.788Z"
+  },
   {
    "fullName": "lyramakesmusic/neuron-explorer",
    "owner": "lyramakesmusic",
@@ -32140,73 +32223,11 @@
    "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/leag1234/elixiroffice\nWhat it says it does: \"Open Source Office suite for users used to MS Office - multi-platform, tuned for performance\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T20:52:49.562Z"
-  },
-  {
-   "fullName": "lucannez64/darling-lol",
-   "owner": "lucannez64",
-   "name": "darling-lol",
-   "url": "https://github.com/lucannez64/darling-lol",
-   "avatar": "https://avatars.githubusercontent.com/u/58551020?v=4",
-   "description": "Experimental Darling runtime patches and tools for testing the macOS League client on Linux",
-   "language": "C",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 320,
-   "forks": 26,
-   "createdAt": "2026-10-12T18:15:56Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-17T20:52:49.416Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/lucannez64/darling-lol/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/lucannez64/darling-lol?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/lucannez64/darling-lol",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/lucannez64/darling-lol/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/lucannez64/darling-lol.git\ncd darling-lol\npip install -r requirements.txt",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/lucannez64/darling-lol\nWhat it says it does: \"Experimental Darling runtime patches and tools for testing the macOS League client on Linux\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T20:52:49.416Z"
   }
  ],
  "levels": {
-  "heavy": 80,
   "account": 242,
+  "heavy": 80,
   "instant": 58,
   "read": 120
  }

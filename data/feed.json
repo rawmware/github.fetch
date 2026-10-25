@@ -1,8 +1,68 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-25T06:57:18.249Z",
- "totalGuides": 1397,
+ "updatedAt": "2026-10-25T06:57:18.451Z",
+ "totalGuides": 1398,
  "items": [
+  {
+   "fullName": "tractordev/webframe",
+   "owner": "tractordev",
+   "name": "webframe",
+   "url": "https://github.com/tractordev/webframe",
+   "avatar": "https://avatars.githubusercontent.com/u/65003157?v=4",
+   "description": "Run a web page like a program",
+   "language": "Go",
+   "topics": [
+    "cross-platform",
+    "golang",
+    "headless-browser",
+    "purego"
+   ],
+   "license": "MIT",
+   "stars": 59,
+   "forks": 1,
+   "createdAt": "2026-10-24T14:18:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-25T06:57:18.451Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/tractordev/webframe?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/tractordev/webframe",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/tractordev/webframe/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/tractordev/webframe.git\ncd webframe\ngo build ./...",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/tractordev/webframe\nWhat it says it does: \"Run a web page like a program\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-25T06:57:18.451Z"
+  },
   {
    "fullName": "aideveloper-web/free-claude-code",
    "owner": "aideveloper-web",
@@ -32081,74 +32141,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/MG1937/rust_ASC\nWhat it says it does: \"Rust ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-17T12:28:10.540Z"
-  },
-  {
-   "fullName": "kividbio/kividb",
-   "owner": "kividbio",
-   "name": "kividb",
-   "url": "https://github.com/kividbio/kividb",
-   "avatar": "https://avatars.githubusercontent.com/u/263324995?v=4",
-   "description": "Redis®-compatible in-memory database written in Rust, with full-text and vector search",
-   "language": "Rust",
-   "topics": [
-    "database",
-    "drop-in-replacement",
-    "in-memory",
-    "kividb",
-    "redis-compatible",
-    "rust",
-    "vector-search"
-   ],
-   "license": "AGPL-3.0",
-   "stars": 53,
-   "forks": 1,
-   "createdAt": "2026-10-16T01:07:52Z",
-   "branch": "master",
-   "homepage": "https://kividb.io",
-   "addedAt": "2026-10-17T12:28:10.334Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/kividbio/kividb?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/kividbio/kividb",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kividbio/kividb/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/kividbio/kividb.git\ncd kividb\ncargo build --release\ncargo run",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/kividbio/kividb\nWhat it says it does: \"Redis®-compatible in-memory database written in Rust, with full-text and vector search\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-17T12:28:10.334Z"
   }
  ],
  "levels": {
-  "read": 119,
   "account": 238,
+  "read": 119,
   "instant": 56,
   "heavy": 87
  }

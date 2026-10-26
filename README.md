@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1447 guides written so far · last update 2026-10-26 04:56 UTC_
+_1448 guides written so far · last update 2026-10-26 04:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) | Go project | Runs in the browser with a free account | [guide](guides/drwhax/unfairplay.md) |
 | [lemiur/Game-Decompilation-Skill-For-Claude](https://github.com/lemiur/Game-Decompilation-Skill-For-Claude) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lemiur/game-decompilation-skill-for-claude.md) |
 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python project | Runs in the browser with a free account | [guide](guides/t3dotgg/tstack.md) |
 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/zichuanlan/agent-purge.md) |
@@ -38,7 +39,6 @@ _1447 guides written so far · last update 2026-10-26 04:56 UTC_
 | [kuraeow/ultratears](https://github.com/kuraeow/ultratears) | C project | Needs a real machine (or a GPU) to run | [guide](guides/kuraeow/ultratears.md) |
 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust project | Runs in the browser with a free account | [guide](guides/pollen-robotics/microduck.md) |
 | [peach-mitao/peach](https://github.com/peach-mitao/peach) | JavaScript project | Runs in the browser with a free account | [guide](guides/peach-mitao/peach.md) |
-| [yc-software/qm](https://github.com/yc-software/qm) | Fastify app | Runs in a browser tab, no account needed | [guide](guides/yc-software/qm.md) |
 <!-- latest:end -->
 
 ## How it works

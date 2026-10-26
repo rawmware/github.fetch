@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1446 guides written so far · last update 2026-10-26 04:56 UTC_
+_1447 guides written so far · last update 2026-10-26 04:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lemiur/Game-Decompilation-Skill-For-Claude](https://github.com/lemiur/Game-Decompilation-Skill-For-Claude) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lemiur/game-decompilation-skill-for-claude.md) |
 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python project | Runs in the browser with a free account | [guide](guides/t3dotgg/tstack.md) |
 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/zichuanlan/agent-purge.md) |
 | [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) | Python project | Runs in the browser with a free account | [guide](guides/killaboi/stealmybitcoin-poc.md) |
@@ -38,7 +39,6 @@ _1446 guides written so far · last update 2026-10-26 04:56 UTC_
 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust project | Runs in the browser with a free account | [guide](guides/pollen-robotics/microduck.md) |
 | [peach-mitao/peach](https://github.com/peach-mitao/peach) | JavaScript project | Runs in the browser with a free account | [guide](guides/peach-mitao/peach.md) |
 | [yc-software/qm](https://github.com/yc-software/qm) | Fastify app | Runs in a browser tab, no account needed | [guide](guides/yc-software/qm.md) |
-| [lexmount/moli](https://github.com/lexmount/moli) | Rust project | Runs in the browser with a free account | [guide](guides/lexmount/moli.md) |
 <!-- latest:end -->
 
 ## How it works

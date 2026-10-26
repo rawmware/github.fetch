@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T21:40:18.730Z",
- "totalGuides": 1490,
+ "updatedAt": "2026-10-26T21:40:18.909Z",
+ "totalGuides": 1491,
  "items": [
+  {
+   "fullName": "Andreas698/glm-5.3-uncensored",
+   "owner": "Andreas698",
+   "name": "glm-5.3-uncensored",
+   "url": "https://github.com/Andreas698/glm-5.3-uncensored",
+   "avatar": "https://avatars.githubusercontent.com/u/331912961?v=4",
+   "description": "GLM 5.3 Uncensored — 35 jailbreak prompt files, model guide and API access. One RouterHub key also covers GPT, Claude, DeepSeek, Qwen and Grok.",
+   "language": "Python",
+   "topics": [
+    "abliterated-models",
+    "ai-api",
+    "ai-jailbreaks",
+    "anthropic-compatible",
+    "claude-code",
+    "glm",
+    "glm-5-3",
+    "glm-5-3-jailbreak"
+   ],
+   "license": "MIT",
+   "stars": 124,
+   "forks": 26,
+   "createdAt": "2026-10-26T19:51:48Z",
+   "branch": "main",
+   "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-uncensored",
+   "addedAt": "2026-10-26T21:40:18.907Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Andreas698/glm-5.3-uncensored/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Andreas698/glm-5.3-uncensored?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Andreas698/glm-5.3-uncensored",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Andreas698/glm-5.3-uncensored/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Andreas698/glm-5.3-uncensored.git\ncd glm-5.3-uncensored",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Andreas698/glm-5.3-uncensored\nWhat it says it does: \"GLM 5.3 Uncensored — 35 jailbreak prompt files, model guide and API access. One RouterHub key also covers GPT, Claude, DeepSeek, Qwen and Grok.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T21:40:18.907Z"
+  },
   {
    "fullName": "DLSS-5-Swapper-Portable/.github",
    "owner": "DLSS-5-Swapper-Portable",
@@ -32684,64 +32755,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/interplains/zero-breach\nWhat it says it does: \"Zero Breach — local, read-only scanner that checks a computer for indicators of the AdFection / Candiru ad-delivered spyware campaign. No network, no admin, no dependencies.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T23:43:27.342Z"
-  },
-  {
-   "fullName": "yarnvoicedesignate/ultra-Iso",
-   "owner": "yarnvoicedesignate",
-   "name": "ultra-Iso",
-   "url": "https://github.com/yarnvoicedesignate/ultra-Iso",
-   "avatar": "https://avatars.githubusercontent.com/u/296680889?v=4",
-   "description": "Ultra Iso 2025: Complete standalone setup with full working installer for a seamless desktop experience.",
-   "language": null,
-   "topics": [
-    "iso-editor",
-    "iso-image",
-    "ultraiso-2026",
-    "ultraiso-download-windows"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T14:06:27Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T21:46:07.111Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/yarnvoicedesignate/ultra-Iso",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/yarnvoicedesignate/ultra-Iso/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/yarnvoicedesignate/ultra-Iso\nWhat it says it does: \"Ultra Iso 2025: Complete standalone setup with full working installer for a seamless desktop experience.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T21:46:07.111Z"
   }
  ],
  "levels": {
-  "read": 74,
-  "account": 282,
+  "account": 283,
+  "read": 73,
   "heavy": 86,
   "instant": 58
  }

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T04:56:05.039Z",
- "totalGuides": 1452,
+ "updatedAt": "2026-10-26T04:56:05.235Z",
+ "totalGuides": 1453,
  "items": [
+  {
+   "fullName": "aideveloper-web/chatgpt-free",
+   "owner": "aideveloper-web",
+   "name": "chatgpt-free",
+   "url": "https://github.com/aideveloper-web/chatgpt-free",
+   "avatar": "https://avatars.githubusercontent.com/u/347546139?v=4",
+   "description": "Access Free ChatGPT, Claude Code, and Deepseek to explore AI-powered conversations, coding assistance, and intelligent search capabilities. Discover tools and resources for productivity, software development, and AI-assisted workflows.",
+   "language": null,
+   "topics": [
+    "free-ai",
+    "free-ai-api",
+    "free-chatgpt",
+    "free-chatgpt-4",
+    "free-chatgpt-api",
+    "free-chatgpt-plus",
+    "free-chatgpt4",
+    "free-claude-ai"
+   ],
+   "license": "MIT",
+   "stars": 65,
+   "forks": 12,
+   "createdAt": "2026-10-24T20:01:58Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T04:56:05.234Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/aideveloper-web/chatgpt-free",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/aideveloper-web/chatgpt-free/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/aideveloper-web/chatgpt-free\nWhat it says it does: \"Access Free ChatGPT, Claude Code, and Deepseek to explore AI-powered conversations, coding assistance, and intelligent search capabilities. Discover tools and resources for productivity, software development, and AI-assisted workflows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T04:56:05.234Z"
+  },
   {
    "fullName": "loopj/tinysd",
    "owner": "loopj",
@@ -32435,69 +32492,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Panelnyastage/Reason-14\nWhat it says it does: \"Reason 14: Full working installer for professional desktop software utility configuration, pre-activated and ready to run on your system.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T09:55:39.528Z"
-  },
-  {
-   "fullName": "psychezonequicken/SoundPad",
-   "owner": "psychezonequicken",
-   "name": "SoundPad",
-   "url": "https://github.com/psychezonequicken/SoundPad",
-   "avatar": "https://avatars.githubusercontent.com/u/291375826?v=4",
-   "description": "Soundpad, professional DAW tool for audio enthusiasts. Pre-activated desktop edition ready to run, offering a complete standalone setup.",
-   "language": null,
-   "topics": [
-    "soundboard",
-    "soundpad",
-    "soundpad-discord",
-    "soundpad-effects",
-    "soundpad-hotkeys",
-    "soundpad-latest",
-    "soundpad-registration",
-    "soundpad-voice-chat"
-   ],
-   "license": null,
-   "stars": 254,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:14:26Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T09:55:39.254Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/psychezonequicken/SoundPad",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/psychezonequicken/SoundPad/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/psychezonequicken/SoundPad\nWhat it says it does: \"Soundpad, professional DAW tool for audio enthusiasts. Pre-activated desktop edition ready to run, offering a complete standalone setup.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T09:55:39.254Z"
   }
  ],
  "levels": {
+  "read": 95,
   "heavy": 84,
   "account": 261,
-  "instant": 60,
-  "read": 95
+  "instant": 60
  }
 }

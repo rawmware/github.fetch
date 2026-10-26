@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1475 guides written so far · last update 2026-10-26 17:15 UTC_
+_1476 guides written so far · last update 2026-10-26 17:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Patch-gg/trompe](https://github.com/Patch-gg/trompe) | Vite app | Runs in the browser with a free account | [guide](guides/patch-gg/trompe.md) |
 | [piermark/omarchytv](https://github.com/piermark/omarchytv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/piermark/omarchytv.md) |
 | [athcagithub/postiz-leaked](https://github.com/athcagithub/postiz-leaked) | Next.js app | Runs in the browser with a free account | [guide](guides/athcagithub/postiz-leaked.md) |
 | [andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andriu-kun/-wildrig-multi.md) |
@@ -38,7 +39,6 @@ _1475 guides written so far · last update 2026-10-26 17:15 UTC_
 | [jacke-pp/ai-wallet-binance](https://github.com/jacke-pp/ai-wallet-binance) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jacke-pp/ai-wallet-binance.md) |
 | [Jestions-dev/BlueFatFish](https://github.com/Jestions-dev/BlueFatFish) | JavaScript project | Runs in the browser with a free account | [guide](guides/jestions-dev/bluefatfish.md) |
 | [zgx949/ai-pojia](https://github.com/zgx949/ai-pojia) | Python project | Runs in the browser with a free account | [guide](guides/zgx949/ai-pojia.md) |
-| [anonnerdfrenzy/survival-llm](https://github.com/anonnerdfrenzy/survival-llm) | Python project | Runs in the browser with a free account | [guide](guides/anonnerdfrenzy/survival-llm.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1497 guides written so far · last update 2026-10-26 21:40 UTC_
+_1498 guides written so far · last update 2026-10-26 21:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) | JavaScript project | Runs in the browser with a free account | [guide](guides/miqdadbadjuber/anti-slop.md) |
 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/human-agent-society/reef.md) |
 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | Rust project | Runs in the browser with a free account | [guide](guides/deeplethe/utopia.md) |
 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | React app | Runs in the browser with a free account | [guide](guides/dsh-market/dsh-market.md) |
@@ -38,7 +39,6 @@ _1497 guides written so far · last update 2026-10-26 21:40 UTC_
 | [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | TypeScript project | Runs in the browser with a free account | [guide](guides/blakeandersonw/ai-app-playbook.md) |
 | [crmne/spotifast](https://github.com/crmne/spotifast) | Rust project | Runs in the browser with a free account | [guide](guides/crmne/spotifast.md) |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | JavaScript project | Runs in the browser with a free account | [guide](guides/zhu1090093659/dsh-web.md) |
-| [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/yujunzhixue/dsh-purge.md) |
 <!-- latest:end -->
 
 ## How it works

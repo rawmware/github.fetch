@@ -1,8 +1,90 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T17:16:00.674Z",
- "totalGuides": 1482,
+ "updatedAt": "2026-10-26T17:16:00.966Z",
+ "totalGuides": 1483,
  "items": [
+  {
+   "fullName": "dataelement/dsh-desktop",
+   "owner": "dataelement",
+   "name": "dsh-desktop",
+   "url": "https://github.com/dataelement/dsh-desktop",
+   "avatar": "https://avatars.githubusercontent.com/u/103249391?v=4",
+   "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
+   "language": "JavaScript",
+   "topics": [
+    "agent",
+    "apps",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-desktop",
+    "desktop",
+    "dsh-desktop",
+    "dsh-plugin"
+   ],
+   "license": "MIT",
+   "stars": 17022,
+   "forks": 570,
+   "createdAt": "2026-08-13T13:45:50Z",
+   "branch": "main",
+   "homepage": "https://dshdesktop.com",
+   "addedAt": "2026-10-26T17:16:00.965Z",
+   "stack": {
+    "kind": "node",
+    "label": "React app",
+    "frameworks": [
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/dataelement/dsh-desktop",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/dataelement/dsh-desktop",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/dataelement/dsh-desktop?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/dataelement/dsh-desktop",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/dataelement/dsh-desktop/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [
+    "Uses electron, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/dataelement/dsh-desktop.git\ncd dsh-desktop\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/dataelement/dsh-desktop\nWhat it says it does: \"DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T17:16:00.965Z"
+  },
   {
    "fullName": "amosblomqvist/learnharness",
    "owner": "amosblomqvist",
@@ -32585,67 +32667,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/squareswimmeryell/Easy-Worship\nWhat it says it does: \"Easy Worship 2025: Full working installer for professional desktop software utility configuration, ready to run out of the box.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T19:28:12.549Z"
-  },
-  {
-   "fullName": "StylistMultiplexer/HitFilm",
-   "owner": "StylistMultiplexer",
-   "name": "HitFilm",
-   "url": "https://github.com/StylistMultiplexer/HitFilm",
-   "avatar": "https://avatars.githubusercontent.com/u/296676432?v=4",
-   "description": "Hitfilm 2025: Complete standalone setup with full working installer. Ready-to-run desktop edition for professional video editing.",
-   "language": null,
-   "topics": [
-    "fxhome-hitfilm",
-    "hitfilm-2026",
-    "hitfilm-compositing-pc-install",
-    "hitfilm-pro-express",
-    "hitfilm-pro-mac",
-    "hitfilm-video-editor-download-windows-vfx"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T14:05:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T19:28:12.410Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/StylistMultiplexer/HitFilm",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/StylistMultiplexer/HitFilm/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/StylistMultiplexer/HitFilm\nWhat it says it does: \"Hitfilm 2025: Complete standalone setup with full working installer. Ready-to-run desktop edition for professional video editing.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T19:28:12.410Z"
   }
  ],
  "levels": {
-  "account": 277,
+  "account": 278,
   "heavy": 86,
-  "read": 79,
+  "read": 78,
   "instant": 58
  }
 }

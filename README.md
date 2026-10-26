@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1482 guides written so far · last update 2026-10-26 17:16 UTC_
+_1483 guides written so far · last update 2026-10-26 17:16 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | React app | Runs in the browser with a free account | [guide](guides/dataelement/dsh-desktop.md) |
 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | Next.js app | Runs in the browser with a free account | [guide](guides/amosblomqvist/learnharness.md) |
 | [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kingcharleslzy-ai/dsh-purge.md) |
 | [EricJujianZou/rederive](https://github.com/EricJujianZou/rederive) | Python project | Runs in the browser with a free account | [guide](guides/ericjujianzou/rederive.md) |
@@ -38,7 +39,6 @@ _1482 guides written so far · last update 2026-10-26 17:16 UTC_
 | [athcagithub/postiz-leaked](https://github.com/athcagithub/postiz-leaked) | Next.js app | Runs in the browser with a free account | [guide](guides/athcagithub/postiz-leaked.md) |
 | [andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andriu-kun/-wildrig-multi.md) |
 | [ttom795/Skyrim_Android](https://github.com/ttom795/Skyrim_Android) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ttom795/skyrim_android.md) |
-| [smhanov/agentloop](https://github.com/smhanov/agentloop) | Go project | Runs in the browser with a free account | [guide](guides/smhanov/agentloop.md) |
 <!-- latest:end -->
 
 ## How it works

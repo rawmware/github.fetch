@@ -1,8 +1,89 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T10:58:01.362Z",
- "totalGuides": 1457,
+ "updatedAt": "2026-10-26T10:58:01.992Z",
+ "totalGuides": 1458,
  "items": [
+  {
+   "fullName": "yaojingang/GEOInflow",
+   "owner": "yaojingang",
+   "name": "GEOInflow",
+   "url": "https://github.com/yaojingang/GEOInflow",
+   "avatar": "https://avatars.githubusercontent.com/u/266242792?v=4",
+   "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+   "language": "TypeScript",
+   "topics": [
+    "ai-analytics",
+    "geo",
+    "mit",
+    "postgresql",
+    "self-hosted",
+    "web-analytics"
+   ],
+   "license": "MIT",
+   "stars": 181,
+   "forks": 29,
+   "createdAt": "2026-10-26T03:12:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T10:58:01.991Z",
+   "stack": {
+    "kind": "node",
+    "label": "Next.js app",
+    "frameworks": [
+     "Next.js",
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/yaojingang/GEOInflow",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`pnpm dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/yaojingang/GEOInflow",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/yaojingang/GEOInflow?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/yaojingang/GEOInflow",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/yaojingang/GEOInflow/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pnpm install",
+   "run": "pnpm dev",
+   "notes": [
+    "It's a monorepo (several packages in one). Check the README for which folder to start in."
+   ],
+   "local": "git clone --depth 1 https://github.com/yaojingang/GEOInflow.git\ncd GEOInflow\npnpm install\npnpm dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/yaojingang/GEOInflow\nWhat it says it does: \"Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:01.991Z"
+  },
   {
    "fullName": "andyhuo520/digital-human-koubo",
    "owner": "andyhuo520",
@@ -32464,70 +32545,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/DLSS-5-Swapper-DownIoad/.github\nWhat it says it does: \"DLSS 5 Swapper is a Windows utility intended to simplify the organization and management of supported graphics components used by PC games.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T09:55:42.168Z"
-  },
-  {
-   "fullName": "murkantor/Project-Midas",
-   "owner": "murkantor",
-   "name": "Project-Midas",
-   "url": "https://github.com/murkantor/Project-Midas",
-   "avatar": "https://avatars.githubusercontent.com/u/38683527?v=4",
-   "description": "PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op, netplay and mods in development.",
-   "language": "C",
-   "topics": [
-    "decompilation",
-    "game-port",
-    "goldeneye",
-    "goldeneye-007",
-    "n64",
-    "opengl",
-    "pc-port",
-    "retrogaming"
-   ],
-   "license": null,
-   "stars": 121,
-   "forks": 4,
-   "createdAt": "2026-10-16T12:23:00Z",
-   "branch": "main",
-   "homepage": "https://discord.gg/Hb8tUsaHrW",
-   "addedAt": "2026-10-18T09:55:41.437Z",
-   "stack": {
-    "kind": "docker",
-    "label": "Docker app",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/murkantor/Project-Midas?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/murkantor/Project-Midas",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/murkantor/Project-Midas/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "docker build -t app . && docker run -p 8080:8080 app",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/murkantor/Project-Midas.git\ncd Project-Midas\ndocker build -t app . && docker run -p 8080:8080 app",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/murkantor/Project-Midas\nWhat it says it does: \"PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op, netplay and mods in development.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T09:55:41.437Z"
   }
  ],
  "levels": {

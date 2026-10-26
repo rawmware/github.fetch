@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1491 guides written so far · last update 2026-10-26 21:40 UTC_
+_1492 guides written so far · last update 2026-10-26 21:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [martina9516/uncensored-ai-models](https://github.com/martina9516/uncensored-ai-models) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/martina9516/uncensored-ai-models.md) |
 | [Andreas698/glm-5.3-uncensored](https://github.com/Andreas698/glm-5.3-uncensored) | Python project | Runs in the browser with a free account | [guide](guides/andreas698/glm-5.3-uncensored.md) |
 | [DLSS-5-Swapper-Portable/.github](https://github.com/DLSS-5-Swapper-Portable/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-portable/.github.md) |
 | [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | TypeScript project | Runs in the browser with a free account | [guide](guides/blakeandersonw/ai-app-playbook.md) |
@@ -38,7 +39,6 @@ _1491 guides written so far · last update 2026-10-26 21:40 UTC_
 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | React app | Runs in the browser with a free account | [guide](guides/dataelement/dsh-desktop.md) |
 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | Next.js app | Runs in the browser with a free account | [guide](guides/amosblomqvist/learnharness.md) |
 | [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kingcharleslzy-ai/dsh-purge.md) |
-| [EricJujianZou/rederive](https://github.com/EricJujianZou/rederive) | Python project | Runs in the browser with a free account | [guide](guides/ericjujianzou/rederive.md) |
 <!-- latest:end -->
 
 ## How it works

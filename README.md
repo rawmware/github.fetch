@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1496 guides written so far · last update 2026-10-26 21:40 UTC_
+_1497 guides written so far · last update 2026-10-26 21:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/human-agent-society/reef.md) |
 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | Rust project | Runs in the browser with a free account | [guide](guides/deeplethe/utopia.md) |
 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | React app | Runs in the browser with a free account | [guide](guides/dsh-market/dsh-market.md) |
 | [OrchardLinux/omarchy-a](https://github.com/OrchardLinux/omarchy-a) | QML project | Runs in the browser with a free account | [guide](guides/orchardlinux/omarchy-a.md) |
@@ -38,7 +39,6 @@ _1496 guides written so far · last update 2026-10-26 21:40 UTC_
 | [crmne/spotifast](https://github.com/crmne/spotifast) | Rust project | Runs in the browser with a free account | [guide](guides/crmne/spotifast.md) |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | JavaScript project | Runs in the browser with a free account | [guide](guides/zhu1090093659/dsh-web.md) |
 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/yujunzhixue/dsh-purge.md) |
-| [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/genspark-ai/genoffice.md) |
 <!-- latest:end -->
 
 ## How it works

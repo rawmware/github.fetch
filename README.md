@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1450 guides written so far · last update 2026-10-26 04:56 UTC_
+_1451 guides written so far · last update 2026-10-26 04:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Moessif/code-video-showcase](https://github.com/Moessif/code-video-showcase) | JavaScript project | Runs in the browser with a free account | [guide](guides/moessif/code-video-showcase.md) |
 | [jadezane6634-ops/dsh-purge-flash](https://github.com/jadezane6634-ops/dsh-purge-flash) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jadezane6634-ops/dsh-purge-flash.md) |
 | [boyuchengz/canvas-mcp](https://github.com/boyuchengz/canvas-mcp) | Express app | Runs in a browser tab, no account needed | [guide](guides/boyuchengz/canvas-mcp.md) |
 | [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) | Go project | Runs in the browser with a free account | [guide](guides/drwhax/unfairplay.md) |
@@ -38,7 +39,6 @@ _1450 guides written so far · last update 2026-10-26 04:56 UTC_
 | [Nebelung-cloud/glyph-rice](https://github.com/Nebelung-cloud/glyph-rice) | QML project | Runs in the browser with a free account | [guide](guides/nebelung-cloud/glyph-rice.md) |
 | [joeseesun/qiaomu-simpleui](https://github.com/joeseesun/qiaomu-simpleui) | Lua project | Runs in the browser with a free account | [guide](guides/joeseesun/qiaomu-simpleui.md) |
 | [mochiiwuff/capri-desktop](https://github.com/mochiiwuff/capri-desktop) | JavaScript project | Runs in the browser with a free account | [guide](guides/mochiiwuff/capri-desktop.md) |
-| [kuraeow/ultratears](https://github.com/kuraeow/ultratears) | C project | Needs a real machine (or a GPU) to run | [guide](guides/kuraeow/ultratears.md) |
 <!-- latest:end -->
 
 ## How it works

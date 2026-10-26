@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1477 guides written so far · last update 2026-10-26 17:15 UTC_
+_1478 guides written so far · last update 2026-10-26 17:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Python project | Runs in the browser with a free account | [guide](guides/motionsites-ai/claude-skill.md) |
 | [Ahmadkhattak1/awesome-downloader](https://github.com/Ahmadkhattak1/awesome-downloader) | JavaScript project | Runs in the browser with a free account | [guide](guides/ahmadkhattak1/awesome-downloader.md) |
 | [Patch-gg/trompe](https://github.com/Patch-gg/trompe) | Vite app | Runs in the browser with a free account | [guide](guides/patch-gg/trompe.md) |
 | [piermark/omarchytv](https://github.com/piermark/omarchytv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/piermark/omarchytv.md) |
@@ -38,7 +39,6 @@ _1477 guides written so far · last update 2026-10-26 17:15 UTC_
 | [ccch1mneyyy/dsh-go](https://github.com/ccch1mneyyy/dsh-go) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ccch1mneyyy/dsh-go.md) |
 | [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar) | Docker app | Runs in the browser with a free account | [guide](guides/lwh0630/tokenbar.md) |
 | [jacke-pp/ai-wallet-binance](https://github.com/jacke-pp/ai-wallet-binance) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jacke-pp/ai-wallet-binance.md) |
-| [Jestions-dev/BlueFatFish](https://github.com/Jestions-dev/BlueFatFish) | JavaScript project | Runs in the browser with a free account | [guide](guides/jestions-dev/bluefatfish.md) |
 <!-- latest:end -->
 
 ## How it works

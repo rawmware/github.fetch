@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T10:58:04.123Z",
- "totalGuides": 1463,
+ "updatedAt": "2026-10-26T10:58:04.661Z",
+ "totalGuides": 1464,
  "items": [
+  {
+   "fullName": "anonnerdfrenzy/survival-llm",
+   "owner": "anonnerdfrenzy",
+   "name": "survival-llm",
+   "url": "https://github.com/anonnerdfrenzy/survival-llm",
+   "avatar": "https://avatars.githubusercontent.com/u/120387240?v=4",
+   "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 69,
+   "forks": 5,
+   "createdAt": "2026-10-24T19:12:41Z",
+   "branch": "main",
+   "homepage": "https://brangus.io/survival-llm",
+   "addedAt": "2026-10-26T10:58:04.660Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/anonnerdfrenzy/survival-llm/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/anonnerdfrenzy/survival-llm?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/anonnerdfrenzy/survival-llm",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/anonnerdfrenzy/survival-llm/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/anonnerdfrenzy/survival-llm.git\ncd survival-llm",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/anonnerdfrenzy/survival-llm\nWhat it says it does: \"A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:04.660Z"
+  },
   {
    "fullName": "kuscholar/iDeck",
    "owner": "kuscholar",
@@ -32502,66 +32564,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/bandwatchmanriddle/Clion\nWhat it says it does: \"Clion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T13:55:08.284Z"
-  },
-  {
-   "fullName": "EssenceCountCommand/Melodyne-5",
-   "owner": "EssenceCountCommand",
-   "name": "Melodyne-5",
-   "url": "https://github.com/EssenceCountCommand/Melodyne-5",
-   "avatar": "https://avatars.githubusercontent.com/u/296670684?v=4",
-   "description": "Melodyne 5: Complete standalone setup with all features unlocked, ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "celemony",
-    "celemony-melodyne-install-setup-windows-2026",
-    "melodyne",
-    "melodyne-2026",
-    "melodyne-download"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T10:03:18Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T13:55:08.092Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/EssenceCountCommand/Melodyne-5",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/EssenceCountCommand/Melodyne-5/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/EssenceCountCommand/Melodyne-5\nWhat it says it does: \"Melodyne 5: Complete standalone setup with all features unlocked, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T13:55:08.092Z"
   }
  ],
  "levels": {
+  "account": 266,
   "heavy": 86,
-  "account": 265,
-  "read": 89,
+  "read": 88,
   "instant": 60
  }
 }

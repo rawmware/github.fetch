@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1495 guides written so far · last update 2026-10-26 21:40 UTC_
+_1496 guides written so far · last update 2026-10-26 21:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [deeplethe/utopia](https://github.com/deeplethe/utopia) | Rust project | Runs in the browser with a free account | [guide](guides/deeplethe/utopia.md) |
 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | React app | Runs in the browser with a free account | [guide](guides/dsh-market/dsh-market.md) |
 | [OrchardLinux/omarchy-a](https://github.com/OrchardLinux/omarchy-a) | QML project | Runs in the browser with a free account | [guide](guides/orchardlinux/omarchy-a.md) |
 | [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) | Python project | Runs in the browser with a free account | [guide](guides/martinkeith700/ruyijs.md) |
@@ -38,7 +39,6 @@ _1495 guides written so far · last update 2026-10-26 21:40 UTC_
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | JavaScript project | Runs in the browser with a free account | [guide](guides/zhu1090093659/dsh-web.md) |
 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/yujunzhixue/dsh-purge.md) |
 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/genspark-ai/genoffice.md) |
-| [jub0t/Concat](https://github.com/jub0t/Concat) | Rust project | Runs in the browser with a free account | [guide](guides/jub0t/concat.md) |
 <!-- latest:end -->
 
 ## How it works

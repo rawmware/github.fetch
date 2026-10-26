@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T21:40:19.816Z",
- "totalGuides": 1495,
+ "updatedAt": "2026-10-26T21:40:19.977Z",
+ "totalGuides": 1496,
  "items": [
+  {
+   "fullName": "deeplethe/utopia",
+   "owner": "deeplethe",
+   "name": "utopia",
+   "url": "https://github.com/deeplethe/utopia",
+   "avatar": "https://avatars.githubusercontent.com/u/282846749?v=4",
+   "description": "World's first open-source enterprise world model.",
+   "language": "Rust",
+   "topics": [
+    "agent-memory",
+    "bitemporal",
+    "graphrag",
+    "knowledge-base",
+    "knowledge-graph",
+    "llm",
+    "ontology",
+    "pgvector"
+   ],
+   "license": "Apache-2.0",
+   "stars": 8556,
+   "forks": 1170,
+   "createdAt": "2026-08-07T19:33:17Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T21:40:19.976Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/deeplethe/utopia?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/deeplethe/utopia",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/deeplethe/utopia/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/deeplethe/utopia.git\ncd utopia\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/deeplethe/utopia\nWhat it says it does: \"World's first open-source enterprise world model.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T21:40:19.976Z"
+  },
   {
    "fullName": "dsh-market/dsh-market",
    "owner": "dsh-market",
@@ -32690,68 +32754,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Surfacenoexist/IBM-SPSS\nWhat it says it does: \"IBM SPSS Statistics 2025 complete standalone setup, fully activated and ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T01:48:48.789Z"
-  },
-  {
-   "fullName": "llamaboi55/DragShift",
-   "owner": "llamaboi55",
-   "name": "DragShift",
-   "url": "https://github.com/llamaboi55/DragShift",
-   "avatar": "https://avatars.githubusercontent.com/u/208208631?v=4",
-   "description": "Convert and edit files with a liquid-glass radial menu: start dragging a file, press Shift, drop it on a slice. Windows, Mac and Linux.",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 101,
-   "forks": 8,
-   "createdAt": "2026-10-18T14:19:13Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T01:48:48.645Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/llamaboi55/DragShift/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/llamaboi55/DragShift?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/llamaboi55/DragShift",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/llamaboi55/DragShift/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": "python run.py",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/llamaboi55/DragShift.git\ncd DragShift\npip install -r requirements.txt\npython run.py",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/llamaboi55/DragShift\nWhat it says it does: \"Convert and edit files with a liquid-glass radial menu: start dragging a file, press Shift, drop it on a slice. Windows, Mac and Linux.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T01:48:48.645Z"
   }
  ],
  "levels": {

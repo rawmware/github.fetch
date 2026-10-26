@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1493 guides written so far · last update 2026-10-26 21:40 UTC_
+_1494 guides written so far · last update 2026-10-26 21:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [OrchardLinux/omarchy-a](https://github.com/OrchardLinux/omarchy-a) | QML project | Runs in the browser with a free account | [guide](guides/orchardlinux/omarchy-a.md) |
 | [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) | Python project | Runs in the browser with a free account | [guide](guides/martinkeith700/ruyijs.md) |
 | [martina9516/uncensored-ai-models](https://github.com/martina9516/uncensored-ai-models) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/martina9516/uncensored-ai-models.md) |
 | [Andreas698/glm-5.3-uncensored](https://github.com/Andreas698/glm-5.3-uncensored) | Python project | Runs in the browser with a free account | [guide](guides/andreas698/glm-5.3-uncensored.md) |
@@ -38,7 +39,6 @@ _1493 guides written so far · last update 2026-10-26 21:40 UTC_
 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/genspark-ai/genoffice.md) |
 | [jub0t/Concat](https://github.com/jub0t/Concat) | Rust project | Runs in the browser with a free account | [guide](guides/jub0t/concat.md) |
 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | React app | Runs in the browser with a free account | [guide](guides/dataelement/dsh-desktop.md) |
-| [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | Next.js app | Runs in the browser with a free account | [guide](guides/amosblomqvist/learnharness.md) |
 <!-- latest:end -->
 
 ## How it works

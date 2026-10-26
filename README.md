@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1488 guides written so far · last update 2026-10-26 17:16 UTC_
+_1489 guides written so far · last update 2026-10-26 21:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | TypeScript project | Runs in the browser with a free account | [guide](guides/blakeandersonw/ai-app-playbook.md) |
 | [crmne/spotifast](https://github.com/crmne/spotifast) | Rust project | Runs in the browser with a free account | [guide](guides/crmne/spotifast.md) |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | JavaScript project | Runs in the browser with a free account | [guide](guides/zhu1090093659/dsh-web.md) |
 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/yujunzhixue/dsh-purge.md) |
@@ -38,7 +39,6 @@ _1488 guides written so far · last update 2026-10-26 17:16 UTC_
 | [EricJujianZou/rederive](https://github.com/EricJujianZou/rederive) | Python project | Runs in the browser with a free account | [guide](guides/ericjujianzou/rederive.md) |
 | [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) | Python project | Runs in the browser with a free account | [guide](guides/huaxialucaicaizi/ai-startup-skills.md) |
 | [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Python project | Runs in the browser with a free account | [guide](guides/motionsites-ai/claude-skill.md) |
-| [Ahmadkhattak1/awesome-downloader](https://github.com/Ahmadkhattak1/awesome-downloader) | JavaScript project | Runs in the browser with a free account | [guide](guides/ahmadkhattak1/awesome-downloader.md) |
 <!-- latest:end -->
 
 ## How it works

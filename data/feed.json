@@ -1,8 +1,85 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T21:40:19.575Z",
- "totalGuides": 1494,
+ "updatedAt": "2026-10-26T21:40:19.816Z",
+ "totalGuides": 1495,
  "items": [
+  {
+   "fullName": "dsh-market/dsh-market",
+   "owner": "dsh-market",
+   "name": "dsh-market",
+   "url": "https://github.com/dsh-market/dsh-market",
+   "avatar": "https://avatars.githubusercontent.com/u/316826596?v=4",
+   "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+   "language": "TypeScript",
+   "topics": [
+    "deepseek-harness",
+    "dsh-plugin",
+    "marketplace"
+   ],
+   "license": "MIT",
+   "stars": 9076,
+   "forks": 351,
+   "createdAt": "2026-08-14T04:58:15Z",
+   "branch": "main",
+   "homepage": "https://dshmarket.com",
+   "addedAt": "2026-10-26T21:40:19.815Z",
+   "stack": {
+    "kind": "node",
+    "label": "React app",
+    "frameworks": [
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/dsh-market/dsh-market",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/dsh-market/dsh-market",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/dsh-market/dsh-market?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/dsh-market/dsh-market",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/dsh-market/dsh-market/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [
+    "Uses playwright, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/dsh-market/dsh-market.git\ncd dsh-market\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/dsh-market/dsh-market\nWhat it says it does: \"The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T21:40:19.815Z"
+  },
   {
    "fullName": "OrchardLinux/omarchy-a",
    "owner": "OrchardLinux",
@@ -32675,69 +32752,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/llamaboi55/DragShift\nWhat it says it does: \"Convert and edit files with a liquid-glass radial menu: start dragging a file, press Shift, drop it on a slice. Windows, Mac and Linux.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T01:48:48.645Z"
-  },
-  {
-   "fullName": "justrach/nanoui",
-   "owner": "justrach",
-   "name": "nanoui",
-   "url": "https://github.com/justrach/nanoui",
-   "avatar": "https://avatars.githubusercontent.com/u/54503978?v=4",
-   "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
-   "language": "Zig",
-   "topics": [],
-   "license": "MIT",
-   "stars": 108,
-   "forks": 3,
-   "createdAt": "2026-10-18T09:27:46Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T01:48:48.358Z",
-   "stack": {
-    "kind": "native",
-    "label": "Zig project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/justrach/nanoui?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/justrach/nanoui",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/justrach/nanoui/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Zig usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/justrach/nanoui.git\ncd nanoui",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/justrach/nanoui\nWhat it says it does: \"Desktop apps in Zig, with native UI drawn on the GPU or a web frontend\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T01:48:48.358Z"
   }
  ],
  "levels": {
-  "account": 283,
+  "account": 284,
   "read": 74,
-  "heavy": 85,
+  "heavy": 84,
   "instant": 58
  }
 }

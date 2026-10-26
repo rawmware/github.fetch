@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T04:56:05.235Z",
- "totalGuides": 1453,
+ "updatedAt": "2026-10-26T04:56:05.425Z",
+ "totalGuides": 1454,
  "items": [
+  {
+   "fullName": "ACD421/PHP",
+   "owner": "ACD421",
+   "name": "PHP",
+   "url": "https://github.com/ACD421/PHP",
+   "avatar": "https://avatars.githubusercontent.com/u/203742179?v=4",
+   "description": "For PHP, CTI agencies, and CISA. This is for security hardening and bug awareness only.",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 62,
+   "forks": 12,
+   "createdAt": "2026-10-24T05:43:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T04:56:05.424Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/ACD421/PHP/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ACD421/PHP?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ACD421/PHP",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ACD421/PHP/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ACD421/PHP.git\ncd PHP",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ACD421/PHP\nWhat it says it does: \"For PHP, CTI agencies, and CISA. This is for security hardening and bug awareness only.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T04:56:05.424Z"
+  },
   {
    "fullName": "aideveloper-web/chatgpt-free",
    "owner": "aideveloper-web",
@@ -32435,69 +32497,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/StoneSniperStrip/Discord-Server-Cloner\nWhat it says it does: \"Discord Server Cloner 2025: Full working installer with all features enabled. Ready-to-run desktop build for easy server duplication.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T09:55:39.989Z"
-  },
-  {
-   "fullName": "Panelnyastage/Reason-14",
-   "owner": "Panelnyastage",
-   "name": "Reason-14",
-   "url": "https://github.com/Panelnyastage/Reason-14",
-   "avatar": "https://avatars.githubusercontent.com/u/291371866?v=4",
-   "description": "Reason 14: Full working installer for professional desktop software utility configuration, pre-activated and ready to run on your system.",
-   "language": null,
-   "topics": [
-    "daw-software",
-    "pro-edition",
-    "rack-synth",
-    "reason-12",
-    "reason-2026",
-    "reason-daw",
-    "reason-music",
-    "reason-plus"
-   ],
-   "license": null,
-   "stars": 254,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:13:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T09:55:39.528Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Panelnyastage/Reason-14",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Panelnyastage/Reason-14/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Panelnyastage/Reason-14\nWhat it says it does: \"Reason 14: Full working installer for professional desktop software utility configuration, pre-activated and ready to run on your system.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T09:55:39.528Z"
   }
  ],
  "levels": {
-  "read": 95,
+  "account": 262,
+  "read": 94,
   "heavy": 84,
-  "account": 261,
   "instant": 60
  }
 }

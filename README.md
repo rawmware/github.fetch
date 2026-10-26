@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1453 guides written so far · last update 2026-10-26 04:56 UTC_
+_1454 guides written so far · last update 2026-10-26 04:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ACD421/PHP](https://github.com/ACD421/PHP) | Python project | Runs in the browser with a free account | [guide](guides/acd421/php.md) |
 | [aideveloper-web/chatgpt-free](https://github.com/aideveloper-web/chatgpt-free) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/chatgpt-free.md) |
 | [loopj/tinysd](https://github.com/loopj/tinysd) | C project | Needs a real machine (or a GPU) to run | [guide](guides/loopj/tinysd.md) |
 | [Moessif/code-video-showcase](https://github.com/Moessif/code-video-showcase) | JavaScript project | Runs in the browser with a free account | [guide](guides/moessif/code-video-showcase.md) |
@@ -38,7 +39,6 @@ _1453 guides written so far · last update 2026-10-26 04:56 UTC_
 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/zichuanlan/agent-purge.md) |
 | [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) | Python project | Runs in the browser with a free account | [guide](guides/killaboi/stealmybitcoin-poc.md) |
 | [Aaryan-Kapoor/english-rs](https://github.com/Aaryan-Kapoor/english-rs) | Rust project | Runs in the browser with a free account | [guide](guides/aaryan-kapoor/english-rs.md) |
-| [Nebelung-cloud/glyph-rice](https://github.com/Nebelung-cloud/glyph-rice) | QML project | Runs in the browser with a free account | [guide](guides/nebelung-cloud/glyph-rice.md) |
 <!-- latest:end -->
 
 ## How it works

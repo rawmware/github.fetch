@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T10:58:06.507Z",
- "totalGuides": 1468,
+ "updatedAt": "2026-10-26T10:58:06.819Z",
+ "totalGuides": 1469,
  "items": [
+  {
+   "fullName": "ccch1mneyyy/dsh-go",
+   "owner": "ccch1mneyyy",
+   "name": "dsh-go",
+   "url": "https://github.com/ccch1mneyyy/dsh-go",
+   "avatar": "https://avatars.githubusercontent.com/u/268149062?v=4",
+   "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
+   "language": null,
+   "topics": [
+    "ai-agent",
+    "android",
+    "android-app",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-tui"
+   ],
+   "license": null,
+   "stars": 63,
+   "forks": 1,
+   "createdAt": "2026-10-25T08:09:52Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T10:58:06.819Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ccch1mneyyy/dsh-go",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ccch1mneyyy/dsh-go/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ccch1mneyyy/dsh-go\nWhat it says it does: \"dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:06.819Z"
+  },
   {
    "fullName": "lwh0630/TokenBar",
    "owner": "lwh0630",
@@ -32545,69 +32602,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ArenaMotorman/Canva-Pro\nWhat it says it does: \"Canva Pro 2025: Complete standalone setup with full feature access, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T13:55:09.198Z"
-  },
-  {
-   "fullName": "Icontainertia/Adobe-Substance-3d",
-   "owner": "Icontainertia",
-   "name": "Adobe-Substance-3d",
-   "url": "https://github.com/Icontainertia/Adobe-Substance-3d",
-   "avatar": "https://avatars.githubusercontent.com/u/292115675?v=4",
-   "description": "Creative Studio App 2026 – Full working installer with enhanced security protocols for secure digital asset deployment.",
-   "language": null,
-   "topics": [
-    "substance",
-    "substance-3d",
-    "substance-3d-painter",
-    "substance-abuse",
-    "substance-designer",
-    "substance-designer-allegorithmic",
-    "substance-painter",
-    "substance-use"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T09:59:36Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T13:55:09.013Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Icontainertia/Adobe-Substance-3d",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Icontainertia/Adobe-Substance-3d/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Icontainertia/Adobe-Substance-3d\nWhat it says it does: \"Creative Studio App 2026 – Full working installer with enhanced security protocols for secure digital asset deployment.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T13:55:09.013Z"
   }
  ],
  "levels": {
+  "read": 84,
   "account": 270,
   "heavy": 86,
-  "read": 84,
   "instant": 60
  }
 }

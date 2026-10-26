@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1456 guides written so far · last update 2026-10-26 04:56 UTC_
+_1457 guides written so far · last update 2026-10-26 10:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript project | Runs in the browser with a free account | [guide](guides/andyhuo520/digital-human-koubo.md) |
 | [subhashhhhhh/Lumen](https://github.com/subhashhhhhh/Lumen) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/subhashhhhhh/lumen.md) |
 | [egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic) | JavaScript project | Runs in the browser with a free account | [guide](guides/egoist/mygo-cloudmusic.md) |
 | [ACD421/PHP](https://github.com/ACD421/PHP) | Python project | Runs in the browser with a free account | [guide](guides/acd421/php.md) |
@@ -38,7 +39,6 @@ _1456 guides written so far · last update 2026-10-26 04:56 UTC_
 | [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) | Go project | Runs in the browser with a free account | [guide](guides/drwhax/unfairplay.md) |
 | [lemiur/Game-Decompilation-Skill-For-Claude](https://github.com/lemiur/Game-Decompilation-Skill-For-Claude) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lemiur/game-decompilation-skill-for-claude.md) |
 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python project | Runs in the browser with a free account | [guide](guides/t3dotgg/tstack.md) |
-| [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/zichuanlan/agent-purge.md) |
 <!-- latest:end -->
 
 ## How it works

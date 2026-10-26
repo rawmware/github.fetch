@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T04:56:05.876Z",
- "totalGuides": 1456,
+ "updatedAt": "2026-10-26T10:58:01.362Z",
+ "totalGuides": 1457,
  "items": [
+  {
+   "fullName": "andyhuo520/digital-human-koubo",
+   "owner": "andyhuo520",
+   "name": "digital-human-koubo",
+   "url": "https://github.com/andyhuo520/digital-human-koubo",
+   "avatar": "https://avatars.githubusercontent.com/u/187917479?v=4",
+   "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 288,
+   "forks": 83,
+   "createdAt": "2026-10-26T04:34:09Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T10:58:01.350Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/andyhuo520/digital-human-koubo?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/andyhuo520/digital-human-koubo",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/andyhuo520/digital-human-koubo/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/andyhuo520/digital-human-koubo.git\ncd digital-human-koubo",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/andyhuo520/digital-human-koubo\nWhat it says it does: \"AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:01.350Z"
+  },
   {
    "fullName": "subhashhhhhh/Lumen",
    "owner": "subhashhhhhh",
@@ -32473,69 +32528,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/murkantor/Project-Midas\nWhat it says it does: \"PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op, netplay and mods in development.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T09:55:41.437Z"
-  },
-  {
-   "fullName": "SentryOctopusEngage/Wise-Registrity",
-   "owner": "SentryOctopusEngage",
-   "name": "Wise-Registrity",
-   "url": "https://github.com/SentryOctopusEngage/Wise-Registrity",
-   "avatar": "https://avatars.githubusercontent.com/u/291376226?v=4",
-   "description": "Complete standalone setup for Wise Registrity 2024. Ready-to-run desktop utility with all features pre-activated, ensuring smooth...",
-   "language": null,
-   "topics": [
-    "free-key-wise-registry-cleaner-pro",
-    "registry-cleaner-privacy-protection",
-    "registry-cleaner-system-improvement",
-    "windows-performance-optimizer",
-    "windows-registry-fix-tutorial",
-    "windows-registry-maintenance",
-    "windows-registry-optimization",
-    "wise-registry-cleaner-performance"
-   ],
-   "license": null,
-   "stars": 253,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:15:11Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T09:55:40.898Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/SentryOctopusEngage/Wise-Registrity",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SentryOctopusEngage/Wise-Registrity/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/SentryOctopusEngage/Wise-Registrity\nWhat it says it does: \"Complete standalone setup for Wise Registrity 2024. Ready-to-run desktop utility with all features pre-activated, ensuring smooth...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T09:55:40.898Z"
   }
  ],
  "levels": {
+  "account": 264,
   "heavy": 85,
-  "account": 263,
-  "read": 92,
+  "read": 91,
   "instant": 60
  }
 }

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T17:15:58.843Z",
- "totalGuides": 1474,
+ "updatedAt": "2026-10-26T17:15:59.065Z",
+ "totalGuides": 1475,
  "items": [
+  {
+   "fullName": "piermark/omarchytv",
+   "owner": "piermark",
+   "name": "omarchytv",
+   "url": "https://github.com/piermark/omarchytv",
+   "avatar": "https://avatars.githubusercontent.com/u/17280140?v=4",
+   "description": "Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs",
+   "language": "Java",
+   "topics": [],
+   "license": null,
+   "stars": 109,
+   "forks": 8,
+   "createdAt": "2026-10-26T08:48:20Z",
+   "branch": "main",
+   "homepage": "https://www.marcoporro.it",
+   "addedAt": "2026-10-26T17:15:59.065Z",
+   "stack": {
+    "kind": "native",
+    "label": "Java project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/piermark/omarchytv?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/piermark/omarchytv",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/piermark/omarchytv/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/piermark/omarchytv.git\ncd omarchytv",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/piermark/omarchytv\nWhat it says it does: \"Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T17:15:59.065Z"
+  },
   {
    "fullName": "athcagithub/postiz-leaked",
    "owner": "athcagithub",
@@ -32514,75 +32571,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/fzn0x/idx\nWhat it says it does: \"Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T17:15:09.975Z"
-  },
-  {
-   "fullName": "LTSharpe/OblivionRemasteredPerformanceFix",
-   "owner": "LTSharpe",
-   "name": "OblivionRemasteredPerformanceFix",
-   "url": "https://github.com/LTSharpe/OblivionRemasteredPerformanceFix",
-   "avatar": "https://avatars.githubusercontent.com/u/37770520?v=4",
-   "description": "Engine-level performance fix for Oblivion Remastered (UE5): higher fps in towns, far fewer travel hitches, same image. Source, benchmark and docs.",
-   "language": "C++",
-   "topics": [
-    "game-mod",
-    "mod",
-    "oblivion-remastered",
-    "performance",
-    "unreal-engine-5"
-   ],
-   "license": "MIT",
-   "stars": 124,
-   "forks": 6,
-   "createdAt": "2026-10-17T14:28:10Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T17:15:09.600Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/LTSharpe/OblivionRemasteredPerformanceFix?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/LTSharpe/OblivionRemasteredPerformanceFix",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/LTSharpe/OblivionRemasteredPerformanceFix/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/LTSharpe/OblivionRemasteredPerformanceFix.git\ncd OblivionRemasteredPerformanceFix",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/LTSharpe/OblivionRemasteredPerformanceFix\nWhat it says it does: \"Engine-level performance fix for Oblivion Remastered (UE5): higher fps in towns, far fewer travel hitches, same image. Source, benchmark and docs.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T17:15:09.600Z"
   }
  ],
  "levels": {
+  "heavy": 87,
   "account": 272,
   "read": 82,
-  "heavy": 87,
   "instant": 59
  }
 }

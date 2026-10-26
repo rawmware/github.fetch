@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1470 guides written so far · last update 2026-10-26 10:58 UTC_
+_1471 guides written so far · last update 2026-10-26 10:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [smhanov/agentloop](https://github.com/smhanov/agentloop) | Go project | Runs in the browser with a free account | [guide](guides/smhanov/agentloop.md) |
 | [assetnote/node2shell-scanner](https://github.com/assetnote/node2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/assetnote/node2shell-scanner.md) |
 | [ccch1mneyyy/dsh-go](https://github.com/ccch1mneyyy/dsh-go) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ccch1mneyyy/dsh-go.md) |
 | [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar) | Docker app | Runs in the browser with a free account | [guide](guides/lwh0630/tokenbar.md) |
@@ -38,7 +39,6 @@ _1470 guides written so far · last update 2026-10-26 10:58 UTC_
 | [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mxhm11cr/linuxrunner.md) |
 | [heydeer/pngdeer](https://github.com/heydeer/pngdeer) | Rust project | Runs in the browser with a free account | [guide](guides/heydeer/pngdeer.md) |
 | [ELU-Labs/dark-factory](https://github.com/ELU-Labs/dark-factory) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/elu-labs/dark-factory.md) |
-| [DiaoOrg/awesome-supermimic](https://github.com/DiaoOrg/awesome-supermimic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diaoorg/awesome-supermimic.md) |
 <!-- latest:end -->
 
 ## How it works

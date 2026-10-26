@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T10:58:07.419Z",
- "totalGuides": 1471,
+ "updatedAt": "2026-10-26T10:58:07.664Z",
+ "totalGuides": 1472,
  "items": [
+  {
+   "fullName": "ttom795/Skyrim_Android",
+   "owner": "ttom795",
+   "name": "Skyrim_Android",
+   "url": "https://github.com/ttom795/Skyrim_Android",
+   "avatar": "https://avatars.githubusercontent.com/u/69662271?v=4",
+   "description": "A static recompilation of Skyrim (2011) for Android devices.",
+   "language": "C",
+   "topics": [],
+   "license": null,
+   "stars": 61,
+   "forks": 1,
+   "createdAt": "2026-10-25T05:03:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T10:58:07.664Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ttom795/Skyrim_Android?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ttom795/Skyrim_Android",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ttom795/Skyrim_Android/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/ttom795/Skyrim_Android.git\ncd Skyrim_Android",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ttom795/Skyrim_Android\nWhat it says it does: \"A static recompilation of Skyrim (2011) for Android devices.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:07.664Z"
+  },
   {
    "fullName": "smhanov/agentloop",
    "owner": "smhanov",
@@ -32529,88 +32586,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/alchaincyf/huashu-motion\nWhat it says it does: \"让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T17:15:09.156Z"
-  },
-  {
-   "fullName": "xiaoyang111222/cn-math-taxonomy",
-   "owner": "xiaoyang111222",
-   "name": "cn-math-taxonomy",
-   "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-   "avatar": "https://avatars.githubusercontent.com/u/79557224?v=4",
-   "description": "初中数学知识图谱（课标映射）+ 自适应诊断工具 + 1407 道题库",
-   "language": "JavaScript",
-   "topics": [],
-   "license": null,
-   "stars": 246,
-   "forks": 66,
-   "createdAt": "2026-10-18T09:04:43Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T17:15:08.786Z",
-   "stack": {
-    "kind": "static",
-    "label": "Static website (HTML/CSS/JS)",
-    "frameworks": []
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "live",
-   "launch": [
-    {
-     "id": "live",
-     "label": "Open it live",
-     "url": "https://raw.githack.com/xiaoyang111222/cn-math-taxonomy/main/index.html",
-     "needs": "nothing",
-     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
-    },
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/xiaoyang111222/cn-math-taxonomy",
-     "needs": "nothing",
-     "note": "A full editor and preview in your tab."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/xiaoyang111222/cn-math-taxonomy",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/xiaoyang111222/cn-math-taxonomy?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/xiaoyang111222/cn-math-taxonomy",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "npx serve .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/xiaoyang111222/cn-math-taxonomy.git\ncd cn-math-taxonomy\nnpx serve .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/xiaoyang111222/cn-math-taxonomy\nWhat it says it does: \"初中数学知识图谱（课标映射）+ 自适应诊断工具 + 1407 道题库\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T17:15:08.786Z"
   }
  ],
  "levels": {
+  "heavy": 87,
   "account": 272,
   "read": 82,
-  "heavy": 86,
-  "instant": 60
+  "instant": 59
  }
 }

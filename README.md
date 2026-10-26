@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1472 guides written so far · last update 2026-10-26 10:58 UTC_
+_1473 guides written so far · last update 2026-10-26 17:15 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andriu-kun/-wildrig-multi.md) |
 | [ttom795/Skyrim_Android](https://github.com/ttom795/Skyrim_Android) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ttom795/skyrim_android.md) |
 | [smhanov/agentloop](https://github.com/smhanov/agentloop) | Go project | Runs in the browser with a free account | [guide](guides/smhanov/agentloop.md) |
 | [assetnote/node2shell-scanner](https://github.com/assetnote/node2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/assetnote/node2shell-scanner.md) |
@@ -38,7 +39,6 @@ _1472 guides written so far · last update 2026-10-26 10:58 UTC_
 | [anonnerdfrenzy/survival-llm](https://github.com/anonnerdfrenzy/survival-llm) | Python project | Runs in the browser with a free account | [guide](guides/anonnerdfrenzy/survival-llm.md) |
 | [kuscholar/iDeck](https://github.com/kuscholar/iDeck) | C project | Needs a real machine (or a GPU) to run | [guide](guides/kuscholar/ideck.md) |
 | [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mxhm11cr/linuxrunner.md) |
-| [heydeer/pngdeer](https://github.com/heydeer/pngdeer) | Rust project | Runs in the browser with a free account | [guide](guides/heydeer/pngdeer.md) |
 <!-- latest:end -->
 
 ## How it works

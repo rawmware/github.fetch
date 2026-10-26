@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1499 guides written so far · last update 2026-10-26 21:40 UTC_
+_1500 guides written so far · last update 2026-10-26 21:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | JavaScript project | Runs in the browser with a free account | [guide](guides/copilotkit/openbot.md) |
 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | Rust project | Runs in the browser with a free account | [guide](guides/qingjian-team/qingjian.md) |
 | [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) | JavaScript project | Runs in the browser with a free account | [guide](guides/miqdadbadjuber/anti-slop.md) |
 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/human-agent-society/reef.md) |
@@ -38,7 +39,6 @@ _1499 guides written so far · last update 2026-10-26 21:40 UTC_
 | [Andreas698/glm-5.3-uncensored](https://github.com/Andreas698/glm-5.3-uncensored) | Python project | Runs in the browser with a free account | [guide](guides/andreas698/glm-5.3-uncensored.md) |
 | [DLSS-5-Swapper-Portable/.github](https://github.com/DLSS-5-Swapper-Portable/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-portable/.github.md) |
 | [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | TypeScript project | Runs in the browser with a free account | [guide](guides/blakeandersonw/ai-app-playbook.md) |
-| [crmne/spotifast](https://github.com/crmne/spotifast) | Rust project | Runs in the browser with a free account | [guide](guides/crmne/spotifast.md) |
 <!-- latest:end -->
 
 ## How it works

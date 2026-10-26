@@ -1,8 +1,62 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T10:58:01.992Z",
- "totalGuides": 1458,
+ "updatedAt": "2026-10-26T10:58:02.407Z",
+ "totalGuides": 1459,
  "items": [
+  {
+   "fullName": "DiaoOrg/awesome-supermimic",
+   "owner": "DiaoOrg",
+   "name": "awesome-supermimic",
+   "url": "https://github.com/DiaoOrg/awesome-supermimic",
+   "avatar": "https://avatars.githubusercontent.com/u/348109010?v=4",
+   "description": "A curated collection of SuperMimic implementations, extensions, demos, and resources.",
+   "language": null,
+   "topics": [
+    "awesome-list",
+    "humanoid-robotics",
+    "motion-tracking",
+    "supermimic",
+    "world-model"
+   ],
+   "license": "CC0-1.0",
+   "stars": 97,
+   "forks": 0,
+   "createdAt": "2026-10-26T02:49:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T10:58:02.406Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/DiaoOrg/awesome-supermimic",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/DiaoOrg/awesome-supermimic/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "CC0-1.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/DiaoOrg/awesome-supermimic\nWhat it says it does: \"A curated collection of SuperMimic implementations, extensions, demos, and resources.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:02.406Z"
+  },
   {
    "fullName": "yaojingang/GEOInflow",
    "owner": "yaojingang",
@@ -32488,69 +32542,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/TamaribaEmu/OpenPS2BIOS\nWhat it says it does: \"Experimental open-source replacement PlayStation 2 BIOS for emulators. MIT licensed.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T09:55:42.850Z"
-  },
-  {
-   "fullName": "DLSS-5-Swapper-DownIoad/.github",
-   "owner": "DLSS-5-Swapper-DownIoad",
-   "name": ".github",
-   "url": "https://github.com/DLSS-5-Swapper-DownIoad/.github",
-   "avatar": "https://avatars.githubusercontent.com/u/344126795?v=4",
-   "description": "DLSS 5 Swapper is a Windows utility intended to simplify the organization and management of supported graphics components used by PC games.",
-   "language": null,
-   "topics": [
-    "dlss",
-    "dlss-5-nvidia",
-    "dlss-5-swapper",
-    "dlss-5-swapper-download",
-    "dlss-5-swapper-windows-download",
-    "dlss5",
-    "dlss5-renodx",
-    "dlss5-reshade"
-   ],
-   "license": null,
-   "stars": 117,
-   "forks": 0,
-   "createdAt": "2026-10-17T22:55:32Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T09:55:42.168Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/DLSS-5-Swapper-DownIoad/.github",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/DLSS-5-Swapper-DownIoad/.github/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/DLSS-5-Swapper-DownIoad/.github\nWhat it says it does: \"DLSS 5 Swapper is a Windows utility intended to simplify the organization and management of supported graphics components used by PC games.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T09:55:42.168Z"
   }
  ],
  "levels": {
+  "read": 91,
   "account": 264,
   "heavy": 85,
-  "read": 91,
   "instant": 60
  }
 }

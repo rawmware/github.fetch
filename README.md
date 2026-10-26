@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1458 guides written so far · last update 2026-10-26 10:58 UTC_
+_1459 guides written so far · last update 2026-10-26 10:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DiaoOrg/awesome-supermimic](https://github.com/DiaoOrg/awesome-supermimic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diaoorg/awesome-supermimic.md) |
 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | Next.js app | Runs in the browser with a free account | [guide](guides/yaojingang/geoinflow.md) |
 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript project | Runs in the browser with a free account | [guide](guides/andyhuo520/digital-human-koubo.md) |
 | [subhashhhhhh/Lumen](https://github.com/subhashhhhhh/Lumen) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/subhashhhhhh/lumen.md) |
@@ -38,7 +39,6 @@ _1458 guides written so far · last update 2026-10-26 10:58 UTC_
 | [jadezane6634-ops/dsh-purge-flash](https://github.com/jadezane6634-ops/dsh-purge-flash) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jadezane6634-ops/dsh-purge-flash.md) |
 | [boyuchengz/canvas-mcp](https://github.com/boyuchengz/canvas-mcp) | Express app | Runs in a browser tab, no account needed | [guide](guides/boyuchengz/canvas-mcp.md) |
 | [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) | Go project | Runs in the browser with a free account | [guide](guides/drwhax/unfairplay.md) |
-| [lemiur/Game-Decompilation-Skill-For-Claude](https://github.com/lemiur/Game-Decompilation-Skill-For-Claude) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lemiur/game-decompilation-skill-for-claude.md) |
 <!-- latest:end -->
 
 ## How it works

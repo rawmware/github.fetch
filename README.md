@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1460 guides written so far · last update 2026-10-26 10:58 UTC_
+_1461 guides written so far · last update 2026-10-26 10:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [heydeer/pngdeer](https://github.com/heydeer/pngdeer) | Rust project | Runs in the browser with a free account | [guide](guides/heydeer/pngdeer.md) |
 | [ELU-Labs/dark-factory](https://github.com/ELU-Labs/dark-factory) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/elu-labs/dark-factory.md) |
 | [DiaoOrg/awesome-supermimic](https://github.com/DiaoOrg/awesome-supermimic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diaoorg/awesome-supermimic.md) |
 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | Next.js app | Runs in the browser with a free account | [guide](guides/yaojingang/geoinflow.md) |
@@ -38,7 +39,6 @@ _1460 guides written so far · last update 2026-10-26 10:58 UTC_
 | [loopj/tinysd](https://github.com/loopj/tinysd) | C project | Needs a real machine (or a GPU) to run | [guide](guides/loopj/tinysd.md) |
 | [Moessif/code-video-showcase](https://github.com/Moessif/code-video-showcase) | JavaScript project | Runs in the browser with a free account | [guide](guides/moessif/code-video-showcase.md) |
 | [jadezane6634-ops/dsh-purge-flash](https://github.com/jadezane6634-ops/dsh-purge-flash) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jadezane6634-ops/dsh-purge-flash.md) |
-| [boyuchengz/canvas-mcp](https://github.com/boyuchengz/canvas-mcp) | Express app | Runs in a browser tab, no account needed | [guide](guides/boyuchengz/canvas-mcp.md) |
 <!-- latest:end -->
 
 ## How it works

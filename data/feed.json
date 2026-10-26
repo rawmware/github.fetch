@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T21:40:20.527Z",
- "totalGuides": 1498,
+ "updatedAt": "2026-10-26T21:40:20.677Z",
+ "totalGuides": 1499,
  "items": [
+  {
+   "fullName": "qingjian-team/qingjian",
+   "owner": "qingjian-team",
+   "name": "qingjian",
+   "url": "https://github.com/qingjian-team/qingjian",
+   "avatar": "https://avatars.githubusercontent.com/u/325692219?v=4",
+   "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
+   "language": "Rust",
+   "topics": [
+    "chinese",
+    "chinese-input-method",
+    "english-learning",
+    "ime",
+    "input-method",
+    "japanese-learning",
+    "language-learning",
+    "language-model"
+   ],
+   "license": "GPL-3.0",
+   "stars": 7207,
+   "forks": 601,
+   "createdAt": "2026-09-07T08:25:30Z",
+   "branch": "main",
+   "homepage": "https://qingjian.app",
+   "addedAt": "2026-10-26T21:40:20.676Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/qingjian-team/qingjian?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/qingjian-team/qingjian",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/qingjian-team/qingjian/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/qingjian-team/qingjian.git\ncd qingjian\ncargo build --release\ncargo run",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/qingjian-team/qingjian\nWhat it says it does: \"青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T21:40:20.676Z"
+  },
   {
    "fullName": "miqdadbadjuber/anti-slop",
    "owner": "miqdadbadjuber",
@@ -32742,68 +32806,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/PlanetPhaseRaid/VoiceMod\nWhat it says it does: \"Voicemod 2025: Full working installer with advanced audio processing tools, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T01:48:49.360Z"
-  },
-  {
-   "fullName": "Eastmuamplify/Kontakt-8",
-   "owner": "Eastmuamplify",
-   "name": "Kontakt-8",
-   "url": "https://github.com/Eastmuamplify/Kontakt-8",
-   "avatar": "https://avatars.githubusercontent.com/u/296677423?v=4",
-   "description": "Kontakt 8: Pre-activated desktop edition with all features ready to run, offering a complete standalone setup.",
-   "language": null,
-   "topics": [
-    "kontakt",
-    "kontakt-full-library",
-    "kontakt-full-library-pc",
-    "orchestral",
-    "studio-recording",
-    "virtual-instrument",
-    "vst-plugins"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T10:03:07Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T01:48:49.213Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Eastmuamplify/Kontakt-8",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Eastmuamplify/Kontakt-8/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Eastmuamplify/Kontakt-8\nWhat it says it does: \"Kontakt 8: Pre-activated desktop edition with all features ready to run, offering a complete standalone setup.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T01:48:49.213Z"
   }
  ],
  "levels": {
-  "account": 285,
+  "account": 286,
   "heavy": 85,
-  "read": 72,
+  "read": 71,
   "instant": 58
  }
 }

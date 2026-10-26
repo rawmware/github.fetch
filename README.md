@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1455 guides written so far · last update 2026-10-26 04:56 UTC_
+_1456 guides written so far · last update 2026-10-26 04:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [subhashhhhhh/Lumen](https://github.com/subhashhhhhh/Lumen) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/subhashhhhhh/lumen.md) |
 | [egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic) | JavaScript project | Runs in the browser with a free account | [guide](guides/egoist/mygo-cloudmusic.md) |
 | [ACD421/PHP](https://github.com/ACD421/PHP) | Python project | Runs in the browser with a free account | [guide](guides/acd421/php.md) |
 | [aideveloper-web/chatgpt-free](https://github.com/aideveloper-web/chatgpt-free) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/chatgpt-free.md) |
@@ -38,7 +39,6 @@ _1455 guides written so far · last update 2026-10-26 04:56 UTC_
 | [lemiur/Game-Decompilation-Skill-For-Claude](https://github.com/lemiur/Game-Decompilation-Skill-For-Claude) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lemiur/game-decompilation-skill-for-claude.md) |
 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python project | Runs in the browser with a free account | [guide](guides/t3dotgg/tstack.md) |
 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/zichuanlan/agent-purge.md) |
-| [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) | Python project | Runs in the browser with a free account | [guide](guides/killaboi/stealmybitcoin-poc.md) |
 <!-- latest:end -->
 
 ## How it works

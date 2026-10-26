@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T04:56:05.687Z",
- "totalGuides": 1455,
+ "updatedAt": "2026-10-26T04:56:05.876Z",
+ "totalGuides": 1456,
  "items": [
+  {
+   "fullName": "subhashhhhhh/Lumen",
+   "owner": "subhashhhhhh",
+   "name": "Lumen",
+   "url": "https://github.com/subhashhhhhh/Lumen",
+   "avatar": "https://avatars.githubusercontent.com/u/79552953?v=4",
+   "description": "A photo gallery for Android with the smart features of Google Photos and iPhone Photos. Nothing leaves your phone.",
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "degoogled",
+    "gallery",
+    "jetpack-compose",
+    "kotlin",
+    "on-device-ai",
+    "photos",
+    "privacy"
+   ],
+   "license": "Apache-2.0",
+   "stars": 59,
+   "forks": 0,
+   "createdAt": "2026-10-24T16:23:38Z",
+   "branch": "main",
+   "homepage": "https://lumen-photos.app",
+   "addedAt": "2026-10-26T04:56:05.867Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/subhashhhhhh/Lumen?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/subhashhhhhh/Lumen",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/subhashhhhhh/Lumen/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/subhashhhhhh/Lumen.git\ncd Lumen",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/subhashhhhhh/Lumen\nWhat it says it does: \"A photo gallery for Android with the smart features of Google Photos and iPhone Photos. Nothing leaves your phone.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T04:56:05.867Z"
+  },
   {
    "fullName": "egoist/mygo-cloudmusic",
    "owner": "egoist",
@@ -32464,69 +32530,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/SentryOctopusEngage/Wise-Registrity\nWhat it says it does: \"Complete standalone setup for Wise Registrity 2024. Ready-to-run desktop utility with all features pre-activated, ensuring smooth...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T09:55:40.898Z"
-  },
-  {
-   "fullName": "RiggerVitalize/Uttorent",
-   "owner": "RiggerVitalize",
-   "name": "Uttorent",
-   "url": "https://github.com/RiggerVitalize/Uttorent",
-   "avatar": "https://avatars.githubusercontent.com/u/291375321?v=4",
-   "description": "Complete standalone setup for Uttorent 1.4, featuring all essential utilities and ready to run offline.",
-   "language": null,
-   "topics": [
-    "desktop-torrent-application",
-    "incogni-nordvpn-value",
-    "nordvpn-sc-locations",
-    "peer-to-peer-windows",
-    "thepiratebay",
-    "torrent-file-downloading-pc",
-    "torrent-github",
-    "utorrent-pro-advanced-features"
-   ],
-   "license": null,
-   "stars": 253,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:14:51Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T09:55:40.284Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/RiggerVitalize/Uttorent",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/RiggerVitalize/Uttorent/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/RiggerVitalize/Uttorent\nWhat it says it does: \"Complete standalone setup for Uttorent 1.4, featuring all essential utilities and ready to run offline.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T09:55:40.284Z"
   }
  ],
  "levels": {
+  "heavy": 85,
   "account": 263,
-  "read": 93,
-  "heavy": 84,
+  "read": 92,
   "instant": 60
  }
 }

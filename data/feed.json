@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T10:58:04.661Z",
- "totalGuides": 1464,
+ "updatedAt": "2026-10-26T10:58:05.233Z",
+ "totalGuides": 1465,
  "items": [
+  {
+   "fullName": "zgx949/ai-pojia",
+   "owner": "zgx949",
+   "name": "ai-pojia",
+   "url": "https://github.com/zgx949/ai-pojia",
+   "avatar": "https://avatars.githubusercontent.com/u/62885263?v=4",
+   "description": "用 AI 搞定麻烦事。面向小白的实用 Skills 与插件，附完整教程和示例。",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 69,
+   "forks": 113,
+   "createdAt": "2026-10-24T03:17:43Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T10:58:05.232Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/zgx949/ai-pojia/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zgx949/ai-pojia?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zgx949/ai-pojia",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zgx949/ai-pojia/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/zgx949/ai-pojia.git\ncd ai-pojia",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zgx949/ai-pojia\nWhat it says it does: \"用 AI 搞定麻烦事。面向小白的实用 Skills 与插件，附完整教程和示例。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:05.232Z"
+  },
   {
    "fullName": "anonnerdfrenzy/survival-llm",
    "owner": "anonnerdfrenzy",
@@ -32509,67 +32571,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/prismmizukageconquer/Windows-Optimizer\nWhat it says it does: \"Windows Optimizer 2025: Full working installer with advanced system tweaks and enhancements ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T13:55:08.440Z"
-  },
-  {
-   "fullName": "bandwatchmanriddle/Clion",
-   "owner": "bandwatchmanriddle",
-   "name": "Clion",
-   "url": "https://github.com/bandwatchmanriddle/Clion",
-   "avatar": "https://avatars.githubusercontent.com/u/296685242?v=4",
-   "description": "Clion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "clion-2026",
-    "clion-download-windows",
-    "cmake-ide",
-    "cpp-ide",
-    "jetbrains-clion",
-    "jetbrains-clion-install-setup-2026"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T10:01:14Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T13:55:08.284Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/bandwatchmanriddle/Clion",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/bandwatchmanriddle/Clion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/bandwatchmanriddle/Clion\nWhat it says it does: \"Clion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T13:55:08.284Z"
   }
  ],
  "levels": {
-  "account": 266,
+  "account": 267,
   "heavy": 86,
-  "read": 88,
+  "read": 87,
   "instant": 60
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1464 guides written so far · last update 2026-10-26 10:58 UTC_
+_1465 guides written so far · last update 2026-10-26 10:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zgx949/ai-pojia](https://github.com/zgx949/ai-pojia) | Python project | Runs in the browser with a free account | [guide](guides/zgx949/ai-pojia.md) |
 | [anonnerdfrenzy/survival-llm](https://github.com/anonnerdfrenzy/survival-llm) | Python project | Runs in the browser with a free account | [guide](guides/anonnerdfrenzy/survival-llm.md) |
 | [kuscholar/iDeck](https://github.com/kuscholar/iDeck) | C project | Needs a real machine (or a GPU) to run | [guide](guides/kuscholar/ideck.md) |
 | [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mxhm11cr/linuxrunner.md) |
@@ -38,7 +39,6 @@ _1464 guides written so far · last update 2026-10-26 10:58 UTC_
 | [subhashhhhhh/Lumen](https://github.com/subhashhhhhh/Lumen) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/subhashhhhhh/lumen.md) |
 | [egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic) | JavaScript project | Runs in the browser with a free account | [guide](guides/egoist/mygo-cloudmusic.md) |
 | [ACD421/PHP](https://github.com/ACD421/PHP) | Python project | Runs in the browser with a free account | [guide](guides/acd421/php.md) |
-| [aideveloper-web/chatgpt-free](https://github.com/aideveloper-web/chatgpt-free) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/chatgpt-free.md) |
 <!-- latest:end -->
 
 ## How it works

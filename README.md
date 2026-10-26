@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1440 guides written so far · last update 2026-10-26 00:06 UTC_
+_1441 guides written so far · last update 2026-10-26 00:06 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [joeseesun/qiaomu-simpleui](https://github.com/joeseesun/qiaomu-simpleui) | Lua project | Runs in the browser with a free account | [guide](guides/joeseesun/qiaomu-simpleui.md) |
 | [mochiiwuff/capri-desktop](https://github.com/mochiiwuff/capri-desktop) | JavaScript project | Runs in the browser with a free account | [guide](guides/mochiiwuff/capri-desktop.md) |
 | [kuraeow/ultratears](https://github.com/kuraeow/ultratears) | C project | Needs a real machine (or a GPU) to run | [guide](guides/kuraeow/ultratears.md) |
 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust project | Runs in the browser with a free account | [guide](guides/pollen-robotics/microduck.md) |
@@ -38,7 +39,6 @@ _1440 guides written so far · last update 2026-10-26 00:06 UTC_
 | [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine) | Python project | Runs in the browser with a free account | [guide](guides/hevnsnt/cvengine.md) |
 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Node command-line tool | Runs in the browser with a free account | [guide](guides/hypit-ai/hypit.md) |
 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | TypeScript project | Runs in the browser with a free account | [guide](guides/anywhere-labs/dsh-desktop.md) |
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/boykopovar/anyps5.md) |
 <!-- latest:end -->
 
 ## How it works

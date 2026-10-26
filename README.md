@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1462 guides written so far · last update 2026-10-26 10:58 UTC_
+_1463 guides written so far · last update 2026-10-26 10:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kuscholar/iDeck](https://github.com/kuscholar/iDeck) | C project | Needs a real machine (or a GPU) to run | [guide](guides/kuscholar/ideck.md) |
 | [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner) | C project | Needs a real machine (or a GPU) to run | [guide](guides/mxhm11cr/linuxrunner.md) |
 | [heydeer/pngdeer](https://github.com/heydeer/pngdeer) | Rust project | Runs in the browser with a free account | [guide](guides/heydeer/pngdeer.md) |
 | [ELU-Labs/dark-factory](https://github.com/ELU-Labs/dark-factory) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/elu-labs/dark-factory.md) |
@@ -38,7 +39,6 @@ _1462 guides written so far · last update 2026-10-26 10:58 UTC_
 | [ACD421/PHP](https://github.com/ACD421/PHP) | Python project | Runs in the browser with a free account | [guide](guides/acd421/php.md) |
 | [aideveloper-web/chatgpt-free](https://github.com/aideveloper-web/chatgpt-free) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aideveloper-web/chatgpt-free.md) |
 | [loopj/tinysd](https://github.com/loopj/tinysd) | C project | Needs a real machine (or a GPU) to run | [guide](guides/loopj/tinysd.md) |
-| [Moessif/code-video-showcase](https://github.com/Moessif/code-video-showcase) | JavaScript project | Runs in the browser with a free account | [guide](guides/moessif/code-video-showcase.md) |
 <!-- latest:end -->
 
 ## How it works

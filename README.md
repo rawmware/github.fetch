@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1480 guides written so far · last update 2026-10-26 17:16 UTC_
+_1481 guides written so far · last update 2026-10-26 17:16 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kingcharleslzy-ai/dsh-purge.md) |
 | [EricJujianZou/rederive](https://github.com/EricJujianZou/rederive) | Python project | Runs in the browser with a free account | [guide](guides/ericjujianzou/rederive.md) |
 | [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) | Python project | Runs in the browser with a free account | [guide](guides/huaxialucaicaizi/ai-startup-skills.md) |
 | [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Python project | Runs in the browser with a free account | [guide](guides/motionsites-ai/claude-skill.md) |
@@ -38,7 +39,6 @@ _1480 guides written so far · last update 2026-10-26 17:16 UTC_
 | [ttom795/Skyrim_Android](https://github.com/ttom795/Skyrim_Android) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ttom795/skyrim_android.md) |
 | [smhanov/agentloop](https://github.com/smhanov/agentloop) | Go project | Runs in the browser with a free account | [guide](guides/smhanov/agentloop.md) |
 | [assetnote/node2shell-scanner](https://github.com/assetnote/node2shell-scanner) | Python project | Runs in the browser with a free account | [guide](guides/assetnote/node2shell-scanner.md) |
-| [ccch1mneyyy/dsh-go](https://github.com/ccch1mneyyy/dsh-go) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ccch1mneyyy/dsh-go.md) |
 <!-- latest:end -->
 
 ## How it works

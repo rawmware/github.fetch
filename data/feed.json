@@ -1,8 +1,87 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T17:16:01.698Z",
- "totalGuides": 1486,
+ "updatedAt": "2026-10-26T17:16:01.974Z",
+ "totalGuides": 1487,
  "items": [
+  {
+   "fullName": "zhu1090093659/dsh-web",
+   "owner": "zhu1090093659",
+   "name": "dsh-web",
+   "url": "https://github.com/zhu1090093659/dsh-web",
+   "avatar": "https://avatars.githubusercontent.com/u/46916148?v=4",
+   "description": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+   "language": "TypeScript",
+   "topics": [
+    "cordis",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-web",
+    "dsh-web-ui"
+   ],
+   "license": "Apache-2.0",
+   "stars": 9577,
+   "forks": 592,
+   "createdAt": "2026-08-12T05:15:20Z",
+   "branch": "dev",
+   "homepage": "https://dsh-market.com",
+   "addedAt": "2026-10-26T17:16:01.973Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/zhu1090093659/dsh-web",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/zhu1090093659/dsh-web",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zhu1090093659/dsh-web?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zhu1090093659/dsh-web",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zhu1090093659/dsh-web/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pnpm install",
+   "run": null,
+   "notes": [
+    "It's a monorepo (several packages in one). Check the README for which folder to start in.",
+    "Uses playwright, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/zhu1090093659/dsh-web.git\ncd dsh-web\npnpm install",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zhu1090093659/dsh-web\nWhat it says it does: \"DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T17:16:01.973Z"
+  },
   {
    "fullName": "YuJunZhiXue/dsh-purge",
    "owner": "YuJunZhiXue",
@@ -32653,68 +32732,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/VortexCuckoo/Autodesk-Inventor\nWhat it says it does: \"Autodesk Inventor 2025 complete standalone setup. Ready-to-run desktop installation with full features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T21:46:06.597Z"
-  },
-  {
-   "fullName": "marcus-moorelab91a4/fps-optimizer-rust",
-   "owner": "marcus-moorelab91a4",
-   "name": "fps-optimizer-rust",
-   "url": "https://github.com/marcus-moorelab91a4/fps-optimizer-rust",
-   "avatar": "https://avatars.githubusercontent.com/u/279153073?v=4",
-   "description": "Rust-based FPS optimizer for games: frame-rate stability, lower input latency, process priority tuning, memory cleanup and power-plan presets. Lightweight, reversible, open-source performance tool for Windows.",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 106,
-   "forks": 0,
-   "createdAt": "2026-10-18T19:35:09Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T21:46:06.427Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/marcus-moorelab91a4/fps-optimizer-rust/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/marcus-moorelab91a4/fps-optimizer-rust?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/marcus-moorelab91a4/fps-optimizer-rust",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/marcus-moorelab91a4/fps-optimizer-rust/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": "python run.py",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/marcus-moorelab91a4/fps-optimizer-rust.git\ncd fps-optimizer-rust\npip install -r requirements.txt\npython run.py",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/marcus-moorelab91a4/fps-optimizer-rust\nWhat it says it does: \"Rust-based FPS optimizer for games: frame-rate stability, lower input latency, process priority tuning, memory cleanup and power-plan presets. Lightweight, reversible, open-source performance tool for Windows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T21:46:06.427Z"
   }
  ],
  "levels": {

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1484 guides written so far · last update 2026-10-26 17:16 UTC_
+_1485 guides written so far · last update 2026-10-26 17:16 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | JavaScript project | Runs in the browser with a free account | [guide](guides/genspark-ai/genoffice.md) |
 | [jub0t/Concat](https://github.com/jub0t/Concat) | Rust project | Runs in the browser with a free account | [guide](guides/jub0t/concat.md) |
 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | React app | Runs in the browser with a free account | [guide](guides/dataelement/dsh-desktop.md) |
 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | Next.js app | Runs in the browser with a free account | [guide](guides/amosblomqvist/learnharness.md) |
@@ -38,7 +39,6 @@ _1484 guides written so far · last update 2026-10-26 17:16 UTC_
 | [Patch-gg/trompe](https://github.com/Patch-gg/trompe) | Vite app | Runs in the browser with a free account | [guide](guides/patch-gg/trompe.md) |
 | [piermark/omarchytv](https://github.com/piermark/omarchytv) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/piermark/omarchytv.md) |
 | [athcagithub/postiz-leaked](https://github.com/athcagithub/postiz-leaked) | Next.js app | Runs in the browser with a free account | [guide](guides/athcagithub/postiz-leaked.md) |
-| [andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/andriu-kun/-wildrig-multi.md) |
 <!-- latest:end -->
 
 ## How it works

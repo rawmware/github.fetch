@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T17:16:00.966Z",
- "totalGuides": 1483,
+ "updatedAt": "2026-10-26T17:16:01.194Z",
+ "totalGuides": 1484,
  "items": [
+  {
+   "fullName": "jub0t/Concat",
+   "owner": "jub0t",
+   "name": "Concat",
+   "url": "https://github.com/jub0t/Concat",
+   "avatar": "https://avatars.githubusercontent.com/u/57962439?v=4",
+   "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
+   "language": "Rust",
+   "topics": [
+    "ffmpeg",
+    "free-video-editor",
+    "model-context-protocol",
+    "non-linear-editor",
+    "offline-first",
+    "open-source-video-editor",
+    "self-hosted",
+    "video-editing"
+   ],
+   "license": "AGPL-3.0",
+   "stars": 11719,
+   "forks": 1438,
+   "createdAt": "2026-08-25T18:34:47Z",
+   "branch": "main",
+   "homepage": "https://concat.standalones.org",
+   "addedAt": "2026-10-26T17:16:01.193Z",
+   "stack": {
+    "kind": "other",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/jub0t/Concat?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/jub0t/Concat",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/jub0t/Concat/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/jub0t/Concat.git\ncd Concat",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/jub0t/Concat\nWhat it says it does: \"The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T17:16:01.193Z"
+  },
   {
    "fullName": "dataelement/dsh-desktop",
    "owner": "dataelement",
@@ -32612,67 +32676,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/MixedShrimpVanquish/Ads-Blocker\nWhat it says it does: \"Ads Blocker 2025: Full working installer with enhanced blocking capabilities and user-friendly interface.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T19:28:12.721Z"
-  },
-  {
-   "fullName": "squareswimmeryell/Easy-Worship",
-   "owner": "squareswimmeryell",
-   "name": "Easy-Worship",
-   "url": "https://github.com/squareswimmeryell/Easy-Worship",
-   "avatar": "https://avatars.githubusercontent.com/u/296688432?v=4",
-   "description": "Easy Worship 2025: Full working installer for professional desktop software utility configuration, ready to run out of the box.",
-   "language": null,
-   "topics": [
-    "church-presentation",
-    "easyworship",
-    "easyworship-pro",
-    "praise-worship",
-    "worship",
-    "worship-lyrics"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T14:05:30Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T19:28:12.549Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/squareswimmeryell/Easy-Worship",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/squareswimmeryell/Easy-Worship/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/squareswimmeryell/Easy-Worship\nWhat it says it does: \"Easy Worship 2025: Full working installer for professional desktop software utility configuration, ready to run out of the box.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T19:28:12.549Z"
   }
  ],
  "levels": {
-  "account": 278,
+  "account": 279,
   "heavy": 86,
-  "read": 78,
+  "read": 77,
   "instant": 58
  }
 }

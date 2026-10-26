@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T10:58:06.302Z",
- "totalGuides": 1467,
+ "updatedAt": "2026-10-26T10:58:06.507Z",
+ "totalGuides": 1468,
  "items": [
+  {
+   "fullName": "lwh0630/TokenBar",
+   "owner": "lwh0630",
+   "name": "TokenBar",
+   "url": "https://github.com/lwh0630/TokenBar",
+   "avatar": "https://avatars.githubusercontent.com/u/79432134?v=4",
+   "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+   "language": "Dart",
+   "topics": [
+    "ai",
+    "android",
+    "claude",
+    "codex",
+    "cursor",
+    "dart",
+    "flutter",
+    "ios"
+   ],
+   "license": "MIT",
+   "stars": 64,
+   "forks": 6,
+   "createdAt": "2026-10-24T07:30:31Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T10:58:06.499Z",
+   "stack": {
+    "kind": "docker",
+    "label": "Docker app",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/lwh0630/TokenBar?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/lwh0630/TokenBar",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/lwh0630/TokenBar/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "docker compose up",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/lwh0630/TokenBar.git\ncd TokenBar\ndocker compose up",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/lwh0630/TokenBar\nWhat it says it does: \"Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:06.499Z"
+  },
   {
    "fullName": "jacke-pp/ai-wallet-binance",
    "owner": "jacke-pp",
@@ -32538,69 +32602,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Icontainertia/Adobe-Substance-3d\nWhat it says it does: \"Creative Studio App 2026 – Full working installer with enhanced security protocols for secure digital asset deployment.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T13:55:09.013Z"
-  },
-  {
-   "fullName": "DegreeSeniorExcite33/IDM",
-   "owner": "DegreeSeniorExcite33",
-   "name": "IDM",
-   "url": "https://github.com/DegreeSeniorExcite33/IDM",
-   "avatar": "https://avatars.githubusercontent.com/u/296672759?v=4",
-   "description": "Idm 2025: Complete standalone setup with all configurations pre-loaded, ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "idm-crack-2026",
-    "idm-hack",
-    "idm-latest-build",
-    "idm-navigator",
-    "idmfront",
-    "idmlinux",
-    "internet-download",
-    "internet-download-manager-crack-2026"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T10:02:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T13:55:08.847Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/DegreeSeniorExcite33/IDM",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/DegreeSeniorExcite33/IDM/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/DegreeSeniorExcite33/IDM\nWhat it says it does: \"Idm 2025: Complete standalone setup with all configurations pre-loaded, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T13:55:08.847Z"
   }
  ],
  "levels": {
-  "account": 269,
+  "account": 270,
   "heavy": 86,
-  "read": 85,
+  "read": 84,
   "instant": 60
  }
 }

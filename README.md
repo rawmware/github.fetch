@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1467 guides written so far · last update 2026-10-26 10:58 UTC_
+_1468 guides written so far · last update 2026-10-26 10:58 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar) | Docker app | Runs in the browser with a free account | [guide](guides/lwh0630/tokenbar.md) |
 | [jacke-pp/ai-wallet-binance](https://github.com/jacke-pp/ai-wallet-binance) | Node command-line tool | Runs in the browser with a free account | [guide](guides/jacke-pp/ai-wallet-binance.md) |
 | [Jestions-dev/BlueFatFish](https://github.com/Jestions-dev/BlueFatFish) | JavaScript project | Runs in the browser with a free account | [guide](guides/jestions-dev/bluefatfish.md) |
 | [zgx949/ai-pojia](https://github.com/zgx949/ai-pojia) | Python project | Runs in the browser with a free account | [guide](guides/zgx949/ai-pojia.md) |
@@ -38,7 +39,6 @@ _1467 guides written so far · last update 2026-10-26 10:58 UTC_
 | [DiaoOrg/awesome-supermimic](https://github.com/DiaoOrg/awesome-supermimic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diaoorg/awesome-supermimic.md) |
 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | Next.js app | Runs in the browser with a free account | [guide](guides/yaojingang/geoinflow.md) |
 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript project | Runs in the browser with a free account | [guide](guides/andyhuo520/digital-human-koubo.md) |
-| [subhashhhhhh/Lumen](https://github.com/subhashhhhhh/Lumen) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/subhashhhhhh/lumen.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T00:06:07.396Z",
- "totalGuides": 1442,
+ "updatedAt": "2026-10-26T00:06:07.931Z",
+ "totalGuides": 1443,
  "items": [
+  {
+   "fullName": "Aaryan-Kapoor/english-rs",
+   "owner": "Aaryan-Kapoor",
+   "name": "english-rs",
+   "url": "https://github.com/Aaryan-Kapoor/english-rs",
+   "avatar": "https://avatars.githubusercontent.com/u/85222283?v=4",
+   "description": "English, rewritten in Rust: grammar as trait bounds, pronouns as borrows, and englishc, a compiler with rustc-style diagnostics for prose",
+   "language": "Rust",
+   "topics": [],
+   "license": "MIT",
+   "stars": 65,
+   "forks": 0,
+   "createdAt": "2026-10-25T00:50:31Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T00:06:07.930Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Aaryan-Kapoor/english-rs?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Aaryan-Kapoor/english-rs",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Aaryan-Kapoor/english-rs/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Aaryan-Kapoor/english-rs.git\ncd english-rs\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Aaryan-Kapoor/english-rs\nWhat it says it does: \"English, rewritten in Rust: grammar as trait bounds, pronouns as borrows, and englishc, a compiler with rustc-style diagnostics for prose\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T00:06:07.930Z"
+  },
   {
    "fullName": "Nebelung-cloud/glyph-rice",
    "owner": "Nebelung-cloud",
@@ -32374,69 +32429,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Shardgrureduce/Wondshare-Recoverit\nWhat it says it does: \"Pre-activated desktop edition of Wondshare Recoverit, ready to run with all features enabled.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T05:43:14.549Z"
-  },
-  {
-   "fullName": "ScorpionPlan/Wise-Care",
-   "owner": "ScorpionPlan",
-   "name": "Wise-Care",
-   "url": "https://github.com/ScorpionPlan/Wise-Care",
-   "avatar": "https://avatars.githubusercontent.com/u/291373148?v=4",
-   "description": "Wise Care 1.8.3 complete standalone setup ready to run, offering enhanced system optimization and maintenance tools for desktop users.",
-   "language": null,
-   "topics": [
-    "desktop-wise-care-365",
-    "disk-space-recovery-windows",
-    "download-wise-care-365",
-    "installer-wise-care-365",
-    "pc-wise-care-365",
-    "setup-wise-care-365",
-    "software-wise-care-365",
-    "system-health-monitor-windows"
-   ],
-   "license": null,
-   "stars": 255,
-   "forks": 0,
-   "createdAt": "2026-10-17T19:15:06Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T05:43:14.382Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ScorpionPlan/Wise-Care",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ScorpionPlan/Wise-Care/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ScorpionPlan/Wise-Care\nWhat it says it does: \"Wise Care 1.8.3 complete standalone setup ready to run, offering enhanced system optimization and maintenance tools for desktop users.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T05:43:14.382Z"
   }
  ],
  "levels": {
-  "account": 254,
+  "account": 255,
   "heavy": 83,
   "instant": 59,
-  "read": 104
+  "read": 103
  }
 }

@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-26T10:58:05.233Z",
- "totalGuides": 1465,
+ "updatedAt": "2026-10-26T10:58:05.857Z",
+ "totalGuides": 1466,
  "items": [
+  {
+   "fullName": "Jestions-dev/BlueFatFish",
+   "owner": "Jestions-dev",
+   "name": "BlueFatFish",
+   "url": "https://github.com/Jestions-dev/BlueFatFish",
+   "avatar": "https://avatars.githubusercontent.com/u/272715639?v=4",
+   "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
+   "language": "JavaScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 67,
+   "forks": 1,
+   "createdAt": "2026-10-24T12:03:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-26T10:58:05.856Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Jestions-dev/BlueFatFish?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Jestions-dev/BlueFatFish",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Jestions-dev/BlueFatFish/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Jestions-dev/BlueFatFish.git\ncd BlueFatFish",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Jestions-dev/BlueFatFish\nWhat it says it does: \"蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-26T10:58:05.856Z"
+  },
   {
    "fullName": "zgx949/ai-pojia",
    "owner": "zgx949",
@@ -32514,69 +32569,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Surfacepleblock/Autodesk-CFD\nWhat it says it does: \"Autodesk Cfd 2025: Complete standalone setup with all features unlocked and ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-18T13:55:08.648Z"
-  },
-  {
-   "fullName": "prismmizukageconquer/Windows-Optimizer",
-   "owner": "prismmizukageconquer",
-   "name": "Windows-Optimizer",
-   "url": "https://github.com/prismmizukageconquer/Windows-Optimizer",
-   "avatar": "https://avatars.githubusercontent.com/u/296683355?v=4",
-   "description": "Windows Optimizer 2025: Full working installer with advanced system tweaks and enhancements ready to run.",
-   "language": null,
-   "topics": [
-    "fps-booster-no-lag",
-    "frame-rate-boost",
-    "game-booster-free",
-    "optimize-windows",
-    "optimizer-tool",
-    "speed-up-pc",
-    "unattendedwininstall",
-    "windows-10-optimizer"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-18T10:06:23Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-18T13:55:08.440Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/prismmizukageconquer/Windows-Optimizer",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/prismmizukageconquer/Windows-Optimizer/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/prismmizukageconquer/Windows-Optimizer\nWhat it says it does: \"Windows Optimizer 2025: Full working installer with advanced system tweaks and enhancements ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-18T13:55:08.440Z"
   }
  ],
  "levels": {
-  "account": 267,
+  "account": 268,
   "heavy": 86,
-  "read": 87,
+  "read": 86,
   "instant": 60
  }
 }

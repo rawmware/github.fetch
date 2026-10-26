@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1489 guides written so far · last update 2026-10-26 21:40 UTC_
+_1490 guides written so far · last update 2026-10-26 21:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DLSS-5-Swapper-Portable/.github](https://github.com/DLSS-5-Swapper-Portable/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-portable/.github.md) |
 | [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | TypeScript project | Runs in the browser with a free account | [guide](guides/blakeandersonw/ai-app-playbook.md) |
 | [crmne/spotifast](https://github.com/crmne/spotifast) | Rust project | Runs in the browser with a free account | [guide](guides/crmne/spotifast.md) |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | JavaScript project | Runs in the browser with a free account | [guide](guides/zhu1090093659/dsh-web.md) |
@@ -38,7 +39,6 @@ _1489 guides written so far · last update 2026-10-26 21:40 UTC_
 | [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kingcharleslzy-ai/dsh-purge.md) |
 | [EricJujianZou/rederive](https://github.com/EricJujianZou/rederive) | Python project | Runs in the browser with a free account | [guide](guides/ericjujianzou/rederive.md) |
 | [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) | Python project | Runs in the browser with a free account | [guide](guides/huaxialucaicaizi/ai-startup-skills.md) |
-| [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Python project | Runs in the browser with a free account | [guide](guides/motionsites-ai/claude-skill.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1448 guides written so far · last update 2026-10-26 04:56 UTC_
+_1449 guides written so far · last update 2026-10-26 04:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [boyuchengz/canvas-mcp](https://github.com/boyuchengz/canvas-mcp) | Express app | Runs in a browser tab, no account needed | [guide](guides/boyuchengz/canvas-mcp.md) |
 | [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) | Go project | Runs in the browser with a free account | [guide](guides/drwhax/unfairplay.md) |
 | [lemiur/Game-Decompilation-Skill-For-Claude](https://github.com/lemiur/Game-Decompilation-Skill-For-Claude) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lemiur/game-decompilation-skill-for-claude.md) |
 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python project | Runs in the browser with a free account | [guide](guides/t3dotgg/tstack.md) |
@@ -38,7 +39,6 @@ _1448 guides written so far · last update 2026-10-26 04:56 UTC_
 | [mochiiwuff/capri-desktop](https://github.com/mochiiwuff/capri-desktop) | JavaScript project | Runs in the browser with a free account | [guide](guides/mochiiwuff/capri-desktop.md) |
 | [kuraeow/ultratears](https://github.com/kuraeow/ultratears) | C project | Needs a real machine (or a GPU) to run | [guide](guides/kuraeow/ultratears.md) |
 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust project | Runs in the browser with a free account | [guide](guides/pollen-robotics/microduck.md) |
-| [peach-mitao/peach](https://github.com/peach-mitao/peach) | JavaScript project | Runs in the browser with a free account | [guide](guides/peach-mitao/peach.md) |
 <!-- latest:end -->
 
 ## How it works

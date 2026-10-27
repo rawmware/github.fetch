@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T06:09:55.805Z",
- "totalGuides": 1519,
+ "updatedAt": "2026-10-27T06:09:56.163Z",
+ "totalGuides": 1520,
  "items": [
+  {
+   "fullName": "cvg/FlexGlue",
+   "owner": "cvg",
+   "name": "FlexGlue",
+   "url": "https://github.com/cvg/FlexGlue",
+   "avatar": "https://avatars.githubusercontent.com/u/840224?v=4",
+   "description": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 53,
+   "forks": 1,
+   "createdAt": "2026-10-25T23:13:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T06:09:56.162Z",
+   "stack": {
+    "kind": "notebook",
+    "label": "Jupyter notebook",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "colab",
+   "launch": [
+    {
+     "id": "colab",
+     "label": "Colab: demo.ipynb",
+     "url": "https://colab.research.google.com/github/cvg/FlexGlue/blob/main/demo.ipynb",
+     "needs": "free Google account",
+     "note": "Runs the notebook on Google's computers, with a free GPU if you need one."
+    },
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/cvg/FlexGlue/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/cvg/FlexGlue?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/cvg/FlexGlue",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/cvg/FlexGlue/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/cvg/FlexGlue.git\ncd FlexGlue\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/cvg/FlexGlue\nWhat it says it does: \"FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Colab: demo.ipynb, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T06:09:56.162Z"
+  },
   {
    "fullName": "Esmerubphire/astrbot_plugin_feiyu_voice",
    "owner": "Esmerubphire",
@@ -32847,69 +32916,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/stadiummidgeguide41/for-everyone\nWhat it says it does: \"After Effects: Full working installer with secure digital asset deployment pipeline, ready for immediate use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T14:34:50.408Z"
-  },
-  {
-   "fullName": "horncanaryinterest93/BorisFX",
-   "owner": "horncanaryinterest93",
-   "name": "BorisFX",
-   "url": "https://github.com/horncanaryinterest93/BorisFX",
-   "avatar": "https://avatars.githubusercontent.com/u/295650243?v=4",
-   "description": "Professional Borisfx visual effects suite 2026 - Full working installer with complete standalone setup, ready to run.",
-   "language": null,
-   "topics": [
-    "bcc-plugins-effects",
-    "boris-fx-plugin-sapphire",
-    "boris-fx-sapphire",
-    "borisfx",
-    "borisfx-plugin-free",
-    "free-boris-fx",
-    "plugins-after-effects",
-    "sapphire-download"
-   ],
-   "license": null,
-   "stars": 115,
-   "forks": 0,
-   "createdAt": "2026-10-19T10:52:15Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T14:34:50.215Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/horncanaryinterest93/BorisFX",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/horncanaryinterest93/BorisFX/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/horncanaryinterest93/BorisFX\nWhat it says it does: \"Professional Borisfx visual effects suite 2026 - Full working installer with complete standalone setup, ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T14:34:50.215Z"
   }
  ],
  "levels": {
-  "account": 293,
+  "account": 294,
   "instant": 60,
   "heavy": 87,
-  "read": 60
+  "read": 59
  }
 }

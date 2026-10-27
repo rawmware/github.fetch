@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1504 guides written so far · last update 2026-10-27 00:53 UTC_
+_1505 guides written so far · last update 2026-10-27 00:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yy838255939/duozhi-workbench](https://github.com/yy838255939/duozhi-workbench) | Vite app | Runs in the browser with a free account | [guide](guides/yy838255939/duozhi-workbench.md) |
 | [Clair-ChenShoujie/Babeldoc4GPT](https://github.com/Clair-ChenShoujie/Babeldoc4GPT) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clair-chenshoujie/babeldoc4gpt.md) |
 | [ngxson/esp32-usb-to-airprint](https://github.com/ngxson/esp32-usb-to-airprint) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ngxson/esp32-usb-to-airprint.md) |
 | [daniellockyer/dstack](https://github.com/daniellockyer/dstack) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daniellockyer/dstack.md) |
@@ -38,7 +39,6 @@ _1504 guides written so far · last update 2026-10-27 00:53 UTC_
 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | Rust project | Runs in the browser with a free account | [guide](guides/deeplethe/utopia.md) |
 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | React app | Runs in the browser with a free account | [guide](guides/dsh-market/dsh-market.md) |
 | [OrchardLinux/omarchy-a](https://github.com/OrchardLinux/omarchy-a) | QML project | Runs in the browser with a free account | [guide](guides/orchardlinux/omarchy-a.md) |
-| [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) | Python project | Runs in the browser with a free account | [guide](guides/martinkeith700/ruyijs.md) |
 <!-- latest:end -->
 
 ## How it works

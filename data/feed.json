@@ -1,8 +1,89 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T00:53:21.688Z",
- "totalGuides": 1504,
+ "updatedAt": "2026-10-27T00:53:22.013Z",
+ "totalGuides": 1505,
  "items": [
+  {
+   "fullName": "yy838255939/duozhi-workbench",
+   "owner": "yy838255939",
+   "name": "duozhi-workbench",
+   "url": "https://github.com/yy838255939/duozhi-workbench",
+   "avatar": "https://avatars.githubusercontent.com/u/161950797?v=4",
+   "description": "Local multi-AI desktop workspace with official website panels, shared prompts and group collaboration.",
+   "language": "TypeScript",
+   "topics": [
+    "ai-chat",
+    "chinese",
+    "desktop-app",
+    "electron",
+    "gpl-3",
+    "multi-ai"
+   ],
+   "license": "GPL-3.0",
+   "stars": 62,
+   "forks": 3,
+   "createdAt": "2026-10-25T17:12:57Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T00:53:22.012Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/yy838255939/duozhi-workbench",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`yarn dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/yy838255939/duozhi-workbench",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/yy838255939/duozhi-workbench?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/yy838255939/duozhi-workbench",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/yy838255939/duozhi-workbench/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "yarn",
+   "run": "yarn dev",
+   "notes": [
+    "Uses electron, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/yy838255939/duozhi-workbench.git\ncd duozhi-workbench\nyarn\nyarn dev",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/yy838255939/duozhi-workbench\nWhat it says it does: \"Local multi-AI desktop workspace with official website panels, shared prompts and group collaboration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T00:53:22.012Z"
+  },
   {
    "fullName": "Clair-ChenShoujie/Babeldoc4GPT",
    "owner": "Clair-ChenShoujie",
@@ -32728,69 +32809,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/wirecrewmankiln/Serato-DJ-Pro\nWhat it says it does: \"Serato DJ Pro 2025: Ready-to-run desktop installer with all features unlocked and fully activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T06:59:02.573Z"
-  },
-  {
-   "fullName": "spectersparrowsubway/Display-Fusion",
-   "owner": "spectersparrowsubway",
-   "name": "Display-Fusion",
-   "url": "https://github.com/spectersparrowsubway/Display-Fusion",
-   "avatar": "https://avatars.githubusercontent.com/u/296684685?v=4",
-   "description": "Display Fusion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "desktop-tools",
-    "display-management",
-    "displayfusion",
-    "displayfusion-2026",
-    "displayfusion-multi-monitor-install-windows-2026",
-    "displayfusion-pro",
-    "displayfusion-setup",
-    "dual-monitor"
-   ],
-   "license": null,
-   "stars": 96,
-   "forks": 0,
-   "createdAt": "2026-10-18T14:05:13Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T06:59:02.302Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/spectersparrowsubway/Display-Fusion",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/spectersparrowsubway/Display-Fusion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/spectersparrowsubway/Display-Fusion\nWhat it says it does: \"Display Fusion 2025: Complete standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T06:59:02.302Z"
   }
  ],
  "levels": {
-  "read": 70,
+  "account": 289,
+  "read": 69,
   "heavy": 85,
-  "account": 288,
   "instant": 57
  }
 }

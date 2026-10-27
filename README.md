@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1501 guides written so far · last update 2026-10-27 00:53 UTC_
+_1502 guides written so far · last update 2026-10-27 00:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [daniellockyer/dstack](https://github.com/daniellockyer/dstack) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daniellockyer/dstack.md) |
 | [0xSero/all-historical-evidence-of-jesus-christ](https://github.com/0xSero/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/0xsero/all-historical-evidence-of-jesus-christ.md) |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | JavaScript project | Runs in the browser with a free account | [guide](guides/copilotkit/openbot.md) |
 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | Rust project | Runs in the browser with a free account | [guide](guides/qingjian-team/qingjian.md) |
@@ -38,7 +39,6 @@ _1501 guides written so far · last update 2026-10-27 00:53 UTC_
 | [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) | Python project | Runs in the browser with a free account | [guide](guides/martinkeith700/ruyijs.md) |
 | [martina9516/uncensored-ai-models](https://github.com/martina9516/uncensored-ai-models) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/martina9516/uncensored-ai-models.md) |
 | [Andreas698/glm-5.3-uncensored](https://github.com/Andreas698/glm-5.3-uncensored) | Python project | Runs in the browser with a free account | [guide](guides/andreas698/glm-5.3-uncensored.md) |
-| [DLSS-5-Swapper-Portable/.github](https://github.com/DLSS-5-Swapper-Portable/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swapper-portable/.github.md) |
 <!-- latest:end -->
 
 ## How it works

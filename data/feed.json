@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T00:53:21.074Z",
- "totalGuides": 1501,
+ "updatedAt": "2026-10-27T00:53:21.267Z",
+ "totalGuides": 1502,
  "items": [
+  {
+   "fullName": "daniellockyer/dstack",
+   "owner": "daniellockyer",
+   "name": "dstack",
+   "url": "https://github.com/daniellockyer/dstack",
+   "avatar": "https://avatars.githubusercontent.com/u/964245?v=4",
+   "description": "The agent skills I use daily.",
+   "language": null,
+   "topics": [],
+   "license": "MIT",
+   "stars": 82,
+   "forks": 0,
+   "createdAt": "2026-10-26T18:31:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T00:53:21.266Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/daniellockyer/dstack",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/daniellockyer/dstack/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/daniellockyer/dstack\nWhat it says it does: \"The agent skills I use daily.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T00:53:21.266Z"
+  },
   {
    "fullName": "0xSero/all-historical-evidence-of-jesus-christ",
    "owner": "0xSero",
@@ -32781,69 +32829,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/kanaworksai-hue/audio-studio-mcp\nWhat it says it does: \"Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T06:59:01.704Z"
-  },
-  {
-   "fullName": "RogueDonorGraph/BorisFX",
-   "owner": "RogueDonorGraph",
-   "name": "BorisFX",
-   "url": "https://github.com/RogueDonorGraph/BorisFX",
-   "avatar": "https://avatars.githubusercontent.com/u/296690441?v=4",
-   "description": "Complete standalone setup for Borisfx 2025, featuring all essential tools and effects for professional video editing and VFX.",
-   "language": null,
-   "topics": [
-    "bcc-plugins-effects",
-    "boris-fx-plugin-sapphire",
-    "boris-fx-sapphire",
-    "borisfx",
-    "borisfx-plugin-free",
-    "free-boris-fx",
-    "plugins-after-effects",
-    "sapphire-download"
-   ],
-   "license": null,
-   "stars": 96,
-   "forks": 0,
-   "createdAt": "2026-10-18T14:05:02Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T01:48:49.757Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/RogueDonorGraph/BorisFX",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/RogueDonorGraph/BorisFX/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/RogueDonorGraph/BorisFX\nWhat it says it does: \"Complete standalone setup for Borisfx 2025, featuring all essential tools and effects for professional video editing and VFX.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T01:48:49.757Z"
   }
  ],
  "levels": {
+  "read": 69,
   "account": 288,
   "heavy": 85,
-  "read": 69,
   "instant": 58
  }
 }

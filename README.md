@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1545 guides written so far · last update 2026-10-27 18:11 UTC_
+_1546 guides written so far · last update 2026-10-27 18:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Rust project | Runs in the browser with a free account | [guide](guides/emanuele-em/kanzo.md) |
 | [toyxyz/toyxyz_RGBMocap](https://github.com/toyxyz/toyxyz_RGBMocap) | Python project | Runs in the browser with a free account | [guide](guides/toyxyz/toyxyz_rgbmocap.md) |
 | [arantes-gabs/fora-de-cena](https://github.com/arantes-gabs/fora-de-cena) | Python project | Runs in the browser with a free account | [guide](guides/arantes-gabs/fora-de-cena.md) |
 | [konlu/story-studio](https://github.com/konlu/story-studio) | Python project | Runs in the browser with a free account | [guide](guides/konlu/story-studio.md) |
@@ -38,7 +39,6 @@ _1545 guides written so far · last update 2026-10-27 18:11 UTC_
 | [Deibler/openskycam](https://github.com/Deibler/openskycam) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/deibler/openskycam.md) |
 | [Osama96gi/FLEX-Download-Manager](https://github.com/Osama96gi/FLEX-Download-Manager) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/osama96gi/flex-download-manager.md) |
 | [BookracyFOS/bookracy](https://github.com/BookracyFOS/bookracy) | TypeScript project | Runs in the browser with a free account | [guide](guides/bookracyfos/bookracy.md) |
-| [pan8664716/HGTV](https://github.com/pan8664716/HGTV) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pan8664716/hgtv.md) |
 <!-- latest:end -->
 
 ## How it works

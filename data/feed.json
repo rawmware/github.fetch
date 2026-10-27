@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T22:21:29.039Z",
- "totalGuides": 1554,
+ "updatedAt": "2026-10-27T22:21:29.268Z",
+ "totalGuides": 1555,
  "items": [
+  {
+   "fullName": "interplains/Zero-Breach-Toolkit",
+   "owner": "interplains",
+   "name": "Zero-Breach-Toolkit",
+   "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+   "avatar": "https://avatars.githubusercontent.com/u/39777629?v=4",
+   "description": "Free, open-source, offline checks for traces of known mercenary spyware. Tested with Windows computers and Android phone collections.",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 301,
+   "forks": 33,
+   "createdAt": "2026-10-25T14:41:34Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T22:21:29.267Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/interplains/Zero-Breach-Toolkit/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/interplains/Zero-Breach-Toolkit?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/interplains/Zero-Breach-Toolkit",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/interplains/Zero-Breach-Toolkit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/interplains/Zero-Breach-Toolkit.git\ncd Zero-Breach-Toolkit",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/interplains/Zero-Breach-Toolkit\nWhat it says it does: \"Free, open-source, offline checks for traces of known mercenary spyware. Tested with Windows computers and Android phone collections.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T22:21:29.267Z"
+  },
   {
    "fullName": "DLSS-5-Swaper-New/.github",
    "owner": "DLSS-5-Swaper-New",
@@ -32931,73 +32993,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/matt-pio00p9/YouTube-Views-Boost-Free-View-Booster-Growth-Tool-2026\nWhat it says it does: \"Free YouTube views booster and channel growth tool. Increase video views, watch time and engagement with smart delivery system. Easy to use, fully configurable, safe mode included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T23:46:45.756Z"
-  },
-  {
-   "fullName": "markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
-   "owner": "markklab1903d9",
-   "name": "CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
-   "url": "https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
-   "avatar": "https://avatars.githubusercontent.com/u/279166964?v=4",
-   "description": "Powerful CS2 FPS optimizer that boosts frame rate, reduces lag and optimizes system settings. One-click performance profiles, clean interface, fully configurable for Counter-Strike 2.",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 125,
-   "forks": 34,
-   "createdAt": "2026-10-19T21:40:05Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T23:46:45.547Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "python main.py",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026.git\ncd CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026\npython main.py",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/markklab1903d9/CS2-FPS-Optimizer-Performance-Boost-Lag-Fix-Tool-2026\nWhat it says it does: \"Powerful CS2 FPS optimizer that boosts frame rate, reduces lag and optimizes system settings. One-click performance profiles, clean interface, fully configurable for Counter-Strike 2.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T23:46:45.547Z"
   }
  ],
  "levels": {
-  "read": 58,
   "account": 293,
+  "read": 58,
   "heavy": 86,
   "instant": 63
  }

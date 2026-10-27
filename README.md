@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1528 guides written so far · last update 2026-10-27 12:21 UTC_
+_1529 guides written so far · last update 2026-10-27 12:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PierreTucker147/deepseek-uncensored](https://github.com/PierreTucker147/deepseek-uncensored) | Python project | Runs in the browser with a free account | [guide](guides/pierretucker147/deepseek-uncensored.md) |
 | [stormydayy/halo-overlay](https://github.com/stormydayy/halo-overlay) | JavaScript project | Runs in the browser with a free account | [guide](guides/stormydayy/halo-overlay.md) |
 | [daimyodragonpit/BorisFX](https://github.com/daimyodragonpit/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daimyodragonpit/borisfx.md) |
 | [TyphoonMidgeRegister/KMS-Pico](https://github.com/TyphoonMidgeRegister/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/typhoonmidgeregister/kms-pico.md) |
@@ -38,7 +39,6 @@ _1528 guides written so far · last update 2026-10-27 12:21 UTC_
 | [cvg/FlexGlue](https://github.com/cvg/FlexGlue) | Jupyter notebook | Runs in the browser with a free account | [guide](guides/cvg/flexglue.md) |
 | [Esmerubphire/astrbot_plugin_feiyu_voice](https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice) | Python project | Runs in the browser with a free account | [guide](guides/esmerubphire/astrbot_plugin_feiyu_voice.md) |
 | [aiden0rchad/homelab-atlas](https://github.com/aiden0rchad/homelab-atlas) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/aiden0rchad/homelab-atlas.md) |
-| [Brandon04Gonzalez/p5r-android](https://github.com/Brandon04Gonzalez/p5r-android) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/brandon04gonzalez/p5r-android.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T06:09:55.017Z",
- "totalGuides": 1516,
+ "updatedAt": "2026-10-27T06:09:55.238Z",
+ "totalGuides": 1517,
  "items": [
+  {
+   "fullName": "Brandon04Gonzalez/p5r-android",
+   "owner": "Brandon04Gonzalez",
+   "name": "p5r-android",
+   "url": "https://github.com/Brandon04Gonzalez/p5r-android",
+   "avatar": "https://avatars.githubusercontent.com/u/171833918?v=4",
+   "description": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
+   "language": "C++",
+   "topics": [],
+   "license": "MIT",
+   "stars": 54,
+   "forks": 3,
+   "createdAt": "2026-10-25T22:26:00Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T06:09:55.238Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Brandon04Gonzalez/p5r-android?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Brandon04Gonzalez/p5r-android",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Brandon04Gonzalez/p5r-android/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Brandon04Gonzalez/p5r-android.git\ncd p5r-android",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Brandon04Gonzalez/p5r-android\nWhat it says it does: \"Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T06:09:55.238Z"
+  },
   {
    "fullName": "zeekk0/OpenSakura",
    "owner": "zeekk0",
@@ -32836,78 +32893,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/mihirgupta0900/tv-home\nWhat it says it does: \"Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T14:34:49.829Z"
-  },
-  {
-   "fullName": "Gathin23/cleanyourtv",
-   "owner": "Gathin23",
-   "name": "cleanyourtv",
-   "url": "https://github.com/Gathin23/cleanyourtv",
-   "avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
-   "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-   "language": "Java",
-   "topics": [
-    "ad-free",
-    "adb",
-    "android-tv",
-    "android-tv-launcher",
-    "bloatware-removal",
-    "claude-code",
-    "debloat",
-    "google-tv"
-   ],
-   "license": null,
-   "stars": 3774,
-   "forks": 444,
-   "createdAt": "2026-10-17T08:12:35Z",
-   "branch": "main",
-   "homepage": "https://cleanyour.tv",
-   "addedAt": "2026-10-19T14:34:49.577Z",
-   "stack": {
-    "kind": "native",
-    "label": "Java project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Gathin23/cleanyourtv?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Gathin23/cleanyourtv",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Gathin23/cleanyourtv/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Gathin23/cleanyourtv.git\ncd cleanyourtv",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Gathin23/cleanyourtv\nWhat it says it does: \"Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T14:34:49.577Z"
   }
  ],
  "levels": {
+  "heavy": 88,
   "account": 293,
   "instant": 59,
-  "heavy": 88,
   "read": 60
  }
 }

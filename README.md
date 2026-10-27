@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1533 guides written so far · last update 2026-10-27 12:21 UTC_
+_1534 guides written so far · last update 2026-10-27 12:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pan8664716/HGTV](https://github.com/pan8664716/HGTV) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pan8664716/hgtv.md) |
 | [JeensLab/AI-Companion](https://github.com/JeensLab/AI-Companion) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/jeenslab/ai-companion.md) |
 | [kystt29/capricorn](https://github.com/kystt29/capricorn) | Python project | Runs in the browser with a free account | [guide](guides/kystt29/capricorn.md) |
 | [DialingSpoon527/seedsow-lua-editor](https://github.com/DialingSpoon527/seedsow-lua-editor) | Python project | Runs in the browser with a free account | [guide](guides/dialingspoon527/seedsow-lua-editor.md) |
@@ -38,7 +39,6 @@ _1533 guides written so far · last update 2026-10-27 12:21 UTC_
 | [Stampdrusupply/Cinema-4d](https://github.com/Stampdrusupply/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stampdrusupply/cinema-4d.md) |
 | [Pebblebretrap/Camtasia](https://github.com/Pebblebretrap/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pebblebretrap/camtasia.md) |
 | [GrandeurPikeman/Roblox-MM2-Utility-2026](https://github.com/GrandeurPikeman/Roblox-MM2-Utility-2026) | JavaScript project | Runs in the browser with a free account | [guide](guides/grandeurpikeman/roblox-mm2-utility-2026.md) |
-| [hugues31/duckpad](https://github.com/hugues31/duckpad) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/hugues31/duckpad.md) |
 <!-- latest:end -->
 
 ## How it works

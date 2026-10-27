@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1503 guides written so far · last update 2026-10-27 00:53 UTC_
+_1504 guides written so far · last update 2026-10-27 00:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Clair-ChenShoujie/Babeldoc4GPT](https://github.com/Clair-ChenShoujie/Babeldoc4GPT) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clair-chenshoujie/babeldoc4gpt.md) |
 | [ngxson/esp32-usb-to-airprint](https://github.com/ngxson/esp32-usb-to-airprint) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ngxson/esp32-usb-to-airprint.md) |
 | [daniellockyer/dstack](https://github.com/daniellockyer/dstack) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daniellockyer/dstack.md) |
 | [0xSero/all-historical-evidence-of-jesus-christ](https://github.com/0xSero/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/0xsero/all-historical-evidence-of-jesus-christ.md) |
@@ -38,7 +39,6 @@ _1503 guides written so far · last update 2026-10-27 00:53 UTC_
 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | React app | Runs in the browser with a free account | [guide](guides/dsh-market/dsh-market.md) |
 | [OrchardLinux/omarchy-a](https://github.com/OrchardLinux/omarchy-a) | QML project | Runs in the browser with a free account | [guide](guides/orchardlinux/omarchy-a.md) |
 | [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) | Python project | Runs in the browser with a free account | [guide](guides/martinkeith700/ruyijs.md) |
-| [martina9516/uncensored-ai-models](https://github.com/martina9516/uncensored-ai-models) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/martina9516/uncensored-ai-models.md) |
 <!-- latest:end -->
 
 ## How it works

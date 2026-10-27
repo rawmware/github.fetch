@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T12:21:55.781Z",
- "totalGuides": 1531,
+ "updatedAt": "2026-10-27T12:21:56.087Z",
+ "totalGuides": 1532,
  "items": [
+  {
+   "fullName": "kystt29/capricorn",
+   "owner": "kystt29",
+   "name": "capricorn",
+   "url": "https://github.com/kystt29/capricorn",
+   "avatar": "https://avatars.githubusercontent.com/u/343867286?v=4",
+   "description": "kyst навайбкодил фигни",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 57,
+   "forks": 4,
+   "createdAt": "2026-10-25T06:50:10Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T12:21:56.086Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/kystt29/capricorn/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/kystt29/capricorn?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/kystt29/capricorn",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kystt29/capricorn/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/kystt29/capricorn.git\ncd capricorn\npip install -r requirements.txt\npython main.py",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/kystt29/capricorn\nWhat it says it does: \"kyst навайбкодил фигни\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T12:21:56.086Z"
+  },
   {
    "fullName": "DialingSpoon527/seedsow-lua-editor",
    "owner": "DialingSpoon527",
@@ -32922,77 +32984,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/seedds/nxnative\nWhat it says it does: \"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T14:34:53.246Z"
-  },
-  {
-   "fullName": "LiCinCan/blender-ai-mcp-addon",
-   "owner": "LiCinCan",
-   "name": "blender-ai-mcp-addon",
-   "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-   "avatar": "https://avatars.githubusercontent.com/u/343139124?v=4",
-   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-   "language": "Python",
-   "topics": [
-    "ai-assistant",
-    "blender",
-    "blender-addon",
-    "blender-ai",
-    "blender-automation",
-    "blender-extension",
-    "blender-mcp",
-    "blender-plugin"
-   ],
-   "license": "MIT",
-   "stars": 858,
-   "forks": 379,
-   "createdAt": "2026-10-15T22:30:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T14:34:53.087Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/LiCinCan/blender-ai-mcp-addon/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/LiCinCan/blender-ai-mcp-addon?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/LiCinCan/blender-ai-mcp-addon",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/LiCinCan/blender-ai-mcp-addon/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/LiCinCan/blender-ai-mcp-addon.git\ncd blender-ai-mcp-addon",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/LiCinCan/blender-ai-mcp-addon\nWhat it says it does: \"AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T14:34:53.087Z"
   }
  ],
  "levels": {

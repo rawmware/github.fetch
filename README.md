@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1507 guides written so far · last update 2026-10-27 00:53 UTC_
+_1508 guides written so far · last update 2026-10-27 06:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper](https://github.com/Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/switch-homebrew-lab/switch2-jailbreak-bootstrapper.md) |
 | [free-dam-man/warp-zerotrust-masque-skill](https://github.com/free-dam-man/warp-zerotrust-masque-skill) | Python project | Runs in the browser with a free account | [guide](guides/free-dam-man/warp-zerotrust-masque-skill.md) |
 | [BenDBSS/Riposte-Frontline-Source](https://github.com/BenDBSS/Riposte-Frontline-Source) | JavaScript project | Runs in the browser with a free account | [guide](guides/bendbss/riposte-frontline-source.md) |
 | [yy838255939/duozhi-workbench](https://github.com/yy838255939/duozhi-workbench) | Vite app | Runs in the browser with a free account | [guide](guides/yy838255939/duozhi-workbench.md) |
@@ -38,7 +39,6 @@ _1507 guides written so far · last update 2026-10-27 00:53 UTC_
 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | Rust project | Runs in the browser with a free account | [guide](guides/qingjian-team/qingjian.md) |
 | [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) | JavaScript project | Runs in the browser with a free account | [guide](guides/miqdadbadjuber/anti-slop.md) |
 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/human-agent-society/reef.md) |
-| [deeplethe/utopia](https://github.com/deeplethe/utopia) | Rust project | Runs in the browser with a free account | [guide](guides/deeplethe/utopia.md) |
 <!-- latest:end -->
 
 ## How it works

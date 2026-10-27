@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1509 guides written so far · last update 2026-10-27 06:09 UTC_
+_1510 guides written so far · last update 2026-10-27 06:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/junwan666/astrbot-for-android.md) |
 | [giantbitmonitor/NextFilee](https://github.com/giantbitmonitor/NextFilee) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/giantbitmonitor/nextfilee.md) |
 | [Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper](https://github.com/Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/switch-homebrew-lab/switch2-jailbreak-bootstrapper.md) |
 | [free-dam-man/warp-zerotrust-masque-skill](https://github.com/free-dam-man/warp-zerotrust-masque-skill) | Python project | Runs in the browser with a free account | [guide](guides/free-dam-man/warp-zerotrust-masque-skill.md) |
@@ -38,7 +39,6 @@ _1509 guides written so far · last update 2026-10-27 06:09 UTC_
 | [0xSero/all-historical-evidence-of-jesus-christ](https://github.com/0xSero/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/0xsero/all-historical-evidence-of-jesus-christ.md) |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | JavaScript project | Runs in the browser with a free account | [guide](guides/copilotkit/openbot.md) |
 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | Rust project | Runs in the browser with a free account | [guide](guides/qingjian-team/qingjian.md) |
-| [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) | JavaScript project | Runs in the browser with a free account | [guide](guides/miqdadbadjuber/anti-slop.md) |
 <!-- latest:end -->
 
 ## How it works

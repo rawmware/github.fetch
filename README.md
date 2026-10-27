@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1521 guides written so far · last update 2026-10-27 06:09 UTC_
+_1522 guides written so far · last update 2026-10-27 12:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hugues31/duckpad](https://github.com/hugues31/duckpad) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/hugues31/duckpad.md) |
 | [rl-bks-tools/Bakkesmod](https://github.com/rl-bks-tools/Bakkesmod) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rl-bks-tools/bakkesmod.md) |
 | [cvg/FlexGlue](https://github.com/cvg/FlexGlue) | Jupyter notebook | Runs in the browser with a free account | [guide](guides/cvg/flexglue.md) |
 | [Esmerubphire/astrbot_plugin_feiyu_voice](https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice) | Python project | Runs in the browser with a free account | [guide](guides/esmerubphire/astrbot_plugin_feiyu_voice.md) |
@@ -38,7 +39,6 @@ _1521 guides written so far · last update 2026-10-27 06:09 UTC_
 | [josiahg2502-glitch/Smash4PC](https://github.com/josiahg2502-glitch/Smash4PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/josiahg2502-glitch/smash4pc.md) |
 | [bnbxcs/TMTN](https://github.com/bnbxcs/TMTN) | Express app | Runs in a browser tab, no account needed | [guide](guides/bnbxcs/tmtn.md) |
 | [deepopen-com/deepopen-3d-webs](https://github.com/deepopen-com/deepopen-3d-webs) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/deepopen-com/deepopen-3d-webs.md) |
-| [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/junwan666/astrbot-for-android.md) |
 <!-- latest:end -->
 
 ## How it works

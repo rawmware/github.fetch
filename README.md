@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1552 guides written so far · last update 2026-10-27 18:12 UTC_
+_1553 guides written so far · last update 2026-10-27 18:12 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | Shell project | Runs in the browser with a free account | [guide](guides/ryze-ai-adgent/open-seo-mcp-skills.md) |
 | [trycompai/crm](https://github.com/trycompai/crm) | JavaScript project | Runs in the browser with a free account | [guide](guides/trycompai/crm.md) |
 | [Tencent-Hunyuan/Hy-Nomas](https://github.com/Tencent-Hunyuan/Hy-Nomas) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent-hunyuan/hy-nomas.md) |
 | [lasharor/cleanyourtv-WebOS](https://github.com/lasharor/cleanyourtv-WebOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/lasharor/cleanyourtv-webos.md) |
@@ -38,7 +39,6 @@ _1552 guides written so far · last update 2026-10-27 18:12 UTC_
 | [arantes-gabs/fora-de-cena](https://github.com/arantes-gabs/fora-de-cena) | Python project | Runs in the browser with a free account | [guide](guides/arantes-gabs/fora-de-cena.md) |
 | [konlu/story-studio](https://github.com/konlu/story-studio) | Python project | Runs in the browser with a free account | [guide](guides/konlu/story-studio.md) |
 | [Shagg88/COGBox](https://github.com/Shagg88/COGBox) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/shagg88/cogbox.md) |
-| [qybaihe/bla](https://github.com/qybaihe/bla) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/qybaihe/bla.md) |
 <!-- latest:end -->
 
 ## How it works

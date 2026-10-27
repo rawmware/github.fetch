@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T18:12:00.062Z",
- "totalGuides": 1552,
+ "updatedAt": "2026-10-27T18:12:00.316Z",
+ "totalGuides": 1553,
  "items": [
+  {
+   "fullName": "Ryze-AI-Adgent/open-seo-mcp-skills",
+   "owner": "Ryze-AI-Adgent",
+   "name": "open-seo-mcp-skills",
+   "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+   "avatar": "https://avatars.githubusercontent.com/u/239315082?v=4",
+   "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+   "language": "Shell",
+   "topics": [
+    "ai-seo",
+    "ai-visibility",
+    "backlinks",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "dataforseo",
+    "generative-engine-optimization"
+   ],
+   "license": "MIT",
+   "stars": 7594,
+   "forks": 383,
+   "createdAt": "2026-08-29T23:37:01Z",
+   "branch": "main",
+   "homepage": "https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp",
+   "addedAt": "2026-10-27T18:12:00.315Z",
+   "stack": {
+    "kind": "other",
+    "label": "Shell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Ryze-AI-Adgent/open-seo-mcp-skills?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Ryze-AI-Adgent/open-seo-mcp-skills",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills.git\ncd open-seo-mcp-skills",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills\nWhat it says it does: \"Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T18:12:00.315Z"
+  },
   {
    "fullName": "trycompai/crm",
    "owner": "trycompai",
@@ -32934,77 +32998,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026\nWhat it says it does: \"Free and powerful OBS countdown timer with customizable overlay, hotkeys and multiple styles. Perfect for streamers. Easy setup, lightweight, fully configurable for OBS Studio.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T23:46:45.308Z"
-  },
-  {
-   "fullName": "EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
-   "owner": "EpicRealmTitle",
-   "name": "call-of-duty-modern-warfare-4-fps-optimizer",
-   "url": "https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
-   "avatar": "https://avatars.githubusercontent.com/u/319657262?v=4",
-   "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
-   "language": "Python",
-   "topics": [
-    "fps-booster-no-lag",
-    "fps-booster-software",
-    "gaming",
-    "gaming-performance",
-    "gaming-tools",
-    "modern-warfare-4",
-    "mw4",
-    "mw4-optimizer"
-   ],
-   "license": null,
-   "stars": 126,
-   "forks": 0,
-   "createdAt": "2026-10-19T21:24:52Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T23:46:45.060Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer.git\ncd call-of-duty-modern-warfare-4-fps-optimizer",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer\nWhat it says it does: \"Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T23:46:45.060Z"
   }
  ],
  "levels": {

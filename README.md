@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1524 guides written so far · last update 2026-10-27 12:21 UTC_
+_1525 guides written so far · last update 2026-10-27 12:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Stampdrusupply/Cinema-4d](https://github.com/Stampdrusupply/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stampdrusupply/cinema-4d.md) |
 | [Pebblebretrap/Camtasia](https://github.com/Pebblebretrap/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pebblebretrap/camtasia.md) |
 | [GrandeurPikeman/Roblox-MM2-Utility-2026](https://github.com/GrandeurPikeman/Roblox-MM2-Utility-2026) | JavaScript project | Runs in the browser with a free account | [guide](guides/grandeurpikeman/roblox-mm2-utility-2026.md) |
 | [hugues31/duckpad](https://github.com/hugues31/duckpad) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/hugues31/duckpad.md) |
@@ -38,7 +39,6 @@ _1524 guides written so far · last update 2026-10-27 12:21 UTC_
 | [zeekk0/OpenSakura](https://github.com/zeekk0/OpenSakura) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/zeekk0/opensakura.md) |
 | [typetheoryforall/FVjobs](https://github.com/typetheoryforall/FVjobs) | Python project | Runs in the browser with a free account | [guide](guides/typetheoryforall/fvjobs.md) |
 | [derek-zhuolin/motion-skill](https://github.com/derek-zhuolin/motion-skill) | React app | Runs in a browser tab, no account needed | [guide](guides/derek-zhuolin/motion-skill.md) |
-| [josiahg2502-glitch/Smash4PC](https://github.com/josiahg2502-glitch/Smash4PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/josiahg2502-glitch/smash4pc.md) |
 <!-- latest:end -->
 
 ## How it works

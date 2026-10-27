@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1534 guides written so far · last update 2026-10-27 12:21 UTC_
+_1535 guides written so far · last update 2026-10-27 12:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BookracyFOS/bookracy](https://github.com/BookracyFOS/bookracy) | TypeScript project | Runs in the browser with a free account | [guide](guides/bookracyfos/bookracy.md) |
 | [pan8664716/HGTV](https://github.com/pan8664716/HGTV) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pan8664716/hgtv.md) |
 | [JeensLab/AI-Companion](https://github.com/JeensLab/AI-Companion) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/jeenslab/ai-companion.md) |
 | [kystt29/capricorn](https://github.com/kystt29/capricorn) | Python project | Runs in the browser with a free account | [guide](guides/kystt29/capricorn.md) |
@@ -38,7 +39,6 @@ _1534 guides written so far · last update 2026-10-27 12:21 UTC_
 | [TyphoonMidgeRegister/KMS-Pico](https://github.com/TyphoonMidgeRegister/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/typhoonmidgeregister/kms-pico.md) |
 | [Stampdrusupply/Cinema-4d](https://github.com/Stampdrusupply/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stampdrusupply/cinema-4d.md) |
 | [Pebblebretrap/Camtasia](https://github.com/Pebblebretrap/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pebblebretrap/camtasia.md) |
-| [GrandeurPikeman/Roblox-MM2-Utility-2026](https://github.com/GrandeurPikeman/Roblox-MM2-Utility-2026) | JavaScript project | Runs in the browser with a free account | [guide](guides/grandeurpikeman/roblox-mm2-utility-2026.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1536 guides written so far · last update 2026-10-27 12:21 UTC_
+_1537 guides written so far · last update 2026-10-27 12:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Deibler/openskycam](https://github.com/Deibler/openskycam) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/deibler/openskycam.md) |
 | [Osama96gi/FLEX-Download-Manager](https://github.com/Osama96gi/FLEX-Download-Manager) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/osama96gi/flex-download-manager.md) |
 | [BookracyFOS/bookracy](https://github.com/BookracyFOS/bookracy) | TypeScript project | Runs in the browser with a free account | [guide](guides/bookracyfos/bookracy.md) |
 | [pan8664716/HGTV](https://github.com/pan8664716/HGTV) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pan8664716/hgtv.md) |
@@ -38,7 +39,6 @@ _1536 guides written so far · last update 2026-10-27 12:21 UTC_
 | [stormydayy/halo-overlay](https://github.com/stormydayy/halo-overlay) | JavaScript project | Runs in the browser with a free account | [guide](guides/stormydayy/halo-overlay.md) |
 | [daimyodragonpit/BorisFX](https://github.com/daimyodragonpit/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daimyodragonpit/borisfx.md) |
 | [TyphoonMidgeRegister/KMS-Pico](https://github.com/TyphoonMidgeRegister/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/typhoonmidgeregister/kms-pico.md) |
-| [Stampdrusupply/Cinema-4d](https://github.com/Stampdrusupply/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stampdrusupply/cinema-4d.md) |
 <!-- latest:end -->
 
 ## How it works

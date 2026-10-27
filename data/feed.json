@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T22:21:29.444Z",
- "totalGuides": 1556,
+ "updatedAt": "2026-10-27T22:21:29.658Z",
+ "totalGuides": 1557,
  "items": [
+  {
+   "fullName": "BufferPenguin/DLSS-5-Anywhere",
+   "owner": "BufferPenguin",
+   "name": "DLSS-5-Anywhere",
+   "url": "https://github.com/BufferPenguin/DLSS-5-Anywhere",
+   "avatar": "https://avatars.githubusercontent.com/u/293966321?v=4",
+   "description": "🚀 Universal DLSS 5 installer and manager for ANY graphics card. Stable FPS boost for NVIDIA & AMD!",
+   "language": null,
+   "topics": [
+    "amd",
+    "amd-gpu",
+    "dlss",
+    "dlss-5-nvidia",
+    "dlss4",
+    "dlss5",
+    "dlss5-optiscaler",
+    "dlss5-swapper"
+   ],
+   "license": null,
+   "stars": 137,
+   "forks": 31,
+   "createdAt": "2026-10-27T18:57:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T22:21:29.657Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/BufferPenguin/DLSS-5-Anywhere",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/BufferPenguin/DLSS-5-Anywhere/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/BufferPenguin/DLSS-5-Anywhere\nWhat it says it does: \"🚀 Universal DLSS 5 installer and manager for ANY graphics card. Stable FPS boost for NVIDIA & AMD!\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T22:21:29.657Z"
+  },
   {
    "fullName": "sybil-solutions/all-historical-evidence-of-jesus-christ",
    "owner": "sybil-solutions",
@@ -32936,68 +32993,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/vercel-labs/fx0\nWhat it says it does: \"A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T02:10:15.943Z"
-  },
-  {
-   "fullName": "Krusty84/awesome-siemens-dis",
-   "owner": "Krusty84",
-   "name": "awesome-siemens-dis",
-   "url": "https://github.com/Krusty84/awesome-siemens-dis",
-   "avatar": "https://avatars.githubusercontent.com/u/44873126?v=4",
-   "description": "Useful goodies for Siemens DIS products",
-   "language": null,
-   "topics": [
-    "mendix",
-    "mindsphere",
-    "plm",
-    "polarion-alm",
-    "siemens",
-    "siemens-nx",
-    "siemens-plm",
-    "siemens-polarion"
-   ],
-   "license": "MIT",
-   "stars": 111,
-   "forks": 3,
-   "createdAt": "2026-10-18T17:22:58Z",
-   "branch": "main",
-   "homepage": "https://www.siemens.com/en-us/company/about/businesses/digital-industries",
-   "addedAt": "2026-10-19T23:46:45.999Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Krusty84/awesome-siemens-dis",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Krusty84/awesome-siemens-dis/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Krusty84/awesome-siemens-dis\nWhat it says it does: \"Useful goodies for Siemens DIS products\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T23:46:45.999Z"
   }
  ],
  "levels": {
-  "account": 293,
   "read": 58,
+  "account": 293,
   "heavy": 86,
   "instant": 63
  }

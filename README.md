@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1558 guides written so far · last update 2026-10-27 22:21 UTC_
+_1559 guides written so far · last update 2026-10-27 22:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [crsr-tools/Cursor-AI-Download](https://github.com/crsr-tools/Cursor-AI-Download) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/crsr-tools/cursor-ai-download.md) |
 | [hex-tools/hexstrike-ai-pc](https://github.com/hex-tools/hexstrike-ai-pc) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hex-tools/hexstrike-ai-pc.md) |
 | [BufferPenguin/DLSS-5-Anywhere](https://github.com/BufferPenguin/DLSS-5-Anywhere) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bufferpenguin/dlss-5-anywhere.md) |
 | [sybil-solutions/all-historical-evidence-of-jesus-christ](https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/sybil-solutions/all-historical-evidence-of-jesus-christ.md) |
@@ -38,7 +39,6 @@ _1558 guides written so far · last update 2026-10-27 22:21 UTC_
 | [lasharor/cleanyourtv-WebOS](https://github.com/lasharor/cleanyourtv-WebOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/lasharor/cleanyourtv-webos.md) |
 | [man15h/tellyscope](https://github.com/man15h/tellyscope) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/man15h/tellyscope.md) |
 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | HTML project | Runs in the browser with a free account | [guide](guides/enesozturk/dimensional-drawing.md) |
-| [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) | React app | Runs in a browser tab, no account needed | [guide](guides/jianxinss/iching-64-motion.md) |
 <!-- latest:end -->
 
 ## How it works

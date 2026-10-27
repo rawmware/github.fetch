@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1557 guides written so far · last update 2026-10-27 22:21 UTC_
+_1558 guides written so far · last update 2026-10-27 22:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hex-tools/hexstrike-ai-pc](https://github.com/hex-tools/hexstrike-ai-pc) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hex-tools/hexstrike-ai-pc.md) |
 | [BufferPenguin/DLSS-5-Anywhere](https://github.com/BufferPenguin/DLSS-5-Anywhere) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bufferpenguin/dlss-5-anywhere.md) |
 | [sybil-solutions/all-historical-evidence-of-jesus-christ](https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/sybil-solutions/all-historical-evidence-of-jesus-christ.md) |
 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | Python project | Runs in the browser with a free account | [guide](guides/interplains/zero-breach-toolkit.md) |
@@ -38,7 +39,6 @@ _1557 guides written so far · last update 2026-10-27 22:21 UTC_
 | [man15h/tellyscope](https://github.com/man15h/tellyscope) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/man15h/tellyscope.md) |
 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | HTML project | Runs in the browser with a free account | [guide](guides/enesozturk/dimensional-drawing.md) |
 | [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) | React app | Runs in a browser tab, no account needed | [guide](guides/jianxinss/iching-64-motion.md) |
-| [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Rust project | Runs in the browser with a free account | [guide](guides/emanuele-em/kanzo.md) |
 <!-- latest:end -->
 
 ## How it works

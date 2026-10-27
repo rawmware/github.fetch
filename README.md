@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1517 guides written so far · last update 2026-10-27 06:09 UTC_
+_1518 guides written so far · last update 2026-10-27 06:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aiden0rchad/homelab-atlas](https://github.com/aiden0rchad/homelab-atlas) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/aiden0rchad/homelab-atlas.md) |
 | [Brandon04Gonzalez/p5r-android](https://github.com/Brandon04Gonzalez/p5r-android) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/brandon04gonzalez/p5r-android.md) |
 | [zeekk0/OpenSakura](https://github.com/zeekk0/OpenSakura) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/zeekk0/opensakura.md) |
 | [typetheoryforall/FVjobs](https://github.com/typetheoryforall/FVjobs) | Python project | Runs in the browser with a free account | [guide](guides/typetheoryforall/fvjobs.md) |
@@ -38,7 +39,6 @@ _1517 guides written so far · last update 2026-10-27 06:09 UTC_
 | [giantbitmonitor/NextFilee](https://github.com/giantbitmonitor/NextFilee) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/giantbitmonitor/nextfilee.md) |
 | [Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper](https://github.com/Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/switch-homebrew-lab/switch2-jailbreak-bootstrapper.md) |
 | [free-dam-man/warp-zerotrust-masque-skill](https://github.com/free-dam-man/warp-zerotrust-masque-skill) | Python project | Runs in the browser with a free account | [guide](guides/free-dam-man/warp-zerotrust-masque-skill.md) |
-| [BenDBSS/Riposte-Frontline-Source](https://github.com/BenDBSS/Riposte-Frontline-Source) | JavaScript project | Runs in the browser with a free account | [guide](guides/bendbss/riposte-frontline-source.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T12:21:56.087Z",
- "totalGuides": 1532,
+ "updatedAt": "2026-10-27T12:21:56.297Z",
+ "totalGuides": 1533,
  "items": [
+  {
+   "fullName": "JeensLab/AI-Companion",
+   "owner": "JeensLab",
+   "name": "AI-Companion",
+   "url": "https://github.com/JeensLab/AI-Companion",
+   "avatar": "https://avatars.githubusercontent.com/u/348394450?v=4",
+   "description": "Олег — ИИ-компаньон для Minecraft 1.21.1 и NeoForge. Общение, голос, добыча, крафт и совместное выживание.",
+   "language": "Java",
+   "topics": [],
+   "license": null,
+   "stars": 57,
+   "forks": 7,
+   "createdAt": "2026-10-26T16:04:27Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T12:21:56.296Z",
+   "stack": {
+    "kind": "native",
+    "label": "Java project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/JeensLab/AI-Companion?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/JeensLab/AI-Companion",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/JeensLab/AI-Companion/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/JeensLab/AI-Companion.git\ncd AI-Companion",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/JeensLab/AI-Companion\nWhat it says it does: \"Олег — ИИ-компаньон для Minecraft 1.21.1 и NeoForge. Общение, голос, добыча, крафт и совместное выживание.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T12:21:56.296Z"
+  },
   {
    "fullName": "kystt29/capricorn",
    "owner": "kystt29",
@@ -32927,69 +32984,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/yeqv111/mccarbon\nWhat it says it does: \"麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T14:34:53.602Z"
-  },
-  {
-   "fullName": "seedds/nxnative",
-   "owner": "seedds",
-   "name": "nxnative",
-   "url": "https://github.com/seedds/nxnative",
-   "avatar": "https://avatars.githubusercontent.com/u/3463322?v=4",
-   "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
-   "language": "C",
-   "topics": [],
-   "license": "MIT",
-   "stars": 689,
-   "forks": 148,
-   "createdAt": "2026-10-13T05:20:14Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T14:34:53.246Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/seedds/nxnative?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/seedds/nxnative",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/seedds/nxnative/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/seedds/nxnative.git\ncd nxnative",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/seedds/nxnative\nWhat it says it does: \"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T14:34:53.246Z"
   }
  ],
  "levels": {
+  "heavy": 85,
   "account": 298,
   "read": 57,
-  "instant": 60,
-  "heavy": 85
+  "instant": 60
  }
 }

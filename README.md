@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1520 guides written so far · last update 2026-10-27 06:09 UTC_
+_1521 guides written so far · last update 2026-10-27 06:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rl-bks-tools/Bakkesmod](https://github.com/rl-bks-tools/Bakkesmod) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rl-bks-tools/bakkesmod.md) |
 | [cvg/FlexGlue](https://github.com/cvg/FlexGlue) | Jupyter notebook | Runs in the browser with a free account | [guide](guides/cvg/flexglue.md) |
 | [Esmerubphire/astrbot_plugin_feiyu_voice](https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice) | Python project | Runs in the browser with a free account | [guide](guides/esmerubphire/astrbot_plugin_feiyu_voice.md) |
 | [aiden0rchad/homelab-atlas](https://github.com/aiden0rchad/homelab-atlas) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/aiden0rchad/homelab-atlas.md) |
@@ -38,7 +39,6 @@ _1520 guides written so far · last update 2026-10-27 06:09 UTC_
 | [bnbxcs/TMTN](https://github.com/bnbxcs/TMTN) | Express app | Runs in a browser tab, no account needed | [guide](guides/bnbxcs/tmtn.md) |
 | [deepopen-com/deepopen-3d-webs](https://github.com/deepopen-com/deepopen-3d-webs) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/deepopen-com/deepopen-3d-webs.md) |
 | [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/junwan666/astrbot-for-android.md) |
-| [giantbitmonitor/NextFilee](https://github.com/giantbitmonitor/NextFilee) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/giantbitmonitor/nextfilee.md) |
 <!-- latest:end -->
 
 ## How it works

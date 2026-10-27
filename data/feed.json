@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T22:21:30.201Z",
- "totalGuides": 1560,
+ "updatedAt": "2026-10-27T22:21:30.391Z",
+ "totalGuides": 1561,
  "items": [
+  {
+   "fullName": "AxiomMath/CFSG",
+   "owner": "AxiomMath",
+   "name": "CFSG",
+   "url": "https://github.com/AxiomMath/CFSG",
+   "avatar": "https://avatars.githubusercontent.com/u/216763904?v=4",
+   "description": "A Lean formalization of the Classification of Finite Simple Groups",
+   "language": "Lean",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 64,
+   "forks": 7,
+   "createdAt": "2026-10-27T13:19:32Z",
+   "branch": "main",
+   "homepage": "https://cfsg.axiommath.ai",
+   "addedAt": "2026-10-27T22:21:30.390Z",
+   "stack": {
+    "kind": "other",
+    "label": "Lean project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/AxiomMath/CFSG?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/AxiomMath/CFSG",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/AxiomMath/CFSG/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/AxiomMath/CFSG.git\ncd CFSG",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/AxiomMath/CFSG\nWhat it says it does: \"A Lean formalization of the Classification of Finite Simple Groups\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T22:21:30.390Z"
+  },
   {
    "fullName": "cld-tools/Claude-Desktop-Download",
    "owner": "cld-tools",
@@ -32964,76 +33019,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/kylebrown-eng20w4/Minecraft-FPS-Booster\nWhat it says it does: \"Powerful Minecraft FPS booster and performance optimization mod. Dramatically increases frames, reduces lag, and optimizes rendering for 1.20–1.21. Forge & Fabric support, clean modular structure.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T02:10:17.024Z"
-  },
-  {
-   "fullName": "Animal2404/xeno-executor",
-   "owner": "Animal2404",
-   "name": "xeno-executor",
-   "url": "https://github.com/Animal2404/xeno-executor",
-   "avatar": "https://avatars.githubusercontent.com/u/123326832?v=4",
-   "description": "Published: 2026-10-19",
-   "language": "C++",
-   "topics": [
-    "cpp",
-    "executor",
-    "luau",
-    "mit",
-    "roblox",
-    "windows"
-   ],
-   "license": "MIT",
-   "stars": 110,
-   "forks": 3,
-   "createdAt": "2026-10-19T18:15:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-20T02:10:16.795Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Animal2404/xeno-executor?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Animal2404/xeno-executor",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Animal2404/xeno-executor/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Animal2404/xeno-executor.git\ncd xeno-executor",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Animal2404/xeno-executor\nWhat it says it does: \"Published: 2026-10-19\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T02:10:16.795Z"
   }
  ],
  "levels": {
+  "account": 292,
   "instant": 65,
   "read": 58,
-  "account": 291,
-  "heavy": 86
+  "heavy": 85
  }
 }

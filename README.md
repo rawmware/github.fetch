@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1549 guides written so far · last update 2026-10-27 18:11 UTC_
+_1550 guides written so far · last update 2026-10-27 18:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lasharor/cleanyourtv-WebOS](https://github.com/lasharor/cleanyourtv-WebOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/lasharor/cleanyourtv-webos.md) |
 | [man15h/tellyscope](https://github.com/man15h/tellyscope) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/man15h/tellyscope.md) |
 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | HTML project | Runs in the browser with a free account | [guide](guides/enesozturk/dimensional-drawing.md) |
 | [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) | React app | Runs in a browser tab, no account needed | [guide](guides/jianxinss/iching-64-motion.md) |
@@ -38,7 +39,6 @@ _1549 guides written so far · last update 2026-10-27 18:11 UTC_
 | [qybaihe/bla](https://github.com/qybaihe/bla) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/qybaihe/bla.md) |
 | [ConquerorPhase/TAL-U-NO-Synth-Full-2026](https://github.com/ConquerorPhase/TAL-U-NO-Synth-Full-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/conquerorphase/tal-u-no-synth-full-2026.md) |
 | [patch-gg/anymove](https://github.com/patch-gg/anymove) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/patch-gg/anymove.md) |
-| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/anhao/ai-pose-gallery-zh.md) |
 <!-- latest:end -->
 
 ## How it works

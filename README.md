@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1561 guides written so far · last update 2026-10-27 22:21 UTC_
+_1562 guides written so far · last update 2026-10-27 22:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/copilotkit/openduet.md) |
 | [AxiomMath/CFSG](https://github.com/AxiomMath/CFSG) | Lean project | Runs in the browser with a free account | [guide](guides/axiommath/cfsg.md) |
 | [cld-tools/Claude-Desktop-Download](https://github.com/cld-tools/Claude-Desktop-Download) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cld-tools/claude-desktop-download.md) |
 | [crsr-tools/Cursor-AI-Download](https://github.com/crsr-tools/Cursor-AI-Download) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/crsr-tools/cursor-ai-download.md) |
@@ -38,7 +39,6 @@ _1561 guides written so far · last update 2026-10-27 22:21 UTC_
 | [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | Shell project | Runs in the browser with a free account | [guide](guides/ryze-ai-adgent/open-seo-mcp-skills.md) |
 | [trycompai/crm](https://github.com/trycompai/crm) | JavaScript project | Runs in the browser with a free account | [guide](guides/trycompai/crm.md) |
 | [Tencent-Hunyuan/Hy-Nomas](https://github.com/Tencent-Hunyuan/Hy-Nomas) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent-hunyuan/hy-nomas.md) |
-| [lasharor/cleanyourtv-WebOS](https://github.com/lasharor/cleanyourtv-WebOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/lasharor/cleanyourtv-webos.md) |
 <!-- latest:end -->
 
 ## How it works

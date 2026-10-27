@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T06:09:55.490Z",
- "totalGuides": 1518,
+ "updatedAt": "2026-10-27T06:09:55.805Z",
+ "totalGuides": 1519,
  "items": [
+  {
+   "fullName": "Esmerubphire/astrbot_plugin_feiyu_voice",
+   "owner": "Esmerubphire",
+   "name": "astrbot_plugin_feiyu_voice",
+   "url": "https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice",
+   "avatar": "https://avatars.githubusercontent.com/u/107990197?v=4",
+   "description": "AstrBot plugin and local HTTP service for Feiyu TTS, RVC v1 and optional score singing",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 53,
+   "forks": 3,
+   "createdAt": "2026-10-25T07:06:24Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T06:09:55.804Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Esmerubphire/astrbot_plugin_feiyu_voice/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Esmerubphire/astrbot_plugin_feiyu_voice?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Esmerubphire/astrbot_plugin_feiyu_voice",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice.git\ncd astrbot_plugin_feiyu_voice\npip install -r requirements.txt\npython main.py",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice\nWhat it says it does: \"AstrBot plugin and local HTTP service for Feiyu TTS, RVC v1 and optional score singing\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T06:09:55.804Z"
+  },
   {
    "fullName": "aiden0rchad/homelab-atlas",
    "owner": "aiden0rchad",
@@ -32842,75 +32904,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/horncanaryinterest93/BorisFX\nWhat it says it does: \"Professional Borisfx visual effects suite 2026 - Full working installer with complete standalone setup, ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T14:34:50.215Z"
-  },
-  {
-   "fullName": "joeseesun/lexfridman-cn",
-   "owner": "joeseesun",
-   "name": "lexfridman-cn",
-   "url": "https://github.com/joeseesun/lexfridman-cn",
-   "avatar": "https://avatars.githubusercontent.com/u/3236682?v=4",
-   "description": "Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
-   "language": "HTML",
-   "topics": [
-    "ai-translation",
-    "chinese",
-    "lex-fridman",
-    "podcast",
-    "python",
-    "rss",
-    "static-site"
-   ],
-   "license": "MIT",
-   "stars": 134,
-   "forks": 24,
-   "createdAt": "2026-10-18T15:55:16Z",
-   "branch": "main",
-   "homepage": "https://lex.qiaomu.ai/",
-   "addedAt": "2026-10-19T14:34:49.992Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/joeseesun/lexfridman-cn?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/joeseesun/lexfridman-cn",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/joeseesun/lexfridman-cn/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/joeseesun/lexfridman-cn.git\ncd lexfridman-cn",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/joeseesun/lexfridman-cn\nWhat it says it does: \"Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T14:34:49.992Z"
   }
  ],
  "levels": {
+  "account": 293,
   "instant": 60,
   "heavy": 87,
-  "account": 293,
   "read": 60
  }
 }

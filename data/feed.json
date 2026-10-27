@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T18:11:58.705Z",
- "totalGuides": 1548,
+ "updatedAt": "2026-10-27T18:11:58.943Z",
+ "totalGuides": 1549,
  "items": [
+  {
+   "fullName": "man15h/tellyscope",
+   "owner": "man15h",
+   "name": "tellyscope",
+   "url": "https://github.com/man15h/tellyscope",
+   "avatar": "https://avatars.githubusercontent.com/u/13364153?v=4",
+   "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Under 3 MB, no tracking, no root, no PC.",
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "androidtv",
+    "googletv",
+    "privacy"
+   ],
+   "license": "GPL-3.0",
+   "stars": 281,
+   "forks": 7,
+   "createdAt": "2026-10-22T19:51:46Z",
+   "branch": "main",
+   "homepage": "https://man15h.github.io/tellyscope/",
+   "addedAt": "2026-10-27T18:11:58.942Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/man15h/tellyscope?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/man15h/tellyscope",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/man15h/tellyscope/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/man15h/tellyscope.git\ncd tellyscope",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/man15h/tellyscope\nWhat it says it does: \"Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Under 3 MB, no tracking, no root, no PC.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T18:11:58.942Z"
+  },
   {
    "fullName": "enesozturk/dimensional-drawing",
    "owner": "enesozturk",
@@ -32919,76 +32981,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/tangency-labs/solidcraft\nWhat it says it does: \"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T20:15:02.476Z"
-  },
-  {
-   "fullName": "TonF1917/claude-desktop-multiple-windows-different-api",
-   "owner": "TonF1917",
-   "name": "claude-desktop-multiple-windows-different-api",
-   "url": "https://github.com/TonF1917/claude-desktop-multiple-windows-different-api",
-   "avatar": "https://avatars.githubusercontent.com/u/266329044?v=4",
-   "description": "Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom / third-party APIs (cc-switch). Windows. 多开 Claude Desktop,多个窗口同时使用不同 API(官方订阅 + 第三方 API 同时工作)。",
-   "language": "PowerShell",
-   "topics": [
-    "anthropic",
-    "api-switcher",
-    "cc-switch",
-    "claude",
-    "claude-code",
-    "claude-desktop",
-    "custom-api",
-    "different-api"
-   ],
-   "license": "MIT",
-   "stars": 265,
-   "forks": 10,
-   "createdAt": "2026-10-14T11:42:15Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T20:15:02.313Z",
-   "stack": {
-    "kind": "other",
-    "label": "PowerShell project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/TonF1917/claude-desktop-multiple-windows-different-api?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/TonF1917/claude-desktop-multiple-windows-different-api",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/TonF1917/claude-desktop-multiple-windows-different-api/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/TonF1917/claude-desktop-multiple-windows-different-api.git\ncd claude-desktop-multiple-windows-different-api",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/TonF1917/claude-desktop-multiple-windows-different-api\nWhat it says it does: \"Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom / third-party APIs (cc-switch). Windows. 多开 Claude Desktop,多个窗口同时使用不同 API(官方订阅 + 第三方 API 同时工作)。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T20:15:02.313Z"
   }
  ],
  "levels": {
-  "account": 294,
+  "heavy": 87,
+  "account": 293,
   "instant": 63,
-  "heavy": 86,
   "read": 57
  }
 }

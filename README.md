@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1548 guides written so far · last update 2026-10-27 18:11 UTC_
+_1549 guides written so far · last update 2026-10-27 18:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [man15h/tellyscope](https://github.com/man15h/tellyscope) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/man15h/tellyscope.md) |
 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | HTML project | Runs in the browser with a free account | [guide](guides/enesozturk/dimensional-drawing.md) |
 | [jianxinss/iching-64-motion](https://github.com/jianxinss/iching-64-motion) | React app | Runs in a browser tab, no account needed | [guide](guides/jianxinss/iching-64-motion.md) |
 | [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Rust project | Runs in the browser with a free account | [guide](guides/emanuele-em/kanzo.md) |
@@ -38,7 +39,6 @@ _1548 guides written so far · last update 2026-10-27 18:11 UTC_
 | [ConquerorPhase/TAL-U-NO-Synth-Full-2026](https://github.com/ConquerorPhase/TAL-U-NO-Synth-Full-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/conquerorphase/tal-u-no-synth-full-2026.md) |
 | [patch-gg/anymove](https://github.com/patch-gg/anymove) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/patch-gg/anymove.md) |
 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/anhao/ai-pose-gallery-zh.md) |
-| [Deibler/openskycam](https://github.com/Deibler/openskycam) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/deibler/openskycam.md) |
 <!-- latest:end -->
 
 ## How it works

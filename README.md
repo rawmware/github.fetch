@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1540 guides written so far · last update 2026-10-27 18:11 UTC_
+_1541 guides written so far · last update 2026-10-27 18:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [qybaihe/bla](https://github.com/qybaihe/bla) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/qybaihe/bla.md) |
 | [ConquerorPhase/TAL-U-NO-Synth-Full-2026](https://github.com/ConquerorPhase/TAL-U-NO-Synth-Full-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/conquerorphase/tal-u-no-synth-full-2026.md) |
 | [patch-gg/anymove](https://github.com/patch-gg/anymove) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/patch-gg/anymove.md) |
 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/anhao/ai-pose-gallery-zh.md) |
@@ -38,7 +39,6 @@ _1540 guides written so far · last update 2026-10-27 18:11 UTC_
 | [kystt29/capricorn](https://github.com/kystt29/capricorn) | Python project | Runs in the browser with a free account | [guide](guides/kystt29/capricorn.md) |
 | [DialingSpoon527/seedsow-lua-editor](https://github.com/DialingSpoon527/seedsow-lua-editor) | Python project | Runs in the browser with a free account | [guide](guides/dialingspoon527/seedsow-lua-editor.md) |
 | [DNFDEVS/medeo-font](https://github.com/DNFDEVS/medeo-font) | Python project | Runs in the browser with a free account | [guide](guides/dnfdevs/medeo-font.md) |
-| [PierreTucker147/deepseek-uncensored](https://github.com/PierreTucker147/deepseek-uncensored) | Python project | Runs in the browser with a free account | [guide](guides/pierretucker147/deepseek-uncensored.md) |
 <!-- latest:end -->
 
 ## How it works

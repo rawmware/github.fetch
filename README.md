@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1550 guides written so far · last update 2026-10-27 18:11 UTC_
+_1551 guides written so far · last update 2026-10-27 18:11 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Tencent-Hunyuan/Hy-Nomas](https://github.com/Tencent-Hunyuan/Hy-Nomas) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/tencent-hunyuan/hy-nomas.md) |
 | [lasharor/cleanyourtv-WebOS](https://github.com/lasharor/cleanyourtv-WebOS) | JavaScript project | Runs in the browser with a free account | [guide](guides/lasharor/cleanyourtv-webos.md) |
 | [man15h/tellyscope](https://github.com/man15h/tellyscope) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/man15h/tellyscope.md) |
 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | HTML project | Runs in the browser with a free account | [guide](guides/enesozturk/dimensional-drawing.md) |
@@ -38,7 +39,6 @@ _1550 guides written so far · last update 2026-10-27 18:11 UTC_
 | [Shagg88/COGBox](https://github.com/Shagg88/COGBox) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/shagg88/cogbox.md) |
 | [qybaihe/bla](https://github.com/qybaihe/bla) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/qybaihe/bla.md) |
 | [ConquerorPhase/TAL-U-NO-Synth-Full-2026](https://github.com/ConquerorPhase/TAL-U-NO-Synth-Full-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/conquerorphase/tal-u-no-synth-full-2026.md) |
-| [patch-gg/anymove](https://github.com/patch-gg/anymove) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/patch-gg/anymove.md) |
 <!-- latest:end -->
 
 ## How it works

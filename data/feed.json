@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T18:11:57.315Z",
- "totalGuides": 1543,
+ "updatedAt": "2026-10-27T18:11:57.646Z",
+ "totalGuides": 1544,
  "items": [
+  {
+   "fullName": "arantes-gabs/fora-de-cena",
+   "owner": "arantes-gabs",
+   "name": "fora-de-cena",
+   "url": "https://github.com/arantes-gabs/fora-de-cena",
+   "avatar": "https://avatars.githubusercontent.com/u/59979807?v=4",
+   "description": "Saídas criativas para chamadas de vídeo no Windows, com processamento local. Instalador e executável único.",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 72,
+   "forks": 10,
+   "createdAt": "2026-10-26T16:02:08Z",
+   "branch": "main",
+   "homepage": "https://github.com/arantes-gabs/fora-de-cena/releases/tag/v0.4.0",
+   "addedAt": "2026-10-27T18:11:57.645Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/arantes-gabs/fora-de-cena/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/arantes-gabs/fora-de-cena?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/arantes-gabs/fora-de-cena",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/arantes-gabs/fora-de-cena/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/arantes-gabs/fora-de-cena.git\ncd fora-de-cena\npip install -r requirements.txt\npython main.py",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/arantes-gabs/fora-de-cena\nWhat it says it does: \"Saídas criativas para chamadas de vídeo no Windows, com processamento local. Instalador e executável único.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T18:11:57.645Z"
+  },
   {
    "fullName": "konlu/story-studio",
    "owner": "konlu",
@@ -32949,70 +33011,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/antfu/furifont\nWhat it says it does: \"A Japanese font that shows furigana by itself.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T20:15:01.499Z"
-  },
-  {
-   "fullName": "kitlangton/scrawl",
-   "owner": "kitlangton",
-   "name": "scrawl",
-   "url": "https://github.com/kitlangton/scrawl",
-   "avatar": "https://avatars.githubusercontent.com/u/7587245?v=4",
-   "description": "Show an agent a problem: mark up, record, send",
-   "language": "Rust",
-   "topics": [
-    "ai-agents",
-    "claude-code",
-    "coding-agents",
-    "developer-tools",
-    "gpui",
-    "macos",
-    "opencode",
-    "rust"
-   ],
-   "license": "MIT",
-   "stars": 413,
-   "forks": 27,
-   "createdAt": "2026-10-14T23:21:44Z",
-   "branch": "main",
-   "homepage": "https://scrawl.kitlangton.com",
-   "addedAt": "2026-10-19T20:15:01.178Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/kitlangton/scrawl?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/kitlangton/scrawl",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kitlangton/scrawl/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/kitlangton/scrawl.git\ncd scrawl\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/kitlangton/scrawl\nWhat it says it does: \"Show an agent a problem: mark up, record, send\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T20:15:01.178Z"
   }
  ],
  "levels": {

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1512 guides written so far · last update 2026-10-27 06:09 UTC_
+_1513 guides written so far · last update 2026-10-27 06:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [josiahg2502-glitch/Smash4PC](https://github.com/josiahg2502-glitch/Smash4PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/josiahg2502-glitch/smash4pc.md) |
 | [bnbxcs/TMTN](https://github.com/bnbxcs/TMTN) | Express app | Runs in a browser tab, no account needed | [guide](guides/bnbxcs/tmtn.md) |
 | [deepopen-com/deepopen-3d-webs](https://github.com/deepopen-com/deepopen-3d-webs) | Python Gradio app | Needs a real machine (or a GPU) to run | [guide](guides/deepopen-com/deepopen-3d-webs.md) |
 | [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/junwan666/astrbot-for-android.md) |
@@ -38,7 +39,6 @@ _1512 guides written so far · last update 2026-10-27 06:09 UTC_
 | [Clair-ChenShoujie/Babeldoc4GPT](https://github.com/Clair-ChenShoujie/Babeldoc4GPT) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clair-chenshoujie/babeldoc4gpt.md) |
 | [ngxson/esp32-usb-to-airprint](https://github.com/ngxson/esp32-usb-to-airprint) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ngxson/esp32-usb-to-airprint.md) |
 | [daniellockyer/dstack](https://github.com/daniellockyer/dstack) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/daniellockyer/dstack.md) |
-| [0xSero/all-historical-evidence-of-jesus-christ](https://github.com/0xSero/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/0xsero/all-historical-evidence-of-jesus-christ.md) |
 <!-- latest:end -->
 
 ## How it works

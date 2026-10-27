@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-27T18:11:57.107Z",
- "totalGuides": 1542,
+ "updatedAt": "2026-10-27T18:11:57.315Z",
+ "totalGuides": 1543,
  "items": [
+  {
+   "fullName": "konlu/story-studio",
+   "owner": "konlu",
+   "name": "story-studio",
+   "url": "https://github.com/konlu/story-studio",
+   "avatar": "https://avatars.githubusercontent.com/u/198685879?v=4",
+   "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 80,
+   "forks": 23,
+   "createdAt": "2026-10-26T09:20:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-27T18:11:57.315Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/konlu/story-studio/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/konlu/story-studio?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/konlu/story-studio",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/konlu/story-studio/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/konlu/story-studio.git\ncd story-studio",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/konlu/story-studio\nWhat it says it does: \"从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-27T18:11:57.315Z"
+  },
   {
    "fullName": "Shagg88/COGBox",
    "owner": "Shagg88",
@@ -32951,69 +33013,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/kitlangton/scrawl\nWhat it says it does: \"Show an agent a problem: mark up, record, send\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-19T20:15:01.178Z"
-  },
-  {
-   "fullName": "StraitShield/FL-Studio",
-   "owner": "StraitShield",
-   "name": "FL-Studio",
-   "url": "https://github.com/StraitShield/FL-Studio",
-   "avatar": "https://avatars.githubusercontent.com/u/296672802?v=4",
-   "description": "Fl Studio 2025 complete standalone setup. Ready-to-run desktop installation with all features unlocked.",
-   "language": null,
-   "topics": [
-    "audio-engineering",
-    "beat-making",
-    "digital-audio-workstation",
-    "fl",
-    "fl-studio-10",
-    "fl-studio-basic",
-    "fl-studio-classic",
-    "fruity-loops"
-   ],
-   "license": null,
-   "stars": 97,
-   "forks": 1,
-   "createdAt": "2026-10-18T14:05:32Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-19T20:15:01.000Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/StraitShield/FL-Studio",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/StraitShield/FL-Studio/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/StraitShield/FL-Studio\nWhat it says it does: \"Fl Studio 2025 complete standalone setup. Ready-to-run desktop installation with all features unlocked.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-19T20:15:01.000Z"
   }
  ],
  "levels": {
+  "account": 295,
   "heavy": 86,
   "instant": 62,
-  "read": 58,
-  "account": 294
+  "read": 57
  }
 }

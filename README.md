@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1514 guides written so far · last update 2026-10-27 06:09 UTC_
+_1515 guides written so far · last update 2026-10-27 06:09 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [typetheoryforall/FVjobs](https://github.com/typetheoryforall/FVjobs) | Python project | Runs in the browser with a free account | [guide](guides/typetheoryforall/fvjobs.md) |
 | [derek-zhuolin/motion-skill](https://github.com/derek-zhuolin/motion-skill) | React app | Runs in a browser tab, no account needed | [guide](guides/derek-zhuolin/motion-skill.md) |
 | [josiahg2502-glitch/Smash4PC](https://github.com/josiahg2502-glitch/Smash4PC) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/josiahg2502-glitch/smash4pc.md) |
 | [bnbxcs/TMTN](https://github.com/bnbxcs/TMTN) | Express app | Runs in a browser tab, no account needed | [guide](guides/bnbxcs/tmtn.md) |
@@ -38,7 +39,6 @@ _1514 guides written so far · last update 2026-10-27 06:09 UTC_
 | [BenDBSS/Riposte-Frontline-Source](https://github.com/BenDBSS/Riposte-Frontline-Source) | JavaScript project | Runs in the browser with a free account | [guide](guides/bendbss/riposte-frontline-source.md) |
 | [yy838255939/duozhi-workbench](https://github.com/yy838255939/duozhi-workbench) | Vite app | Runs in the browser with a free account | [guide](guides/yy838255939/duozhi-workbench.md) |
 | [Clair-ChenShoujie/Babeldoc4GPT](https://github.com/Clair-ChenShoujie/Babeldoc4GPT) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clair-chenshoujie/babeldoc4gpt.md) |
-| [ngxson/esp32-usb-to-airprint](https://github.com/ngxson/esp32-usb-to-airprint) | C project | Needs a real machine (or a GPU) to run | [guide](guides/ngxson/esp32-usb-to-airprint.md) |
 <!-- latest:end -->
 
 ## How it works

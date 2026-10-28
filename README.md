@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1618 guides written so far · last update 2026-10-28 19:48 UTC_
+_1619 guides written so far · last update 2026-10-28 19:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [khanhduytran0/LiveSimBooter](https://github.com/khanhduytran0/LiveSimBooter) | C project | Needs a real machine (or a GPU) to run | [guide](guides/khanhduytran0/livesimbooter.md) |
 | [jichang888/VPNvpn](https://github.com/jichang888/VPNvpn) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jichang888/vpnvpn.md) |
 | [fatihfurkan46/SignalWeave](https://github.com/fatihfurkan46/SignalWeave) | Python project | Runs in the browser with a free account | [guide](guides/fatihfurkan46/signalweave.md) |
 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/hruiccc/ruic-poseatlas.md) |
@@ -38,7 +39,6 @@ _1618 guides written so far · last update 2026-10-28 19:48 UTC_
 | [SleuthMesmerize/BorisFX](https://github.com/SleuthMesmerize/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sleuthmesmerize/borisfx.md) |
 | [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Python project | Runs in the browser with a free account | [guide](guides/minimax-ai/mcode-stack.md) |
 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript project | Runs in the browser with a free account | [guide](guides/jacke-pp/open-yoki.md) |
-| [changhaoting1998-star/manufacturing-wechat-miniapp-starter](https://github.com/changhaoting1998-star/manufacturing-wechat-miniapp-starter) | JavaScript project | Runs in the browser with a free account | [guide](guides/changhaoting1998-star/manufacturing-wechat-miniapp-starter.md) |
 <!-- latest:end -->
 
 ## How it works

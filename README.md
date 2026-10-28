@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1595 guides written so far · last update 2026-10-28 14:24 UTC_
+_1596 guides written so far · last update 2026-10-28 14:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MindIntensify/HitFilm](https://github.com/MindIntensify/HitFilm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindintensify/hitfilm.md) |
 | [Fountainwithretreat/BorisFX](https://github.com/Fountainwithretreat/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fountainwithretreat/borisfx.md) |
 | [LinkCounselor/Filmora-15](https://github.com/LinkCounselor/Filmora-15) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkcounselor/filmora-15.md) |
 | [marooncocoonexcite/LossLess-Scaling](https://github.com/marooncocoonexcite/LossLess-Scaling) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marooncocoonexcite/lossless-scaling.md) |
@@ -38,7 +39,6 @@ _1595 guides written so far · last update 2026-10-28 14:24 UTC_
 | [aa1143/NamiGPT](https://github.com/aa1143/NamiGPT) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/aa1143/namigpt.md) |
 | [AISEO-VirtualabDigital/mcp-video-editor](https://github.com/AISEO-VirtualabDigital/mcp-video-editor) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/aiseo-virtualabdigital/mcp-video-editor.md) |
 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openbmb/minicpm-ocr.md) |
-| [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | Node command-line tool | Runs in the browser with a free account | [guide](guides/saos-3624/dsh-video-storyboard.md) |
 <!-- latest:end -->
 
 ## How it works

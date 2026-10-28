@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T19:48:40.856Z",
- "totalGuides": 1608,
+ "updatedAt": "2026-10-28T19:48:41.080Z",
+ "totalGuides": 1609,
  "items": [
+  {
+   "fullName": "MiniMax-AI/mcode-stack",
+   "owner": "MiniMax-AI",
+   "name": "mcode-stack",
+   "url": "https://github.com/MiniMax-AI/mcode-stack",
+   "avatar": "https://avatars.githubusercontent.com/u/194880281?v=4",
+   "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-coding",
+    "claude-skills",
+    "coding-agent",
+    "harness-engineering",
+    "minimax-code"
+   ],
+   "license": "MIT",
+   "stars": 165,
+   "forks": 13,
+   "createdAt": "2026-10-28T02:17:41Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T19:48:41.079Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/MiniMax-AI/mcode-stack/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/MiniMax-AI/mcode-stack?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/MiniMax-AI/mcode-stack",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/MiniMax-AI/mcode-stack/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/MiniMax-AI/mcode-stack.git\ncd mcode-stack",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/MiniMax-AI/mcode-stack\nWhat it says it does: \"The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T19:48:41.079Z"
+  },
   {
    "fullName": "jacke-pp/open-yoki",
    "owner": "jacke-pp",
@@ -32928,70 +32997,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/fort-skins/.github\nWhat it says it does: \"🔥 fortnite-skin-swapper-skin-changer-for-all-skins\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T21:31:16.723Z"
-  },
-  {
-   "fullName": "kaankiziltug/logo-design-skill",
-   "owner": "kaankiziltug",
-   "name": "logo-design-skill",
-   "url": "https://github.com/kaankiziltug/logo-design-skill",
-   "avatar": "https://avatars.githubusercontent.com/u/119437067?v=4",
-   "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-   "language": "HTML",
-   "topics": [
-    "agent-skills",
-    "branding",
-    "claude",
-    "claude-skills",
-    "codex",
-    "gemini-cli",
-    "logo-design",
-    "svg"
-   ],
-   "license": "MIT",
-   "stars": 3832,
-   "forks": 300,
-   "createdAt": "2026-09-26T08:23:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-20T17:56:54.673Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/kaankiziltug/logo-design-skill?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/kaankiziltug/logo-design-skill",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kaankiziltug/logo-design-skill/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/kaankiziltug/logo-design-skill.git\ncd logo-design-skill",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/kaankiziltug/logo-design-skill\nWhat it says it does: \"A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T17:56:54.673Z"
   }
  ],
  "levels": {

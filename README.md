@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1608 guides written so far · last update 2026-10-28 19:48 UTC_
+_1609 guides written so far · last update 2026-10-28 19:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Python project | Runs in the browser with a free account | [guide](guides/minimax-ai/mcode-stack.md) |
 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript project | Runs in the browser with a free account | [guide](guides/jacke-pp/open-yoki.md) |
 | [changhaoting1998-star/manufacturing-wechat-miniapp-starter](https://github.com/changhaoting1998-star/manufacturing-wechat-miniapp-starter) | JavaScript project | Runs in the browser with a free account | [guide](guides/changhaoting1998-star/manufacturing-wechat-miniapp-starter.md) |
 | [CumulusAlpha/Dex-Supermimic](https://github.com/CumulusAlpha/Dex-Supermimic) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/cumulusalpha/dex-supermimic.md) |
@@ -38,7 +39,6 @@ _1608 guides written so far · last update 2026-10-28 19:48 UTC_
 | [patch-gg/crowdbricks](https://github.com/patch-gg/crowdbricks) | Python project | Runs in the browser with a free account | [guide](guides/patch-gg/crowdbricks.md) |
 | [nullvector7663/Persona-Forge](https://github.com/nullvector7663/Persona-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nullvector7663/persona-forge.md) |
 | [BarbarianCare/KMS-Pico](https://github.com/BarbarianCare/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/barbariancare/kms-pico.md) |
-| [TempoEstimate/Cinema-4d](https://github.com/TempoEstimate/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempoestimate/cinema-4d.md) |
 <!-- latest:end -->
 
 ## How it works

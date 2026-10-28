@@ -1,8 +1,64 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T19:48:42.056Z",
- "totalGuides": 1613,
+ "updatedAt": "2026-10-28T19:48:42.232Z",
+ "totalGuides": 1614,
  "items": [
+  {
+   "fullName": "Novavyalimit/vanta-v2.1.0",
+   "owner": "Novavyalimit",
+   "name": "vanta-v2.1.0",
+   "url": "https://github.com/Novavyalimit/vanta-v2.1.0",
+   "avatar": "https://avatars.githubusercontent.com/u/316765884?v=4",
+   "description": "Published: 2026-10-28",
+   "language": null,
+   "topics": [
+    "clickgui",
+    "fabric",
+    "fabric-mod",
+    "minecraft",
+    "minecraft-client",
+    "minecraft-mod",
+    "utility-client"
+   ],
+   "license": "MIT",
+   "stars": 86,
+   "forks": 1,
+   "createdAt": "2026-10-28T14:35:35Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T19:48:42.231Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Novavyalimit/vanta-v2.1.0",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Novavyalimit/vanta-v2.1.0/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Novavyalimit/vanta-v2.1.0\nWhat it says it does: \"Published: 2026-10-28\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T19:48:42.231Z"
+  },
   {
    "fullName": "ScrewPantherRampart/clean-v4.0.3",
    "owner": "ScrewPantherRampart",
@@ -32895,77 +32951,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/tobi/disktree\nWhat it says it does: \"A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T21:31:17.977Z"
-  },
-  {
-   "fullName": "BlueHeisenberg/SCSKiller",
-   "owner": "BlueHeisenberg",
-   "name": "SCSKiller",
-   "url": "https://github.com/BlueHeisenberg/SCSKiller",
-   "avatar": "https://avatars.githubusercontent.com/u/2033896?v=4",
-   "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
-   "language": "C#",
-   "topics": [
-    "amd",
-    "directx12",
-    "nvidia",
-    "pc-gaming",
-    "shader-compilation",
-    "stutter",
-    "windows"
-   ],
-   "license": "GPL-3.0",
-   "stars": 3212,
-   "forks": 81,
-   "createdAt": "2026-09-29T21:01:10Z",
-   "branch": "main",
-   "homepage": "https://scskiller.com",
-   "addedAt": "2026-10-20T21:31:17.790Z",
-   "stack": {
-    "kind": "native",
-    "label": "C# project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/BlueHeisenberg/SCSKiller?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/BlueHeisenberg/SCSKiller",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BlueHeisenberg/SCSKiller/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/BlueHeisenberg/SCSKiller.git\ncd SCSKiller",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/BlueHeisenberg/SCSKiller\nWhat it says it does: \"Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T21:31:17.790Z"
   }
  ],
  "levels": {
-  "read": 72,
+  "read": 73,
   "instant": 66,
   "account": 281,
-  "heavy": 81
+  "heavy": 80
  }
 }

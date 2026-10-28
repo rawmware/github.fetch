@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1602 guides written so far · last update 2026-10-28 14:24 UTC_
+_1603 guides written so far · last update 2026-10-28 14:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kelvinkn17/skills](https://github.com/kelvinkn17/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/kelvinkn17/skills.md) |
 | [davemessew/AgentFlux](https://github.com/davemessew/AgentFlux) | Vite app | Runs in the browser with a free account | [guide](guides/davemessew/agentflux.md) |
 | [zhtyyx/codex-seo](https://github.com/zhtyyx/codex-seo) | Python project | Runs in the browser with a free account | [guide](guides/zhtyyx/codex-seo.md) |
 | [patch-gg/crowdbricks](https://github.com/patch-gg/crowdbricks) | Python project | Runs in the browser with a free account | [guide](guides/patch-gg/crowdbricks.md) |
@@ -38,7 +39,6 @@ _1602 guides written so far · last update 2026-10-28 14:24 UTC_
 | [LinkCounselor/Filmora-15](https://github.com/LinkCounselor/Filmora-15) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkcounselor/filmora-15.md) |
 | [marooncocoonexcite/LossLess-Scaling](https://github.com/marooncocoonexcite/LossLess-Scaling) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marooncocoonexcite/lossless-scaling.md) |
 | [EgretRestore/Camtasia](https://github.com/EgretRestore/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/egretrestore/camtasia.md) |
-| [atlanai/analytics-playbook](https://github.com/atlanai/analytics-playbook) | HTML project | Runs in the browser with a free account | [guide](guides/atlanai/analytics-playbook.md) |
 <!-- latest:end -->
 
 ## How it works

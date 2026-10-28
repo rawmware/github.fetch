@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1575 guides written so far · last update 2026-10-28 07:30 UTC_
+_1576 guides written so far · last update 2026-10-28 07:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BranchLegendWhirl71/hexa-v2.6.0](https://github.com/BranchLegendWhirl71/hexa-v2.6.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/branchlegendwhirl71/hexa-v2.6.0.md) |
 | [molence/Mol-1](https://github.com/molence/Mol-1) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/molence/mol-1.md) |
 | [miao-org/awesome-supermimic](https://github.com/miao-org/awesome-supermimic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/miao-org/awesome-supermimic.md) |
 | [lklbar666/geopulse](https://github.com/lklbar666/geopulse) | Fastify app | Runs in a browser tab, no account needed | [guide](guides/lklbar666/geopulse.md) |
@@ -38,7 +39,6 @@ _1575 guides written so far · last update 2026-10-28 07:30 UTC_
 | [rudderlabs/devbox](https://github.com/rudderlabs/devbox) | JavaScript project | Runs in the browser with a free account | [guide](guides/rudderlabs/devbox.md) |
 | [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one) | Vite app | Runs in the browser with a free account | [guide](guides/vaishantsah/watson-ai-osint-all-in-one.md) |
 | [ChannelCooperStart/capri-ai](https://github.com/ChannelCooperStart/capri-ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/channelcooperstart/capri-ai.md) |
-| [horizon-rust/horizon](https://github.com/horizon-rust/horizon) | Rust project | Runs in the browser with a free account | [guide](guides/horizon-rust/horizon.md) |
 <!-- latest:end -->
 
 ## How it works

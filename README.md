@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1622 guides written so far · last update 2026-10-28 23:39 UTC_
+_1623 guides written so far · last update 2026-10-28 23:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | React app | Runs in a browser tab, no account needed | [guide](guides/floatboatai/openminutes.md) |
 | [Humpalumps/Ultra-Water](https://github.com/Humpalumps/Ultra-Water) | Vite app | Runs in a browser tab, no account needed | [guide](guides/humpalumps/ultra-water.md) |
 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | Vite app | Runs in the browser with a free account | [guide](guides/l0ng-ai/openidea.md) |
 | [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords) | JavaScript project | Runs in the browser with a free account | [guide](guides/shipwords-dev/shipwords.md) |
@@ -38,7 +39,6 @@ _1622 guides written so far · last update 2026-10-28 23:39 UTC_
 | [Novavyalimit/vanta-v2.1.0](https://github.com/Novavyalimit/vanta-v2.1.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/novavyalimit/vanta-v2.1.0.md) |
 | [ScrewPantherRampart/clean-v4.0.3](https://github.com/ScrewPantherRampart/clean-v4.0.3) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/screwpantherrampart/clean-v4.0.3.md) |
 | [brainstormity/LightPost](https://github.com/brainstormity/LightPost) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/brainstormity/lightpost.md) |
-| [ScalarGrouse/SketchUp-Pro](https://github.com/ScalarGrouse/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scalargrouse/sketchup-pro.md) |
 <!-- latest:end -->
 
 ## How it works

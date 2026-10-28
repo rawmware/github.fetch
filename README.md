@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1626 guides written so far · last update 2026-10-28 23:39 UTC_
+_1627 guides written so far · last update 2026-10-28 23:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Nutlope/bygga](https://github.com/Nutlope/bygga) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nutlope/bygga.md) |
 | [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) | JavaScript project | Runs in the browser with a free account | [guide](guides/0xs4n4tg/kinetograph.md) |
 | [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jmanico/grim-prompter.md) |
 | [anomalyco/hokum](https://github.com/anomalyco/hokum) | Rust project | Runs in the browser with a free account | [guide](guides/anomalyco/hokum.md) |
@@ -38,7 +39,6 @@ _1626 guides written so far · last update 2026-10-28 23:39 UTC_
 | [jichang888/VPNvpn](https://github.com/jichang888/VPNvpn) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jichang888/vpnvpn.md) |
 | [fatihfurkan46/SignalWeave](https://github.com/fatihfurkan46/SignalWeave) | Python project | Runs in the browser with a free account | [guide](guides/fatihfurkan46/signalweave.md) |
 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/hruiccc/ruic-poseatlas.md) |
-| [ninetyhe-90/de-armor](https://github.com/ninetyhe-90/de-armor) | HTML project | Runs in the browser with a free account | [guide](guides/ninetyhe-90/de-armor.md) |
 <!-- latest:end -->
 
 ## How it works

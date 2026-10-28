@@ -1,8 +1,78 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T14:24:58.918Z",
- "totalGuides": 1600,
+ "updatedAt": "2026-10-28T14:24:59.461Z",
+ "totalGuides": 1601,
  "items": [
+  {
+   "fullName": "zhtyyx/codex-seo",
+   "owner": "zhtyyx",
+   "name": "codex-seo",
+   "url": "https://github.com/zhtyyx/codex-seo",
+   "avatar": "https://avatars.githubusercontent.com/u/50820129?v=4",
+   "description": "Free, open-source SEO audits inside OpenAI Codex CLI. Port of claude-seo: 26 skills, 19 specialist roles, technical SEO / schema / GEO / local / ecommerce.",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "claude-seo-port",
+    "codex",
+    "codex-cli",
+    "openai",
+    "seo",
+    "seo-audit"
+   ],
+   "license": "MIT",
+   "stars": 72,
+   "forks": 18,
+   "createdAt": "2026-10-27T08:59:34Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T14:24:59.460Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/zhtyyx/codex-seo/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/zhtyyx/codex-seo?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/zhtyyx/codex-seo",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/zhtyyx/codex-seo/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/zhtyyx/codex-seo.git\ncd codex-seo\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/zhtyyx/codex-seo\nWhat it says it does: \"Free, open-source SEO audits inside OpenAI Codex CLI. Port of claude-seo: 26 skills, 19 specialist roles, technical SEO / schema / GEO / local / ecommerce.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T14:24:59.460Z"
+  },
   {
    "fullName": "patch-gg/crowdbricks",
    "owner": "patch-gg",
@@ -32914,70 +32984,6 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/thebcd69/bcd-games\nWhat it says it does: \"BCD: Windows games on iPhone and iPad. Steam and GOG built in.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T17:56:52.861Z"
-  },
-  {
-   "fullName": "indexable-inc/ra-jit",
-   "owner": "indexable-inc",
-   "name": "ra-jit",
-   "url": "https://github.com/indexable-inc/ra-jit",
-   "avatar": "https://avatars.githubusercontent.com/u/263587422?v=4",
-   "description": "Rust compiler daemon on rust-analyzer: fast incremental cargo builds and live edits to running programs. Try: nix run github:indexable-inc/ra-jit",
-   "language": "Rust",
-   "topics": [
-    "cargo",
-    "compiler",
-    "cranelift",
-    "developer-tools",
-    "hot-reload",
-    "incremental-compilation",
-    "jit",
-    "live-coding"
-   ],
-   "license": "Apache-2.0",
-   "stars": 137,
-   "forks": 3,
-   "createdAt": "2026-10-19T23:31:09Z",
-   "branch": "main",
-   "homepage": "https://ra-jit.ix.dev",
-   "addedAt": "2026-10-20T17:56:52.663Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/indexable-inc/ra-jit?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/indexable-inc/ra-jit",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/indexable-inc/ra-jit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/indexable-inc/ra-jit.git\ncd ra-jit\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/indexable-inc/ra-jit\nWhat it says it does: \"Rust compiler daemon on rust-analyzer: fast incremental cargo builds and live edits to running programs. Try: nix run github:indexable-inc/ra-jit\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T17:56:52.663Z"
   }
  ],
  "levels": {

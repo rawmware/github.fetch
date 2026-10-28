@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1569 guides written so far · last update 2026-10-28 01:36 UTC_
+_1570 guides written so far · last update 2026-10-28 01:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SoldadoGhost/T6Requiem-APK](https://github.com/SoldadoGhost/T6Requiem-APK) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soldadoghost/t6requiem-apk.md) |
 | [Mayzmei/anime-series-maker](https://github.com/Mayzmei/anime-series-maker) | Python project | Runs in the browser with a free account | [guide](guides/mayzmei/anime-series-maker.md) |
 | [YotsuhaMeru/NeToRne](https://github.com/YotsuhaMeru/NeToRne) | C project | Needs a real machine (or a GPU) to run | [guide](guides/yotsuhameru/netorne.md) |
 | [rudderlabs/devbox](https://github.com/rudderlabs/devbox) | JavaScript project | Runs in the browser with a free account | [guide](guides/rudderlabs/devbox.md) |
@@ -38,7 +39,6 @@ _1569 guides written so far · last update 2026-10-28 01:36 UTC_
 | [AxiomMath/CFSG](https://github.com/AxiomMath/CFSG) | Lean project | Runs in the browser with a free account | [guide](guides/axiommath/cfsg.md) |
 | [cld-tools/Claude-Desktop-Download](https://github.com/cld-tools/Claude-Desktop-Download) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cld-tools/claude-desktop-download.md) |
 | [crsr-tools/Cursor-AI-Download](https://github.com/crsr-tools/Cursor-AI-Download) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/crsr-tools/cursor-ai-download.md) |
-| [hex-tools/hexstrike-ai-pc](https://github.com/hex-tools/hexstrike-ai-pc) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hex-tools/hexstrike-ai-pc.md) |
 <!-- latest:end -->
 
 ## How it works

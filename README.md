@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1564 guides written so far · last update 2026-10-27 22:21 UTC_
+_1565 guides written so far · last update 2026-10-28 01:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ChannelCooperStart/capri-ai](https://github.com/ChannelCooperStart/capri-ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/channelcooperstart/capri-ai.md) |
 | [horizon-rust/horizon](https://github.com/horizon-rust/horizon) | Rust project | Runs in the browser with a free account | [guide](guides/horizon-rust/horizon.md) |
 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/daveebbelaar/bama.md) |
 | [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/copilotkit/openduet.md) |
@@ -38,7 +39,6 @@ _1564 guides written so far · last update 2026-10-27 22:21 UTC_
 | [sybil-solutions/all-historical-evidence-of-jesus-christ](https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/sybil-solutions/all-historical-evidence-of-jesus-christ.md) |
 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | Python project | Runs in the browser with a free account | [guide](guides/interplains/zero-breach-toolkit.md) |
 | [DLSS-5-Swaper-New/.github](https://github.com/DLSS-5-Swaper-New/.github) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dlss-5-swaper-new/.github.md) |
-| [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | Shell project | Runs in the browser with a free account | [guide](guides/ryze-ai-adgent/open-seo-mcp-skills.md) |
 <!-- latest:end -->
 
 ## How it works

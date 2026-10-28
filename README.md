@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1578 guides written so far · last update 2026-10-28 07:30 UTC_
+_1579 guides written so far · last update 2026-10-28 07:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ExitGooseEntrance/relay-v2.2.0](https://github.com/ExitGooseEntrance/relay-v2.2.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exitgooseentrance/relay-v2.2.0.md) |
 | [UltraSultanHonor/recon-v1.7.0](https://github.com/UltraSultanHonor/recon-v1.7.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ultrasultanhonor/recon-v1.7.0.md) |
 | [Lookouteiseparator/droids-v1.5.2](https://github.com/Lookouteiseparator/droids-v1.5.2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lookouteiseparator/droids-v1.5.2.md) |
 | [BranchLegendWhirl71/hexa-v2.6.0](https://github.com/BranchLegendWhirl71/hexa-v2.6.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/branchlegendwhirl71/hexa-v2.6.0.md) |
@@ -38,7 +39,6 @@ _1578 guides written so far · last update 2026-10-28 07:30 UTC_
 | [SoldadoGhost/T6Requiem-APK](https://github.com/SoldadoGhost/T6Requiem-APK) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soldadoghost/t6requiem-apk.md) |
 | [Mayzmei/anime-series-maker](https://github.com/Mayzmei/anime-series-maker) | Python project | Runs in the browser with a free account | [guide](guides/mayzmei/anime-series-maker.md) |
 | [YotsuhaMeru/NeToRne](https://github.com/YotsuhaMeru/NeToRne) | C project | Needs a real machine (or a GPU) to run | [guide](guides/yotsuhameru/netorne.md) |
-| [rudderlabs/devbox](https://github.com/rudderlabs/devbox) | JavaScript project | Runs in the browser with a free account | [guide](guides/rudderlabs/devbox.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1607 guides written so far · last update 2026-10-28 14:25 UTC_
+_1608 guides written so far · last update 2026-10-28 19:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript project | Runs in the browser with a free account | [guide](guides/jacke-pp/open-yoki.md) |
 | [changhaoting1998-star/manufacturing-wechat-miniapp-starter](https://github.com/changhaoting1998-star/manufacturing-wechat-miniapp-starter) | JavaScript project | Runs in the browser with a free account | [guide](guides/changhaoting1998-star/manufacturing-wechat-miniapp-starter.md) |
 | [CumulusAlpha/Dex-Supermimic](https://github.com/CumulusAlpha/Dex-Supermimic) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/cumulusalpha/dex-supermimic.md) |
 | [krushant1122/MetalNX](https://github.com/krushant1122/MetalNX) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/krushant1122/metalnx.md) |
@@ -38,7 +39,6 @@ _1607 guides written so far · last update 2026-10-28 14:25 UTC_
 | [nullvector7663/Persona-Forge](https://github.com/nullvector7663/Persona-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nullvector7663/persona-forge.md) |
 | [BarbarianCare/KMS-Pico](https://github.com/BarbarianCare/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/barbariancare/kms-pico.md) |
 | [TempoEstimate/Cinema-4d](https://github.com/TempoEstimate/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempoestimate/cinema-4d.md) |
-| [MindIntensify/HitFilm](https://github.com/MindIntensify/HitFilm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindintensify/hitfilm.md) |
 <!-- latest:end -->
 
 ## How it works

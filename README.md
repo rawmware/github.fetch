@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1611 guides written so far · last update 2026-10-28 19:48 UTC_
+_1612 guides written so far · last update 2026-10-28 19:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [brainstormity/LightPost](https://github.com/brainstormity/LightPost) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/brainstormity/lightpost.md) |
 | [ScalarGrouse/SketchUp-Pro](https://github.com/ScalarGrouse/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scalargrouse/sketchup-pro.md) |
 | [SleuthMesmerize/BorisFX](https://github.com/SleuthMesmerize/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sleuthmesmerize/borisfx.md) |
 | [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Python project | Runs in the browser with a free account | [guide](guides/minimax-ai/mcode-stack.md) |
@@ -38,7 +39,6 @@ _1611 guides written so far · last update 2026-10-28 19:48 UTC_
 | [kelvinkn17/skills](https://github.com/kelvinkn17/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/kelvinkn17/skills.md) |
 | [davemessew/AgentFlux](https://github.com/davemessew/AgentFlux) | Vite app | Runs in the browser with a free account | [guide](guides/davemessew/agentflux.md) |
 | [zhtyyx/codex-seo](https://github.com/zhtyyx/codex-seo) | Python project | Runs in the browser with a free account | [guide](guides/zhtyyx/codex-seo.md) |
-| [patch-gg/crowdbricks](https://github.com/patch-gg/crowdbricks) | Python project | Runs in the browser with a free account | [guide](guides/patch-gg/crowdbricks.md) |
 <!-- latest:end -->
 
 ## How it works

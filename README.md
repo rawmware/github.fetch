@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1566 guides written so far · last update 2026-10-28 01:36 UTC_
+_1567 guides written so far · last update 2026-10-28 01:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rudderlabs/devbox](https://github.com/rudderlabs/devbox) | JavaScript project | Runs in the browser with a free account | [guide](guides/rudderlabs/devbox.md) |
 | [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one) | Vite app | Runs in the browser with a free account | [guide](guides/vaishantsah/watson-ai-osint-all-in-one.md) |
 | [ChannelCooperStart/capri-ai](https://github.com/ChannelCooperStart/capri-ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/channelcooperstart/capri-ai.md) |
 | [horizon-rust/horizon](https://github.com/horizon-rust/horizon) | Rust project | Runs in the browser with a free account | [guide](guides/horizon-rust/horizon.md) |
@@ -38,7 +39,6 @@ _1566 guides written so far · last update 2026-10-28 01:36 UTC_
 | [hex-tools/hexstrike-ai-pc](https://github.com/hex-tools/hexstrike-ai-pc) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hex-tools/hexstrike-ai-pc.md) |
 | [BufferPenguin/DLSS-5-Anywhere](https://github.com/BufferPenguin/DLSS-5-Anywhere) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bufferpenguin/dlss-5-anywhere.md) |
 | [sybil-solutions/all-historical-evidence-of-jesus-christ](https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/sybil-solutions/all-historical-evidence-of-jesus-christ.md) |
-| [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | Python project | Runs in the browser with a free account | [guide](guides/interplains/zero-breach-toolkit.md) |
 <!-- latest:end -->
 
 ## How it works

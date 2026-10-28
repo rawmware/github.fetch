@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1586 guides written so far · last update 2026-10-28 07:30 UTC_
+_1587 guides written so far · last update 2026-10-28 07:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aa1143/NamiGPT](https://github.com/aa1143/NamiGPT) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/aa1143/namigpt.md) |
 | [AISEO-VirtualabDigital/mcp-video-editor](https://github.com/AISEO-VirtualabDigital/mcp-video-editor) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/aiseo-virtualabdigital/mcp-video-editor.md) |
 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openbmb/minicpm-ocr.md) |
 | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | Node command-line tool | Runs in the browser with a free account | [guide](guides/saos-3624/dsh-video-storyboard.md) |
@@ -38,7 +39,6 @@ _1586 guides written so far · last update 2026-10-28 07:30 UTC_
 | [UltraSultanHonor/recon-v1.7.0](https://github.com/UltraSultanHonor/recon-v1.7.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ultrasultanhonor/recon-v1.7.0.md) |
 | [Lookouteiseparator/droids-v1.5.2](https://github.com/Lookouteiseparator/droids-v1.5.2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lookouteiseparator/droids-v1.5.2.md) |
 | [BranchLegendWhirl71/hexa-v2.6.0](https://github.com/BranchLegendWhirl71/hexa-v2.6.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/branchlegendwhirl71/hexa-v2.6.0.md) |
-| [molence/Mol-1](https://github.com/molence/Mol-1) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/molence/mol-1.md) |
 <!-- latest:end -->
 
 ## How it works

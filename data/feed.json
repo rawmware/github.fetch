@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T07:30:26.530Z",
- "totalGuides": 1581,
+ "updatedAt": "2026-10-28T07:30:26.898Z",
+ "totalGuides": 1582,
  "items": [
+  {
+   "fullName": "oxnw/ai-phone",
+   "owner": "oxnw",
+   "name": "ai-phone",
+   "url": "https://github.com/oxnw/ai-phone",
+   "avatar": "https://avatars.githubusercontent.com/u/13040117?v=4",
+   "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
+   "language": "Python",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 66,
+   "forks": 9,
+   "createdAt": "2026-10-27T19:17:56Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T07:30:26.897Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/oxnw/ai-phone/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/oxnw/ai-phone?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/oxnw/ai-phone",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/oxnw/ai-phone/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/oxnw/ai-phone.git\ncd ai-phone\npip install -e .",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/oxnw/ai-phone\nWhat it says it does: \"A SIP phone daemon with local speech and language models on Apple Silicon.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T07:30:26.897Z"
+  },
   {
    "fullName": "addozhang/leancast",
    "owner": "addozhang",
@@ -32959,76 +33021,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/val-tools/.github\nWhat it says it does: \"🔥 valorant-weapon-skin-changer-swapper-all-skins\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T13:02:56.040Z"
-  },
-  {
-   "fullName": "UnderleveledBuilder/awesome-short-drama-skills",
-   "owner": "UnderleveledBuilder",
-   "name": "awesome-short-drama-skills",
-   "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
-   "avatar": "https://avatars.githubusercontent.com/u/20830358?v=4",
-   "description": "AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniM",
-   "language": "HTML",
-   "topics": [
-    "agent-skills",
-    "ai-drama",
-    "ai-short-drama",
-    "awesome",
-    "awesome-list",
-    "claude-code",
-    "claude-skills",
-    "codex"
-   ],
-   "license": "CC0-1.0",
-   "stars": 364,
-   "forks": 44,
-   "createdAt": "2026-10-13T20:35:18Z",
-   "branch": "main",
-   "homepage": "https://shortdramaskills.com",
-   "addedAt": "2026-10-20T07:41:29.328Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/UnderleveledBuilder/awesome-short-drama-skills?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/UnderleveledBuilder/awesome-short-drama-skills",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/UnderleveledBuilder/awesome-short-drama-skills.git\ncd awesome-short-drama-skills",
-   "licenseNote": "CC0-1.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/UnderleveledBuilder/awesome-short-drama-skills\nWhat it says it does: \"AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniM\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T07:41:29.328Z"
   }
  ],
  "levels": {
+  "account": 285,
   "heavy": 87,
   "read": 61,
-  "instant": 67,
-  "account": 285
+  "instant": 67
  }
 }

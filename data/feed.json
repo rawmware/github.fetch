@@ -1,8 +1,62 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T07:30:26.045Z",
- "totalGuides": 1579,
+ "updatedAt": "2026-10-28T07:30:26.281Z",
+ "totalGuides": 1580,
  "items": [
+  {
+   "fullName": "Centaurbinexplode/nova-v1.9.2",
+   "owner": "Centaurbinexplode",
+   "name": "nova-v1.9.2",
+   "url": "https://github.com/Centaurbinexplode/nova-v1.9.2",
+   "avatar": "https://avatars.githubusercontent.com/u/316765300?v=4",
+   "description": "Published: 2026-10-28",
+   "language": null,
+   "topics": [
+    "fps",
+    "gaming",
+    "racing",
+    "rpg",
+    "strategy"
+   ],
+   "license": "MIT",
+   "stars": 87,
+   "forks": 1,
+   "createdAt": "2026-10-28T05:33:28Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T07:30:26.280Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Centaurbinexplode/nova-v1.9.2",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Centaurbinexplode/nova-v1.9.2/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Centaurbinexplode/nova-v1.9.2\nWhat it says it does: \"Published: 2026-10-28\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T07:30:26.280Z"
+  },
   {
    "fullName": "ExitGooseEntrance/relay-v2.2.0",
    "owner": "ExitGooseEntrance",
@@ -32994,73 +33048,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/wee-b/Jotlet\nWhat it says it does: \"随手记，本地日记小工具\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T07:41:29.111Z"
-  },
-  {
-   "fullName": "Hugo-Dz/spritefusion-sprite-normals",
-   "owner": "Hugo-Dz",
-   "name": "spritefusion-sprite-normals",
-   "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
-   "avatar": "https://avatars.githubusercontent.com/u/30731578?v=4",
-   "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
-   "language": "Rust",
-   "topics": [
-    "gamedev",
-    "normal-map",
-    "normal-mapping",
-    "pixel-art",
-    "sprites"
-   ],
-   "license": "MIT",
-   "stars": 100,
-   "forks": 5,
-   "createdAt": "2026-10-19T13:26:45Z",
-   "branch": "main",
-   "homepage": "https://www.spritefusion.com/docs/pixel-art-generator/api/generate-and-transform-images#normal-maps",
-   "addedAt": "2026-10-20T07:41:28.749Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Hugo-Dz/spritefusion-sprite-normals?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Hugo-Dz/spritefusion-sprite-normals",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Hugo-Dz/spritefusion-sprite-normals.git\ncd spritefusion-sprite-normals\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Hugo-Dz/spritefusion-sprite-normals\nWhat it says it does: \"A tool to generate normal maps from any sprite and animated sprite sheet.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T07:41:28.749Z"
   }
  ],
  "levels": {
-  "read": 60,
+  "read": 61,
   "heavy": 86,
   "instant": 67,
-  "account": 287
+  "account": 286
  }
 }

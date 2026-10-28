@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T07:30:28.878Z",
- "totalGuides": 1588,
+ "updatedAt": "2026-10-28T14:24:56.065Z",
+ "totalGuides": 1589,
  "items": [
+  {
+   "fullName": "smithjohn78390/tongjiang-lab",
+   "owner": "smithjohn78390",
+   "name": "tongjiang-lab",
+   "url": "https://github.com/smithjohn78390/tongjiang-lab",
+   "avatar": "https://avatars.githubusercontent.com/u/142080035?v=4",
+   "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+   "language": "HTML",
+   "topics": [
+    "3d",
+    "biology",
+    "chemistry",
+    "education",
+    "geography",
+    "high-school",
+    "interactive",
+    "open-educational-resources"
+   ],
+   "license": null,
+   "stars": 313,
+   "forks": 94,
+   "createdAt": "2026-10-28T04:29:29Z",
+   "branch": "main",
+   "homepage": "https://lab.tongjiang.app",
+   "addedAt": "2026-10-28T14:24:56.050Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/smithjohn78390/tongjiang-lab?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/smithjohn78390/tongjiang-lab",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/smithjohn78390/tongjiang-lab/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/smithjohn78390/tongjiang-lab.git\ncd tongjiang-lab",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/smithjohn78390/tongjiang-lab\nWhat it says it does: \"Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T14:24:56.050Z"
+  },
   {
    "fullName": "ios151/Insav-releases",
    "owner": "ios151",
@@ -33013,69 +33077,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/JieChiang/VRS-Zhiyuan-Recommendation\nWhat it says it does: \"VRS志愿推荐系统：FastAPI + Neo4j + DeepSeek，浙江高考历史资料示例，含Excel数据模板。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T13:02:58.853Z"
-  },
-  {
-   "fullName": "lwh0630/SignalScope",
-   "owner": "lwh0630",
-   "name": "SignalScope",
-   "url": "https://github.com/lwh0630/SignalScope",
-   "avatar": "https://avatars.githubusercontent.com/u/79432134?v=4",
-   "description": "SignalScope — An Android network-signal inspector built with Flutter and Kotlin. SIM, LTE/5G, Wi-Fi, GNSS, and latency tests.",
-   "language": "Dart",
-   "topics": [],
-   "license": null,
-   "stars": 99,
-   "forks": 7,
-   "createdAt": "2026-10-18T14:22:44Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-20T13:02:58.350Z",
-   "stack": {
-    "kind": "native",
-    "label": "Dart project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/lwh0630/SignalScope?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/lwh0630/SignalScope",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/lwh0630/SignalScope/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Dart usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/lwh0630/SignalScope.git\ncd SignalScope",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/lwh0630/SignalScope\nWhat it says it does: \"SignalScope — An Android network-signal inspector built with Flutter and Kotlin. SIM, LTE/5G, Wi-Fi, GNSS, and latency tests.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T13:02:58.350Z"
   }
  ],
  "levels": {
+  "account": 286,
   "instant": 68,
-  "heavy": 86,
-  "account": 285,
+  "heavy": 85,
   "read": 61
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1627 guides written so far · last update 2026-10-28 23:39 UTC_
+_1628 guides written so far · last update 2026-10-28 23:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Vibha-Ramprakash/claude-video-effects](https://github.com/Vibha-Ramprakash/claude-video-effects) | Python project | Runs in the browser with a free account | [guide](guides/vibha-ramprakash/claude-video-effects.md) |
 | [Nutlope/bygga](https://github.com/Nutlope/bygga) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nutlope/bygga.md) |
 | [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) | JavaScript project | Runs in the browser with a free account | [guide](guides/0xs4n4tg/kinetograph.md) |
 | [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jmanico/grim-prompter.md) |
@@ -38,7 +39,6 @@ _1627 guides written so far · last update 2026-10-28 23:39 UTC_
 | [khanhduytran0/LiveSimBooter](https://github.com/khanhduytran0/LiveSimBooter) | C project | Needs a real machine (or a GPU) to run | [guide](guides/khanhduytran0/livesimbooter.md) |
 | [jichang888/VPNvpn](https://github.com/jichang888/VPNvpn) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jichang888/vpnvpn.md) |
 | [fatihfurkan46/SignalWeave](https://github.com/fatihfurkan46/SignalWeave) | Python project | Runs in the browser with a free account | [guide](guides/fatihfurkan46/signalweave.md) |
-| [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/hruiccc/ruic-poseatlas.md) |
 <!-- latest:end -->
 
 ## How it works

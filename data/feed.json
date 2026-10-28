@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T23:39:19.399Z",
- "totalGuides": 1627,
+ "updatedAt": "2026-10-28T23:39:19.717Z",
+ "totalGuides": 1628,
  "items": [
+  {
+   "fullName": "Vibha-Ramprakash/claude-video-effects",
+   "owner": "Vibha-Ramprakash",
+   "name": "claude-video-effects",
+   "url": "https://github.com/Vibha-Ramprakash/claude-video-effects",
+   "avatar": "https://avatars.githubusercontent.com/u/279949030?v=4",
+   "description": "36 video effects for Claude Code: drop in a talking-head clip, type /effects orbit. Face tracking, behind-your-head layers. By @vibha.in.progress",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 287,
+   "forks": 77,
+   "createdAt": "2026-10-22T08:59:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T23:39:19.716Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Vibha-Ramprakash/claude-video-effects/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Vibha-Ramprakash/claude-video-effects?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Vibha-Ramprakash/claude-video-effects",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Vibha-Ramprakash/claude-video-effects/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Vibha-Ramprakash/claude-video-effects.git\ncd claude-video-effects\npip install -r requirements.txt",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Vibha-Ramprakash/claude-video-effects\nWhat it says it does: \"36 video effects for Claude Code: drop in a talking-head clip, type /effects orbit. Face tracking, behind-your-head layers. By @vibha.in.progress\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T23:39:19.716Z"
+  },
   {
    "fullName": "Nutlope/bygga",
    "owner": "Nutlope",
@@ -32937,75 +32999,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/abdiraimov-otabek/dashboard-design-skill\nWhat it says it does: \"A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T04:57:49.239Z"
-  },
-  {
-   "fullName": "0c-biggo/0c-ime",
-   "owner": "0c-biggo",
-   "name": "0c-ime",
-   "url": "https://github.com/0c-biggo/0c-ime",
-   "avatar": "https://avatars.githubusercontent.com/u/344968002?v=4",
-   "description": "免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
-   "language": "Go",
-   "topics": [
-    "bopomofo",
-    "chinese-input-method",
-    "fcitx5",
-    "go",
-    "ibus",
-    "ime",
-    "input-method",
-    "language-model"
-   ],
-   "license": "AGPL-3.0",
-   "stars": 93,
-   "forks": 1,
-   "createdAt": "2026-10-19T19:00:19Z",
-   "branch": "main",
-   "homepage": "https://0c.biggo.com",
-   "addedAt": "2026-10-21T04:57:49.078Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/0c-biggo/0c-ime?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/0c-biggo/0c-ime",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/0c-biggo/0c-ime/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/0c-biggo/0c-ime.git\ncd 0c-ime\ngo build ./...",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/0c-biggo/0c-ime\nWhat it says it does: \"免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T04:57:49.078Z"
   }
  ],
  "levels": {
-  "instant": 69,
   "account": 281,
+  "instant": 69,
   "read": 74,
   "heavy": 76
  }

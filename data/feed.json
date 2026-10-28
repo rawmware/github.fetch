@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T01:36:55.205Z",
- "totalGuides": 1571,
+ "updatedAt": "2026-10-28T01:36:55.406Z",
+ "totalGuides": 1572,
  "items": [
+  {
+   "fullName": "hez2010/SatoriInsight",
+   "owner": "hez2010",
+   "name": "SatoriInsight",
+   "url": "https://github.com/hez2010/SatoriInsight",
+   "avatar": "https://avatars.githubusercontent.com/u/14960345?v=4",
+   "description": "Real-time memory and GC insights for .NET apps",
+   "language": "C#",
+   "topics": [],
+   "license": "MIT",
+   "stars": 50,
+   "forks": 3,
+   "createdAt": "2026-10-26T01:08:21Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T01:36:55.406Z",
+   "stack": {
+    "kind": "native",
+    "label": "C# project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/hez2010/SatoriInsight?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/hez2010/SatoriInsight",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/hez2010/SatoriInsight/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/hez2010/SatoriInsight.git\ncd SatoriInsight",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/hez2010/SatoriInsight\nWhat it says it does: \"Real-time memory and GC insights for .NET apps\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T01:36:55.406Z"
+  },
   {
    "fullName": "D3voz/openjutsu",
    "owner": "D3voz",
@@ -33037,74 +33094,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/typecraft-dev/oma-cast\nWhat it says it does: \"omarchy rebuild of raycast\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T07:41:27.075Z"
-  },
-  {
-   "fullName": "UniXNU/UniXNU",
-   "owner": "UniXNU",
-   "name": "UniXNU",
-   "url": "https://github.com/UniXNU/UniXNU",
-   "avatar": "https://avatars.githubusercontent.com/u/344663807?v=4",
-   "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 153,
-   "forks": 15,
-   "createdAt": "2026-10-19T10:46:55Z",
-   "branch": "main",
-   "homepage": "https://unixnu.com",
-   "addedAt": "2026-10-20T07:41:26.838Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/UniXNU/UniXNU/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/UniXNU/UniXNU?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/UniXNU/UniXNU",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/UniXNU/UniXNU/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/UniXNU/UniXNU.git\ncd UniXNU",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/UniXNU/UniXNU\nWhat it says it does: \"Run iOS and macOS on non-Apple ARM64 hardware through UEFI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T07:41:26.838Z"
   }
  ],
  "levels": {
+  "heavy": 87,
   "instant": 66,
   "read": 55,
-  "account": 293,
-  "heavy": 86
+  "account": 292
  }
 }

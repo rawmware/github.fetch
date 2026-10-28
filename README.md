@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1571 guides written so far · last update 2026-10-28 01:36 UTC_
+_1572 guides written so far · last update 2026-10-28 01:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hez2010/SatoriInsight](https://github.com/hez2010/SatoriInsight) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/hez2010/satoriinsight.md) |
 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/d3voz/openjutsu.md) |
 | [SoldadoGhost/T6Requiem-APK](https://github.com/SoldadoGhost/T6Requiem-APK) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soldadoghost/t6requiem-apk.md) |
 | [Mayzmei/anime-series-maker](https://github.com/Mayzmei/anime-series-maker) | Python project | Runs in the browser with a free account | [guide](guides/mayzmei/anime-series-maker.md) |
@@ -38,7 +39,6 @@ _1571 guides written so far · last update 2026-10-28 01:36 UTC_
 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/daveebbelaar/bama.md) |
 | [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/copilotkit/openduet.md) |
 | [AxiomMath/CFSG](https://github.com/AxiomMath/CFSG) | Lean project | Runs in the browser with a free account | [guide](guides/axiommath/cfsg.md) |
-| [cld-tools/Claude-Desktop-Download](https://github.com/cld-tools/Claude-Desktop-Download) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/cld-tools/claude-desktop-download.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1619 guides written so far · last update 2026-10-28 19:48 UTC_
+_1620 guides written so far · last update 2026-10-28 19:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords) | JavaScript project | Runs in the browser with a free account | [guide](guides/shipwords-dev/shipwords.md) |
 | [khanhduytran0/LiveSimBooter](https://github.com/khanhduytran0/LiveSimBooter) | C project | Needs a real machine (or a GPU) to run | [guide](guides/khanhduytran0/livesimbooter.md) |
 | [jichang888/VPNvpn](https://github.com/jichang888/VPNvpn) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jichang888/vpnvpn.md) |
 | [fatihfurkan46/SignalWeave](https://github.com/fatihfurkan46/SignalWeave) | Python project | Runs in the browser with a free account | [guide](guides/fatihfurkan46/signalweave.md) |
@@ -38,7 +39,6 @@ _1619 guides written so far · last update 2026-10-28 19:48 UTC_
 | [ScalarGrouse/SketchUp-Pro](https://github.com/ScalarGrouse/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scalargrouse/sketchup-pro.md) |
 | [SleuthMesmerize/BorisFX](https://github.com/SleuthMesmerize/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sleuthmesmerize/borisfx.md) |
 | [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Python project | Runs in the browser with a free account | [guide](guides/minimax-ai/mcode-stack.md) |
-| [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript project | Runs in the browser with a free account | [guide](guides/jacke-pp/open-yoki.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T14:24:59.975Z",
- "totalGuides": 1603,
+ "updatedAt": "2026-10-28T14:25:00.204Z",
+ "totalGuides": 1604,
  "items": [
+  {
+   "fullName": "moonoops/Droy",
+   "owner": "moonoops",
+   "name": "Droy",
+   "url": "https://github.com/moonoops/Droy",
+   "avatar": "https://avatars.githubusercontent.com/u/50860764?v=4",
+   "description": "An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.",
+   "language": "Java",
+   "topics": [],
+   "license": "AGPL-3.0",
+   "stars": 65,
+   "forks": 2,
+   "createdAt": "2026-10-26T18:03:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T14:25:00.203Z",
+   "stack": {
+    "kind": "native",
+    "label": "Java project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/moonoops/Droy?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/moonoops/Droy",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/moonoops/Droy/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/moonoops/Droy.git\ncd Droy",
+   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/moonoops/Droy\nWhat it says it does: \"An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T14:25:00.203Z"
+  },
   {
    "fullName": "kelvinkn17/skills",
    "owner": "kelvinkn17",
@@ -32942,69 +32999,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/kulwantnagi/android-tv-makeover\nWhat it says it does: \"Debloat an Android TV, replace its home screen with a clean Apple TV style launcher, and add a fast Indian live TV app. Reversible, over Wi-Fi ADB.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T17:56:53.657Z"
-  },
-  {
-   "fullName": "MZhao-ouo/Touchable",
-   "owner": "MZhao-ouo",
-   "name": "Touchable",
-   "url": "https://github.com/MZhao-ouo/Touchable",
-   "avatar": "https://avatars.githubusercontent.com/u/70903329?v=4",
-   "description": "A better gaming experience for Switch games ported to iOS.",
-   "language": "C",
-   "topics": [],
-   "license": null,
-   "stars": 105,
-   "forks": 18,
-   "createdAt": "2026-10-19T18:39:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-20T17:56:53.352Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/MZhao-ouo/Touchable?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/MZhao-ouo/Touchable",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/MZhao-ouo/Touchable/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/MZhao-ouo/Touchable.git\ncd Touchable",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/MZhao-ouo/Touchable\nWhat it says it does: \"A better gaming experience for Switch games ported to iOS.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T17:56:53.352Z"
   }
  ],
  "levels": {
+  "heavy": 81,
   "account": 283,
   "read": 69,
-  "instant": 67,
-  "heavy": 81
+  "instant": 67
  }
 }

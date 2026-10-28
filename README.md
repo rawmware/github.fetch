@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1582 guides written so far · last update 2026-10-28 07:30 UTC_
+_1583 guides written so far · last update 2026-10-28 07:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ElectronGirl/ComfyUI-Anima-Ref-Adapter](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter) | Python project | Runs in the browser with a free account | [guide](guides/electrongirl/comfyui-anima-ref-adapter.md) |
 | [oxnw/ai-phone](https://github.com/oxnw/ai-phone) | Python project | Runs in the browser with a free account | [guide](guides/oxnw/ai-phone.md) |
 | [addozhang/leancast](https://github.com/addozhang/leancast) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/addozhang/leancast.md) |
 | [Centaurbinexplode/nova-v1.9.2](https://github.com/Centaurbinexplode/nova-v1.9.2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centaurbinexplode/nova-v1.9.2.md) |
@@ -38,7 +39,6 @@ _1582 guides written so far · last update 2026-10-28 07:30 UTC_
 | [miao-org/awesome-supermimic](https://github.com/miao-org/awesome-supermimic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/miao-org/awesome-supermimic.md) |
 | [lklbar666/geopulse](https://github.com/lklbar666/geopulse) | Fastify app | Runs in a browser tab, no account needed | [guide](guides/lklbar666/geopulse.md) |
 | [hez2010/SatoriInsight](https://github.com/hez2010/SatoriInsight) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/hez2010/satoriinsight.md) |
-| [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/d3voz/openjutsu.md) |
 <!-- latest:end -->
 
 ## How it works

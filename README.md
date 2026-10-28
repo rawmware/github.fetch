@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1590 guides written so far · last update 2026-10-28 14:24 UTC_
+_1591 guides written so far · last update 2026-10-28 14:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [atlanai/analytics-playbook](https://github.com/atlanai/analytics-playbook) | HTML project | Runs in the browser with a free account | [guide](guides/atlanai/analytics-playbook.md) |
 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | JavaScript project | Runs in the browser with a free account | [guide](guides/haydenschmitty/floorplan.md) |
 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | HTML project | Runs in the browser with a free account | [guide](guides/smithjohn78390/tongjiang-lab.md) |
 | [ios151/Insav-releases](https://github.com/ios151/Insav-releases) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/ios151/insav-releases.md) |
@@ -38,7 +39,6 @@ _1590 guides written so far · last update 2026-10-28 14:24 UTC_
 | [oxnw/ai-phone](https://github.com/oxnw/ai-phone) | Python project | Runs in the browser with a free account | [guide](guides/oxnw/ai-phone.md) |
 | [addozhang/leancast](https://github.com/addozhang/leancast) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/addozhang/leancast.md) |
 | [Centaurbinexplode/nova-v1.9.2](https://github.com/Centaurbinexplode/nova-v1.9.2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centaurbinexplode/nova-v1.9.2.md) |
-| [ExitGooseEntrance/relay-v2.2.0](https://github.com/ExitGooseEntrance/relay-v2.2.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exitgooseentrance/relay-v2.2.0.md) |
 <!-- latest:end -->
 
 ## How it works

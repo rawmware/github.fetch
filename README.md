@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1604 guides written so far · last update 2026-10-28 14:25 UTC_
+_1605 guides written so far · last update 2026-10-28 14:25 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [krushant1122/MetalNX](https://github.com/krushant1122/MetalNX) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/krushant1122/metalnx.md) |
 | [moonoops/Droy](https://github.com/moonoops/Droy) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/moonoops/droy.md) |
 | [kelvinkn17/skills](https://github.com/kelvinkn17/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/kelvinkn17/skills.md) |
 | [davemessew/AgentFlux](https://github.com/davemessew/AgentFlux) | Vite app | Runs in the browser with a free account | [guide](guides/davemessew/agentflux.md) |
@@ -38,7 +39,6 @@ _1604 guides written so far · last update 2026-10-28 14:25 UTC_
 | [MindIntensify/HitFilm](https://github.com/MindIntensify/HitFilm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindintensify/hitfilm.md) |
 | [Fountainwithretreat/BorisFX](https://github.com/Fountainwithretreat/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fountainwithretreat/borisfx.md) |
 | [LinkCounselor/Filmora-15](https://github.com/LinkCounselor/Filmora-15) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkcounselor/filmora-15.md) |
-| [marooncocoonexcite/LossLess-Scaling](https://github.com/marooncocoonexcite/LossLess-Scaling) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marooncocoonexcite/lossless-scaling.md) |
 <!-- latest:end -->
 
 ## How it works

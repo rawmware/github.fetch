@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1616 guides written so far · last update 2026-10-28 19:48 UTC_
+_1617 guides written so far · last update 2026-10-28 19:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [fatihfurkan46/SignalWeave](https://github.com/fatihfurkan46/SignalWeave) | Python project | Runs in the browser with a free account | [guide](guides/fatihfurkan46/signalweave.md) |
 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/hruiccc/ruic-poseatlas.md) |
 | [ninetyhe-90/de-armor](https://github.com/ninetyhe-90/de-armor) | HTML project | Runs in the browser with a free account | [guide](guides/ninetyhe-90/de-armor.md) |
 | [Novavyalimit/vanta-v2.1.0](https://github.com/Novavyalimit/vanta-v2.1.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/novavyalimit/vanta-v2.1.0.md) |
@@ -38,7 +39,6 @@ _1616 guides written so far · last update 2026-10-28 19:48 UTC_
 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript project | Runs in the browser with a free account | [guide](guides/jacke-pp/open-yoki.md) |
 | [changhaoting1998-star/manufacturing-wechat-miniapp-starter](https://github.com/changhaoting1998-star/manufacturing-wechat-miniapp-starter) | JavaScript project | Runs in the browser with a free account | [guide](guides/changhaoting1998-star/manufacturing-wechat-miniapp-starter.md) |
 | [CumulusAlpha/Dex-Supermimic](https://github.com/CumulusAlpha/Dex-Supermimic) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/cumulusalpha/dex-supermimic.md) |
-| [krushant1122/MetalNX](https://github.com/krushant1122/MetalNX) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/krushant1122/metalnx.md) |
 <!-- latest:end -->
 
 ## How it works

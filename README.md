@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1596 guides written so far · last update 2026-10-28 14:24 UTC_
+_1597 guides written so far · last update 2026-10-28 14:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TempoEstimate/Cinema-4d](https://github.com/TempoEstimate/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempoestimate/cinema-4d.md) |
 | [MindIntensify/HitFilm](https://github.com/MindIntensify/HitFilm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindintensify/hitfilm.md) |
 | [Fountainwithretreat/BorisFX](https://github.com/Fountainwithretreat/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fountainwithretreat/borisfx.md) |
 | [LinkCounselor/Filmora-15](https://github.com/LinkCounselor/Filmora-15) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkcounselor/filmora-15.md) |
@@ -38,7 +39,6 @@ _1596 guides written so far · last update 2026-10-28 14:24 UTC_
 | [ios151/Insav-releases](https://github.com/ios151/Insav-releases) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/ios151/insav-releases.md) |
 | [aa1143/NamiGPT](https://github.com/aa1143/NamiGPT) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/aa1143/namigpt.md) |
 | [AISEO-VirtualabDigital/mcp-video-editor](https://github.com/AISEO-VirtualabDigital/mcp-video-editor) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/aiseo-virtualabdigital/mcp-video-editor.md) |
-| [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/openbmb/minicpm-ocr.md) |
 <!-- latest:end -->
 
 ## How it works

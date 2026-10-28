@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1623 guides written so far · last update 2026-10-28 23:39 UTC_
+_1624 guides written so far · last update 2026-10-28 23:39 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [anomalyco/hokum](https://github.com/anomalyco/hokum) | Rust project | Runs in the browser with a free account | [guide](guides/anomalyco/hokum.md) |
 | [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | React app | Runs in a browser tab, no account needed | [guide](guides/floatboatai/openminutes.md) |
 | [Humpalumps/Ultra-Water](https://github.com/Humpalumps/Ultra-Water) | Vite app | Runs in a browser tab, no account needed | [guide](guides/humpalumps/ultra-water.md) |
 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | Vite app | Runs in the browser with a free account | [guide](guides/l0ng-ai/openidea.md) |
@@ -38,7 +39,6 @@ _1623 guides written so far · last update 2026-10-28 23:39 UTC_
 | [ninetyhe-90/de-armor](https://github.com/ninetyhe-90/de-armor) | HTML project | Runs in the browser with a free account | [guide](guides/ninetyhe-90/de-armor.md) |
 | [Novavyalimit/vanta-v2.1.0](https://github.com/Novavyalimit/vanta-v2.1.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/novavyalimit/vanta-v2.1.0.md) |
 | [ScrewPantherRampart/clean-v4.0.3](https://github.com/ScrewPantherRampart/clean-v4.0.3) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/screwpantherrampart/clean-v4.0.3.md) |
-| [brainstormity/LightPost](https://github.com/brainstormity/LightPost) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/brainstormity/lightpost.md) |
 <!-- latest:end -->
 
 ## How it works

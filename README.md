@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1589 guides written so far · last update 2026-10-28 14:24 UTC_
+_1590 guides written so far · last update 2026-10-28 14:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | JavaScript project | Runs in the browser with a free account | [guide](guides/haydenschmitty/floorplan.md) |
 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | HTML project | Runs in the browser with a free account | [guide](guides/smithjohn78390/tongjiang-lab.md) |
 | [ios151/Insav-releases](https://github.com/ios151/Insav-releases) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/ios151/insav-releases.md) |
 | [aa1143/NamiGPT](https://github.com/aa1143/NamiGPT) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/aa1143/namigpt.md) |
@@ -38,7 +39,6 @@ _1589 guides written so far · last update 2026-10-28 14:24 UTC_
 | [addozhang/leancast](https://github.com/addozhang/leancast) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/addozhang/leancast.md) |
 | [Centaurbinexplode/nova-v1.9.2](https://github.com/Centaurbinexplode/nova-v1.9.2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centaurbinexplode/nova-v1.9.2.md) |
 | [ExitGooseEntrance/relay-v2.2.0](https://github.com/ExitGooseEntrance/relay-v2.2.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exitgooseentrance/relay-v2.2.0.md) |
-| [UltraSultanHonor/recon-v1.7.0](https://github.com/UltraSultanHonor/recon-v1.7.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ultrasultanhonor/recon-v1.7.0.md) |
 <!-- latest:end -->
 
 ## How it works

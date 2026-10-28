@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1573 guides written so far · last update 2026-10-28 01:36 UTC_
+_1574 guides written so far · last update 2026-10-28 07:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [miao-org/awesome-supermimic](https://github.com/miao-org/awesome-supermimic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/miao-org/awesome-supermimic.md) |
 | [lklbar666/geopulse](https://github.com/lklbar666/geopulse) | Fastify app | Runs in a browser tab, no account needed | [guide](guides/lklbar666/geopulse.md) |
 | [hez2010/SatoriInsight](https://github.com/hez2010/SatoriInsight) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/hez2010/satoriinsight.md) |
 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/d3voz/openjutsu.md) |
@@ -38,7 +39,6 @@ _1573 guides written so far · last update 2026-10-28 01:36 UTC_
 | [ChannelCooperStart/capri-ai](https://github.com/ChannelCooperStart/capri-ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/channelcooperstart/capri-ai.md) |
 | [horizon-rust/horizon](https://github.com/horizon-rust/horizon) | Rust project | Runs in the browser with a free account | [guide](guides/horizon-rust/horizon.md) |
 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/daveebbelaar/bama.md) |
-| [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/copilotkit/openduet.md) |
 <!-- latest:end -->
 
 ## How it works

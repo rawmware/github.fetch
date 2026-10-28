@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T19:48:42.232Z",
- "totalGuides": 1614,
+ "updatedAt": "2026-10-28T19:48:42.428Z",
+ "totalGuides": 1615,
  "items": [
+  {
+   "fullName": "ninetyhe-90/de-armor",
+   "owner": "ninetyhe-90",
+   "name": "de-armor",
+   "url": "https://github.com/ninetyhe-90/de-armor",
+   "avatar": "https://avatars.githubusercontent.com/u/97206190?v=4",
+   "description": "破甲 / De-Armor：任务导向的回复校准，保住事实与条件，减少无效防御，补齐真正交付。",
+   "language": "HTML",
+   "topics": [],
+   "license": null,
+   "stars": 74,
+   "forks": 10,
+   "createdAt": "2026-10-27T15:37:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T19:48:42.428Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ninetyhe-90/de-armor?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ninetyhe-90/de-armor",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ninetyhe-90/de-armor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ninetyhe-90/de-armor.git\ncd de-armor",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ninetyhe-90/de-armor\nWhat it says it does: \"破甲 / De-Armor：任务导向的回复校准，保住事实与条件，减少无效防御，补齐真正交付。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T19:48:42.428Z"
+  },
   {
    "fullName": "Novavyalimit/vanta-v2.1.0",
    "owner": "Novavyalimit",
@@ -32896,67 +32951,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Contrastive-LM/CLM\nWhat it says it does: \"Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T21:31:18.431Z"
-  },
-  {
-   "fullName": "tobi/disktree",
-   "owner": "tobi",
-   "name": "disktree",
-   "url": "https://github.com/tobi/disktree",
-   "avatar": "https://avatars.githubusercontent.com/u/347?v=4",
-   "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-   "language": "Rust",
-   "topics": [],
-   "license": "MIT",
-   "stars": 3111,
-   "forks": 190,
-   "createdAt": "2026-09-24T20:56:29Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-20T21:31:17.977Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/tobi/disktree?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/tobi/disktree",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/tobi/disktree/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/tobi/disktree.git\ncd disktree\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/tobi/disktree\nWhat it says it does: \"A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T21:31:17.977Z"
   }
  ],
  "levels": {
+  "account": 281,
   "read": 73,
   "instant": 66,
-  "account": 281,
   "heavy": 80
  }
 }

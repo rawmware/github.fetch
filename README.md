@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1614 guides written so far · last update 2026-10-28 19:48 UTC_
+_1615 guides written so far · last update 2026-10-28 19:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ninetyhe-90/de-armor](https://github.com/ninetyhe-90/de-armor) | HTML project | Runs in the browser with a free account | [guide](guides/ninetyhe-90/de-armor.md) |
 | [Novavyalimit/vanta-v2.1.0](https://github.com/Novavyalimit/vanta-v2.1.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/novavyalimit/vanta-v2.1.0.md) |
 | [ScrewPantherRampart/clean-v4.0.3](https://github.com/ScrewPantherRampart/clean-v4.0.3) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/screwpantherrampart/clean-v4.0.3.md) |
 | [brainstormity/LightPost](https://github.com/brainstormity/LightPost) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/brainstormity/lightpost.md) |
@@ -38,7 +39,6 @@ _1614 guides written so far · last update 2026-10-28 19:48 UTC_
 | [CumulusAlpha/Dex-Supermimic](https://github.com/CumulusAlpha/Dex-Supermimic) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/cumulusalpha/dex-supermimic.md) |
 | [krushant1122/MetalNX](https://github.com/krushant1122/MetalNX) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/krushant1122/metalnx.md) |
 | [moonoops/Droy](https://github.com/moonoops/Droy) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/moonoops/droy.md) |
-| [kelvinkn17/skills](https://github.com/kelvinkn17/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/kelvinkn17/skills.md) |
 <!-- latest:end -->
 
 ## How it works

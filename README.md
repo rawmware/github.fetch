@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1612 guides written so far · last update 2026-10-28 19:48 UTC_
+_1613 guides written so far · last update 2026-10-28 19:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ScrewPantherRampart/clean-v4.0.3](https://github.com/ScrewPantherRampart/clean-v4.0.3) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/screwpantherrampart/clean-v4.0.3.md) |
 | [brainstormity/LightPost](https://github.com/brainstormity/LightPost) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/brainstormity/lightpost.md) |
 | [ScalarGrouse/SketchUp-Pro](https://github.com/ScalarGrouse/SketchUp-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scalargrouse/sketchup-pro.md) |
 | [SleuthMesmerize/BorisFX](https://github.com/SleuthMesmerize/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sleuthmesmerize/borisfx.md) |
@@ -38,7 +39,6 @@ _1612 guides written so far · last update 2026-10-28 19:48 UTC_
 | [moonoops/Droy](https://github.com/moonoops/Droy) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/moonoops/droy.md) |
 | [kelvinkn17/skills](https://github.com/kelvinkn17/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/kelvinkn17/skills.md) |
 | [davemessew/AgentFlux](https://github.com/davemessew/AgentFlux) | Vite app | Runs in the browser with a free account | [guide](guides/davemessew/agentflux.md) |
-| [zhtyyx/codex-seo](https://github.com/zhtyyx/codex-seo) | Python project | Runs in the browser with a free account | [guide](guides/zhtyyx/codex-seo.md) |
 <!-- latest:end -->
 
 ## How it works

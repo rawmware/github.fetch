@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1580 guides written so far · last update 2026-10-28 07:30 UTC_
+_1581 guides written so far · last update 2026-10-28 07:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [addozhang/leancast](https://github.com/addozhang/leancast) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/addozhang/leancast.md) |
 | [Centaurbinexplode/nova-v1.9.2](https://github.com/Centaurbinexplode/nova-v1.9.2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centaurbinexplode/nova-v1.9.2.md) |
 | [ExitGooseEntrance/relay-v2.2.0](https://github.com/ExitGooseEntrance/relay-v2.2.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exitgooseentrance/relay-v2.2.0.md) |
 | [UltraSultanHonor/recon-v1.7.0](https://github.com/UltraSultanHonor/recon-v1.7.0) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ultrasultanhonor/recon-v1.7.0.md) |
@@ -38,7 +39,6 @@ _1580 guides written so far · last update 2026-10-28 07:30 UTC_
 | [hez2010/SatoriInsight](https://github.com/hez2010/SatoriInsight) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/hez2010/satoriinsight.md) |
 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/d3voz/openjutsu.md) |
 | [SoldadoGhost/T6Requiem-APK](https://github.com/SoldadoGhost/T6Requiem-APK) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soldadoghost/t6requiem-apk.md) |
-| [Mayzmei/anime-series-maker](https://github.com/Mayzmei/anime-series-maker) | Python project | Runs in the browser with a free account | [guide](guides/mayzmei/anime-series-maker.md) |
 <!-- latest:end -->
 
 ## How it works

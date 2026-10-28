@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T14:24:57.303Z",
- "totalGuides": 1594,
+ "updatedAt": "2026-10-28T14:24:57.476Z",
+ "totalGuides": 1595,
  "items": [
+  {
+   "fullName": "Fountainwithretreat/BorisFX",
+   "owner": "Fountainwithretreat",
+   "name": "BorisFX",
+   "url": "https://github.com/Fountainwithretreat/BorisFX",
+   "avatar": "https://avatars.githubusercontent.com/u/295657899?v=4",
+   "description": "Complete standalone setup of Borisfx 2026. Full working installer with all features activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "bcc-plugins-effects",
+    "boris-fx-plugin-sapphire",
+    "boris-fx-sapphire",
+    "borisfx",
+    "borisfx-plugin-free",
+    "free-boris-fx",
+    "plugins-after-effects",
+    "sapphire-download"
+   ],
+   "license": null,
+   "stars": 100,
+   "forks": 0,
+   "createdAt": "2026-10-28T10:54:09Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-28T14:24:57.475Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Fountainwithretreat/BorisFX",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Fountainwithretreat/BorisFX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Fountainwithretreat/BorisFX\nWhat it says it does: \"Complete standalone setup of Borisfx 2026. Full working installer with all features activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-28T14:24:57.475Z"
+  },
   {
    "fullName": "LinkCounselor/Filmora-15",
    "owner": "LinkCounselor",
@@ -32994,66 +33051,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/lemomo-ai/lemo-opuscar\nWhat it says it does: \"Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南（新增「实证影像」）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-20T13:03:00.761Z"
-  },
-  {
-   "fullName": "Blapples/SekaiPop",
-   "owner": "Blapples",
-   "name": "SekaiPop",
-   "url": "https://github.com/Blapples/SekaiPop",
-   "avatar": "https://avatars.githubusercontent.com/u/155346380?v=4",
-   "description": "a project sekai inspired quickshell rice",
-   "language": "QML",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 295,
-   "forks": 16,
-   "createdAt": "2026-10-14T08:59:25Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-20T13:03:00.468Z",
-   "stack": {
-    "kind": "other",
-    "label": "QML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Blapples/SekaiPop?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Blapples/SekaiPop",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Blapples/SekaiPop/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Blapples/SekaiPop.git\ncd SekaiPop",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/Blapples/SekaiPop\nWhat it says it does: \"a project sekai inspired quickshell rice\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-20T13:03:00.468Z"
   }
  ],
  "levels": {
-  "read": 64,
-  "account": 286,
+  "read": 65,
+  "account": 285,
   "instant": 68,
   "heavy": 82
  }

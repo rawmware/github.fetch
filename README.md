@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1605 guides written so far · last update 2026-10-28 14:25 UTC_
+_1606 guides written so far · last update 2026-10-28 14:25 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CumulusAlpha/Dex-Supermimic](https://github.com/CumulusAlpha/Dex-Supermimic) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/cumulusalpha/dex-supermimic.md) |
 | [krushant1122/MetalNX](https://github.com/krushant1122/MetalNX) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/krushant1122/metalnx.md) |
 | [moonoops/Droy](https://github.com/moonoops/Droy) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/moonoops/droy.md) |
 | [kelvinkn17/skills](https://github.com/kelvinkn17/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/kelvinkn17/skills.md) |
@@ -38,7 +39,6 @@ _1605 guides written so far · last update 2026-10-28 14:25 UTC_
 | [TempoEstimate/Cinema-4d](https://github.com/TempoEstimate/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempoestimate/cinema-4d.md) |
 | [MindIntensify/HitFilm](https://github.com/MindIntensify/HitFilm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindintensify/hitfilm.md) |
 | [Fountainwithretreat/BorisFX](https://github.com/Fountainwithretreat/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fountainwithretreat/borisfx.md) |
-| [LinkCounselor/Filmora-15](https://github.com/LinkCounselor/Filmora-15) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkcounselor/filmora-15.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1567 guides written so far · last update 2026-10-28 01:36 UTC_
+_1568 guides written so far · last update 2026-10-28 01:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [YotsuhaMeru/NeToRne](https://github.com/YotsuhaMeru/NeToRne) | C project | Needs a real machine (or a GPU) to run | [guide](guides/yotsuhameru/netorne.md) |
 | [rudderlabs/devbox](https://github.com/rudderlabs/devbox) | JavaScript project | Runs in the browser with a free account | [guide](guides/rudderlabs/devbox.md) |
 | [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one) | Vite app | Runs in the browser with a free account | [guide](guides/vaishantsah/watson-ai-osint-all-in-one.md) |
 | [ChannelCooperStart/capri-ai](https://github.com/ChannelCooperStart/capri-ai) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/channelcooperstart/capri-ai.md) |
@@ -38,7 +39,6 @@ _1567 guides written so far · last update 2026-10-28 01:36 UTC_
 | [crsr-tools/Cursor-AI-Download](https://github.com/crsr-tools/Cursor-AI-Download) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/crsr-tools/cursor-ai-download.md) |
 | [hex-tools/hexstrike-ai-pc](https://github.com/hex-tools/hexstrike-ai-pc) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hex-tools/hexstrike-ai-pc.md) |
 | [BufferPenguin/DLSS-5-Anywhere](https://github.com/BufferPenguin/DLSS-5-Anywhere) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bufferpenguin/dlss-5-anywhere.md) |
-| [sybil-solutions/all-historical-evidence-of-jesus-christ](https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ) | Python project | Runs in the browser with a free account | [guide](guides/sybil-solutions/all-historical-evidence-of-jesus-christ.md) |
 <!-- latest:end -->
 
 ## How it works

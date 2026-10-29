@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1647 guides written so far · last update 2026-10-29 09:47 UTC_
+_1648 guides written so far · last update 2026-10-29 09:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BoatwrightSpout/IOBIT-Driver-Booster](https://github.com/BoatwrightSpout/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boatwrightspout/iobit-driver-booster.md) |
 | [AspectPikemanPier/AnyUnlock](https://github.com/AspectPikemanPier/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aspectpikemanpier/anyunlock.md) |
 | [HerdWarlordExplode/AOMEI-Backupper](https://github.com/HerdWarlordExplode/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/herdwarlordexplode/aomei-backupper.md) |
 | [Operativenyodynamo/Chief-Architect-Premier](https://github.com/Operativenyodynamo/Chief-Architect-Premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/operativenyodynamo/chief-architect-premier.md) |
@@ -38,7 +39,6 @@ _1647 guides written so far · last update 2026-10-29 09:47 UTC_
 | [missuo/unfairplay-bot](https://github.com/missuo/unfairplay-bot) | Go project | Runs in the browser with a free account | [guide](guides/missuo/unfairplay-bot.md) |
 | [Pluviobyte/awesome-talking-head-skills](https://github.com/Pluviobyte/awesome-talking-head-skills) | Shell project | Runs in the browser with a free account | [guide](guides/pluviobyte/awesome-talking-head-skills.md) |
 | [joeseesun/qiaomu-ui-learn-dsh](https://github.com/joeseesun/qiaomu-ui-learn-dsh) | React app | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-ui-learn-dsh.md) |
-| [JulioFerrero/pocket-foundry](https://github.com/JulioFerrero/pocket-foundry) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/julioferrero/pocket-foundry.md) |
 <!-- latest:end -->
 
 ## How it works

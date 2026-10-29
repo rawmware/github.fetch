@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T09:47:06.409Z",
- "totalGuides": 1647,
+ "updatedAt": "2026-10-29T09:47:06.568Z",
+ "totalGuides": 1648,
  "items": [
+  {
+   "fullName": "BoatwrightSpout/IOBIT-Driver-Booster",
+   "owner": "BoatwrightSpout",
+   "name": "IOBIT-Driver-Booster",
+   "url": "https://github.com/BoatwrightSpout/IOBIT-Driver-Booster",
+   "avatar": "https://avatars.githubusercontent.com/u/295659066?v=4",
+   "description": "Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with full functionality and pre-activation.",
+   "language": null,
+   "topics": [
+    "bootcamp-drivers",
+    "device-drivers",
+    "device-manager-tool",
+    "driver-development",
+    "driver-downloader",
+    "driver-genius-latest",
+    "driver-optimizer",
+    "driver-tool"
+   ],
+   "license": null,
+   "stars": 99,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:19:27Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T09:47:06.567Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/BoatwrightSpout/IOBIT-Driver-Booster",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/BoatwrightSpout/IOBIT-Driver-Booster/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/BoatwrightSpout/IOBIT-Driver-Booster\nWhat it says it does: \"Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with full functionality and pre-activation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T09:47:06.567Z"
+  },
   {
    "fullName": "AspectPikemanPier/AnyUnlock",
    "owner": "AspectPikemanPier",
@@ -32836,78 +32893,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/ELY-Open-Source/ELYTerminal\nWhat it says it does: \"A terminal on GPUI and Ely components\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T10:00:26.008Z"
-  },
-  {
-   "fullName": "andrisgauracs/whistle-esp32",
-   "owner": "andrisgauracs",
-   "name": "whistle-esp32",
-   "url": "https://github.com/andrisgauracs/whistle-esp32",
-   "avatar": "https://avatars.githubusercontent.com/u/19580427?v=4",
-   "description": "Whistle speech-to-text running fully on an ESP32-S3: hold a button, say a colour in one of 7 languages, the LED does it. No network.",
-   "language": "C",
-   "topics": [
-    "edge-ai",
-    "esp32",
-    "esp32-s3",
-    "inmp441",
-    "speech-recognition",
-    "speech-to-text",
-    "tinyml",
-    "whistle"
-   ],
-   "license": "Apache-2.0",
-   "stars": 66,
-   "forks": 9,
-   "createdAt": "2026-10-19T04:19:26Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T10:00:25.788Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/andrisgauracs/whistle-esp32?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/andrisgauracs/whistle-esp32",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/andrisgauracs/whistle-esp32/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/andrisgauracs/whistle-esp32.git\ncd whistle-esp32",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/andrisgauracs/whistle-esp32\nWhat it says it does: \"Whistle speech-to-text running fully on an ESP32-S3: hold a button, say a colour in one of 7 languages, the LED does it. No network.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T10:00:25.788Z"
   }
  ],
  "levels": {
-  "read": 81,
+  "read": 82,
   "account": 278,
   "instant": 67,
-  "heavy": 74
+  "heavy": 73
  }
 }

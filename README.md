@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1651 guides written so far · last update 2026-10-29 09:47 UTC_
+_1652 guides written so far · last update 2026-10-29 09:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LawyerConceal/CCleaner-Pro](https://github.com/LawyerConceal/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lawyerconceal/ccleaner-pro.md) |
 | [MicroLoaderGorge/Avid-Media-Composer](https://github.com/MicroLoaderGorge/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/microloadergorge/avid-media-composer.md) |
 | [EmissaryRear/AnyDesk](https://github.com/EmissaryRear/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/emissaryrear/anydesk.md) |
 | [ClipTerrapin48/Ableton-Live-12](https://github.com/ClipTerrapin48/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipterrapin48/ableton-live-12.md) |
@@ -38,7 +39,6 @@ _1651 guides written so far · last update 2026-10-29 09:47 UTC_
 | [thresholdwolfshack/Autodesk-Inventor](https://github.com/thresholdwolfshack/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdwolfshack/autodesk-inventor.md) |
 | [covesoulrhythm/Autodesk-3ds-MAX](https://github.com/covesoulrhythm/Autodesk-3ds-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/covesoulrhythm/autodesk-3ds-max.md) |
 | [centerqualityanger/DLSS-5-Swapper](https://github.com/centerqualityanger/DLSS-5-Swapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centerqualityanger/dlss-5-swapper.md) |
-| [DAgogo04/gogo-agent](https://github.com/DAgogo04/gogo-agent) | Python project | Runs in the browser with a free account | [guide](guides/dagogo04/gogo-agent.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T09:47:07.297Z",
- "totalGuides": 1651,
+ "updatedAt": "2026-10-29T09:47:07.498Z",
+ "totalGuides": 1652,
  "items": [
+  {
+   "fullName": "LawyerConceal/CCleaner-Pro",
+   "owner": "LawyerConceal",
+   "name": "CCleaner-Pro",
+   "url": "https://github.com/LawyerConceal/CCleaner-Pro",
+   "avatar": "https://avatars.githubusercontent.com/u/295661053?v=4",
+   "description": "Professional CCleaner Pro 2026, a complete standalone setup ready to run with full system optimization tools.",
+   "language": null,
+   "topics": [
+    "ccleaner-advanced-features",
+    "ccleaner-computer-maintenance",
+    "ccleaner-cracked-2026",
+    "ccleaner-free-2026",
+    "ccleaner-plus-2026",
+    "ccleaner-pro-automation-support",
+    "ccleaner-pro-for-windows",
+    "ccleaner-pro-junk-file-cleaner"
+   ],
+   "license": null,
+   "stars": 99,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:16:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T09:47:07.498Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/LawyerConceal/CCleaner-Pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LawyerConceal/CCleaner-Pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/LawyerConceal/CCleaner-Pro\nWhat it says it does: \"Professional CCleaner Pro 2026, a complete standalone setup ready to run with full system optimization tools.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T09:47:07.498Z"
+  },
   {
    "fullName": "MicroLoaderGorge/Avid-Media-Composer",
    "owner": "MicroLoaderGorge",
@@ -32826,66 +32883,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/calmsprite2001/mcd-mailu\nWhat it says it does: \"麦途 · 读懂你已经点过的麦当劳 | 基于麦当劳官方 MCP 的历史订单场景叙事 Skill | 麦当劳程序员创意开发大赛参赛作品\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T15:04:26.326Z"
-  },
-  {
-   "fullName": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "owner": "eness",
-   "name": "php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "avatar": "https://avatars.githubusercontent.com/u/2032225?v=4",
-   "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
-   "language": "Shell",
-   "topics": [],
-   "license": null,
-   "stars": 227,
-   "forks": 49,
-   "createdAt": "2026-10-21T08:31:43Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T15:04:26.134Z",
-   "stack": {
-    "kind": "other",
-    "label": "Shell project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.git\ncd php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC\nWhat it says it does: \"Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T15:04:26.134Z"
   }
  ],
  "levels": {
-  "read": 85,
-  "account": 276,
+  "read": 86,
+  "account": 275,
   "instant": 67,
   "heavy": 72
  }

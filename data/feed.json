@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T21:21:56.826Z",
- "totalGuides": 1680,
+ "updatedAt": "2026-10-29T21:21:57.027Z",
+ "totalGuides": 1681,
  "items": [
+  {
+   "fullName": "Ambererforum/Designcenter-NX",
+   "owner": "Ambererforum",
+   "name": "Designcenter-NX",
+   "url": "https://github.com/Ambererforum/Designcenter-NX",
+   "avatar": "https://avatars.githubusercontent.com/u/295661742?v=4",
+   "description": "Designcenter Nx 2026 complete standalone setup. Fully functional, pre-activated desktop installation ready to run.",
+   "language": null,
+   "topics": [
+    "nx-cad",
+    "nxopen",
+    "siemens-2026",
+    "siemens-cad",
+    "siemens-nx",
+    "siemens-nx-2026",
+    "siemens-nx-download",
+    "siemens-nx-free"
+   ],
+   "license": null,
+   "stars": 238,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:17:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T21:21:57.026Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Ambererforum/Designcenter-NX",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Ambererforum/Designcenter-NX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Ambererforum/Designcenter-NX\nWhat it says it does: \"Designcenter Nx 2026 complete standalone setup. Fully functional, pre-activated desktop installation ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T21:21:57.026Z"
+  },
   {
    "fullName": "Attothroughzen/Autodesk-CFD",
    "owner": "Attothroughzen",
@@ -32706,80 +32763,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/obsidianmd/pele\nWhat it says it does: \"Renders Mermaid diagrams faster than you'd run from a volcano! 🌋\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T22:39:23.639Z"
-  },
-  {
-   "fullName": "Jakeschincariol/trader-skill",
-   "owner": "Jakeschincariol",
-   "name": "trader-skill",
-   "url": "https://github.com/Jakeschincariol/trader-skill",
-   "avatar": "https://avatars.githubusercontent.com/u/196724947?v=4",
-   "description": "11 Claude skills that copy the investors you trust, watch the news and Congress, size every trade to your budget, and never place an order without your yes.",
-   "language": "Python",
-   "topics": [
-    "13f",
-    "claude",
-    "claude-skills",
-    "investing",
-    "stock-market"
-   ],
-   "license": "MIT",
-   "stars": 310,
-   "forks": 37,
-   "createdAt": "2026-10-14T21:12:28Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T22:39:23.286Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Jakeschincariol/trader-skill/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Jakeschincariol/trader-skill?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Jakeschincariol/trader-skill",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Jakeschincariol/trader-skill/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Jakeschincariol/trader-skill.git\ncd trader-skill",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Jakeschincariol/trader-skill\nWhat it says it does: \"11 Claude skills that copy the investors you trust, watch the news and Congress, size every trade to your budget, and never place an order without your yes.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T22:39:23.286Z"
   }
  ],
  "levels": {
-  "read": 93,
+  "read": 94,
   "heavy": 76,
-  "account": 266,
+  "account": 265,
   "instant": 65
  }
 }

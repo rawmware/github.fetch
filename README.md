@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1656 guides written so far · last update 2026-10-29 09:47 UTC_
+_1657 guides written so far · last update 2026-10-29 09:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Knitchewhirl/Directory-Opus](https://github.com/Knitchewhirl/Directory-Opus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/knitchewhirl/directory-opus.md) |
 | [planewaspgrave/AIDA-64-Extreme](https://github.com/planewaspgrave/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planewaspgrave/aida-64-extreme.md) |
 | [chainraikagepresent/Cinema-4d](https://github.com/chainraikagepresent/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chainraikagepresent/cinema-4d.md) |
 | [linkwindwatt/Burning-Studio](https://github.com/linkwindwatt/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkwindwatt/burning-studio.md) |
@@ -38,7 +39,6 @@ _1656 guides written so far · last update 2026-10-29 09:47 UTC_
 | [BoatwrightSpout/IOBIT-Driver-Booster](https://github.com/BoatwrightSpout/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boatwrightspout/iobit-driver-booster.md) |
 | [AspectPikemanPier/AnyUnlock](https://github.com/AspectPikemanPier/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aspectpikemanpier/anyunlock.md) |
 | [HerdWarlordExplode/AOMEI-Backupper](https://github.com/HerdWarlordExplode/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/herdwarlordexplode/aomei-backupper.md) |
-| [Operativenyodynamo/Chief-Architect-Premier](https://github.com/Operativenyodynamo/Chief-Architect-Premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/operativenyodynamo/chief-architect-premier.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T02:55:53.855Z",
- "totalGuides": 1639,
+ "updatedAt": "2026-10-29T02:55:54.204Z",
+ "totalGuides": 1640,
  "items": [
+  {
+   "fullName": "DAgogo04/gogo-agent",
+   "owner": "DAgogo04",
+   "name": "gogo-agent",
+   "url": "https://github.com/DAgogo04/gogo-agent",
+   "avatar": "https://avatars.githubusercontent.com/u/213059921?v=4",
+   "description": "Local-first AI agent harness you actually own: loop, memory, eval.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 55,
+   "forks": 1,
+   "createdAt": "2026-10-27T09:15:25Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T02:55:54.204Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/DAgogo04/gogo-agent/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/DAgogo04/gogo-agent?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/DAgogo04/gogo-agent",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/DAgogo04/gogo-agent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/DAgogo04/gogo-agent.git\ncd gogo-agent\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/DAgogo04/gogo-agent\nWhat it says it does: \"Local-first AI agent harness you actually own: loop, memory, eval.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T02:55:54.204Z"
+  },
   {
    "fullName": "missuo/unfairplay-bot",
    "owner": "missuo",
@@ -32909,75 +32971,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Jakeschincariol/day-trader-skill\nWhat it says it does: \"11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T10:00:23.869Z"
-  },
-  {
-   "fullName": "op7418/guizang-tv",
-   "owner": "op7418",
-   "name": "guizang-tv",
-   "url": "https://github.com/op7418/guizang-tv",
-   "avatar": "https://avatars.githubusercontent.com/u/13505770?v=4",
-   "description": "归藏电视：适配国内小米电视的简洁 Android 桌面，大字列表、壁纸轮播与 HDMI 直达。",
-   "language": "Java",
-   "topics": [
-    "android-tv",
-    "java",
-    "launcher",
-    "wallpaper",
-    "xiaomi"
-   ],
-   "license": "MIT",
-   "stars": 100,
-   "forks": 14,
-   "createdAt": "2026-10-20T15:00:29Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T10:00:23.646Z",
-   "stack": {
-    "kind": "native",
-    "label": "Java project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/op7418/guizang-tv?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/op7418/guizang-tv",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/op7418/guizang-tv/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/op7418/guizang-tv.git\ncd guizang-tv",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/op7418/guizang-tv\nWhat it says it does: \"归藏电视：适配国内小米电视的简洁 Android 桌面，大字列表、壁纸轮播与 HDMI 直达。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T10:00:23.646Z"
   }
  ],
  "levels": {
-  "account": 282,
+  "account": 283,
   "instant": 68,
-  "heavy": 76,
+  "heavy": 75,
   "read": 74
  }
 }

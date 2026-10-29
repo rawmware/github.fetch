@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1636 guides written so far · last update 2026-10-29 02:55 UTC_
+_1637 guides written so far · last update 2026-10-29 02:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [joeseesun/qiaomu-ui-learn-dsh](https://github.com/joeseesun/qiaomu-ui-learn-dsh) | React app | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-ui-learn-dsh.md) |
 | [JulioFerrero/pocket-foundry](https://github.com/JulioFerrero/pocket-foundry) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/julioferrero/pocket-foundry.md) |
 | [Akil-x/R00tLib-Catalog](https://github.com/Akil-x/R00tLib-Catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/akil-x/r00tlib-catalog.md) |
 | [bjarneo/velo](https://github.com/bjarneo/velo) | Go project | Runs in the browser with a free account | [guide](guides/bjarneo/velo.md) |
@@ -38,7 +39,6 @@ _1636 guides written so far · last update 2026-10-29 02:55 UTC_
 | [Vibha-Ramprakash/claude-video-effects](https://github.com/Vibha-Ramprakash/claude-video-effects) | Python project | Runs in the browser with a free account | [guide](guides/vibha-ramprakash/claude-video-effects.md) |
 | [Nutlope/bygga](https://github.com/Nutlope/bygga) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nutlope/bygga.md) |
 | [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) | JavaScript project | Runs in the browser with a free account | [guide](guides/0xs4n4tg/kinetograph.md) |
-| [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jmanico/grim-prompter.md) |
 <!-- latest:end -->
 
 ## How it works

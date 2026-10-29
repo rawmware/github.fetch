@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1629 guides written so far · last update 2026-10-29 02:55 UTC_
+_1630 guides written so far · last update 2026-10-29 02:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge) | JavaScript project | Runs in the browser with a free account | [guide](guides/andyhuo520/vibe-knowledge.md) |
 | [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs) | Python project | Runs in the browser with a free account | [guide](guides/cutetailbud/ff-ruyijs.md) |
 | [Vibha-Ramprakash/claude-video-effects](https://github.com/Vibha-Ramprakash/claude-video-effects) | Python project | Runs in the browser with a free account | [guide](guides/vibha-ramprakash/claude-video-effects.md) |
 | [Nutlope/bygga](https://github.com/Nutlope/bygga) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nutlope/bygga.md) |
@@ -38,7 +39,6 @@ _1629 guides written so far · last update 2026-10-29 02:55 UTC_
 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | Vite app | Runs in the browser with a free account | [guide](guides/l0ng-ai/openidea.md) |
 | [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords) | JavaScript project | Runs in the browser with a free account | [guide](guides/shipwords-dev/shipwords.md) |
 | [khanhduytran0/LiveSimBooter](https://github.com/khanhduytran0/LiveSimBooter) | C project | Needs a real machine (or a GPU) to run | [guide](guides/khanhduytran0/livesimbooter.md) |
-| [jichang888/VPNvpn](https://github.com/jichang888/VPNvpn) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jichang888/vpnvpn.md) |
 <!-- latest:end -->
 
 ## How it works

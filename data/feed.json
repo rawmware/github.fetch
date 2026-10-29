@@ -1,8 +1,71 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T02:55:50.578Z",
- "totalGuides": 1629,
+ "updatedAt": "2026-10-29T02:55:50.850Z",
+ "totalGuides": 1630,
  "items": [
+  {
+   "fullName": "andyhuo520/vibe-knowledge",
+   "owner": "andyhuo520",
+   "name": "vibe-knowledge",
+   "url": "https://github.com/andyhuo520/vibe-knowledge",
+   "avatar": "https://avatars.githubusercontent.com/u/187917479?v=4",
+   "description": "Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）",
+   "language": "JavaScript",
+   "topics": [
+    "chinese",
+    "claude-code",
+    "claude-skills",
+    "explainer-video",
+    "text-to-video",
+    "threejs",
+    "video-generation"
+   ],
+   "license": "MIT",
+   "stars": 76,
+   "forks": 19,
+   "createdAt": "2026-10-28T09:37:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T02:55:50.849Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/andyhuo520/vibe-knowledge?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/andyhuo520/vibe-knowledge",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/andyhuo520/vibe-knowledge/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/andyhuo520/vibe-knowledge.git\ncd vibe-knowledge",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/andyhuo520/vibe-knowledge\nWhat it says it does: \"Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T02:55:50.849Z"
+  },
   {
    "fullName": "cutetailbud/ff-ruyijs",
    "owner": "cutetailbud",
@@ -32950,69 +33013,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Castlesea/infamous-second-son-pc-port\nWhat it says it does: \"Native Windows port of inFAMOUS Second Son (PS4): custom runtime + Vulkan renderer derived from shadPS4. Bring your own game.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T04:57:49.650Z"
-  },
-  {
-   "fullName": "lovisdotio/motion2code",
-   "owner": "lovisdotio",
-   "name": "motion2code",
-   "url": "https://github.com/lovisdotio/motion2code",
-   "avatar": "https://avatars.githubusercontent.com/u/158358668?v=4",
-   "description": "Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source",
-   "language": "HTML",
-   "topics": [
-    "agent-skills",
-    "animation",
-    "claude-code",
-    "gsap",
-    "motion-design",
-    "svg",
-    "video-to-code"
-   ],
-   "license": "MIT",
-   "stars": 79,
-   "forks": 8,
-   "createdAt": "2026-10-20T04:18:10Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T04:57:49.429Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/lovisdotio/motion2code?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/lovisdotio/motion2code",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/lovisdotio/motion2code/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/lovisdotio/motion2code.git\ncd motion2code",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/lovisdotio/motion2code\nWhat it says it does: \"Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T04:57:49.429Z"
   }
  ],
  "levels": {

@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T02:55:53.318Z",
- "totalGuides": 1637,
+ "updatedAt": "2026-10-29T02:55:53.574Z",
+ "totalGuides": 1638,
  "items": [
+  {
+   "fullName": "Pluviobyte/awesome-talking-head-skills",
+   "owner": "Pluviobyte",
+   "name": "awesome-talking-head-skills",
+   "url": "https://github.com/Pluviobyte/awesome-talking-head-skills",
+   "avatar": "https://avatars.githubusercontent.com/u/94058511?v=4",
+   "description": "把口播博主的出镜动作拆成可复用的 Agent Skill，用于口播数字人生成",
+   "language": "Shell",
+   "topics": [],
+   "license": "MIT",
+   "stars": 56,
+   "forks": 14,
+   "createdAt": "2026-10-27T01:49:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T02:55:53.573Z",
+   "stack": {
+    "kind": "other",
+    "label": "Shell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Pluviobyte/awesome-talking-head-skills?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Pluviobyte/awesome-talking-head-skills",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Pluviobyte/awesome-talking-head-skills/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Pluviobyte/awesome-talking-head-skills.git\ncd awesome-talking-head-skills",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Pluviobyte/awesome-talking-head-skills\nWhat it says it does: \"把口播博主的出镜动作拆成可复用的 Agent Skill，用于口播数字人生成\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T02:55:53.573Z"
+  },
   {
    "fullName": "joeseesun/qiaomu-ui-learn-dsh",
    "owner": "joeseesun",
@@ -32917,83 +32972,12 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/raymondchins/Bridgeplay\nWhat it says it does: \"Windows Steam games on Apple Silicon Macs, installed in one click\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T10:00:23.401Z"
-  },
-  {
-   "fullName": "inclusionAI/Ming-3.0-tts",
-   "owner": "inclusionAI",
-   "name": "Ming-3.0-tts",
-   "url": "https://github.com/inclusionAI/Ming-3.0-tts",
-   "avatar": "https://avatars.githubusercontent.com/u/199075982?v=4",
-   "description": "Ming-3.0-tts is an open-source TTS model family with 0.5B dense and 7.9B-A1.3B MoE variants, supporting multilingual speech, voice cloning, voice design, and natural-language control.",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 126,
-   "forks": 7,
-   "createdAt": "2026-10-19T07:03:25Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T10:00:23.109Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "colab-new",
-   "launch": [
-    {
-     "id": "colab-new",
-     "label": "Google Colab",
-     "url": "https://colab.research.google.com/",
-     "needs": "free Google account",
-     "note": "New notebook, then run: !git clone https://github.com/inclusionAI/Ming-3.0-tts"
-    },
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/inclusionAI/Ming-3.0-tts/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/inclusionAI/Ming-3.0-tts?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/inclusionAI/Ming-3.0-tts",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/inclusionAI/Ming-3.0-tts/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [
-    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one."
-   ],
-   "local": "git clone --depth 1 https://github.com/inclusionAI/Ming-3.0-tts.git\ncd Ming-3.0-tts\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/inclusionAI/Ming-3.0-tts\nWhat it says it does: \"Ming-3.0-tts is an open-source TTS model family with 0.5B dense and 7.9B-A1.3B MoE variants, supporting multilingual speech, voice cloning, voice design, and natural-language control.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T10:00:23.109Z"
   }
  ],
  "levels": {
+  "account": 282,
   "instant": 68,
-  "heavy": 77,
-  "read": 74,
-  "account": 281
+  "heavy": 76,
+  "read": 74
  }
 }

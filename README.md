@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1649 guides written so far · last update 2026-10-29 09:47 UTC_
+_1650 guides written so far · last update 2026-10-29 09:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [EmissaryRear/AnyDesk](https://github.com/EmissaryRear/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/emissaryrear/anydesk.md) |
 | [ClipTerrapin48/Ableton-Live-12](https://github.com/ClipTerrapin48/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipterrapin48/ableton-live-12.md) |
 | [BoatwrightSpout/IOBIT-Driver-Booster](https://github.com/BoatwrightSpout/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boatwrightspout/iobit-driver-booster.md) |
 | [AspectPikemanPier/AnyUnlock](https://github.com/AspectPikemanPier/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aspectpikemanpier/anyunlock.md) |
@@ -38,7 +39,6 @@ _1649 guides written so far · last update 2026-10-29 09:47 UTC_
 | [centerqualityanger/DLSS-5-Swapper](https://github.com/centerqualityanger/DLSS-5-Swapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centerqualityanger/dlss-5-swapper.md) |
 | [DAgogo04/gogo-agent](https://github.com/DAgogo04/gogo-agent) | Python project | Runs in the browser with a free account | [guide](guides/dagogo04/gogo-agent.md) |
 | [missuo/unfairplay-bot](https://github.com/missuo/unfairplay-bot) | Go project | Runs in the browser with a free account | [guide](guides/missuo/unfairplay-bot.md) |
-| [Pluviobyte/awesome-talking-head-skills](https://github.com/Pluviobyte/awesome-talking-head-skills) | Shell project | Runs in the browser with a free account | [guide](guides/pluviobyte/awesome-talking-head-skills.md) |
 <!-- latest:end -->
 
 ## How it works

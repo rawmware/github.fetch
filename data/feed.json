@@ -1,8 +1,56 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T02:55:52.355Z",
- "totalGuides": 1634,
+ "updatedAt": "2026-10-29T02:55:52.635Z",
+ "totalGuides": 1635,
  "items": [
+  {
+   "fullName": "Akil-x/R00tLib-Catalog",
+   "owner": "Akil-x",
+   "name": "R00tLib-Catalog",
+   "url": "https://github.com/Akil-x/R00tLib-Catalog",
+   "avatar": "https://avatars.githubusercontent.com/u/180762554?v=4",
+   "description": "A community-curated knowledge hub and catalog for computer science, cybersecurity & software engineering books",
+   "language": null,
+   "topics": [],
+   "license": "MIT",
+   "stars": 61,
+   "forks": 3,
+   "createdAt": "2026-10-28T17:22:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T02:55:52.633Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Akil-x/R00tLib-Catalog",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Akil-x/R00tLib-Catalog/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Akil-x/R00tLib-Catalog\nWhat it says it does: \"A community-curated knowledge hub and catalog for computer science, cybersecurity & software engineering books\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T02:55:52.633Z"
+  },
   {
    "fullName": "bjarneo/velo",
    "owner": "bjarneo",
@@ -32952,83 +33000,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/WoYun520/dsh-purge\nWhat it says it does: \"DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T04:57:51.140Z"
-  },
-  {
-   "fullName": "Networkapbridge/dll-decryptor",
-   "owner": "Networkapbridge",
-   "name": "dll-decryptor",
-   "url": "https://github.com/Networkapbridge/dll-decryptor",
-   "avatar": "https://avatars.githubusercontent.com/u/312920123?v=4",
-   "description": "dll decryptor — dumps encrypted DLL payloads, resolves imports, rebuilds PE headers, exports or memory-maps the decrypted module",
-   "language": "HTML",
-   "topics": [
-    "assembly-decryptor",
-    "binary-analysis",
-    "csharp-decompiler",
-    "dll-decryption",
-    "dll-decryptor",
-    "dll-unpacker",
-    "dll-unpacking",
-    "dnspy"
-   ],
-   "license": "MIT",
-   "stars": 72,
-   "forks": 31,
-   "createdAt": "2026-10-20T11:55:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T04:57:50.830Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Networkapbridge/dll-decryptor/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Networkapbridge/dll-decryptor?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Networkapbridge/dll-decryptor",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Networkapbridge/dll-decryptor/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Networkapbridge/dll-decryptor.git\ncd dll-decryptor\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Networkapbridge/dll-decryptor\nWhat it says it does: \"dll decryptor — dumps encrypted DLL payloads, resolves imports, rebuilds PE headers, exports or memory-maps the decrypted module\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T04:57:50.830Z"
   }
  ],
  "levels": {
-  "account": 283,
+  "read": 74,
+  "account": 282,
   "heavy": 76,
-  "instant": 68,
-  "read": 73
+  "instant": 68
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1681 guides written so far · last update 2026-10-29 21:21 UTC_
+_1682 guides written so far · last update 2026-10-29 21:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [coastboulderdolmen/AutoCad](https://github.com/coastboulderdolmen/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastboulderdolmen/autocad.md) |
 | [Ambererforum/Designcenter-NX](https://github.com/Ambererforum/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ambererforum/designcenter-nx.md) |
 | [Attothroughzen/Autodesk-CFD](https://github.com/Attothroughzen/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/attothroughzen/autodesk-cfd.md) |
 | [PentagonShadeSky/Axie-Infinity-Bot](https://github.com/PentagonShadeSky/Axie-Infinity-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pentagonshadesky/axie-infinity-bot.md) |
@@ -38,7 +39,6 @@ _1681 guides written so far · last update 2026-10-29 21:21 UTC_
 | [bjarneo/shoulder](https://github.com/bjarneo/shoulder) | Go project | Runs in the browser with a free account | [guide](guides/bjarneo/shoulder.md) |
 | [Mosina1102/Moui](https://github.com/Mosina1102/Moui) | Python project | Runs in the browser with a free account | [guide](guides/mosina1102/moui.md) |
 | [soimy/c3rb3r-rescue](https://github.com/soimy/c3rb3r-rescue) | Python project | Runs in the browser with a free account | [guide](guides/soimy/c3rb3r-rescue.md) |
-| [Max-luo-song/ADToolBox](https://github.com/Max-luo-song/ADToolBox) | Python project | Runs in the browser with a free account | [guide](guides/max-luo-song/adtoolbox.md) |
 <!-- latest:end -->
 
 ## How it works

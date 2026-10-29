@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T16:26:45.024Z",
- "totalGuides": 1672,
+ "updatedAt": "2026-10-29T16:26:45.243Z",
+ "totalGuides": 1673,
  "items": [
+  {
+   "fullName": "bjarneo/shoulder",
+   "owner": "bjarneo",
+   "name": "shoulder",
+   "url": "https://github.com/bjarneo/shoulder",
+   "avatar": "https://avatars.githubusercontent.com/u/1419214?v=4",
+   "description": "Watch over your agents' shoulder. A TUI that shows Claude Code, Codex, Gemini CLI and opencode work in your project, live.",
+   "language": "Go",
+   "topics": [
+    "ai-agents",
+    "bubbletea",
+    "claude-code",
+    "codex",
+    "gemini-cli",
+    "golang",
+    "opencode",
+    "tui"
+   ],
+   "license": "MIT",
+   "stars": 68,
+   "forks": 4,
+   "createdAt": "2026-10-27T20:58:35Z",
+   "branch": "main",
+   "homepage": "https://bjarneo.github.io/shoulder/",
+   "addedAt": "2026-10-29T16:26:45.242Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/bjarneo/shoulder?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/bjarneo/shoulder",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/bjarneo/shoulder/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": "go run .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/bjarneo/shoulder.git\ncd shoulder\ngo build ./...\ngo run .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/bjarneo/shoulder\nWhat it says it does: \"Watch over your agents' shoulder. A TUI that shows Claude Code, Codex, Gemini CLI and opencode work in your project, live.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T16:26:45.242Z"
+  },
   {
    "fullName": "Mosina1102/Moui",
    "owner": "Mosina1102",
@@ -32730,69 +32794,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/slaterockweb/BorisFX\nWhat it says it does: \"Full working installer for Borisfx 2026, your professional VFX solution ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T19:20:46.324Z"
-  },
-  {
-   "fullName": "ThresholdSummoner/Camtasia",
-   "owner": "ThresholdSummoner",
-   "name": "Camtasia",
-   "url": "https://github.com/ThresholdSummoner/Camtasia",
-   "avatar": "https://avatars.githubusercontent.com/u/295650829?v=4",
-   "description": "Camtasia 2026: Full working installer for professional video editing, screen recording, and VFX. Ready-to-use desktop edition with all...",
-   "language": null,
-   "topics": [
-    "camtasia",
-    "camtasia-key-license",
-    "camtasia-license",
-    "camtasia-pro",
-    "camtasia-safe",
-    "camtasia-script",
-    "camtasia-studio",
-    "camtasia-studio-2026"
-   ],
-   "license": null,
-   "stars": 80,
-   "forks": 0,
-   "createdAt": "2026-10-21T15:50:19Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T19:20:46.107Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ThresholdSummoner/Camtasia",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ThresholdSummoner/Camtasia/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ThresholdSummoner/Camtasia\nWhat it says it does: \"Camtasia 2026: Full working installer for professional video editing, screen recording, and VFX. Ready-to-use desktop edition with all...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T19:20:46.107Z"
   }
  ],
  "levels": {
-  "account": 268,
+  "account": 269,
   "heavy": 75,
   "instant": 65,
-  "read": 92
+  "read": 91
  }
 }

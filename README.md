@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1641 guides written so far · last update 2026-10-29 09:47 UTC_
+_1642 guides written so far · last update 2026-10-29 09:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [covesoulrhythm/Autodesk-3ds-MAX](https://github.com/covesoulrhythm/Autodesk-3ds-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/covesoulrhythm/autodesk-3ds-max.md) |
 | [centerqualityanger/DLSS-5-Swapper](https://github.com/centerqualityanger/DLSS-5-Swapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centerqualityanger/dlss-5-swapper.md) |
 | [DAgogo04/gogo-agent](https://github.com/DAgogo04/gogo-agent) | Python project | Runs in the browser with a free account | [guide](guides/dagogo04/gogo-agent.md) |
 | [missuo/unfairplay-bot](https://github.com/missuo/unfairplay-bot) | Go project | Runs in the browser with a free account | [guide](guides/missuo/unfairplay-bot.md) |
@@ -38,7 +39,6 @@ _1641 guides written so far · last update 2026-10-29 09:47 UTC_
 | [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | JavaScript project | Runs in the browser with a free account | [guide](guides/xpropel/pi-remote.md) |
 | [AlpinDale/foidfinder](https://github.com/AlpinDale/foidfinder) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/alpindale/foidfinder.md) |
 | [sirioberati/YouTube-AI-Motion-Graphics](https://github.com/sirioberati/YouTube-AI-Motion-Graphics) | HTML project | Runs in the browser with a free account | [guide](guides/sirioberati/youtube-ai-motion-graphics.md) |
-| [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge) | JavaScript project | Runs in the browser with a free account | [guide](guides/andyhuo520/vibe-knowledge.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,73 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T16:26:42.255Z",
- "totalGuides": 1661,
+ "updatedAt": "2026-10-29T16:26:42.457Z",
+ "totalGuides": 1662,
  "items": [
+  {
+   "fullName": "jackwener/DeepseekHarness-Android",
+   "owner": "jackwener",
+   "name": "DeepseekHarness-Android",
+   "url": "https://github.com/jackwener/DeepseekHarness-Android",
+   "avatar": "https://avatars.githubusercontent.com/u/30525741?v=4",
+   "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+   "language": "Kotlin",
+   "topics": [
+    "ai-agent",
+    "android",
+    "deepseek",
+    "deepseek-harness",
+    "llm",
+    "phone-agent",
+    "shizuku"
+   ],
+   "license": "Apache-2.0",
+   "stars": 144,
+   "forks": 5,
+   "createdAt": "2026-10-27T19:26:12Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T16:26:42.455Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/jackwener/DeepseekHarness-Android?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/jackwener/DeepseekHarness-Android",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/jackwener/DeepseekHarness-Android/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/jackwener/DeepseekHarness-Android.git\ncd DeepseekHarness-Android",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/jackwener/DeepseekHarness-Android\nWhat it says it does: \"免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T16:26:42.455Z"
+  },
   {
    "fullName": "10291124jcjc-dotcom/ai-anime-series",
    "owner": "10291124jcjc-dotcom",
@@ -32711,75 +32776,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/c1overzz/dsh-bili-scroll\nWhat it says it does: \"DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T15:04:28.750Z"
-  },
-  {
-   "fullName": "qiniu/xhub",
-   "owner": "qiniu",
-   "name": "xhub",
-   "url": "https://github.com/qiniu/xhub",
-   "avatar": "https://avatars.githubusercontent.com/u/1563636?v=4",
-   "description": "A self-hosted AI gateway for enterprises. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-   "language": "TypeScript",
-   "topics": [
-    "ai-gateway",
-    "anthropic",
-    "gemini",
-    "litellm",
-    "openai",
-    "seeddance",
-    "tokenhub"
-   ],
-   "license": "MIT",
-   "stars": 67,
-   "forks": 1,
-   "createdAt": "2026-10-19T06:01:06Z",
-   "branch": "main",
-   "homepage": "https://qiniu.github.io/xhub/en",
-   "addedAt": "2026-10-21T15:04:28.451Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/qiniu/xhub?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/qiniu/xhub",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/qiniu/xhub/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/qiniu/xhub.git\ncd xhub\ngo build ./...",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/qiniu/xhub\nWhat it says it does: \"A self-hosted AI gateway for enterprises. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T15:04:28.451Z"
   }
  ],
  "levels": {
-  "account": 269,
+  "heavy": 73,
+  "account": 268,
   "read": 94,
-  "instant": 65,
-  "heavy": 72
+  "instant": 65
  }
 }

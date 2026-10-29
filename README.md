@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1631 guides written so far · last update 2026-10-29 02:55 UTC_
+_1632 guides written so far · last update 2026-10-29 02:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AlpinDale/foidfinder](https://github.com/AlpinDale/foidfinder) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/alpindale/foidfinder.md) |
 | [sirioberati/YouTube-AI-Motion-Graphics](https://github.com/sirioberati/YouTube-AI-Motion-Graphics) | HTML project | Runs in the browser with a free account | [guide](guides/sirioberati/youtube-ai-motion-graphics.md) |
 | [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge) | JavaScript project | Runs in the browser with a free account | [guide](guides/andyhuo520/vibe-knowledge.md) |
 | [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs) | Python project | Runs in the browser with a free account | [guide](guides/cutetailbud/ff-ruyijs.md) |
@@ -38,7 +39,6 @@ _1631 guides written so far · last update 2026-10-29 02:55 UTC_
 | [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | React app | Runs in a browser tab, no account needed | [guide](guides/floatboatai/openminutes.md) |
 | [Humpalumps/Ultra-Water](https://github.com/Humpalumps/Ultra-Water) | Vite app | Runs in a browser tab, no account needed | [guide](guides/humpalumps/ultra-water.md) |
 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | Vite app | Runs in the browser with a free account | [guide](guides/l0ng-ai/openidea.md) |
-| [shipwords-dev/shipwords](https://github.com/shipwords-dev/shipwords) | JavaScript project | Runs in the browser with a free account | [guide](guides/shipwords-dev/shipwords.md) |
 <!-- latest:end -->
 
 ## How it works

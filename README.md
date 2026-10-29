@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1678 guides written so far · last update 2026-10-29 21:21 UTC_
+_1679 guides written so far · last update 2026-10-29 21:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PentagonShadeSky/Axie-Infinity-Bot](https://github.com/PentagonShadeSky/Axie-Infinity-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pentagonshadesky/axie-infinity-bot.md) |
 | [WyvernProvost/FL-Studio](https://github.com/WyvernProvost/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wyvernprovost/fl-studio.md) |
 | [ProviderBolt/Discord-Server-Raider](https://github.com/ProviderBolt/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/providerbolt/discord-server-raider.md) |
 | [onurozcan/omux](https://github.com/onurozcan/omux) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/onurozcan/omux.md) |
@@ -38,7 +39,6 @@ _1678 guides written so far · last update 2026-10-29 21:21 UTC_
 | [Max-luo-song/ADToolBox](https://github.com/Max-luo-song/ADToolBox) | Python project | Runs in the browser with a free account | [guide](guides/max-luo-song/adtoolbox.md) |
 | [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/markblah/smsofdeath.md) |
 | [Villagers654/Venture](https://github.com/Villagers654/Venture) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/villagers654/venture.md) |
-| [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python project | Runs in the browser with a free account | [guide](guides/bryceyuuu/run.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T09:47:08.080Z",
- "totalGuides": 1655,
+ "updatedAt": "2026-10-29T09:47:08.308Z",
+ "totalGuides": 1656,
  "items": [
+  {
+   "fullName": "planewaspgrave/AIDA-64-Extreme",
+   "owner": "planewaspgrave",
+   "name": "AIDA-64-Extreme",
+   "url": "https://github.com/planewaspgrave/AIDA-64-Extreme",
+   "avatar": "https://avatars.githubusercontent.com/u/295661776?v=4",
+   "description": "Ready-to-run Aida 64 Extreme desktop installation build. Fully functional and activated, no online registration required.",
+   "language": null,
+   "topics": [
+    "aida64",
+    "aida64-extreme-compatibility-check",
+    "aida64-extreme-detailed-reporting",
+    "aida64-extreme-hardware-diagnostics",
+    "aida64-extreme-setup",
+    "aida64-extreme-system-information",
+    "aida64-free-setup",
+    "pc-diagnostics-windows-platform"
+   ],
+   "license": null,
+   "stars": 99,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:14:56Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T09:47:08.307Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/planewaspgrave/AIDA-64-Extreme",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/planewaspgrave/AIDA-64-Extreme/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/planewaspgrave/AIDA-64-Extreme\nWhat it says it does: \"Ready-to-run Aida 64 Extreme desktop installation build. Fully functional and activated, no online registration required.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T09:47:08.307Z"
+  },
   {
    "fullName": "chainraikagepresent/Cinema-4d",
    "owner": "chainraikagepresent",
@@ -32751,73 +32808,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/ilAoC/mcd-gacha-collector\nWhat it says it does: \"麦卡收藏家 · 基于麦当劳中国 MCP 的卡牌收集 Skill + 网页版（麦当劳程序员创意开发大赛参赛作品）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T15:04:27.457Z"
-  },
-  {
-   "fullName": "smm2recomp/smm2recomp",
-   "owner": "smm2recomp",
-   "name": "smm2recomp",
-   "url": "https://github.com/smm2recomp/smm2recomp",
-   "avatar": "https://avatars.githubusercontent.com/u/344600717?v=4",
-   "description": "Super Mario Maker 2 Recomp",
-   "language": "Rust",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 93,
-   "forks": 4,
-   "createdAt": "2026-10-19T03:02:41Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T15:04:27.275Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/smm2recomp/smm2recomp/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/smm2recomp/smm2recomp?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/smm2recomp/smm2recomp",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/smm2recomp/smm2recomp/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/smm2recomp/smm2recomp.git\ncd smm2recomp\npip install -r requirements.txt",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/smm2recomp/smm2recomp\nWhat it says it does: \"Super Mario Maker 2 Recomp\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T15:04:27.275Z"
   }
  ],
  "levels": {
-  "read": 89,
-  "account": 274,
+  "read": 90,
+  "account": 273,
   "instant": 65,
   "heavy": 72
  }

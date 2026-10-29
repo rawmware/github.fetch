@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1673 guides written so far · last update 2026-10-29 16:26 UTC_
+_1674 guides written so far · last update 2026-10-29 16:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [w0ldan/exoproc](https://github.com/w0ldan/exoproc) | JavaScript project | Runs in the browser with a free account | [guide](guides/w0ldan/exoproc.md) |
 | [bjarneo/shoulder](https://github.com/bjarneo/shoulder) | Go project | Runs in the browser with a free account | [guide](guides/bjarneo/shoulder.md) |
 | [Mosina1102/Moui](https://github.com/Mosina1102/Moui) | Python project | Runs in the browser with a free account | [guide](guides/mosina1102/moui.md) |
 | [soimy/c3rb3r-rescue](https://github.com/soimy/c3rb3r-rescue) | Python project | Runs in the browser with a free account | [guide](guides/soimy/c3rb3r-rescue.md) |
@@ -38,7 +39,6 @@ _1673 guides written so far · last update 2026-10-29 16:26 UTC_
 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/valentderah/totk-pc-recomp.md) |
 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/paipiange/nvzhuang.md) |
 | [QuantMLResearch/quant-handbook](https://github.com/QuantMLResearch/quant-handbook) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/quantmlresearch/quant-handbook.md) |
-| [jackwener/DeepseekHarness-Android](https://github.com/jackwener/DeepseekHarness-Android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jackwener/deepseekharness-android.md) |
 <!-- latest:end -->
 
 ## How it works

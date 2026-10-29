@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1677 guides written so far · last update 2026-10-29 21:21 UTC_
+_1678 guides written so far · last update 2026-10-29 21:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [WyvernProvost/FL-Studio](https://github.com/WyvernProvost/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wyvernprovost/fl-studio.md) |
 | [ProviderBolt/Discord-Server-Raider](https://github.com/ProviderBolt/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/providerbolt/discord-server-raider.md) |
 | [onurozcan/omux](https://github.com/onurozcan/omux) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/onurozcan/omux.md) |
 | [win4r/video-director](https://github.com/win4r/video-director) | Python project | Runs in the browser with a free account | [guide](guides/win4r/video-director.md) |
@@ -38,7 +39,6 @@ _1677 guides written so far · last update 2026-10-29 21:21 UTC_
 | [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/markblah/smsofdeath.md) |
 | [Villagers654/Venture](https://github.com/Villagers654/Venture) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/villagers654/venture.md) |
 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python project | Runs in the browser with a free account | [guide](guides/bryceyuuu/run.md) |
-| [pyqdcyy123-byte/IP-Bot](https://github.com/pyqdcyy123-byte/IP-Bot) | Vite app | Runs in the browser with a free account | [guide](guides/pyqdcyy123-byte/ip-bot.md) |
 <!-- latest:end -->
 
 ## How it works

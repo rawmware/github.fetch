@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1645 guides written so far · last update 2026-10-29 09:47 UTC_
+_1646 guides written so far · last update 2026-10-29 09:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HerdWarlordExplode/AOMEI-Backupper](https://github.com/HerdWarlordExplode/AOMEI-Backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/herdwarlordexplode/aomei-backupper.md) |
 | [Operativenyodynamo/Chief-Architect-Premier](https://github.com/Operativenyodynamo/Chief-Architect-Premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/operativenyodynamo/chief-architect-premier.md) |
 | [GumshoeRampart/Adobe-After-Effects](https://github.com/GumshoeRampart/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gumshoerampart/adobe-after-effects.md) |
 | [thresholdwolfshack/Autodesk-Inventor](https://github.com/thresholdwolfshack/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdwolfshack/autodesk-inventor.md) |
@@ -38,7 +39,6 @@ _1645 guides written so far · last update 2026-10-29 09:47 UTC_
 | [joeseesun/qiaomu-ui-learn-dsh](https://github.com/joeseesun/qiaomu-ui-learn-dsh) | React app | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-ui-learn-dsh.md) |
 | [JulioFerrero/pocket-foundry](https://github.com/JulioFerrero/pocket-foundry) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/julioferrero/pocket-foundry.md) |
 | [Akil-x/R00tLib-Catalog](https://github.com/Akil-x/R00tLib-Catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/akil-x/r00tlib-catalog.md) |
-| [bjarneo/velo](https://github.com/bjarneo/velo) | Go project | Runs in the browser with a free account | [guide](guides/bjarneo/velo.md) |
 <!-- latest:end -->
 
 ## How it works

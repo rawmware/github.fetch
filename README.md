@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1688 guides written so far · last update 2026-10-29 21:21 UTC_
+_1689 guides written so far · last update 2026-10-29 21:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Plateplaflange/Display-Fusion](https://github.com/Plateplaflange/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plateplaflange/display-fusion.md) |
 | [OperativeGallery/Adobe-Audition](https://github.com/OperativeGallery/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/operativegallery/adobe-audition.md) |
 | [GrandNurseStretch/Genesis-Miner](https://github.com/GrandNurseStretch/Genesis-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grandnursestretch/genesis-miner.md) |
 | [CaveVerseNight/Adobe-InDesign](https://github.com/CaveVerseNight/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caveversenight/adobe-indesign.md) |
@@ -38,7 +39,6 @@ _1688 guides written so far · last update 2026-10-29 21:21 UTC_
 | [Attothroughzen/Autodesk-CFD](https://github.com/Attothroughzen/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/attothroughzen/autodesk-cfd.md) |
 | [PentagonShadeSky/Axie-Infinity-Bot](https://github.com/PentagonShadeSky/Axie-Infinity-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pentagonshadesky/axie-infinity-bot.md) |
 | [WyvernProvost/FL-Studio](https://github.com/WyvernProvost/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wyvernprovost/fl-studio.md) |
-| [ProviderBolt/Discord-Server-Raider](https://github.com/ProviderBolt/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/providerbolt/discord-server-raider.md) |
 <!-- latest:end -->
 
 ## How it works

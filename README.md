@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1669 guides written so far · last update 2026-10-29 16:26 UTC_
+_1670 guides written so far · last update 2026-10-29 16:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Max-luo-song/ADToolBox](https://github.com/Max-luo-song/ADToolBox) | Python project | Runs in the browser with a free account | [guide](guides/max-luo-song/adtoolbox.md) |
 | [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/markblah/smsofdeath.md) |
 | [Villagers654/Venture](https://github.com/Villagers654/Venture) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/villagers654/venture.md) |
 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python project | Runs in the browser with a free account | [guide](guides/bryceyuuu/run.md) |
@@ -38,7 +39,6 @@ _1669 guides written so far · last update 2026-10-29 16:26 UTC_
 | [10291124jcjc-dotcom/ai-anime-series](https://github.com/10291124jcjc-dotcom/ai-anime-series) | Python project | Runs in the browser with a free account | [guide](guides/10291124jcjc-dotcom/ai-anime-series.md) |
 | [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aschmelyun/print-my-profile-pic.md) |
 | [Radiancebeyondcrane/DAEMON-Pro](https://github.com/Radiancebeyondcrane/DAEMON-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radiancebeyondcrane/daemon-pro.md) |
-| [Calmfluretreat/Crash-Plan](https://github.com/Calmfluretreat/Crash-Plan) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/calmfluretreat/crash-plan.md) |
 <!-- latest:end -->
 
 ## How it works

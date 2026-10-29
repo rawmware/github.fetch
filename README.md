@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1665 guides written so far · last update 2026-10-29 16:26 UTC_
+_1666 guides written so far · last update 2026-10-29 16:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [pyqdcyy123-byte/IP-Bot](https://github.com/pyqdcyy123-byte/IP-Bot) | Vite app | Runs in the browser with a free account | [guide](guides/pyqdcyy123-byte/ip-bot.md) |
 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/valentderah/totk-pc-recomp.md) |
 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/paipiange/nvzhuang.md) |
 | [QuantMLResearch/quant-handbook](https://github.com/QuantMLResearch/quant-handbook) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/quantmlresearch/quant-handbook.md) |
@@ -38,7 +39,6 @@ _1665 guides written so far · last update 2026-10-29 16:26 UTC_
 | [Knitchewhirl/Directory-Opus](https://github.com/Knitchewhirl/Directory-Opus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/knitchewhirl/directory-opus.md) |
 | [planewaspgrave/AIDA-64-Extreme](https://github.com/planewaspgrave/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planewaspgrave/aida-64-extreme.md) |
 | [chainraikagepresent/Cinema-4d](https://github.com/chainraikagepresent/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chainraikagepresent/cinema-4d.md) |
-| [linkwindwatt/Burning-Studio](https://github.com/linkwindwatt/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkwindwatt/burning-studio.md) |
 <!-- latest:end -->
 
 ## How it works

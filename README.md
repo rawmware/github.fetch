@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1653 guides written so far · last update 2026-10-29 09:47 UTC_
+_1654 guides written so far · last update 2026-10-29 09:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [linkwindwatt/Burning-Studio](https://github.com/linkwindwatt/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkwindwatt/burning-studio.md) |
 | [uploaddictatorrob37/Better-Discord](https://github.com/uploaddictatorrob37/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/uploaddictatorrob37/better-discord.md) |
 | [LawyerConceal/CCleaner-Pro](https://github.com/LawyerConceal/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lawyerconceal/ccleaner-pro.md) |
 | [MicroLoaderGorge/Avid-Media-Composer](https://github.com/MicroLoaderGorge/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/microloadergorge/avid-media-composer.md) |
@@ -38,7 +39,6 @@ _1653 guides written so far · last update 2026-10-29 09:47 UTC_
 | [Operativenyodynamo/Chief-Architect-Premier](https://github.com/Operativenyodynamo/Chief-Architect-Premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/operativenyodynamo/chief-architect-premier.md) |
 | [GumshoeRampart/Adobe-After-Effects](https://github.com/GumshoeRampart/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gumshoerampart/adobe-after-effects.md) |
 | [thresholdwolfshack/Autodesk-Inventor](https://github.com/thresholdwolfshack/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdwolfshack/autodesk-inventor.md) |
-| [covesoulrhythm/Autodesk-3ds-MAX](https://github.com/covesoulrhythm/Autodesk-3ds-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/covesoulrhythm/autodesk-3ds-max.md) |
 <!-- latest:end -->
 
 ## How it works

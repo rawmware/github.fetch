@@ -1,8 +1,86 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T02:55:51.699Z",
- "totalGuides": 1632,
+ "updatedAt": "2026-10-29T02:55:52.065Z",
+ "totalGuides": 1633,
  "items": [
+  {
+   "fullName": "Xpropel/Pi-Remote",
+   "owner": "Xpropel",
+   "name": "Pi-Remote",
+   "url": "https://github.com/Xpropel/Pi-Remote",
+   "avatar": "https://avatars.githubusercontent.com/u/138779878?v=4",
+   "description": "Mirror and remotely control pi terminal sessions from any browser — official pi extension + lightweight relay + unified desktop/mobile UI.",
+   "language": "TypeScript",
+   "topics": [
+    "developer-tools",
+    "pi",
+    "pi-coding-agent",
+    "react",
+    "relay",
+    "remote-control",
+    "terminal",
+    "typescript"
+   ],
+   "license": "MIT",
+   "stars": 66,
+   "forks": 1,
+   "createdAt": "2026-10-28T10:46:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T02:55:52.064Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Xpropel/Pi-Remote",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Xpropel/Pi-Remote",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Xpropel/Pi-Remote?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Xpropel/Pi-Remote",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Xpropel/Pi-Remote/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Xpropel/Pi-Remote.git\ncd Pi-Remote\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Xpropel/Pi-Remote\nWhat it says it does: \"Mirror and remotely control pi terminal sessions from any browser — official pi extension + lightweight relay + unified desktop/mobile UI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T02:55:52.064Z"
+  },
   {
    "fullName": "AlpinDale/foidfinder",
    "owner": "AlpinDale",
@@ -32943,96 +33021,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/EthanArbuckle/fairplay-decrypt\nWhat it says it does: \"Offline FairPlay App Store IPA decryption with independent key derivation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T04:57:50.458Z"
-  },
-  {
-   "fullName": "aidenleads/css-animation-snippets",
-   "owner": "aidenleads",
-   "name": "css-animation-snippets",
-   "url": "https://github.com/aidenleads/css-animation-snippets",
-   "avatar": "https://avatars.githubusercontent.com/u/253620089?v=4",
-   "description": "Free copy-paste CSS animations for business websites. No frameworks, no build step, accessible by default. Love Yall ❤️",
-   "language": "CSS",
-   "topics": [
-    "css",
-    "css-animations",
-    "free-resources",
-    "frontend",
-    "small-business",
-    "ui",
-    "web-design"
-   ],
-   "license": "MIT",
-   "stars": 74,
-   "forks": 16,
-   "createdAt": "2026-10-19T03:47:01Z",
-   "branch": "main",
-   "homepage": "https://aidenleads.github.io/css-animation-snippets/",
-   "addedAt": "2026-10-21T04:57:50.163Z",
-   "stack": {
-    "kind": "static",
-    "label": "Static website (HTML/CSS/JS)",
-    "frameworks": []
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "live",
-   "launch": [
-    {
-     "id": "live",
-     "label": "Open it live",
-     "url": "https://raw.githack.com/aidenleads/css-animation-snippets/main/index.html",
-     "needs": "nothing",
-     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
-    },
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/aidenleads/css-animation-snippets",
-     "needs": "nothing",
-     "note": "A full editor and preview in your tab."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/aidenleads/css-animation-snippets",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/aidenleads/css-animation-snippets?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/aidenleads/css-animation-snippets",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/aidenleads/css-animation-snippets/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "npx serve .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/aidenleads/css-animation-snippets.git\ncd css-animation-snippets\nnpx serve .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/aidenleads/css-animation-snippets\nWhat it says it does: \"Free copy-paste CSS animations for business websites. No frameworks, no build step, accessible by default. Love Yall ❤️\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T04:57:50.163Z"
   }
  ],
  "levels": {
+  "account": 283,
   "heavy": 76,
-  "account": 282,
-  "instant": 69,
+  "instant": 68,
   "read": 73
  }
 }

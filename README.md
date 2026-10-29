@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1633 guides written so far · last update 2026-10-29 02:55 UTC_
+_1634 guides written so far · last update 2026-10-29 02:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [bjarneo/velo](https://github.com/bjarneo/velo) | Go project | Runs in the browser with a free account | [guide](guides/bjarneo/velo.md) |
 | [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | JavaScript project | Runs in the browser with a free account | [guide](guides/xpropel/pi-remote.md) |
 | [AlpinDale/foidfinder](https://github.com/AlpinDale/foidfinder) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/alpindale/foidfinder.md) |
 | [sirioberati/YouTube-AI-Motion-Graphics](https://github.com/sirioberati/YouTube-AI-Motion-Graphics) | HTML project | Runs in the browser with a free account | [guide](guides/sirioberati/youtube-ai-motion-graphics.md) |
@@ -38,7 +39,6 @@ _1633 guides written so far · last update 2026-10-29 02:55 UTC_
 | [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/jmanico/grim-prompter.md) |
 | [anomalyco/hokum](https://github.com/anomalyco/hokum) | Rust project | Runs in the browser with a free account | [guide](guides/anomalyco/hokum.md) |
 | [floatboatai/OpenMinutes](https://github.com/floatboatai/OpenMinutes) | React app | Runs in a browser tab, no account needed | [guide](guides/floatboatai/openminutes.md) |
-| [Humpalumps/Ultra-Water](https://github.com/Humpalumps/Ultra-Water) | Vite app | Runs in a browser tab, no account needed | [guide](guides/humpalumps/ultra-water.md) |
 <!-- latest:end -->
 
 ## How it works

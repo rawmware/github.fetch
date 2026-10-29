@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1675 guides written so far · last update 2026-10-29 16:26 UTC_
+_1676 guides written so far · last update 2026-10-29 16:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [onurozcan/omux](https://github.com/onurozcan/omux) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/onurozcan/omux.md) |
 | [win4r/video-director](https://github.com/win4r/video-director) | Python project | Runs in the browser with a free account | [guide](guides/win4r/video-director.md) |
 | [w0ldan/exoproc](https://github.com/w0ldan/exoproc) | JavaScript project | Runs in the browser with a free account | [guide](guides/w0ldan/exoproc.md) |
 | [bjarneo/shoulder](https://github.com/bjarneo/shoulder) | Go project | Runs in the browser with a free account | [guide](guides/bjarneo/shoulder.md) |
@@ -38,7 +39,6 @@ _1675 guides written so far · last update 2026-10-29 16:26 UTC_
 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python project | Runs in the browser with a free account | [guide](guides/bryceyuuu/run.md) |
 | [pyqdcyy123-byte/IP-Bot](https://github.com/pyqdcyy123-byte/IP-Bot) | Vite app | Runs in the browser with a free account | [guide](guides/pyqdcyy123-byte/ip-bot.md) |
 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/valentderah/totk-pc-recomp.md) |
-| [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/paipiange/nvzhuang.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T16:26:45.696Z",
- "totalGuides": 1675,
+ "updatedAt": "2026-10-29T16:26:45.929Z",
+ "totalGuides": 1676,
  "items": [
+  {
+   "fullName": "onurozcan/omux",
+   "owner": "onurozcan",
+   "name": "omux",
+   "url": "https://github.com/onurozcan/omux",
+   "avatar": "https://avatars.githubusercontent.com/u/4357542?v=4",
+   "description": "Native macOS terminal for running multiple Claude Code sessions side by side. AI coding agent manager with projects, live agent status, resumable conversations and file previews. Built with SwiftUI.",
+   "language": "Swift",
+   "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "coding-agents",
+    "developer-tools",
+    "macos",
+    "macos-app"
+   ],
+   "license": "MIT",
+   "stars": 66,
+   "forks": 8,
+   "createdAt": "2026-10-27T18:34:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T16:26:45.928Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/onurozcan/omux?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/onurozcan/omux",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/onurozcan/omux/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/onurozcan/omux.git\ncd omux",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/onurozcan/omux\nWhat it says it does: \"Native macOS terminal for running multiple Claude Code sessions side by side. AI coding agent manager with projects, live agent status, resumable conversations and file previews. Built with SwiftUI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T16:26:45.928Z"
+  },
   {
    "fullName": "win4r/video-director",
    "owner": "win4r",
@@ -32761,73 +32827,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/xue-y-su/clove-api-1.0.6\nWhat it says it does: \"Clove API 1.0.6 source code\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T22:39:21.875Z"
-  },
-  {
-   "fullName": "NCSC-NL/php2shell",
-   "owner": "NCSC-NL",
-   "name": "php2shell",
-   "url": "https://github.com/NCSC-NL/php2shell",
-   "avatar": "https://avatars.githubusercontent.com/u/16208471?v=4",
-   "description": "Operational information regarding the 2026 php2shell vulnerabilities",
-   "language": "Python",
-   "topics": [],
-   "license": "EUPL-1.2",
-   "stars": 99,
-   "forks": 22,
-   "createdAt": "2026-10-21T10:21:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T22:39:21.581Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/NCSC-NL/php2shell/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/NCSC-NL/php2shell?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/NCSC-NL/php2shell",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/NCSC-NL/php2shell/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/NCSC-NL/php2shell.git\ncd php2shell",
-   "licenseNote": "EUPL-1.2: read the license file before reusing it.",
-   "prompt": "I found this GitHub project: https://github.com/NCSC-NL/php2shell\nWhat it says it does: \"Operational information regarding the 2026 php2shell vulnerabilities\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T22:39:21.581Z"
   }
  ],
  "levels": {
-  "account": 271,
-  "heavy": 75,
+  "heavy": 76,
+  "account": 270,
   "instant": 65,
   "read": 89
  }

@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T02:55:50.850Z",
- "totalGuides": 1630,
+ "updatedAt": "2026-10-29T02:55:51.121Z",
+ "totalGuides": 1631,
  "items": [
+  {
+   "fullName": "sirioberati/YouTube-AI-Motion-Graphics",
+   "owner": "sirioberati",
+   "name": "YouTube-AI-Motion-Graphics",
+   "url": "https://github.com/sirioberati/YouTube-AI-Motion-Graphics",
+   "avatar": "https://avatars.githubusercontent.com/u/128729078?v=4",
+   "description": "AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with Whisper, exported frame by frame with Chrome + FFmpeg. Every prompt + Claude skills. By TEIN AI.",
+   "language": "HTML",
+   "topics": [
+    "ai-agents",
+    "ai-video",
+    "animation",
+    "claude",
+    "claude-code",
+    "claude-design",
+    "claude-skills",
+    "content-creation"
+   ],
+   "license": "MIT",
+   "stars": 68,
+   "forks": 18,
+   "createdAt": "2026-10-27T17:35:05Z",
+   "branch": "main",
+   "homepage": "https://tein.ai",
+   "addedAt": "2026-10-29T02:55:51.120Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/sirioberati/YouTube-AI-Motion-Graphics?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/sirioberati/YouTube-AI-Motion-Graphics",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/sirioberati/YouTube-AI-Motion-Graphics/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/sirioberati/YouTube-AI-Motion-Graphics.git\ncd YouTube-AI-Motion-Graphics",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/sirioberati/YouTube-AI-Motion-Graphics\nWhat it says it does: \"AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with Whisper, exported frame by frame with Chrome + FFmpeg. Every prompt + Claude skills. By TEIN AI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T02:55:51.120Z"
+  },
   {
    "fullName": "andyhuo520/vibe-knowledge",
    "owner": "andyhuo520",
@@ -32956,69 +33020,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/VictorTran1023/tcl-tv-adb-proxy\nWhat it says it does: \"TCL 电视调试与优化手册：ADB 授权 · 侧载 · 代理 · 去广告 · 低负载 · HUD · 回归测试\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T04:57:49.965Z"
-  },
-  {
-   "fullName": "Castlesea/infamous-second-son-pc-port",
-   "owner": "Castlesea",
-   "name": "infamous-second-son-pc-port",
-   "url": "https://github.com/Castlesea/infamous-second-son-pc-port",
-   "avatar": "https://avatars.githubusercontent.com/u/206963839?v=4",
-   "description": "Native Windows port of inFAMOUS Second Son (PS4): custom runtime + Vulkan renderer derived from shadPS4. Bring your own game.",
-   "language": "C++",
-   "topics": [],
-   "license": null,
-   "stars": 77,
-   "forks": 6,
-   "createdAt": "2026-10-19T20:22:29Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T04:57:49.650Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Castlesea/infamous-second-son-pc-port?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Castlesea/infamous-second-son-pc-port",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Castlesea/infamous-second-son-pc-port/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Castlesea/infamous-second-son-pc-port.git\ncd infamous-second-son-pc-port",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Castlesea/infamous-second-son-pc-port\nWhat it says it does: \"Native Windows port of inFAMOUS Second Son (PS4): custom runtime + Vulkan renderer derived from shadPS4. Bring your own game.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T04:57:49.650Z"
   }
  ],
  "levels": {
-  "account": 282,
+  "account": 283,
   "instant": 69,
   "read": 73,
-  "heavy": 76
+  "heavy": 75
  }
 }

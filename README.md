@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1664 guides written so far · last update 2026-10-29 16:26 UTC_
+_1665 guides written so far · last update 2026-10-29 16:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/valentderah/totk-pc-recomp.md) |
 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/paipiange/nvzhuang.md) |
 | [QuantMLResearch/quant-handbook](https://github.com/QuantMLResearch/quant-handbook) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/quantmlresearch/quant-handbook.md) |
 | [jackwener/DeepseekHarness-Android](https://github.com/jackwener/DeepseekHarness-Android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jackwener/deepseekharness-android.md) |
@@ -38,7 +39,6 @@ _1664 guides written so far · last update 2026-10-29 16:26 UTC_
 | [planewaspgrave/AIDA-64-Extreme](https://github.com/planewaspgrave/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planewaspgrave/aida-64-extreme.md) |
 | [chainraikagepresent/Cinema-4d](https://github.com/chainraikagepresent/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chainraikagepresent/cinema-4d.md) |
 | [linkwindwatt/Burning-Studio](https://github.com/linkwindwatt/Burning-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linkwindwatt/burning-studio.md) |
-| [uploaddictatorrob37/Better-Discord](https://github.com/uploaddictatorrob37/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/uploaddictatorrob37/better-discord.md) |
 <!-- latest:end -->
 
 ## How it works

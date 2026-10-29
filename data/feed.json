@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T09:47:05.248Z",
- "totalGuides": 1642,
+ "updatedAt": "2026-10-29T09:47:05.493Z",
+ "totalGuides": 1643,
  "items": [
+  {
+   "fullName": "thresholdwolfshack/Autodesk-Inventor",
+   "owner": "thresholdwolfshack",
+   "name": "Autodesk-Inventor",
+   "url": "https://github.com/thresholdwolfshack/Autodesk-Inventor",
+   "avatar": "https://avatars.githubusercontent.com/u/295661736?v=4",
+   "description": "Autodesk Inventor 2026: Pre-activated desktop edition ready for installation with all features unlocked.",
+   "language": null,
+   "topics": [
+    "autodesk-inventor-pro",
+    "autodesk-inventor-pro-pc",
+    "inventor",
+    "inventor-automation",
+    "inventor-design",
+    "inventor-parts",
+    "inventory-app",
+    "inventory-system"
+   ],
+   "license": null,
+   "stars": 99,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:15:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T09:47:05.492Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/thresholdwolfshack/Autodesk-Inventor",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/thresholdwolfshack/Autodesk-Inventor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/thresholdwolfshack/Autodesk-Inventor\nWhat it says it does: \"Autodesk Inventor 2026: Pre-activated desktop edition ready for installation with all features unlocked.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T09:47:05.492Z"
+  },
   {
    "fullName": "covesoulrhythm/Autodesk-3ds-MAX",
    "owner": "covesoulrhythm",
@@ -32884,82 +32941,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/h563k/chat-keeper\nWhat it says it does: \"chat-keeper专注于提供Claude镜像站 提供了1:1还原官网的体验，国内直连可用\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T10:00:24.787Z"
-  },
-  {
-   "fullName": "VictorTran1023/tcl-tv-toolkit",
-   "owner": "VictorTran1023",
-   "name": "tcl-tv-toolkit",
-   "url": "https://github.com/VictorTran1023/tcl-tv-toolkit",
-   "avatar": "https://avatars.githubusercontent.com/u/10486415?v=4",
-   "description": "国行 Android TV 调试与调优工具箱：ADB 授权、侧载、代理、去广告、状态 HUD | China-market Android TV toolkit: ADB auth, sideload, proxy, debloat, status HUD",
-   "language": "Java",
-   "topics": [
-    "adb",
-    "android-tv",
-    "debloat",
-    "flclash",
-    "handbook",
-    "overlay",
-    "smarttube",
-    "tcl"
-   ],
-   "license": "MIT",
-   "stars": 78,
-   "forks": 9,
-   "createdAt": "2026-10-19T02:53:28Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T10:00:24.503Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/VictorTran1023/tcl-tv-toolkit/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/VictorTran1023/tcl-tv-toolkit?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/VictorTran1023/tcl-tv-toolkit",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/VictorTran1023/tcl-tv-toolkit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/VictorTran1023/tcl-tv-toolkit.git\ncd tcl-tv-toolkit\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/VictorTran1023/tcl-tv-toolkit\nWhat it says it does: \"国行 Android TV 调试与调优工具箱：ADB 授权、侧载、代理、去广告、状态 HUD | China-market Android TV toolkit: ADB auth, sideload, proxy, debloat, status HUD\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T10:00:24.503Z"
   }
  ],
  "levels": {
-  "read": 76,
-  "account": 282,
+  "read": 77,
+  "account": 281,
   "instant": 68,
   "heavy": 74
  }

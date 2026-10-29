@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1676 guides written so far · last update 2026-10-29 16:26 UTC_
+_1677 guides written so far · last update 2026-10-29 21:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ProviderBolt/Discord-Server-Raider](https://github.com/ProviderBolt/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/providerbolt/discord-server-raider.md) |
 | [onurozcan/omux](https://github.com/onurozcan/omux) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/onurozcan/omux.md) |
 | [win4r/video-director](https://github.com/win4r/video-director) | Python project | Runs in the browser with a free account | [guide](guides/win4r/video-director.md) |
 | [w0ldan/exoproc](https://github.com/w0ldan/exoproc) | JavaScript project | Runs in the browser with a free account | [guide](guides/w0ldan/exoproc.md) |
@@ -38,7 +39,6 @@ _1676 guides written so far · last update 2026-10-29 16:26 UTC_
 | [Villagers654/Venture](https://github.com/Villagers654/Venture) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/villagers654/venture.md) |
 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python project | Runs in the browser with a free account | [guide](guides/bryceyuuu/run.md) |
 | [pyqdcyy123-byte/IP-Bot](https://github.com/pyqdcyy123-byte/IP-Bot) | Vite app | Runs in the browser with a free account | [guide](guides/pyqdcyy123-byte/ip-bot.md) |
-| [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/valentderah/totk-pc-recomp.md) |
 <!-- latest:end -->
 
 ## How it works

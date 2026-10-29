@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T16:26:45.929Z",
- "totalGuides": 1676,
+ "updatedAt": "2026-10-29T21:21:56.155Z",
+ "totalGuides": 1677,
  "items": [
+  {
+   "fullName": "ProviderBolt/Discord-Server-Raider",
+   "owner": "ProviderBolt",
+   "name": "Discord-Server-Raider",
+   "url": "https://github.com/ProviderBolt/Discord-Server-Raider",
+   "avatar": "https://avatars.githubusercontent.com/u/295660121?v=4",
+   "description": "Discord Server Raider: Full working installer for automated server moderation and management tasks, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "discord-boost-tools",
+    "discord-boosting-tool",
+    "discord-boosts",
+    "discord-raid-protect",
+    "discord-raid-software",
+    "discord-raider-bot",
+    "discord-raider-server",
+    "discord-token-login"
+   ],
+   "license": null,
+   "stars": 238,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:17:25Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T21:21:56.143Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ProviderBolt/Discord-Server-Raider",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ProviderBolt/Discord-Server-Raider/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ProviderBolt/Discord-Server-Raider\nWhat it says it does: \"Discord Server Raider: Full working installer for automated server moderation and management tasks, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T21:21:56.143Z"
+  },
   {
    "fullName": "onurozcan/omux",
    "owner": "onurozcan",
@@ -32772,67 +32829,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Fangx-AI/geo-doctor\nWhat it says it does: \"GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T22:39:22.313Z"
-  },
-  {
-   "fullName": "xue-y-su/clove-api-1.0.6",
-   "owner": "xue-y-su",
-   "name": "clove-api-1.0.6",
-   "url": "https://github.com/xue-y-su/clove-api-1.0.6",
-   "avatar": "https://avatars.githubusercontent.com/u/190185029?v=4",
-   "description": "Clove API 1.0.6 source code",
-   "language": "Go",
-   "topics": [],
-   "license": null,
-   "stars": 85,
-   "forks": 5,
-   "createdAt": "2026-10-21T09:09:08Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T22:39:21.875Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/xue-y-su/clove-api-1.0.6?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/xue-y-su/clove-api-1.0.6",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/xue-y-su/clove-api-1.0.6/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": "go run .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/xue-y-su/clove-api-1.0.6.git\ncd clove-api-1.0.6\ngo build ./...\ngo run .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/xue-y-su/clove-api-1.0.6\nWhat it says it does: \"Clove API 1.0.6 source code\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T22:39:21.875Z"
   }
  ],
  "levels": {
+  "read": 90,
   "heavy": 76,
-  "account": 270,
-  "instant": 65,
-  "read": 89
+  "account": 269,
+  "instant": 65
  }
 }

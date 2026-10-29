@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1660 guides written so far · last update 2026-10-29 16:26 UTC_
+_1661 guides written so far · last update 2026-10-29 16:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [10291124jcjc-dotcom/ai-anime-series](https://github.com/10291124jcjc-dotcom/ai-anime-series) | Python project | Runs in the browser with a free account | [guide](guides/10291124jcjc-dotcom/ai-anime-series.md) |
 | [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aschmelyun/print-my-profile-pic.md) |
 | [Radiancebeyondcrane/DAEMON-Pro](https://github.com/Radiancebeyondcrane/DAEMON-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radiancebeyondcrane/daemon-pro.md) |
 | [Calmfluretreat/Crash-Plan](https://github.com/Calmfluretreat/Crash-Plan) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/calmfluretreat/crash-plan.md) |
@@ -38,7 +39,6 @@ _1660 guides written so far · last update 2026-10-29 16:26 UTC_
 | [LawyerConceal/CCleaner-Pro](https://github.com/LawyerConceal/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lawyerconceal/ccleaner-pro.md) |
 | [MicroLoaderGorge/Avid-Media-Composer](https://github.com/MicroLoaderGorge/Avid-Media-Composer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/microloadergorge/avid-media-composer.md) |
 | [EmissaryRear/AnyDesk](https://github.com/EmissaryRear/AnyDesk) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/emissaryrear/anydesk.md) |
-| [ClipTerrapin48/Ableton-Live-12](https://github.com/ClipTerrapin48/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipterrapin48/ableton-live-12.md) |
 <!-- latest:end -->
 
 ## How it works

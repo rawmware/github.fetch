@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-28T23:39:19.717Z",
- "totalGuides": 1628,
+ "updatedAt": "2026-10-29T02:55:50.578Z",
+ "totalGuides": 1629,
  "items": [
+  {
+   "fullName": "cutetailbud/ff-ruyijs",
+   "owner": "cutetailbud",
+   "name": "ff-ruyijs",
+   "url": "https://github.com/cutetailbud/ff-ruyijs",
+   "avatar": "https://avatars.githubusercontent.com/u/212403118?v=4",
+   "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+   "language": "C++",
+   "topics": [
+    "anti-bot",
+    "automation",
+    "firefox",
+    "headless-browser",
+    "javascript",
+    "python",
+    "spidermonkey",
+    "web-scraping"
+   ],
+   "license": null,
+   "stars": 95,
+   "forks": 105,
+   "createdAt": "2026-10-28T11:31:41Z",
+   "branch": "main",
+   "homepage": "https://cutetailbud.github.io/ff-ruyijs/",
+   "addedAt": "2026-10-29T02:55:50.569Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/cutetailbud/ff-ruyijs/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/cutetailbud/ff-ruyijs?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/cutetailbud/ff-ruyijs",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/cutetailbud/ff-ruyijs/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/cutetailbud/ff-ruyijs.git\ncd ff-ruyijs\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/cutetailbud/ff-ruyijs\nWhat it says it does: \"Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T02:55:50.569Z"
+  },
   {
    "fullName": "Vibha-Ramprakash/claude-video-effects",
    "owner": "Vibha-Ramprakash",
@@ -32942,69 +33013,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/lovisdotio/motion2code\nWhat it says it does: \"Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T04:57:49.429Z"
-  },
-  {
-   "fullName": "abdiraimov-otabek/dashboard-design-skill",
-   "owner": "abdiraimov-otabek",
-   "name": "dashboard-design-skill",
-   "url": "https://github.com/abdiraimov-otabek/dashboard-design-skill",
-   "avatar": "https://avatars.githubusercontent.com/u/189417695?v=4",
-   "description": "A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards.",
-   "language": null,
-   "topics": [
-    "agent-skills",
-    "analytics",
-    "claude-code",
-    "claude-skill",
-    "dashboard",
-    "dashboard-design",
-    "data-visualization",
-    "tailwindcss"
-   ],
-   "license": "MIT",
-   "stars": 81,
-   "forks": 6,
-   "createdAt": "2026-10-20T06:20:46Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T04:57:49.239Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/abdiraimov-otabek/dashboard-design-skill",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/abdiraimov-otabek/dashboard-design-skill/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/abdiraimov-otabek/dashboard-design-skill\nWhat it says it does: \"A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T04:57:49.239Z"
   }
  ],
  "levels": {
-  "account": 281,
+  "account": 282,
   "instant": 69,
-  "read": 74,
+  "read": 73,
   "heavy": 76
  }
 }

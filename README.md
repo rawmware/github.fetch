@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1685 guides written so far · last update 2026-10-29 21:21 UTC_
+_1686 guides written so far · last update 2026-10-29 21:21 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CaveVerseNight/Adobe-InDesign](https://github.com/CaveVerseNight/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caveversenight/adobe-indesign.md) |
 | [Lusterkrilift/CorelDraw](https://github.com/Lusterkrilift/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lusterkrilift/coreldraw.md) |
 | [ChandlerVary38/Ads-Blocker](https://github.com/ChandlerVary38/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chandlervary38/ads-blocker.md) |
 | [Harborlumill91/Honeypot-Detector](https://github.com/Harborlumill91/Honeypot-Detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/harborlumill91/honeypot-detector.md) |
@@ -38,7 +39,6 @@ _1685 guides written so far · last update 2026-10-29 21:21 UTC_
 | [ProviderBolt/Discord-Server-Raider](https://github.com/ProviderBolt/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/providerbolt/discord-server-raider.md) |
 | [onurozcan/omux](https://github.com/onurozcan/omux) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/onurozcan/omux.md) |
 | [win4r/video-director](https://github.com/win4r/video-director) | Python project | Runs in the browser with a free account | [guide](guides/win4r/video-director.md) |
-| [w0ldan/exoproc](https://github.com/w0ldan/exoproc) | JavaScript project | Runs in the browser with a free account | [guide](guides/w0ldan/exoproc.md) |
 <!-- latest:end -->
 
 ## How it works

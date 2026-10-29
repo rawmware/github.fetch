@@ -1,8 +1,61 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T21:21:58.086Z",
- "totalGuides": 1685,
+ "updatedAt": "2026-10-29T21:21:58.289Z",
+ "totalGuides": 1686,
  "items": [
+  {
+   "fullName": "CaveVerseNight/Adobe-InDesign",
+   "owner": "CaveVerseNight",
+   "name": "Adobe-InDesign",
+   "url": "https://github.com/CaveVerseNight/Adobe-InDesign",
+   "avatar": "https://avatars.githubusercontent.com/u/295659379?v=4",
+   "description": "Publishing Layout Tool 2026: Complete standalone setup with all essential features pre-activated, ensuring secure digital asset deployment.",
+   "language": null,
+   "topics": [
+    "adobe-indesign",
+    "indesign-document",
+    "indesign-free-soft",
+    "indesign-scripts"
+   ],
+   "license": null,
+   "stars": 238,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:14:24Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-29T21:21:58.288Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/CaveVerseNight/Adobe-InDesign",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/CaveVerseNight/Adobe-InDesign/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/CaveVerseNight/Adobe-InDesign\nWhat it says it does: \"Publishing Layout Tool 2026: Complete standalone setup with all essential features pre-activated, ensuring secure digital asset deployment.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T21:21:58.288Z"
+  },
   {
    "fullName": "Lusterkrilift/CorelDraw",
    "owner": "Lusterkrilift",
@@ -32643,63 +32696,6 @@
    "licenseNote": "CC-BY-4.0: read the license file before reusing it.",
    "prompt": "I found this GitHub project: https://github.com/h9-tec/ai-roadmap-2026\nWhat it says it does: \"AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T00:57:29.989Z"
-  },
-  {
-   "fullName": "DLSS-5-Swapper-Update-Download/.github",
-   "owner": "DLSS-5-Swapper-Update-Download",
-   "name": ".github",
-   "url": "https://github.com/DLSS-5-Swapper-Update-Download/.github",
-   "avatar": "https://avatars.githubusercontent.com/u/346015843?v=4",
-   "description": "DLSS 5 Swapper is a Windows utility designed to help users install and manage DLSS 5 neural-rendering components in compatible games and supported emulators.",
-   "language": null,
-   "topics": [
-    "dlss",
-    "dlss-5",
-    "dlss-5-games",
-    "dlss-5-mod",
-    "dlss-5-nvidia",
-    "dlss-5-release",
-    "dlss-5-swapper",
-    "dlss-5-swapper-download"
-   ],
-   "license": null,
-   "stars": 76,
-   "forks": 0,
-   "createdAt": "2026-10-21T20:03:01Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T00:57:29.826Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/DLSS-5-Swapper-Update-Download/.github",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/DLSS-5-Swapper-Update-Download/.github/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/DLSS-5-Swapper-Update-Download/.github\nWhat it says it does: \"DLSS 5 Swapper is a Windows utility designed to help users install and manage DLSS 5 neural-rendering components in compatible games and supported emulators.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T00:57:29.826Z"
   }
  ],
  "levels": {

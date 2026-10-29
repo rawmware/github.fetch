@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1643 guides written so far · last update 2026-10-29 09:47 UTC_
+_1644 guides written so far · last update 2026-10-29 09:47 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [GumshoeRampart/Adobe-After-Effects](https://github.com/GumshoeRampart/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gumshoerampart/adobe-after-effects.md) |
 | [thresholdwolfshack/Autodesk-Inventor](https://github.com/thresholdwolfshack/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdwolfshack/autodesk-inventor.md) |
 | [covesoulrhythm/Autodesk-3ds-MAX](https://github.com/covesoulrhythm/Autodesk-3ds-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/covesoulrhythm/autodesk-3ds-max.md) |
 | [centerqualityanger/DLSS-5-Swapper](https://github.com/centerqualityanger/DLSS-5-Swapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/centerqualityanger/dlss-5-swapper.md) |
@@ -38,7 +39,6 @@ _1643 guides written so far · last update 2026-10-29 09:47 UTC_
 | [Akil-x/R00tLib-Catalog](https://github.com/Akil-x/R00tLib-Catalog) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/akil-x/r00tlib-catalog.md) |
 | [bjarneo/velo](https://github.com/bjarneo/velo) | Go project | Runs in the browser with a free account | [guide](guides/bjarneo/velo.md) |
 | [Xpropel/Pi-Remote](https://github.com/Xpropel/Pi-Remote) | JavaScript project | Runs in the browser with a free account | [guide](guides/xpropel/pi-remote.md) |
-| [AlpinDale/foidfinder](https://github.com/AlpinDale/foidfinder) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/alpindale/foidfinder.md) |
 <!-- latest:end -->
 
 ## How it works

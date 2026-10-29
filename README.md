@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1638 guides written so far · last update 2026-10-29 02:55 UTC_
+_1639 guides written so far · last update 2026-10-29 02:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [missuo/unfairplay-bot](https://github.com/missuo/unfairplay-bot) | Go project | Runs in the browser with a free account | [guide](guides/missuo/unfairplay-bot.md) |
 | [Pluviobyte/awesome-talking-head-skills](https://github.com/Pluviobyte/awesome-talking-head-skills) | Shell project | Runs in the browser with a free account | [guide](guides/pluviobyte/awesome-talking-head-skills.md) |
 | [joeseesun/qiaomu-ui-learn-dsh](https://github.com/joeseesun/qiaomu-ui-learn-dsh) | React app | Runs in a browser tab, no account needed | [guide](guides/joeseesun/qiaomu-ui-learn-dsh.md) |
 | [JulioFerrero/pocket-foundry](https://github.com/JulioFerrero/pocket-foundry) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/julioferrero/pocket-foundry.md) |
@@ -38,7 +39,6 @@ _1638 guides written so far · last update 2026-10-29 02:55 UTC_
 | [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge) | JavaScript project | Runs in the browser with a free account | [guide](guides/andyhuo520/vibe-knowledge.md) |
 | [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs) | Python project | Runs in the browser with a free account | [guide](guides/cutetailbud/ff-ruyijs.md) |
 | [Vibha-Ramprakash/claude-video-effects](https://github.com/Vibha-Ramprakash/claude-video-effects) | Python project | Runs in the browser with a free account | [guide](guides/vibha-ramprakash/claude-video-effects.md) |
-| [Nutlope/bygga](https://github.com/Nutlope/bygga) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/nutlope/bygga.md) |
 <!-- latest:end -->
 
 ## How it works

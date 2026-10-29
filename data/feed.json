@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T16:26:43.688Z",
- "totalGuides": 1667,
+ "updatedAt": "2026-10-29T16:26:43.896Z",
+ "totalGuides": 1668,
  "items": [
+  {
+   "fullName": "Villagers654/Venture",
+   "owner": "Villagers654",
+   "name": "Venture",
+   "url": "https://github.com/Villagers654/Venture",
+   "avatar": "https://avatars.githubusercontent.com/u/110007851?v=4",
+   "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
+   "language": "C++",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 100,
+   "forks": 5,
+   "createdAt": "2026-10-27T19:20:10Z",
+   "branch": "main",
+   "homepage": "https://venture-emu.org/",
+   "addedAt": "2026-10-29T16:26:43.895Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Villagers654/Venture?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Villagers654/Venture",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Villagers654/Venture/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Villagers654/Venture.git\ncd Venture",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/Villagers654/Venture\nWhat it says it does: \"A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-29T16:26:43.895Z"
+  },
   {
    "fullName": "BryceYuuu/RUN",
    "owner": "BryceYuuu",
@@ -32727,85 +32784,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Monopoly0024/simple-checker-v1\nWhat it says it does: \"Codex skill：拆解代码功能板块，以彩色流程图和运行证据复核代码功能的实现--辅助你进行ai代码写作与更新。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-21T19:20:45.298Z"
-  },
-  {
-   "fullName": "abcampbel/open-bots",
-   "owner": "abcampbel",
-   "name": "open-bots",
-   "url": "https://github.com/abcampbel/open-bots",
-   "avatar": "https://avatars.githubusercontent.com/u/10499090?v=4",
-   "description": "Open-source AI agents : web search, code sandbox, file analysis, agent teamwork, payments and sign-ups. Hosted or fully local.",
-   "language": "TypeScript",
-   "topics": [],
-   "license": "MIT",
-   "stars": 89,
-   "forks": 12,
-   "createdAt": "2026-10-20T21:35:14Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-21T19:20:45.076Z",
-   "stack": {
-    "kind": "node",
-    "label": "Vite app",
-    "frameworks": [
-     "Vite",
-     "React",
-     "Express"
-    ]
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/abcampbel/open-bots",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/abcampbel/open-bots",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/abcampbel/open-bots?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/abcampbel/open-bots",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/abcampbel/open-bots/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm run dev",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/abcampbel/open-bots.git\ncd open-bots\nnpm install\nnpm run dev",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/abcampbel/open-bots\nWhat it says it does: \"Open-source AI agents : web search, code sandbox, file analysis, agent teamwork, payments and sign-ups. Hosted or fully local.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-21T19:20:45.076Z"
   }
  ],
  "levels": {
+  "heavy": 74,
   "account": 268,
-  "heavy": 73,
-  "instant": 66,
+  "instant": 65,
   "read": 93
  }
 }

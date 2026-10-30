@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1736 guides written so far · last update 2026-10-30 19:37 UTC_
+_1737 guides written so far · last update 2026-10-30 19:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [nathanliow/atlas-of-physics](https://github.com/nathanliow/atlas-of-physics) | JavaScript project | Runs in the browser with a free account | [guide](guides/nathanliow/atlas-of-physics.md) |
 | [tapoooooty/hypergrad](https://github.com/tapoooooty/hypergrad) | Python project | Runs in the browser with a free account | [guide](guides/tapoooooty/hypergrad.md) |
 | [0xCodez/cleanly](https://github.com/0xCodez/cleanly) | Vite app | Runs in the browser with a free account | [guide](guides/0xcodez/cleanly.md) |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript project | Runs in the browser with a free account | [guide](guides/patch-gg/pixelfx.md) |
@@ -38,7 +39,6 @@ _1736 guides written so far · last update 2026-10-30 19:37 UTC_
 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | HTML project | Runs in the browser with a free account | [guide](guides/xiaoyecodes/code-animation-prompts.md) |
 | [jefferysha0627/agent-office-3d](https://github.com/jefferysha0627/agent-office-3d) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jefferysha0627/agent-office-3d.md) |
 | [wangweihong/comfyui-pose-gallery](https://github.com/wangweihong/comfyui-pose-gallery) | Python project | Runs in the browser with a free account | [guide](guides/wangweihong/comfyui-pose-gallery.md) |
-| [speridlabs/idol-sdk](https://github.com/speridlabs/idol-sdk) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/speridlabs/idol-sdk.md) |
 <!-- latest:end -->
 
 ## How it works

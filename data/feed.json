@@ -1,8 +1,77 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T19:37:47.136Z",
- "totalGuides": 1736,
+ "updatedAt": "2026-10-30T19:37:47.403Z",
+ "totalGuides": 1737,
  "items": [
+  {
+   "fullName": "nathanliow/atlas-of-physics",
+   "owner": "nathanliow",
+   "name": "atlas-of-physics",
+   "url": "https://github.com/nathanliow/atlas-of-physics",
+   "avatar": "https://avatars.githubusercontent.com/u/134672292?v=4",
+   "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
+   "language": "JavaScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 130,
+   "forks": 35,
+   "createdAt": "2026-10-28T22:54:22Z",
+   "branch": "main",
+   "homepage": "https://atlas-of-physics.vercel.app",
+   "addedAt": "2026-10-30T19:37:47.403Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/nathanliow/atlas-of-physics",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/nathanliow/atlas-of-physics",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/nathanliow/atlas-of-physics?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/nathanliow/atlas-of-physics",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/nathanliow/atlas-of-physics/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/nathanliow/atlas-of-physics.git\ncd atlas-of-physics\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/nathanliow/atlas-of-physics\nWhat it says it does: \"An interactive 3D textbook for AP Physics 1 and AP Physics C\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T19:37:47.403Z"
+  },
   {
    "fullName": "tapoooooty/hypergrad",
    "owner": "tapoooooty",
@@ -32375,77 +32444,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/nothinx/naskah-id\nWhat it says it does: \"Skill agen AI untuk menulis dan menyunting karya ilmiah berbahasa Indonesia yang natural, baku (EYD V, KBBI), dan jujur.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T20:11:38.172Z"
-  },
-  {
-   "fullName": "danisiber/rom-cli",
-   "owner": "danisiber",
-   "name": "rom-cli",
-   "url": "https://github.com/danisiber/rom-cli",
-   "avatar": "https://avatars.githubusercontent.com/u/197707372?v=4",
-   "description": "Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.",
-   "language": "Python",
-   "topics": [
-    "cli",
-    "game-downloader",
-    "python",
-    "retro-gaming",
-    "rom-cli",
-    "roms",
-    "switch",
-    "textual"
-   ],
-   "license": null,
-   "stars": 77,
-   "forks": 15,
-   "createdAt": "2026-10-22T08:38:38Z",
-   "branch": "main",
-   "homepage": "https://github.com/danisiber/rom-cli",
-   "addedAt": "2026-10-22T20:11:37.898Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/danisiber/rom-cli/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/danisiber/rom-cli?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/danisiber/rom-cli",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/danisiber/rom-cli/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/danisiber/rom-cli.git\ncd rom-cli",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/danisiber/rom-cli\nWhat it says it does: \"Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T20:11:37.898Z"
   }
  ],
  "levels": {

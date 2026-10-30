@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1726 guides written so far · last update 2026-10-30 14:20 UTC_
+_1727 guides written so far · last update 2026-10-30 14:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [jefferysha0627/agent-office-3d](https://github.com/jefferysha0627/agent-office-3d) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jefferysha0627/agent-office-3d.md) |
 | [wangweihong/comfyui-pose-gallery](https://github.com/wangweihong/comfyui-pose-gallery) | Python project | Runs in the browser with a free account | [guide](guides/wangweihong/comfyui-pose-gallery.md) |
 | [speridlabs/idol-sdk](https://github.com/speridlabs/idol-sdk) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/speridlabs/idol-sdk.md) |
 | [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) | Next.js app | Runs in the browser with a free account | [guide](guides/wzc520pyfm/gen-ai-pose-image.md) |
@@ -38,7 +39,6 @@ _1726 guides written so far · last update 2026-10-30 14:20 UTC_
 | [Pika-Labs/Pika-H3-Flex](https://github.com/Pika-Labs/Pika-H3-Flex) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/pika-labs/pika-h3-flex.md) |
 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/djihads80/eglantine.md) |
 | [MUSE-AI-Lab/Concept-Brittleness](https://github.com/MUSE-AI-Lab/Concept-Brittleness) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/muse-ai-lab/concept-brittleness.md) |
-| [mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026](https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026) | Python project | Runs in the browser with a free account | [guide](guides/mike-vops93s1/valorant-esp-advanced-player-visual-overlay-2026.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T14:20:30.749Z",
- "totalGuides": 1716,
+ "updatedAt": "2026-10-30T14:20:31.022Z",
+ "totalGuides": 1717,
  "items": [
+  {
+   "fullName": "Djihads80/Eglantine",
+   "owner": "Djihads80",
+   "name": "Eglantine",
+   "url": "https://github.com/Djihads80/Eglantine",
+   "avatar": "https://avatars.githubusercontent.com/u/76681596?v=4",
+   "description": "VERY experimental Nintendo Switch 2 emulator",
+   "language": "C++",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 196,
+   "forks": 31,
+   "createdAt": "2026-10-29T00:25:18Z",
+   "branch": "nx2",
+   "homepage": null,
+   "addedAt": "2026-10-30T14:20:31.021Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Djihads80/Eglantine?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Djihads80/Eglantine",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Djihads80/Eglantine/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Djihads80/Eglantine.git\ncd Eglantine",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/Djihads80/Eglantine\nWhat it says it does: \"VERY experimental Nintendo Switch 2 emulator\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T14:20:31.021Z"
+  },
   {
    "fullName": "MUSE-AI-Lab/Concept-Brittleness",
    "owner": "MUSE-AI-Lab",
@@ -32407,63 +32464,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ChungKit-WAN/Quant-research-lab-v0.1.0\nWhat it says it does: \"Python framework for monthly sector ETF allocation and multifactor stock backtesting, with transaction-cost accounting and separate Chinese and English research reports.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T11:38:21.685Z"
-  },
-  {
-   "fullName": "unixzii/Champagne",
-   "owner": "unixzii",
-   "name": "Champagne",
-   "url": "https://github.com/unixzii/Champagne",
-   "avatar": "https://avatars.githubusercontent.com/u/3109144?v=4",
-   "description": "Run applications from Mac OS X 10.6 Snow Leopard on anywhere.",
-   "language": "C++",
-   "topics": [],
-   "license": "LGPL-2.1",
-   "stars": 69,
-   "forks": 2,
-   "createdAt": "2026-10-21T15:20:49Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T11:38:21.339Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/unixzii/Champagne?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/unixzii/Champagne",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/unixzii/Champagne/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/unixzii/Champagne.git\ncd Champagne",
-   "licenseNote": "LGPL-2.1: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/unixzii/Champagne\nWhat it says it does: \"Run applications from Mac OS X 10.6 Snow Leopard on anywhere.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T11:38:21.339Z"
   }
  ],
  "levels": {

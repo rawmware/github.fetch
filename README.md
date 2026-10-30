@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1723 guides written so far · last update 2026-10-30 14:20 UTC_
+_1724 guides written so far · last update 2026-10-30 14:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) | Next.js app | Runs in the browser with a free account | [guide](guides/wzc520pyfm/gen-ai-pose-image.md) |
 | [5151561/Trackr](https://github.com/5151561/Trackr) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/5151561/trackr.md) |
 | [wquguru/shisei](https://github.com/wquguru/shisei) | Python project | Runs in the browser with a free account | [guide](guides/wquguru/shisei.md) |
 | [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript project | Runs in the browser with a free account | [guide](guides/heydamir/unslop.md) |
@@ -38,7 +39,6 @@ _1723 guides written so far · last update 2026-10-30 14:20 UTC_
 | [mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026](https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026) | Python project | Runs in the browser with a free account | [guide](guides/mike-vops93s1/valorant-esp-advanced-player-visual-overlay-2026.md) |
 | [lexifina/global-law](https://github.com/lexifina/global-law) | HTML project | Runs in the browser with a free account | [guide](guides/lexifina/global-law.md) |
 | [ChampionStir/MultiAccountManager](https://github.com/ChampionStir/MultiAccountManager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/championstir/multiaccountmanager.md) |
-| [ClassDestroy/Ozone-12-Advanced](https://github.com/ClassDestroy/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/classdestroy/ozone-12-advanced.md) |
 <!-- latest:end -->
 
 ## How it works

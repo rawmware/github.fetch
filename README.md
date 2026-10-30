@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1705 guides written so far · last update 2026-10-30 07:17 UTC_
+_1706 guides written so far · last update 2026-10-30 07:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [moondirectorserver/Sylenth-1](https://github.com/moondirectorserver/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/moondirectorserver/sylenth-1.md) |
 | [ShogunAgora22/StartAll-Back](https://github.com/ShogunAgora22/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shogunagora22/startall-back.md) |
 | [ThunderEncoder/Melodyne-5](https://github.com/ThunderEncoder/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thunderencoder/melodyne-5.md) |
 | [SpiritBewitch/Kontakt-8](https://github.com/SpiritBewitch/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritbewitch/kontakt-8.md) |
@@ -38,7 +39,6 @@ _1705 guides written so far · last update 2026-10-30 07:17 UTC_
 | [TagAmbassadorCall/DVD-Creator](https://github.com/TagAmbassadorCall/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tagambassadorcall/dvd-creator.md) |
 | [tamemoosecomply/IBM-SPSS](https://github.com/tamemoosecomply/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tamemoosecomply/ibm-spss.md) |
 | [petawheelwrightseek/Adobe-Substance-3d](https://github.com/petawheelwrightseek/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/petawheelwrightseek/adobe-substance-3d.md) |
-| [RestraintMinister/Discord-Quest-Completer](https://github.com/RestraintMinister/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restraintminister/discord-quest-completer.md) |
 <!-- latest:end -->
 
 ## How it works

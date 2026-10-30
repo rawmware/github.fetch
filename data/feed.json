@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T07:17:44.782Z",
- "totalGuides": 1701,
+ "updatedAt": "2026-10-30T07:17:44.975Z",
+ "totalGuides": 1702,
  "items": [
+  {
+   "fullName": "GasClerkNurse/LANDR-Plugin-Bundle",
+   "owner": "GasClerkNurse",
+   "name": "LANDR-Plugin-Bundle",
+   "url": "https://github.com/GasClerkNurse/LANDR-Plugin-Bundle",
+   "avatar": "https://avatars.githubusercontent.com/u/295661468?v=4",
+   "description": "Landr Plugin Bundle 2026: Full working installer with all plugins pre-installed and ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "how-to-install-landr",
+    "how-to-install-landr-mastering",
+    "landr-desktop-2026",
+    "landr-desktop-package",
+    "landr-mastering",
+    "landr-setup-failed-fix",
+    "landr-studio",
+    "landr-windows"
+   ],
+   "license": null,
+   "stars": 231,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:19:42Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T07:17:44.974Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/GasClerkNurse/LANDR-Plugin-Bundle",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/GasClerkNurse/LANDR-Plugin-Bundle/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/GasClerkNurse/LANDR-Plugin-Bundle\nWhat it says it does: \"Landr Plugin Bundle 2026: Full working installer with all plugins pre-installed and ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T07:17:44.974Z"
+  },
   {
    "fullName": "lavacorecoupling/Imei-Repair",
    "owner": "lavacorecoupling",
@@ -32538,76 +32595,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/dinosn/php-cve-2026-10961x-lab-poc\nWhat it says it does: \"PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→cookie memory disclosure + UAF chain), full control ladders, fixed-version negative control on 8.5.12\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T05:58:58.927Z"
-  },
-  {
-   "fullName": "keegan0521/CinderVM",
-   "owner": "keegan0521",
-   "name": "CinderVM",
-   "url": "https://github.com/keegan0521/CinderVM",
-   "avatar": "https://avatars.githubusercontent.com/u/30556977?v=4",
-   "description": "Deterministic bytecode VM for agent execution - verified images, snapshots and a hash-chained replay journal",
-   "language": "Rust",
-   "topics": [
-    "bytecode",
-    "cli",
-    "deterministic-execution",
-    "interpreter",
-    "performance",
-    "replay",
-    "rust",
-    "sandbox"
-   ],
-   "license": "MIT",
-   "stars": 65,
-   "forks": 28,
-   "createdAt": "2026-10-21T16:19:30Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T05:58:58.764Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/keegan0521/CinderVM?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/keegan0521/CinderVM",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/keegan0521/CinderVM/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/keegan0521/CinderVM.git\ncd CinderVM\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/keegan0521/CinderVM\nWhat it says it does: \"Deterministic bytecode VM for agent execution - verified images, snapshots and a hash-chained replay journal\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T05:58:58.764Z"
   }
  ],
  "levels": {
-  "read": 110,
+  "read": 111,
   "heavy": 75,
-  "account": 252,
+  "account": 251,
   "instant": 63
  }
 }

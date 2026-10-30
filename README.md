@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1701 guides written so far · last update 2026-10-30 07:17 UTC_
+_1702 guides written so far · last update 2026-10-30 07:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [GasClerkNurse/LANDR-Plugin-Bundle](https://github.com/GasClerkNurse/LANDR-Plugin-Bundle) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gasclerknurse/landr-plugin-bundle.md) |
 | [lavacorecoupling/Imei-Repair](https://github.com/lavacorecoupling/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavacorecoupling/imei-repair.md) |
 | [prismexecutiveadmire/Instagram-Liker-Bot](https://github.com/prismexecutiveadmire/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismexecutiveadmire/instagram-liker-bot.md) |
 | [sewmayordiscover/KeyShot-Pro](https://github.com/sewmayordiscover/KeyShot-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sewmayordiscover/keyshot-pro.md) |
@@ -38,7 +39,6 @@ _1701 guides written so far · last update 2026-10-30 07:17 UTC_
 | [Massreportal/CapCut-for-Windows](https://github.com/Massreportal/CapCut-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/massreportal/capcut-for-windows.md) |
 | [SpongeRevitalize94/Catia-Cad](https://github.com/SpongeRevitalize94/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spongerevitalize94/catia-cad.md) |
 | [energyczaradjust/Atas-Trading-Bot](https://github.com/energyczaradjust/Atas-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/energyczaradjust/atas-trading-bot.md) |
-| [UniteCuttlefishBolt/Canva-Pro](https://github.com/UniteCuttlefishBolt/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unitecuttlefishbolt/canva-pro.md) |
 <!-- latest:end -->
 
 ## How it works

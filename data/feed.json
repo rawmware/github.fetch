@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T19:37:48.542Z",
- "totalGuides": 1742,
+ "updatedAt": "2026-10-30T19:37:48.760Z",
+ "totalGuides": 1743,
  "items": [
+  {
+   "fullName": "AstralGrenadier/Cubase",
+   "owner": "AstralGrenadier",
+   "name": "Cubase",
+   "url": "https://github.com/AstralGrenadier/Cubase",
+   "avatar": "https://avatars.githubusercontent.com/u/292568250?v=4",
+   "description": "Complete Cubase 2026 standalone setup with all features pre-activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "cubase",
+    "cubase-15",
+    "cubase-for-beginners",
+    "cubase-pro",
+    "cubase-pro-2026",
+    "cubase-setup",
+    "cubase-tutorial"
+   ],
+   "license": null,
+   "stars": 102,
+   "forks": 0,
+   "createdAt": "2026-10-30T10:59:13Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T19:37:48.760Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/AstralGrenadier/Cubase",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/AstralGrenadier/Cubase/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/AstralGrenadier/Cubase\nWhat it says it does: \"Complete Cubase 2026 standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T19:37:48.760Z"
+  },
   {
    "fullName": "TabooColonelFactory/Uttorent",
    "owner": "TabooColonelFactory",
@@ -32363,80 +32420,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/tek-sys-hub/Rubix-lang\nWhat it says it does: \"The 100% Pure x86-64 Assembly Systems Language\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T23:26:39.282Z"
-  },
-  {
-   "fullName": "NousResearch/hermes-labs-plugins",
-   "owner": "NousResearch",
-   "name": "hermes-labs-plugins",
-   "url": "https://github.com/NousResearch/hermes-labs-plugins",
-   "avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
-   "description": "⚗ Experimental Hermes Agent plugins built by Nous Research but not supported: community tier in the plugin catalog, up for adoption.",
-   "language": "Python",
-   "topics": [
-    "experimental",
-    "hermes",
-    "hermes-agent",
-    "nous-research",
-    "plugins"
-   ],
-   "license": "MIT",
-   "stars": 79,
-   "forks": 7,
-   "createdAt": "2026-10-21T11:26:28Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T23:26:39.019Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/NousResearch/hermes-labs-plugins/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/NousResearch/hermes-labs-plugins?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/NousResearch/hermes-labs-plugins",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/NousResearch/hermes-labs-plugins/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/NousResearch/hermes-labs-plugins.git\ncd hermes-labs-plugins",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/NousResearch/hermes-labs-plugins\nWhat it says it does: \"⚗ Experimental Hermes Agent plugins built by Nous Research but not supported: community tier in the plugin catalog, up for adoption.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T23:26:39.019Z"
   }
  ],
  "levels": {
-  "read": 122,
+  "read": 123,
   "heavy": 77,
-  "account": 241,
+  "account": 240,
   "instant": 60
  }
 }

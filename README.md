@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1712 guides written so far · last update 2026-10-30 07:17 UTC_
+_1713 guides written so far · last update 2026-10-30 07:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ChampionStir/MultiAccountManager](https://github.com/ChampionStir/MultiAccountManager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/championstir/multiaccountmanager.md) |
 | [ClassDestroy/Ozone-12-Advanced](https://github.com/ClassDestroy/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/classdestroy/ozone-12-advanced.md) |
 | [SmartHeroForce/MicroStation-2026](https://github.com/SmartHeroForce/MicroStation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smartheroforce/microstation-2026.md) |
 | [meshharmonyrectifier/MusicMakerUnlimited](https://github.com/meshharmonyrectifier/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshharmonyrectifier/musicmakerunlimited.md) |
@@ -38,7 +39,6 @@ _1712 guides written so far · last update 2026-10-30 07:17 UTC_
 | [ThunderEncoder/Melodyne-5](https://github.com/ThunderEncoder/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thunderencoder/melodyne-5.md) |
 | [SpiritBewitch/Kontakt-8](https://github.com/SpiritBewitch/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritbewitch/kontakt-8.md) |
 | [GasClerkNurse/LANDR-Plugin-Bundle](https://github.com/GasClerkNurse/LANDR-Plugin-Bundle) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gasclerknurse/landr-plugin-bundle.md) |
-| [lavacorecoupling/Imei-Repair](https://github.com/lavacorecoupling/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavacorecoupling/imei-repair.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T01:18:15.784Z",
- "totalGuides": 1696,
+ "updatedAt": "2026-10-30T01:18:15.997Z",
+ "totalGuides": 1697,
  "items": [
+  {
+   "fullName": "TagAmbassadorCall/DVD-Creator",
+   "owner": "TagAmbassadorCall",
+   "name": "DVD-Creator",
+   "url": "https://github.com/TagAmbassadorCall/DVD-Creator",
+   "avatar": "https://avatars.githubusercontent.com/u/295659589?v=4",
+   "description": "Complete standalone setup for Dvd Creator 2026, ready-to-run with all features fully activated.",
+   "language": null,
+   "topics": [
+    "acer-nitro",
+    "ais-data",
+    "aiseesoft-data-recovery-speed-comparison",
+    "aiseesoft-fonelab-for-ios",
+    "aiseesoft-recover-deleted-files",
+    "aiseesoft-video-converter-pc",
+    "aosp-build",
+    "compound-engineering"
+   ],
+   "license": null,
+   "stars": 238,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:17:35Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T01:18:15.996Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/TagAmbassadorCall/DVD-Creator",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/TagAmbassadorCall/DVD-Creator/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/TagAmbassadorCall/DVD-Creator\nWhat it says it does: \"Complete standalone setup for Dvd Creator 2026, ready-to-run with all features fully activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T01:18:15.996Z"
+  },
   {
    "fullName": "tamemoosecomply/IBM-SPSS",
    "owner": "tamemoosecomply",
@@ -32558,74 +32615,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/lklbar666/mcd-saver-checkup\nWhat it says it does: \"麦当劳省钱体检：不看你想吃什么，先看你已经亏在哪。基于麦当劳中国 MCP 的差价审计 Skill——枚举所有买法，用 calculate-price 逐个复算，报差额、归因与凑单临界点。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T05:58:58.003Z"
-  },
-  {
-   "fullName": "recursive-oss/rec",
-   "owner": "recursive-oss",
-   "name": "rec",
-   "url": "https://github.com/recursive-oss/rec",
-   "avatar": "https://avatars.githubusercontent.com/u/345865269?v=4",
-   "description": "Our lightning-fast inference engine.",
-   "language": "Python",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 69,
-   "forks": 6,
-   "createdAt": "2026-10-21T15:35:55Z",
-   "branch": "main",
-   "homepage": "https://docs.recursive.com/",
-   "addedAt": "2026-10-22T05:58:57.800Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/recursive-oss/rec/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/recursive-oss/rec?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/recursive-oss/rec",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/recursive-oss/rec/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/recursive-oss/rec.git\ncd rec",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/recursive-oss/rec\nWhat it says it does: \"Our lightning-fast inference engine.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T05:58:57.800Z"
   }
  ],
  "levels": {
-  "read": 107,
+  "read": 108,
   "heavy": 74,
-  "account": 256,
+  "account": 255,
   "instant": 63
  }
 }

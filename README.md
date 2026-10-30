@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1714 guides written so far · last update 2026-10-30 14:20 UTC_
+_1715 guides written so far · last update 2026-10-30 14:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026](https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026) | Python project | Runs in the browser with a free account | [guide](guides/mike-vops93s1/valorant-esp-advanced-player-visual-overlay-2026.md) |
 | [lexifina/global-law](https://github.com/lexifina/global-law) | HTML project | Runs in the browser with a free account | [guide](guides/lexifina/global-law.md) |
 | [ChampionStir/MultiAccountManager](https://github.com/ChampionStir/MultiAccountManager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/championstir/multiaccountmanager.md) |
 | [ClassDestroy/Ozone-12-Advanced](https://github.com/ClassDestroy/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/classdestroy/ozone-12-advanced.md) |
@@ -38,7 +39,6 @@ _1714 guides written so far · last update 2026-10-30 14:20 UTC_
 | [moondirectorserver/Sylenth-1](https://github.com/moondirectorserver/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/moondirectorserver/sylenth-1.md) |
 | [ShogunAgora22/StartAll-Back](https://github.com/ShogunAgora22/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shogunagora22/startall-back.md) |
 | [ThunderEncoder/Melodyne-5](https://github.com/ThunderEncoder/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thunderencoder/melodyne-5.md) |
-| [SpiritBewitch/Kontakt-8](https://github.com/SpiritBewitch/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritbewitch/kontakt-8.md) |
 <!-- latest:end -->
 
 ## How it works

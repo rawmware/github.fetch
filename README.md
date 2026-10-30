@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1750 guides written so far · last update 2026-10-30 23:17 UTC_
+_1751 guides written so far · last update 2026-10-30 23:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | JavaScript project | Runs in the browser with a free account | [guide](guides/niazmorshed2007/reanimate.md) |
 | [EntranceStarfish/VoiceStudioV2](https://github.com/EntranceStarfish/VoiceStudioV2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/entrancestarfish/voicestudiov2.md) |
 | [dbreunig/nesformer](https://github.com/dbreunig/nesformer) | Python project | Runs in the browser with a free account | [guide](guides/dbreunig/nesformer.md) |
 | [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardshogunfluctuate/capri-ai.md) |
@@ -38,7 +39,6 @@ _1750 guides written so far · last update 2026-10-30 23:17 UTC_
 | [TabooColonelFactory/Uttorent](https://github.com/TabooColonelFactory/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/taboocolonelfactory/uttorent.md) |
 | [velkajelka/ableton-linux](https://github.com/velkajelka/ableton-linux) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/velkajelka/ableton-linux.md) |
 | [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | Vite app | Runs in the browser with a free account | [guide](guides/zklmiao/prompt-vault.md) |
-| [wexloops/openfield](https://github.com/wexloops/openfield) | Vite app | Runs in the browser with a free account | [guide](guides/wexloops/openfield.md) |
 <!-- latest:end -->
 
 ## How it works

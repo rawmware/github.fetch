@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T14:20:35.490Z",
- "totalGuides": 1732,
+ "updatedAt": "2026-10-30T19:37:46.340Z",
+ "totalGuides": 1733,
  "items": [
+  {
+   "fullName": "kevinraymond/florilegium",
+   "owner": "kevinraymond",
+   "name": "florilegium",
+   "url": "https://github.com/kevinraymond/florilegium",
+   "avatar": "https://avatars.githubusercontent.com/u/19157136?v=4",
+   "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+   "language": "Lua",
+   "topics": [],
+   "license": "MIT",
+   "stars": 346,
+   "forks": 8,
+   "createdAt": "2026-10-30T07:49:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T19:37:46.326Z",
+   "stack": {
+    "kind": "other",
+    "label": "Lua project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/kevinraymond/florilegium?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/kevinraymond/florilegium",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/kevinraymond/florilegium/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/kevinraymond/florilegium.git\ncd florilegium",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/kevinraymond/florilegium\nWhat it says it does: \"Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T19:37:46.326Z"
+  },
   {
    "fullName": "mstlvc/Radiance",
    "owner": "mstlvc",
@@ -32361,89 +32416,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/devploit/php2shell\nWhat it says it does: \"PHP2Shell: version-aware research toolkit for CVE-2026-109618 / CVE-2026-109619 — pre-auth RCE in PHP session.upload_progress (mod_php). Build profiles, labs, heap calibration and detection guidance for authorized security testing.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T20:11:36.999Z"
-  },
-  {
-   "fullName": "yuatemycat/SuperGhidra",
-   "owner": "yuatemycat",
-   "name": "SuperGhidra",
-   "url": "https://github.com/yuatemycat/SuperGhidra",
-   "avatar": "https://avatars.githubusercontent.com/u/344623529?v=4",
-   "description": "Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG deflattener, and Ghidra cache daemon.",
-   "language": "Python",
-   "topics": [
-    "arm64",
-    "binary-analysis",
-    "decompiler",
-    "disassembler",
-    "ghidra",
-    "mcp",
-    "pcode",
-    "python"
-   ],
-   "license": "AGPL-3.0",
-   "stars": 88,
-   "forks": 6,
-   "createdAt": "2026-10-20T08:22:31Z",
-   "branch": "master",
-   "homepage": "https://github.com/yuatemycat/SuperGhidra",
-   "addedAt": "2026-10-22T20:11:36.599Z",
-   "stack": {
-    "kind": "notebook",
-    "label": "Jupyter notebook",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "colab",
-   "launch": [
-    {
-     "id": "colab",
-     "label": "Colab: colab_cloud_orchestrator.ipynb",
-     "url": "https://colab.research.google.com/github/yuatemycat/SuperGhidra/blob/master/colab_cloud_orchestrator.ipynb",
-     "needs": "free Google account",
-     "note": "Runs the notebook on Google's computers, with a free GPU if you need one."
-    },
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/yuatemycat/SuperGhidra/master",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/yuatemycat/SuperGhidra?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/yuatemycat/SuperGhidra",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/yuatemycat/SuperGhidra/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/yuatemycat/SuperGhidra.git\ncd SuperGhidra",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/yuatemycat/SuperGhidra\nWhat it says it does: \"Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG deflattener, and Ghidra cache daemon.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Colab: colab_cloud_orchestrator.ipynb, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T20:11:36.599Z"
   }
  ],
  "levels": {
-  "heavy": 75,
   "account": 243,
+  "heavy": 75,
   "instant": 61,
   "read": 121
  }

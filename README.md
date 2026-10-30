@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1732 guides written so far · last update 2026-10-30 14:20 UTC_
+_1733 guides written so far · last update 2026-10-30 19:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | Lua project | Runs in the browser with a free account | [guide](guides/kevinraymond/florilegium.md) |
 | [mstlvc/Radiance](https://github.com/mstlvc/Radiance) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/mstlvc/radiance.md) |
 | [Pluviobyte/claude-ban-clean](https://github.com/Pluviobyte/claude-ban-clean) | Python project | Runs in the browser with a free account | [guide](guides/pluviobyte/claude-ban-clean.md) |
 | [zklmiao/CodeWar](https://github.com/zklmiao/CodeWar) | JavaScript project | Runs in the browser with a free account | [guide](guides/zklmiao/codewar.md) |
@@ -38,7 +39,6 @@ _1732 guides written so far · last update 2026-10-30 14:20 UTC_
 | [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) | Next.js app | Runs in the browser with a free account | [guide](guides/wzc520pyfm/gen-ai-pose-image.md) |
 | [5151561/Trackr](https://github.com/5151561/Trackr) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/5151561/trackr.md) |
 | [wquguru/shisei](https://github.com/wquguru/shisei) | Python project | Runs in the browser with a free account | [guide](guides/wquguru/shisei.md) |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript project | Runs in the browser with a free account | [guide](guides/heydamir/unslop.md) |
 <!-- latest:end -->
 
 ## How it works

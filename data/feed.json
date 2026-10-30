@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T14:20:35.232Z",
- "totalGuides": 1731,
+ "updatedAt": "2026-10-30T14:20:35.490Z",
+ "totalGuides": 1732,
  "items": [
+  {
+   "fullName": "mstlvc/Radiance",
+   "owner": "mstlvc",
+   "name": "Radiance",
+   "url": "https://github.com/mstlvc/Radiance",
+   "avatar": "https://avatars.githubusercontent.com/u/207450216?v=4",
+   "description": "Lightweight, bloat-free Windows display utility for NVIDIA digital vibrance, DDC/CI hardware monitor control, Direct3D 11 color vision overlays, and custom crosshairs.",
+   "language": "C#",
+   "topics": [],
+   "license": "MIT",
+   "stars": 104,
+   "forks": 16,
+   "createdAt": "2026-10-29T10:01:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T14:20:35.489Z",
+   "stack": {
+    "kind": "native",
+    "label": "C# project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mstlvc/Radiance?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mstlvc/Radiance",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mstlvc/Radiance/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/mstlvc/Radiance.git\ncd Radiance",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/mstlvc/Radiance\nWhat it says it does: \"Lightweight, bloat-free Windows display utility for NVIDIA digital vibrance, DDC/CI hardware monitor control, Direct3D 11 color vision overlays, and custom crosshairs.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T14:20:35.489Z"
+  },
   {
    "fullName": "Pluviobyte/claude-ban-clean",
    "owner": "Pluviobyte",
@@ -32382,69 +32439,12 @@
    "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/yuatemycat/SuperGhidra\nWhat it says it does: \"Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG deflattener, and Ghidra cache daemon.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Colab: colab_cloud_orchestrator.ipynb, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T20:11:36.599Z"
-  },
-  {
-   "fullName": "7API/uncensored-ai-api",
-   "owner": "7API",
-   "name": "uncensored-ai-api",
-   "url": "https://github.com/7API/uncensored-ai-api",
-   "avatar": "https://avatars.githubusercontent.com/u/346469733?v=4",
-   "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-   "language": null,
-   "topics": [
-    "abliterated-models",
-    "ai-gateway",
-    "anthropic-compatible",
-    "claude-api",
-    "claude-code",
-    "deepseek-api",
-    "gemini-api",
-    "glm-api"
-   ],
-   "license": "MIT",
-   "stars": 127,
-   "forks": 34,
-   "createdAt": "2026-10-22T16:07:12Z",
-   "branch": "main",
-   "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=uncensored-ai-api",
-   "addedAt": "2026-10-22T20:11:36.090Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/7API/uncensored-ai-api",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/7API/uncensored-ai-api/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/7API/uncensored-ai-api\nWhat it says it does: \"Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T20:11:36.090Z"
   }
  ],
  "levels": {
+  "heavy": 75,
   "account": 243,
-  "heavy": 74,
   "instant": 61,
-  "read": 122
+  "read": 121
  }
 }

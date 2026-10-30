@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1721 guides written so far · last update 2026-10-30 14:20 UTC_
+_1722 guides written so far · last update 2026-10-30 14:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wquguru/shisei](https://github.com/wquguru/shisei) | Python project | Runs in the browser with a free account | [guide](guides/wquguru/shisei.md) |
 | [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript project | Runs in the browser with a free account | [guide](guides/heydamir/unslop.md) |
 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alchaincyf/huashu-bird-sticker.md) |
 | [routerhubSI/openrouter-alternative](https://github.com/routerhubSI/openrouter-alternative) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/routerhubsi/openrouter-alternative.md) |
@@ -38,7 +39,6 @@ _1721 guides written so far · last update 2026-10-30 14:20 UTC_
 | [ChampionStir/MultiAccountManager](https://github.com/ChampionStir/MultiAccountManager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/championstir/multiaccountmanager.md) |
 | [ClassDestroy/Ozone-12-Advanced](https://github.com/ClassDestroy/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/classdestroy/ozone-12-advanced.md) |
 | [SmartHeroForce/MicroStation-2026](https://github.com/SmartHeroForce/MicroStation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smartheroforce/microstation-2026.md) |
-| [meshharmonyrectifier/MusicMakerUnlimited](https://github.com/meshharmonyrectifier/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshharmonyrectifier/musicmakerunlimited.md) |
 <!-- latest:end -->
 
 ## How it works

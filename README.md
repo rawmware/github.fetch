@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1694 guides written so far · last update 2026-10-30 01:18 UTC_
+_1695 guides written so far · last update 2026-10-30 01:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [petawheelwrightseek/Adobe-Substance-3d](https://github.com/petawheelwrightseek/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/petawheelwrightseek/adobe-substance-3d.md) |
 | [RestraintMinister/Discord-Quest-Completer](https://github.com/RestraintMinister/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restraintminister/discord-quest-completer.md) |
 | [Massreportal/CapCut-for-Windows](https://github.com/Massreportal/CapCut-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/massreportal/capcut-for-windows.md) |
 | [SpongeRevitalize94/Catia-Cad](https://github.com/SpongeRevitalize94/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spongerevitalize94/catia-cad.md) |
@@ -38,7 +39,6 @@ _1694 guides written so far · last update 2026-10-30 01:18 UTC_
 | [CaveVerseNight/Adobe-InDesign](https://github.com/CaveVerseNight/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caveversenight/adobe-indesign.md) |
 | [Lusterkrilift/CorelDraw](https://github.com/Lusterkrilift/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lusterkrilift/coreldraw.md) |
 | [ChandlerVary38/Ads-Blocker](https://github.com/ChandlerVary38/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chandlervary38/ads-blocker.md) |
-| [Harborlumill91/Honeypot-Detector](https://github.com/Harborlumill91/Honeypot-Detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/harborlumill91/honeypot-detector.md) |
 <!-- latest:end -->
 
 ## How it works

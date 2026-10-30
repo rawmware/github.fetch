@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T07:17:44.137Z",
- "totalGuides": 1698,
+ "updatedAt": "2026-10-30T07:17:44.369Z",
+ "totalGuides": 1699,
  "items": [
+  {
+   "fullName": "sewmayordiscover/KeyShot-Pro",
+   "owner": "sewmayordiscover",
+   "name": "KeyShot-Pro",
+   "url": "https://github.com/sewmayordiscover/KeyShot-Pro",
+   "avatar": "https://avatars.githubusercontent.com/u/295660923?v=4",
+   "description": "Keyshot Pro 2026: Complete standalone setup with all features unlocked, ready for immediate use.",
+   "language": null,
+   "topics": [
+    "keyshot",
+    "keyshot-2025",
+    "keyshot-2026",
+    "keyshot-free",
+    "keyshot-github",
+    "keyshot-pro",
+    "keyshot-pro-windows",
+    "keyshot-student"
+   ],
+   "license": null,
+   "stars": 235,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:19:35Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T07:17:44.368Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/sewmayordiscover/KeyShot-Pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/sewmayordiscover/KeyShot-Pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/sewmayordiscover/KeyShot-Pro\nWhat it says it does: \"Keyshot Pro 2026: Complete standalone setup with all features unlocked, ready for immediate use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T07:17:44.368Z"
+  },
   {
    "fullName": "wangzan101/Mika",
    "owner": "wangzan101",
@@ -32564,59 +32621,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/JoasASantos/php2shell-scanner\nWhat it says it does: \"Non-destructive scanner for CVE-2026-109618 / CVE-2026-109619 (PHP core RCE). Subdomain recon via crt.sh + subfinder, robust banner grabbing, version-based detection.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T05:58:58.370Z"
-  },
-  {
-   "fullName": "haiou-666/Haiou-workshop",
-   "owner": "haiou-666",
-   "name": "Haiou-workshop",
-   "url": "https://github.com/haiou-666/Haiou-workshop",
-   "avatar": "https://avatars.githubusercontent.com/u/294874276?v=4",
-   "description": "海鸥工坊（Haiou Workshop）｜面向逆向工程、授权渗透测试与安全研发的 AI 专业工作台。内置rea逆向流程，融合 Codex、Claude Code 与 DeepSeek Harness，整合专业技能库、REA 分析能力及按需工具链，辅助开展二进制分析、Web/API 安全评估、代码审计、CTF、数字取证、移动端与协议分析。覆盖任务拆解、脚本编写、工具分析、证据整理、修复建议与技术报告等工作环节，让 AI 深入参与专业分析与开发实践。",
-   "language": null,
-   "topics": [],
-   "license": "MIT",
-   "stars": 69,
-   "forks": 34,
-   "createdAt": "2026-10-20T16:38:05Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T05:58:58.217Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/haiou-666/Haiou-workshop",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/haiou-666/Haiou-workshop/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/haiou-666/Haiou-workshop\nWhat it says it does: \"海鸥工坊（Haiou Workshop）｜面向逆向工程、授权渗透测试与安全研发的 AI 专业工作台。内置rea逆向流程，融合 Codex、Claude Code 与 DeepSeek Harness，整合专业技能库、REA 分析能力及按需工具链，辅助开展二进制分析、Web/API 安全评估、代码审计、CTF、数字取证、移动端与协议分析。覆盖任务拆解、脚本编写、工具分析、证据整理、修复建议与技术报告等工作环节，让 AI 深入参与专业分析与开发实践。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T05:58:58.217Z"
   }
  ],
  "levels": {
-  "heavy": 75,
   "read": 108,
+  "heavy": 75,
   "account": 254,
   "instant": 63
  }

@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T14:20:33.259Z",
- "totalGuides": 1725,
+ "updatedAt": "2026-10-30T14:20:33.649Z",
+ "totalGuides": 1726,
  "items": [
+  {
+   "fullName": "wangweihong/comfyui-pose-gallery",
+   "owner": "wangweihong",
+   "name": "comfyui-pose-gallery",
+   "url": "https://github.com/wangweihong/comfyui-pose-gallery",
+   "avatar": "https://avatars.githubusercontent.com/u/18753267?v=4",
+   "description": "ComfyUI 中文人体姿势图库节点，支持多视角浏览与 Depth Anything → MOSS SFT 深度控制工作流",
+   "language": "HTML",
+   "topics": [],
+   "license": null,
+   "stars": 115,
+   "forks": 14,
+   "createdAt": "2026-10-28T09:50:33Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T14:20:33.648Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/wangweihong/comfyui-pose-gallery/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/wangweihong/comfyui-pose-gallery?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/wangweihong/comfyui-pose-gallery",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/wangweihong/comfyui-pose-gallery/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/wangweihong/comfyui-pose-gallery.git\ncd comfyui-pose-gallery\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/wangweihong/comfyui-pose-gallery\nWhat it says it does: \"ComfyUI 中文人体姿势图库节点，支持多视角浏览与 Depth Anything → MOSS SFT 深度控制工作流\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T14:20:33.648Z"
+  },
   {
    "fullName": "speridlabs/idol-sdk",
    "owner": "speridlabs",
@@ -32345,82 +32407,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/CuboiLeo/SuperMimic-Reproduced\nWhat it says it does: \"Reproduction of SuperMimic (arXiv:2610.28480): learned differentiable world model + BPTT policy for G1 humanoid motion tracking, on mjlab/MuJoCo Warp\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T16:04:50.006Z"
-  },
-  {
-   "fullName": "hkcjsyzbcgqq/twitch-viewer-bot-ai",
-   "owner": "hkcjsyzbcgqq",
-   "name": "twitch-viewer-bot-ai",
-   "url": "https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai",
-   "avatar": "https://avatars.githubusercontent.com/u/334723811?v=4",
-   "description": "Twitch viewer bot with AI chat: multi-threaded viewer injection, proxy rotation, GPT-powered chat responders, auto follow/raid.",
-   "language": "Python",
-   "topics": [
-    "ai-chat-bot",
-    "ai-viewer-bot",
-    "stream-boost",
-    "twitch-analytics",
-    "twitch-api",
-    "twitch-automation",
-    "twitch-chat-bot",
-    "twitch-farming"
-   ],
-   "license": "MIT",
-   "stars": 89,
-   "forks": 54,
-   "createdAt": "2026-10-22T11:40:02Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T16:04:49.653Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/hkcjsyzbcgqq/twitch-viewer-bot-ai/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/hkcjsyzbcgqq/twitch-viewer-bot-ai?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/hkcjsyzbcgqq/twitch-viewer-bot-ai",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai.git\ncd twitch-viewer-bot-ai\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/hkcjsyzbcgqq/twitch-viewer-bot-ai\nWhat it says it does: \"Twitch viewer bot with AI chat: multi-threaded viewer injection, proxy rotation, GPT-powered chat responders, auto follow/raid.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T16:04:49.653Z"
   }
  ],
  "levels": {
-  "heavy": 75,
   "account": 241,
+  "heavy": 75,
   "read": 124,
   "instant": 60
  }

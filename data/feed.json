@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-29T21:21:58.827Z",
- "totalGuides": 1689,
+ "updatedAt": "2026-10-30T01:18:14.573Z",
+ "totalGuides": 1690,
  "items": [
+  {
+   "fullName": "UniteCuttlefishBolt/Canva-Pro",
+   "owner": "UniteCuttlefishBolt",
+   "name": "Canva-Pro",
+   "url": "https://github.com/UniteCuttlefishBolt/Canva-Pro",
+   "avatar": "https://avatars.githubusercontent.com/u/295658260?v=4",
+   "description": "Canva Pro 2026: Complete standalone setup with all features unlocked and ready to run.",
+   "language": null,
+   "topics": [
+    "automation",
+    "canva-app",
+    "canva-bulk-create",
+    "canva-editor-tools",
+    "canva-export-tools",
+    "canva-free",
+    "canva-full",
+    "canva-hack"
+   ],
+   "license": null,
+   "stars": 296,
+   "forks": 0,
+   "createdAt": "2026-10-29T10:25:09Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T01:18:14.558Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/UniteCuttlefishBolt/Canva-Pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/UniteCuttlefishBolt/Canva-Pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/UniteCuttlefishBolt/Canva-Pro\nWhat it says it does: \"Canva Pro 2026: Complete standalone setup with all features unlocked and ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T01:18:14.558Z"
+  },
   {
    "fullName": "Plateplaflange/Display-Fusion",
    "owner": "Plateplaflange",
@@ -32602,76 +32659,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/torrentplayer/torrentplayer\nWhat it says it does: \"Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T05:58:56.496Z"
-  },
-  {
-   "fullName": "isabekastsuc/CinderVM",
-   "owner": "isabekastsuc",
-   "name": "CinderVM",
-   "url": "https://github.com/isabekastsuc/CinderVM",
-   "avatar": "https://avatars.githubusercontent.com/u/30556977?v=4",
-   "description": "Deterministic bytecode VM for agent execution - verified images, snapshots and a hash-chained replay journal",
-   "language": "Rust",
-   "topics": [
-    "bytecode",
-    "cli",
-    "deterministic-execution",
-    "interpreter",
-    "performance",
-    "replay",
-    "rust",
-    "sandbox"
-   ],
-   "license": "MIT",
-   "stars": 65,
-   "forks": 28,
-   "createdAt": "2026-10-21T16:19:30Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T00:57:30.566Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/isabekastsuc/CinderVM?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/isabekastsuc/CinderVM",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/isabekastsuc/CinderVM/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/isabekastsuc/CinderVM.git\ncd CinderVM\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/isabekastsuc/CinderVM\nWhat it says it does: \"Deterministic bytecode VM for agent execution - verified images, snapshots and a hash-chained replay journal\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T00:57:30.566Z"
   }
  ],
  "levels": {
-  "read": 100,
+  "read": 101,
   "heavy": 76,
-  "account": 261,
+  "account": 260,
   "instant": 63
  }
 }

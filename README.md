@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1690 guides written so far · last update 2026-10-30 01:18 UTC_
+_1691 guides written so far · last update 2026-10-30 01:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [energyczaradjust/Atas-Trading-Bot](https://github.com/energyczaradjust/Atas-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/energyczaradjust/atas-trading-bot.md) |
 | [UniteCuttlefishBolt/Canva-Pro](https://github.com/UniteCuttlefishBolt/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unitecuttlefishbolt/canva-pro.md) |
 | [Plateplaflange/Display-Fusion](https://github.com/Plateplaflange/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plateplaflange/display-fusion.md) |
 | [OperativeGallery/Adobe-Audition](https://github.com/OperativeGallery/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/operativegallery/adobe-audition.md) |
@@ -38,7 +39,6 @@ _1690 guides written so far · last update 2026-10-30 01:18 UTC_
 | [coastboulderdolmen/AutoCad](https://github.com/coastboulderdolmen/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastboulderdolmen/autocad.md) |
 | [Ambererforum/Designcenter-NX](https://github.com/Ambererforum/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ambererforum/designcenter-nx.md) |
 | [Attothroughzen/Autodesk-CFD](https://github.com/Attothroughzen/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/attothroughzen/autodesk-cfd.md) |
-| [PentagonShadeSky/Axie-Infinity-Bot](https://github.com/PentagonShadeSky/Axie-Infinity-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pentagonshadesky/axie-infinity-bot.md) |
 <!-- latest:end -->
 
 ## How it works

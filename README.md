@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1711 guides written so far · last update 2026-10-30 07:17 UTC_
+_1712 guides written so far · last update 2026-10-30 07:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ClassDestroy/Ozone-12-Advanced](https://github.com/ClassDestroy/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/classdestroy/ozone-12-advanced.md) |
 | [SmartHeroForce/MicroStation-2026](https://github.com/SmartHeroForce/MicroStation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smartheroforce/microstation-2026.md) |
 | [meshharmonyrectifier/MusicMakerUnlimited](https://github.com/meshharmonyrectifier/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshharmonyrectifier/musicmakerunlimited.md) |
 | [UpdateRopemakerVeil/Microsoft-Visio](https://github.com/UpdateRopemakerVeil/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/updateropemakerveil/microsoft-visio.md) |
@@ -38,7 +39,6 @@ _1711 guides written so far · last update 2026-10-30 07:17 UTC_
 | [SpiritBewitch/Kontakt-8](https://github.com/SpiritBewitch/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritbewitch/kontakt-8.md) |
 | [GasClerkNurse/LANDR-Plugin-Bundle](https://github.com/GasClerkNurse/LANDR-Plugin-Bundle) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gasclerknurse/landr-plugin-bundle.md) |
 | [lavacorecoupling/Imei-Repair](https://github.com/lavacorecoupling/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavacorecoupling/imei-repair.md) |
-| [prismexecutiveadmire/Instagram-Liker-Bot](https://github.com/prismexecutiveadmire/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismexecutiveadmire/instagram-liker-bot.md) |
 <!-- latest:end -->
 
 ## How it works

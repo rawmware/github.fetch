@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1738 guides written so far · last update 2026-10-30 19:37 UTC_
+_1739 guides written so far · last update 2026-10-30 19:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wexloops/openfield](https://github.com/wexloops/openfield) | Vite app | Runs in the browser with a free account | [guide](guides/wexloops/openfield.md) |
 | [techgenius1/tvOS-Launcher](https://github.com/techgenius1/tvOS-Launcher) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/techgenius1/tvos-launcher.md) |
 | [nathanliow/atlas-of-physics](https://github.com/nathanliow/atlas-of-physics) | JavaScript project | Runs in the browser with a free account | [guide](guides/nathanliow/atlas-of-physics.md) |
 | [tapoooooty/hypergrad](https://github.com/tapoooooty/hypergrad) | Python project | Runs in the browser with a free account | [guide](guides/tapoooooty/hypergrad.md) |
@@ -38,7 +39,6 @@ _1738 guides written so far · last update 2026-10-30 19:37 UTC_
 | [zklmiao/CodeWar](https://github.com/zklmiao/CodeWar) | JavaScript project | Runs in the browser with a free account | [guide](guides/zklmiao/codewar.md) |
 | [tang1693/KIKUmap](https://github.com/tang1693/KIKUmap) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/tang1693/kikumap.md) |
 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | HTML project | Runs in the browser with a free account | [guide](guides/xiaoyecodes/code-animation-prompts.md) |
-| [jefferysha0627/agent-office-3d](https://github.com/jefferysha0627/agent-office-3d) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jefferysha0627/agent-office-3d.md) |
 <!-- latest:end -->
 
 ## How it works

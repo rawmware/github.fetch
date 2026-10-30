@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1692 guides written so far · last update 2026-10-30 01:18 UTC_
+_1693 guides written so far · last update 2026-10-30 01:18 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Massreportal/CapCut-for-Windows](https://github.com/Massreportal/CapCut-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/massreportal/capcut-for-windows.md) |
 | [SpongeRevitalize94/Catia-Cad](https://github.com/SpongeRevitalize94/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spongerevitalize94/catia-cad.md) |
 | [energyczaradjust/Atas-Trading-Bot](https://github.com/energyczaradjust/Atas-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/energyczaradjust/atas-trading-bot.md) |
 | [UniteCuttlefishBolt/Canva-Pro](https://github.com/UniteCuttlefishBolt/Canva-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/unitecuttlefishbolt/canva-pro.md) |
@@ -38,7 +39,6 @@ _1692 guides written so far · last update 2026-10-30 01:18 UTC_
 | [ChandlerVary38/Ads-Blocker](https://github.com/ChandlerVary38/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chandlervary38/ads-blocker.md) |
 | [Harborlumill91/Honeypot-Detector](https://github.com/Harborlumill91/Honeypot-Detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/harborlumill91/honeypot-detector.md) |
 | [coastboulderdolmen/AutoCad](https://github.com/coastboulderdolmen/AutoCad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coastboulderdolmen/autocad.md) |
-| [Ambererforum/Designcenter-NX](https://github.com/Ambererforum/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ambererforum/designcenter-nx.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T01:18:15.032Z",
- "totalGuides": 1692,
+ "updatedAt": "2026-10-30T01:18:15.227Z",
+ "totalGuides": 1693,
  "items": [
+  {
+   "fullName": "Massreportal/CapCut-for-Windows",
+   "owner": "Massreportal",
+   "name": "CapCut-for-Windows",
+   "url": "https://github.com/Massreportal/CapCut-for-Windows",
+   "avatar": "https://avatars.githubusercontent.com/u/295660040?v=4",
+   "description": "Capcut For Windows 2026: Full working installer with all features pre-activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "capcut-activated",
+    "capcut-crack-2026",
+    "capcut-cracked-2026",
+    "capcut-exe",
+    "capcut-for-free",
+    "capcut-free-2026",
+    "capcut-tiktok",
+    "capcut-videocreator"
+   ],
+   "license": null,
+   "stars": 238,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:16:08Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T01:18:15.226Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Massreportal/CapCut-for-Windows",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Massreportal/CapCut-for-Windows/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Massreportal/CapCut-for-Windows\nWhat it says it does: \"Capcut For Windows 2026: Full working installer with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T01:18:15.226Z"
+  },
   {
    "fullName": "SpongeRevitalize94/Catia-Cad",
    "owner": "SpongeRevitalize94",
@@ -32577,79 +32634,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Jimu888/home-tv-cn\nWhat it says it does: \"简居 TV：面向中国大陆常用视频应用的简约 Android TV 桌面，基于 Aerial 定制。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T05:58:57.217Z"
-  },
-  {
-   "fullName": "xingjian-bai/opal",
-   "owner": "xingjian-bai",
-   "name": "opal",
-   "url": "https://github.com/xingjian-bai/opal",
-   "avatar": "https://avatars.githubusercontent.com/u/93810179?v=4",
-   "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
-   "language": "Python",
-   "topics": [
-    "deep-learning",
-    "llm-agents",
-    "optimizer",
-    "pytorch"
-   ],
-   "license": "MIT",
-   "stars": 87,
-   "forks": 3,
-   "createdAt": "2026-10-21T14:17:50Z",
-   "branch": "main",
-   "homepage": "https://xingjianbai.com/reactive-optimizers/",
-   "addedAt": "2026-10-22T05:58:57.029Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/xingjian-bai/opal/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/xingjian-bai/opal?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/xingjian-bai/opal",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/xingjian-bai/opal/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/xingjian-bai/opal.git\ncd opal\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/xingjian-bai/opal\nWhat it says it does: \"OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T05:58:57.029Z"
   }
  ],
  "levels": {
-  "read": 103,
+  "read": 104,
   "heavy": 76,
-  "account": 258,
+  "account": 257,
   "instant": 63
  }
 }

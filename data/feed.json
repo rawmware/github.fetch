@@ -1,8 +1,62 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T07:17:45.182Z",
- "totalGuides": 1703,
+ "updatedAt": "2026-10-30T07:17:45.351Z",
+ "totalGuides": 1704,
  "items": [
+  {
+   "fullName": "ThunderEncoder/Melodyne-5",
+   "owner": "ThunderEncoder",
+   "name": "Melodyne-5",
+   "url": "https://github.com/ThunderEncoder/Melodyne-5",
+   "avatar": "https://avatars.githubusercontent.com/u/295660441?v=4",
+   "description": "Melodyne 5, a professional desktop software utility, is now available as a complete standalone setup for easy installation and use.",
+   "language": null,
+   "topics": [
+    "celemony",
+    "celemony-melodyne-install-setup-windows-2026",
+    "melodyne",
+    "melodyne-2026",
+    "melodyne-download"
+   ],
+   "license": null,
+   "stars": 205,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:20:04Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T07:17:45.350Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ThunderEncoder/Melodyne-5",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ThunderEncoder/Melodyne-5/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ThunderEncoder/Melodyne-5\nWhat it says it does: \"Melodyne 5, a professional desktop software utility, is now available as a complete standalone setup for easy installation and use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T07:17:45.350Z"
+  },
   {
    "fullName": "SpiritBewitch/Kontakt-8",
    "owner": "SpiritBewitch",
@@ -32518,74 +32572,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/colinhacks/reylo\nWhat it says it does: \"Import .sql files into TypeScript with full type inference and zero codegen.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T11:38:18.123Z"
-  },
-  {
-   "fullName": "9bie/php2shell-bypass-aslr-exp",
-   "owner": "9bie",
-   "name": "php2shell-bypass-aslr-exp",
-   "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-   "avatar": "https://avatars.githubusercontent.com/u/12439321?v=4",
-   "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 813,
-   "forks": 295,
-   "createdAt": "2026-10-21T11:11:57Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T11:38:17.713Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/9bie/php2shell-bypass-aslr-exp/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/9bie/php2shell-bypass-aslr-exp?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/9bie/php2shell-bypass-aslr-exp",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/9bie/php2shell-bypass-aslr-exp.git\ncd php2shell-bypass-aslr-exp",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/9bie/php2shell-bypass-aslr-exp\nWhat it says it does: \"A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T11:38:17.713Z"
   }
  ],
  "levels": {
-  "read": 112,
+  "read": 113,
   "heavy": 75,
-  "account": 250,
+  "account": 249,
   "instant": 63
  }
 }

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T01:18:15.227Z",
- "totalGuides": 1693,
+ "updatedAt": "2026-10-30T01:18:15.423Z",
+ "totalGuides": 1694,
  "items": [
+  {
+   "fullName": "RestraintMinister/Discord-Quest-Completer",
+   "owner": "RestraintMinister",
+   "name": "Discord-Quest-Completer",
+   "url": "https://github.com/RestraintMinister/Discord-Quest-Completer",
+   "avatar": "https://avatars.githubusercontent.com/u/295661607?v=4",
+   "description": "Discord Quest Completer 2026 - Full working installer for easy setup and seamless operation.",
+   "language": null,
+   "topics": [
+    "discord-automation",
+    "discord-orbs",
+    "discord-quest",
+    "discord-quest-completer-2026",
+    "discord-quest-completer-bot",
+    "discord-quest-completer-free",
+    "discord-quests",
+    "discord-rewards"
+   ],
+   "license": null,
+   "stars": 238,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:17:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T01:18:15.422Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/RestraintMinister/Discord-Quest-Completer",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/RestraintMinister/Discord-Quest-Completer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/RestraintMinister/Discord-Quest-Completer\nWhat it says it does: \"Discord Quest Completer 2026 - Full working installer for easy setup and seamless operation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T01:18:15.422Z"
+  },
   {
    "fullName": "Massreportal/CapCut-for-Windows",
    "owner": "Massreportal",
@@ -32577,68 +32634,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Acelogic/Snapintosh\nWhat it says it does: \"EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T05:58:57.413Z"
-  },
-  {
-   "fullName": "Jimu888/home-tv-cn",
-   "owner": "Jimu888",
-   "name": "home-tv-cn",
-   "url": "https://github.com/Jimu888/home-tv-cn",
-   "avatar": "https://avatars.githubusercontent.com/u/90743532?v=4",
-   "description": "简居 TV：面向中国大陆常用视频应用的简约 Android TV 桌面，基于 Aerial 定制。",
-   "language": "Kotlin",
-   "topics": [],
-   "license": "MIT",
-   "stars": 79,
-   "forks": 5,
-   "createdAt": "2026-10-21T07:29:06Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T05:58:57.217Z",
-   "stack": {
-    "kind": "native",
-    "label": "Kotlin project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Jimu888/home-tv-cn?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Jimu888/home-tv-cn",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Jimu888/home-tv-cn/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Jimu888/home-tv-cn.git\ncd home-tv-cn",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Jimu888/home-tv-cn\nWhat it says it does: \"简居 TV：面向中国大陆常用视频应用的简约 Android TV 桌面，基于 Aerial 定制。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T05:58:57.217Z"
   }
  ],
  "levels": {
-  "read": 104,
-  "heavy": 76,
+  "read": 105,
+  "heavy": 75,
   "account": 257,
   "instant": 63
  }

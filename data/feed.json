@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T14:20:34.953Z",
- "totalGuides": 1730,
+ "updatedAt": "2026-10-30T14:20:35.232Z",
+ "totalGuides": 1731,
  "items": [
+  {
+   "fullName": "Pluviobyte/claude-ban-clean",
+   "owner": "Pluviobyte",
+   "name": "claude-ban-clean",
+   "url": "https://github.com/Pluviobyte/claude-ban-clean",
+   "avatar": "https://avatars.githubusercontent.com/u/94058511?v=4",
+   "description": "中文优先的 Claude 本机安全清理 Skill：只读审计、备份校验、定向清理，保护对话历史与工具配置",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 107,
+   "forks": 7,
+   "createdAt": "2026-10-29T13:04:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T14:20:35.231Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Pluviobyte/claude-ban-clean/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Pluviobyte/claude-ban-clean?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Pluviobyte/claude-ban-clean",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Pluviobyte/claude-ban-clean/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Pluviobyte/claude-ban-clean.git\ncd claude-ban-clean",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Pluviobyte/claude-ban-clean\nWhat it says it does: \"中文优先的 Claude 本机安全清理 Skill：只读审计、备份校验、定向清理，保护对话历史与工具配置\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T14:20:35.231Z"
+  },
   {
    "fullName": "zklmiao/CodeWar",
    "owner": "zklmiao",
@@ -32377,69 +32439,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/7API/uncensored-ai-api\nWhat it says it does: \"Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T20:11:36.090Z"
-  },
-  {
-   "fullName": "7API/glm-5.3-abliterated",
-   "owner": "7API",
-   "name": "glm-5.3-abliterated",
-   "url": "https://github.com/7API/glm-5.3-abliterated",
-   "avatar": "https://avatars.githubusercontent.com/u/346469733?v=4",
-   "description": "GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.",
-   "language": null,
-   "topics": [
-    "abliterated",
-    "abliterated-models",
-    "ai-jailbreaks",
-    "anthropic-compatible",
-    "claude-code",
-    "glm",
-    "glm-5-3",
-    "glm-5-3-abliterated"
-   ],
-   "license": "MIT",
-   "stars": 154,
-   "forks": 34,
-   "createdAt": "2026-10-22T16:07:16Z",
-   "branch": "main",
-   "homepage": "https://7api.st/?utm_source=github&utm_medium=repo&utm_campaign=glm-5.3-abliterated",
-   "addedAt": "2026-10-22T20:11:35.779Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/7API/glm-5.3-abliterated",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/7API/glm-5.3-abliterated/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/7API/glm-5.3-abliterated\nWhat it says it does: \"GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T20:11:35.779Z"
   }
  ],
  "levels": {
-  "account": 242,
+  "account": 243,
   "heavy": 74,
   "instant": 61,
-  "read": 123
+  "read": 122
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1730 guides written so far · last update 2026-10-30 14:20 UTC_
+_1731 guides written so far · last update 2026-10-30 14:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Pluviobyte/claude-ban-clean](https://github.com/Pluviobyte/claude-ban-clean) | Python project | Runs in the browser with a free account | [guide](guides/pluviobyte/claude-ban-clean.md) |
 | [zklmiao/CodeWar](https://github.com/zklmiao/CodeWar) | JavaScript project | Runs in the browser with a free account | [guide](guides/zklmiao/codewar.md) |
 | [tang1693/KIKUmap](https://github.com/tang1693/KIKUmap) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/tang1693/kikumap.md) |
 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | HTML project | Runs in the browser with a free account | [guide](guides/xiaoyecodes/code-animation-prompts.md) |
@@ -38,7 +39,6 @@ _1730 guides written so far · last update 2026-10-30 14:20 UTC_
 | [wquguru/shisei](https://github.com/wquguru/shisei) | Python project | Runs in the browser with a free account | [guide](guides/wquguru/shisei.md) |
 | [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript project | Runs in the browser with a free account | [guide](guides/heydamir/unslop.md) |
 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alchaincyf/huashu-bird-sticker.md) |
-| [routerhubSI/openrouter-alternative](https://github.com/routerhubSI/openrouter-alternative) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/routerhubsi/openrouter-alternative.md) |
 <!-- latest:end -->
 
 ## How it works

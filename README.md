@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1718 guides written so far · last update 2026-10-30 14:20 UTC_
+_1719 guides written so far · last update 2026-10-30 14:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [routerhubSI/openrouter-alternative](https://github.com/routerhubSI/openrouter-alternative) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/routerhubsi/openrouter-alternative.md) |
 | [Pika-Labs/Pika-H3-Flex](https://github.com/Pika-Labs/Pika-H3-Flex) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/pika-labs/pika-h3-flex.md) |
 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/djihads80/eglantine.md) |
 | [MUSE-AI-Lab/Concept-Brittleness](https://github.com/MUSE-AI-Lab/Concept-Brittleness) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/muse-ai-lab/concept-brittleness.md) |
@@ -38,7 +39,6 @@ _1718 guides written so far · last update 2026-10-30 14:20 UTC_
 | [meshharmonyrectifier/MusicMakerUnlimited](https://github.com/meshharmonyrectifier/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshharmonyrectifier/musicmakerunlimited.md) |
 | [UpdateRopemakerVeil/Microsoft-Visio](https://github.com/UpdateRopemakerVeil/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/updateropemakerveil/microsoft-visio.md) |
 | [Tunnelmicall/Photo-Commander](https://github.com/Tunnelmicall/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tunnelmicall/photo-commander.md) |
-| [PackBeatCompute/Discord-Server-Cloner](https://github.com/PackBeatCompute/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/packbeatcompute/discord-server-cloner.md) |
 <!-- latest:end -->
 
 ## How it works

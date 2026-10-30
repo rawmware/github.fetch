@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T14:20:31.412Z",
- "totalGuides": 1718,
+ "updatedAt": "2026-10-30T14:20:31.611Z",
+ "totalGuides": 1719,
  "items": [
+  {
+   "fullName": "routerhubSI/openrouter-alternative",
+   "owner": "routerhubSI",
+   "name": "openrouter-alternative",
+   "url": "https://github.com/routerhubSI/openrouter-alternative",
+   "avatar": "https://avatars.githubusercontent.com/u/347402468?v=4",
+   "description": "OpenRouter alternative for uncensored AI LLM access — independent RouterHub gives developers one OpenAI- and Anthropic-compatible key for 37 frontier and open-weight models, including GPT, Claude, Grok, DeepSeek and GLM, with published per-token pricing and abliterated or uncenso",
+   "language": null,
+   "topics": [
+    "abliterated-models",
+    "ai-api-gateway",
+    "ai-model-router",
+    "ai-models",
+    "anthropic-compatible",
+    "claude-api",
+    "deepseek-api",
+    "glm-api"
+   ],
+   "license": "MIT",
+   "stars": 145,
+   "forks": 35,
+   "createdAt": "2026-10-29T17:35:49Z",
+   "branch": "main",
+   "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=openrouter-alternative",
+   "addedAt": "2026-10-30T14:20:31.610Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/routerhubSI/openrouter-alternative",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/routerhubSI/openrouter-alternative/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/routerhubSI/openrouter-alternative\nWhat it says it does: \"OpenRouter alternative for uncensored AI LLM access — independent RouterHub gives developers one OpenAI- and Anthropic-compatible key for 37 frontier and open-weight models, including GPT, Claude, Grok, DeepSeek and GLM, with published per-token pricing and abliterated or uncenso\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T14:20:31.610Z"
+  },
   {
    "fullName": "Pika-Labs/Pika-H3-Flex",
    "owner": "Pika-Labs",
@@ -32416,69 +32473,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/wesbos/3d-model-anything\nWhat it says it does: \"Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T16:04:46.710Z"
-  },
-  {
-   "fullName": "Jelly10086/PCL-Re.Download_PATCH",
-   "owner": "Jelly10086",
-   "name": "PCL-Re.Download_PATCH",
-   "url": "https://github.com/Jelly10086/PCL-Re.Download_PATCH",
-   "avatar": "https://avatars.githubusercontent.com/u/191019005?v=4",
-   "description": "哦对了，下载限制飞八分钱",
-   "language": "C#",
-   "topics": [],
-   "license": null,
-   "stars": 68,
-   "forks": 3,
-   "createdAt": "2026-10-20T09:12:56Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T11:38:21.901Z",
-   "stack": {
-    "kind": "native",
-    "label": "C# project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Jelly10086/PCL-Re.Download_PATCH?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Jelly10086/PCL-Re.Download_PATCH",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Jelly10086/PCL-Re.Download_PATCH/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Jelly10086/PCL-Re.Download_PATCH.git\ncd PCL-Re.Download_PATCH",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Jelly10086/PCL-Re.Download_PATCH\nWhat it says it does: \"哦对了，下载限制飞八分钱\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T11:38:21.901Z"
   }
  ],
  "levels": {
-  "heavy": 74,
+  "read": 123,
+  "heavy": 73,
   "account": 242,
-  "read": 122,
   "instant": 62
  }
 }

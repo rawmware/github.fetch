@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T19:37:48.346Z",
- "totalGuides": 1741,
+ "updatedAt": "2026-10-30T19:37:48.542Z",
+ "totalGuides": 1742,
  "items": [
+  {
+   "fullName": "TabooColonelFactory/Uttorent",
+   "owner": "TabooColonelFactory",
+   "name": "Uttorent",
+   "url": "https://github.com/TabooColonelFactory/Uttorent",
+   "avatar": "https://avatars.githubusercontent.com/u/292567286?v=4",
+   "description": "Uttorent 2026 complete standalone setup. Ready-to-run torrent client with all features unlocked.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop-torrent-application",
+    "developer-tools",
+    "incogni-nordvpn-value",
+    "nordvpn-sc-locations",
+    "open-source",
+    "peer-to-peer-windows",
+    "python"
+   ],
+   "license": null,
+   "stars": 103,
+   "forks": 0,
+   "createdAt": "2026-10-30T10:59:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T19:37:48.542Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/TabooColonelFactory/Uttorent",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/TabooColonelFactory/Uttorent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/TabooColonelFactory/Uttorent\nWhat it says it does: \"Uttorent 2026 complete standalone setup. Ready-to-run torrent client with all features unlocked.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T19:37:48.542Z"
+  },
   {
    "fullName": "velkajelka/ableton-linux",
    "owner": "velkajelka",
@@ -32374,78 +32431,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/NousResearch/hermes-labs-plugins\nWhat it says it does: \"⚗ Experimental Hermes Agent plugins built by Nous Research but not supported: community tier in the plugin catalog, up for adoption.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T23:26:39.019Z"
-  },
-  {
-   "fullName": "Spectrmachina/Ztrust",
-   "owner": "Spectrmachina",
-   "name": "Ztrust",
-   "url": "https://github.com/Spectrmachina/Ztrust",
-   "avatar": "https://avatars.githubusercontent.com/u/29523192?v=4",
-   "description": "Zero-trust supply-chain security for open source: detects malicious & vulnerable dependencies, typosquats, leaked secrets and unsafe GitHub Actions — and pays independent researchers in shielded Zcash via a front-running-proof bounty protocol.",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 102,
-   "forks": 0,
-   "createdAt": "2026-10-22T18:38:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T23:26:38.787Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python FastAPI app",
-    "frameworks": [
-     "FastAPI"
-    ]
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Spectrmachina/Ztrust/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Spectrmachina/Ztrust?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Spectrmachina/Ztrust",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Spectrmachina/Ztrust/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [
-    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
-   ],
-   "local": "git clone --depth 1 https://github.com/Spectrmachina/Ztrust.git\ncd Ztrust\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Spectrmachina/Ztrust\nWhat it says it does: \"Zero-trust supply-chain security for open source: detects malicious & vulnerable dependencies, typosquats, leaked secrets and unsafe GitHub Actions — and pays independent researchers in shielded Zcash via a front-running-proof bounty protocol.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T23:26:38.787Z"
   }
  ],
  "levels": {
+  "read": 122,
   "heavy": 77,
-  "account": 242,
-  "instant": 60,
-  "read": 121
+  "account": 241,
+  "instant": 60
  }
 }

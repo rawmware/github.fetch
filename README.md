@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1709 guides written so far · last update 2026-10-30 07:17 UTC_
+_1710 guides written so far · last update 2026-10-30 07:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [meshharmonyrectifier/MusicMakerUnlimited](https://github.com/meshharmonyrectifier/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshharmonyrectifier/musicmakerunlimited.md) |
 | [UpdateRopemakerVeil/Microsoft-Visio](https://github.com/UpdateRopemakerVeil/Microsoft-Visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/updateropemakerveil/microsoft-visio.md) |
 | [Tunnelmicall/Photo-Commander](https://github.com/Tunnelmicall/Photo-Commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tunnelmicall/photo-commander.md) |
 | [PackBeatCompute/Discord-Server-Cloner](https://github.com/PackBeatCompute/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/packbeatcompute/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _1709 guides written so far · last update 2026-10-30 07:17 UTC_
 | [lavacorecoupling/Imei-Repair](https://github.com/lavacorecoupling/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavacorecoupling/imei-repair.md) |
 | [prismexecutiveadmire/Instagram-Liker-Bot](https://github.com/prismexecutiveadmire/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismexecutiveadmire/instagram-liker-bot.md) |
 | [sewmayordiscover/KeyShot-Pro](https://github.com/sewmayordiscover/KeyShot-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sewmayordiscover/keyshot-pro.md) |
-| [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/wangzan101/mika.md) |
 <!-- latest:end -->
 
 ## How it works

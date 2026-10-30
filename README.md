@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1702 guides written so far · last update 2026-10-30 07:17 UTC_
+_1703 guides written so far · last update 2026-10-30 07:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SpiritBewitch/Kontakt-8](https://github.com/SpiritBewitch/Kontakt-8) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiritbewitch/kontakt-8.md) |
 | [GasClerkNurse/LANDR-Plugin-Bundle](https://github.com/GasClerkNurse/LANDR-Plugin-Bundle) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gasclerknurse/landr-plugin-bundle.md) |
 | [lavacorecoupling/Imei-Repair](https://github.com/lavacorecoupling/Imei-Repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavacorecoupling/imei-repair.md) |
 | [prismexecutiveadmire/Instagram-Liker-Bot](https://github.com/prismexecutiveadmire/Instagram-Liker-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prismexecutiveadmire/instagram-liker-bot.md) |
@@ -38,7 +39,6 @@ _1702 guides written so far · last update 2026-10-30 07:17 UTC_
 | [RestraintMinister/Discord-Quest-Completer](https://github.com/RestraintMinister/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restraintminister/discord-quest-completer.md) |
 | [Massreportal/CapCut-for-Windows](https://github.com/Massreportal/CapCut-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/massreportal/capcut-for-windows.md) |
 | [SpongeRevitalize94/Catia-Cad](https://github.com/SpongeRevitalize94/Catia-Cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spongerevitalize94/catia-cad.md) |
-| [energyczaradjust/Atas-Trading-Bot](https://github.com/energyczaradjust/Atas-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/energyczaradjust/atas-trading-bot.md) |
 <!-- latest:end -->
 
 ## How it works

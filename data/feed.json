@@ -1,8 +1,64 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T07:17:44.975Z",
- "totalGuides": 1702,
+ "updatedAt": "2026-10-30T07:17:45.182Z",
+ "totalGuides": 1703,
  "items": [
+  {
+   "fullName": "SpiritBewitch/Kontakt-8",
+   "owner": "SpiritBewitch",
+   "name": "Kontakt-8",
+   "url": "https://github.com/SpiritBewitch/Kontakt-8",
+   "avatar": "https://avatars.githubusercontent.com/u/295660661?v=4",
+   "description": "Kontakt 8: Complete standalone setup with all features pre-activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "kontakt",
+    "kontakt-full-library",
+    "kontakt-full-library-pc",
+    "orchestral",
+    "studio-recording",
+    "virtual-instrument",
+    "vst-plugins"
+   ],
+   "license": null,
+   "stars": 224,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:19:42Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T07:17:45.181Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/SpiritBewitch/Kontakt-8",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/SpiritBewitch/Kontakt-8/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/SpiritBewitch/Kontakt-8\nWhat it says it does: \"Kontakt 8: Complete standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T07:17:45.181Z"
+  },
   {
    "fullName": "GasClerkNurse/LANDR-Plugin-Bundle",
    "owner": "GasClerkNurse",
@@ -32524,83 +32580,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/9bie/php2shell-bypass-aslr-exp\nWhat it says it does: \"A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T11:38:17.713Z"
-  },
-  {
-   "fullName": "dinosn/php-cve-2026-10961x-lab-poc",
-   "owner": "dinosn",
-   "name": "php-cve-2026-10961x-lab-poc",
-   "url": "https://github.com/dinosn/php-cve-2026-10961x-lab-poc",
-   "avatar": "https://avatars.githubusercontent.com/u/3851678?v=4",
-   "description": "PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→cookie memory disclosure + UAF chain), full control ladders, fixed-version negative control on 8.5.12",
-   "language": "Python",
-   "topics": [
-    "cve-2026-109618",
-    "cve-2026-109619",
-    "exploit",
-    "memory-corruption",
-    "php",
-    "php2shell",
-    "rce",
-    "rfc1867"
-   ],
-   "license": null,
-   "stars": 65,
-   "forks": 16,
-   "createdAt": "2026-10-20T19:16:47Z",
-   "branch": "main",
-   "homepage": "https://www.wiz.io/blog/php2shell-php-rce",
-   "addedAt": "2026-10-22T05:58:58.927Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/dinosn/php-cve-2026-10961x-lab-poc/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/dinosn/php-cve-2026-10961x-lab-poc?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/dinosn/php-cve-2026-10961x-lab-poc",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/dinosn/php-cve-2026-10961x-lab-poc/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/dinosn/php-cve-2026-10961x-lab-poc.git\ncd php-cve-2026-10961x-lab-poc",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/dinosn/php-cve-2026-10961x-lab-poc\nWhat it says it does: \"PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→cookie memory disclosure + UAF chain), full control ladders, fixed-version negative control on 8.5.12\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T05:58:58.927Z"
   }
  ],
  "levels": {
-  "read": 111,
+  "read": 112,
   "heavy": 75,
-  "account": 251,
+  "account": 250,
   "instant": 63
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1728 guides written so far · last update 2026-10-30 14:20 UTC_
+_1729 guides written so far · last update 2026-10-30 14:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [tang1693/KIKUmap](https://github.com/tang1693/KIKUmap) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/tang1693/kikumap.md) |
 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | HTML project | Runs in the browser with a free account | [guide](guides/xiaoyecodes/code-animation-prompts.md) |
 | [jefferysha0627/agent-office-3d](https://github.com/jefferysha0627/agent-office-3d) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/jefferysha0627/agent-office-3d.md) |
 | [wangweihong/comfyui-pose-gallery](https://github.com/wangweihong/comfyui-pose-gallery) | Python project | Runs in the browser with a free account | [guide](guides/wangweihong/comfyui-pose-gallery.md) |
@@ -38,7 +39,6 @@ _1728 guides written so far · last update 2026-10-30 14:20 UTC_
 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/alchaincyf/huashu-bird-sticker.md) |
 | [routerhubSI/openrouter-alternative](https://github.com/routerhubSI/openrouter-alternative) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/routerhubsi/openrouter-alternative.md) |
 | [Pika-Labs/Pika-H3-Flex](https://github.com/Pika-Labs/Pika-H3-Flex) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/pika-labs/pika-h3-flex.md) |
-| [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/djihads80/eglantine.md) |
 <!-- latest:end -->
 
 ## How it works

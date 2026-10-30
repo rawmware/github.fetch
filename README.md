@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1739 guides written so far · last update 2026-10-30 19:37 UTC_
+_1740 guides written so far · last update 2026-10-30 19:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | Vite app | Runs in the browser with a free account | [guide](guides/zklmiao/prompt-vault.md) |
 | [wexloops/openfield](https://github.com/wexloops/openfield) | Vite app | Runs in the browser with a free account | [guide](guides/wexloops/openfield.md) |
 | [techgenius1/tvOS-Launcher](https://github.com/techgenius1/tvOS-Launcher) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/techgenius1/tvos-launcher.md) |
 | [nathanliow/atlas-of-physics](https://github.com/nathanliow/atlas-of-physics) | JavaScript project | Runs in the browser with a free account | [guide](guides/nathanliow/atlas-of-physics.md) |
@@ -38,7 +39,6 @@ _1739 guides written so far · last update 2026-10-30 19:37 UTC_
 | [Pluviobyte/claude-ban-clean](https://github.com/Pluviobyte/claude-ban-clean) | Python project | Runs in the browser with a free account | [guide](guides/pluviobyte/claude-ban-clean.md) |
 | [zklmiao/CodeWar](https://github.com/zklmiao/CodeWar) | JavaScript project | Runs in the browser with a free account | [guide](guides/zklmiao/codewar.md) |
 | [tang1693/KIKUmap](https://github.com/tang1693/KIKUmap) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/tang1693/kikumap.md) |
-| [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | HTML project | Runs in the browser with a free account | [guide](guides/xiaoyecodes/code-animation-prompts.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1697 guides written so far · last update 2026-10-30 01:18 UTC_
+_1698 guides written so far · last update 2026-10-30 07:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/wangzan101/mika.md) |
 | [TagAmbassadorCall/DVD-Creator](https://github.com/TagAmbassadorCall/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tagambassadorcall/dvd-creator.md) |
 | [tamemoosecomply/IBM-SPSS](https://github.com/tamemoosecomply/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tamemoosecomply/ibm-spss.md) |
 | [petawheelwrightseek/Adobe-Substance-3d](https://github.com/petawheelwrightseek/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/petawheelwrightseek/adobe-substance-3d.md) |
@@ -38,7 +39,6 @@ _1697 guides written so far · last update 2026-10-30 01:18 UTC_
 | [Plateplaflange/Display-Fusion](https://github.com/Plateplaflange/Display-Fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plateplaflange/display-fusion.md) |
 | [OperativeGallery/Adobe-Audition](https://github.com/OperativeGallery/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/operativegallery/adobe-audition.md) |
 | [GrandNurseStretch/Genesis-Miner](https://github.com/GrandNurseStretch/Genesis-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grandnursestretch/genesis-miner.md) |
-| [CaveVerseNight/Adobe-InDesign](https://github.com/CaveVerseNight/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/caveversenight/adobe-indesign.md) |
 <!-- latest:end -->
 
 ## How it works

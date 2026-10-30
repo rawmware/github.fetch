@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1748 guides written so far · last update 2026-10-30 23:17 UTC_
+_1749 guides written so far · last update 2026-10-30 23:17 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dbreunig/nesformer](https://github.com/dbreunig/nesformer) | Python project | Runs in the browser with a free account | [guide](guides/dbreunig/nesformer.md) |
 | [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardshogunfluctuate/capri-ai.md) |
 | [QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026](https://github.com/QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026) | Python project | Runs in the browser with a free account | [guide](guides/quantumbladesmith/fps-optimizer-universal-game-performance-booster-2026.md) |
 | [fountainsurgeonboom/Cinema-4d](https://github.com/fountainsurgeonboom/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fountainsurgeonboom/cinema-4d.md) |
@@ -38,7 +39,6 @@ _1748 guides written so far · last update 2026-10-30 23:17 UTC_
 | [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | Vite app | Runs in the browser with a free account | [guide](guides/zklmiao/prompt-vault.md) |
 | [wexloops/openfield](https://github.com/wexloops/openfield) | Vite app | Runs in the browser with a free account | [guide](guides/wexloops/openfield.md) |
 | [techgenius1/tvOS-Launcher](https://github.com/techgenius1/tvOS-Launcher) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/techgenius1/tvos-launcher.md) |
-| [nathanliow/atlas-of-physics](https://github.com/nathanliow/atlas-of-physics) | JavaScript project | Runs in the browser with a free account | [guide](guides/nathanliow/atlas-of-physics.md) |
 <!-- latest:end -->
 
 ## How it works

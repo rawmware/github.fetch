@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T23:17:51.072Z",
- "totalGuides": 1748,
+ "updatedAt": "2026-10-30T23:17:51.371Z",
+ "totalGuides": 1749,
  "items": [
+  {
+   "fullName": "dbreunig/nesformer",
+   "owner": "dbreunig",
+   "name": "nesformer",
+   "url": "https://github.com/dbreunig/nesformer",
+   "avatar": "https://avatars.githubusercontent.com/u/81794?v=4",
+   "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
+   "language": "Python",
+   "topics": [],
+   "license": null,
+   "stars": 134,
+   "forks": 5,
+   "createdAt": "2026-10-30T15:54:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T23:17:51.370Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/dbreunig/nesformer/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/dbreunig/nesformer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/dbreunig/nesformer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/dbreunig/nesformer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/dbreunig/nesformer.git\ncd nesformer\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/dbreunig/nesformer\nWhat it says it does: \"An NES CPU compiled into the weights of a stock Qwen3.5 model\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T23:17:51.370Z"
+  },
   {
    "fullName": "boardshogunfluctuate/Capri-AI",
    "owner": "boardshogunfluctuate",
@@ -32324,69 +32386,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/alexturkey/voxcpm2-turkce-ses-tasarimi\nWhat it says it does: \"Turkish voice design with VoxCPM2 on a 4 GB GPU: describe a voice, pick a variant, read Turkish text. Patched audio.cpp, local UI, 7 synthetic voices.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T01:50:05.012Z"
-  },
-  {
-   "fullName": "Dr-xu193/syncnote-community",
-   "owner": "Dr-xu193",
-   "name": "syncnote-community",
-   "url": "https://github.com/Dr-xu193/syncnote-community",
-   "avatar": "https://avatars.githubusercontent.com/u/191673315?v=4",
-   "description": "MIT-licensed Flutter workspace for notes, tasks, journals, cloud files and research. Bring your own services.",
-   "language": "Dart",
-   "topics": [],
-   "license": "MIT",
-   "stars": 69,
-   "forks": 5,
-   "createdAt": "2026-10-21T23:50:38Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T01:50:04.702Z",
-   "stack": {
-    "kind": "native",
-    "label": "Dart project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Dr-xu193/syncnote-community?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Dr-xu193/syncnote-community",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Dr-xu193/syncnote-community/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Dart usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Dr-xu193/syncnote-community.git\ncd syncnote-community",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Dr-xu193/syncnote-community\nWhat it says it does: \"MIT-licensed Flutter workspace for notes, tasks, journals, cloud files and research. Bring your own services.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T01:50:04.702Z"
   }
  ],
  "levels": {
+  "account": 240,
   "read": 127,
-  "account": 239,
-  "heavy": 74,
+  "heavy": 73,
   "instant": 60
  }
 }

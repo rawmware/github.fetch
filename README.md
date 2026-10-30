@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1715 guides written so far · last update 2026-10-30 14:20 UTC_
+_1716 guides written so far · last update 2026-10-30 14:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MUSE-AI-Lab/Concept-Brittleness](https://github.com/MUSE-AI-Lab/Concept-Brittleness) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/muse-ai-lab/concept-brittleness.md) |
 | [mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026](https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026) | Python project | Runs in the browser with a free account | [guide](guides/mike-vops93s1/valorant-esp-advanced-player-visual-overlay-2026.md) |
 | [lexifina/global-law](https://github.com/lexifina/global-law) | HTML project | Runs in the browser with a free account | [guide](guides/lexifina/global-law.md) |
 | [ChampionStir/MultiAccountManager](https://github.com/ChampionStir/MultiAccountManager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/championstir/multiaccountmanager.md) |
@@ -38,7 +39,6 @@ _1715 guides written so far · last update 2026-10-30 14:20 UTC_
 | [PackBeatCompute/Discord-Server-Cloner](https://github.com/PackBeatCompute/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/packbeatcompute/discord-server-cloner.md) |
 | [moondirectorserver/Sylenth-1](https://github.com/moondirectorserver/Sylenth-1) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/moondirectorserver/sylenth-1.md) |
 | [ShogunAgora22/StartAll-Back](https://github.com/ShogunAgora22/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shogunagora22/startall-back.md) |
-| [ThunderEncoder/Melodyne-5](https://github.com/ThunderEncoder/Melodyne-5) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thunderencoder/melodyne-5.md) |
 <!-- latest:end -->
 
 ## How it works

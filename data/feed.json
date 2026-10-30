@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T19:37:48.760Z",
- "totalGuides": 1743,
+ "updatedAt": "2026-10-30T19:37:48.930Z",
+ "totalGuides": 1744,
  "items": [
+  {
+   "fullName": "WainwrightDay/Wondshare-Recoverit",
+   "owner": "WainwrightDay",
+   "name": "Wondshare-Recoverit",
+   "url": "https://github.com/WainwrightDay/Wondshare-Recoverit",
+   "avatar": "https://avatars.githubusercontent.com/u/292568016?v=4",
+   "description": "Complete standalone setup for Wondshare Recoverit 2026. Full working installer with all features pre-activated, ready to run.",
+   "language": null,
+   "topics": [
+    "android-data-recovery-software-fonelab",
+    "automation",
+    "data-recovery",
+    "data-recovery-software",
+    "data-recovery-tool",
+    "developer-tools",
+    "file-recovery",
+    "lost-data-recovery"
+   ],
+   "license": null,
+   "stars": 102,
+   "forks": 0,
+   "createdAt": "2026-10-30T10:59:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T19:37:48.929Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/WainwrightDay/Wondshare-Recoverit",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/WainwrightDay/Wondshare-Recoverit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/WainwrightDay/Wondshare-Recoverit\nWhat it says it does: \"Complete standalone setup for Wondshare Recoverit 2026. Full working installer with all features pre-activated, ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T19:37:48.929Z"
+  },
   {
    "fullName": "AstralGrenadier/Cubase",
    "owner": "AstralGrenadier",
@@ -32354,77 +32411,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/humblemuzzu/dumbtv\nWhat it says it does: \"Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T23:26:39.478Z"
-  },
-  {
-   "fullName": "tek-sys-hub/Rubix-lang",
-   "owner": "tek-sys-hub",
-   "name": "Rubix-lang",
-   "url": "https://github.com/tek-sys-hub/Rubix-lang",
-   "avatar": "https://avatars.githubusercontent.com/u/249392719?v=4",
-   "description": "The 100% Pure x86-64 Assembly Systems Language",
-   "language": "Assembly",
-   "topics": [
-    "assembler",
-    "assembly",
-    "assembly-lang",
-    "assembly-language",
-    "assembly-language-programming",
-    "assembly-x86-64",
-    "native-compiler",
-    "programming"
-   ],
-   "license": "MIT",
-   "stars": 1902,
-   "forks": 2,
-   "createdAt": "2026-10-19T05:34:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T23:26:39.282Z",
-   "stack": {
-    "kind": "native",
-    "label": "Assembly project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/tek-sys-hub/Rubix-lang?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/tek-sys-hub/Rubix-lang",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/tek-sys-hub/Rubix-lang/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Assembly usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/tek-sys-hub/Rubix-lang.git\ncd Rubix-lang",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/tek-sys-hub/Rubix-lang\nWhat it says it does: \"The 100% Pure x86-64 Assembly Systems Language\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T23:26:39.282Z"
   }
  ],
  "levels": {
-  "read": 123,
-  "heavy": 77,
+  "read": 124,
+  "heavy": 76,
   "account": 240,
   "instant": 60
  }

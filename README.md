@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1743 guides written so far · last update 2026-10-30 19:37 UTC_
+_1744 guides written so far · last update 2026-10-30 19:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [WainwrightDay/Wondshare-Recoverit](https://github.com/WainwrightDay/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wainwrightday/wondshare-recoverit.md) |
 | [AstralGrenadier/Cubase](https://github.com/AstralGrenadier/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralgrenadier/cubase.md) |
 | [TabooColonelFactory/Uttorent](https://github.com/TabooColonelFactory/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/taboocolonelfactory/uttorent.md) |
 | [velkajelka/ableton-linux](https://github.com/velkajelka/ableton-linux) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/velkajelka/ableton-linux.md) |
@@ -38,7 +39,6 @@ _1743 guides written so far · last update 2026-10-30 19:37 UTC_
 | [0xCodez/cleanly](https://github.com/0xCodez/cleanly) | Vite app | Runs in the browser with a free account | [guide](guides/0xcodez/cleanly.md) |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript project | Runs in the browser with a free account | [guide](guides/patch-gg/pixelfx.md) |
 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | Lua project | Runs in the browser with a free account | [guide](guides/kevinraymond/florilegium.md) |
-| [mstlvc/Radiance](https://github.com/mstlvc/Radiance) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/mstlvc/radiance.md) |
 <!-- latest:end -->
 
 ## How it works

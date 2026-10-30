@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T14:20:32.356Z",
- "totalGuides": 1722,
+ "updatedAt": "2026-10-30T14:20:32.567Z",
+ "totalGuides": 1723,
  "items": [
+  {
+   "fullName": "5151561/Trackr",
+   "owner": "5151561",
+   "name": "Trackr",
+   "url": "https://github.com/5151561/Trackr",
+   "avatar": "https://avatars.githubusercontent.com/u/62234963?v=4",
+   "description": "公交实时到站查询与动态追踪",
+   "language": "Kotlin",
+   "topics": [],
+   "license": "MIT",
+   "stars": 126,
+   "forks": 21,
+   "createdAt": "2026-10-29T19:41:43Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T14:20:32.567Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/5151561/Trackr?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/5151561/Trackr",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/5151561/Trackr/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/5151561/Trackr.git\ncd Trackr",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/5151561/Trackr\nWhat it says it does: \"公交实时到站查询与动态追踪\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T14:20:32.567Z"
+  },
   {
    "fullName": "wquguru/shisei",
    "owner": "wquguru",
@@ -32363,83 +32420,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/eqyvlbekmlqq/tiktok-view-bot\nWhat it says it does: \"TikTok viewer bot: multi-threaded view generator, proxy rotation, watch-time randomization, captcha bypass, live viewer count inflation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T16:04:48.972Z"
-  },
-  {
-   "fullName": "ezosizcojoaj/roblox-account-switcher",
-   "owner": "ezosizcojoaj",
-   "name": "roblox-account-switcher",
-   "url": "https://github.com/ezosizcojoaj/roblox-account-switcher",
-   "avatar": "https://avatars.githubusercontent.com/u/334723827?v=4",
-   "description": "Roblox account switcher: save unlimited accounts, one-click switch, auto cookie refresh, multi-instance launch, cookie importer/exporter",
-   "language": "HTML",
-   "topics": [
-    "roblox-account-import",
-    "roblox-account-launcher",
-    "roblox-account-organizer",
-    "roblox-account-profiles",
-    "roblox-account-storage",
-    "roblox-account-switcher-tool",
-    "roblox-account-tools",
-    "roblox-account-vault"
-   ],
-   "license": "MIT",
-   "stars": 94,
-   "forks": 52,
-   "createdAt": "2026-10-22T11:39:58Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T16:04:48.528Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/ezosizcojoaj/roblox-account-switcher/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ezosizcojoaj/roblox-account-switcher?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ezosizcojoaj/roblox-account-switcher",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ezosizcojoaj/roblox-account-switcher/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ezosizcojoaj/roblox-account-switcher.git\ncd roblox-account-switcher\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/ezosizcojoaj/roblox-account-switcher\nWhat it says it does: \"Roblox account switcher: save unlimited accounts, one-click switch, auto cookie refresh, multi-instance launch, cookie importer/exporter\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T16:04:48.528Z"
   }
  ],
  "levels": {
-  "account": 242,
+  "heavy": 74,
+  "account": 241,
   "read": 124,
-  "heavy": 73,
   "instant": 61
  }
 }

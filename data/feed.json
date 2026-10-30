@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T07:17:46.482Z",
- "totalGuides": 1710,
+ "updatedAt": "2026-10-30T07:17:46.649Z",
+ "totalGuides": 1711,
  "items": [
+  {
+   "fullName": "SmartHeroForce/MicroStation-2026",
+   "owner": "SmartHeroForce",
+   "name": "MicroStation-2026",
+   "url": "https://github.com/SmartHeroForce/MicroStation-2026",
+   "avatar": "https://avatars.githubusercontent.com/u/295661278?v=4",
+   "description": "Microstation 2026: Full working installer with all essential utilities and configurations, ready for immediate desktop installation.",
+   "language": null,
+   "topics": [
+    "bentley-microstation-install-setup-windows-2026",
+    "diagram-software",
+    "infrastructure-design",
+    "microstation",
+    "microstation-2026",
+    "microstation-download"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-29T07:20:33Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T07:17:46.649Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/SmartHeroForce/MicroStation-2026",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/SmartHeroForce/MicroStation-2026/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/SmartHeroForce/MicroStation-2026\nWhat it says it does: \"Microstation 2026: Full working installer with all essential utilities and configurations, ready for immediate desktop installation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T07:17:46.649Z"
+  },
   {
    "fullName": "meshharmonyrectifier/MusicMakerUnlimited",
    "owner": "meshharmonyrectifier",
@@ -32443,74 +32498,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/HOSTED-POWER/php_uploadprogress_guard\nWhat it says it does: \"Protects an unpatched PHP against php2shell (CVE-2026-109618 / CVE-2026-109619): a small extension that mirrors the official fix component by component and steps aside once the engine carries it. PHP 5.6-8.5; Sury, cPanel EA4, DirectAdmin, Docker, Windows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T11:38:20.107Z"
-  },
-  {
-   "fullName": "syrex1013/php2shell",
-   "owner": "syrex1013",
-   "name": "php2shell",
-   "url": "https://github.com/syrex1013/php2shell",
-   "avatar": "https://avatars.githubusercontent.com/u/31669127?v=4",
-   "description": "CVE-2026-109618/109619 PoC — PHP session.upload_progress heap use-after-free (CVSS 9.2)",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 79,
-   "forks": 49,
-   "createdAt": "2026-10-21T15:06:33Z",
-   "branch": "master",
-   "homepage": null,
-   "addedAt": "2026-10-22T11:38:19.902Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/syrex1013/php2shell/master",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/syrex1013/php2shell?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/syrex1013/php2shell",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/syrex1013/php2shell/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/syrex1013/php2shell.git\ncd php2shell",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/syrex1013/php2shell\nWhat it says it does: \"CVE-2026-109618/109619 PoC — PHP session.upload_progress heap use-after-free (CVSS 9.2)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T11:38:19.902Z"
   }
  ],
  "levels": {
-  "read": 119,
+  "read": 120,
   "heavy": 75,
-  "account": 243,
+  "account": 242,
   "instant": 63
  }
 }

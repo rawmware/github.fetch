@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T19:37:46.891Z",
- "totalGuides": 1735,
+ "updatedAt": "2026-10-30T19:37:47.136Z",
+ "totalGuides": 1736,
  "items": [
+  {
+   "fullName": "tapoooooty/hypergrad",
+   "owner": "tapoooooty",
+   "name": "hypergrad",
+   "url": "https://github.com/tapoooooty/hypergrad",
+   "avatar": "https://avatars.githubusercontent.com/u/54009166?v=4",
+   "description": "HIP-3 perp DEX on Hyperliquid for Solana memecoins graduating from pump.fun. GRAD index perp from $500K, own perps for coins that hold.",
+   "language": "Python",
+   "topics": [
+    "defi",
+    "hip-3",
+    "hyperliquid",
+    "market-maker",
+    "memecoins",
+    "oracle",
+    "perpetuals",
+    "pump-fun"
+   ],
+   "license": "MIT",
+   "stars": 132,
+   "forks": 26,
+   "createdAt": "2026-10-29T21:56:03Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T19:37:47.135Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/tapoooooty/hypergrad/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/tapoooooty/hypergrad?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/tapoooooty/hypergrad",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/tapoooooty/hypergrad/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/tapoooooty/hypergrad.git\ncd hypergrad\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/tapoooooty/hypergrad\nWhat it says it does: \"HIP-3 perp DEX on Hyperliquid for Solana memecoins graduating from pump.fun. GRAD index perp from $500K, own perps for coins that hold.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T19:37:47.135Z"
+  },
   {
    "fullName": "0xCodez/cleanly",
    "owner": "0xCodez",
@@ -32375,70 +32446,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/danisiber/rom-cli\nWhat it says it does: \"Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-platform catalog, resumable downloads.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T20:11:37.898Z"
-  },
-  {
-   "fullName": "syhunt/php2shell-protection",
-   "owner": "syhunt",
-   "name": "php2shell-protection",
-   "url": "https://github.com/syhunt/php2shell-protection",
-   "avatar": "https://avatars.githubusercontent.com/u/7361944?v=4",
-   "description": "Emergency Apache mitigation and testing toolkit for php2shell (CVE-2026-109618 / CVE-2026-109619), featuring multipart POST blocking, request-size limits, and additional hardening measures.",
-   "language": "PHP",
-   "topics": [
-    "apache",
-    "application-security",
-    "appsec",
-    "cybersecurity",
-    "defenses",
-    "mitigation",
-    "patches",
-    "php"
-   ],
-   "license": "MIT",
-   "stars": 81,
-   "forks": 8,
-   "createdAt": "2026-10-21T04:01:24Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-22T20:11:37.616Z",
-   "stack": {
-    "kind": "other",
-    "label": "PHP project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/syhunt/php2shell-protection?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/syhunt/php2shell-protection",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/syhunt/php2shell-protection/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/syhunt/php2shell-protection.git\ncd php2shell-protection",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/syhunt/php2shell-protection\nWhat it says it does: \"Emergency Apache mitigation and testing toolkit for php2shell (CVE-2026-109618 / CVE-2026-109619), featuring multipart POST blocking, request-size limits, and additional hardening measures.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T20:11:37.616Z"
   }
  ],
  "levels": {

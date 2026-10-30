@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T19:37:48.930Z",
- "totalGuides": 1744,
+ "updatedAt": "2026-10-30T19:37:49.128Z",
+ "totalGuides": 1745,
  "items": [
+  {
+   "fullName": "ScoutSageDefeat/Wise-Registrity",
+   "owner": "ScoutSageDefeat",
+   "name": "Wise-Registrity",
+   "url": "https://github.com/ScoutSageDefeat/Wise-Registrity",
+   "avatar": "https://avatars.githubusercontent.com/u/292568379?v=4",
+   "description": "Wise Registrity 2026: Complete standalone setup with full working installer, ready for immediate desktop use.",
+   "language": null,
+   "topics": [
+    "developer-tools",
+    "free-key-wise-registry-cleaner-pro",
+    "open-source",
+    "python",
+    "registry-cleaner-privacy-protection",
+    "registry-cleaner-system-improvement",
+    "windows-performance-optimizer",
+    "windows-registry-fix-tutorial"
+   ],
+   "license": null,
+   "stars": 100,
+   "forks": 0,
+   "createdAt": "2026-10-30T10:59:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T19:37:49.127Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ScoutSageDefeat/Wise-Registrity",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ScoutSageDefeat/Wise-Registrity/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ScoutSageDefeat/Wise-Registrity\nWhat it says it does: \"Wise Registrity 2026: Complete standalone setup with full working installer, ready for immediate desktop use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T19:37:49.127Z"
+  },
   {
    "fullName": "WainwrightDay/Wondshare-Recoverit",
    "owner": "WainwrightDay",
@@ -32345,77 +32402,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Revivedx/SavageWindRecomp\nWhat it says it does: \"Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-22T23:26:39.670Z"
-  },
-  {
-   "fullName": "humblemuzzu/dumbtv",
-   "owner": "humblemuzzu",
-   "name": "dumbtv",
-   "url": "https://github.com/humblemuzzu/dumbtv",
-   "avatar": "https://avatars.githubusercontent.com/u/107297384?v=4",
-   "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
-   "language": "Java",
-   "topics": [
-    "ad-blocking",
-    "adb",
-    "android-tv",
-    "debloat",
-    "dns-filter",
-    "fire-os",
-    "fire-tv",
-    "firetv"
-   ],
-   "license": null,
-   "stars": 1301,
-   "forks": 108,
-   "createdAt": "2026-10-18T17:04:12Z",
-   "branch": "main",
-   "homepage": "https://dumbtv.org",
-   "addedAt": "2026-10-22T23:26:39.478Z",
-   "stack": {
-    "kind": "native",
-    "label": "Java project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/humblemuzzu/dumbtv?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/humblemuzzu/dumbtv",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/humblemuzzu/dumbtv/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/humblemuzzu/dumbtv.git\ncd dumbtv",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/humblemuzzu/dumbtv\nWhat it says it does: \"Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-22T23:26:39.478Z"
   }
  ],
  "levels": {
-  "read": 124,
-  "heavy": 76,
+  "read": 125,
+  "heavy": 75,
   "account": 240,
   "instant": 60
  }

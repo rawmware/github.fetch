@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1740 guides written so far · last update 2026-10-30 19:37 UTC_
+_1741 guides written so far · last update 2026-10-30 19:37 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [velkajelka/ableton-linux](https://github.com/velkajelka/ableton-linux) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/velkajelka/ableton-linux.md) |
 | [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault) | Vite app | Runs in the browser with a free account | [guide](guides/zklmiao/prompt-vault.md) |
 | [wexloops/openfield](https://github.com/wexloops/openfield) | Vite app | Runs in the browser with a free account | [guide](guides/wexloops/openfield.md) |
 | [techgenius1/tvOS-Launcher](https://github.com/techgenius1/tvOS-Launcher) | Java project | Needs a real machine (or a GPU) to run | [guide](guides/techgenius1/tvos-launcher.md) |
@@ -38,7 +39,6 @@ _1740 guides written so far · last update 2026-10-30 19:37 UTC_
 | [mstlvc/Radiance](https://github.com/mstlvc/Radiance) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/mstlvc/radiance.md) |
 | [Pluviobyte/claude-ban-clean](https://github.com/Pluviobyte/claude-ban-clean) | Python project | Runs in the browser with a free account | [guide](guides/pluviobyte/claude-ban-clean.md) |
 | [zklmiao/CodeWar](https://github.com/zklmiao/CodeWar) | JavaScript project | Runs in the browser with a free account | [guide](guides/zklmiao/codewar.md) |
-| [tang1693/KIKUmap](https://github.com/tang1693/KIKUmap) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/tang1693/kikumap.md) |
 <!-- latest:end -->
 
 ## How it works

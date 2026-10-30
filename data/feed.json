@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-30T23:17:51.991Z",
- "totalGuides": 1752,
+ "updatedAt": "2026-10-30T23:17:52.203Z",
+ "totalGuides": 1753,
  "items": [
+  {
+   "fullName": "gothamor/gta-vcs-recomp",
+   "owner": "gothamor",
+   "name": "gta-vcs-recomp",
+   "url": "https://github.com/gothamor/gta-vcs-recomp",
+   "avatar": "https://avatars.githubusercontent.com/u/339028930?v=4",
+   "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
+   "language": "C++",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 104,
+   "forks": 5,
+   "createdAt": "2026-10-30T03:46:44Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-30T23:17:52.203Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/gothamor/gta-vcs-recomp?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/gothamor/gta-vcs-recomp",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/gothamor/gta-vcs-recomp/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/gothamor/gta-vcs-recomp.git\ncd gta-vcs-recomp",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/gothamor/gta-vcs-recomp\nWhat it says it does: \"A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-30T23:17:52.203Z"
+  },
   {
    "fullName": "Prophetlab/Investor-Last-Exam",
    "owner": "Prophetlab",
@@ -32298,89 +32355,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Mrquillwing/hello_world-\nWhat it says it does: \"hello_world\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T01:50:05.881Z"
-  },
-  {
-   "fullName": "TencentARC/Looking-Ahead",
-   "owner": "TencentARC",
-   "name": "Looking-Ahead",
-   "url": "https://github.com/TencentARC/Looking-Ahead",
-   "avatar": "https://avatars.githubusercontent.com/u/83739826?v=4",
-   "description": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
-   "language": "Python",
-   "topics": [
-    "autoregressive-video-generation",
-    "diffusion",
-    "physics-plausibility",
-    "video-generation",
-    "world-model"
-   ],
-   "license": null,
-   "stars": 65,
-   "forks": 2,
-   "createdAt": "2026-10-21T11:20:59Z",
-   "branch": "main",
-   "homepage": "https://hellorpg.github.io/looking-ahead/",
-   "addedAt": "2026-10-23T01:50:05.693Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "colab-new",
-   "launch": [
-    {
-     "id": "colab-new",
-     "label": "Google Colab",
-     "url": "https://colab.research.google.com/",
-     "needs": "free Google account",
-     "note": "New notebook, then run: !git clone https://github.com/TencentARC/Looking-Ahead"
-    },
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/TencentARC/Looking-Ahead/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/TencentARC/Looking-Ahead?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/TencentARC/Looking-Ahead",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/TencentARC/Looking-Ahead/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [
-    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one."
-   ],
-   "local": "git clone --depth 1 https://github.com/TencentARC/Looking-Ahead.git\ncd Looking-Ahead\npip install -e .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/TencentARC/Looking-Ahead\nWhat it says it does: \"Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T01:50:05.693Z"
   }
  ],
  "levels": {
+  "heavy": 72,
   "account": 240,
   "read": 128,
-  "heavy": 72,
   "instant": 60
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1791 guides written so far · last update 2026-10-31 14:51 UTC_
+_1792 guides written so far · last update 2026-10-31 14:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TabooGunnerDuel/Claude-Jailbreak-Prompt](https://github.com/TabooGunnerDuel/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/taboogunnerduel/claude-jailbreak-prompt.md) |
 | [AdvocateTriumph/Better-Discord](https://github.com/AdvocateTriumph/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/advocatetriumph/better-discord.md) |
 | [SheetLovebirdSpanner/ExitLag](https://github.com/SheetLovebirdSpanner/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sheetlovebirdspanner/exitlag.md) |
 | [Astralbyretake/Microsoft-Office](https://github.com/Astralbyretake/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralbyretake/microsoft-office.md) |
@@ -38,7 +39,6 @@ _1791 guides written so far · last update 2026-10-31 14:51 UTC_
 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | PowerShell project | Runs in the browser with a free account | [guide](guides/arjun-ingole/hop.md) |
 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | React app | Runs in a browser tab, no account needed | [guide](guides/deepseek-ai/dsh-superagent-prototype.md) |
 | [Stalkerbincover/Adobe-Acrobat-Pro](https://github.com/Stalkerbincover/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerbincover/adobe-acrobat-pro.md) |
-| [breezeswiftbasin/CapCut-for-Windows](https://github.com/breezeswiftbasin/CapCut-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breezeswiftbasin/capcut-for-windows.md) |
 <!-- latest:end -->
 
 ## How it works

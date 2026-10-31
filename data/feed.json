@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T02:31:08.798Z",
- "totalGuides": 1762,
+ "updatedAt": "2026-10-31T02:31:08.949Z",
+ "totalGuides": 1763,
  "items": [
+  {
+   "fullName": "ClipTerrapin48/RX-11-Audio-Editor",
+   "owner": "ClipTerrapin48",
+   "name": "RX-11-Audio-Editor",
+   "url": "https://github.com/ClipTerrapin48/RX-11-Audio-Editor",
+   "avatar": "https://avatars.githubusercontent.com/u/295660381?v=4",
+   "description": "Rx 11 Audio Editor 2026 - Full working installer with all professional audio tools ready to run.",
+   "language": null,
+   "topics": [
+    "audio-mastering",
+    "audio-restoration",
+    "automation",
+    "descript-pro",
+    "desktop",
+    "developer-tools",
+    "music-production-for-beginners",
+    "open-source"
+   ],
+   "license": null,
+   "stars": 100,
+   "forks": 0,
+   "createdAt": "2026-10-30T17:26:56Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T02:31:08.949Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ClipTerrapin48/RX-11-Audio-Editor",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ClipTerrapin48/RX-11-Audio-Editor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ClipTerrapin48/RX-11-Audio-Editor\nWhat it says it does: \"Rx 11 Audio Editor 2026 - Full working installer with all professional audio tools ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T02:31:08.949Z"
+  },
   {
    "fullName": "ProsecutorHatchet/Movavi-Converter",
    "owner": "ProsecutorHatchet",
@@ -32227,54 +32284,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/nicobailon/pi-cached-compaction\nWhat it says it does: \"Pi compaction that reads the conversation's prompt cache, with a cache-expiry timer\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T07:21:21.633Z"
-  },
-  {
-   "fullName": "ios151/One-releases",
-   "owner": "ios151",
-   "name": "One-releases",
-   "url": "https://github.com/ios151/One-releases",
-   "avatar": "https://avatars.githubusercontent.com/u/338882408?v=4",
-   "description": "One 的安装包发布页（只发布 IPA，不含源码）",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 64,
-   "forks": 1,
-   "createdAt": "2026-10-22T23:30:06Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T07:21:21.204Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ios151/One-releases",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ios151/One-releases/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ios151/One-releases\nWhat it says it does: \"One 的安装包发布页（只发布 IPA，不含源码）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T07:21:21.204Z"
   }
  ],
  "levels": {

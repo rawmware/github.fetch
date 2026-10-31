@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1756 guides written so far · last update 2026-10-31 02:31 UTC_
+_1757 guides written so far · last update 2026-10-31 02:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [gminustwo/msr2ds](https://github.com/gminustwo/msr2ds) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gminustwo/msr2ds.md) |
 | [ramenvr/autopilot](https://github.com/ramenvr/autopilot) | Python project | Runs in the browser with a free account | [guide](guides/ramenvr/autopilot.md) |
 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | Python project | Runs in the browser with a free account | [guide](guides/n1neman/sapper-v2.md) |
 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | JavaScript project | Runs in the browser with a free account | [guide](guides/pluviobyte/douyin-comments.md) |
@@ -38,7 +39,6 @@ _1756 guides written so far · last update 2026-10-31 02:31 UTC_
 | [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardshogunfluctuate/capri-ai.md) |
 | [QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026](https://github.com/QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026) | Python project | Runs in the browser with a free account | [guide](guides/quantumbladesmith/fps-optimizer-universal-game-performance-booster-2026.md) |
 | [fountainsurgeonboom/Cinema-4d](https://github.com/fountainsurgeonboom/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fountainsurgeonboom/cinema-4d.md) |
-| [ScoutSageDefeat/Wise-Registrity](https://github.com/ScoutSageDefeat/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scoutsagedefeat/wise-registrity.md) |
 <!-- latest:end -->
 
 ## How it works

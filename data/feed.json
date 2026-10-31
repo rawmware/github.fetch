@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T02:31:07.667Z",
- "totalGuides": 1756,
+ "updatedAt": "2026-10-31T02:31:07.847Z",
+ "totalGuides": 1757,
  "items": [
+  {
+   "fullName": "gminustwo/msr2ds",
+   "owner": "gminustwo",
+   "name": "msr2ds",
+   "url": "https://github.com/gminustwo/msr2ds",
+   "avatar": "https://avatars.githubusercontent.com/u/347583672?v=4",
+   "description": "Metroid: Samus Returns as a single-screen PC game, built on the Azahar 3DS emulator. Bring your own dump.",
+   "language": "C++",
+   "topics": [],
+   "license": "GPL-2.0",
+   "stars": 103,
+   "forks": 3,
+   "createdAt": "2026-10-29T23:21:31Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T02:31:07.846Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/gminustwo/msr2ds?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/gminustwo/msr2ds",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/gminustwo/msr2ds/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/gminustwo/msr2ds.git\ncd msr2ds",
+   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/gminustwo/msr2ds\nWhat it says it does: \"Metroid: Samus Returns as a single-screen PC game, built on the Azahar 3DS emulator. Bring your own dump.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T02:31:07.846Z"
+  },
   {
    "fullName": "ramenvr/autopilot",
    "owner": "ramenvr",
@@ -32297,73 +32354,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/df-tools-bn/.github\nWhat it says it does: \"🔥 defi-arbitrage-trading-bot 🔥\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T07:21:20.017Z"
-  },
-  {
-   "fullName": "Snapintosh/Snapintosh",
-   "owner": "Snapintosh",
-   "name": "Snapintosh",
-   "url": "https://github.com/Snapintosh/Snapintosh",
-   "avatar": "https://avatars.githubusercontent.com/u/346728985?v=4",
-   "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 632,
-   "forks": 37,
-   "createdAt": "2026-10-22T01:40:05Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T07:21:19.732Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Snapintosh/Snapintosh/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Snapintosh/Snapintosh?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Snapintosh/Snapintosh",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Snapintosh/Snapintosh/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Snapintosh/Snapintosh.git\ncd Snapintosh",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Snapintosh/Snapintosh\nWhat it says it does: \"EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T07:21:19.732Z"
   }
  ],
  "levels": {
-  "account": 243,
-  "heavy": 71,
+  "heavy": 72,
+  "account": 242,
   "read": 126,
   "instant": 60
  }

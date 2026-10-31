@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1768 guides written so far · last update 2026-10-31 08:48 UTC_
+_1769 guides written so far · last update 2026-10-31 08:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | JavaScript project | Runs in the browser with a free account | [guide](guides/elvarofficial/teardown.md) |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | JavaScript project | Runs in the browser with a free account | [guide](guides/op7418/dsh-guizang-design.md) |
 | [Michael017801/Persona-Forge](https://github.com/Michael017801/Persona-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/michael017801/persona-forge.md) |
 | [phishdestroy/TgWitness](https://github.com/phishdestroy/TgWitness) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/phishdestroy/tgwitness.md) |
@@ -38,7 +39,6 @@ _1768 guides written so far · last update 2026-10-31 08:48 UTC_
 | [InertiaSteamDisclose/StartAll-Back](https://github.com/InertiaSteamDisclose/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inertiasteamdisclose/startall-back.md) |
 | [ScorpionSplit/Movavi-Video-Suite-Plus](https://github.com/ScorpionSplit/Movavi-Video-Suite-Plus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scorpionsplit/movavi-video-suite-plus.md) |
 | [rubenhassid1/remake](https://github.com/rubenhassid1/remake) | Node command-line tool | Runs in the browser with a free account | [guide](guides/rubenhassid1/remake.md) |
-| [gminustwo/msr2ds](https://github.com/gminustwo/msr2ds) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gminustwo/msr2ds.md) |
 <!-- latest:end -->
 
 ## How it works

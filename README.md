@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1795 guides written so far · last update 2026-10-31 14:51 UTC_
+_1796 guides written so far · last update 2026-10-31 14:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [citycarpenterquicken/StudioOnePro7](https://github.com/citycarpenterquicken/StudioOnePro7) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/citycarpenterquicken/studioonepro7.md) |
 | [RimWheelwright/Axie-Infinity-Bot](https://github.com/RimWheelwright/Axie-Infinity-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rimwheelwright/axie-infinity-bot.md) |
 | [Bottomzuplaza/TRX-Drainer-Bot](https://github.com/Bottomzuplaza/TRX-Drainer-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bottomzuplaza/trx-drainer-bot.md) |
 | [helixhornettrip/GrayKet](https://github.com/helixhornettrip/GrayKet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/helixhornettrip/grayket.md) |
@@ -38,7 +39,6 @@ _1795 guides written so far · last update 2026-10-31 14:51 UTC_
 | [DistributorFollow23/Microsoft-365](https://github.com/DistributorFollow23/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorfollow23/microsoft-365.md) |
 | [mythicassemblyladle/RX-11-Audio-Editor](https://github.com/mythicassemblyladle/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mythicassemblyladle/rx-11-audio-editor.md) |
 | [darkareaminaret/MetaTrader-5-Bot](https://github.com/darkareaminaret/MetaTrader-5-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/darkareaminaret/metatrader-5-bot.md) |
-| [redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026](https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/redjellyfishrampart/bunny-hop-script-auto-bhop-movement-tool-2026.md) |
 <!-- latest:end -->
 
 ## How it works

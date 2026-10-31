@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1773 guides written so far · last update 2026-10-31 08:48 UTC_
+_1774 guides written so far · last update 2026-10-31 08:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Sac-Y/match-cut](https://github.com/Sac-Y/match-cut) | Python project | Runs in the browser with a free account | [guide](guides/sac-y/match-cut.md) |
 | [lokyfordev/pulse-toolkit](https://github.com/lokyfordev/pulse-toolkit) | PowerShell project | Runs in the browser with a free account | [guide](guides/lokyfordev/pulse-toolkit.md) |
 | [nguyenthetri2k1/aether-hub](https://github.com/nguyenthetri2k1/aether-hub) | Lua project | Runs in the browser with a free account | [guide](guides/nguyenthetri2k1/aether-hub.md) |
 | [J-Vinicius/nova-ui](https://github.com/J-Vinicius/nova-ui) | Lua project | Runs in the browser with a free account | [guide](guides/j-vinicius/nova-ui.md) |
@@ -38,7 +39,6 @@ _1773 guides written so far · last update 2026-10-31 08:48 UTC_
 | [TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026](https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/tinsmithconsole60/roblox-account-manager-multi-account-tool-2026.md) |
 | [Gravellyabarrow/DVD-Creator](https://github.com/Gravellyabarrow/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravellyabarrow/dvd-creator.md) |
 | [ClipTerrapin48/RX-11-Audio-Editor](https://github.com/ClipTerrapin48/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipterrapin48/rx-11-audio-editor.md) |
-| [ProsecutorHatchet/Movavi-Converter](https://github.com/ProsecutorHatchet/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorhatchet/movavi-converter.md) |
 <!-- latest:end -->
 
 ## How it works

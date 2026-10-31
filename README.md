@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1792 guides written so far · last update 2026-10-31 14:51 UTC_
+_1793 guides written so far · last update 2026-10-31 14:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [helixhornettrip/GrayKet](https://github.com/helixhornettrip/GrayKet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/helixhornettrip/grayket.md) |
 | [TabooGunnerDuel/Claude-Jailbreak-Prompt](https://github.com/TabooGunnerDuel/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/taboogunnerduel/claude-jailbreak-prompt.md) |
 | [AdvocateTriumph/Better-Discord](https://github.com/AdvocateTriumph/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/advocatetriumph/better-discord.md) |
 | [SheetLovebirdSpanner/ExitLag](https://github.com/SheetLovebirdSpanner/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sheetlovebirdspanner/exitlag.md) |
@@ -38,7 +39,6 @@ _1792 guides written so far · last update 2026-10-31 14:51 UTC_
 | [redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026](https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/redjellyfishrampart/bunny-hop-script-auto-bhop-movement-tool-2026.md) |
 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | PowerShell project | Runs in the browser with a free account | [guide](guides/arjun-ingole/hop.md) |
 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | React app | Runs in a browser tab, no account needed | [guide](guides/deepseek-ai/dsh-superagent-prototype.md) |
-| [Stalkerbincover/Adobe-Acrobat-Pro](https://github.com/Stalkerbincover/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerbincover/adobe-acrobat-pro.md) |
 <!-- latest:end -->
 
 ## How it works

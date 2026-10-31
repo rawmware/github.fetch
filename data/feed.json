@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T14:51:03.986Z",
- "totalGuides": 1784,
+ "updatedAt": "2026-10-31T14:51:04.158Z",
+ "totalGuides": 1785,
  "items": [
+  {
+   "fullName": "darkareaminaret/MetaTrader-5-Bot",
+   "owner": "darkareaminaret",
+   "name": "MetaTrader-5-Bot",
+   "url": "https://github.com/darkareaminaret/MetaTrader-5-Bot",
+   "avatar": "https://avatars.githubusercontent.com/u/292572374?v=4",
+   "description": "Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.",
+   "language": null,
+   "topics": [
+    "automation",
+    "background-process",
+    "developer-tools",
+    "metatrader5-no-gui",
+    "mt5-api",
+    "mt5-bot",
+    "mt5-ea",
+    "mt5-headless"
+   ],
+   "license": null,
+   "stars": 213,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:24:32Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T14:51:04.157Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/darkareaminaret/MetaTrader-5-Bot",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/darkareaminaret/MetaTrader-5-Bot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/darkareaminaret/MetaTrader-5-Bot\nWhat it says it does: \"Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T14:51:04.157Z"
+  },
   {
    "fullName": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
    "owner": "redjellyfishrampart",
@@ -32173,76 +32230,12 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/iam567/rich4-renew-app\nWhat it says it does: \"大富翁4 重制版 App 源码（Vite + TypeScript + Capacitor iOS）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T12:49:25.077Z"
-  },
-  {
-   "fullName": "sit-in/awesome-grokbot-playbooks",
-   "owner": "sit-in",
-   "name": "awesome-grokbot-playbooks",
-   "url": "https://github.com/sit-in/awesome-grokbot-playbooks",
-   "avatar": "https://avatars.githubusercontent.com/u/2328167?v=4",
-   "description": "中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks",
-   "language": "HTML",
-   "topics": [
-    "ai-agents",
-    "awesome",
-    "awesome-list",
-    "chinese",
-    "grok",
-    "grok-bot",
-    "multi-agent",
-    "playbooks"
-   ],
-   "license": "MIT",
-   "stars": 360,
-   "forks": 40,
-   "createdAt": "2026-10-17T15:47:00Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T12:49:24.881Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/sit-in/awesome-grokbot-playbooks?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/sit-in/awesome-grokbot-playbooks",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/sit-in/awesome-grokbot-playbooks/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/sit-in/awesome-grokbot-playbooks.git\ncd awesome-grokbot-playbooks",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/sit-in/awesome-grokbot-playbooks\nWhat it says it does: \"中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T12:49:24.881Z"
   }
  ],
  "levels": {
-  "account": 240,
+  "read": 137,
+  "account": 239,
   "instant": 56,
-  "read": 136,
   "heavy": 68
  }
 }

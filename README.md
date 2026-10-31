@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1784 guides written so far · last update 2026-10-31 14:51 UTC_
+_1785 guides written so far · last update 2026-10-31 14:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [darkareaminaret/MetaTrader-5-Bot](https://github.com/darkareaminaret/MetaTrader-5-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/darkareaminaret/metatrader-5-bot.md) |
 | [redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026](https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/redjellyfishrampart/bunny-hop-script-auto-bhop-movement-tool-2026.md) |
 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | PowerShell project | Runs in the browser with a free account | [guide](guides/arjun-ingole/hop.md) |
 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | React app | Runs in a browser tab, no account needed | [guide](guides/deepseek-ai/dsh-superagent-prototype.md) |
@@ -38,7 +39,6 @@ _1784 guides written so far · last update 2026-10-31 14:51 UTC_
 | [CatbirdStaple/CCleaner-Pro](https://github.com/CatbirdStaple/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/catbirdstaple/ccleaner-pro.md) |
 | [EnchanterEmancipate/SoundPad](https://github.com/EnchanterEmancipate/SoundPad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchanteremancipate/soundpad.md) |
 | [Sac-Y/match-cut](https://github.com/Sac-Y/match-cut) | Python project | Runs in the browser with a free account | [guide](guides/sac-y/match-cut.md) |
-| [lokyfordev/pulse-toolkit](https://github.com/lokyfordev/pulse-toolkit) | PowerShell project | Runs in the browser with a free account | [guide](guides/lokyfordev/pulse-toolkit.md) |
 <!-- latest:end -->
 
 ## How it works

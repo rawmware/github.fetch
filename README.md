@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1772 guides written so far · last update 2026-10-31 08:48 UTC_
+_1773 guides written so far · last update 2026-10-31 08:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lokyfordev/pulse-toolkit](https://github.com/lokyfordev/pulse-toolkit) | PowerShell project | Runs in the browser with a free account | [guide](guides/lokyfordev/pulse-toolkit.md) |
 | [nguyenthetri2k1/aether-hub](https://github.com/nguyenthetri2k1/aether-hub) | Lua project | Runs in the browser with a free account | [guide](guides/nguyenthetri2k1/aether-hub.md) |
 | [J-Vinicius/nova-ui](https://github.com/J-Vinicius/nova-ui) | Lua project | Runs in the browser with a free account | [guide](guides/j-vinicius/nova-ui.md) |
 | [CrossCommissioner/CrystalDiskMark-Portable](https://github.com/CrossCommissioner/CrystalDiskMark-Portable) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/crosscommissioner/crystaldiskmark-portable.md) |
@@ -38,7 +39,6 @@ _1772 guides written so far · last update 2026-10-31 08:48 UTC_
 | [Gravellyabarrow/DVD-Creator](https://github.com/Gravellyabarrow/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravellyabarrow/dvd-creator.md) |
 | [ClipTerrapin48/RX-11-Audio-Editor](https://github.com/ClipTerrapin48/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipterrapin48/rx-11-audio-editor.md) |
 | [ProsecutorHatchet/Movavi-Converter](https://github.com/ProsecutorHatchet/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorhatchet/movavi-converter.md) |
-| [BufferSwordsmanTent/BloxShade-for-Roblox](https://github.com/BufferSwordsmanTent/BloxShade-for-Roblox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bufferswordsmantent/bloxshade-for-roblox.md) |
 <!-- latest:end -->
 
 ## How it works

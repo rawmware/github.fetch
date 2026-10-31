@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1758 guides written so far · last update 2026-10-31 02:31 UTC_
+_1759 guides written so far · last update 2026-10-31 02:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ScorpionSplit/Movavi-Video-Suite-Plus](https://github.com/ScorpionSplit/Movavi-Video-Suite-Plus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scorpionsplit/movavi-video-suite-plus.md) |
 | [rubenhassid1/remake](https://github.com/rubenhassid1/remake) | Node command-line tool | Runs in the browser with a free account | [guide](guides/rubenhassid1/remake.md) |
 | [gminustwo/msr2ds](https://github.com/gminustwo/msr2ds) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gminustwo/msr2ds.md) |
 | [ramenvr/autopilot](https://github.com/ramenvr/autopilot) | Python project | Runs in the browser with a free account | [guide](guides/ramenvr/autopilot.md) |
@@ -38,7 +39,6 @@ _1758 guides written so far · last update 2026-10-31 02:31 UTC_
 | [EntranceStarfish/VoiceStudioV2](https://github.com/EntranceStarfish/VoiceStudioV2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/entrancestarfish/voicestudiov2.md) |
 | [dbreunig/nesformer](https://github.com/dbreunig/nesformer) | Python project | Runs in the browser with a free account | [guide](guides/dbreunig/nesformer.md) |
 | [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/boardshogunfluctuate/capri-ai.md) |
-| [QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026](https://github.com/QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026) | Python project | Runs in the browser with a free account | [guide](guides/quantumbladesmith/fps-optimizer-universal-game-performance-booster-2026.md) |
 <!-- latest:end -->
 
 ## How it works

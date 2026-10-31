@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1763 guides written so far · last update 2026-10-31 02:31 UTC_
+_1764 guides written so far · last update 2026-10-31 02:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Gravellyabarrow/DVD-Creator](https://github.com/Gravellyabarrow/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravellyabarrow/dvd-creator.md) |
 | [ClipTerrapin48/RX-11-Audio-Editor](https://github.com/ClipTerrapin48/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipterrapin48/rx-11-audio-editor.md) |
 | [ProsecutorHatchet/Movavi-Converter](https://github.com/ProsecutorHatchet/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorhatchet/movavi-converter.md) |
 | [BufferSwordsmanTent/BloxShade-for-Roblox](https://github.com/BufferSwordsmanTent/BloxShade-for-Roblox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bufferswordsmantent/bloxshade-for-roblox.md) |
@@ -38,7 +39,6 @@ _1763 guides written so far · last update 2026-10-31 02:31 UTC_
 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | Python project | Runs in the browser with a free account | [guide](guides/n1neman/sapper-v2.md) |
 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | JavaScript project | Runs in the browser with a free account | [guide](guides/pluviobyte/douyin-comments.md) |
 | [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gothamor/gta-vcs-recomp.md) |
-| [Prophetlab/Investor-Last-Exam](https://github.com/Prophetlab/Investor-Last-Exam) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/prophetlab/investor-last-exam.md) |
 <!-- latest:end -->
 
 ## How it works

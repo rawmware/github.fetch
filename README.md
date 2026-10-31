@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1770 guides written so far · last update 2026-10-31 08:48 UTC_
+_1771 guides written so far · last update 2026-10-31 08:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [J-Vinicius/nova-ui](https://github.com/J-Vinicius/nova-ui) | Lua project | Runs in the browser with a free account | [guide](guides/j-vinicius/nova-ui.md) |
 | [CrossCommissioner/CrystalDiskMark-Portable](https://github.com/CrossCommissioner/CrystalDiskMark-Portable) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/crosscommissioner/crystaldiskmark-portable.md) |
 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | JavaScript project | Runs in the browser with a free account | [guide](guides/elvarofficial/teardown.md) |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | JavaScript project | Runs in the browser with a free account | [guide](guides/op7418/dsh-guizang-design.md) |
@@ -38,7 +39,6 @@ _1770 guides written so far · last update 2026-10-31 08:48 UTC_
 | [ProsecutorHatchet/Movavi-Converter](https://github.com/ProsecutorHatchet/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorhatchet/movavi-converter.md) |
 | [BufferSwordsmanTent/BloxShade-for-Roblox](https://github.com/BufferSwordsmanTent/BloxShade-for-Roblox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bufferswordsmantent/bloxshade-for-roblox.md) |
 | [InertiaSteamDisclose/StartAll-Back](https://github.com/InertiaSteamDisclose/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inertiasteamdisclose/startall-back.md) |
-| [ScorpionSplit/Movavi-Video-Suite-Plus](https://github.com/ScorpionSplit/Movavi-Video-Suite-Plus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scorpionsplit/movavi-video-suite-plus.md) |
 <!-- latest:end -->
 
 ## How it works

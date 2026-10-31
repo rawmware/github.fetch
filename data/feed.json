@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T02:31:08.615Z",
- "totalGuides": 1761,
+ "updatedAt": "2026-10-31T02:31:08.798Z",
+ "totalGuides": 1762,
  "items": [
+  {
+   "fullName": "ProsecutorHatchet/Movavi-Converter",
+   "owner": "ProsecutorHatchet",
+   "name": "Movavi-Converter",
+   "url": "https://github.com/ProsecutorHatchet/Movavi-Converter",
+   "avatar": "https://avatars.githubusercontent.com/u/292564948?v=4",
+   "description": "Complete Movavi Converter 2026 standalone setup, ready for immediate installation and use.",
+   "language": null,
+   "topics": [
+    "automation",
+    "chroma-key-windows-editor",
+    "desktop",
+    "developer-tools",
+    "media-management-windows-system",
+    "movavi-suite-audio-editing",
+    "movavi-suite-screen-recording",
+    "movavi-suite-voiceover-feature"
+   ],
+   "license": null,
+   "stars": 100,
+   "forks": 0,
+   "createdAt": "2026-10-30T17:25:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T02:31:08.797Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ProsecutorHatchet/Movavi-Converter",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ProsecutorHatchet/Movavi-Converter/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ProsecutorHatchet/Movavi-Converter\nWhat it says it does: \"Complete Movavi Converter 2026 standalone setup, ready for immediate installation and use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T02:31:08.797Z"
+  },
   {
    "fullName": "BufferSwordsmanTent/BloxShade-for-Roblox",
    "owner": "BufferSwordsmanTent",
@@ -32218,81 +32275,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ios151/One-releases\nWhat it says it does: \"One 的安装包发布页（只发布 IPA，不含源码）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T07:21:21.204Z"
-  },
-  {
-   "fullName": "Wunsch2048/codex-bailong-desktop-pet",
-   "owner": "Wunsch2048",
-   "name": "codex-bailong-desktop-pet",
-   "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet",
-   "avatar": "https://avatars.githubusercontent.com/u/341795098?v=4",
-   "description": "Codex&GPT桌宠数据中心 | 你桌面的龙娘小助手：任务状态、完成提醒、额度与Token日报。",
-   "language": "Python",
-   "topics": [
-    "bailong",
-    "codex",
-    "desktop-assistant",
-    "desktop-pet",
-    "pyside6",
-    "token-usage",
-    "windows"
-   ],
-   "license": null,
-   "stars": 65,
-   "forks": 2,
-   "createdAt": "2026-10-21T04:17:15Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T07:21:20.988Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Wunsch2048/codex-bailong-desktop-pet/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Wunsch2048/codex-bailong-desktop-pet?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Wunsch2048/codex-bailong-desktop-pet",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Wunsch2048/codex-bailong-desktop-pet.git\ncd codex-bailong-desktop-pet",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Wunsch2048/codex-bailong-desktop-pet\nWhat it says it does: \"Codex&GPT桌宠数据中心 | 你桌面的龙娘小助手：任务状态、完成提醒、额度与Token日报。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T07:21:20.988Z"
   }
  ],
  "levels": {
-  "read": 128,
-  "account": 243,
+  "read": 129,
+  "account": 242,
   "heavy": 72,
   "instant": 57
  }

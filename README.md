@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1761 guides written so far · last update 2026-10-31 02:31 UTC_
+_1762 guides written so far · last update 2026-10-31 02:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ProsecutorHatchet/Movavi-Converter](https://github.com/ProsecutorHatchet/Movavi-Converter) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorhatchet/movavi-converter.md) |
 | [BufferSwordsmanTent/BloxShade-for-Roblox](https://github.com/BufferSwordsmanTent/BloxShade-for-Roblox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bufferswordsmantent/bloxshade-for-roblox.md) |
 | [InertiaSteamDisclose/StartAll-Back](https://github.com/InertiaSteamDisclose/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inertiasteamdisclose/startall-back.md) |
 | [ScorpionSplit/Movavi-Video-Suite-Plus](https://github.com/ScorpionSplit/Movavi-Video-Suite-Plus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scorpionsplit/movavi-video-suite-plus.md) |
@@ -38,7 +39,6 @@ _1761 guides written so far · last update 2026-10-31 02:31 UTC_
 | [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gothamor/gta-vcs-recomp.md) |
 | [Prophetlab/Investor-Last-Exam](https://github.com/Prophetlab/Investor-Last-Exam) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/prophetlab/investor-last-exam.md) |
 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | JavaScript project | Runs in the browser with a free account | [guide](guides/niazmorshed2007/reanimate.md) |
-| [EntranceStarfish/VoiceStudioV2](https://github.com/EntranceStarfish/VoiceStudioV2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/entrancestarfish/voicestudiov2.md) |
 <!-- latest:end -->
 
 ## How it works

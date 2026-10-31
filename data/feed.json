@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T02:31:08.465Z",
- "totalGuides": 1760,
+ "updatedAt": "2026-10-31T02:31:08.615Z",
+ "totalGuides": 1761,
  "items": [
+  {
+   "fullName": "BufferSwordsmanTent/BloxShade-for-Roblox",
+   "owner": "BufferSwordsmanTent",
+   "name": "BloxShade-for-Roblox",
+   "url": "https://github.com/BufferSwordsmanTent/BloxShade-for-Roblox",
+   "avatar": "https://avatars.githubusercontent.com/u/292564598?v=4",
+   "description": "Complete standalone setup for Bloxshade For Roblox 2026. Pre-activated desktop edition ready to run with all features.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts",
+    "software-engineering",
+    "system"
+   ],
+   "license": null,
+   "stars": 100,
+   "forks": 0,
+   "createdAt": "2026-10-30T17:21:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T02:31:08.614Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/BufferSwordsmanTent/BloxShade-for-Roblox",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/BufferSwordsmanTent/BloxShade-for-Roblox/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/BufferSwordsmanTent/BloxShade-for-Roblox\nWhat it says it does: \"Complete standalone setup for Bloxshade For Roblox 2026. Pre-activated desktop edition ready to run with all features.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T02:31:08.614Z"
+  },
   {
    "fullName": "InertiaSteamDisclose/StartAll-Back",
    "owner": "InertiaSteamDisclose",
@@ -32231,63 +32288,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Wunsch2048/codex-bailong-desktop-pet\nWhat it says it does: \"Codex&GPT桌宠数据中心 | 你桌面的龙娘小助手：任务状态、完成提醒、额度与Token日报。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T07:21:20.988Z"
-  },
-  {
-   "fullName": "DLSS5-Swapper-2026-Download/.github",
-   "owner": "DLSS5-Swapper-2026-Download",
-   "name": ".github",
-   "url": "https://github.com/DLSS5-Swapper-2026-Download/.github",
-   "avatar": "https://avatars.githubusercontent.com/u/346624957?v=4",
-   "description": "DLSS 5 Swapper is a graphics-oriented utility for users who want to manage supported rendering components and experiment with compatible game configurations.",
-   "language": null,
-   "topics": [
-    "dlss-5",
-    "dlss-5-game",
-    "dlss-5-games",
-    "dlss-5-swapper",
-    "dlss-5-swapper-windows-download",
-    "dlss-swapper",
-    "dlss-swapper-download",
-    "dlss5"
-   ],
-   "license": null,
-   "stars": 85,
-   "forks": 0,
-   "createdAt": "2026-10-22T23:23:07Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T07:21:20.766Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/DLSS5-Swapper-2026-Download/.github",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/DLSS5-Swapper-2026-Download/.github/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/DLSS5-Swapper-2026-Download/.github\nWhat it says it does: \"DLSS 5 Swapper is a graphics-oriented utility for users who want to manage supported rendering components and experiment with compatible game configurations.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T07:21:20.766Z"
   }
  ],
  "levels": {

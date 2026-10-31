@@ -1,8 +1,69 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T08:48:17.540Z",
- "totalGuides": 1771,
+ "updatedAt": "2026-10-31T08:48:17.759Z",
+ "totalGuides": 1772,
  "items": [
+  {
+   "fullName": "nguyenthetri2k1/aether-hub",
+   "owner": "nguyenthetri2k1",
+   "name": "aether-hub",
+   "url": "https://github.com/nguyenthetri2k1/aether-hub",
+   "avatar": "https://avatars.githubusercontent.com/u/92871783?v=4",
+   "description": "Published: 2026-10-31",
+   "language": "Lua",
+   "topics": [
+    "fps",
+    "gaming",
+    "racing",
+    "rpg",
+    "strategy"
+   ],
+   "license": "MIT",
+   "stars": 102,
+   "forks": 2,
+   "createdAt": "2026-10-31T02:39:33Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T08:48:17.759Z",
+   "stack": {
+    "kind": "other",
+    "label": "Lua project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/nguyenthetri2k1/aether-hub?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/nguyenthetri2k1/aether-hub",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/nguyenthetri2k1/aether-hub/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/nguyenthetri2k1/aether-hub.git\ncd aether-hub",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/nguyenthetri2k1/aether-hub\nWhat it says it does: \"Published: 2026-10-31\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T08:48:17.759Z"
+  },
   {
    "fullName": "J-Vinicius/nova-ui",
    "owner": "J-Vinicius",
@@ -32230,70 +32291,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/actionow-ai/vvv\nWhat it says it does: \"Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T12:49:21.657Z"
-  },
-  {
-   "fullName": "xevrion/hatchzip",
-   "owner": "xevrion",
-   "name": "hatchzip",
-   "url": "https://github.com/xevrion/hatchzip",
-   "avatar": "https://avatars.githubusercontent.com/u/77008538?v=4",
-   "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
-   "language": "Rust",
-   "topics": [
-    "7z",
-    "archive",
-    "cli",
-    "crash-safe",
-    "disk-space",
-    "extract",
-    "extractor",
-    "gui"
-   ],
-   "license": "Apache-2.0",
-   "stars": 310,
-   "forks": 8,
-   "createdAt": "2026-10-21T17:29:28Z",
-   "branch": "main",
-   "homepage": "https://xevrion.github.io/hatchzip/",
-   "addedAt": "2026-10-23T12:49:21.259Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/xevrion/hatchzip?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/xevrion/hatchzip",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/xevrion/hatchzip/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/xevrion/hatchzip.git\ncd hatchzip\ncargo build --release\ncargo run",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/xevrion/hatchzip\nWhat it says it does: \"Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T12:49:21.259Z"
   }
  ],
  "levels": {

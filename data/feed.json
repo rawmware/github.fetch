@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T08:48:18.653Z",
- "totalGuides": 1777,
+ "updatedAt": "2026-10-31T08:48:18.837Z",
+ "totalGuides": 1778,
  "items": [
+  {
+   "fullName": "playrealmmark/ABBYY-FineReader-PDF",
+   "owner": "playrealmmark",
+   "name": "ABBYY-FineReader-PDF",
+   "url": "https://github.com/playrealmmark/ABBYY-FineReader-PDF",
+   "avatar": "https://avatars.githubusercontent.com/u/292568992?v=4",
+   "description": "Abbyy Finereader Pdf 2026: Full working installer ready to run, with all features activated for immediate use on your desktop.",
+   "language": null,
+   "topics": [
+    "abbyy",
+    "abbyy-finereade",
+    "acrobat",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python"
+   ],
+   "license": null,
+   "stars": 101,
+   "forks": 0,
+   "createdAt": "2026-10-30T17:19:42Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T08:48:18.836Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/playrealmmark/ABBYY-FineReader-PDF",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/playrealmmark/ABBYY-FineReader-PDF/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/playrealmmark/ABBYY-FineReader-PDF\nWhat it says it does: \"Abbyy Finereader Pdf 2026: Full working installer ready to run, with all features activated for immediate use on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T08:48:18.836Z"
+  },
   {
    "fullName": "zzjcool/krd",
    "owner": "zzjcool",
@@ -32187,83 +32244,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/openmathmodel/open-math-harness\nWhat it says it does: \"The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T12:49:23.141Z"
-  },
-  {
-   "fullName": "Motphys/Uni-SuperMimic",
-   "owner": "Motphys",
-   "name": "Uni-SuperMimic",
-   "url": "https://github.com/Motphys/Uni-SuperMimic",
-   "avatar": "https://avatars.githubusercontent.com/u/161447780?v=4",
-   "description": "SuperMimic-UniLab: An Independent reproduction of SuperMimic on UniLab for whole-body humanoid motion tracking.",
-   "language": "Python",
-   "topics": [
-    "amd",
-    "macos",
-    "mjwarp",
-    "motrixsim",
-    "mujoco",
-    "rocm",
-    "supermimic",
-    "unilab"
-   ],
-   "license": "Apache-2.0",
-   "stars": 70,
-   "forks": 4,
-   "createdAt": "2026-10-22T09:06:45Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T12:49:22.957Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Motphys/Uni-SuperMimic/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Motphys/Uni-SuperMimic?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Motphys/Uni-SuperMimic",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Motphys/Uni-SuperMimic/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Motphys/Uni-SuperMimic.git\ncd Uni-SuperMimic\npip install -e .",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Motphys/Uni-SuperMimic\nWhat it says it does: \"SuperMimic-UniLab: An Independent reproduction of SuperMimic on UniLab for whole-body humanoid motion tracking.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T12:49:22.957Z"
   }
  ],
  "levels": {
+  "read": 133,
   "heavy": 71,
-  "read": 132,
-  "account": 241,
+  "account": 240,
   "instant": 56
  }
 }

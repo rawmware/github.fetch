@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1781 guides written so far · last update 2026-10-31 08:48 UTC_
+_1782 guides written so far · last update 2026-10-31 14:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | React app | Runs in a browser tab, no account needed | [guide](guides/deepseek-ai/dsh-superagent-prototype.md) |
 | [Stalkerbincover/Adobe-Acrobat-Pro](https://github.com/Stalkerbincover/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerbincover/adobe-acrobat-pro.md) |
 | [breezeswiftbasin/CapCut-for-Windows](https://github.com/breezeswiftbasin/CapCut-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breezeswiftbasin/capcut-for-windows.md) |
 | [trappenguinhammer/Adobe-Substance-3d](https://github.com/trappenguinhammer/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/trappenguinhammer/adobe-substance-3d.md) |
@@ -38,7 +39,6 @@ _1781 guides written so far · last update 2026-10-31 08:48 UTC_
 | [lokyfordev/pulse-toolkit](https://github.com/lokyfordev/pulse-toolkit) | PowerShell project | Runs in the browser with a free account | [guide](guides/lokyfordev/pulse-toolkit.md) |
 | [nguyenthetri2k1/aether-hub](https://github.com/nguyenthetri2k1/aether-hub) | Lua project | Runs in the browser with a free account | [guide](guides/nguyenthetri2k1/aether-hub.md) |
 | [J-Vinicius/nova-ui](https://github.com/J-Vinicius/nova-ui) | Lua project | Runs in the browser with a free account | [guide](guides/j-vinicius/nova-ui.md) |
-| [CrossCommissioner/CrystalDiskMark-Portable](https://github.com/CrossCommissioner/CrystalDiskMark-Portable) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/crosscommissioner/crystaldiskmark-portable.md) |
 <!-- latest:end -->
 
 ## How it works

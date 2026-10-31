@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1766 guides written so far · last update 2026-10-31 08:48 UTC_
+_1767 guides written so far · last update 2026-10-31 08:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Michael017801/Persona-Forge](https://github.com/Michael017801/Persona-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/michael017801/persona-forge.md) |
 | [phishdestroy/TgWitness](https://github.com/phishdestroy/TgWitness) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/phishdestroy/tgwitness.md) |
 | [TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026](https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/tinsmithconsole60/roblox-account-manager-multi-account-tool-2026.md) |
 | [Gravellyabarrow/DVD-Creator](https://github.com/Gravellyabarrow/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravellyabarrow/dvd-creator.md) |
@@ -38,7 +39,6 @@ _1766 guides written so far · last update 2026-10-31 08:48 UTC_
 | [rubenhassid1/remake](https://github.com/rubenhassid1/remake) | Node command-line tool | Runs in the browser with a free account | [guide](guides/rubenhassid1/remake.md) |
 | [gminustwo/msr2ds](https://github.com/gminustwo/msr2ds) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gminustwo/msr2ds.md) |
 | [ramenvr/autopilot](https://github.com/ramenvr/autopilot) | Python project | Runs in the browser with a free account | [guide](guides/ramenvr/autopilot.md) |
-| [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | Python project | Runs in the browser with a free account | [guide](guides/n1neman/sapper-v2.md) |
 <!-- latest:end -->
 
 ## How it works

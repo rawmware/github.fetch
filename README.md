@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1754 guides written so far · last update 2026-10-31 02:31 UTC_
+_1755 guides written so far · last update 2026-10-31 02:31 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | Python project | Runs in the browser with a free account | [guide](guides/n1neman/sapper-v2.md) |
 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | JavaScript project | Runs in the browser with a free account | [guide](guides/pluviobyte/douyin-comments.md) |
 | [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gothamor/gta-vcs-recomp.md) |
 | [Prophetlab/Investor-Last-Exam](https://github.com/Prophetlab/Investor-Last-Exam) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/prophetlab/investor-last-exam.md) |
@@ -38,7 +39,6 @@ _1754 guides written so far · last update 2026-10-31 02:31 UTC_
 | [fountainsurgeonboom/Cinema-4d](https://github.com/fountainsurgeonboom/Cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fountainsurgeonboom/cinema-4d.md) |
 | [ScoutSageDefeat/Wise-Registrity](https://github.com/ScoutSageDefeat/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/scoutsagedefeat/wise-registrity.md) |
 | [WainwrightDay/Wondshare-Recoverit](https://github.com/WainwrightDay/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wainwrightday/wondshare-recoverit.md) |
-| [AstralGrenadier/Cubase](https://github.com/AstralGrenadier/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralgrenadier/cubase.md) |
 <!-- latest:end -->
 
 ## How it works

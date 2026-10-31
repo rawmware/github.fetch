@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T14:51:04.557Z",
- "totalGuides": 1787,
+ "updatedAt": "2026-10-31T14:51:04.751Z",
+ "totalGuides": 1788,
  "items": [
+  {
+   "fullName": "wallvanquisherwharf/ON1-Photo-RAW-MAX",
+   "owner": "wallvanquisherwharf",
+   "name": "ON1-Photo-RAW-MAX",
+   "url": "https://github.com/wallvanquisherwharf/ON1-Photo-RAW-MAX",
+   "avatar": "https://avatars.githubusercontent.com/u/292572503?v=4",
+   "description": "Ready-to-run On1 Photo Raw Max 2026 desktop installation build with all features unlocked and ready to use.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "on1-photo",
+    "on1-photo-raw",
+    "on1-photo-raw-max",
+    "on1-photo-raw-max-2026",
+    "on1-photo-raw-max-download"
+   ],
+   "license": null,
+   "stars": 203,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:25:26Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T14:51:04.751Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/wallvanquisherwharf/ON1-Photo-RAW-MAX",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/wallvanquisherwharf/ON1-Photo-RAW-MAX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/wallvanquisherwharf/ON1-Photo-RAW-MAX\nWhat it says it does: \"Ready-to-run On1 Photo Raw Max 2026 desktop installation build with all features unlocked and ready to use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T14:51:04.751Z"
+  },
   {
    "fullName": "DistributorFollow23/Microsoft-365",
    "owner": "DistributorFollow23",
@@ -32175,63 +32232,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/mrcen3204097569-spec/lean-electron-vue\nWhat it says it does: \"轻量的 Electron + Vite + Vue 3 + TypeScript 桌面应用模板，不依赖第三方集成插件 | A lean Electron + Vite + Vue 3 + TS desktop app template\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T17:50:13.645Z"
-  },
-  {
-   "fullName": "verity-mods/verity-enhanced",
-   "owner": "verity-mods",
-   "name": "verity-enhanced",
-   "url": "https://github.com/verity-mods/verity-enhanced",
-   "avatar": "https://avatars.githubusercontent.com/u/346915291?v=4",
-   "description": "Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11",
-   "language": null,
-   "topics": [
-    "ai",
-    "forge",
-    "horror",
-    "minecraft",
-    "minecraft-horror",
-    "minecraft-mod",
-    "minecraft-mod-2026",
-    "minecraft-mod-verity"
-   ],
-   "license": "MIT",
-   "stars": 100,
-   "forks": 0,
-   "createdAt": "2026-10-23T13:18:04Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T17:50:13.265Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/verity-mods/verity-enhanced",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/verity-mods/verity-enhanced/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/verity-mods/verity-enhanced\nWhat it says it does: \"Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T17:50:13.265Z"
   }
  ],
  "levels": {

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1783 guides written so far · last update 2026-10-31 14:51 UTC_
+_1784 guides written so far · last update 2026-10-31 14:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026](https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/redjellyfishrampart/bunny-hop-script-auto-bhop-movement-tool-2026.md) |
 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | PowerShell project | Runs in the browser with a free account | [guide](guides/arjun-ingole/hop.md) |
 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | React app | Runs in a browser tab, no account needed | [guide](guides/deepseek-ai/dsh-superagent-prototype.md) |
 | [Stalkerbincover/Adobe-Acrobat-Pro](https://github.com/Stalkerbincover/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerbincover/adobe-acrobat-pro.md) |
@@ -38,7 +39,6 @@ _1783 guides written so far · last update 2026-10-31 14:51 UTC_
 | [EnchanterEmancipate/SoundPad](https://github.com/EnchanterEmancipate/SoundPad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchanteremancipate/soundpad.md) |
 | [Sac-Y/match-cut](https://github.com/Sac-Y/match-cut) | Python project | Runs in the browser with a free account | [guide](guides/sac-y/match-cut.md) |
 | [lokyfordev/pulse-toolkit](https://github.com/lokyfordev/pulse-toolkit) | PowerShell project | Runs in the browser with a free account | [guide](guides/lokyfordev/pulse-toolkit.md) |
-| [nguyenthetri2k1/aether-hub](https://github.com/nguyenthetri2k1/aether-hub) | Lua project | Runs in the browser with a free account | [guide](guides/nguyenthetri2k1/aether-hub.md) |
 <!-- latest:end -->
 
 ## How it works

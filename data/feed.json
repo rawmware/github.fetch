@@ -1,8 +1,78 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T14:51:03.804Z",
- "totalGuides": 1783,
+ "updatedAt": "2026-10-31T14:51:03.986Z",
+ "totalGuides": 1784,
  "items": [
+  {
+   "fullName": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+   "owner": "redjellyfishrampart",
+   "name": "Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+   "url": "https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+   "avatar": "https://avatars.githubusercontent.com/u/341863787?v=4",
+   "description": "Advanced Bunny Hop script with smooth auto-bhop and movement assistance. Fully configurable, clean interface, easy setup. Regularly updated.",
+   "language": "Python",
+   "topics": [
+    "2026",
+    "bhop",
+    "bunny-hop",
+    "configuration",
+    "movement-script",
+    "open-source",
+    "script"
+   ],
+   "license": "MIT",
+   "stars": 300,
+   "forks": 41,
+   "createdAt": "2026-10-31T11:19:19Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T14:51:03.984Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026.git\ncd Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026\npython main.py",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026\nWhat it says it does: \"Advanced Bunny Hop script with smooth auto-bhop and movement assistance. Fully configurable, clean interface, easy setup. Regularly updated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T14:51:03.984Z"
+  },
   {
    "fullName": "Arjun-Ingole/hop",
    "owner": "Arjun-Ingole",
@@ -32167,69 +32237,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/sit-in/awesome-grokbot-playbooks\nWhat it says it does: \"中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T12:49:24.881Z"
-  },
-  {
-   "fullName": "nace-ai/kapitsa",
-   "owner": "nace-ai",
-   "name": "kapitsa",
-   "url": "https://github.com/nace-ai/kapitsa",
-   "avatar": "https://avatars.githubusercontent.com/u/167709996?v=4",
-   "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
-   "language": "C++",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 373,
-   "forks": 55,
-   "createdAt": "2026-10-16T00:41:59Z",
-   "branch": "main",
-   "homepage": "https://x.com/kapitsaserve",
-   "addedAt": "2026-10-23T12:49:24.655Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/nace-ai/kapitsa?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/nace-ai/kapitsa",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/nace-ai/kapitsa/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/nace-ai/kapitsa.git\ncd kapitsa",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/nace-ai/kapitsa\nWhat it says it does: \"Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T12:49:24.655Z"
   }
  ],
  "levels": {
-  "account": 239,
+  "account": 240,
   "instant": 56,
   "read": 136,
-  "heavy": 69
+  "heavy": 68
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1778 guides written so far · last update 2026-10-31 08:48 UTC_
+_1779 guides written so far · last update 2026-10-31 08:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [trappenguinhammer/Adobe-Substance-3d](https://github.com/trappenguinhammer/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/trappenguinhammer/adobe-substance-3d.md) |
 | [playrealmmark/ABBYY-FineReader-PDF](https://github.com/playrealmmark/ABBYY-FineReader-PDF) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/playrealmmark/abbyy-finereader-pdf.md) |
 | [zzjcool/krd](https://github.com/zzjcool/krd) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zzjcool/krd.md) |
 | [CatbirdStaple/CCleaner-Pro](https://github.com/CatbirdStaple/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/catbirdstaple/ccleaner-pro.md) |
@@ -38,7 +39,6 @@ _1778 guides written so far · last update 2026-10-31 08:48 UTC_
 | [CrossCommissioner/CrystalDiskMark-Portable](https://github.com/CrossCommissioner/CrystalDiskMark-Portable) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/crosscommissioner/crystaldiskmark-portable.md) |
 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | JavaScript project | Runs in the browser with a free account | [guide](guides/elvarofficial/teardown.md) |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | JavaScript project | Runs in the browser with a free account | [guide](guides/op7418/dsh-guizang-design.md) |
-| [Michael017801/Persona-Forge](https://github.com/Michael017801/Persona-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/michael017801/persona-forge.md) |
 <!-- latest:end -->
 
 ## How it works

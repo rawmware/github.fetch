@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1776 guides written so far · last update 2026-10-31 08:48 UTC_
+_1777 guides written so far · last update 2026-10-31 08:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zzjcool/krd](https://github.com/zzjcool/krd) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/zzjcool/krd.md) |
 | [CatbirdStaple/CCleaner-Pro](https://github.com/CatbirdStaple/CCleaner-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/catbirdstaple/ccleaner-pro.md) |
 | [EnchanterEmancipate/SoundPad](https://github.com/EnchanterEmancipate/SoundPad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchanteremancipate/soundpad.md) |
 | [Sac-Y/match-cut](https://github.com/Sac-Y/match-cut) | Python project | Runs in the browser with a free account | [guide](guides/sac-y/match-cut.md) |
@@ -38,7 +39,6 @@ _1776 guides written so far · last update 2026-10-31 08:48 UTC_
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | JavaScript project | Runs in the browser with a free account | [guide](guides/op7418/dsh-guizang-design.md) |
 | [Michael017801/Persona-Forge](https://github.com/Michael017801/Persona-Forge) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/michael017801/persona-forge.md) |
 | [phishdestroy/TgWitness](https://github.com/phishdestroy/TgWitness) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/phishdestroy/tgwitness.md) |
-| [TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026](https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/tinsmithconsole60/roblox-account-manager-multi-account-tool-2026.md) |
 <!-- latest:end -->
 
 ## How it works

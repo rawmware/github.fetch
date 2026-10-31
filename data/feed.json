@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T14:51:04.928Z",
- "totalGuides": 1789,
+ "updatedAt": "2026-10-31T14:51:05.135Z",
+ "totalGuides": 1790,
  "items": [
+  {
+   "fullName": "SheetLovebirdSpanner/ExitLag",
+   "owner": "SheetLovebirdSpanner",
+   "name": "ExitLag",
+   "url": "https://github.com/SheetLovebirdSpanner/ExitLag",
+   "avatar": "https://avatars.githubusercontent.com/u/292573964?v=4",
+   "description": "Exitlag 2026: Full working installer with optimized settings for seamless desktop performance.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "exit-lag-exploit",
+    "exit-lag-free-2026",
+    "exitlag-2026-download",
+    "exitlag-2026-hack",
+    "exitlag-abuse"
+   ],
+   "license": null,
+   "stars": 203,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:22:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T14:51:05.134Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/SheetLovebirdSpanner/ExitLag",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/SheetLovebirdSpanner/ExitLag/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/SheetLovebirdSpanner/ExitLag\nWhat it says it does: \"Exitlag 2026: Full working installer with optimized settings for seamless desktop performance.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T14:51:05.134Z"
+  },
   {
    "fullName": "Astralbyretake/Microsoft-Office",
    "owner": "Astralbyretake",
@@ -32139,78 +32196,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Folkbench/folkbench\nWhat it says it does: \"AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T17:50:14.245Z"
-  },
-  {
-   "fullName": "stencil-hq/dquickts",
-   "owner": "stencil-hq",
-   "name": "dquickts",
-   "url": "https://github.com/stencil-hq/dquickts",
-   "avatar": "https://avatars.githubusercontent.com/u/290938359?v=4",
-   "description": "QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.",
-   "language": "C",
-   "topics": [
-    "c",
-    "durable-execution",
-    "embeddable",
-    "hibernation",
-    "interpreter",
-    "javascript",
-    "javascript-engine",
-    "quickjs"
-   ],
-   "license": null,
-   "stars": 279,
-   "forks": 2,
-   "createdAt": "2026-10-19T12:06:42Z",
-   "branch": "master",
-   "homepage": null,
-   "addedAt": "2026-10-23T17:50:13.897Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/stencil-hq/dquickts?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/stencil-hq/dquickts",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/stencil-hq/dquickts/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/stencil-hq/dquickts.git\ncd dquickts",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/stencil-hq/dquickts\nWhat it says it does: \"QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T17:50:13.897Z"
   }
  ],
  "levels": {
-  "read": 140,
+  "read": 141,
   "account": 237,
   "instant": 56,
-  "heavy": 67
+  "heavy": 66
  }
 }

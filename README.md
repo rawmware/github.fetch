@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1789 guides written so far · last update 2026-10-31 14:51 UTC_
+_1790 guides written so far · last update 2026-10-31 14:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SheetLovebirdSpanner/ExitLag](https://github.com/SheetLovebirdSpanner/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sheetlovebirdspanner/exitlag.md) |
 | [Astralbyretake/Microsoft-Office](https://github.com/Astralbyretake/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralbyretake/microsoft-office.md) |
 | [wallvanquisherwharf/ON1-Photo-RAW-MAX](https://github.com/wallvanquisherwharf/ON1-Photo-RAW-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wallvanquisherwharf/on1-photo-raw-max.md) |
 | [DistributorFollow23/Microsoft-365](https://github.com/DistributorFollow23/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorfollow23/microsoft-365.md) |
@@ -38,7 +39,6 @@ _1789 guides written so far · last update 2026-10-31 14:51 UTC_
 | [Stalkerbincover/Adobe-Acrobat-Pro](https://github.com/Stalkerbincover/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerbincover/adobe-acrobat-pro.md) |
 | [breezeswiftbasin/CapCut-for-Windows](https://github.com/breezeswiftbasin/CapCut-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breezeswiftbasin/capcut-for-windows.md) |
 | [trappenguinhammer/Adobe-Substance-3d](https://github.com/trappenguinhammer/Adobe-Substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/trappenguinhammer/adobe-substance-3d.md) |
-| [playrealmmark/ABBYY-FineReader-PDF](https://github.com/playrealmmark/ABBYY-FineReader-PDF) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/playrealmmark/abbyy-finereader-pdf.md) |
 <!-- latest:end -->
 
 ## How it works

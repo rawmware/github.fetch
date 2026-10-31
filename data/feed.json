@@ -1,8 +1,83 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T08:48:16.319Z",
- "totalGuides": 1765,
+ "updatedAt": "2026-10-31T08:48:16.564Z",
+ "totalGuides": 1766,
  "items": [
+  {
+   "fullName": "phishdestroy/TgWitness",
+   "owner": "phishdestroy",
+   "name": "TgWitness",
+   "url": "https://github.com/phishdestroy/TgWitness",
+   "avatar": "https://avatars.githubusercontent.com/u/208413058?v=4",
+   "description": "Open-source Telegram chat exporter, deleted & edited message logger, and OSINT forensics archiver. Save chat history, capture deleted messages, compare edit versions, and export signed HTML/JSON/CSV evidence.",
+   "language": "Python",
+   "topics": [
+    "dfir",
+    "digital-forensics",
+    "evidence",
+    "forensics",
+    "message-history",
+    "osint",
+    "osint-tools",
+    "tdata"
+   ],
+   "license": "MIT",
+   "stars": 160,
+   "forks": 0,
+   "createdAt": "2026-10-29T20:06:18Z",
+   "branch": "main",
+   "homepage": "https://phishdestroy.github.io/TgWitness/",
+   "addedAt": "2026-10-31T08:48:16.563Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python FastAPI app",
+    "frameworks": [
+     "FastAPI"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/phishdestroy/TgWitness/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/phishdestroy/TgWitness?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/phishdestroy/TgWitness",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/phishdestroy/TgWitness/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [
+    "Has a FastAPI web interface: when it starts, Codespaces pops up a link to open it in a new tab."
+   ],
+   "local": "git clone --depth 1 https://github.com/phishdestroy/TgWitness.git\ncd TgWitness\npip install -e .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/phishdestroy/TgWitness\nWhat it says it does: \"Open-source Telegram chat exporter, deleted & edited message logger, and OSINT forensics archiver. Save chat history, capture deleted messages, compare edit versions, and export signed HTML/JSON/CSV evidence.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T08:48:16.563Z"
+  },
   {
    "fullName": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
    "owner": "TinsmithConsole60",
@@ -32187,77 +32262,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/leontdi/marco-familiar-dashboard\nWhat it says it does: \"Marco de fotos convertido en panel familiar de pared: calendario iCal, turnos, tareas de los niños, compra, luz y Home Assistant. Basado en Planify-Dashboard de eusonlito.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T07:21:22.229Z"
-  },
-  {
-   "fullName": "UCYBERS/PhoneHackScan",
-   "owner": "UCYBERS",
-   "name": "PhoneHackScan",
-   "url": "https://github.com/UCYBERS/PhoneHackScan",
-   "avatar": "https://avatars.githubusercontent.com/u/90274068?v=4",
-   "description": "Android & iPhone intrusion check",
-   "language": "Python",
-   "topics": [
-    "android",
-    "androidqf",
-    "cybersecurity",
-    "intrusion-detection",
-    "ios",
-    "iphone",
-    "malware-detection",
-    "mobile-forensics"
-   ],
-   "license": "GPL-3.0",
-   "stars": 59,
-   "forks": 4,
-   "createdAt": "2026-10-21T18:35:37Z",
-   "branch": "master",
-   "homepage": "https://ucybers.com/",
-   "addedAt": "2026-10-23T07:21:22.026Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/UCYBERS/PhoneHackScan/master",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/UCYBERS/PhoneHackScan?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/UCYBERS/PhoneHackScan",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/UCYBERS/PhoneHackScan/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/UCYBERS/PhoneHackScan.git\ncd PhoneHackScan",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/UCYBERS/PhoneHackScan\nWhat it says it does: \"Android & iPhone intrusion check\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T07:21:22.026Z"
   }
  ],
  "levels": {

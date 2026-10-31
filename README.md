@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1765 guides written so far · last update 2026-10-31 08:48 UTC_
+_1766 guides written so far · last update 2026-10-31 08:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [phishdestroy/TgWitness](https://github.com/phishdestroy/TgWitness) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/phishdestroy/tgwitness.md) |
 | [TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026](https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026) | Python project | Runs in the browser with a free account | [guide](guides/tinsmithconsole60/roblox-account-manager-multi-account-tool-2026.md) |
 | [Gravellyabarrow/DVD-Creator](https://github.com/Gravellyabarrow/DVD-Creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravellyabarrow/dvd-creator.md) |
 | [ClipTerrapin48/RX-11-Audio-Editor](https://github.com/ClipTerrapin48/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipterrapin48/rx-11-audio-editor.md) |
@@ -38,7 +39,6 @@ _1765 guides written so far · last update 2026-10-31 08:48 UTC_
 | [gminustwo/msr2ds](https://github.com/gminustwo/msr2ds) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/gminustwo/msr2ds.md) |
 | [ramenvr/autopilot](https://github.com/ramenvr/autopilot) | Python project | Runs in the browser with a free account | [guide](guides/ramenvr/autopilot.md) |
 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | Python project | Runs in the browser with a free account | [guide](guides/n1neman/sapper-v2.md) |
-| [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | JavaScript project | Runs in the browser with a free account | [guide](guides/pluviobyte/douyin-comments.md) |
 <!-- latest:end -->
 
 ## How it works

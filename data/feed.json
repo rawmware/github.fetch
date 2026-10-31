@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T14:51:04.362Z",
- "totalGuides": 1786,
+ "updatedAt": "2026-10-31T14:51:04.557Z",
+ "totalGuides": 1787,
  "items": [
+  {
+   "fullName": "DistributorFollow23/Microsoft-365",
+   "owner": "DistributorFollow23",
+   "name": "Microsoft-365",
+   "url": "https://github.com/DistributorFollow23/Microsoft-365",
+   "avatar": "https://avatars.githubusercontent.com/u/292572725?v=4",
+   "description": "Microsoft 365 Utilities Pack 2024 - Full working installer with essential tools for managing Microsoft services on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "developer-tools",
+    "excel-automation",
+    "libreoffice-extension",
+    "microsoft-excel-advanced",
+    "microsoft-keys",
+    "microsoft-office",
+    "microsoft-suite"
+   ],
+   "license": null,
+   "stars": 204,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:24:32Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T14:51:04.556Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/DistributorFollow23/Microsoft-365",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/DistributorFollow23/Microsoft-365/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/DistributorFollow23/Microsoft-365\nWhat it says it does: \"Microsoft 365 Utilities Pack 2024 - Full working installer with essential tools for managing Microsoft services on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T14:51:04.556Z"
+  },
   {
    "fullName": "mythicassemblyladle/RX-11-Audio-Editor",
    "owner": "mythicassemblyladle",
@@ -32175,69 +32232,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/verity-mods/verity-enhanced\nWhat it says it does: \"Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T17:50:13.265Z"
-  },
-  {
-   "fullName": "EgorBo/BlazingFastDotnet",
-   "owner": "EgorBo",
-   "name": "BlazingFastDotnet",
-   "url": "https://github.com/EgorBo/BlazingFastDotnet",
-   "avatar": "https://avatars.githubusercontent.com/u/523221?v=4",
-   "description": "Tips & tricks to tune .NET workloads for better perf (mostly, targeting benchmarks).",
-   "language": "C#",
-   "topics": [],
-   "license": null,
-   "stars": 102,
-   "forks": 2,
-   "createdAt": "2026-10-23T11:27:08Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T17:50:12.991Z",
-   "stack": {
-    "kind": "native",
-    "label": "C# project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/EgorBo/BlazingFastDotnet?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/EgorBo/BlazingFastDotnet",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/EgorBo/BlazingFastDotnet/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C# usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/EgorBo/BlazingFastDotnet.git\ncd BlazingFastDotnet",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/EgorBo/BlazingFastDotnet\nWhat it says it does: \"Tips & tricks to tune .NET workloads for better perf (mostly, targeting benchmarks).\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T17:50:12.991Z"
   }
  ],
  "levels": {
-  "read": 138,
+  "read": 139,
   "account": 238,
   "instant": 56,
-  "heavy": 68
+  "heavy": 67
  }
 }

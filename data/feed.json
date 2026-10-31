@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T14:51:03.549Z",
- "totalGuides": 1782,
+ "updatedAt": "2026-10-31T14:51:03.804Z",
+ "totalGuides": 1783,
  "items": [
+  {
+   "fullName": "Arjun-Ingole/hop",
+   "owner": "Arjun-Ingole",
+   "name": "hop",
+   "url": "https://github.com/Arjun-Ingole/hop",
+   "avatar": "https://avatars.githubusercontent.com/u/80504466?v=4",
+   "description": "Install Linux next to Windows without a USB stick",
+   "language": "PowerShell",
+   "topics": [],
+   "license": "MIT",
+   "stars": 346,
+   "forks": 10,
+   "createdAt": "2026-10-30T19:40:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T14:51:03.803Z",
+   "stack": {
+    "kind": "other",
+    "label": "PowerShell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Arjun-Ingole/hop?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Arjun-Ingole/hop",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Arjun-Ingole/hop/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Arjun-Ingole/hop.git\ncd hop",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Arjun-Ingole/hop\nWhat it says it does: \"Install Linux next to Windows without a USB stick\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T14:51:03.803Z"
+  },
   {
    "fullName": "deepseek-ai/dsh-superagent-prototype",
    "owner": "deepseek-ai",
@@ -32169,69 +32224,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/nace-ai/kapitsa\nWhat it says it does: \"Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-23T12:49:24.655Z"
-  },
-  {
-   "fullName": "mozihe/z-localization",
-   "owner": "mozihe",
-   "name": "z-localization",
-   "url": "https://github.com/mozihe/z-localization",
-   "avatar": "https://avatars.githubusercontent.com/u/144636029?v=4",
-   "description": "2026年 东北大学T-DT实验室 RoboMaster超级对抗赛 哨兵定位开源",
-   "language": "C++",
-   "topics": [],
-   "license": "GPL-2.0",
-   "stars": 61,
-   "forks": 7,
-   "createdAt": "2026-10-22T08:49:49Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-23T12:49:24.408Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/mozihe/z-localization?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/mozihe/z-localization",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/mozihe/z-localization/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/mozihe/z-localization.git\ncd z-localization",
-   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/mozihe/z-localization\nWhat it says it does: \"2026年 东北大学T-DT实验室 RoboMaster超级对抗赛 哨兵定位开源\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-23T12:49:24.408Z"
   }
  ],
  "levels": {
+  "account": 239,
   "instant": 56,
   "read": 136,
-  "heavy": 70,
-  "account": 238
+  "heavy": 69
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1782 guides written so far · last update 2026-10-31 14:51 UTC_
+_1783 guides written so far · last update 2026-10-31 14:51 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | PowerShell project | Runs in the browser with a free account | [guide](guides/arjun-ingole/hop.md) |
 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | React app | Runs in a browser tab, no account needed | [guide](guides/deepseek-ai/dsh-superagent-prototype.md) |
 | [Stalkerbincover/Adobe-Acrobat-Pro](https://github.com/Stalkerbincover/Adobe-Acrobat-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerbincover/adobe-acrobat-pro.md) |
 | [breezeswiftbasin/CapCut-for-Windows](https://github.com/breezeswiftbasin/CapCut-for-Windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breezeswiftbasin/capcut-for-windows.md) |
@@ -38,7 +39,6 @@ _1782 guides written so far · last update 2026-10-31 14:51 UTC_
 | [Sac-Y/match-cut](https://github.com/Sac-Y/match-cut) | Python project | Runs in the browser with a free account | [guide](guides/sac-y/match-cut.md) |
 | [lokyfordev/pulse-toolkit](https://github.com/lokyfordev/pulse-toolkit) | PowerShell project | Runs in the browser with a free account | [guide](guides/lokyfordev/pulse-toolkit.md) |
 | [nguyenthetri2k1/aether-hub](https://github.com/nguyenthetri2k1/aether-hub) | Lua project | Runs in the browser with a free account | [guide](guides/nguyenthetri2k1/aether-hub.md) |
-| [J-Vinicius/nova-ui](https://github.com/J-Vinicius/nova-ui) | Lua project | Runs in the browser with a free account | [guide](guides/j-vinicius/nova-ui.md) |
 <!-- latest:end -->
 
 ## How it works
